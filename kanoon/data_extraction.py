@@ -30,7 +30,7 @@ def extract_to_df(zip_folder, list_of_textfiles):
     count = 0
     for filename in list_of_textfiles:
         count += 1
-        # if count > 50:
+        # if count > 5:
         #     break
         with zip_folder.open(filename) as f:
             soup = BeautifulSoup(f, 'html.parser')
@@ -81,7 +81,6 @@ def extract_data(court, year_start=2000, year_end=2019):
             df_court_year = extract_to_df(zip_folder, list_of_textfiles)
             list_of_dfs.append(df_court_year)
     res_df = pd.concat(list_of_dfs).reset_index(drop=True)
-    # res_df.iloc[:, 6].to_pickle(court+'.pkl')
     return res_df
 
 
@@ -92,6 +91,7 @@ def extract_data(court, year_start=2000, year_end=2019):
 #         df = extract_to_df(zip_folder, list_of_textfiles)
 #         # df.to_csv(court+'.csv')
 #         return df
+
 
 
 
