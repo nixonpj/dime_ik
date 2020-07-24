@@ -34,6 +34,9 @@ def extract_to_df(zip_folder, list_of_textfiles):
         #     break
         with zip_folder.open(filename) as f:
             soup = BeautifulSoup(f, 'html.parser')
+            citation_banner = soup.find('div', 'doc_cite')
+            if citation_banner:
+                citation_banner.extract()
             text = soup.get_text().lower()
             files.append(filename)
             try:
