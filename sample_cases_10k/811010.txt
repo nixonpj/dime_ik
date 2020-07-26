@@ -1,0 +1,752 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Western U.P. Electric Power And ... vs State Of U.P. &amp; Ors on 23 February, 1968</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/811010/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 16 docs 
+      
+        - [<A HREF="/search/?formInput=cites:811010">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1210757/">The Insurance (Amendment) Act,   2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1139188/">Section 3 in The Indian Electricity Act, 1910</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/701121/">The Electricity (Supply) Act, 1948</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1952875/">Section 3(2) in The Electricity (Supply) Act, 1948</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/261195/">The Indian Electricity Act, 1910</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 27 docs
+      
+        - [<A HREF="/search/?formInput=citedby:811010">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/640950/">Western U.P. Electric Power &amp; ... vs State Of U.P. &amp; Anr on 7 March, 1969</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/888451/">Deena @ Deena Dayal Etc. Etc vs Union Of India And Others on 23 September, 1983</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/423824/">The Chairman vs S.Seshachalam on 17 July, 2009</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/894181/">Vijay Lakshmi vs Punjab University And Others on 23 September, 2003</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/42757113/">Unknown vs State Of Uttarakhand &amp; Ors Decided ... on 23 May, 2012</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/811010/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/811010/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/811010/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20act%20">electricity act </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%202%28e%29">section 2(e)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20supply%20act%201948">electricity supply act 1948</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=the%20electricity%20%28supply%29%20act%2C%201948">the electricity (supply) act, 1948</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=low%20what">low what</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhargava">bhargava</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20act%201910">electricity act 1910</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20act%201948">electricity act 1948</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20electricity%20act">indian electricity act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2026">section 26</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20consumed">electricity consumed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rana">rana</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trips">trips</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Supreme Court of India</div>
+<div class="doc_title">Western U.P. Electric Power And ... vs State Of U.P. &amp; Ors on 23 February, 1968</div><div class="doc_citations">Equivalent citations: 1968 AIR 1099, 1968 SCR  (3) 312</div>
+
+<div class="doc_author">Author: Shelat</div>
+
+<div class="doc_bench">Bench: Wanchoo, K.N. (Cj), Sikri, S.M., Shelat, J.M., Bhargava, Vishishtha, Vaidyialingam, C.A.</div>
+
+<pre id="pre_1">           PETITIONER:
+WESTERN U.P. ELECTRIC POWER AND SUPPLY CO.  LTD.
+
+	Vs.
+
+RESPONDENT:
+STATE OF U.P. &amp; ORS.
+
+DATE OF JUDGMENT:
+23/02/1968
+
+BENCH:
+SHELAT, J.M.
+BENCH:
+SHELAT, J.M.
+WANCHOO, K.N. (CJ)
+SIKRI, S.M.
+BHARGAVA, VISHISHTHA
+VAIDYIALINGAM, C.A.
+
+CITATION:
+ 1968 AIR 1099		  1968 SCR  (3) 312
+ CITATOR INFO :
+ R	    1970 SC  21	 (6,9)
+
+
+ACT:
+<a href="/doc/261195/" id="a_1">Indian	Electricity  Act</a>  (9  of  1910), <a href="/doc/16467/" id="a_2"> s.   3(2)(e)</a>-Board
+supplying energy to consumer at lower rate than to licensee,
+whether	 discriminatory-Notification  directing	 supply	  to
+consumer, requirements.
+
+
+
+HEADNOTE:
+The- petitioner company a licensee was supplying  electrical
+energy	to the 3rd respondent.	By the Electric	 Supply	 Act
+1948  the  Electricity Board was constituted and  by  Indian
+Electricity  (U.P.) <a href="/doc/1210757/" id="a_3">Amendment Act</a>, 1961, the  disability  of
+the Board to supply directly electrical energy to  consumers
+such   as  the	3rd  respondent	 was  removed.	 The   State
+Government  issued  a notification directing  the  Board  to
+directly  supply  energy to the 3rd respondent.	  The  rates
+chargeable  by	the Board for energy supplied  to  licensees
+were  higher than the rates the direct consumers.   The	 3rd
+respondent  terminated	the agreement  with  the  petitioner
+company.  The petitioner company filed a petition under <a href="/doc/981147/" id="a_4">Art.
+32</a> of the Constitution.
+HELD  :	 (Per Full Court) : The notification  could  not  be
+sustained as a valid notification as it was  discriminatory.
+If  the	 Board	were to supply energy directly	to  the	 3rd
+respondent it had to do so at rates lower than the rates  at
+which  electricity  was	 supplied by it	 to  the  petitioner
+company' The petitioner-company being thus charged at higher
+rates  must  as a distributor charge higher rates  from	 its
+other  consumers  with the result that	the  3rd  respondent
+would  get  energy at substantially lower rates	 than  other
+Consumers  including other industrial establishments in	 the
+area.	The  notification thus	resulted  in  discrimination
+between	 the  3rd  respondent  on the  one  hand  the  other
+consumers  on the other as also between the, 3rd  respondent
+and the petitioner company. [319 B-D]
+(Per Wanchoo C.J., Sikri, Shelat and Vaidialingam, JJ.). The
+Board  ,could not have distributed energy to  the  consumers
+though it was a licensee under 1910 Act unless (a) there was
+a  scheme or (b) that it was authorised in  public  interest
+under  the  amended <a href="/doc/16467/" id="a_5"> s.	 3(2)(e)</a>.   Neither  of	 these	 two
+,conditions having been fulffilled the notification and	 the
+direction contained therein to the Board to supply energy to
+the  3rd  respondent  were  in	breach	of  the	 petitioner-
+company's rights under its licences and the, requirements of
+the amended<a href="/doc/1139188/" id="a_6"> s. 3</a> (2) (a). [3 1 8 H]
+The   allegation  that	the-  3rd  respondent  suffered	  in
+production  and	 losses as a result of	short  or  defective
+supply	by the petitioner-company was not borne out  by	 the
+record in this case. if there was any justification for	 the
+allegation  now made by the respondents it is  inconceivable
+that  for all these years the 3rd respondent would not	have
+made  any complaint for such defective supply either to	 the
+Board or to the State Government.
+(Per  Bhargava, J.) The notification cannot be held  to	 be-
+invalid	 on the ground that it was issued in breach  of	 the
+amended<a href="/doc/1139188/" id="a_7"> s. 3</a> (e) of the Act.
+If the State Government was competent under the original <a href="/doc/1139188/" id="a_8"> s.
+3</a>  (2)	(e)  of the Act of 1910 to grant a  licence  to	 any
+person for supply of electricity
+313
+in  the	 areas	covered	 by  the,  licences  issued  to	 the
+petitioner-company , it cannot be seen why a similar  result
+could  not  be validly brought about by legislation  by	 the
+appropriate  legislatures creating a statutory licensee	 for
+purposes of the Act of 1910.  Consequently the power granted
+to  the	 Electricity  Board by the  notification  to  supply
+electricity to a consumer in the area covered by one of	 the
+licences  of the petitioner-company could not be held to  be
+in violation of the conditions of the licence.
+In  view of the language of the provisions contained in	 the
+amended	 3 (2) (e) of the Act of 1910, it was not  competent
+for  this  Court  in this writ	petition,  on  the  material
+available, to declare that the notification was invalid	 for
+the reason that the direction contained therein was not made
+by  the State Government in public interests As long as	 the
+State  Government  based its order on an opinion  formed  on
+relevant material, it was not open to the courts to  examine
+and take a different view on the, basis of other  materials.
+[320 G-321 B]
+
+
+
+JUDGMENT:
+</pre><p id="p_1">ORIGINAL JURISDICTION: Writ Petition No. 151 of 1967.
+Petition under <a href="/doc/981147/" id="a_9">Art. 32</a> of the Constitution of India for	 the
+enforcement of fundamental rights.
+</p><p id="p_2">M.   C. Chagla and Mohan Behari Lal, for the petitioner.
+S.   T. Desai and O. P. Rana, for respondent No. 1.
+C.   B. Agarwala and O. P. Rana, for respondent No. 2.
+O.   P. Rana, for respondent No. 3.
+</p><p id="p_3">P.   M.	 Mukhi,	 Bishamber  Lal	 and H.	 K.  Puri,  for	 the
+intervener.
+</p><p id="p_4">The   Judgment	 of  WANCHOO,  C.J.,   SIKRI,	SHELAT	 and
+VAIDIALINGAM, JJ. was delivered by SHELAT, J. BHARGAVA,	 J.,
+delivered a separate opinion.
+</p><p id="p_5">Shelat, J. On August 17, 1934 the Governor-in-Council of the
+then United Provinces, in exercise of powers under<a href="/doc/1139188/" id="a_10"> s. 3</a>	 (1)
+of  the	 <a href="/doc/261195/" id="a_11">Indian	 Electricity Act</a>, IX of	 1910  issued  three
+licences  to M/s.  Alopi Parshad &amp; Sons Ltd. for the  supply
+of electrical energy within the tahsil areas of Firozabad in
+the  district of Agra Shikohabad in the district of  Manipur
+and  Etawah in the district of Etawah.	The  licences  inter
+alia provided that the licensee would be supplied electrical
+energy in bulk by the Public Works Department, U.P. and	 the
+licensee  in  its-turn should transmit the same on  its	 own
+high  tension mains within the areas of the  licences.	 The
+licences  also	provided  that the  responsibility  for	 the
+maintenance   of   supply  of  electrical  energy   in	 the
+licensee's,  plant  shall be borne entirely  by	 the  Public
+Works  Department and thereafter by the licensee.   In	1937
+the  licences were assigned by the said M/s.  Alopi  Parshad
+and Sons Ltd. to the petitioner company with the consent  of
+the Government.	 The petitioner company has since then	been
+supplying  under the said licences electricity to  consumers
+within the said areas of the licences.	It is an admitted
+<span class="hidden_text" id="span_1">314</span>
+position  that	though the petitioner company had  the	said
+licences assigned to it it did not acquire any exclusive  or
+monopolistic right of supplying electrical energy within the
+said  areas.   Clause  (e) of sec. 3(2) of  1910  Act  which
+governed  the  said licences provides that the	grant  of  a
+licence	 thereunder shall not in any way hinder or  restrict
+the  grant  of a licence to another person within  the	same
+area of supply for a like purpose.
+</p><p id="p_6"><a href="/doc/701121/" id="a_12">The  Electricity  (Supply)  Act</a>, LIV  of  1948	(hereinafter
+referred to as 1948 Act) by sec. 5(1) enjoins upon the State
+Government  to constitute a State Electricity  Board.	Sec.
+19(1) provides that the Board may, subject to the provisions
+of  this Act, supply electricity to any licensee  or  person
+requiring  such	 supply	 in  any  area	in  which  a  scheme
+sanctioned under Chapter V is in force.	 The proviso to Sec.
+19(1), however, lays down that the Board shall not :-
+</p><blockquote id="blockquote_1">	      "(b) supply electricity for any purpose to any
+	      person,  not being a licensee for use  in	 any
+	      part  of	the  area of  supply  of  a  licence
+	      without  the consent of the  licensee,  unless
+	      the  maximum demand of the licensee,  being  a
+	      distributing  licensee and taking a supply  of
+	      energy in bulk is, at the time of the request,
+	      less  than twice the maximum demand asked	 for
+	      by any such person; or the licensee is  unable
+	      or  unwilling to supply electricity  for	such
+	      purpose  in  the	said part of  such  area  on
+	      reasonable  terms and conditions and within  a
+	      reasonable time."
+</blockquote><blockquote id="blockquote_2">	      <a href="/doc/1071792/" id="a_13">Section 26</a> provides that
+	      "Subject	to the provisions of this  Act,	 the
+	      Board  shall, in respect of the  whole  State,
+	      have  all	 the  powers and  obligations  of  a
+	      licenses,	 under the <a href="/doc/261195/" id="a_14">Indian  Electricity	Act</a>,
+	      1910,  and this Act shall-be deemed to be	 the
+	      licence of the Board for the purposes of	that
+	      Act."
+</blockquote><p id="p_7">The  definition	 of  a	licensee in<a href="/doc/938893/" id="a_15"> s.	2(6)</a>  of  1948	Act,
+however, states that it would not include the Board.  Though
+the Board is not a licensee for the purposes of the 1948 Act
+the  Act being deemed to be the licence for the Board  under
+Sec.  26  it  is a licensee under the  1910  Act.   Sec.  26
+however is subject to the provisions of the Act which  means
+that it is inter alia subject to the provisions of sec.	 19.
+Therefore,  in the absence of a scheme under Chapter V,	 the
+Board,	though	a  licensee  under the	1910  Act,  was	 not
+competent to supply directly electrical energy to  consumers
+such  as  the 3rd respondent.  This was the  position  until
+1961, When the U.P. legislature to remove this disability of
+the  Board, passed the Indian Electricity  (U.P.)  <a href="/doc/1210757/" id="a_16">Amendment
+Act</a>,   XXX  of	1961.	<a href="/doc/1360825/" id="a_17">Section	 2</a>  of	the  Amendment	 Act
+substituted  the following, for cl. (e) of sec. 3(2) of	 the
+1910 Act:
+</p><span class="hidden_text" id="span_2">315</span>
+<blockquote id="blockquote_3">	      "(e)  grant of a licence under this  Part	 for
+	      any  purpose  shall not in any way  hinder  or
+	      restrict-
+</blockquote><blockquote id="blockquote_4">	      (i)   the	 grant of licence to another  person
+	      within  the  same area of supply	for  a	like
+	      purpose; or
+</blockquote><blockquote id="blockquote_5">	      (ii)  the	 supply	 of  energy  by	 the   State
+	      Government  or  the  State  Electricity  Board
+	      wihin   the   same  area,	 where	 the   State
+	      Government  deems	 such  supply  necessary  in
+	      public interest."
+</blockquote><blockquote id="blockquote_6">	      It also added after sub-sec. 2, the  following
+	      sub-sec. 3:
+</blockquote><blockquote id="blockquote_7">	      "(3) Where the supply of energy in any area of
+	      the   State   Electricity	 Board	 is   deemed
+	      necessary	 under subclause (ii) of clause	 (e)
+	      of sub-section (2), the Board may, subject  to
+	      any terms and conditions that may be laid down
+	      by the State Government, supply energy in that
+	      area notwithstanding anything to the  contrary
+	      contained	 in  this  Act	or  the	 <a href="/doc/701121/" id="a_18">Electricity
+	      Supply Act</a>, 1948."
+</blockquote><blockquote id="blockquote_8">	      Sec.  3 of the <a href="/doc/1210757/" id="a_19">Amendment Act</a> also added a	 new
+	      sub-sec.	(1-B)  in sec. 28 of the  1910	Act.
+	      The new sub-section reads as under:--
+	      "(1-B).	  The	 State	  Government	 may
+	      notwithstanding that sanction for engaging  in
+	      the  business  of	 supplying  energy  to	 the
+	      consumer	in  an area has been  given  to	 any
+	      person  under sub-section (1), whether  before
+	      or  after	 coming	 into force  of	 the  Indian
+	      Electricity (U.P. Sanshodhan) Adhiniyam, 1961,
+	      give  direct  supply, or authorise  the  State
+	      Electricity  Board to give direct	 supply,  in
+	      the same area."
+</blockquote><p id="p_8">This sub-section has no application to the licensees for, it
+empowers  the State Government either to supply directly  or
+authorise  the	Board to directly supply energy even  in  an
+area for which it has given sanction to a person other	than
+a licensee to engage in the business of supplying energy  to
+the public in such area.
+</p><p id="p_9">A perusal of these provisions makes it clear that the  Board
+can  directly  supply electricity to the consumers  and	 the
+State  Government  also	 can authorise the Board  to  do  so
+provided  the State Government deems it necessary in  public
+interest that it should be so done.  The condition precedent
+for  the direct supply by the Board to the consumers in	 the
+area where a licence has been granted to a licensee is	that
+such  supply  by the Board must be deemed necessary  by	 the
+State Government in public interest.
+</p><p id="p_10">In pursuance of the powers under sees. 46 and 49 of the 1948
+Act, the Board by a notification dated April 24, 1962  fixed
+the  rates and tariffs for electrical energy for the  Ganga-
+Sarda
+<span class="hidden_text" id="span_3">316</span>
+Grid.	These were to apply to both the licensees  obtaining
+bulk  supply  from  the	 Board	and  to	 consumers  to	whom
+electrical energy was being supplied direct by the Board  in
+the  area  covered  by the said Grid.	According  to  these
+rates,	consumers  to  whom  electrical	 energy	 was   being
+supplied  direct by the Board would pay a demand  charge  at
+the rate of Rs. 8/- per KVA and on energy charge at the rate
+of 4.5nP per KWH for the first 170 KWH per KVA, at the	rate
+of 3.5nP for the next 170 KWH per KVA and at the rate of 3.0
+nP per KWH for the remaining KVA consumed during the  month.
+For the licensees, the rates were Rs. 12.75 per KVA for	 the
+demand charge for the first 500 KVA, Rs. 10 per KVA for	 the
+next 1500 KVA and Rs. 8.50 per KVA for above 2000 KVA of the
+chargeable demand during the month.  For energy charge,	 the
+rates  were 5 nP per KWH for the first 170 KVM per KVA,	 4nP
+per KWH for the next 170 KWH per KVA and 3nP per KWH for the
+remaining  KWH per KVA of chargeable demand consumed  during
+the  month.  The rates chargeable from licensees  were	thus
+higher	than  those  applicable to  the	 consumers  both  in
+respect	 of demand and energy charges even though  licensees
+would be larger customs who in the normal course of business
+would  be  charged  lower rates	 than  the  consumers.	 The
+notification is not under challenge before us and- therefore
+it is not necessary for us to consider its validity.
+As the Board was not yet authorised by the State  Government
+to  supply electricity directly to the consumers within	 the
+areas	of  the	 petitioner  company's	licences   the	 3rd
+respondent entered into an agreement in 1964 for a period of
+3  years  under which the petitioner company was  to  supply
+electricity  to	 it.   On  September  21,  1966	 the   State
+Government  issued  a  notification which  stated  that	 the
+Governor  deemed  it necessary in public interest  that	 the
+State  should  supply energy to the 3rd	 respondent  and  in
+exercise  of the power under sec. 3 (2) (e) of the 1910	 Act
+as  amended  by Act XXX of 1961 directed the Board  to	give
+direct	supply of energy to the 3rd respondent on the-	same
+terms and conditions on which the Board was supplying energy
+I  to other consumers.	Thereupon the 3rd respondent by	 its
+notice dated January 19, 1967 terminated the said agreement.
+It seems that the Board was still not ready to supply energy
+direct	to  the 3rd respondent and therefore  on  April	 18,
+1967,  only  one day before the said  agreement	 would	have
+ended, the 3rd respondent withdrew the said notice.  On June
+23  1967, the 3rd respondent, however, gave a  fresh  notice
+terminating  the said agreement as from September 23,  1967.
+The result of the notification dated September 21, 1966	 was
+two-fold  : (1) that notwithstanding the subsistence of	 the
+petitioner  company's licences and its right  thereunder  to
+supply energy to consumers within the areas of its licences,
+the Board
+<span class="hidden_text" id="span_4">317</span>
+was directed to supply energy to the 3rd respondent and	 (2)
+that  the  Board was directed to supply energy	to  the	 3rd
+respondent at rates lower than the rate charged by the Board
+from the petitioner company as the licensee.
+Mr.  Chagla appearing for the petitioner company raised	 the
+following three contentions :
+</p><p id="p_11">(  1  ) that the amended sec. 3 (2) (e) was invalid  on	 the
+ground	that  it amounted to acquisition of  the  petitioner
+company's property and as no compensation has been  provided
+for such acquisition cl. (e) of<a href="/doc/1063385/" id="a_20"> s. 3</a> (2) was in violation of
+<a href="/doc/354224/" id="a_21">Art. 31(2)</a> of the Constitution;
+</p><p id="p_12">(2)  that  the	notification dated September  21,  1966	 was
+ultra  vires  sec. 3 (2) (e) as the direction by  the  State
+Government  to the Board to supply electricity	directly  to
+the 3rd respondent was not founded on public interest; and
+(3)  that the said direction to supply electricity at rates-
+chargeable   from  the	consumers  as  against	 the   rates
+chargeable to the licensees was discriminatory.
+The  respondents, on the other hand, contended that the	 3rd
+respondent  was	 a concern in which the	 Government  has  an
+interest  to the extent of 51 % of its share  capital,	that
+therefore,  it	was almost a public  utility  concern,	that
+supply	by the petitioner company to the 3rd respondent	 was
+found  to  be defective resulting in lay off  of  labour  on
+several occasions and consequent loss in production and that
+therefore the Government was justified in public interest to
+issue	the   said  notification.   In	support	  of   these
+allegations  the  respondents  filed an	 annexure  to  their
+counter	 affidavit  showing  low voltage  and  high  tension
+trippings during the months of April, May and June 1966.  It
+was alleged that owing to defective and short supply by	 the
+petitioner  company  there Were high  tension  trappings  on
+numerous occasions resulting in low voltage, the consequence
+Whereof was that the 3rd respondent was obliged to stop	 the
+working	 of  the  Mills sometimes for  several	hours.	 The
+petitioner   company's	 case,	however,  was	that   these
+allegations were an afterthought and that the real object in
+issuing	 the  notification dated September 21, 1966  was  to
+subvert	 the  petitioner  company's rights  under  the	said
+licences.
+</p><p id="p_13">We are inclined to think that there is considerable force in
+the  contention	 of  the  petitioner  company.	 Though	 the
+allegation  was	 that  supply of energy	 by  the  petitioner
+company	 to  the 3rd respondent suffered from  shortage	 and
+other  defects the 3rd respondent does not seem to  have  at
+any  time made any complaint about such shortage or  defects
+either	to the petitioner company or to the Board or to	 the
+State Government.  Similarly, the Board also does
+<span class="hidden_text" id="span_5">318</span>
+not  seem to have at any time complained to  the  petitioner
+company	  about	 such  defective  supply.   Even  when	 the
+petitioner company, after the said notification was  issued,
+made a representation to the State Government to  reconsider
+its  decision  the Government did not, while  rejecting	 it,
+rely upon the fact that the petitioner company was not in  a
+position to give full and proper supply of energy to the 3rd
+respondent  or that supply by it was, as now alleged,  short
+or defective.  It is an undisputed fact that the  petitioner
+company	 has been throughout all these years supplying	high
+tension energy to the 3rd respondent and the 3rd  respondent
+has  been  converting  such high  tension  energy  into	 low
+tension energy through its own transformers.  The  aforesaid
+annexure  shows that though the high tension trippings	were
+only for a few minutes except on three or four occasions low
+voltage	 was for several hours.	 In some cases though  there
+was no tripping at all there was low voltage for as long  as
+sixteen hours.	It is clear, therefore, that the  petitioner
+company	 had  no difficulty in maintaining  supply  of	high
+tension	 electrical energy to the 3rd respondent  and  there
+must  have been some defect in the stepping down system	 of.
+the  3rd  respondent  resulting	 in  low  voltage.   It	  is
+impossible   thus  to  find  from  the	annexure  that	 the
+petitioner  company was guilty in any manner of shortage  or
+defective   supply  of	high  tension  energy  to  the	 3rd
+respondent.    The   allegation	 therefore  that   the	 3rd
+respondent suffered in production and losses as a result  of
+short  or defective supply by the petitioner company is	 not
+borne  out  by the record in this case.	 If  there  was	 any
+justification for the allegation now made by the respondents
+it  is	inconceivable  that  for all  these  years  the	 3rd
+respondent  would  not	have made  any	complaint  for	such
+defective  supply  either  to  the Board  or  to  the  State
+Government.
+</p><p id="p_14">It  is certain that but for the amendment of sec. 3 (2)	 (e)
+of  1910 Act, the Board, though a licensee under  that	Act,
+could	not  have  supplied  energy  directly  to  the	 3rd
+respondent in the absence of a scheme under sec. 19 of	1948
+Act.  Under the proviso to that section the Board would	 not
+have  been entitled to supply energy for any purpose to	 any
+person not being a licensee for use in any part of the	area
+of  supply  of	a  licensee  without  the  consent  of	such
+licensee.  It is true that under its licences the petitioner
+company	 was  not conferred monopolistic  rights  to  supply
+energy	to  the	 consumers and	the  Government	 could	have
+granted	 another  licence  to  another	licensee.   But	 the
+Government has not granted such licence to any other person.
+But  it was said that the Board was another  such  licensee.
+As  already  stated  the Board could  not  have	 distributed
+energy	to the consumers though it is a licensee under	1910
+Act  unless  (a)  there	 was a scheme or  (b)  that  it	 was
+authorised  in public interest under the amended sec. 3	 (2)
+</p><p id="p_15">(e).  Neither of these two conditions having been  fulfilled
+it
+<span class="hidden_text" id="span_6">319</span>
+is clear that the notification of September 21, 1966 and the
+direction contained therein to the Board to supply energy to
+the  3rd  respondent  were  in	breach	of  the	  petitioner
+company's rights under its licences and the requirements  of
+the amended sec. 3 (2) (e).
+</p><p id="p_16">Apart from its being in breach of the amended sec. 3 (2) (e)
+and the petitioner company's rights under its licences,	 the
+notification  and  the Government's direct on to  the  Board
+therein results in clear discrimination.  If the Board	were
+to supply energy directly to the 3rd respondent it has to do
+so  at	rates lower than the rates at which  electricity  is
+supplied  by it to the petitioner company.   The  petitioner
+company	 being	thus  charged  at higher  rates	 must  as  a
+distributor  charge  hi-her rates from its  other  consumers
+with the result that the 3rd respondent would get energy  at
+substantially  lower  rates than other	consumers  including
+other	industrial   establishments  in	  the	area.	 The
+notification thus results in discrimination between the	 3rd
+respondent  on the one hand and the other consumers  on	 the
+other as also between the 3rd respondent and the  petitioner
+company.
+</p><p id="p_17">It follows therefore that the notification of September	 21,
+1966  cannot be sustained as a valid notification as  it  is
+discriminatory	and is also in breach of the amended sec.  3
+(2) (e) of 1910 Act.  In that view the Board is not entitled
+to supply directly electricity to the 3rd respondent as	 the
+direction  contained in the said notification which  is	 the
+only authority under which it could so supply is invalid  in
+law.  In this view, it is not necessary for us to decide the
+question  whether  the	amended sec. 3 (2)  (e)	 amounts  to
+acquisition and whether such acquisition is in violation  of
+<a href="/doc/354224/" id="a_22">Art.  31</a> of the Constitution.  The said	 notification  being
+thus invalid respondents 1 and 2 are directed not to, supply
+electrical  energy  directly  to the  3rd  respondent.	 The
+respondents will pay to the petitioner company the costs  of
+this petition.
+</p><p id="p_18">Bhargava,  J.  I agree with my brother Shelat  J.  that	 the
+notification of September 21, 1966 cannot be sustained as  a
+valid	notification  because  it  is	discriminatory	 and
+consequently  I concur in the order proposed by him.  I	 am,
+however, not prepared to hold that that notification is also
+invalid,   on  the  other  two	grounds,  viz.,	  that	 the
+notification  and  the directions contained  therein  to  he
+Electricity  Board to supply energy to the third  respondent
+were in breach of the petitioner Company's rights under	 its
+licence and of The requirements of the amended <a href="/doc/1063385/" id="a_23">section 3</a> (a)
+</p><p id="p_19">(e).  I may briefly indicate the reasons for my view.
+It  is	admitted on all hands that under its  licences,	 the
+petitioner company was not conferred monopolistic rights  to
+supply energy
+<span class="hidden_text" id="span_7">320</span>
+to  the	 consumers in the area covered by the  licences	 and
+that  Government  could	 have  granted	another	 licence  to
+another licensee to supply energy in the same areas  without
+violating any provision of the <a href="/doc/132967048/" id="a_24">Electricity Act</a> of 1910 or of
+the  conditions	 or  which  licences  were  granted  to	 the
+petitioner Company.  It in true that the Government has	 not
+granted	 any  such licences to any other person but,  in  my
+opinion the effect of the subsequent legislation is to bring
+into   existence  another  statutory  licencee	 viz.,	 the
+Electricity  Board and any directions permitting  the  Elec-
+tricity Board to supply electricity in the areas covered  by
+the  petitioner Company's licences cannot be held to  be  in
+violation  of  the  conditions of those	 licences.   By	 the
+Electric  Supply  Act  1948, the Board	'was  constituted  a
+licensee for purposes of the <a href="/doc/132967048/" id="a_25">Electricity Act</a> of 1910, though
+<a href="/doc/1210757/" id="a_26">section	 26</a>, which brought about this result, provided	that
+in that capacity, the Board was subject to other  provisions
+of  the	 Electric Supply Act 1948.  One	 such  provision  is
+contained  in <a href="/doc/1210757/" id="a_27"> s.  19(1)</a>  of the  Act  of  1948.   The	U.P.
+Electricity  Amendment Act 1961, however, introduced  provi-
+sions  in the Act of 1910 the result of which was  that	 the
+Board, in acting as a licensee under the Act of 1910, was no
+longer	subject to the limitation laid down in<a href="/doc/1210757/" id="a_28"> s.  19(1)</a>  of
+the Act of 1948.  It has not been contended that either	 the
+<a href="/doc/701121/" id="a_29">Supply Act</a> of 1948 or 'the U.P. Electricity Amendment Act of
+1961   was  not	 competently  enacted  by  the	 appropriate
+legislature.  <a href="/doc/701121/" id="a_30">The Supply Act</a> of 1948 was no doubt passed  by
+the  Central Legislature in respect of a concurrent  subject
+but the U.P. Electricity Amendment Act of 1961 was  reserved
+for  the  assent of the President and, having  received	 the
+assent	of the President, the provisions of that  Act  would
+prevail to the extent to which they may be inconsistent with
+the,  <a href="/doc/110162683/" id="a_31">Central Act</a> of 1948.  The result of  that	 legislation
+was  that the Electricity Board became a licensee under	 the
+<a href="/doc/132967048/" id="a_32">Electricity  Act</a>  of 1910 and was no longer subject  to	 the
+limitation  laid down in<a href="/doc/1711355/" id="a_33"> s. 19(1)</a> of the Electricity  Supply
+Act of 1948.  The only limitation after the enactment of the
+U.P.  Electricity Amendment Act 1961 that remained was	that
+the  Board  could supply electricity only after	 the  Stat--
+Government  issued a valid notification under clause (e)  of
+<a href="/doc/1952875/" id="a_34">section	 3(2)</a> of the Act of 1910.  If the  State  Government
+was competent under the original <a href="/doc/1952875/" id="a_35">section 3(2)</a> (e) of the Act
+of  1910  to  grant a licence to any person  for  supply  of
+electricity  in the areas covered by the licences issued  to
+the  petitioner Company, I do not see why v  similar  result
+could  not be validly brought about by legislation,  by	 the
+appropriate  legislatures creating a statutory licensee	 for
+purposes  of  the  Act of  1910.   Consequently,  the  power
+granted	 to  the Electricity Board by  the  notification  of
+September  21, 1966 to supply electricity to a	consumer  in
+the  area covered by one of the licences of  "he  petitioner
+Company cannot be, held to be in violation of the conditions
+of the licence.
+</p><span class="hidden_text" id="span_8">321</span>
+<p id="p_20">I  further considered that, in view of the language  of	 the
+provisions contained in the amended <a href="/doc/1952875/" id="a_36">section 3(2)</a> (e) of	 the
+Act of 1910, it is not competent for this Court in this writ
+petition,  on  the material available, to declare  that	 the
+notification  of September 21, 1966 is invalid	because	 the
+direction  contained  therein  was not	made  by  the  State
+Government in public interest.	The power under the  amended
+<a href="/doc/1526580/" id="a_37">section	 3</a> (2) (e) is to be exercised when Government  deems
+it  necessary in public interest.  The notification, on	 the
+face  of it, shows that the State Government did  apply	 its
+mind  before issuing that notification and form the  opinion
+that  in  this particular case it was  necessary  in  public
+interest  that	the  Board  should  be	directed  to  supply
+electricity  to respondent No. 3 in the area covered by	 one
+of the licences of the petitioner Company.  The opinion	 was
+formed by the.	State Government on material which I do	 not
+think  can be said to be totally irrelevant for the  purpose
+of  forming such opinion.  As long as the  State  Government
+based  its order on an opinion formed on relevant  material,
+it is not open to the courts to examine and take a different
+view-  on  the	basis  of other material  such	as  want  of
+complaints  by respondent No. 3 to the Government  that	 the
+supply	 of  energy  by	 the  petitioner  Company  was	 not
+satisfactory.  It is not for courts to sit in judgment	over
+the view of the State Government which the State  Government
+is  required  to form in order to make an  order  under	 the
+amended <a href="/doc/1526580/" id="a_38">section 3</a> (2) (e).  Consequently, I cannot hold that
+the  notification of September 21, 1966 was invalid  on	 the
+ground	that it was issued in breach of the amended  <a href="/doc/1952875/" id="a_39">section
+3(2)</a> (e) of the Act of 1910.
+</p><pre id="pre_2">Y.P.		      Petition allowed.,
+<span class="hidden_text" id="span_9">322</span>
+
+
+
+</pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

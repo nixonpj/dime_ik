@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Satya @ Satyaprakash @ Pradeep And ... vs State Of Chhattisgarh on 11 May, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/53150538/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:53150538">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/329571/">Section 392 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/140515/">Section 313 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/447673/">Section 161 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1865117/">Section 397 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/53150538/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/53150538/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/53150538/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Chattisgarh High Court</div>
+<div class="doc_title">Satya @ Satyaprakash @ Pradeep And ... vs State Of Chhattisgarh on 11 May, 2015</div><pre id="pre_1">                                      -1-
+
+
+
+
+                                                                        AFR
+          HIGH COURT OF CHHATTISGARH, BILASPUR
+                            CRA No. 710 of 2012
+1.     Satya @ Satyaprakash @ Pradeep S/o Jayram Dhrutlahare, aged
+       about 25 years, R/o Kaneri , P.S. Chakarbhata, Distt. Bilaspur C.G.
+2.    Manjeet @ Kallu S/o Soman aged about 19 years, R/o Devari , P.S.
+      Chakarbhata , Distt. Bilaspur C.G.
+                                                               ---- Appellants
+                                   Versus
+1.    State Of Chhattisgarh through - P.S. Balouda Bazar , Distt. Raipur (now
+      Baloudabazar - Bhatapara) C.G.
+                                                             ---- Respondent</pre>
+
+
+<p id="p_1">For Appellants - Praveen Kumar Tulsyan, Advocate.
+</p><p id="p_2">For Respondent - Shri Arvind Shukla, Panel Lawyer.
+</p>
+<p id="p_3">
+</p><p id="p_4">              Hon'ble Shri Justice Chandra Bhushan Bajpai
+
+                              Order On Board
+11/05/2015
+
+
+</p><p id="p_5">1.    Challenge in this appeal is to the judgment of conviction and order of
+
+sentence dated 24-05-2012 passed by the First Additional Sessions Judge,
+
+Balodabazar, C.G., in Sessions Trial No.03/2011 whereby and whereunder the
+
+trial Judge after holding the appellants guilty for robbery and at the time of
+
+attempting robbery armed with deadly weapon firearm, convicted them under
+
+<a href="/doc/329571/" id="a_1">Section 392</a> of the Indian Penal Code (in short 'the <a href="/doc/1569253/" id="a_2">IPC</a>') and sentenced them
+
+rigorous imprisonment for 7 years and to pay fine of Rs.200/-, in default of
+
+payment of fine, to further undergo rigorous imprisonment for one month to
+
+each appellants.
+</p>
+<p id="p_6">2.    Conviction is impugned on the ground that without there being any iota
+
+of evidence, the Court below has convicted and sentenced the appellants as
+
+aforementioned and thereby committed illegality.
+</p><span class="hidden_text" id="span_1">                                        -2-</span><p id="p_7">
+
+
+
+
+</p><p id="p_8">3.    As per the case of the prosecution, on 26-06-2008, at about 9.00 p.m.,
+
+when Anand Gupta (PW-8) was returning to Balodabazar from village Sonadih
+
+via Latua, three persons in a motorcycle made overtake and when the
+
+motorcycle of the complainant got fell down being slipped in the mud, appellant
+
+Satya @ Satyaprakash @ Pradeep (A-1) and other two persons looted him, his
+
+mobile phone and Rs.400/- and also his motorcycle CG 04 CD 0943 and ran
+
+away from the spot. After the incident, Anand Gupta (PW-8)/the complainant,
+
+lodged the First Information Report before Balodabazar police. Police
+
+registered the FIR (Ex.-P/10) vide registering the crime number against the
+
+persons who committed the robbery and started investigation. During the
+
+investigation, appellant Manjeet @ Kallu (A-2) gave disclosure statement (Ex.-
+
+P/1). Appellant Satya @ Satyaprakash @ Pradeep (A-1) gave disclosure
+
+statement Ex.-P/2. The looted motorcycle was duly recovered in abandoned
+
+condition. Police arrested both the appellants vide Ex.-P/8 and Ex.-P/9.
+
+Executive Magistrate conducted the test identification parade of both the
+
+appellants. The complainant identified both the appellants during the test
+
+identification parade. The spot map was prepared vide Ex.-P/11. The
+
+statements of the witnesses were recorded under <a href="/doc/447673/" id="a_3">Section 161</a> of the Code of
+
+Criminal Procedure, 1973 (in short 'the Code'). After completion of the
+
+investigation, charge sheet was filed before the Judicial Magistrate First Class,
+
+Balodabazar, who, in turn, committed the case to the Court of Sessions,
+
+Raipur, the learned First Additional Sessions Judge, Balodabazar received the
+
+case on transfer and conducted the trial. During the trial, the appellants were
+
+charged for the offence under <a href="/doc/1865117/" id="a_4">Sections 397</a>, <a href="/doc/835557/" id="a_5">398</a> of the IPC. Both the
+
+appellants denied the charges and prayed for trial.
+</p>
+<p id="p_9">4.    In order to prove the guilt of the appellants, the prosecution examined
+
+10 witnesses in all. The statements of the appellants were recorded under
+<span class="hidden_text" id="span_2">                                         -3-</span>
+
+
+
+
+<a href="/doc/140515/" id="a_6">Section 313</a> of the Code wherein they denied the circumstances appearing
+
+against them and pleaded innocence and false implication in crime in question.
+
+</p><p id="p_10">5.     After affording opportunity of hearing to the parties, the learned trial
+
+Court convicted and sentenced the appellants as aforementioned.
+
+</p><p id="p_11">6.     I have heard learned counsel for the parties and perused the judgment
+
+impugned and record of the trial Court.
+</p>
+<p id="p_12">7.     Learned counsel appearing for the appellants submitted that they are
+
+not contesting the instant appeal for the point of conviction, instead they are
+
+assailing the quantum of sentence awarded by the trial Court to the appellants.
+
+Learned counsel further submitted that as per certificate of detention issued by
+
+the trial Court affixed along with the judgment of the trial Court, appellant Satya
+
+@ Satyaprakash @ Pradeep (A-1) served the major part of the sentence. He
+
+remained in custody from 02-02-2009 to 22-06-2009 and thereafter from 28-
+
+11-2009 to till date, thereby he has completed his detention period of 5 years
+
+10 months and 3 days in all. Appellant Manjeet @ Kallu (A-2) remained in
+
+custody for serving the major part of the sentence from 02-02-2009 to till date,
+
+this appellant remained in custody for 6 years 3 months and 9 days. Both the
+
+appellants were of the age of 25 years and 19 years respectively. They were
+
+the first offender with no criminal past. They will not commit any offence in
+
+future. They may be given an opportunity to remain in society without
+
+committing any crime. Though in arrest memo Ex.-P/8 and Ex.-P/9 in para 12
+
+for every part police gave positive report but to substantiate police had not
+
+annexed any document regarding the previous conduct. Hence, as arrest
+
+memo says regarding the conduct and previous criminal record but to prove no
+
+document is filed along with the charge sheet. There is no minimum sentence
+
+provided for offence under <a href="/doc/329571/" id="a_7">Section 392</a> of the IPC. No any revolver/firearm was
+<span class="hidden_text" id="span_3">                                        -4-</span>
+
+
+
+
+seized from their possession. They may be sentenced for the period already
+
+undergone by them.
+</p>
+<p id="p_13">8.     Per contra, learned counsel appearing on behalf of the State/respondent
+
+opposed the argument advanced on behalf of the appellants and submitted
+
+that at about 9.00 p.m. the appellants looted the motorcycle, Rs.400/- and one
+
+mobile after being armed with deadly weapon. Looking to the conduct and act,
+
+there is no scope for reduction of the sentence. Hence, the prayer may be
+
+dismissed and the judgment of conviction and sentence may be affirmed.
+
+</p><p id="p_14">9.     In order to appreciate the arguments advanced on behalf of the parties,
+
+I have perused the evidence adduced by the prosecution.
+
+</p><p id="p_15">10.    As the appellants are not contesting this criminal appeal regarding their
+
+conviction part, even otherwise, the complainant vide test identification parade
+
+(Ex.-P/7) duly identified both the appellants and he is corroborated by the
+
+Executing Magistrate who conducted the test identification parade, the FIR was
+
+lodged within time, there is no reason to have any doubt over the test
+
+identification parade and in the entire statement made by complainant Anand
+
+Gupta (PW-8) before the Court, in view of this Court, the trial Court was very
+
+right to hold guilty both the appellants for offence under <a href="/doc/329571/" id="a_8">Section 392</a> of the IPC,
+
+thus, there is no scope for any interference with the conviction part awarded by
+
+the trial Court.
+</p>
+<p id="p_16">11.    So far as the fine sentence is concerned, the appellants are sentenced
+
+to pay fine of Rs.200/- and in default of payment of fine, to further undergo
+
+rigorous imprisonment for one month. Looking to the act, the fine sentence
+
+may not held as excessive. Hence, the fine sentence awarded by the trial
+
+Court against both the appellants also requires no interference.
+
+</p><p id="p_17">12.    So far as the prayer made for the quantum of sentence is concerned,
+
+the motorcycle looted from the complainant was not recovered from the
+<span class="hidden_text" id="span_4">                                                  -5-</span>
+
+
+
+
+        custody of both the appellants, also no other property was recovered from the
+
+        appellants, motorcycle in question was seized from other place, alleged firearm
+
+        was also not recovered from the appellants, both the appellants were of 25 and
+
+        19 years of age at the time of the incident, no any document annexed along
+
+        with the charge sheet so that to ascertain regarding any previous registration of
+
+        crime or conviction by any Court of Law to the present appellants which goes
+
+        to show that in the absence of any admissible evidence it may not be held that
+
+        the appellants are previous convict, appellant Satya @ Satyaprakash @
+
+        Pradeep (A-1) served the major part of the sentence for 5 years 10 months and
+
+        3 days and appellant Manjeet @ Kallu (A-2) also served almost nearer to the
+
+        entire sentence i.e. for 6 years 3 months and 9 days, looking to the entire facts
+
+        and circumstances and also the facts that the alleged deadly firearm was not
+
+        seized, <a href="/doc/329571/" id="a_9">Section 392</a> of the IPC is not having any minimum sentence barrier, in
+
+        the considered view of this Court, an opportunity has to be given to the
+
+        appellants so that they may remain in society without committing any crime in
+
+        future. It would be appropriate to sentence both the appellants for the period
+
+        already undergone by them.
+</p>
+<p id="p_18">        13.    Consequently, the appeal filed on behalf of the appellants is allowed in
+
+        part. The judgment of conviction under <a href="/doc/329571/" id="a_10">Section 392</a> of the IPC passed against
+
+        the appellants is hereby affirmed. The fine sentence awarded by the trial Court
+
+        is also hereby maintained. For substantive jail sentence instead of rigorous
+
+        imprisonment for 7 years, both the appellants are sentenced for the period
+
+        already undergone by them. Both the appellants are in jail. They be released
+
+        forthwith, if not required in any other case.
+</p>
+<p id="p_19">                                                                  Sd/-
+</p>
+<p id="p_20">                                                               (C.B.Bajpai)
+                                                                 JUDGE
+Aadil
+<span class="hidden_text" id="span_5"> -6-</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,1924 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Life Insurance Corporation Of ... vs Shri Rajiv Khosla &amp; Anr. on 4 July, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/41369513/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 41 docs 
+      
+        - [<A HREF="/search/?formInput=cites:41369513">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/367586/">Article 14 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1656199/">The Insurance Act, 1938</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1113485/">the Competition Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1199182/">Article 21 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/41369513/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/41369513/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/41369513/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contract%20%20citedby%3A1625889">contract  citedby:1625889</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lpa">lpa</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=life%20insurance">life insurance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lic%20of%20india%3A%20supression%20of%20material%20facts">lic of india: supression of material facts</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contract%20of%20insurance">contract of insurance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=life%20insurance%20policy">life insurance policy</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contract%20between%20parties">contract between parties</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sum%20assured">sum assured</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=insurance%20business%20%20%20%20%20filter%3A%20%20%20%20%20commencement%20of%20business">insurance business     filter:     commencement of business</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=life%20insurance%20corporation">life insurance corporation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=unconscionable">unconscionable</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=relieving%20and%20relieved%20">relieving and relieved </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=insurance%20act">insurance act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2014%20constitution">article 14 constitution</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=directive%20principles">directive principles</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sawhney">sawhney</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=terms%20of%20contract">terms of contract</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=social%20security">social security</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=intelligible%20differentia">intelligible differentia</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=economic%20justice">economic justice</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Life Insurance Corporation Of ... vs Shri Rajiv Khosla &amp; Anr. on 4 July, 2011</div><div class="doc_author">Author: Dipak Misra,Chief Justice</div>
+
+<pre id="pre_1">*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                                   Judgment Reserved on: 5th April, 2011
+
+%                                  Judgment Pronounced on: July 04, 2011
+
+
++      LPA No. 431/2010
+
+       Life Insurance Corporation of India &amp; Anr.      ..... Appellants
+                         Through: Mr.Sandeep Sethi along with Mr.B.B.
+                                      Sawhney, Sr. Advocates with
+                                      Ms.Indira Sawhney, Mr.Lakshay
+                                      Sawhney &amp; Mr.Sunil Kumar, Advs.
+
+                            Versus
+
+       Shri Rajiv Khosla &amp; Anr.                             ..... Respondents</pre>
+<pre id="pre_2">                          Through:         Mr.Rakesh Tiku, Sr.Advocate with
+                                           Mr.Vivek Ojha, Adv.
+
+       CORAM:
+       HON'BLE THE CHIEF JUSTICE
+       HON'BLE MR. JUSTICE SANJIV KHANNA
+
+1   Whether reporters of the local papers be allowed to see the judgment?      Yes
+2   To be referred to the Reporter or not?                                     Yes
+3   Whether the judgment should be reported in the Digest?                     Yes
+
+
+
+DIPAK MISRA, CJ
+
+
+</pre><p id="p_1">       The present intra-Court appeal is directed against the order dated 7th
+
+April, 2010 passed by the learned Single Judge in WP (C) No. 5702/1999.
+
+
+
+
+</p><p id="p_2">LPA No. 431/2010                                                        page 1 of 42
+</p><p id="p_3"> 2.     The facts leading to the filing of the writ petition are that the
+
+appellant-petitioner (hereinafter referred to as „the appellant‟) took "Jeevan
+
+Kishor Policy" for his daughter, Aprajita, for a sum of Rs.1 lakh by Policy
+
+No. 120312578 dated 14th October, 1994. The yearly premium of Rs.5,533/-
+
+was payable for the policy.     The appellant paid the premium for two
+
+consequent years, that is, 1994-95 and 1995-96.         The daughter of the
+
+appellant expired on 11th September, 1996 in unfortunate circumstances
+
+and thereafter no further premium was paid.          After the death of the
+
+daughter, the appellant sent a letter on 20th December, 1996 to the Life
+
+Insurance Corporation of India (LIC) informing them about the death of
+
+his daughter and asking for the claim under the policy to be settled. When
+
+no response was received, he was compelled to knock at the doors of this
+
+Court under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India.
+
+
+</p><p id="p_4">3.     It was contended in the writ petition that no payment was made in
+
+view of the stipulation in the policy to the effect that the policy shall stand
+
+cancelled in case the life assured dies before the deferred date. Be it noted,
+
+the said clause of the policy was assailed on the foundation that LIC is
+
+obliged to make the payment and cannot take shelter under the said policy
+
+on the ground that it is not obliged to make any payment if the assured
+
+
+LPA No. 431/2010                                                 page 2 of 42
+ dies prior to the deferred date.     It was urged that such a clause was
+
+arbitrary, unilateral and unfair.
+</p>
+<p id="p_5">
+</p><p id="p_6">4.     The LIC combated the averments made in writ petition on the
+
+ground that the petitioner could have filed a civil suit as he was seeking
+
+enforcement of a contractual obligation; that the claim put forth by the
+
+petitioner has been repudiated in terms of the conditions of the insurance
+
+policy, which is basically a contract; that the stipulation in the policy is
+
+neither arbitrary nor unreasonable; and that the deferred payment clause
+
+is unassailable as the parties to the policy are bound by the terms of the
+
+policy.
+</p>
+<p id="p_7">
+</p><p id="p_8">5.     A rejoinder affidavit was filed stating, inter alia, that as long as the
+
+premium was paid, it is not open to the LIC to repudiate the claim and
+
+deny payment. That apart, the deferred date in the instant case was 14th
+
+October, 1996 and the assured died on 11th September, 1996. It is also put
+
+forth that the classification of life insurance policies into those payable
+
+only after the deferred date and those without such limitation was
+
+arbitrary and discriminatory.
+</p>
+<p id="p_9">
+
+
+</p><p id="p_10">LPA No. 431/2010                                                 page 3 of 42
+</p><p id="p_11"> 6.     An additional affidavit was filed by the LIC contending, inter alia,
+
+that "Jeevan Kishor Policy" was made only for the middle income/higher
+
+income class. It was a flexible policy where the minimum and maximum
+
+amount that could be insured was Rs.20,000/- and Rs.5 lakhs respectively.
+
+The premium is a multiple of the tabular rate paid depending upon the
+
+desired sum assured and the age of the assured. It was also explained that
+
+in the case of children, it is not practically possible to obtain any medical
+
+report for a child which would indicate the future expected mortality in
+
+respect of life and any medical examination is unlikely to reveal an
+
+authentic and reliable insight into the health status of a child. LIC, in order
+
+to safeguard its own interest, has imposed restrictions under the Jeevan
+
+Kishor plan before the risk on the children commences and that is why, the
+
+imposition of the „deferred date‟ or „waiting period‟.
+
+
+</p><p id="p_12">7.     The learned Single Judge expressed the view that the stand of the
+
+LIC that the petitioner should have filed a suit was untenable in view of
+
+the decision in <a href="/doc/1943124/" id="a_2">ABL International Ltd. v. Export Credit Guarantee
+
+Corporation of India Ltd</a>., (2004) 3 SCC 553. Being of this opinion, the
+
+learned Single Judge proceeded to state as follows: -
+
+
+
+
+</p><p id="p_13">LPA No. 431/2010                                                 page 4 of 42
+               "8.     The stand of the LIC as extracted in the above
+              paragraphs does not sufficiently explain the need for
+              deferring the payment under policy for children for two years.
+              It appears to this Court that once the LIC accepts the contract
+              by offering to insure even the life of a child, then it obviously
+              does do so irrespective of the age of the child. While
+              insurance business is largely dependent on the analysis of
+              risk, it is not possible to accept the submission of the LIC that
+              the "deferred date" clause became necessary only on the basis
+              of the risk that may be faced by the LIC. If the LIC chooses to
+              insure children and collects premia, there is no justification for
+              negativing a claim on the basis that payments thereunder
+              should stand postponed to a "deferred date". There is no
+              justification for imposition of a deferred date on the
+              apprehension that such waiting period is necessary to prevent
+              "moral hazards" involving the life of children.
+</p>
+<p id="p_14">              9.    xxx    xxx   xxx
+
+</p><p id="p_15">              10.    In a further additional affidavit filed by the LIC on 28th
+              April 2003, the information relating to number of Jeevan
+              Kishor Policies issued from 1990-1991 to 2001-2002 including
+              the ages of the victims have been given. Given the large
+              number of Jeevan Kishor Policies issued [which stood at
+              471000 as of 2001-02], the actual claims in respect of children
+              in the age group of eleven years for the years 1999-2000, 2000-
+              2001 and 2001-2002 are 39, 55 and 53 respectively. The figures
+              are comparable for other age groups upto 15 years. By no
+              means can it be argued that there will be far too many claims
+              against the LIC if the "deferred date" clause is not
+              incorporated. Given the number of claims being made on a
+              yearly basis on account of the deaths of children under the
+              Jeevan Kishor Policy, this Court holds that the LIC is not
+              acting fairly or reasonably in insisting that no claim will be
+              entertained for two years after the commencement of the
+              policy."
+</p>
+<p id="p_16">
+
+
+</p><p id="p_17">LPA No. 431/2010                                                  page 5 of 42
+</p><p id="p_18"> 8.     After so holding, the learned Single Judge directed that the claims
+
+made hereafter under the "Jeevan Kishor Policy" would not be repudiated
+
+by the LIC on the ground that they have been made before the deferred
+
+date, subject, of course, to other conditions being satisfied. It is worth
+
+noting, such a direction was issued as the counsel for the appellant had
+
+made a statement that he was not interested in obtaining any amount from
+
+LIC but getting the legal position clarified.
+</p>
+<p id="p_19">
+</p><p id="p_20">9.     We have heard Mr.Sandeep Sethi and Mr.B.B. Sawhney, learned
+
+senior counsel along with Ms.Indira Sawhney, Mr.Lakshay Sawhney and
+
+Mr.Sunil Kumar, learned counsel for the petitioners and Mr.Rakesh Tiku,
+
+learned senior counsel along with Mr.Vivek Ojha, learned counsel for the
+
+respondents.
+</p>
+<p id="p_21">
+</p><p id="p_22">10.    It is not in dispute that the deferred date, as per the policy, was 14th
+
+October, 1996 but the daughter of the respondent died before the deferred
+
+date. The Special Provision No.2 of the policy bond reads as follows: -
+
+
+</p><blockquote id="blockquote_1">              "The policy shall stand cancelled in case the life assured shall
+              die before the Deferred Date and in such event provided the
+              policy is then in full force, a sum of money equal to all the
+              premiums paid without any deduction whatsoever shall
+              become payable to the person entitled to the policy moneys."
+</blockquote>
+
+
+<blockquote id="blockquote_2">LPA No. 431/2010                                                 page 6 of 42
+</blockquote><blockquote id="blockquote_3"> 11.    The question that emerges for consideration is whether the
+
+conclusions arrived at by the learned Single Judge to the effect that the
+
+condition is unfair and unreasonable on the foundation that insurance
+
+business is largely dependent on the analysis of the risk; that once the LIC
+
+accepts the contract by offering to the insurer, even that of a child, it does
+
+so irrespective of the age of the child; and that if LIC chooses to insure the
+
+child and collect the premium, there is no justification to negative the
+
+claim on the basis that the payments thereunder should stand postponed
+
+to a deferred date. In quintessence, the issue is whether the condition
+
+incorporated by way of a special provision in the policy invites the frown
+
+of Articles 14 and 21 of the Constitution of India.
+</blockquote>
+
+<p id="p_23">12.    The learned counsel for the appellants would contend that insurance
+
+is basically a contract and the parties are governed by the stipulations in
+
+the contract and when they have signed the contract of insurance knowing
+
+the postulates engrafted therein, they cannot raise the plea of unfairness.
+
+That apart, if the anatomy of the policy is scrutinized in proper
+
+perspective, it is not remotely suggestive of any kind of unfairness and
+
+does not smack of arbitrariness inasmuch as there is a proper classification
+
+with regard to the payment of the sum assured in case of other categories
+
+
+LPA No. 431/2010                                                 page 7 of 42
+ of policy holder and the beneficiaries under "Jeevan Kishor Policy". The
+
+learned counsel have commended us to certain literatures, citations and
+
+circumstances which we shall dwell upon at a later stage of the order.
+
+
+</p><p id="p_24">13.    Per contra, the learned counsel for the respondents would support
+
+the order passed by the learned Single Judge contending, inter alia, that
+
+the life insurance policy stands in contradistinction to other categories of
+
+policy and once the premium is paid, it is obligatory and incumbent on the
+
+part of the Corporation to make good the assured sum and it cannot
+
+impede the payability on the ground that there is a stipulation of deferred
+
+date. It is propounded by them that the prescription of the deferred date
+
+ushers in such a classification which is impermissible and unacceptable as
+
+it causes discomfort to <a href="/doc/367586/" id="a_3">Article 14</a> of the Constitution. Quite apart from the
+
+above, it is their submission that life has to be understood in the backdrop
+
+of <a href="/doc/1199182/" id="a_4">Article 21</a> of the Constitution of India and on a keener understanding,
+
+this kind of condition is absolutely onerous and does not stand the test of
+
+the summum bonum principle of life inherent under <a href="/doc/1199182/" id="a_5">Article 21</a> of the
+
+Constitution of India.
+</p>
+<p id="p_25">
+
+
+</p><p id="p_26">LPA No. 431/2010                                               page 8 of 42
+</p><p id="p_27"> 14.    To appreciate the rivalised submissions raised at the Bar, we may
+
+refer with profit to the decision in <a href="/doc/1513693/" id="a_6">L.I.C. of India &amp; Anr. v. Consumer
+
+Education and Research Centre &amp; Ors</a>., AIR 1995 SC 1811 wherein the Life
+
+Insurance Corporation had confined the benefit of availing the policy to
+
+salaried class from government, semi-government or reputed commercial
+
+firms and not to other categories of people. The conditions imposed and
+
+denial to accept the policies were assailed before the High Court as
+
+arbitrary and discriminatory violating Articles 14, 19(1)(g) and right to life
+
+in <a href="/doc/1199182/" id="a_7">Article 21</a> of the Constitution. The High Court declared part of the
+
+conditions as valid and the other part, namely, that the proposals for
+
+assurance under the plan would be entertained only from persons in
+
+government or quasi government organization or a reputed commercial
+
+firm which can furnish details of leave taken during the preceding year
+
+under Table 58 as subversive of the equality clause and, therefore,
+
+constitutionally invalid. The Corporation challenged the said decision and
+
+the affected persons also filed cross-appeals. It was contended before the
+
+Apex Court that on acceptance of the proposals by themselves in life
+
+insurance business, the policy holder gets rights in the policy and as the
+
+policy of the respondents was rejected, they have no right whatsoever and
+
+
+
+LPA No. 431/2010                                                 page 9 of 42
+ no legal right remained to be enforced under <a href="/doc/1712542/" id="a_8">Article 226</a> of the
+
+Constitution.      It was further contended that they cannot use judicial
+
+process to create rights in their favour unless a binding contract emerged
+
+by acceptance of the proposal of the insurance and acted upon. It was also
+
+highlighted that the life insurance policies are framed on actuarial
+
+consideration and worked out as per the needs of the policy to suit the
+
+interests of all those interested in obtaining a particular policy and their
+
+viability and hence, the High Court was not justified in interfering with
+
+matters based on economic criteria and commercial contracts. The said
+
+contention was resisted on the foundation that they were contrary to
+
+<a href="/doc/631708/" id="a_9">Article 25</a> of the Declaration of Human Rights, <a href="/doc/735354/" id="a_10">Article 7</a> of the
+
+International Covenant on Economic and Social Rights and the provision
+
+of Part III and also the Directive Principles of State policy. It was also
+
+contended that as the corporation is doing life insurance business, its
+
+policy must be in conformity with the rights in Part III of the Constitution
+
+and the policies engrafted under Part IV and it has no power to impose
+
+any unconstitutional conditions in the contract and no classification much
+
+less valid classification has been made between salaried persons,
+
+
+
+
+LPA No. 431/2010                                               page 10 of 42
+ government, semi-government, organized sectors or reputed commercial
+
+organizations on the one hand and others on the other hand.
+
+
+</p><p id="p_28">15.    The Apex Court addressed itself keeping in view the larger public
+
+interest and the life insurance policy based on actuarial tables and the
+
+policy holder‟s needs and after referring to the various Tables, reports of
+
+the Committee and the decisions in <a href="/doc/1416283/" id="a_11">D.S. Nakara v. Union of India</a>, AIR
+
+1983 SC 130, AIR 1986 SC 180, <a href="/doc/1510944/" id="a_12">C.E.S.C. Ltd. v. Subhash Chandra Bose</a>,
+
+(1992) 1 SCC 441, <a href="/doc/1657323/" id="a_13">Consumer Education &amp; Research Centre v. Union of
+
+India</a>, (1995) 1 JT (SC) 637 and <a href="/doc/1587160/" id="a_14">Regional Director, ESI Corporation v.
+
+Francis De Costa</a>, 1993 Supp (4) SCC 100, expressed thus:-
+
+
+</p><blockquote id="blockquote_4">              "18. It would thus be well settled law that the Preamble
+              Chapter of Fundamental Rights and Directive Principles
+              accord right to livelihood as a meaningful life, social security
+              and disablement benefits are integral schemes of socio-
+              economic justice to the people in particular to the middle class
+              and lower middle class and all offendable people. Life
+              insurance coverage is against disablement or in the event of
+              death of the insured economic support for the dependents,
+              social security to livelihood to the insured or the dependants.
+              The appropriate life insurance policy within the paying
+              capacity and means of the insured to pay premia is one of the
+              social security measures envisaged under the Constitution to
+              make right to life meaningful, worth living and right to
+              livelihood a means for sustenance."
+</blockquote>
+
+
+
+<blockquote id="blockquote_5">LPA No. 431/2010                                                 page 11 of 42
+        Thereafter, their Lordships dealt with the contention whether the
+
+policy can be restricted to a particular class and whether the issue could be
+
+addressed before there was a concluding contract between the parties and
+
+in that regard opined thus -
+</blockquote>
+
+<blockquote id="blockquote_6">              "20. It is true that life insurance business as defined under<a href="/doc/1210244/" id="a_15"> S.
+              2(11)</a> of the Insurance Act, 1938, is business of effecting
+              contracts of insurance upon human life, including any
+              contract whereby the payment of money is assured on death
+              (except death by accident only) or the happening of any
+              contingency dependent on human life, and any contract which
+              subject to payment of premiums for a term dependent on
+              human life including those enumerated in clauses (a) to (c)
+              thereof. Thereby, the contract of insurance is hedged with
+              bilateral agreement on human life upon payment of premia
+              subject to the covenants contained thereunder. But as stated
+              earlier, is the insurer entitled to impose unconstitutional
+              conditions including that which denied the right of entering
+              into the contract, limiting only to a class of persons under a
+              particular policy? We make it clear at this juncture that the
+              insurer is free to evolve a policy based on business principles
+              and conditions before floating the policy to the general public
+              offering on insurance of the life of the insured but as seen
+              earlier, the insurance being a social security measure, it should
+              be consistent with the constitutional animation and conscience
+              of socio-economic justice adumbrated in the Constitution as
+              elucidated hereinbefore."
+</blockquote>
+<blockquote id="blockquote_7">                               xxx    xxx    xxx   xxx    xxx
+
+</blockquote><blockquote id="blockquote_8">              23.   Every action of the public authority or the person acting
+              in public interest or its acts give rise to public element, should
+              be guided by public interest. It is the exercise of the public
+              power or action hedged with public element becomes open to
+              challenge. If it is shown that the exercise of the power is
+
+
+LPA No. 431/2010                                                  page 12 of 42
+               arbitrary unjust and unfair, it should be no answer for the
+              State, its instrumentality, public authority or person whose
+              acts have the insignia of public element to say that their
+              actions are in the field of private law and they are free to
+              prescribe any conditions or limitations in their actions as
+              private citizens, simpliciter, do in the field of private law. Its
+              actions must be based on some rational and relevant
+              principles. It must not be guided by irrational or irrelevant
+              considerations. Every administrative decision must be hedged
+              by reasons. The Administrative Law by Wade, 5th Ed. at p.513
+              in Chapter 16, Part IV dealing with remedies and liabilities,
+              stated thus:
+</blockquote>
+<blockquote id="blockquote_9">                    "Until a short time ago anomalies used to be caused by
+                    the fact that the remedies employed in Administrative
+                    Law belong to two different families. There is the family
+                    of ordinary private law remedies such as damages,
+                    injunction and declaration and there is a special family
+                    of public law remedies particularly Certiorari,
+                    Prohibition and Mandamus, collectively known as
+                    prerogative remedies. Within each family, the various
+                    remedies can be sought separately or together or in the
+                    alternative. But each family had its own distinct
+                    procedure."
+</blockquote>
+<blockquote id="blockquote_10">              At page 514 it was elaborated that "this difficulty was
+              removed in 1977 by the provision of a comprehensive,
+              "application for judicial review", under which remedies in
+              both facilities became interchangeable." At page 573 with the
+              heading „Application for Judicial Review‟ in Chapter 17, it is
+              stated thus:
+</blockquote>
+<blockquote id="blockquote_11">                    "All the remedies mentioned are then made
+                    interchangeable by being made available „as an
+                    alternative or in addition‟ to any of them. In addition
+                    the Court may award damages, if they are claimed at
+                    the outset and if they could have been awarded in an
+                    ordinary action."
+</blockquote>
+
+
+<blockquote id="blockquote_12">LPA No. 431/2010                                                  page 13 of 42
+               The distinction between private law and public law remedy is
+              now settled by this Court in <a href="/doc/730804/" id="a_16">LIC v. Escorts Ltd</a>., 1985 Supp. (3)
+              SCR 909: (AIR 1986 SC 1370 at p. 1424 para 102), by a
+              Constitution Bench thus.
+</blockquote>
+<blockquote id="blockquote_13">                    "If the action of the State is related to contractual
+                    obligation or obligations arising out of the Court
+                    (contract sic) the Court may not ordinarily examine
+                    unless the action has some public law character
+                    attached to it. The Court will examine actions of State if
+                    they pertain to the public law domain and refrain from
+                    examining them if they pertain to the private law field.
+                    The difficulty will lie in demarcating the frontier
+                    between the public law domain and the private law
+                    field. This is impossible to draw the line with procession
+                    and we do not want to attempt it. The question must be
+                    decided in each case with reference to the particular
+                    action, the activity in which the State or the
+                    instrumentality of the State is engaged when
+                    performing the action, the public law or private law
+                    character of the action and a host of other relevant
+                    circumstances."</blockquote>
+
+<blockquote id="blockquote_14">                                                        [Underlining is ours]
+
+
+
+       Thereafter, their Lordships proceeded to deal with the concept of
+
+classification and noted the submissions of the learned counsel for the
+
+corporation in paragraph 29 and came to hold thus -
+</blockquote>
+
+<blockquote id="blockquote_15">              "29. ....The classification based on employment in
+              government, semi-government and reputed commercial firms
+              has the insidious and inevitable effect of excluding lives in
+              vast rural and urban areas engaged in unorganised or self-
+              employed sectors to have life insurance offending <a href="/doc/367586/" id="a_17">Article 14</a> of
+              the Constitution and socio-economic justice."
+</blockquote>
+<pre id="pre_3">LPA No. 431/2010                                                 page 14 of 42
+                                                            [Emphasis added]
+
+
+
+</pre><blockquote id="blockquote_16">       After so stating, the Apex Court proceeded to state as follows: -
+</blockquote>
+
+<blockquote id="blockquote_17">              "31. An unfair and untenable or irrational clause in a
+              contract is also unjust amenable to judicial review. In common
+              law a party was relieved from such contract. In Gillespie
+              Brothers &amp; Co. Ltd. v. Roy Bowles Transport Ltd., (1973) 1
+              Q.B. 400, Lord Denning for the first time construing the
+              indemnity clause in a contract stated that the court to permit
+              party to enforce his unreasonable clause, even when it is so
+              unreasonable, or applied so unreasonably, would be
+              unconscionable, it was stated:
+</blockquote>
+<blockquote id="blockquote_18">                    "When it gets to this point, I would say, as I said many
+                    years ago. There is the vigilance of the common law
+                    which while allowing freedom of contract, watches to
+                    see that it is not abused. It will not allow a party to
+                    exempt himself from his liability at common law when
+                    it would be quite unconscionable for him to do so." In
+                    Lloyds Bank Ltd. v. Bundy, (1974) 3 All ER 757,
+                    inequality of the bargaining power was enunciated by
+                    Lord Denning M.R., and held that one who enters into a
+                    contract on terms which are very unfair or transfers
+                    property for a consideration which is grossly
+                    inadequate when his bargaining power is grievously
+                    impaired by reason of his own needs or desires, or by
+                    his own ignorance or infirmity... the one who stipulates
+                    for an unfair advantage may be moved solely by his
+                    own self-interest, unconscious of the distress he is
+                    bringing to the other.... One who is in extreme need
+                    may knowingly consent to a most improvident bargain,
+                    solely to relieve the strains in which he finds himself. It
+                    would not be meant to suggest that every transaction is
+                    saved by independent advice. But the absence of it may
+                    be fatal. In A. Schroeder Music Publishing Co. Ltd. v.
+</blockquote>
+
+<blockquote id="blockquote_19">LPA No. 431/2010                                                 page 15 of 42
+                    Macaulay (Formerly Instone), (1974) 1 W.L.R. 1308,
+                   House of Lords considered and held that a party to a
+                   contract would be relieved from the terms of the
+                   contract. In the course of his speech learned Lord
+                   Deplock outlined the theory of unreasonableness or
+                   unfairness of the bargain to relieve a party from the
+                   contract when the relative bargaining power of the
+                   parities was not equal. In that case the song writer had
+                   contracted with the publisher the terms more onerous
+                   to him and favourable to the publisher. The song writer
+                   was relieved from the bargain of the contract on the
+                   theory of restraint trade opposed to public policy. The
+                   distinction was made even in respect of standard forms
+                   of contract emphasising that when the parties in a
+                   commercial transaction having equal bargaining power
+                   have adopted the standard form of contract, it was
+                   intended to be binding on the parties. The court would
+                   not relieve the party from such a contract but the
+                   contracts are between the parties to it, or approved by
+                   any organisation representing the interests of the
+                   weaker party, they have been directed by that party
+                   whose bargaining power, either exercised alone or in
+                   conjunction with others providing similar goods or
+                   services, enables him to say: "If you want these goods
+                   or services at all, these are the only terms on which they
+                   are obtainable. Take it or leave it." In Levision v. Steam
+                   Carpet Co. Ltd., (1978) 1 Q.B. 69, Lord Denning M.R.
+                   reiterated the unreasonable clause in the contract would
+                   be applied to the standard form of contract where there
+                   was inequality of bargaining power. In Photo
+                   Production Ltd. v. Securicor Transport Ltd., 1980 A.C.
+                   827, considering the Unfair Contract Terms Act, 1977,
+                   Lord Wilberforce during the course of his speech
+                   emphasised the unequal bargaining power as an
+                   invalidating factor upheld the contract in that case since
+                   it was commercial bargain between two competent
+                   party to enter into a contract on equal bargaining
+                   power. Lord Deplock also reiterated his earlier view.
+</blockquote>
+<blockquote id="blockquote_20">LPA No. 431/2010                                                page 16 of 42
+                     Lord Scarman agreeing with Lord Wilberforce
+                    described that a commercial dispute between the parties
+                    well able to look after themselves, in such a situation
+                    what the parties have agreed expressly or impliedly is
+                    what matters, and the duty of the courts is to construe
+                    their contract according to their tenor. It was held that
+                    in that case that parties have equal bargaining power
+                    and intervention of the court to relieve the party from
+                    the contract was not called for. The<a href="/doc/206650/" id="a_18"> Civil Code</a> of
+                    Germany in<a href="/doc/1656199/" id="a_19"> S. 138(2)</a>, thereof release a person from the
+                    contract when the party has no equal bargaining
+                    power."
+</blockquote>
+<blockquote id="blockquote_21">                               xxx   xxx    xxx   xxx    xxx
+
+</blockquote><blockquote id="blockquote_22">              40.    It is, therefore, the settled law that if a contract or a
+              clause in a contract is found unreasonable or unfair or
+              irrational one must look to the relative bargaining power of
+              the contracting parties. In dotted line contracts there would be
+              no occasion for a weaker party to bargain or to assume to have
+              equal bargaining power. He has either to accept or leave the
+              services or goods in terms of the dotted line contract. His
+              option would be either to accept the unreasonable or unfair
+              terms or forego the service forever. With a view to have the
+              services of the goods, the party enters into a contract with
+              unreasonable or unfair terms contained therein and he would
+              be left with no option but to sign the contract.
+</blockquote>
+<blockquote id="blockquote_23">                               xxx   xxx    xxx   xxx    xxx
+
+</blockquote><blockquote id="blockquote_24">              46.   We have, therefore, no hesitation to hold that in issuing
+              a general life insurance policy of any type, public element is
+              inherent in prescription of terms and conditions therein. The
+              appellants or any person or authority in the field of insurance
+              owe a public duty to evolve their policies subject to such
+              reasonable, just and fair terms and conditions accessible to all
+              the segments of the society for insuring the lives of eligible
+              persons. The eligibility conditions must be conformable to the
+              Preamble, fundamental rights and the directive principles of
+
+
+LPA No. 431/2010                                                 page 17 of 42
+               the Constitution. The term policy under Table 58 is declared to
+              be accessible and beneficial to the large segments of the Indian
+              society. The rates of premium must also be reasonable and
+              accessible. Accordingly, we hold that the declaration given by
+              the High Court is not vitiated by any manifest error of law
+              warranting interference. It may be made clear that with a
+              view to make the policy viable and easily available to the
+              general public, it may be open to the appellants to revise the
+              premium in the light of the law declared in this judgment but
+              it must not be arbitrary, unjust, excessive and oppressive. Both
+              the appeals are accordingly dismissed but in the
+              circumstances parties are directed to bear their own costs."
+</blockquote>
+<blockquote id="blockquote_25">                                                        [Emphasis supplied]
+
+
+
+</blockquote><blockquote id="blockquote_26">16.    <a href="/doc/1280469/" id="a_20">In The United India Insurance Company Ltd. v. M.K.J. Corporation</a>,
+
+(1996) 6 SCC 428, it has been held by the Apex Court that it is a
+
+fundamental principle of insurance law that utmost faith must be observed
+
+by the contracting parties and further good faith forbids either party from
+
+non-disclosure of the facts which the party privately knows, to draw the
+
+other into a bargain, from his ignorance of fact and his believing the
+
+contrary. It has been so held because insurance is a contract of speculation.
+</blockquote>
+
+<p id="p_29">17.    In Pradeep Kumar Jain v. Citi Bank, (1999) 6 SCC 361, the Apex
+
+Court distinguished a case of general insurance from that of life insurance.
+
+In that context, their Lordships have stated that in case of life insurance
+
+policy, certain sum is agreed to be paid by the insurance company in the
+
+
+LPA No. 431/2010                                                 page 18 of 42
+ event of the death of the insured or a contingency arising as indicated in
+
+the policy. The obligation is then on the insured to pay the premium
+
+periodically and there is no other obligation cast upon him. The same is
+
+not the situation in case of insurance relating to motor vehicle.
+
+
+</p><p id="p_30">18.    <a href="/doc/1527980/" id="a_21">In LIC of India v. Asha Goel</a>, (2001) 2 SCC 160, it has been held thus:
+
+
+</p><blockquote id="blockquote_27">              "....The contracts of insurance including the contract of
+              life assurance are contracts uberrima fides and every
+              fact of material (sic material fact) must be disclosed,
+              otherwise, there is good ground for rescission of the
+              contract. The duty to disclose material facts continues
+              right up to the conclusion of the contract and also
+              implies any material alteration in the character of the
+              risk which may take place between the proposal and its
+              acceptance. If there are any misstatements or
+              suppression of material facts, the policy can be called
+              into question. For determination of the question
+              whether there has been suppression of any material
+              facts it may be necessary to also examine whether the
+              suppression relates to a fact which is in the exclusive
+              knowledge of the person intending to take the policy
+              and it could not be ascertained by reasonable enquiry
+              by a prudent person."
+</blockquote>
+
+
+
+<p id="p_31">19.    <a href="/doc/1513213/" id="a_22">In New India Assurance Co. Ltd. v. Harshadbhai Amrutbhai
+
+Modhiya &amp; Anr</a>., (2006) 5 SCC 192, the Apex Court was dealing with the
+
+issue whether the interest is payable by an insurer while indemnifying the
+
+
+
+LPA No. 431/2010                                                    page 19 of 42
+ insured amount of compensation awarded against him under the
+
+Workmen‟s <a href="/doc/1113485/" id="a_23">Compensation Act</a>, 1923. S.B. Sinha, J. referred to <a href="/doc/484108/" id="a_24">Section 12</a> of
+
+the Act which provides for the mode and manner of payment of
+
+compensation by a principal employer and/or his contractor. Thereafter,
+
+his Lordship referred to <a href="/doc/1386065/" id="a_25">Section 17</a> of the Act which nullifies contracting
+
+out. In that context, his Lordship stated that an employer is not statutorily
+
+liable to enter into a contract of insurance. Where, however, a contract of
+
+insurance is entered into by and between the employer and the insurer, the
+
+insurer shall be liable to indemnify the employer. The insurer, however,
+
+unlike under the provisions of the <a href="/doc/785258/" id="a_26">Motor Vehicles Act</a>, does not have a
+
+statutory liability.   <a href="/doc/1386065/" id="a_27">Section 17</a> of the Act does not provide for any
+
+restriction in the matter of contracting out by the employer vis-à-vis the
+
+insurer. Further, the terms of a contract of insurance would depend upon
+
+the volition of the parties. A contract of insurance is governed by the
+
+provisions of the <a href="/doc/1656199/" id="a_28">Insurance Act</a>.      In terms of the provisions of the
+
+<a href="/doc/1656199/" id="a_29">Insurance Act</a>, an insured is bound to pay premium which is to be
+
+calculated in the manner provided for therein. With a view to minimise
+
+his liability, an employer can contract out so as to make the insurer not
+
+liable as regards indemnifying him in relation to certain matters which do
+
+
+
+LPA No. 431/2010                                                page 20 of 42
+ not strictly arise out of the mandatory provisions of any statute.
+
+Contracting out, as regards payment of interest by an employer, therefore,
+
+is not prohibited in law. In the said decision, it has been further held that a
+
+contract of insurance is governed by the provisions of the <a href="/doc/1656199/" id="a_30">Insurance Act</a>.
+
+Unless the said contract is governed by the provisions of a statute, the
+
+parties are free to enter into a contract as per their own volition. Where a
+
+statute does not provide for a compulsory insurance or the extent thereof,
+
+it will bear repetition to state that the parties are free to choose their own
+
+terms of contract and, therefore, contracting out so far as reimbursement of
+
+the amount of interest is concerned is permissible not being prohibited by
+
+the statute.
+</p>
+<p id="p_32">
+</p><p id="p_33">20.    In this context, we may refer to the decision in <a href="/doc/545406/" id="a_31">P.J. Narayan v.
+
+Union of India &amp; Ors</a>., (2006) 5 SCC 200. A writ petition was filed under
+
+<a href="/doc/981147/" id="a_32">Article 32</a> of the Constitution of India for issuance of a direction to the
+
+insurance company to delete the clause in the insurance policy which
+
+provides       that   in   cases   of   compensation   under   the    Workmen‟s
+
+<a href="/doc/1113485/" id="a_33">Compensation Act</a>, 1923, the insurance company will not be liable to pay
+
+interest. Their Lordships, dealing with the said issue, expressed the view
+
+in the following terms -
+</p>
+<p id="p_34">
+</p><p id="p_35">LPA No. 431/2010                                                     page 21 of 42
+               "We see no substance in the writ petition. There is no
+              statutory liability on the insurance company. The statutory
+              liability under the Workmen‟s <a href="/doc/1113485/" id="a_34">Compensation Act</a> is on the
+              employer. An insurance is a matter of contract between the
+              insurance company and the insured. It is always open to the
+              insurance company to refuse to insure. Similarly, they are
+              entitled to provide by contract that they will not take on
+              liability for interest. In the absence of any statute to that
+              effect, insurance companies cannot be forced by courts to take
+              on liabilities which they do not want to take on."
+</p>
+<p id="p_36">
+
+</p><p id="p_37">21.    <a href="/doc/354257/" id="a_35">In Noble Resources Ltd. v. State of Orissa &amp; Anr</a>., AIR 2007 SC 119,
+
+while dealing with the State action on the touchstone of <a href="/doc/367586/" id="a_36">Article 14</a> of the
+
+Constitution of India, their Lordships have opined that if an action on the
+
+part of the State is violative of the equality clause contained in <a href="/doc/367586/" id="a_37">Article 14</a> of
+
+the Constitution of India, a writ petition would be maintainable even in
+
+the contractual field. A distinction indisputably must be made between a
+
+matter which is at the threshold of a contract by selecting a party and a
+
+breach thereof; whereas in the former, the court‟s scrutiny would be more
+
+intrusive, in the latter, the court may not ordinarily exercise its
+
+discretionary jurisdiction of judicial review unless it is found to be
+
+violative of <a href="/doc/367586/" id="a_38">Article 14</a> of the Constitution. While exercising contractual
+
+powers also, the government bodies may be subjected to judicial review in
+
+order to prevent arbitrariness or favouritism on their part. The State action
+
+
+LPA No. 431/2010                                                  page 22 of 42
+ has to be just, fair and reasonable in all their activities including those in
+
+the field of contracts.
+</p>
+<p id="p_38">
+</p><p id="p_39">22.     <a href="/doc/81905/" id="a_39">In P.C. Chacko &amp; Anr. v. Chairman, LIC of India &amp; Ors</a>., (2008) 1
+
+SCC 321, a two Judge Bench has opined thus:
+</p>
+<p id="p_40">
+</p><blockquote id="blockquote_28">              "We are not unmindful of the fact that Life Insurance
+              Corporation being a State within the meaning of <a href="/doc/609139/" id="a_40">Article
+              12</a> of the Constitution of India, its action must be fair,
+              just and equitable but the same would not mean that it
+              shall be asked to make a charity of public money,
+              although the contract of insurance is found to be
+              vitiated by reason of an act of the insured. This is not a
+              case where the contract of insurance or a clause thereof
+              is unreasonable, unfair or irrational which could make
+              the court carry the bargaining powers of the contracting
+              parties. It is also not the case of the appellants that in
+              framing      the    aforesaid   questionnaire    in    the
+              application/proposal form, the respondents had acted
+              unjustifiably or the conditions imposed are
+              unconstitutional."
+</blockquote>
+
+
+<p id="p_41">23.     <a href="/doc/1894467/" id="a_41">In   United   India   Insurance    Company      Ltd.   v.     Manubhai
+
+Dharmasinhbhai Gajera &amp; Ors</a>., (2008) 10 SCC 404, the question arose
+
+with regard to the role of the Court as regards treating a particular clause
+
+in a contract as unconscionable or unfair. In that regard, it has been stated
+
+thus-
+</p>
+<p id="p_42">
+
+
+</p><p id="p_43">LPA No. 431/2010                                                    page 23 of 42
+               "34. We have, despite the new economic policy of the
+              Centre, no option but to proceed on the assumption that the
+              public sector insurance companies being State have a different
+              role to play. It is not to say that as a matter of policy, statutory
+              or otherwise, the insurance companies are bound to regulate
+              all contracts of insurance having the statement of directive
+              principles in mind but there cannot be any doubt whatsoever
+              that fairness or reasonableness on the part of the insurance
+              companies must appear in all of its dealings.
+</p>
+<p id="p_44">
+
+</p><p id="p_45">              35.     The Authority wants the insurance companies to offer a
+              fair deal and all the terms and conditions of their offer must
+              be transparent. There should not be any hidden agenda.
+              Even they should not take recourse to "ticketing contract".
+              When, however, the terms of the new product or revised
+              product require the approval of the Authority, prima facie, the
+              same would mean that they are fair and reasonable. The
+              action on the part of the Authority is not in question.
+              Regulations, guidelines and circulars are binding on the
+              insurance companies. [<a href="/doc/763802/" id="a_42">See State of Kerala v. Kurian Abraham (P)
+              Ltd</a>., (2008) 3 SCC 582].
+</p>
+<p id="p_46">                                xxx    xxx    xxx   xxx    xxx
+
+</p><p id="p_47">              47.    Existence of the jurisdiction of the superior courts of
+              India upon invoking <a href="/doc/367586/" id="a_43">Article 14</a> of the Constitution as also
+              <a href="/doc/1625889/" id="a_44">Section 23</a> of the Contract Act to strike down a clause in the
+              contract which the court feels to be unconscionable having
+              regard to the equal (sic unequal) bargaining power of the
+              parties is not in question, but the said provisions would have
+              no application for the purpose of modifications, alterations or
+              additions of a term in the contract. There cannot furthermore
+              be any doubt whatsoever that each case must be considered
+              on its own facts which would obviously lead to the conclusion
+              that by reason thereof the court shall not read into the contract
+              an automatic renewal clause in a contract of insurance if there
+              does not exist any."
+</p>
+<p id="p_48">
+</p><p id="p_49">LPA No. 431/2010                                                    page 24 of 42
+</p><p id="p_50"> 24.    From the aforesaid decisions, the principles that are culled out are
+
+that every action of the State or public authority or the person whose
+
+action involves public element should primarily be guided by public
+
+interest; that though the insurer is free to evolve a policy based on business
+
+principles, yet the insurance being a social security measure, it should be
+
+consistent with the constitutional animation and conscience of socio-
+
+economic justice enshrined in the Constitution of India; that there is a
+
+distinction between the frontiers of the public law domain and the private
+
+law field; that an unfair and untenable or irrational clause in a contract is
+
+amenable to judicial review; that there are distinctive features between
+
+general insurance and life insurance inasmuch as in case of life insurance
+
+policy, certain sum is agreed to be paid by the insurance company in the
+
+event of the death of the insured or a contingency arising as indicated in
+
+the policy and the only obligation of the insured is to pay the premium;
+
+that where a statute does not provide for a compulsory insurance, the
+
+parties are free to choose their own terms of contract; that in the absence of
+
+any statutory liability, the insurance company cannot be forced by courts
+
+to take on liabilities which they do not want to take on; that if the action of
+
+
+
+LPA No. 431/2010                                                 page 25 of 42
+ the State is violative of the equality clause contained in <a href="/doc/367586/" id="a_45">Article 14</a> of the
+
+Constitution of India, a writ petition would be maintainable in the
+
+contractual field; that the State and its authorities including the
+
+instrumentalities of the State have to show justness, fairness and
+
+reasonableness in all their activities in the field of contract, otherwise they
+
+invite discomfort to <a href="/doc/367586/" id="a_46">Article 14</a> of the Constitution of India; that the
+
+jurisdiction of the superior court can be invoked under <a href="/doc/367586/" id="a_47">Article 14</a> of the
+
+Constitution of India as also <a href="/doc/1625889/" id="a_48">Section 23</a> of the Contract Act to strike down a
+
+clause in the contract which the court feels to be unconscionable having
+
+regard to the unequal bargaining powers of the parties; and that the
+
+contract of insurance is fundamentally based on faith and are contracts of
+
+uberrima fides.
+</p>
+<p id="p_51">
+</p><p id="p_52">25.    Regard being had to the principles that have been spelt out, it is to
+
+be scrutinized whether the condition stipulated in the policy, the contract
+
+of insurance, is discriminatory inasmuch as the classification made by the
+
+Corporation is invidious and defies the concept of classification. In this
+
+context, we may refer with profit to a three-Judge Bench decision in <a href="/doc/1535672/" id="a_49">Video
+
+Electronics Pvt. Ltd. &amp; Anr. v. State of Punjab &amp; Ors</a>., AIR 1990 SC 820,
+
+wherein it has been held as follows:
+</p>
+<p id="p_53">
+</p><p id="p_54">LPA No. 431/2010                                                 page 26 of 42
+               "24. Discrimination implies an unfair classification.
+              Reference may be made to the observations of this
+              Court in <a href="/doc/1949862/" id="a_50">Kathi Raning Rawat v. State of Saurashtra</a>,
+              1952 SCR 435 : (AIR 1952 SC 123) where Chief Justice
+              Shastri at p. 442 (of SCR) : (at pp. 443-44 of AIR) of the
+              report reiterated that all legislative differentiation is not
+              necessarily discriminatory. At p.448 (of SCR) : (at pp.
+              127-28 of AIR) of the report, Justice Fazal Ali noticed the
+              distinction between 'discrimination without reason' and
+              'discrimination with reason'. The whole doctrine of
+              classification is based on this and on the well-known
+              fact that the circumstances covering one set of
+              provisions or objects may not necessarily be the same as
+              these covering another set of provisions and objects so
+              that the question of unequal treatment does not arise as
+              between the provisions covered by different sets of
+              circumstances."
+</p>
+<p id="p_55">
+
+</p><p id="p_56">26.    In this regard, it would not be out of place to refer to the concept of
+
+classification as laid down in the locus classicus, i.e., <a href="/doc/685234/" id="a_51">Ram Krishna Dalmia
+
+and Ors. v. Shri Justice S.R. Tendolkar and Ors</a>., AIR 1958 SC 538. In
+
+the said decision, the Apex Court laid down many a principle pertaining to
+
+class legislation and also the presumption of constitutionality. Looking at
+
+the role of a Court while dealing with the presumption of constitutionality,
+
+the two principles which are relevant for the present purpose are reproduced
+
+below:
+</p>
+<blockquote id="blockquote_29">              "(e) that in order to sustain the presumption of
+              constitutionality the Court may take into consideration
+              matters of common knowledge, matters of common
+
+LPA No. 431/2010                                                    page 27 of 42
+               report, the history of times and may assume every state of
+              facts which can be conceived existing at the time of
+              legislation; and
+
+</blockquote><blockquote id="blockquote_30">              (f)    that while good faith and knowledge of the
+              existing conditions on the part of a Legislature are to be
+              resumed, if there is nothing on the face of the law or the
+              surrounding circumstances brought to the notice of the
+              Court on which the classification may reasonably be
+              regarded as based, the presumption of constitutionality
+              cannot be carried to the extent of always holding that
+              there must be some undisclosed and unknown reasons for
+              subjecting certain individuals or corporations to hostile or
+              discriminating legislation."
+</blockquote>
+
+
+<p id="p_57">27.    <a href="/doc/717384/" id="a_52">In Madhya Pradesh Ration Vikreta Sangh Society &amp; Ors. v. State of
+
+Madhya Pradesh</a>, (1981) 4 SCC 535, the question that arose before the
+
+Apex Court was whether the Madhya Pradesh Foodstuffs (Civil Supplies
+
+Public Distribution) Scheme, 1981 formulated by the State Government
+
+under sub-clause (d) of Clause (2) of the Madhya Pradesh Foodstuffs
+
+(Distribution) Control Order, 1960 introducing a new scheme for running
+
+of individual fair price shops by agents to be appointed under a
+
+Government scheme giving preference to cooperative societies in
+
+replacement of the earlier scheme of running such fair price shops through
+
+retail dealers appointed under clause 3 of the Order of 1960 was violative
+
+of Articles 14 and 19(1)(g) of the Constitution of India.      In that context,
+
+
+LPA No. 431/2010                                                   page 28 of 42
+ their Lordships referred to the decision in <a href="/doc/1281050/" id="a_53">R.D. Shetty v. International
+
+Airport Authority of India &amp; Ors</a>., AIR 1979 SC 1628 which has laid down
+
+the principle that if a governmental action disclosed arbitrariness, it would
+
+be liable to be invalidated as offending <a href="/doc/367586/" id="a_54">Article 14</a> of the Constitution, but
+
+taking into consideration the wider concept, their Lordships held as
+
+follows:
+</p>
+<p id="p_58">
+</p><blockquote id="blockquote_31">              "The wider concept of equality before the law and the
+              equal protection of laws is that there shall be equality
+              among equals. Even among equals there can be unequal
+              treatment based on an intelligible differentia having a
+              rational relation to the objects sought to be achieved.
+              Consumers' cooperative societies form a distinct class
+              by themselves. Benefits and concessions granted to
+              them ultimately benefit persons of small means and
+              promote social justice in accordance with the directive
+              principles. There is an intelligible differentia between
+              the retail dealers who are nothing but traders and
+              consumers' cooperative societies. The position would
+              have been different if there was a monopoly created in
+              favour of the later. The scheme only envisages a rule of
+              preference. The formulation of the scheme does not
+              exclude the retail traders from making an application
+              for appointment as agents."
+</blockquote>
+
+
+<p id="p_59">28.    In National Council for Teacher Education and Others v. Shri
+
+Shyam Shiksha Prashikshan Sansthan and Ors., 2011 (2) SCALE 59, the
+
+Apex Court has opined thus:
+</p>
+<p id="p_60">
+</p><p id="p_61">LPA No. 431/2010                                                page 29 of 42
+               "16. <a href="/doc/367586/" id="a_55">Article 14</a> forbids class legislation but permits
+              reasonable classification provided that it is founded on
+              an intelligible differentia which distinguishes persons
+              or things that are grouped together from those that are
+              left out of the group and the differentia has a rational
+              nexus to the object sought to be achieved by the
+              legislation in question."
+</p>
+<p id="p_62">
+
+</p><p id="p_63">29.    It is worth noting that in the aforesaid case, reliance was placed
+
+upon in Re the Special Courts Bill, (1979) 1 SCC 380 wherein
+
+Chandrachud, C.J., speaking for majority of the Court, adverted to large
+
+number of judicial precedents involving interpretation of <a href="/doc/367586/" id="a_56">Article 14</a> and
+
+culled out several propositions.       The relevant propositions which are
+
+required to be stated for the present case are as follows:
+
+
+</p><blockquote id="blockquote_32">              "(3) The constitutional command to the State to afford
+              equal protection of its laws sets a goal not attainable by
+              the invention and application of a precise formula.
+              Therefore, classification need not be constituted by an
+              exact or scientific exclusion or inclusion of persons or
+              things. The courts should not insist on delusive
+              exactness or apply doctrinaire tests for determining the
+              validity of classification in any given case. Classification
+              is justified if it is not palpably arbitrary.</blockquote><p id="p_64">
+
+</p><p id="p_65">              (4) The principle underlying the guarantee of <a href="/doc/367586/" id="a_57">Article 14</a>
+              is not that the same rules of law should be applicable to
+              all persons within the Indian territory or that the same
+              remedies should be made available to them irrespective
+              of differences of circumstances. It only means that all
+              persons similarly circumstanced shall be treated alike
+
+
+LPA No. 431/2010                                                   page 30 of 42
+               both in privileges conferred and liabilities imposed.
+              Equal laws would have to be applied to all in the same
+              situation, and there should be no discrimination
+              between one person and another if as regards the
+              subject-matter of the legislation their position is
+              substantially the same.
+</p>
+<p id="p_66">              (5) By the process of classification, the State has the
+              power of determining who should be regarded as a
+              class for purposes of legislation and in relation to a law
+              enacted on a particular subject. This power, no doubt, in
+              some degree is likely to produce some inequality; but if
+              a law deals with the liberties of a number of well
+              defined classes, it is not open to the charge of denial of
+              equal protection on the ground that it has no
+              application to other persons. Classification thus means
+              segregation in classes which have a systematic relation,
+              usually     found      in   common      properties     and
+              characteristics. It postulates a rational basis and does
+              not mean herding together of certain persons and
+              classes arbitrarily.
+</p>
+<p id="p_67">              (6) The law can make and set apart the classes according
+              to the needs and exigencies of the society and as
+              suggested by experience. It can recognize even degree
+              of evil, but the classification should never be arbitrary,
+              artificial or evasive.
+</p>
+<p id="p_68">              (7) The classification must not be arbitrary but must be
+              rational, that is to say, it must not only be based on
+              some qualities or characteristics which are to be found
+              in all the persons grouped together and not in others
+              who are left out but those qualities or characteristics
+              must have a reasonable relation to the object of the
+              legislation. In order to pass the test, two conditions
+              must be fulfilled, namely, (1) that the classification must
+              be founded on an intelligible differentia which
+              distinguishes those that are grouped together from
+
+
+
+LPA No. 431/2010                                                  page 31 of 42
+               others and (2) that that differentia must have a rational
+              relation to the object sought to be achieved by the Act."
+
+
+
+</p><p id="p_69">30.    <a href="/doc/482515/" id="a_58">In Transport and Dock Workers Union and Others v. Mumbai Port
+
+Trust and Anr</a>., 2011 AIR SCW 220, it has been opined thus:
+
+
+</p><blockquote id="blockquote_33">              "21. It has been repeatedly held by this Court that
+              <a href="/doc/367586/" id="a_59">Article 14</a> does not prohibit reasonable classification for
+              the purpose of legislation or for the purposes of
+              adoption of a policy of the legislature or the executive,
+              provided the policy takes care to reasonably classify
+              persons for achieving the purpose of the policy and it
+              deals equally with all persons belonging to a well
+              defined class. It is not open to the charge of denial of
+              equal protection on the ground that the new policy does
+              not apply to other persons. In order, however, to pass
+              the test of permissible classification, as has been laid
+              down by the Supreme Court in the catena of its
+              decisions, two conditions must be fulfilled; (1) that the
+              classification must be founded on an intelligible
+              differentia which distinguishes persons or things that
+              are grouped together from others left out of the group
+              and (2) that the differentia must have a rational relation
+              to the object ought to be achieved by the statute in
+              question, vide <a href="/doc/294497/" id="a_60">Gopi Chand v. Delhi Administration</a>,
+              AIR 1959 SC 609 (see also Basu‟s „Shorter Constitution
+              of India, fourteenth edition 2009 page 81).
+</blockquote>
+<blockquote id="blockquote_34">              22. Thus the classification would not violate the equality
+              provision contained in <a href="/doc/367586/" id="a_61">Article 14</a> of the Constitution if it
+              has a rational or reasonable basis."
+</blockquote>
+
+
+
+<blockquote id="blockquote_35">LPA No. 431/2010                                                  page 32 of 42
+</blockquote><blockquote id="blockquote_36"> 31.    <a href="/doc/769498/" id="a_62">In Narmada Bachao Andolan v. State of Madhya Pradesh &amp; Anr</a>.,
+
+2011 (5) Scale 624, it has been held as follows:
+</blockquote>
+
+<blockquote id="blockquote_37">              "66. Unequals cannot claim equality.         <a href="/doc/450953/" id="a_63">In Madhu
+              Kishwar &amp; Ors. v. State of Bihar &amp; Ors</a>., AIR 1996 SC
+              1864, it has been held by this Court that every instance
+              of discrimination does not necessarily fall within the
+              ambit of <a href="/doc/367586/" id="a_64">Article 14</a> of the Constitution.
+</blockquote>
+<blockquote id="blockquote_38">              67.    Discrimination means an unjust, an unfair action
+              in favour of one and against another. It involves an
+              element of intentional and purposeful differentiation
+              and further an element of unfavourable bias; an unfair
+              classification. Discrimination under <a href="/doc/367586/" id="a_65">Article 14</a> of the
+              Constitution must be conscious and not accidental
+              discrimination that arises from oversight which the
+              State is ready to rectify...."
+</blockquote>
+
+
+<p id="p_70">32.    Keeping in view the aforesaid pronouncements, it is to be scanned
+
+whether the stipulation of „deferred date‟ is unjust and unfair and by
+
+providing such a date, an unreasonable classification has been made
+
+between two categories of policy holders, namely, the policy holders after
+
+a particular age and also period and the policy takers who breathe their
+
+last prior to the said period.
+</p>
+<p id="p_71">
+</p><p id="p_72">33.    The special provision no.2 which we have reproduced hereinbefore
+
+stipulates that if the death of the insured occurs within a period of two
+
+years of the commencement of policy, only the premium paid till that date
+
+LPA No. 431/2010                                               page 33 of 42
+ would be payable and nothing more.            The deferred date has been
+
+mentioned in the policy as 14.10.1996. Thus, the submission of the learned
+
+counsel for the appellant is that the stipulation of deferred date in the
+
+policy is neither unfair nor unjust nor unreasonable. It cannot be regarded
+
+as an unconscionable clause in the contract of insurance which plays foul
+
+of <a href="/doc/367586/" id="a_66">Article 14</a> of the Constitution of India. It is urged that in the case of a
+
+child, it is not possible to obtain any medical report or special report which
+
+would indicate the expected mortality in respect of life.       The medical
+
+examination is unlikely to reveal an authentic and reliable insight into the
+
+status of health of a child. It is urged by him that the Corporation has to
+
+deal with the risk and uncertainty based on actuarial presumptions and
+
+assumptions while undertaking the risks and carving out exceptions and
+
+exclusions. It is canvassed by him that there is no legal compulsion on
+
+anyone to effect an insurance policy, if the terms and conditions are not
+
+acceptable to him.
+</p>
+<p id="p_73">
+</p><p id="p_74">34.    At this juncture, we may note with profit that in the case of
+
+Consumer Education and Research Centre &amp; Ors (supra), the Life
+
+Insurance Corporation had confined the benefit of availing the policy to
+
+salaried class from government, semi-government or reputed commercial
+
+
+LPA No. 431/2010                                                 page 34 of 42
+ firms and it was not available to other categories of people. In that context,
+
+the Apex Court held that though the insurer is free to evolve a policy
+
+based on business principles and conditions, yet it has to be consistent
+
+with the constitutional philosophy and the conscience of socio-economic
+
+justice. Their Lordships further opined that the classification based on
+
+employment is insidious and has the inevitable effect of excluding lives in
+
+vast rural and urban areas engaged in unorganized or self-employed
+
+sectors which offends <a href="/doc/367586/" id="a_67">Article 14</a> of the Constituion of India. It has also
+
+been ruled in the said case that a duty is cast on the Corporation to lay
+
+down stipulations in a policy which are reasonable, just and fair and the
+
+terms and conditions should be accessible to all the segments of the society
+
+for insuring the lives of eligible persons and the eligibility conditions must
+
+be comfortable to the preamble, fundamental rights and directive
+
+principles of the Constitution. In the case at hand, there is no stipulation
+
+by which any particular category or categories of persons have been
+
+excluded.    It is contended that the Corporation has several Children‟s
+
+Deferred    Assurance    policies   intended   to   meet   different    needs,
+
+requirements with different rates of premium and the policies varying
+
+deferred dates for commencement of coverage of risk of death thereunder.
+
+
+
+</p><p id="p_75">LPA No. 431/2010                                                 page 35 of 42
+ Jeevan Kishor Policy (Plan 102) can be proposed by parents of children
+
+between ages 1 to 12 years. The risk cover commences from the policy
+
+anniversary after attaining the age of seven years or on expiry of a period
+
+of two years from the commencement of the policy, whichever is later.
+
+The deferred assurance policies have lower rates of premium as there is an
+
+initial "claim free" period. At the commencement of the policy, the rate of
+
+premium is lower and the said rate remains constant throughout the entire
+
+term of the policy which may extend to 35 years. As is perceptible from
+
+the analysis of the learned Single Judge, he has compared the figures of
+
+actual claims under Jeevan Kishor Policies for the years 1999-2000, 2000-
+
+2001 and 2001-2002 in respect of children in the age group of 11 years with
+
+those of the other age groups upto 15 years and expressed the view that
+
+the clause is unfair.     We think it appropriate to reproduce the said
+
+paragraph of the order of the learned Single Judge:
+
+
+</p><blockquote id="blockquote_39">              "10. In a further additional affidavit filed by the LIC on
+              28th April 2003, the information relating to number of
+              Jeevan Kishor Policies issued from 1990-1991 to 2001-
+              2002 including the ages of the victims have been given.</blockquote><p id="p_76">
+</p><p id="p_77">              Given the large number of Jeevan Kishor Policies issued
+              [which stood at 471000 as of 2001-02], the actual claims
+              in respect of children in the age group of eleven years
+              for the years 1999-2000, 2000-2001 and 2001-2002 are 39,
+              55 and 53 respectively. The figures are comparable for
+
+
+LPA No. 431/2010                                                 page 36 of 42
+               other age groups upto 15 years. By no means can it be
+              argued that there will be far too many claims against
+              the LIC if the "deferred date" clause is not incorporated.
+              Given the number of claims being made on a yearly
+              basis on account of the deaths of children under the
+              Jeevan Kishor Policy, this Court holds that the LIC is
+              not acting fairly or reasonably in insisting that no claim
+              will be entertained for two years after the
+              commencement of the policy."
+</p>
+<p id="p_78">
+
+</p><p id="p_79">35.    Thus, the learned Single Judge has been guided by the number of
+
+claims. The basic concept, as is understood, pertains to a different area.
+
+The fact of the matter is that the medical report of the children do not
+
+provide reliable guide to future expected mortality and that is the reason
+
+for no medical examination. The deferred payment for commencement of
+
+the risk or waiting period of two years has been postulated. It may bear
+
+repetition that the child is not medically examined. It is also seen that the
+
+rates in the Tables for the policies with deferred dates are lower than those
+
+which are without deferred dates. This is fundamentally an anticipated
+
+policy for the children. It is not a case where a clause is incorporated in the
+
+contract where the bargaining powers of the contracted parties are
+
+different. It is a policy available for a child on a deferred date basis.
+
+
+
+
+</p><p id="p_80">LPA No. 431/2010                                                   page 37 of 42
+</p><p id="p_81"> 36.    The learned senior counsel for the appellant has brought to our
+
+notice the Child Life Insurance Policy which we think it appropriate to
+
+reproduce in entirety:
+</p>
+<p id="p_82">
+</p><blockquote id="blockquote_40">              "As the name suggests, child insurance policy or
+              children plans means an insurance policy on the lives of
+              children, who are not majors. Since the age of child is
+              below 18 years, the proposal will have to be made by a
+              parent or a guardian.
+</blockquote>
+<blockquote id="blockquote_41">              One of the advantages of child insurance plans is that
+              the premium which will be considered at the
+              commencement of the policy is relatively lower because
+              of the young age. Usually, a child insurance plan can be
+              purchased when the child is 3 months old (or 91 days of
+              age). However, the risk cover on the life of the insured
+              child will commence only when the child attains a
+              specified age. This clause is according to the rules of
+              IRDA (Insurance Regulatory and Development
+              Authority). Such a time gap between the date of
+              commencement of the insurance policy and the
+              commencement of the risk is called the "Deferment
+              period". The date, on which the risk will commence, at
+              the end of the deferment period is called the "Deferred
+              Date".
+</blockquote>
+<blockquote id="blockquote_42">              Let us explain the basic concept of a child plan with
+              Ranjan‟s example. He is 27 years old, married with a 2-</blockquote><p id="p_83">
+</p><p id="p_84">              year old daughter. He purchases a child plan for his
+              daughter Sameera. Ranjan has now covered his
+              daughter under the child insurance plan but her life
+              cover doesn‟t start till she is 7 years old. However, the
+              plan continues as usual and no mortality charge is
+              deducted till Sameera reaches 7 years of age; this is
+              because her life cover doesn‟t start till such time. The
+              day her life cover starts, i.e. the first policy anniversary
+
+
+LPA No. 431/2010                                                   page 38 of 42
+               after her 7th birthday, is called the Deferred Date. From
+              this day onwards the life cover of the child Sameera
+              starts, i.e. if she dies after the deferred date her family
+              would get the entire sum assured. But if she had died
+              before the deferred date, her family would only get
+              back the premiums paid and no sum assured would be
+              payable. When Sameera attains 18 years of age or any
+              later date as may be chosen, the title of the policy
+              automatically passes on to her name. This process is
+              called as Vesting. Therefore, the day on which the
+              policy contract is transferred from Ranjan to Sameera,
+              i.e. the first policy anniversary after her 18th birthday, is
+              called the Vesting Date. After vesting, the insurance
+              policy becomes a contract between the insurance
+              company and Sameera.
+</p>
+<p id="p_85">              This life insurance policy covers the risk of the child‟s
+              life. This is a distinctive plan as the entire amount
+              payable gets transferred in the name of the child once
+              he/ she is 18 years old. Thus it becomes a big asset for
+              the child‟s future to take care of various financial
+              commitments       and     pursue    higher    education,
+              professional courses, develop skill sets, travel places,
+              plan other investments and many others."
+</p>
+<p id="p_86">
+
+</p><p id="p_87">37.    At this juncture, we may note a submission of the learned senior
+
+counsel for the appellant that there is a statutory regulatory mechanism,
+
+namely, the Insurance Regulatory and Development Authority (IRDA)
+
+under the Insurance Regulatory and <a href="/doc/1515277/" id="a_68">Development Act</a>, 1999.                      An
+
+obligation is cast on the regulatory body to regulate, promote and ensure
+
+orderly growth of the insurance business and reinsurance business.
+
+
+
+</p><p id="p_88">LPA No. 431/2010                                                    page 39 of 42
+ <a href="/doc/1880542/" id="a_69">Section 14(2)</a> of the Act enumerates the powers and the functions of the
+
+authority. No insurance policy can be introduced in the market or be
+
+modified without prior scrutiny and approval of IRDA. The deferred date
+
+policies for children issued by the LIC have been approved by IRDA. The
+
+same has been based on actuarial and economic policies. It is also worth
+
+noting that there are deferred term policies in Canada and in advanced
+
+countries like United Kingdom, life insurance is not available for those
+
+below the age of 16 years. We have referred to these aspects only to
+
+appreciate the nature of the policy, the bargaining power and the
+
+international phenomenon.     A policy of life insurance is a question of
+
+bonafides and faith. The present policy, as is perceived, does not exclude
+
+anyone to have such a policy for a child. In Consumer Education and
+
+Research Centre &amp; Ors (supra), their Lordships have held that the policy in
+
+issue excluded certain categories of persons as a consequence of which it
+
+defied the constitutional animation and conscience. In the case at hand, it
+
+is not a case of exclusion.
+</p>
+<p id="p_89">
+</p><p id="p_90">38.    It is urged by Mr.Tiku, learned senior counsel for the respondents
+
+that in case of policies under the contract of life insurance and in other
+
+policies where a premium is being paid, the sum assured becomes due and
+
+
+LPA No. 431/2010                                              page 40 of 42
+ there is no question of deferred date. In essence, the submission is that
+
+there is a classification between the policy holders who are not covered by
+
+the deferred date and certain other policy holders who come within the
+
+domain of the deferred date. The deferred date or the waiting period in a
+
+policy and in "Jeevan Kishor Policy" have the following four main
+
+features: (i) it is a policy which covers a child where the physical health
+
+and the medical examination is not done and it is also not possible to find
+
+out the predictability or anticipated certainty of life; (ii) the premium paid
+
+is much lower than the premium which is paid in the normal or other
+
+categories of life insurance policies; (iii) the policy is uniformly applicable
+
+to all children belonging to all stratum of society and it is not that parents
+
+belonging to more financially sound category can pay the premium and
+
+cover the risk of the child for the assured sum without the waiting period
+
+or avoid the deferred date; and (iv) the policy is fundamentally a
+
+protection for the child as eventually there is a concept of vesting after
+
+attaining the age of 18 years.
+</p>
+<p id="p_91">
+</p><p id="p_92">39.    Judged on these parameters, we are unable to pursuade ourselves to
+
+concur with the view expressed by the learned Single Judge that the action
+
+of the Corporation is unfair inasmuch as the incorporation of the „deferred
+
+
+LPA No. 431/2010                                                 page 41 of 42
+ date‟ in the special conditions of the policy does not appear to us as unfair,
+
+unreasonable or unconscionable. We may hasten to clarify that we have
+
+referred to the acceptance of the policy by the regulatory body only to
+
+appreciate the submission in proper perspective but we have adverted to
+
+the issue as indicated hereinbefore on the anvil and touchstone of <a href="/doc/367586/" id="a_70">Article
+
+14</a> of the Constitution of India.
+</p>
+<p id="p_93">
+</p><p id="p_94">40.    In view of the aforesaid premised reasons, we arrive at the
+
+irresistible conclusion that the conditions incorporated in the "Jeevan
+
+Kishor Policy" withstand nuanced judicial scrutiny and do not cause
+
+discomfort to <a href="/doc/367586/" id="a_71">Article 14</a> of the Constitution and consequently, the appeal is
+
+allowed and the order passed by the learned Single Judge is set aside. In
+
+the facts and circumstances of the case, there shall be no order as to costs.</p><pre id="pre_4">
+
+
+
+
+                                                    CHIEF JUSTICE
+
+
+
+
+JULY 04, 2011                                       SANJIV KHANNA, J.
+kapil/dk
+
+
+
+
+LPA No. 431/2010                                                 page 42 of 42
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

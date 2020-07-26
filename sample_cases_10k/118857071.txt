@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>B.O.C.A. vs Raman Sharma on 26 December, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/118857071/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/118857071/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/118857071/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/118857071/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Jammu & Kashmir High Court</div>
+<div class="doc_title">B.O.C.A. vs Raman Sharma on 26 December, 2018</div><pre id="pre_1">Suppl. List No. 1
+Case No. 100
+
+
+                 HIGH COURT OF JAMMU AND KASHMIR
+                             AT JAMMU
+
+OWP No. 2639/2018, IA No.1/2018.
+                                                     Date of Order: 26.12.2018.
+
+B. O. C. A.                               Vs                      Raman Sharma
+Coram:
+             Hon'ble Mr. Justice Dhiraj Singh Thakur, Judge
+
+     For the appellant(s)/petitioner(s)   : Mr. Sachin Gupta, Advocate.
+     For the respondent(s)                :</pre>
+<pre id="pre_2">i.        Whether approved for                 :             Yes/No
+          reporting in Press/Media
+ii.       Whether to be reported in            :             Yes/ No.
+          Digest/Journal
+
+</pre><p id="p_1">          This is an appeal preferred against an interim order dated
+14.12.2018, passed by the J&amp;K Special Tribunal, Jammu. The only
+ground on which the order impugned has been challenged is that
+while ordering maintenance of status-quo, notice as per Section 13
+of the J&amp;K Control of Building Operation Act, 1988 was not issued.
+</p>
+<p id="p_2">          Heard learned counsel for the petitioner.
+</p>
+<p id="p_3">          On a perusal of the order impugned, it is clear that the said
+order is only an interim order and no final judgment has been
+passed. Learned counsel for the petitioner admitted that an
+application for vacation of order has since been filed before the
+learned Special Tribunal, Jammu, it will be in the fitness of things to
+allow the Tribunal to consider the same on its own merit. This
+petition at this stage is found to be premature and is, accordingly,
+dismissed along with connected IA.
+</p>
+
+<p id="p_4">                                                       (Dhiraj Singh Thakur)
+                                                              Judge
+Jammu
+26.12.2018
+(Muneesh)
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

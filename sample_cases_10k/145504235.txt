@@ -1,0 +1,708 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Suit No. 420/2004 vs U.P. State Road Transport ... on 26 September, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/145504235/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/32775809/">Section 140 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/136948773/">Section 166 in The Motor Vehicles Act, 1988</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/145504235/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/145504235/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sonu">sonu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22chopra">"chopra</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contributory%20negligence">contributory negligence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contributory%20">contributory </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=419">419</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=medical%20bills%20%20filter%3A%20%20vehicle%20accident">medical bills  filter:  vehicle accident</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=medical%20bills">medical bills</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=roadways">roadways</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shyam%20lal%20">shyam lal </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shyamlal">shyamlal</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Suit No. 420/2004 vs U.P. State Road Transport ... on 26 September, 2007</div><div class="doc_author">Author: Sh. T.R. Naval</div>
+
+<pre id="pre_1">                                 1
+
+                        IN THE COURT OF 
+           DR. T. R. NAVAL: PRESIDING OFFICER
+           MOTOR ACCIDENTS CLAIMS TRIBUNAL
+             KARKARDOOMA COURTS: DELHI
+
+                    Date of Institution : 17th January, 2004
+                    Date of Arguments : 22nd September, 2007
+                    Date of Order : 26th  September, 2007
+
+IN MATTERS OF
+
+1.      Suit No. 420/2004
+
+
+Ravish Chopra S/o Vijay Kumar,
+R/o F­94, Sudershan Park,
+Moti Nagar, Delhi.                                 
+                                            PETITIONER
+
+V E R S U S 
+
+1.      U.P. State Road Transport Corporation,
+        Through Manager, U.P. Roadways,
+        Meerut Depot, Meerut, U.P.
+
+2.      Rahimuddin S/o Wazir Ahmed
+        R/o Nai Basti Khatauli,
+        (Behind Basant Cinema), P.S. Khatauli,
+        Distt. Muzaffar Nagar, U.P.           
+                                            RESPONDENTS</pre>
+<p id="p_1">AND
+
+
+</p><p id="p_2">2.      SUIT No. 419/2004 
+
+Uttam @ Sonu S/o Vijay Kumar
+R/o F­1/82, Sudershan Park,
+<span class="hidden_text" id="span_1">                                          2</span>
+
+Moti Nagar, Delhi.
+</p><p id="p_3">                                                        PETITIONER 
+
+V E R S U S
+
+</p><p id="p_4">1.      U.P. State Road Transport Corporation,
+        Through Manager, U.P. Roadways,
+        Meerut Depot, Meerut, U.P.
+</p>
+<p id="p_5">2.      Rahimuddin S/o Wazir Ahmed
+        R/o Nai Basti Khatauli,
+        (Behind Basant Cinema), P.S. Khatauli,
+        Distt. Muzaffar Nagar, U.P.           
+</p><p id="p_6">                                           RESPONDENTS  
+                               A W A R D
+
+
+        This common award will dispose off two petitions bearing
+
+No.   420/2004   (hereinafter   referred   to   Ist   case)   &amp;   419/2004
+
+(hereinafter referred to IInd case) under <a href="/doc/136948773/" id="a_1">Sections 166</a>/<a href="/doc/32775809/" id="a_2">140</a> of the
+
+Motor Vehicle Act, 1988, (herein after referred to as Act) filed by
+
+the petitioners.
+</p>
+<p id="p_7">
+
+</p><p id="p_8">2.      The   facts   of   the   petitioners   cases   in   brief   are   that   on
+
+17.05.2003 the petitioner Ravish Chopra was going on scooter No.
+
+DL­4SG­5524   to   Ghaziabad   from   Delhi   alongwith   his   friend
+
+Sonu.     At   about   3.00   P.M   when   they   reached   G.T.   Road   near
+
+Shyam Lal College, his friend Sonu who was driving the scooter
+
+applied the brakes  to slow down in order to save a rickshaw wala.
+
+A U.P. Roadways Bus No. UP­15­A­1868(herein after referred to
+<span class="hidden_text" id="span_2">                                        3</span>
+
+as the offending vehicle) being driven by its driver respondent No.
+
+2 in a very rash and negligent manner and at a high speed came
+
+from behind and hit their scooter.  As a result both the petitioners
+
+fell down alongwith his friend and they sustained grievous injuries
+
+on their person.  The petitioners were removed to GTB Hospital.
+
+The petitioners claimed compensation of Rs. 3 lacs each from the
+
+respondents being owner and driver of the offending vehicle.
+
+
+
+</p><p id="p_9">3.     Respondent Nos. 1 &amp; 2 contested their cases on the grounds
+
+interalia, that there was no fault of the driver of the bus in the
+
+accident.   They further pleaded that the petitioners were coming
+
+on their scooter from wrong side of the road and a rickshaw was
+
+also   coming   from   wrong   side.     The   driver   of   the   scooter   was
+
+driving  the scooter at a fast speed   and in a rash and negligent
+
+manner   and  while  overtaking  the  rickshaw  the  scooter  collided
+
+with the rickshaw and fell on road in front of the bus and there
+
+was very slight impact by bus.  They denied rest of the allegations
+
+and prayed for dismissal of petitions pleading that this may be a
+
+case of contributory negligence.
+</p>
+                
+<p id="p_10">
+</p><p id="p_11">4.     As both petitions were relating to same accident, therefore,
+
+both   these   petitions   were   consolidated   vide   order   dated
+
+06.07.2004.
+</p><span class="hidden_text" id="span_3">                                       4</span><p id="p_12">
+
+</p><p id="p_13">5.    On   the   pleadings   of   the   parties,   following   issues   were
+
+framed in both the cases :
+</p>
+<blockquote id="blockquote_1">      1.     Whether   the   injuries   sustained   by   the
+             petitioners   were   caused   due   to   rash   and
+             negligent   driving   of   bus   No.   UP­15A­1868,
+             by   the   respondent   No.   2   and   owned   by
+             respondent No. 1?
+</blockquote>
+<blockquote id="blockquote_2">      2.     Whether   the   injuries   were   caused   due   to
+             contributory   negligence   on   the   part   of   the
+             driver of the scooter No. DL­4SG­5524?
+</blockquote>
+<blockquote id="blockquote_3">      3.     Whether the petitioner is entitled for grant and
+             payment of compensation for sustaining such
+             injuries?   If   so,   to   what   amount   and   from
+             whom?
+</blockquote>
+<blockquote id="blockquote_4">      4.     Relief.
+</blockquote>
+
+
+<p id="p_14">6.    In   support   of   the   case,   the   counsel   for   the   petitioners
+
+examined   HC   Virender   Singh   as   PW­1,   Shri   Sushil   Kumar,
+
+Record   Clerk,   GTB   Hospital,   as   PW­2,   Sh.   Ravish   Chopra,
+
+petitioner as PW­3, Shri Uttam @ Sonu, petitioner as PW­4 and
+
+Shri T.N. Shukla, Office Assistant, Flex Medical Centre as PW­5.
+
+In   order   to   prove   their   defence,   Sh.   Rahimuddin   respondent
+
+examined himself as R1. 
+</p>
+<p id="p_15">
+</p><p id="p_16">7.     After closing of evidence of the parties, I heard arguments
+
+of Ld. Counsels for parties and perused the files. 
+<span class="hidden_text" id="span_4">                                          5</span>
+
+</p><p id="p_17">8.      On perusal of pleadings of parties; examination of evidence
+
+on record; and considering the arguments of Ld. Counsels for the
+
+parties, I formed my views which are discussed herein below issue
+
+wise.
+</p>
+<p id="p_18">
+FINDINGS ON ISSUE NO.1
+
+</p><p id="p_19">9.      PW­3   and   PW­4   in   their   affidavits   Ex.PW3/A   and
+
+Ex.PW4/A interalia stated that on 17.05.2003 they were travelling
+
+on scooter NO. DL­4SG­5524 and were going towards Ghaziabad.
+
+At   about   3.00   PM   when   they   reached   in   front   of   Shyam   Lal
+
+College, G.T. Road, Shahdara, Sh. Sonu slowed down the speed of
+
+their   scooter   as   a   rickshaw   had   come   in   their   front.     An   U.P.
+
+Roadways bus no. UP­50­A­1868 which was coming on a high
+
+speed hit their scooter from behind.  As a result they fell down and
+
+sustained grievous injuries.   The driver of the offending vehicle
+
+was apprehended at the spot by the public persons.   They were
+
+removed to GTB Hospital.   Police on information reached at the
+
+hospital and recorded their statements.  In cross examination PW­
+
+3 deposed that in order to avoid the impact with rickshaw Uttam
+
+slowed down the speed and turned their scooter.   Due to sudden
+
+turning the scooter came in the channel of the bus.  It was denied
+
+that   had   the   rickshaw   not   come   in   front   of   their   scooter   the
+
+accident could have not taken place.  It was also denied that they
+
+were trying to overtake the rickshaw by driving the scooter in rash
+<span class="hidden_text" id="span_5">                                         6</span>
+
+and negligent manner and in that process scooter hit the rickshaw
+
+and they fell down and then they were hit with the bus.  RW­1 on
+
+this aspect deposed that on 17.05.2003 he was going from Delhi to
+
+Khatauli, U.P.  There was red light signal at Shyam Lal College.
+
+A   scooterist   hit   the   cycle   rickshaw   as   a   result   of   which   the
+
+occupants   of   scooter   fell  down  on  the  road   and  they  sustained
+
+injuries.  The said scooter never hit the bus in any manner.  The
+
+accident   had   taken   place   due   to   sole   negligence   of   driver   of
+
+scooter.  However in the cross examination he admitted that police
+
+arrested him and a criminal case against him is pending before the
+
+criminal court.  FIR No. 141/2003 at Shahdara Police station was
+
+also registered against respondent No. 2.   PW­1 proved copy of
+
+FIR   as   Ex.PW1/A.     It   implicate   respondent   No.   2   and   the
+
+offending  vehicle.   In view of the reasons and discussion made
+
+herein above it is held that petitioner Sh. Uttam Chand @ Sonu
+
+and   Sh.   Ravish   Chopra   sustained   injuries   due   to   rash   and
+
+negligent   driving   by   respondent   No.   2.     This   issue   is   decided
+
+accordingly.
+</p>
+<p id="p_20">
+
+<span class="hidden_text" id="span_6">FINDINGS ON ISSUE NO. 2</span>
+
+</p><p id="p_21">10.    Let us see whether Sonu @ Uttam Chand and Sh. Ravish
+
+Chopra sustained injuries due to contributory negligence of Shri
+
+Sonu @ Uttam Chand?   The driving licence of respondent No. 2
+<span class="hidden_text" id="span_7">                                        7</span>
+
+was  filed.    It  was  valid  on the  date  of  accident  because it  was
+
+renewed   for   the   period   15.02.2001   to   14.02.2004.   In   cross
+
+examination PW­4 Shri Uttam @ Sonu, who was allegedly driving
+
+the scooter admitted that he did not have any driving licence for
+
+driving the scooter.  He failed to file and prove that he was having
+
+valid driving licence to drive the scooter on the date of accident.
+
+Since   he   was  driving  the  scooter  without  driving  licence,  it  is,
+
+therefore,   presumed   that   he   was   not   aware   about   the   skill   of
+
+driving.   As he found doing so it can safely be held that he was
+
+guilty of contributory negligence.  
+</p>
+<p id="p_22">
+
+</p><p id="p_23">11.    In view of the reasons and discussions made herein above it
+
+is held that  Sh. Sonu @ Uttam was also liable for contributory
+
+negligence and due to driving of offending vehicle by respondent
+
+Nos. 1 and 2 and scooter by Sonu @ Uttam Chand, Sh. Sonu @
+
+Uttam  and  Sh.  Ravish  Chopra sustained  injuries.   This  issue  is
+
+accordingly   decided   in   favour   of   respondents   and   against
+
+petitioner of suit No. 419/04.  
+</p>
+<p id="p_24">
+
+<span class="hidden_text" id="span_8">FINDINGS ON ISSUE NO. 3</span>
+
+</p><p id="p_25">12.    As it has been held herein above that Shri Sonu @ Uttam
+
+Chand and Ravish Chopra sustained injuries in rash and negligent
+
+driving of respondent no. 2, therefore they became entitled to get
+<span class="hidden_text" id="span_9">                                         8</span>
+
+compensation.     Now,   it   has   to   be   seen   what   is   the   extent   of
+
+compensation, they are entitled to get and from whom?
+
+
+
+</p><p id="p_26">13.    PW­2   proved  MLC  of  Shri  Ravish  Chopra  as  Ex.PW1/A
+
+and MLC of Shri Sonu as Ex.PW2/B.   PW­4 Shri Sonu proved
+
+medical   bills   as   Ex.P1   to   P15   and   original   medical   papers   as
+
+Ex.P16 to P20.  PW­5 proved admission and discharge record of
+
+Shri  Ravish  Chopra and Sh. Sonu as Ex.PW5/1 and Ex.PW5/2.
+
+He   also   admitted   that   Sh.   Ravish   Chopra   was   admitted   in   the
+
+hospital   on   18.05.2003   and   discharged   on   22.052003   and   Sh.
+
+Sonu was admitted in the hospital on 20.05.2003 and discharged
+
+on   31.05.2003.     He   further   stated   that   treatment   record   of   Sh.
+
+Ravish Chopra consisted of 16 pages and treatment record of Sh.
+
+Sonu consisted of 35 pages.   Total of the medical bills Ex.P1 to
+
+P15 of Sh. Sonu comes to Rs.53,667.00.   Total of medical bills
+
+Ex.PW3/13   to   Ex.PW3/30   of   Sh.   Ravish   Chopra   comes   to
+
+Rs.31,899.00.  The total of other bills of Sh. Ravish Chopra Ex.PA
+
+to  PQ4  comes to Rs.36,152.00.   Bill  Ex.PA to PQ4 are for the
+
+period   from   21.05.2003   to   06.11.04.     The   bill   Ex.PW3/13   to
+
+Ex.PW3/30 are for the period from 28.01.2005 to 19.04.2005.
+
+
+
+</p><p id="p_27">14.    It has been argued on behalf of counsel for respondents that
+
+the bill Ex.PW3/13 to Ex.PW3/30 have no relevance and nexus
+<span class="hidden_text" id="span_10">                                        9</span>
+
+with the present case as these are the bills for a period after more
+
+than one and half year later than the date of accident.  Treatment
+
+record   of   Sh.   Ravish   Chopra   for   this   period   are   Ex.PW3/1   to
+
+Ex.PW3/12.     It   pertains   to   the   treatment   of   left   femur.     The
+
+original MLC of Ravish Chopra is Ex.PW2/A.  This shows that X­
+
+ray of pelvis as well as thigh were got conducted.   The medical
+
+report has thus established the connection of treatment obtained
+
+by the petitioner Ravish Chopra in Delhi soon after accident and
+
+at Chandigarh  in the year 2005.   Therefore, it is held that Shri
+
+Sonu   @   Uttam   Chand   has   established   that   he   had  spent
+
+Rs.53,667.00  and  Shri  Ravish  Chopra has  spent  Rs.63,040/­  on
+
+their treatment. 
+</p>
+<p id="p_28">
+
+</p><p id="p_29">15.    PW­3   Sh.   Ravish  Chopra  and  PW­4 Shri  Uttam  @  Sonu
+
+admitted  in   their   cross  examination  that  they  did  not  have  any
+
+disability   certificate   with   them.     They   have   neither   filed   nor
+
+proved   any   document   showing   their   income   on   the   date   of
+
+accident.   Like is the position of their educational qualifications.
+
+Sh.   Sonu   PW­4   in   his   affidavit   interalia   stated   that   he   spent
+
+Rs.10,000/­   on   conveyance   and   Rs.15,000/­   on   special   diet,
+
+besides, medical expenses of Rs.70,000/­.  As mentioned above he
+
+had filed and proved medical bills only for Rs.31,899.00.  He also
+
+claimed   compensation   for   loss   of   earnings   for   five   months   @
+<span class="hidden_text" id="span_11">                                       10</span>
+
+Rs.5000/­   per   month.     PW­3   Shri   Ravish   also   claimed
+
+compensation for loss of earnings for nine months @ Rs.4500/­
+
+per month,  besides, Rs.15,000/­  on conveyance and Rs.10,000/­
+
+on   special   diet   in   addition   to   the   medical   treatment   expenses.
+
+There is no document on record to show the monthly income of
+
+either Sh. Uttam Chand @ Sonu or Sh. Ravish Chopra.  There is
+
+also no document to show the period of their absence from duty.
+
+
+
+</p><p id="p_30">16.    In a case of  Sh. Bijoy Kumar Dugar Vs. Bidyadhar Dutta
+
+and others 2006 ACJ 1058 the court observed that there was head
+
+on collision with a car and bus being driven by respondent and the
+
+victim.     Observing   that   deceased   should   have   taken   care   and
+
+precaution to avoid head on collision, both the drivers of car and
+
+bus were held guilty of contributory negligence.  The Tribunal had
+
+awarded Rs.1,76,800/­ out of total compensation of Rs.3,53,600/­
+
+due to the contributory negligence of the deceased.   Relying on
+
+the principles  of said case, I am of the view that  Shri Sonu @
+
+Uttam Chand is not entitled to get full amount of compensation
+
+which is going to be assessed in his favour   He will get 75% of
+
+compensation.
+</p>
+<p id="p_31">
+
+Suit No. 420/2004
+
+</p><p id="p_32">17.    Keeping  in  view all  the  relevant  factors  and  evidence  on
+<span class="hidden_text" id="span_12">                                         11</span>
+
+record,   I   am   of   the   view   that   the   petitioner   Ravish   Chopra   is
+
+entitled for compensation as per following details:
+
+</p><pre id="pre_2">1.       Medical expenses               :  Rs.   63,040.00
+2.       Pain and Sufferings            :   Rs.   25,000.00
+3.       Special Diet                   :   Rs.   10,000.00
+4.       Conveyance                     :   Rs.   10,000.00
+5.       Loss of earnings approx.       : Rs.   10,000.00
+               Total                        Rs.1,18,040.00
+
+Suit No. 419/2004
+
+</pre><p id="p_33">18.    The   petitioner   Sonu   @   Uttam   Chand   is   entitled   for
+
+compensation as per following details:
+</p>
+<p id="p_34">
+</p><pre id="pre_3">1.       Medical expenses               :  Rs.   53,677.00
+2.       Pain and Sufferings            :   Rs.   25,000.00
+3.       Special Diet                   :   Rs.   10,000.00
+4.       Conveyance                     :   Rs.     5,000.00
+5.       Loss of earnings approx.       : Rs.     5,000.00
+               Total                        Rs.   98,677.00
+               Less  25%    =               Rs.   74,007.75 or say
+                                            Rs.   74,008.00
+
+
+</pre><p id="p_35">19.    Let us deal who is liable to pay the amount of compensation
+
+to the petitioners.   Admittedly respondent No. 1 is the owner of
+
+the offending vehicle and respondent No. 2 is its driver.   As the
+
+owner is responsible for the act of its employee, accordingly, it is
+
+held that respondent No. 1 is liable to pay the compensation to the
+
+petitioners.    
+</p><span class="hidden_text" id="span_13">                                         12</span><p id="p_36">
+
+RELIEF : ORDER
+
+</p><p id="p_37">20.    Consequent  upon the findings of both the issues award is
+
+passed in favour of the petitioners and against the respondents. In
+
+case   of   suit   No.   420/2004  respondent   No.   1   has   to   pay
+
+Rs.1,18,040.00 to the petitioner alongwith interest @ 7% from the
+
+date of institution of the petitions till date of realisation.   In suit
+
+No. 419/2004 respondent No. 1 has to pay   to the petitioner  Rs.
+
+74,008.00 to the petitioner alongwith interest @ 7% from the date
+
+of   institution   of   the   petitions   till   date   of   realisation  and   the
+
+petitioners will be entitled to get whole of the amount forthwith. 
+
+
+
+</p><p id="p_38">21.            The award amount, on deposit with this Tribunal be
+
+released to the petitioners . 
+</p>
+<p id="p_39">
+
+</p><p id="p_40">22.    Respondent   No   1   is,   accordingly,   directed   to   deposit   the
+
+award amount with this Tribunal by way of crossed cheque within
+
+one month from the date of this award. 
+</p>
+<p id="p_41">
+</p><p id="p_42">       A computerized copy of this award be placed in each file.  
+
+       File be consigned to record room.
+</p>
+<p id="p_43">Announced in the open court on
+this 26th day of September, 2007  ( DR. T.R. NAVAL )
+                                 PRESIDING OFFICER
+                                MACT : KKD COURTS
+                                      DELHI
+<span class="hidden_text" id="span_14">     13</span>
+
+ 
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

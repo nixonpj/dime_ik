@@ -1,0 +1,329 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Narendra Kumar Mehta vs Suraj Mehta on 28 September, 1981</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/349509/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 21 docs 
+      
+        - [<A HREF="/search/?formInput=cites:349509">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1449825/">Section 24 in The Hindu Marriage Act, 1955</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/972693/">Section 26 in The Hindu Marriage Act, 1955</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1025846/">Section 28 in The Hindu Marriage Act, 1955</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/590166/">The Hindu Marriage Act, 1955</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/518001/">The Appropriation (No. 2) Act,   1996</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 14 docs
+      
+        - [<A HREF="/search/?formInput=citedby:349509">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/26407098/">S.Sumathi vs R.Sharavanakumar on 30 April, 2013</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1699299/">Damodharan vs Meera on 12 August, 1986</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/668650/">Nalini vs Velu on 11 April, 1984</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1107429/">Hema vs S. Lakshmana Bhat on 19 July, 1985</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/514145/">Smt. Pushpa @ Pooja @ Bhawna W/O ... vs State Of U.P., District Judge And ... on 25 February, 2005</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/349509/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/349509/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interim%20maintenance">interim maintenance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interim%20maintenance%20more%20than%20maintenance">interim maintenance more than maintenance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appeal%20does%20not%20lie">appeal does not lie</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20expenses">legal expenses</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marriage%20act">marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage%20act">hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage">hindu marriage</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=maintenance%20award">maintenance award</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marginal%20note%20">marginal note </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=right%20to%20conjugal%20rights">right to conjugal rights</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conjugal%20rights">conjugal rights</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=restitution">restitution</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2026">section 26</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=13-b%20">13-b </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=special%20enactment">special enactment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20act">hindu act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20maintenance%20to%20child">no maintenance to child</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=desertion">desertion</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appeal%20right">appeal right</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=maintenance%20for%20wife">maintenance for wife</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Andhra High Court</div>
+<div class="doc_title">Narendra Kumar Mehta vs Suraj Mehta on 28 September, 1981</div><div class="doc_citations">Equivalent citations: AIR 1982 AP 100</div>
+
+<div class="doc_author">Author: M Reddy</div>
+
+<div class="doc_bench">Bench: M Reddy, Amareswari</div>
+
+<p id="p_1">JUDGMENT
+
+ 
+
+      Madhava Reddy, J.  
+</p> 
+
+<p id="p_2">1. These two appeals arise out of an order made  under<a href="/doc/1449825/" id="a_1"> S. 24</a> of the Hindu Marriage Act, 1955 (hereinafter referred to as 'the Act') awarding interim maintenance to the wife and the child of the respondent in O. P. L No. 102 of 1981 on the file of the II additional Judge, City Civil Court, Hyderabad.
+</p> 
+
+<p id="p_3">     2.  The petitioner herein is the wife and she filed an application under<a href="/doc/322349/" id="a_2"> s. 9</a> of the Act for restitution of conjugal rights on the ground of desertion. On the date of the petition, she had a child aged about two-and-half years. There is no dispute about the relationship between the parties. The husband claims that it was the wife that was guilty of desertion and, therefore, not entitled to the relief. Pending that petition, the wife claimed a sum of Rs. 600/- for herself and Rs. 200/- for the minor child towards maintenance, and Rs. 2,000/- towards legal expenses. In support of her petition,  she stated that while she was at Rajkot with her parents, she was somehow maintained by her parents and she was also getting some commission for collecting the Pigmy Bank contributions. She came down to Hyderabad and was staying in the house of her sister expecting the respondent-husband to take back her and the child into his house. The husband resisted the wife's claim, among others, on the ground that there behaviour was intolerable, that she had developed jealousy and unadjustable temperament towards the other members of the family consisting of his aged mother and brothers and that his own income was not more than Rs. 700/- per month from out of the partnership business and that there are no merits in the petitioner's application for restitution of conjugal rights.
+</p> 
+
+<p id="p_4">     3.  The learned trial Judge granted Rs. 300/- to the wife and Rs. 150/- to the child as interim maintenance with effect from 30-10-1979. He also granted Rs. 1,000/- towards legal expenses. Both the wife and the husband have preferred appeals.
+</p> 
+
+<p id="p_5">     4.  Opposing the appeal preferred by the husband, Sri M. L. Ganu, learned counsel for the respondent-wife contended at the outset that no appeal lies. If this contention is upheld, that will equally apply to the appeal preferred by the wife. It is, therefore, necessary to consider the question whether an appeal lies before taking up the other issues raised by the parties.
+</p> 
+
+<p id="p_6">     5.  The Hindu marriage Act is a special enactment and against any order or decree made thereunder, an appeal would lie only if such a decree or order is made appealable. Such a provision is contained in <a href="/doc/1025846/" id="a_3">Section 28</a> of the Act which, as amended by Act 68 of 1976 reads as follows:-
+</p>   
+
+<p id="p_7">     "28.  Appeals from decrees and orders:-
+</p>   
+
+<p id="p_8">     (1)  all decrees made by the court in any proceeding under this Act shall subject to the provisions of sub-sec. (3), be appealable as decrees of the court made in the exercise of its original civil jurisdiction and every such appeal shall lie to the court to which appeals ordinarily lie from the decisions of the court given in the exercise of its original civil jurisdiction.
+</p> 
+
+<p id="p_9">     (2)  Orders made by the court in any proceeding under this Act under<a href="/doc/95286/" id="a_4"> S. 25</a> or<a href="/doc/972693/" id="a_5"> S. 26</a> shall subject to the provisions of sub-sec. (3), be appealable if they are not interim orders, and every such appeal shall lie to the court to which appeals ordinarily lie from the decisions of the court given in the exercise of its original civil jurisdiction.
+</p> 
+
+<p id="p_10">     (3)  There shall be no appeal under this section on the subjects of costs only.
+</p> 
+
+<p id="p_11">     (4)  Every appeal under this section shall be preferred within a period of thirty days from the date of the decree or order."  
+</p> 
+
+<p id="p_12">     6.  Prior to the amendment,<a href="/doc/1025846/" id="a_6"> S. 28</a> of the Act read thus:-
+</p>   
+
+<p id="p_13">     "28.  All decrees and orders made by the court in any proceeding under this Act shall be enforced in like manner as the decrees and orders of the court made in the exercise of the original civil jurisdiction are enforced, and may be appealed from under any law for the time being in force.
+</p> 
+
+<p id="p_14">     Provided that there shall be no appeal on the subject of costs only." 
+</p> 
+
+<p id="p_15">     7.  It would be seen that prior to the amendment, all decrees and orders by the court in any proceeding under the Act could be appealed from  under any law for the time being in force. A petition for grant of maintenance or for grant of legal expenses, is a proceeding under the Act and against such an order, an appeal could be preferred just in the same manner as they could be preferred against any other decree or order made in exercise of original civil jurisdiction. That position was substantially altered by the 1976 amendment in<a href="/doc/1025846/" id="a_7"> S. 28</a> of the Act. Under<a href="/doc/1025846/" id="a_8"> S. 28</a> (1) of the Act, only decrees and not orders made by the court in any proceeding under the Act, were made appealable as decrees of the court made in exercise of the original civil jurisdiction. This provision was, however, made subject to the provision of sub-sec. (3) which declares that no appeal lies on the subject of costs only. Thus, under sub-<a href="/doc/590166/" id="a_9">section 91</a>) of<a href="/doc/1025846/" id="a_10"> S. 28</a> of the Act, orders made under the Act are not appealable. Subsection (2) of<a href="/doc/1025846/" id="a_11"> S. 28</a> declares what orders made under the Act are appealable. It lays down that orders made by the court in any proceeding under<a href="/doc/95286/" id="a_12"> s. 25</a> or<a href="/doc/972693/" id="a_13"> s. 26</a> of the Act, be appealable only if they are not interim orders and only if they are not orders on the subject of costs. In other words, no appeal lies against orders which are interim orders. Appeal lies, in the cawe of orders only if they are orders made under<a href="/doc/95286/" id="a_14"> S. 25</a> or 26 of the Act. However, even under these sections, if any interim order is made, it is not appealable. No appeal lies against orders made under any other section of the Act for right of appeal must be conferred by Act. 
+</p> 
+
+<p id="p_16">     8.  The order under appeal, insofar as it directs grant of Rs. 300/- to the wife by way of maintenance as also the order granting Rs. 1,000/- towards legal expenses, is an order covered by<a href="/doc/1449825/" id="a_15"> S. 24</a> of the Act. Under<a href="/doc/1449825/" id="a_16"> S. 24</a> of the Act, the court may order payment of maintenance either to the wife or to the husband, there is no provision under<a href="/doc/1449825/" id="a_17"> S. 24</a> of grant of maintenance to the child. That order can be made only under<a href="/doc/972693/" id="a_18"> S. 26</a> of the Act. Insofar as the order directs payment of Rs. 150/- for the maintenance of the child, that is an order made under<a href="/doc/972693/" id="a_19"> S. 26</a> of the Act. The order awarding maintenance to the child is, however, an order made pending disposal of the petition and not a final order. Although this order falls under<a href="/doc/972693/" id="a_20"> S. 26</a> of the Act, inasmuch as it is an interim order, in view of sub-section (2) of<a href="/doc/542052/" id="a_21"> S. 23</a> (287), no appeal lies. <a href="/doc/590166/" id="a_22">The Act</a> makes a clear distinction between decrees and orders. The substantive reliefs that may be granted by way of a decree under the Act, are matters covered by Secs. 9 to 13-B of the Act. Those are decrees with regard to restitution of conjugal rights under Sec. 9, judicial aspiration under<a href="/doc/888857/" id="a_23"> S. 10</a>, declaration of the marriage as void under<a href="/doc/1243269/" id="a_24"> S. 11</a>, annulling a marriage by a decree of nullity under<a href="/doc/368948/" id="a_25"> S. 12</a> or granting or refusing to grant a decree of divorce under Ss. 13 and 13-B of the Act. Whereas under Ss. 24, 25 and 26 of the Act, orders may be made pending disposal of petitions under Ss. 9 to 13-B of the Act under which provision may be made by way of interim maintenance, towards legal expenses, for the custody of the children under the decree. Provision may also be made under<a href="/doc/320503/" id="a_26"> S. 27</a> of the Act for the disposal of the property. 
+</p> 
+
+<p id="p_17">     9.  Having regard to the clear distinction made in the several provisions of the Act, when,<a href="/doc/1025846/" id="a_27"> S. 28</a> (1) as amended, declares all decrees to be appealable and sub-sec, (2) of<a href="/doc/1025846/" id="a_28"> S. 28</a> mentions that only certain orders are appealable, these appeals directed against the orders under<a href="/doc/1449825/" id="a_29"> s. 24</a> of the Act, and against the interim orders made under<a href="/doc/972693/" id="a_30"> S. 26</a> of the Act cannot be held to be maintainable. These orders are made under the  special enactment and unless the special enactment grants a right of appeal, none of the parties thereto can prefer an appeal on the mere ground that the Civil P. C., is made applicable under<a href="/doc/626721/" id="a_31"> S. 21</a> to all proceedings under the Act. <a href="/doc/626721/" id="a_32">Section 21</a> of the Act merely regulates the proceedings under the Act and does not either confer or take away the right of appeal. <a href="/doc/626721/" id="a_33">Section 21</a> of the Act, reads as follows:-
+</p>   
+
+<p id="p_18">     "21.  <a href="/doc/518001/" id="a_34">Application of Act</a> V of 1908:- Subject to the other provisions contained in this Act and to such rules as the High Court may make in this behalf, all proceedings under the Act shall be regulated, as far as may be, by the Code of Civil Procedure, 1908 (Act  V  of 1908)." 
+</p> 
+
+<p id="p_19">     10.  Whether an appeal lies against a decree or order made under the Act has, therefore, to be determined with reference to the specific provisions as contained in the enactment regarding appeals. Mere application of the provisions of the Code of Civil Procedure to the proceedings under the Act, does not by itself confer a right of appeal.
+</p> 
+
+<p id="p_20">     11.  No doubt, in J. Annapunamma  v.  Ramakrishna Sastry, , a Bench of this Court has observed that under the Hindu marriage Act,<a href="/doc/518001/" id="a_35"> S. 28</a>, as it then stood, conferred a right of appeal by reference to any other law for the time being in force. But that was with reference to<a href="/doc/518001/" id="a_36"> S. 28</a> as it then stood under which all decrees and orders were made appealable by reference to any law for the time being in force. After the amendment, distinction has been made with respect to decrees and orders. All decrees and only certain orders are made appealable while others are not. The orders under<a href="/doc/518001/" id="a_37"> S. 24</a> of the Act and interim orders under<a href="/doc/518001/" id="a_38"> S. 26</a> of the Act, are orders which are not made appealable. Even under the unamended Act, a contrary view was taken in Saraswathi  v.  Krishnamurthy, . By that judgment, it was laid down that an "order under<a href="/doc/1449825/" id="a_39"> S. 24</a> of the Hindu Marriage Act does not fall within the ambit of<a href="/doc/590166/" id="a_40"> S. 104</a>, Civil P. C. A close scrutiny of the various clauses of O. 43, Civil P. C. establishes that an order under<a href="/doc/1449825/" id="a_41"> S. 24</a> of this Act falls outside the purview of O. 43, Civil P. C." The court further observed: "By reason of<a href="/doc/626721/" id="a_42"> S. 21</a>, the provisions of the Civil Procedure Code are made applicable to proceedings under this Act, subject to other provisions in the Act and the rules made by the High Court. There are no provisions in the Act with regard to right of appeal against orders passed under this Act, nor are there rules made by the High Court governing this matter."
+</p> 
+
+<p id="p_21">     12.  We deem it unnecessary to refer at length to the decisions of a Full Bench of this Court in <a href="/doc/40623/" id="a_43">Kutumba Rao  v. Sesharatnamamba</a>,  , which was surrendered in the context of the unamended<a href="/doc/1025846/" id="a_44"> S. 28</a> of the Act. A later Bench of this Court in Premraj v. Kalyani, (1979)  1  APLJ  (SN)  51 has taken a view similar to the one expressed by us that no appeal lies and only a revision lies against orders under<a href="/doc/1449825/" id="a_45"> S. 24</a> of the Act. Similar view was taken by the Karnataka High Court in <a href="/doc/216353/" id="a_46">Subhasini  v.  B. R. Umakanth</a>,  .
+</p> 
+
+<p id="p_22">     13.  As discussed above, the provision with regard to appeal continued in <a href="/doc/1025846/" id="a_47">Section 28</a> of the Act, as amended, does not expressly confer any right of appeal against the order made under<a href="/doc/1449825/" id="a_48"> S. 24</a> or an interim order made under<a href="/doc/972693/" id="a_49"> S. 26</a> of the Act. Consequently, these two appeals are not maintainable.
+</p> 
+
+<p id="p_23">     14.  However, the court which made the order is the II Additional Judge, City Civil Court, Hyderabad. It is a civil proceeding disposed of by a court subordinate to the High Court. The High Court has powers of superintendance in respect of matters pending before the civil courts both under <a href="/doc/1331149/" id="a_50">Art. 227</a> of the constitution of India as well as under<a href="/doc/590166/" id="a_51"> S. 115</a> of the code of Civil Procedure. Section 115 of Civil P. C. enables the High Court to exercise revisional jurisdiction in all civil matters pending or disposed of by a court subordinate to it wherever that subordinate court appears to have exercised a jurisdiction not vested in it by law or to have failed to exercise a jurisdiction so vested, or to have acted in the exercise of its jurisdiction illegally or with material irregularity, provided no appeal lies. As no appeal lies against an order under<a href="/doc/1025846/" id="a_52"> s. 28</a>, of the Hindu marriage Act, the High Court may exercise its revisional jurisdiction under s. 115 of the Civil P. C. We, therefore, proceed to consider both these appeals as if they are revision petitions filed in this Court by the respective parties. These two appeals shall be numbered as Civil revision Petitions.
+</p> 
+
+<p id="p_24">     15.  The next question that requires to be considered is whether maintenance under<a href="/doc/1449825/" id="a_53"> S. 24</a> of the Act, could be awarded to the child at the instance of the wife. <a href="/doc/1449825/" id="a_54">Section 24</a> o the Act inturn enables only wife or the husband to claim for her or his support any amount and a further sum for necessary expenses of the proceedings. It does not enable them or the child to make an application under<a href="/doc/1449825/" id="a_55"> s. 24</a> for the support of the child as such. However, with regard to the custody of the children, there is a specific provision on<a href="/doc/972693/" id="a_56"> S. 26</a> of the Act which enables the court not merely to make approximate provision in the decree, as it may deem just and proper, with respect to the custody of the children, but also enables the court to pass orders from time to time and such interim orders as it may deem fit with regard to maintenance and education of the minor children. The interim order passed  under Sec. 26 of the Act would obviously be similar to the one made under<a href="/doc/1449825/" id="a_57"> S. 24</a> of the Act in relation to the wife or the husband. The contention of Mr. Ugle learned counsel for the husband that no order awarding maintenance to the child could be granted under<a href="/doc/1449825/" id="a_58"> S. 24</a> of the Act, does not merit acceptance having regard to the specific provision contained in <a href="/doc/972693/" id="a_59">Section 26</a> of the Act. No doubt, in <a href="/doc/880638/" id="a_60">Puran Chand  v.  Kamala  Devi</a>, , it was held that the child is not entitled to the grant of interim maintenance. In view of the above discussion, we are unable to agree with that view. A bench of our own High Court has in <a href="/doc/1150501/" id="a_61">K. Appa Rao  v.  K. Paradesamma</a>, (1974)  2  APLJ  159, taken the same view as we have expressed herein. We have therefore, no hesitation inholding that the court below was right in awarding maintenance both to the wife and the child.
+</p> 
+
+<p id="p_25">     16.  Mr. Ugle next contended that maintenance cannot be granted under<a href="/doc/1449825/" id="a_62"> S. 24</a> or <a href="/doc/972693/" id="a_63"> S. 26</a> of the Act from a period anterior to the date of the presentation of the original petition itself i.e., the main petition for restitution of conjugal rights or any other decree under the Act. According to him, any order under<a href="/doc/1449825/" id="a_64"> S. 24</a> can only be effective from the date of the order and not from an anterior date. On the other hand, it is contended by Sri M. L. Ganu, learned counsel for the wife and the child that what may be granted under<a href="/doc/1449825/" id="a_65"> S. 24</a> is a sum of money for the support of the wife and it is payable 'monthly during the proceedings'. Such payment may be not only the amount required for maintenance during the proceedings but also such sum as may have been required for the maintenance of the wife prior to the proceeding and cover the period during which she was deserted.
+</p> 
+
+<p id="p_26">     17.   In order to appreciate the scope and ambit of<a href="/doc/1449825/" id="a_66"> S. 24</a>, it is necessary to read the same which is in the following words:-
+</p>   
+
+<p id="p_27">     "24. Maintenance pendente lite and expenses of proceedings:- Where in any proceeding under this Act, it appears to the court that either the wife or the husband, as the case may be, has no independent income sufficient for her or his support and the necessary expenses of the proceeding, it may on the application of the wife or the husband, order the respondent to pay to the petitioner the expenses of the proceeding, and monthly during the proceeding, such sum as, having regard to the petitioner's own income and the income of the respondent, it may seem to the court to be reasonable." 
+</p> 
+
+<p id="p_28">It is a special provision contained in a special enactment to meet a particular contingency envisaged by that provision. The scope of<a href="/doc/1449825/" id="a_67"> S. 24</a> cannot be extended or curtailed on any notions of equity. The contingency in which it may be invoked by either the wife or the husband is that when he or she "has no independent income sufficient for her or his support". If this condition is established, the party concerned may make an application to the court and on such application, the court is empowered to "order the respondent to pay to the petitioner monthly, during the proceeding such sum as it may seem to the court to be reasonable". There can be no doubt that the payment can be ordered to be made only during the pendency of the proceedings and the court can direct payment every month 'during the proceeding' and not for any period beyond termination of the proceeding. The term "during" implies the period intervening the commencement and termination of the proceeding. There cannot be any controversy about the period during which the amount may be directed to be paid. What is, however contended by  Mr. Ganu is that during thus period, even the amount of expenditure incurred anterior to the proceeding by the wife or the husband may be directed to be paid. We are, however, unable to agree with this contention for the  reason that the special provision contained in<a href="/doc/1449825/" id="a_68"> S. 24</a> of the Act is intended to give support to the wife or the husband who has no independent income sufficient for her or his support. That is intended to sustain them during the pendency of the proceedings. It is not intended to be a substitute for the maintenance of the persons entitled to be maintained under the personal law of the parties. The right of a Hindu to receive maintenance is governed by the provisions of the Hindu adoptions and maintenance act. Sec. 24 is part of the Hindu marriage Act which envisages the granting of one of the substantive reliefs stated in Secs. 9 to 13-B of the  Act. It is pending these proceedings, the court is empowered to make certain interim orders to meet the ends of justice. Unless the parties to such proceedings are provided sustenance and legal  expenses, they would not be in a position to contest the proceedings. It is the intention of the legislature that where one of the parties has no independent income sufficient for his or her support, the other party must, having regard to the income of the respondent, be made to pay some amount monthly. It is not intended to be a substitute for the claim for maintenance which the parties can make under any other enactment. It is only  an interim arrangement made pending disposal of the main original petition under one of the aforesaid sections.
+</p> 
+
+<p id="p_29">     18.  We have therefore, no doubt that interim maintenance cannot be granted from a date on which one of the spouses deserted the other. The order made under<a href="/doc/1449825/" id="a_69"> s. 24</a> of the Act can only cover the period between the date of the presentation of the petition and the date of the termination of the petition by a final order. It is contended on behalf of the husband that the interim maintenance can be ordered to be made only from the date of service of the notice in the main original petition. Reliance for this proposition is placed on <a href="/doc/1675612/" id="a_70">Subramanyam  v.  M. G. Saraswathi</a>, AIR  1964  Mys  38, wherein it was held as as under (para 7):-
+</p>   
+
+<p id="p_30">     "Under<a href="/doc/1449825/" id="a_71"> s. 24</a>, the court has power to grant interim maintenance for the duration of the proceedings. There is no warrant for limiting its commencement to the date on which the application for the grant of interim maintenances was made by the wife. She should be awarded interim maintenance from the date of receipt of notice of the husband's divorce petition up to the date of termination of the proceedings."  
+</p> 
+
+<p id="p_31">To the same effect is the decision in <a href="/doc/1800169/" id="a_72">Smt. Sobhana v.  Amar Kanta</a>, , on which decision also, reliance is placed by the learned counsel. The High Court of Jammu and Kashmir in <a href="/doc/880638/" id="a_73">Puram Chand  v.  Kamla  Devi</a>   (supra) has, however, opined that the interim maintenance may be awarded from the date of the first hearing. We are, however, unable to find support from any provision of the <a href="/doc/590166/" id="a_74">Hindu Marriage Act</a> or any rule made thereunder by our High Court for restricting the power of the Court to grant the interim maintenance only from the date of the first hearing. The discretion is that of the Court and we see no justifying ground for granting the interim maintenance only from the date of first hearing. If, in the circumstances of a particular case, the wife or the husband is entitled to claim maintenance under<a href="/doc/1449825/" id="a_75"> s. 24</a> of the Act, nothing in <a href="/doc/1449825/" id="a_76">Section 24</a> or any of the provisions of the act limits the discretion of the Court to grant it only from the date of first hearing. In the circumstances, we do not see, any justification for directing payment of maintenance from the date of service of notice. It should be, in our view, from the date on which the application for grant of maintenance is filed under<a href="/doc/1449825/" id="a_77"> s. 24</a> of the Act or for grant of interim maintenance under Sec. 26 is filed and if the party who has filed the original petition himself is the petitioner and if the circumstances warrant, we see no reason why the interim maintenance should not be granted from the date of the petition and should be dependant upon the uncertain date on which the respondent may be served. In fact, the respondent may, with a view to thwart the claim for interim maintenance, keep himself out of the way of service of summons and thus force the petitioner to abandon the petition. Where the respondent is held liable to pay maintenance, it would be for the Court to decide whether the maintenance should be granted from the date of the petition or from any other subsequent date. There is no justification for laying down any hard and fast rule as regards payment of the maintenance from the date of service of summons only. However, in no event, the Court can grant arrears of maintenance covering a period anterior to the petition itself.
+</p> 
+
+<p id="p_32">     19.  The only question that now remains to be considered is whether the amount of maintenance of Rs. 300/- granted to the wife and Rs. 150/- granted to the child and a sum of rupees 1,000/- towards legal expenses, requires to be enhanced or cut down to any extent. From the evidence, it is clear that the husband is living along with his mother and two brothers and they are carrying on partnership business and towards his own share, he get an annual income of about Rs. 10,000/- or Rs. 11,000/-. Although it was urged that much of the income earned by him is suppressed and the Income-tax returns of not give the correct figures of his actual income, we are not prepared in this revision Petition to discard the Income-tax returns in the absence of any other evidence to the contrary and hold that the husband has a higher income than what is found by the lower court. The wife admittedly has no other income of her own to support herself or the child. The mere fact that earlier when she was at Rajkot, she was earning some income by way of commission from the contributors of Pigmy Bank, cannot be taken into account so as to hold that she has some income of her even now. There is no evidence that she is employed on any salary or has any income from any other source, contended that even if the income of the husband is accepted to be Rupees 10,000/- or Rs.11,000/-, it should be divided into three equal portions and two-thirds thereof should be awarded to the wife and the child. We are unable to proceed on this basis. What is envisaged under <a href="/doc/1449825/" id="a_78">section 24</a> of the Act or <a href="/doc/972693/" id="a_79">Section 26</a> of the Act is making provision for support of the spouse and the maintenance of the child and not a division of the income earned by the other spouse. Where the income of the father is approximately Rs. 900/- per month, as in this case, a child can be maintained with a sum of Rupees 150/- and his wife could maintain herself in such comfort as a family earning that much income could reasonably be expected to be maintained with a sum of Rs. 300/- per month: It is not a suit for partition or for grant of maintenance on a permanent basis. It is only for supporting the wife and the child during the pendency of a proceeding under the Act for restitution of conjugal rights.
+</p> 
+
+<p id="p_33">     20.  Mr. Ganu, learned counsel, placing strong reliance upon the judgment of the Bombay High Court in <a href="/doc/840002/" id="a_80">Dinesh  v.  Usha</a>,  , next contended that grant of higher sum is warranted and that the term 'support' takes in not only the amount required for maintaining the wife and the child, but also some thing more than mere maintenance. In particular, he contended that the marginal note which describes the amount granted under<a href="/doc/1449825/" id="a_81"> S. 24</a> to be "maintenance pendente lite" cannot be taken into account in construing the word 'support'. Of course, marginal note cannot govern the express provision of the Act, but where the words of the Act are susceptible of more than one meaning or are ambiguous, the marginal note can be certainly taken into account provided the marginal note was part of the bill which was presented to the Parliament for its consideration and was passed into an Act - vide Craises on Statute law, page 196 97th edition). We are, however, clear in our mind that even without the help of the marginal note, the amount that may be granted even by way of support cannot be determined solely with reference to the number of persons that have to be maintained from out of the income available.  The quantum has to be determined by ascertaining what is required to support the persons claiming the amount under <a href="/doc/1449825/" id="a_82">Section 24</a> of the Act or<a href="/doc/972693/" id="a_83"> S. 26</a> of the Act and not wholly with reference to the number of persons that are claiming.
+</p> 
+
+<p id="p_34">     21.  Having regard to the facts and circumstances of this case, we are clearly of the view that the amount of Rs. 300/- awarded to the wife and Rs. 150/- awarded to the child and the amount of Rs. 1,000/- awarded towards legal expenses are quite sufficient and do not require any alteration one way way or the other.
+</p> 
+
+<p id="p_35">     22.  In the result, the Revision Petition filed by the husband is allowed to the limited extent that the amount of maintenance awarded for the period anterior to the filing of the petition is set aside. The amount of Rs. 300/- and R. 150/- shall be payable by the husband form the date of the filing of the petition and during the pendency of the proceedings. In other respects, it is dismissed. The revision petition filed by the wife is dismissed, but in the circumstances, both the parties will bear their costs.
+</p> 
+
+<p id="p_36">     23.  Pending these two cases, there was an interim direction to deposit the amount of Rs. 300/- towards maintenance of the wife and Rs. 150/- towards maintenance of the child on or before 5th of every month into the Saving Bank account No. 9039 with Indian Bank, bank Street, Hyderabad. That interim direction is made absolute and shall be the order in these Revision Petitions. 
+</p> 
+
+<p id="p_37">24.            Order accordingly.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

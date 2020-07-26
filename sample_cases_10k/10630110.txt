@@ -1,0 +1,394 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Shahe Alam @ Allah Rakha on 27 June, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/10630110/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1928699/">Pawan Kumar vs The Delhi Administration on 17 August, 1987</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/10630110/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/10630110/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/10630110/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Shahe Alam @ Allah Rakha on 27 June, 2019</div><pre id="pre_1">        IN THE COURT OF SH. RAKESH KUMAR RAMPURI
+        METROPOLITAN MAGISTRATE­04, NORTH­EAST,
+               KARKARDOOMA COURTS, DELHI
+
+                                     State vs. Shahe Alam @ Allah Rakha
+                                                         FIR No. 303/2003
+                                                      U/s : 25 of <a href="/doc/1934415/" id="a_1">Arms Act</a>
+                                                         P.S.: Bhajanpura
+
+(a) CIS number of the case                     : 462456/2015
+
+(b) Date of commission of the                  : 03.09.2003
+    offence
+(c) The name of the complainant                : ASI Narender Pal
+
+(d) The name of the accused person, : Shahe Alam @ Allah
+    his parentage and residence       Rakha     S/o   Muslim
+                                      Shekh     R/o   Village
+                                      Harishpur, PS Muraroi,
+                                      District Virghum, West
+                                      Bengal
+(e) The offence complained of                  : 25/54/59 <a href="/doc/1934415/" id="a_2">Arms Act</a>
+
+(f) The plea of the accused                    : Pleaded not guilty
+
+g)     The final order                         : Acquitted
+
+(h) Order reserved on                          : 25.06.2019
+
+(I) The date of such order                     : 27.06.2019
+
+
+FIR No. 303/2003                                                    Page 1 of 8
+State Vs. Shahe Alam @ Allah Rakha                            Dated: 27.06.2019
+          Charge sheet was filed on             :      04.03.2004
+         Final arguments heard on              :      25.06.2019
+         Judgment is announced on              :      27.06.2019
+
+                                     JUDGMENT
+</pre>
+
+<p id="p_1">                BRIEF REASONS FOR SUCH DECISION
+
+</p><p id="p_2">1.           Brief facts of case as per version of the prosecution are that
+on 03.09.2003 at about 07:30 p.m. at Bhagat Singh Park, opposite
+DTC bus depot Yamuna Vihar, Delhi, the accused was found in
+possession of one country made pistol of 32 bore and one live
+cartridge, without any valid license or permit in contravention of
+notification of the Competent Authority. Therefore, the present FIR
+bearing No. 303/2003 dated 03.09.2003 under <a href="/doc/73862/" id="a_3">Section 25</a>/<a href="/doc/1934415/" id="a_4">54</a>/<a href="/doc/1934415/" id="a_5">59</a> of
+Arms Act was registered against the accused at P.S. Bhajanpura,
+Delhi.
+</p>
+<p id="p_3">2.           After completion of investigation, charge sheet was filed
+against the accused under Section 25/54/59 of the Arms Act on
+04.03.2004 and on same date, cognizance of offence was taken by Ld.
+Predecessor of this Court and copy of charge sheet was supplied to the
+accused in compliance of Section 207 Cr.P.C.
+</p>
+<p id="p_4">3.           Thereafter, vide order dated 24.01.2005, charge for
+committing offence punishable u/s 25/54/59 of the <a href="/doc/1934415/" id="a_6">Arms Act</a> was
+framed against the accused, to which, he pleaded not guilty and
+<span class="hidden_text" id="span_1">FIR No. 303/2003                                                    Page 2 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                            Dated: 27.06.2019
+ claimed trial.
+</p>
+
+
+<p id="p_5">4.           In order to prove its case, the prosecution has examined 7
+witnesses and thereafter statement of accused u/s 313 read with
+<a href="/doc/1233094/" id="a_7">Section 281</a> Cr. P. C. was also recorded on 13.03.2019 wherein
+accused refuted the allegation of the prosecution and claimed himself
+innocent and also raised plea of false implication. Thereafter, Ld. APP
+for the State and Ld. Defence counsel had made detail oral
+submissions on behalf of respective parties.
+</p>
+
+<p id="p_6">5.           PW­1 Ct. Satya Prakash stated that on 03.09.2003 he
+alongwith Ct. Prem Chand and SI Narender were conducting
+investigation of another case bearing FIR No. 296/03 U/s 393/397 <a href="/doc/1569253/" id="a_8">IPC</a>
+of PS Bhajanpura, Delhi and accused of that case pointed out that
+accused Shahe Alam, who was standing in the park. PW­1 further
+stated that on seeing them, accused Shahe Alam started running and he
+was over powered after being chased by the said police officials. PW­1
+also stated that from search of accused Shahe Alam, one country made
+katta was recovered from left side dub from his paint and katta was
+loaded with one live cartridge. PW­2 HC Yashvir Singh deposed about
+receiving of rukka and registration of FIR in this case. PW­3 Ct. Prem
+Chand supported the line of story of the prosecution as reflected in the
+testimony of PW­1 Ct. Satya Prakash. PW­4 SI Narender Pal also
+
+<span class="hidden_text" id="span_2">FIR No. 303/2003                                                 Page 3 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                         Dated: 27.06.2019
+ deposed about receiving of information from Jame Alam, accused of
+another case bearing FIR No. 296/03 about the presence of accused of
+this case namely Shahe Alam at Bhagat Singh Park, Yamuna Park and
+on formal search of accused Shahe Alam one country made pistol
+loaded with one live cartridge was recovered from his left dub of
+paint. PW­4 also claimed that he had requested 3­4 persons who were
+moving in the park to join the investigation but none has agreed and
+left the place without disclosing their names and addresses. PW­4
+further deposed about his role as IO in course of investigation in this
+case. PW­5 HC Ramu stated that on 15.10.2003, MHC(M) Vijay
+Singh had handed over one sealed pullanda with seal of NP to him
+vide RC No. 95/21 for deposing the same at CFSL, Hyderabad and he
+had deposed sealed pullanda at CFSL, Hyderabad against receipt. PW­
+6 ASI Rishi Pal Singh deposed about his role as second IO in course of
+investigation of the case. During cross examination, PW­6 admitted
+that there was no gate in the room in the park and given park is a very
+big park having residential area on its two sides. PW­6 further
+admitted that the public persons are residing in said residential area
+and they were roaming in the area of park at that time. PW­6 also
+accepted that he did not obtain any finger print of accused from
+country made pistol. It was suggested by the defence to PW­6 that no
+recovery of any pistol was recovered from the accused and he has been
+falsely implicated in this case after lifting from his factory. PW­7 Sh.
+</p>
+<span class="hidden_text" id="span_3">FIR No. 303/2003                                                 Page 4 of 8</span>
+<p id="p_7">State Vs. Shahe Alam @ Allah Rakha                         Dated: 27.06.2019
+ Anurag Kumar, the then Additional Deputy Commissioner of Police of
+North­East, Delhi deposed about according sanction u/s 39 of <a href="/doc/1934415/" id="a_9">Arms
+Act</a> against accused in this case.
+</p>
+<p id="p_8">6.           I have considered arguments advanced by Ld. APP for State
+and Ld. Counsel for accused and have perused the entire material
+available on record carefully.
+</p>
+<p id="p_9">7.           It is contended by Ld. Counsel for accused that nothing has
+been recovered from possession of the accused and he is innocent and
+has been falsely implicated in this case after planting case property,
+which is easily available for police. It is further contended that all
+prosecution witnesses are police witnesses and no independent public
+witness has joined and all writing work was done in the police station.
+It is further contended that the prosecution has failed to prove its case
+beyond reasonable doubts and hence, the accused is entitled to be
+acquitted. On other hand, Ld. APP for State contended that accused
+has been found with illegal arm by the police official on pointing out
+by another accused of another case in course of investigation of that
+case and the testimony of police officials also supports the case of
+prosecution.
+</p>
+<p id="p_10">8.           As per case of prosecution, police officials had recovered
+country made pistol and live cartridge and no independent public
+person has joined as witness in the present matter despite the place of
+
+<span class="hidden_text" id="span_4">FIR No. 303/2003                                                  Page 5 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                          Dated: 27.06.2019
+ recovery being a big public park in a densely populated area and
+public persons were roaming around the park as also admitted by PW­
+6 during his cross examination. As per deposition of PW­4               had
+allegedly asked 3­4 public persons to join the investigation but none
+agreed and went away without telling their names and addresses.
+However, it is noticeable that no written notice was served to those
+persons who refused to join the investigation and their names and
+addresses were also not even noted down. From the testimony of PW­
+4 and PW­6, it is clear that there were availability of public persons at
+the spot, but despite that no public witness has joined in the present
+matter. No sincere efforts have been done to join the public witnesses
+as no written notice was served to those public persons who had
+allegedly refused to join the investigation.     Non­joining of public
+witness raises a doubt in the story of the prosecution which is total
+based on the oral testimony of police officials who are naturally
+entrusted in conviction of accused.
+</p>
+<p id="p_11">9.           In a case law reported as "Roop Chand Vs. The State of
+Haryana" 1999(1) C.L.R. 69, the Punjab &amp; Haryana High Court held
+as under :­
+
+             "3. I have heard the learned counsel for the
+             parties and gone through the evidence with their
+             help. The recovery of illicit liquor was effected
+             from the possession of the petitioner during noon
+             time and it is in the evidence of the prosecution
+<span class="hidden_text" id="span_5">FIR No. 303/2003                                                  Page 6 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                          Dated: 27.06.2019
+              witnesses that some witnesses from the public were
+             available and they were asked to join the
+             investigation. The explanation furnished by the
+             prosecution is that the independent witnesses were
+             asked to join the investigation but they refused to
+             do so on the ground that their joining will result
+             into enmity between them and the petitioner".
+</p>
+<p id="p_12">             "4. It is well settled principle of the law that the
+             investigating agency should join independent
+             witnesses at the time of recovery of contraband
+             articles, If they are available and their failure to
+             do so in such a situation casts a shadow of doubt
+             on the prosecution case. In the present case also
+             admittedly the independent witnesses were
+             available at the time of recovery but they refused
+             to associate themselves in the investigation. This
+             explanation does not inspire confidence because
+             the police officials who are the only witnesses
+             examined in the case have not given the names and
+             addresses of the persons contacted to join it is a
+             very common excuse that the witnesses from the
+             public refused to join the investigation. A police
+             officer conducting investigation of a crime is
+             entitled to ask anybody to join the investigation
+             and on refusal by a person from the public the
+             Investigating Officer can take action against such
+             a person under the law. Had it been a fact that the
+             witnesses from the public had refused to join the
+             investigation, the Investigating Officer must have
+             proceeded against them under the relevant
+             provisions of law. The failure to do so by the
+             police officer is suggestive of the fact that the
+             explanation for non­joining the witnesses from the
+             public is an after thought and is not worth of
+<span class="hidden_text" id="span_6">FIR No. 303/2003                                                   Page 7 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                           Dated: 27.06.2019
+              credence. All these facts taken together make the
+             prosecution case highly doubtful".
+</p>
+
+<p id="p_13">10.          It is not the case of prosecution that police official had
+offered their search to the accused prior to taking the search of accused
+himself. Further, no finger print of accused on alleged recovered arm
+was taken by the police. These facts also raise doubt in the story of
+prosecution.          For this, I rely on '<a href="/doc/1928699/" id="a_10">Pawan Kumar vs Delhi
+Administration</a>, 1989 Cr.L.J. 1271'. In a case titled in AIR 1956 Cr.
+L.J. 1234, it was held that,
+
+                   "In the event of any doubt as to the guilt of
+                   accused, the benefit will go to the accused".
+</p>
+<p id="p_14">11.          Taking into consideration all the facts and circumstances
+and material available on record, I hold that the prosecution has failed
+to prove its case against the accused beyond reasonable doubts.
+Benefit of doubt is given to the accused. Hence, accused Shahe Alam
+is acquitted from charge of offence punishable U/s 25 of <a href="/doc/1934415/" id="a_11">Arms Act</a>.
+The case properties i.e. country made pistol and cartridges are
+confiscated to the State.</p><pre id="pre_2">
+                                                        Digitally signed
+                                                        by RAKESH
+                                        RAKESH          KUMAR
+                                        KUMAR           RAMPURI
+                                                        Location: Delhi
+                                        RAMPURI         Date: 2019.06.27
+                                                        16:13:59 +0530
+
+
+Announced in the open court            (RAKESH KUMAR RAMPURI)
+on 27th Day of June, 2019              MM­04/North­East/ KKD/Delhi
+<span class="hidden_text" id="span_7">FIR No. 303/2003                                                  Page 8 of 8</span>
+State Vs. Shahe Alam @ Allah Rakha                          Dated: 27.06.2019
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

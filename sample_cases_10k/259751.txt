@@ -1,0 +1,503 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mavoor Grma Panchayath vs The Ombudsman on 19 September, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/259751/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/259751/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/259751/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/259751/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sabha">sabha</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ombudsman">ombudsman</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kerala%20panchayat%20">kerala panchayat </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=service%20of%20notice">service of notice</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=public%20place">public place</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=panchayat%20raj%20act">panchayat raj act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20quorum"> quorum</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Mavoor Grma Panchayath vs The Ombudsman on 19 September, 2007</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+WP(C) No. 18824 of 2007(N)
+
+
+1. MAVOOR GRMA PANCHAYATH,
+                      ...  Petitioner
+2. N.MANOJ KUMAR, S/O.NARAYANAN,
+
+                        Vs
+
+
+
+1. THE OMBUDSMAN,
+                       ...       Respondent
+
+2. K.SREENIVASAN,
+
+                For Petitioner  :SRI.P.V.KUNHIKRISHNAN
+
+                For Respondent  :SMT.ARLISS TRENCY ANTONY
+
+The Hon'ble MR. Justice PIUS C.KURIAKOSE
+
+ Dated :19/09/2007
+
+ O R D E R
+                       PIUS C. KURIAKOSE, J.
+                        -------------------------------
+                     W.P.(C) No. 18824 OF 2007
+                      -----------------------------------
+              Dated this the 19th day of September, 2007
+
+                               JUDGMENT
+</pre>
+<p id="p_1">      Whether it is necessary to serve notices individually, regarding
+
+Grama Sabha meetings convened under Section 3(3) of the Panchayat
+
+Raj Act is the important question which arises for decision in this Writ
+
+Petition.
+</p>
+<p id="p_2">      2. Ext.P1 order of the Hon'ble Ombudsman for Local Self
+
+Government Institutions under which the Ombudsman directed the
+
+Panchayat to cancel the beneficiary list and the decisions taken in the
+
+Grama Sabha of Ward No.15 of the petitioner-Panchayat is under
+
+challenge in this Writ Petition initiated by the Panchayat and the
+
+Convenor of the beneficiary committee, i.e., Convenor of the Grama
+
+Sabha of Ward No.15. The complaint before the Ombudsman was
+
+Ext.P2. The allegation in Ext.P2 is that the beneficiary list prepared by
+
+the Grama Sabha in so far as it enlists a lady by name Alumkandi
+
+Chakky who is alleged to be not eligible for the benefit under the House
+
+Construction Scheme since her daughter Kalyani has received a total
+
+amount of Rs.4,50,000/- by way of compensation from the Gwalior
+
+Rayons Company, is illegal. When the complaint came up before the
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_1">                                    2</span>
+
+Ombudsman, the Ombudsman would enquire of the complainant (the
+
+2nd respondent herein) as to why the objection regarding Chakki was
+
+not raised before the Grama Sabha. The 2nd respondent would answer
+
+that he was not having any notice regarding the convening of the Grama
+
+Sabha. On hearing the above answer, the Ombudsman would seek an
+
+explanation from the Secretary of the Panchayat who was present and
+
+the Secretary conceded that individual notices were not served even on
+
+the heads of the families constituting the Grama Sabha. Observing that
+
+it is the constitutional mandate of the Panchayat and the Convenor of
+
+the Grama Sabha to serve individual notices to all members of the
+
+Sabha regarding the Grama Sabha meetings and further that giving of
+
+such individual notices is the fundamental duty as far as the Panchayat
+
+Member is concerned, the learned Ombudsman went on to pass the
+
+impugned order directing the Panchayat to cancel all the beneficiary lists
+
+covered by Ext.P4 minutes in which the item pertaining to Chakki is
+
+item No.14.
+</p>
+<p id="p_3">         3. The 2nd respondent has filed a detailed counter affidavit
+
+justifying the order of the Ombudsman. The counter affidavit even goes
+
+beyond Ext.P2 complaint and submits that all the decisions in Ext.P4 are
+
+vitiated since undeserving persons have been conferred with benefits.
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_2">                                      3</span>
+
+</p><p id="p_4">     4. Heard Mr.P.V.Kunhikrishnan, learned counsel for the petitioners
+
+and Mr.B.Mohanlal, counsel for the 2nd respondent.
+
+</p><p id="p_5">     5. My attention was drawn by Mr.Kunhikrishnan to Rule 4 of the
+
+Kerala Panchayat Raj (Procedure for convening the Grama Sabha)
+
+Rules, 1995 and also to Rule 4 of the Kerala Panchayat Raj (Manner of
+
+publication of notification or notice ) Rules, 1996. Counsel would argue
+
+that service of individual notices on the Grama Sabha members is not
+
+envisaged by those Rules. Referring to Ext.P6 public notice, learned
+
+counsel submitted that requisite notice has already been given. Counsel
+
+also submitted that notices were affixed in public places and there was
+
+loud speaker announcement also. Counsel also submitted that the
+
+Convenor's version that he tried his best to inform the members of the
+
+Grama Sabha of the proposed meeting is not under serious challenge.
+
+</p><p id="p_6">    6. Mr.Mohanlal, counsel for the petitioner would draw my attention to
+
+Kerala Panchayat Raj (Manner of Service of Notices) Rules, 1996 and
+
+particularly to Rule 3 therein. According to him, in as much as the
+
+Kerala Panchayat Raj (Procedure for Convening the Grama Sabha)
+
+Rules, 1995 do not prescribe any particular mode for service of
+
+individual notice to Grama Sabha meetings, the proper rule to be
+
+followed is the Kerala Panchayat Raj (Manner of Service of Notices)
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_3">                                     4</span>
+
+Rules, 1996.
+</p>
+<p id="p_7">   7. Rule 3 of the Kerala Panchayat Raj(Manner of Service of Notices)
+
+Rules, 1996 provides as follows:
+</p>
+<blockquote id="blockquote_1">      "3. Serving of notice:- (1) In case the Act or rules or bye-laws
+
+      made thereunder requires the Panchayat to serve any notice or
+
+      document to a person, such service or sending shall, unless
+
+      otherwise provided in the Act or rules or bye-laws made
+
+      thereunder, be done,-
+</blockquote>
+<blockquote id="blockquote_2">             (a) by service or sending of notice or document to such
+
+      person; or"</blockquote><p id="p_8">
+
+</p><p id="p_9">      (rest being irrelevant is omitted.)
+
+      It is true that as per Rule 3(a) of the Kerala Panchayat Raj
+
+(Manner of Service of Notices) Rules, 1996, service of individual notice
+
+to the person who is intended to be served with notice has been
+
+contemplated. But Rule 3 of the Kerala Panchayat Raj (Manner of
+
+Service of Notices) Rules, 1996 applies only in cases where the
+
+Panchayat Raj Act or Rules or Bye-laws made thereunder requires the
+
+Panchayat to serve notices to a person. The Panchayat Raj Act does
+
+not insist on service of notice of Grama Sabha meetings to the persons
+
+who constitute the Grama Sabha as per Section 3(2) or to the head of
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_4">                                     5</span>
+
+the families within the area of the Grama Sabha. The relevant Rule in
+
+my opinion is Rule 4 of the        Kerala Panchayat Raj (Procedure for
+
+convening the Grama Sabha) Rules, 1995 which is quoted hereunder:
+
+</p><blockquote id="blockquote_3">             "4. Date and Time for the meeting of the Grama Sabha:-
+
+       The President of the Village Panchayat shall, in consultation with
+
+       the Convenor of the Grama Sabha concerned, fix the date and
+
+       time between 8 am and 6 pm. And the Secretary of the Village
+
+       Panchayat concerned shall publish the place date and time of the
+
+       meeting, so fixed, by affixing notice in appropriate public places,
+
+       Government Offices, schools in the area of the Grama Sabha and
+
+       in the office of the Village Panchayat. The Convenor concerned
+
+       shall try to inform the members of the Grama Sabha the place,
+
+       date and time of the meeting and cause them to attend the
+
+       meeting (underlining supplied)."</blockquote><p id="p_10">
+
+</p><p id="p_11">      Thus under the Rule what is required is only that there shall be
+
+publicity regarding the proposed meeting of the Grama Sabha and that
+
+the Convenor concerned shall try to inform the members of the Grama
+
+Sabha, the place, date and time of the meeting and cause them to
+
+attend the meeting. What is contemplated is publication of the date,
+
+place and time, by affixing notice in public places, Government Offices,
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_5">                                     6</span>
+
+Schools in the area of the Grama Sabha and in the office of the
+
+Panchayat. The mandate to the Convenor is only that he shall try to
+
+inform the members of the venue and time of the meeting and also
+
+cause them to attend the meeting. Rule 4 of the Kerala Panchayat Raj
+
+(Procedure for convening the Grama Sabha) Rules, 1995 being the
+
+apposite Rule, the question to be considered is whether that Rule has
+
+been complied with in the instant case. The materials available and
+
+placed on record by the petitioners will show that there has been
+
+adequate compliance with that rule. Ext.P6 is copy of the notice issued
+
+by the Convenor of the Grama Sabha regarding the Grama Sabha
+
+meetings which is proposed to be held on 2.9.06 at 3 PM in a local
+
+school. The agenda of the meeting is clearly shown in Ext.P6. The
+
+claim that the notices were affixed in important places within the area of
+
+the Grama Sabha and propagated through loud speaker is not
+
+challenged. Considering the Pragmatic difficulties in serving individual
+
+notices on all the members of the Grama Sabha which may consists of
+
+thousands of people the learned Ombudsman is not justified in insisting
+
+on service of individual notices on all the members when neither the
+
+statute nor the relevant rule requires such service. The meeting in
+
+question, in my opinion was convened with due notice to the Grama
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_6">                                         7</span>
+
+Sabha members and the learned Ombudsman was not justified in
+
+cancelling the beneficiary lists and all the decisions taken in the meeting
+
+and directing the consideration of the beneficiary lists in the next Grama
+
+Sabha.      It is also to be noticed in this context that the statutory quorum
+
+for Grama Sabha meeting is only 10% of the total number of voters and
+
+obviously quorum has been fixed so taking into account the pragmatic
+
+difficulties which will arise if a higher quorum is insisted upon.
+
+</p><p id="p_12">       8. There is another reason why I am unable to sustain Ext.P1
+
+order. Ext.P2 complaint was specifically directed against the decision
+
+which is mentioned as item No.14 in Ext.P14 minutes, i.e., the decision
+
+to give the benefit to Smt.Chakki. It was not proper to set aside all the
+
+decisions as per Ext.P4 on the basis of Ext.P2 complaint. Of course, in
+
+his verbal submissions before the Ombudsman and through the counter
+
+affidavit filed by him before this court, the 4th respondent has attempted
+
+to say that all the decisions in Ext.P4 are vitiated. But in my opinion the
+
+2nd respondent having confined his complaint against Smt.Chakki alone
+
+in Ext.P2, is not entitled to challenge the other decisions in Ext.P4.
+
+</p><p id="p_13">       9. I set aside Ext.P1 to the extent it pertains to the decisions other
+
+than item No.14 in Ext.P4 minutes. There will be a direction to the
+
+Ombudsman to take fresh decision on Ext.P2 complaint confining the
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_7">                                     8</span>
+
+enquiry into the question whether there is any infirmity about the
+
+decision which is mentioned as item No.14 in Ext.P4 with notice to the
+
+parties. The Ombudsman will ensure that notice is also issued to
+
+Smt.Chakki and the 2nd respondent herein before fresh orders are
+
+passed.
+</p>
+<p id="p_14">       The Writ Petition is allowed of as above. No costs.
+
+
+
+</p><p id="p_15">                                       PIUS C.KURIAKOSE, JUDGE
+srd/btt
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_8">                         9</span>
+
+WPC No. 18824 of 2007
+<span class="hidden_text" id="span_9">                         10</span>
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

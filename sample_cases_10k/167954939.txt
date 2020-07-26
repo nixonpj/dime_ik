@@ -1,0 +1,385 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sanjay &amp; Ors. vs State &amp; Anr on 19 August, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/167954939/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 14 docs 
+      
+        - [<A HREF="/search/?formInput=cites:167954939">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/538436/">Section 498A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/988620/">Section 406 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/469138/">B.S. Joshi &amp; Ors vs State Of Haryana &amp; Anr on 13 March, 2003</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/167954939/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/167954939/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/167954939/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Sanjay &amp; Ors. vs State &amp; Anr on 19 August, 2019</div><pre id="pre_1">$~6
+        IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                        Decided on:- 19th August, 2019
+
++       CRL.M.C. 1165/2019
+
+        SANJAY &amp; ORS.                                 ..... Petitioners
+                             Through:   Mr. Murari Tiwari &amp; Mr. Rahul
+                                        Kumar, Advs.
+
+                             versus
+
+        STATE &amp; ANR                                  ..... Respondents
+                             Through:   Ms. Meenakshi Chauhan, APP
+                                        for the State with SI Sunil
+                                        Kumar, PS Civil Lines.
+                                        Mr.C.M. Sharma, Adv. for R-2
+                                        with R-2 in person.
+
+
+CORAM:
+HON'BLE MR. JUSTICE R.K.GAUBA
+
+                         ORDER (ORAL)
+</pre><p id="p_1">1.      The second respondent was married to the first petitioner as per
+Hindu rites and ceremonies on 27.05.2013. The marriage ran into
+rough weather and they started living separately since 20.08.2014. The
+second respondent raised allegations of she having been subjected to
+cruelty and deprived of her stridhan, first information report (FIR) no.
+33/2015 having been registered on 24.01.2015 by police station Civil
+lines, Delhi, on her complaint involving offences punishable under
+<a href="/doc/538436/" id="a_1">Sections 498A</a>, <a href="/doc/988620/" id="a_2">406</a>, <a href="/doc/37788/" id="a_3">34</a> of Indian Penal Code, 1860 (<a href="/doc/1569253/" id="a_4">IPC</a>), the case
+being directed against her husband (first petitioner), his father (second
+
+
+<span class="hidden_text" id="span_1">Crl. M.C. No.1165/2019                                     Page 1 of 7</span>
+ petitioner), his brother (third petitioner) and his uncle (fourth
+petitioner). On conclusion of the investigation, police filed report
+(charge-sheet) under <a href="/doc/1233094/" id="a_5">Section 173</a> of the Code of Criminal Procedure,
+1973 (Cr. PC) on which cognizance was taken, the said matter now
+pending on the file of the Metropolitan Magistrate.
+</p>
+<p id="p_2">2.      The matter was amicably settled and all the claims and disputes
+were resolved through settlement deed dated 26.07.2017, between the
+first petitioner and second respondent, before the Ld. Addl. Principal
+Judge (central) Tis Hazari. It was agreed as per the said settlement
+deed, that the husband shall pay to the wife a sum of Rs. 3,50,000/- as
+full and final settlement towards her claim for dowry articles,
+jewellery, stridhan, maintenance (past, present and future).
+</p>
+<p id="p_3">3.      Pursuant to the said settlement, the parties had earlier
+approached the family court which has granted decree of divorce by
+mutual consent on 30.07.2018 in HMA Petition no. 877/18.
+</p>
+<p id="p_4">4.      The present petition was filed on the basis of aforementioned
+settlement seeking quashing of the proceedings in the criminal case.
+</p>
+<p id="p_5">5.      The second respondent, on notice, has entered appeared and
+pursuant to the directions has filed an affidavit sworn on 13.08.2019,
+by which she has confirmed the settlement, giving no objection to the
+prayer of the petitioners for quashing of the FIR. Along with the
+affidavit she has also filed copy of her aadhar card as proof of her
+identity.
+</p>
+
+
+
+<span class="hidden_text" id="span_2">Crl. M.C. No.1165/2019                                    Page 2 of 7</span>
+<p id="p_6"> 6.      By the above-mentioned affidavit, the second respondent has
+confirmed that the dispute has been settled in mediation and they have
+obtained decree of divorce by mutual consent. She further stated that
+under the said settlement, an amount of Rs.1,50,000/- remains to be
+paid by the first petitioner at the time of quashing of FIR.
+</p><p id="p_7">7.      At the hearing, the first petitioner has handed over to the second
+respondent a demand draft bearing no. 005812, dated 16.08.2019 of
+Rs. 1,50,000/- drawn on Axis bank, Mukherjee Nagar, Delhi, a copy
+whereof is taken on record.
+</p>
+<p id="p_8">8.      Pertinent to note here that offence under <a href="/doc/538436/" id="a_6">Section 498A</a> IPC is
+not compoundable. The parties are constrained to move this court for
+quashing on the basis of amicable resolution arrived at by them in the
+facts and circumstances noted above.
+</p>
+<p id="p_9">9.      The scope and ambit of the power conferred on this court by
+<a href="/doc/1233094/" id="a_7">Section 482</a> of the Code of Criminal Procedure, 1973 (Cr. PC) read
+with Articles 226 and 227 of the Constitution of India, in the particular
+context of prayer for quashing criminal proceedings, has been the
+subject matter of scrutiny and comment by the Supreme Court in a
+catena of judgments.       It is well settled that in exercise of this
+"inherent" and "wholesome power", the touchstone is as to whether
+"the ends of justice so require". This court had the occasion to trace
+the relevant law on the subject in a batch of matters led by Yashpal
+Chaudhrani vs. State (Govt. of NCT Delhi), 2019 SCC Online Del
+8179 wherein after taking note, inter alia, of State of Karnakata v. L
+Muniswamy, (1977) 2 SCC 699; State of Karnataka v. M.
+</p>
+
+<span class="hidden_text" id="span_3">Crl. M.C. No.1165/2019                                         Page 3 of 7</span>
+<p id="p_10"> Devendrappa, (2002) 3 SCC 89; <a href="/doc/469138/" id="a_8">B.S. Joshi v. State of Haryana</a>,
+(2003) 4 SCC 675; Gian Singh Vs. State of Punjab and Anr. (2012) 10
+SCC 303; <a href="/doc/127041521/" id="a_9">Jitendra Raghuvanshi v. Babita Raghuvanshi</a>, (2013) 4 SCC
+58; <a href="/doc/14713882/" id="a_10">K Srinivas Rao v. D.A. Deepa</a>, (2013) 5 SCC 226; <a href="/doc/160278245/" id="a_11">Narinder Singh
+v. State of Punjab</a>, (2014) 6 SCC 466; <a href="/doc/193433171/" id="a_12">State of Rajasthan v. Shambhu
+Kewat</a>, (2014) 4 SCC 149; Parbhatbhai Aahir Parbatbhai
+Bhimsinhbhai Kurmur, (2017) 9 SCC 641 and <a href="/doc/149247382/" id="a_13">State of Madhya
+Pradesh v. Laxmi Narayan and others</a>, (2019) 5 SCC 688; the broad
+principles were culled out as under :-
+</p><blockquote id="blockquote_1">      "55. Though the above-noted authoritative pronouncements
+      of the Supreme Court have consistently laid down the broad
+      principles governing the exercise of power of the High Court
+      under Section 482 of the Cr. PC for bringing an end to the
+      criminal process, for addressing the concerns noted at the
+      outset and future guidance of trial courts, some of the crucial
+      ones may be flagged as under:--
+</blockquote>
+<blockquote id="blockquote_2">              (i). The inherent jurisdiction vested in the High
+              Court, as recognized and preserved by Section 482
+              Cr. PC, is primarily to "prevent abuse of the
+              process of court" or to "otherwise secure the ends
+              of justice".
+</blockquote>
+<blockquote id="blockquote_3">              (ii). The ends of justice are higher than the ends of
+              mere law, the prime principle governing the
+              exercise of inherent power being "to do real,
+              complete and substantial justice" for which the
+              court exists.
+</blockquote>
+<blockquote id="blockquote_4">              (iii) It is the duty of the court to give "adequate
+              treatment to the settlement between the parties"
+              particularly in cases involving compoundable
+
+
+<span class="hidden_text" id="span_4">Crl. M.C. No.1165/2019                                       Page 4 of 7</span>
+               offences, the exercise of inherent power of the High
+              Court under <a href="/doc/1233094/" id="a_14">Section 482</a> Cr.P.C., however, not
+              being inhibited in case of non-compoundable
+              offences though, for the latter category, such power
+              is to be "exercised sparingly and with caution".
+</blockquote>
+<blockquote id="blockquote_5">              (iv). If the criminal case has "overwhelmingly and
+              predominantly civil character", particularly if it
+              arises out of "commercial" (financial, mercantile,
+              partnership or such other) transaction - and this
+              would include the "cheque bouncing cases" under
+              <a href="/doc/1823824/" id="a_15">Section 138</a> N.I. Act - or "matrimonial dispute" or
+              "family dispute", genuine resolution on equitable
+              terms, in entirety, by the parties should result in
+              criminal proceedings being quashed.
+</blockquote>
+<blockquote id="blockquote_6">              (v). Since the institution of marriage has an
+              important role to play in the society, the court is to
+              make every effort to encourage the parties to
+              terminate such discord amicably and if it appears
+              that elements of settlement exist, and the parties
+              are willing, they are to be directed to the process of
+              mediation to explore the possibility of settlement, it
+              being desirable to do so even at the "pre-litigation
+              stage".
+</blockquote>
+<blockquote id="blockquote_7">              (vi). While examining the prayer for quashing of a
+              non compoundable offence, on the basis of
+              settlement of the dispute between the wrongful doer
+              and the victim, the High Court is to bear in mind as
+              to whether the possibility of conviction is "remote
+              and oblique" and further, if the continuation of the
+              criminal case would lead to "oppression and
+              prejudice" or "extreme injustice" for the accused.
+</blockquote>
+
+
+<span class="hidden_text" id="span_5">Crl. M.C. No.1165/2019                                        Page 5 of 7</span>
+<blockquote id="blockquote_8">               (vii). The considerations which would weigh with
+              Court include the antecedents of the accused,
+              possible lack of bona fides, his past conduct and
+              that includes the question as to whether he had
+              earlier absconded and as to how he had managed
+              with the complainant to enter into a compromise.
+</blockquote>
+<blockquote id="blockquote_9">              (viii). But, the High Court, when called upon to
+              exercise the power under Section 482 Cr. PC to
+              bring the criminal case to an end on the basis of
+              settlement, must steer clear of intervention in
+              "heinous" or "serious" offences, including those
+              involving "mental depravity", as indeed
+              "economic offences" affecting "the financial and
+              economic well being of the State", such as murder,
+              attempt to murder, extortion, forgery, rape,
+              dacoity, financial or economic frauds, cases under
+              <a href="/doc/1934415/" id="a_16">Arms Act</a>, etc., the reason being that such offences
+              are "not private in nature" but have "a serious
+              impact upon society", and continuation of trial
+              thereof is essential due to "overriding element of
+              public interest".
+</blockquote>
+<blockquote id="blockquote_10">              (ix). The court, however, is not to go by mere use of
+              label of a serious offence (e.g. offence under
+              <a href="/doc/455468/" id="a_17">Section 307</a> IPC), it being open to it to examine, by
+              scrutiny of the evidence gathered, to find as to
+              whether there are sufficient grounds to frame
+              charge for such offence and, in this view, it being
+              "not permissible" to intervene till the matter has
+              been properly investigated."
+</blockquote>
+<blockquote id="blockquote_11">10.     In a case where criminal proceedings arise essentially out of
+matrimonial dispute and the parties have decided to bury the hatchet,
+
+
+<span class="hidden_text" id="span_6">Crl. M.C. No.1165/2019                                       Page 6 of 7</span>
+ the court must examine if there is any likelihood of the criminal
+prosecution resulting in conviction. In fact-situation wherein the
+matrimonial relation has been brought to an end by mutual consent
+and the parties are eager to move on with their respective lives seeking
+closure and if there is nothing to indicate lack of bonafide on the part
+of any side, denial of the prayer for quashing the criminal case would
+restore acrimony rather than bring about peace. Allowing continuance
+of the criminal action would be fruitless and clearly an abuse of
+judicial process.
+</blockquote>
+<p id="p_11">11.     The case at hand passes the muster of the above-noted tests.
+</p>
+<p id="p_12">12.     In the above facts and circumstances, the petition is allowed.
+The crime registered by the police vide FIR No. 33/2015 under
+<a href="/doc/988620/" id="a_18">Sections 406</a>, <a href="/doc/538436/" id="a_19">498A</a>, <a href="/doc/37788/" id="a_20">34</a> IPC of Police Station Civil Lines, Delhi, and
+the proceedings emanating therefrom against the petitioners are hereby
+quashed.
+</p>
+<p id="p_13">13.     The petition and the application filed therewith are disposed of
+accordingly.
+</p>
+<p id="p_14">        Dasti to both sides.
+</p>
+
+
+<p id="p_15">                                                      R.K.GAUBA, J.
+</p>
+<p id="p_16">August 19, 2019
+nk
+
+
+
+
+<span class="hidden_text" id="span_7">Crl. M.C. No.1165/2019                                     Page 7 of 7</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

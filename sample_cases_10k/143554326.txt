@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ltd. &amp; Ors vs State And Others on 17 December, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/143554326/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/143554326/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/143554326/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">Ltd. &amp; Ors vs State And Others on 17 December, 2013</div><div class="doc_author">Author: I. P. Mukerji</div>
+
+<pre id="pre_1">                           1
+
+
+
+     17.12.13
+13
+sm
+                                W.P. 9778(W) of 2012
+
+
+                         Shrachi Burdwan Developers (P)
+                         Ltd. &amp; ors.
+                                          -vs-
+                             State and others
+
+                                 Mr. Samaraditya Pal
+                                 Mr. S. Talukdar
+                                 Ms. Vinita Meharia
+                                 Mr. Shounak Mitra
+                                 Mr. Siddhartha Chatterjee
+                                 Mr. Soumovo Ghose
+                                                   ....for the
+                                                 petitioners
+
+                                 Mr. K.B.S. Mahapatra
+                                      ...for respondent No. 2</pre>
+
+<p id="p_1">                                 Mr. S. Banerjee
+                                 Mr. Sariful Islam Mallick
+                                            ....for respondent
+<span class="hidden_text" id="span_1">                                        Nos. 5 to 19, 24 &amp; 29</span>
+                                 Mr. Indar Lal Roy
+<span class="hidden_text" id="span_2">                               ....for respondent Nos.20 to 23</span>
+
+                                Mr. R.N. Saha
+                                ....for State
+                          Affidavits-in-opposition on behalf
+                of the respondent Nos. 5 to 19 and 24 to
+                28 are taken on record. Two affidavits-in-
+                reply are also taken on record.
+</p>
+
+<p id="p_2">                          Leave is granted to the advocate-
+                on-record for the petitioners to file a
+                supplementary      affidavit.   I   direct   the
+                advocate-on-record for the petitioners for
+                circulate the same to the advocate-on-
+                record   for    the   respondents,      if   not
+                circulated earlier.
+</p><p id="p_3">                          List this application for further
+                consideration on 14th January, 2014.
+</p>
+
+<p id="p_4">                                            (I.P. Mukerji, J.)
+<span class="hidden_text" id="span_3"> 2</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

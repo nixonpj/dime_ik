@@ -1,0 +1,875 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shri. Kisan Arjun Patil vs M/S. Relene Petrochemicals Ltd on 26 June, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/146756406/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/146756406/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/146756406/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/146756406/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Shri. Kisan Arjun Patil vs M/S. Relene Petrochemicals Ltd on 26 June, 2019</div><div class="doc_bench">Bench: R.M. Borde</div>
+
+<pre id="pre_1"> IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+      APPELLATE SIDE CIVIL JURISDICTION
+
+         LETTER PATENT APPEAL NO. 212 OF 2013
+                          In
+              WRIT PETITION 4827 OF 2012
+
+ Shri. Mahadev Ramdas Patil                     ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd              ....Respondent</pre>
+
+<p id="p_1">                         WITH
+         LETTER PATENT APPEAL NO. 174 OF 2013
+                          In
+              WRIT PETITION 7625 OF 2012
+
+ Shri. Savari Muthu James                       ....Appellant
+              V/S
+ M/s. Relene Petrochemical Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 175 OF 2013
+                          In
+              WRIT PETITION 7693 OF 2012
+
+ Shri. Madhukar Shivram Dhanawade               ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 176 OF 2013
+                          In
+              WRIT PETITION 7691 OF 2012
+
+ Shri. Ghanshyam Tatoba Rane                    ....Appellant
+
+
+                                                                     Page 1/19
+
+<span class="hidden_text" id="span_1">::: Uploaded on - 27/06/2019        ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+              V/S
+ M/s. Relene Petrochemical Ltd                     ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 177 OF 2013
+                          In
+              WRIT PETITION 8360 OF 2012
+
+ Shri. Suresh Shivram Dhanawade                       ....Appellant
+              V/S
+ M/s. Relene Petrochemical Ltd                     ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 178 OF 2013
+                          In
+              WRIT PETITION 9061 OF 2012
+
+ Parshuram Tilak Patil (since Decd) Through Lrs, ....Appellant
+ Usha Parshuram Patil
+             V/S
+ M/s. Relene Petrochemical Ltd.                 ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 179 OF 2013
+                          In
+              WRIT PETITION 7681 OF 2012
+
+ Shri. Mahendrasingh Ram Thakur                       ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd                     ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 180 OF 2013
+                          In
+              WRIT PETITION 7685 OF 2012
+
+
+                                                                           Page 2/19
+
+<span class="hidden_text" id="span_2">::: Uploaded on - 27/06/2019              ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Satish Devidas Patil                    ....Appellant
+              V/S
+ M/s. Relene Petrochemical Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 181 OF 2013
+                          In
+              WRIT PETITION 7682 OF 2012
+
+ Shri. Naresh Daulat Mahadik                   ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 182 OF 2013
+                          In
+              WRIT PETITION 7684 OF 2012
+
+ Shri. Arun Laxman Kulkarni                    ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 183 OF 2013
+                          In
+              WRIT PETITION 7686 OF 2012
+
+ Shri. Mahadeo Ragho Lokhande                  ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 184 OF 2013
+                          In
+              WRIT PETITION 7692 OF 2012
+
+
+                                                                    Page 3/19
+
+<span class="hidden_text" id="span_3">::: Uploaded on - 27/06/2019       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Harishchandra Shantaram Kadam               ....Appellant
+              V/S
+ M/s. Relene Petrochemical Ltd                  ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 185 OF 2013
+                          In
+              WRIT PETITION 7690 OF 2012
+
+ Shri. Raghunath Maruti Dhone                      ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd                  ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 186 OF 2013
+                          In
+              WRIT PETITION 7688 OF 2012
+
+ Shri. Sudhakar Kashiram Ghag                      ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd                  ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 187 OF 2013
+                          In
+              WRIT PETITION 7680 OF 2012
+
+ Shri. Pandharinath S. Patil                       ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd                  ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 188 OF 2013
+                          In
+              WRIT PETITION 8361 OF 2012
+
+
+                                                                        Page 4/19
+
+<span class="hidden_text" id="span_4">::: Uploaded on - 27/06/2019           ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Narayan Dhaku Shigwan                    ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 189 OF 2013
+                          In
+              WRIT PETITION 7689 OF 2012
+
+ Shri. Bhushan Govind Parab                     ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 190 OF 2013
+                          In
+              WRIT PETITION 7663 OF 2012
+
+ Shri. Goraknath Hiraji Mhatre                  ....Appellant
+             V/S
+ M/s. Relene Petrochemicasl Ltd.             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 191 OF 2013
+                          In
+              WRIT PETITION 7687 OF 2012
+
+ Shri. Pandushekhar P. Suvarna                  ....Appellant
+             V/S
+ M/s. Relene Petrochemical Ltd               ....Respondent
+
+                        WITH
+        CIVIL APPLICATION IN LPA NO. 34 OF 2015
+                           In
+          LETTER PATENT APPEAL 212 OF 2013
+
+
+                                                                     Page 5/19
+
+<span class="hidden_text" id="span_5">::: Uploaded on - 27/06/2019        ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Mahadev Ramdas Patil                      ....Applicant
+             V/S
+ M/s. Relene Petrochemicals Ltd               ....Respondent
+
+                         WITH
+         CIVIL APPLICATION IN LPA NO. 4 OF 2018
+                           In
+           LETTER PATENT APPEAL 181 OF 2013
+
+ Shri. Naresh Daulat Mahadik                     ....Applicant
+             V/S
+ M/s. Relene Petrochemical Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 173 OF 2013
+                          In
+              WRIT PETITION 6163 OF 2012
+
+ Shri. Ganpat Hira Mhatre                        ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd.              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 193 OF 2013
+                          In
+              WRIT PETITION 6155 OF 2012
+
+ Shri. Kisan Rajaram Dhanawade                   ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 194 OF 2013
+                          In
+              WRIT PETITION 6164 OF 2012
+
+
+                                                                      Page 6/19
+
+<span class="hidden_text" id="span_6">::: Uploaded on - 27/06/2019         ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri Haridas Jayram Patil                            ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 195 OF 2013
+                          In
+              WRIT PETITION 6167 OF 2012
+
+ Shri. Bhimrao Damodar Khadse                         ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 196 OF 2013
+                          In
+              WRIT PETITION 6132 OF 2012
+
+ Shri. Daulatram G. Thakur                            ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 197 OF 2013
+                          In
+              WRIT PETITION 4814 OF 2012
+
+ Shri. Ramesh Krishna Patil                           ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 198 OF 2013
+                          In
+              WRIT PETITION 4812 OF 2012
+
+
+                                                                           Page 7/19
+
+<span class="hidden_text" id="span_7">::: Uploaded on - 27/06/2019              ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Liladhar Kisan Patil                           ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 199 OF 2013
+                          In
+              WRIT PETITION 6148 OF 2012
+
+ Shri. Naresh Vasant Patil                            ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 200 OF 2013
+                          In
+              WRIT PETITION 4830 OF 2012
+
+ Shri. Krishna Harischandra Patil                     ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 201 OF 2013
+                          In
+              WRIT PETITION 6143 OF 2012
+
+ Shri. Pandurang Kabir Mhatre                         ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 202 OF 2013
+                          In
+              WRIT PETITION 6159 OF 2012
+
+
+                                                                           Page 8/19
+
+<span class="hidden_text" id="span_8">::: Uploaded on - 27/06/2019              ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri Chandrakant Raghunath Patil               ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 203 OF 2013
+                          In
+              WRIT PETITION 6139 OF 2012
+
+ Shri. Sudam Rajaram Patil                      ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 204 OF 2013
+                          In
+              WRIT PETITION 4822 OF 2012
+
+ Shri Bijendra Satbir Khairalia                 ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 205 OF 2013
+                          In
+              WRIT PETITION 4810 OF 2012
+
+ Shri. Gajanan Gangaram Patil                   ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd              ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 206 OF 2013
+                          In
+              WRIT PETITION 4823 OF 2012
+
+
+                                                                     Page 9/19
+
+<span class="hidden_text" id="span_9">::: Uploaded on - 27/06/2019        ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri Vishwanath Babu Patil                       ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 207 OF 2013
+                          In
+              WRIT PETITION 4820 OF 2012
+
+ Shri Meghnath Krishna Patil                      ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 208 OF 2013
+                          In
+              WRIT PETITION 6136 OF 2012
+
+ Shri. Chandrakant Kashinath Mhatre               ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 209 OF 2013
+                          In
+              WRIT PETITION 6160 OF 2012
+
+ Shri. Navnath Kashinath Patil                    ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd               ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 210 OF 2013
+                          In
+              WRIT PETITION 6133 OF 2012
+
+
+                                                                      Page 10/19
+
+<span class="hidden_text" id="span_10">::: Uploaded on - 27/06/2019          ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Dinanath Dashrath Patil                        ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 211 OF 2013
+                          In
+              WRIT PETITION 6150 OF 2012
+
+ Shri Rambhau Shankar Shinde                          ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 213 OF 2013
+                          In
+              WRIT PETITION 4824 OF 2012
+
+ Shri Suresh Babu Madhavi                             ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 214 OF 2013
+                          In
+              WRIT PETITION 6162 OF 2012
+
+ Shri. Krishna Narayan Patil                          ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd                   ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 215 OF 2013
+                          In
+              WRIT PETITION 6149 OF 2012
+
+
+                                                                          Page 11/19
+
+<span class="hidden_text" id="span_11">::: Uploaded on - 27/06/2019              ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Sanjay Gunaji Mhatre                           ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 216 OF 2013
+                          In
+              WRIT PETITION 6140 OF 2012
+
+ Shri. Jaywant Harischandra Patil                     ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd And Ors            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 217 OF 2013
+                          In
+              WRIT PETITION 4813 OF 2012
+
+ Shri Vasudev Kaluram Bhoir                           ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                    ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 218 OF 2013
+                          In
+              WRIT PETITION 6134 OF 2012
+
+ Shri. Shashikant Jayram Rankar                       ....Appellant
+              V/S
+ M/s. Relene Petro Chemicals Ltd                   ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 219 OF 2013
+                          In
+              WRIT PETITION 6135 OF 2012
+
+
+                                                                          Page 12/19
+
+<span class="hidden_text" id="span_12">::: Uploaded on - 27/06/2019              ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Gajanan Posha Mhatre                    ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 220 OF 2013
+                          In
+              WRIT PETITION 4818 OF 2012
+
+ Shri Dattatraya Baliram Mhatre                ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 221 OF 2013
+                          In
+              WRIT PETITION 6145 OF 2012
+
+ Shri Ramesh Narayan Mhatre                    ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 222 OF 2013
+                          In
+              WRIT PETITION 6142 OF 2012
+
+ Shri. Sharad Kashinath Patil                  ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 223 OF 2013
+                          In
+              WRIT PETITION 6147 OF 2012
+
+
+                                                                   Page 13/19
+
+<span class="hidden_text" id="span_13">::: Uploaded on - 27/06/2019       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri Suresh Gopal Patil                       ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 224 OF 2013
+                          In
+              WRIT PETITION 6141 OF 2012
+
+ Shri. Jayram Pandurang Mhatre                 ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 225 OF 2013
+                          In
+              WRIT PETITION 6152 OF 2012
+
+ Shri. S. Irudayaraj                           ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 226 OF 2013
+                          In
+              WRIT PETITION 6144 OF 2012
+
+ Shri Narayan Ganpat Patil                     ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 227 OF 2013
+                          In
+              WRIT PETITION 6166 OF 2012
+
+
+                                                                   Page 14/19
+
+<span class="hidden_text" id="span_14">::: Uploaded on - 27/06/2019       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Dnyaneshwar Govrya Dalvi                ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 228 OF 2013
+                          In
+              WRIT PETITION 6158 OF 2012
+
+ Shri. Kisan Arjun Patil                       ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 229 OF 2013
+                          In
+              WRIT PETITION 4817 OF 2012
+
+ Shri. Prabhakar Bembat Patil                  ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 230 OF 2013
+                          In
+              WRIT PETITION 6161 OF 2012
+
+ Shri. Motiram Tukaram Patil                   ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 231 OF 2013
+                          In
+              WRIT PETITION 4806 OF 2012
+
+
+                                                                   Page 15/19
+
+<span class="hidden_text" id="span_15">::: Uploaded on - 27/06/2019       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Nivrutti Pandharinath Mhatre               ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 232 OF 2013
+                          In
+              WRIT PETITION 6157 OF 2012
+
+ Shri. Dilip Vishnu Madhavi                       ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 233 OF 2013
+                          In
+              WRIT PETITION 6151 OF 2012
+
+ Shri. Ramesh Krishna Mhatre                      ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 234 OF 2013
+                          In
+              WRIT PETITION 4816 OF 2012
+
+ Shri Sandeep Padmakar Kulkarni                   ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 235 OF 2013
+                          In
+              WRIT PETITION 4828 OF 2012
+
+
+                                                                      Page 16/19
+
+<span class="hidden_text" id="span_16">::: Uploaded on - 27/06/2019          ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri Rohidas Pandurang Patil                  ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 236 OF 2013
+                          In
+              WRIT PETITION 6153 OF 2012
+
+ Shri. Jaywant Kashinath Bhoir                 ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd             ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 237 OF 2013
+                          In
+              WRIT PETITION 6138 OF 2012
+
+ Shri. Ravindra Vishnu Rupvate                 ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 238 OF 2013
+                          In
+              WRIT PETITION 6137 OF 2012
+
+ Shri. Ramesh Waman Mhatre                     ....Appellant
+             V/S
+ M/s. Relene Petro Chemicals Ltd            ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 239 OF 2013
+                          In
+              WRIT PETITION 4821 OF 2012
+
+
+                                                                   Page 17/19
+
+<span class="hidden_text" id="span_17">::: Uploaded on - 27/06/2019       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+  Shri. Chandrakant Anant Madhavi                          ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                        ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 240 OF 2013
+                          In
+              WRIT PETITION 6165 OF 2012
+
+ Shri Raghu Sesu Bangera                                  ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd                        ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 241 OF 2013
+                          In
+              WRIT PETITION 6156 OF 2012
+
+ Shri. Sahadeo Kaluram Patil                              ....Appellant
+             V/S
+ M/s. Relene Petrochemicals Ltd And Ors                ....Respondent
+
+                         WITH
+         LETTER PATENT APPEAL NO. 242 OF 2013
+                          In
+              WRIT PETITION 6154 OF 2012
+
+ Shri. Dattatraya Madhukar Patil                          ....Appellant
+              V/S
+ M/s. Relene Petrochemicals Ltd                        ....Respondent
+
+
+
+
+        CORAM :                R.M. BORDE &amp;
+
+
+                                                                              Page 18/19
+
+<span class="hidden_text" id="span_18">::: Uploaded on - 27/06/2019                  ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+                                N. J. JAMADAR, JJ
+      DATE :                   26th June, 2019
+ P.C. :
+</p><p id="p_2">   Due to paucity of time the matter is adjourned to 25/07/2019.
+   Ad-interim relief if any to continue till then.
+</p>
+
+
+<p id="p_3">                                      ( FOR REGISTRAR JUDICIAL - I )
+
+
+
+
+                                                                                   Page 19/19
+
+<span class="hidden_text" id="span_19">::: Uploaded on - 27/06/2019                       ::: Downloaded on - 28/06/2019 01:21:52 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

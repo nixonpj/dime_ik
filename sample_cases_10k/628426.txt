@@ -1,0 +1,496 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ram Swarup vs The State on 12 September, 1957</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/628426/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 25 docs 
+      
+        - [<A HREF="/search/?formInput=cites:628426">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/366712/">Article 20(3) in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/770022/">Section 73 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/655638/">Article 20 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1990504/">Swarnalingam Chettiar vs Assistant Inspector Of Labour, ... on 3 December, 1954</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 8 docs
+      
+        - [<A HREF="/search/?formInput=citedby:628426">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/590459/">Nag Raj Patodia vs R.K. Birla And Ors. on 15 November, 1968</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1664429/">Asharfi And Anr. vs The State on 19 May, 1960</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1655339/">State Of Kerala vs K.K. Sankaran Nair on 22 June, 1960</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1377785/">Balraj Bhalla vs Sri Ramesh Chandra Nigam And Anr. on 31 July, 1959</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1709074/">Union Of India (Uoi) vs Firm Ram Gopal Hukum Chand And Ors. on 1 January, 1960</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/628426/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/628426/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2020">article 20</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2020%20%283%29">article 20 (3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073">section 73</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%203">article 3</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thumb%20impression">thumb impression</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=search%20warrant">search warrant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=who%20can%20give%20evidence">who can give evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=testimonial%20compulsion">testimonial compulsion</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=coercion">coercion</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=342">342</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=produce%20some%20document">produce some document</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20342">section 342</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20production%20of%20document"> production of document</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=accuse%20as%20witness">accuse as witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073%20evidence">section 73 evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073%20of%20evidence%20act">section 73 of evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20%2073%20evidence%20act%20-%20">s  73 evidence act - </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20evidence%20act">section evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adverse%20inference">adverse inference</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2020%20constitution">article 20 constitution</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Ram Swarup vs The State on 12 September, 1957</div><div class="doc_citations">Equivalent citations: AIR 1958 All 119, 1958 CriLJ 134</div>
+
+<div class="doc_author">Author: R Dayal</div>
+
+<div class="doc_bench">Bench: R Dayal, James</div>
+
+<p id="p_1">ORDER    
+ 
+
+</p><p id="p_2"> 1. This Revision involves the extent and implications   of   the  fundamental   right  against self-incrimination   embodied   in   Clause    (3)   of <a href="/doc/655638/" id="a_1">Article 20</a> of our Constitution in the words : ''No person accused of any offence shall be compelled to be a witness against himself". Since I propose referring the case to a Division Bench I shall give but a brief account of the facts of the case and the state of the law applicable.  
+</p> 
+
+<p id="p_3"> 2. The facts are these. The applicant, who is an official of the Post Office of Pilibhit, was sent up for trial for the offence of embezzlement under Section 409, I. P. C., and the authorship of certain writings was one of the facts at issue. A specimen of his writing or signature was taken by the Committing Magistrate, but for some undisclosed reason was not sent for expert examination.  
+</p> 
+
+<p id="p_4"> At the trial before the Sessions Judge the Government counsel applied for sending the specimen to an expert, to which the applicant strongly objected, After hearing the parties the learned Sessions Judge passed an order which was in two parts : first, that the specimen previously taken before the Magistrate be sent for expert examination; and second, that, if the State counsel so liked a fresh specimen be taken from the applicant for purposes of comparison,  
+ 
+
+</p><p id="p_5"> 3. Both the Magistrate and the Sessions Judge acted manifestly under the provisions of <a href="/doc/770022/" id="a_2">Section 73</a> of the Indian Evidence Act, which provides :  
+</p>   
+
+<p id="p_6"> ''In order to ascertain whether a signature, writing or seal is that of the person by whom it purports to have been written or made, any signature, writing or seal admitted or proved to the satisfaction of the Court to have been written or made by that person may be compared with the one which is to be proved, although that signature, writing or seal has not been produced or proved for any other purpose.  
+</p> 
+
+<p id="p_7"> The Court may direct any person present In Court to write any words or figures for the purpose of enabling the Court to compare the words or figures so written with any words or figures alleged to have been written by such person.  
+</p> 
+
+<p id="p_8"> This section applies also, with any necessary modifications, to finger-impressions."   
+</p> 
+
+<p id="p_9"> 4. The applicant has come up in revision to this Court and contends that both parts of the learned Judge's order contravene <a href="/doc/366712/" id="a_3">Article 20(3)</a> of the Constitution inasmuch as they amount to compelling him to be a witness against himself.  
+</p> 
+
+<p id="p_10"> 5. The leading Indian case on the subject is that of <a href="/doc/70398131/" id="a_4">M. P. Sharma v. Satish Chandra</a>, AIR 1954 SC 300 (A). Analysing the terms in which the fundamental right under <a href="/doc/366712/" id="a_5">Article 20(3)</a> has been granted their Lordships of the Supreme Court point out that it consists of three components : (1) it is a right pertaining to a person ''accused of an offence"; (2) it is a protection against "compulsion to be a witness" and ' (3) it is a protection against such compulsion resulting in his giving evidence "against himself". But in view of the historical background of the right and its pros and cons they consider that "there is no inherent reason to construe the ambit of this fundamental right as comprising a very wide range". With regard to "compulsion" they state :  
+</p><p id="p_11">  "every positive volitional act which furnishes evidence is testimony, and testimonial compulsion connotes coercion which procures the positive volitional evidentiary acts of the person, as opposed to the negative attitude of silence or submission on his part." They further rule that the protection afforded to an accused persons in so far as it is related to the phrase ''to be a witness" is not merely in respect of testimonial compulsion in the Court-room but may well extend to compelled testimony previously obtained from him. Finally they declare that the Constitutional guarantee extends both to oral and documentary evidence.  
+</p> 
+
+<p id="p_12"> 6. To these principles laid down by the Supreme Court it may be added that since <a href="/doc/366712/" id="a_6">Article 20(3)</a> gives only a privilege to an accused person he can always waive it.  
+</p> 
+
+<p id="p_13"> 7. Applying these principles to the facts of the instant case, no legitimate exception can be taken to the first part of the Sessions Judge's order for the simple reason that there is nothing to suggest that the specimen writing obtained from him by the Magistrate was under any sort of coercion or compulsion. That is to say, by submitting to the Magistrate's order to give his specimen writing he waived his constitutional privilege. Consequently the Court below must be held to have rightly exercised its statutory power under <a href="/doc/770022/" id="a_7">Section 73</a> of the Evidence Act in directing expert examination of that specimen.  
+</p> 
+
+<p id="p_14"> 8. The second part of the Sessions Judge's order, inasmuch as it is tantamount to directing the accused-applicant to give his specimen writing or signature (which he has refused to do), occasions difficulty. The applicant is accused of an offence; he is being compelled to furnish evidence; this evidence is liable to be used against him. Consequently all the conditions attached to <a href="/doc/366712/" id="a_8">Article 20(3)</a> are apparently satisfied. Nevertheless I find the law on the question uncertain. There is no decision of the Allahabad High Court on the point.  
+</p> 
+
+<p id="p_15"> There are two cases of the Madras High Court which deal with the taking of thumb-impressions -- not, be it noted, with the taking of specimen hand-writing. They are <a href="/doc/1452069/" id="a_9">Rajamuthukoil Pillai v. Periyassami Nadar</a>, 1955-2 Mad LJ 468: (AIR 1956 Mad 632) (B) and In re, Palani Goundan, 1956-2 Mad LJ 273: AIR 1957 Mad 546) (C). In them it has been held that a direction to an accused person to give his thumb-impression amounts to asking him to furnish evidence against himself, thereby invading his right under <a href="/doc/366712/" id="a_10">Article 20(3</a>),  
+ 
+
+ In the second case however a distinction has been drawn between compelling an accused person to furnish his thumb-impression and the taking of it by a police officer, the latter procedure being considered valid. It is clear from a reading of the two Madras judgments that a direction to an accused to give specimens of his signature or writing would be struck down as a violation of his right against self-crimination.  
+</p> 
+
+<p id="p_16"> 9. With great respect to the learned Judges of Madras I am of opinion that their view on directing an accused person to furnish his thumb-impressions is not correct. The case of Emperor v. Nga Tun Hlaing, AIR 1924 Rang 115 (D), decided by a Full Bench of the Rangoon High Court as early as 1924, declares that a direction to an accused to give his finger impressions is not compulsion to provide evidence against himself, and, with great respect, I am in agreement with the reason their Lordships give for their view :  
+</p><p id="p_17">  ''The ridges of his thumb are not provided by him any more than the features of his countenance are provided by him; all that he is asked to do is to display these ridges; for better scrutiny the ridges are inked over and an impression is made on a piece of paper."  
+</p> 
+
+<p id="p_18"> 10. The view of the Calcutta High Court runs counter to that of Madras. <a href="/doc/154923/" id="a_11">In Sailendra Nath Sinha v. The State</a>, AIR 1955 Cal 247 (E), a Division Bench has held that a direction under <a href="/doc/770022/" id="a_12">Section 73</a> of the Evidence Act to take specimen writings of an accused does not offend against <a href="/doc/366712/" id="a_13">Article 20(3</a>), for a mere direction does not amount to compelling him to give evidence against himself. I might however point out that their Lordships did not consider what consequences would ensue if the accused refused to obey the direction, for if he so refused and proceedings for contempt were taken against him, surely the ''direction" would be tantamount to compelling him to have his specimen writing and consequently furnish evidence against himself.  
+</p> 
+
+<p id="p_19"> 11. In the AIR Commentaries on "Constitution of India" Vol. I (1954 Ed.) the view expressed at page 502 is that a direction under <a href="/doc/770022/" id="a_14">Section 73</a> of the Evidence Act to give specimen writing or thumb-impression does not offend against <a href="/doc/366712/" id="a_15">Article 20(3).</a> Here too the learned authors have not considered the consequences of disobeying the direction.  
+</p> 
+
+<p id="p_20"> 12. It thus appears that there is a conflict in judicial opinion on the subject, for which reason I consider an authoritative pronouncement by our High Court necessary on the point. I might also point out that the decision will have repercussions on the application of statutory provisions like <a href="/doc/1039145/" id="a_16">Sections 94</a>, <a href="/doc/850208/" id="a_17">96</a>, <a href="/doc/1953529/" id="a_18">342</a> and <a href="/doc/1953529/" id="a_19">495</a>, Cr. P. C., and <a href="/doc/697566/" id="a_20">Section 106</a> of the Evidence Act. It will also affect the validity of such items of strong evidentiary value as identification proceedings of suspects, recovery of incriminating articles from their possession, taking their photographs, tying clothes upon them, and the like.  
+</p> 
+
+<p id="p_21"> 13. There is also a subsidiary question. If an accused person claims the privilege of <a href="/doc/366712/" id="a_21">Article 20(3)</a> will the Court be entitled to draw an inference adverse to him? It is arguable that if such an inference were to be drawn it would amount to compelling him to furnish evidence against himself. The Supreme Court of the United States have held in Wilson v. United States, (1892) 149 US 60 (F), and other cases that no presumption can be drawn, but a Division Bench, of our High Court in Ban-warilal v. The State, (S) AIR 1956 All 3.41 (G), in dealing with a similar argument in respect of the provisions of <a href="/doc/1953529/" id="a_22">Section 342</a>, Cr. P. C., has held :  
+</p><p id="p_22">  "It may be conceded that the right given to the Court to draw an adverse inference against the accused imposes some compulsion upon him, but it is a far cry from saying that it compels him to be a witness against himself." In England the rule since the passing of the Criminal Evidence Act of 1898 has been that the failure of an accused person to give evidence shall not be made the subject of any comment by the prosecution, but this does not deprive the Court of the right to comment on the omission --See R. v. Rhodes, 1899-1 QB 77 (H). To my mind, the privilege against self-crimination was introduced for the protection of the innocent and was not intended to be a hiding place for crime, so that no innocent person has any need to claim the privilege.  
+</p><p id="p_23">  It is however open to the legislature to enact that no adverse inference be drawn, and consequently we find the new <a href="/doc/1953529/" id="a_23">Section 342-A</a>, Cr. P. C., which allows an accused to be a competent witness for the defence in disproof of the charges made against him provided he does so on his own written request, definitely forbidding the parties or the Court to make any comment on, or draw any presumptions from, his omission to appear as a defence witness.  
+</p><p id="p_24">  There is a similar provision in <a href="/doc/324254/" id="a_24">Section 7</a> of the Prevention of Corruption Act. Nevertheless it is clear from a reading of <a href="/doc/1953529/" id="a_25">Section 342-A</a>, Cr. P. C. that the prohibition is confined to the omission of the accused to furnish oral evidence; the statute does not forbid the drawing of appropriate presumptions in the case of evidence other than oral evidence. What then should be the position when the accused, as in the present case, refuses to give his specimen writing, i.e., claims the privilege of producing evidence other than oral evidence which is liable to be used against him?  
+</p><p id="p_25">  The Judge can hardly perform the impossible feat of ignoring the operations of his own mind, which must be that the accused has something of consequence to hide. Consequently I am of opinion that in such cases the Court should be entitled to draw an appropriate inference against him. In any evidence, the question posed above deserves careful consideration.  
+</p> 
+
+<p id="p_26"> 14. For these reasons I refer the case to a larger Bench, and should like to be a member of it.  
+</p> 
+
+<p id="p_27"> 15. The proceedings in the Court below shall remain stayed pending further orders.  
+</p> 
+
+<p id="p_28"> OPINION   
+ 
+
+  Raghubar Dayal, J.   
+</p> 
+
+<p id="p_29"> 16. A case under <a href="/doc/1953529/" id="a_26">Section 409</a>, I. P. C. is pending against Ram Swarup applicant in the Court of the Sessions Judge of Pilibhit. The Public Prosecutor applied that certain documents be sent to the handwriting expert for comparison and opinion in order to get evidence whether certain entries were in the handwriting of the accused or not. Objection. was taken to this request on behalf of the accused.  
+</p> 
+
+<p id="p_30"> The learned Sessions Judge ordered that the specimen writing of the accused, taken in the presence of Sri S. K. Dixit, Magistrate First Class, Ex. P-3, and other papers be sent for comparison to the Government Handwriting Expert and that if the District Government Counsel liked fresh specimen writing of the accused be taken in the Court. Against this order Ram Swarup has come up in revision,  
+ 
+
+</p><p id="p_31"> 17. The revision came up for hearing before my brother James who, in view of a conflict in judicial opinion on the question how far the Court can legally direct specimen writing to be given by an accused under <a href="/doc/770022/" id="a_27">Section 73</a> of the Indian Evidence Act in view of <a href="/doc/366712/" id="a_28">Article 20(3)</a> of the Constitution, referred the case to a larger Bench.  
+</p> 
+
+<p id="p_32"> 18. I see no force in this revision.  
+</p> 
+
+<p id="p_33"> 19. Firstly, it appears to me that the revision is premature. There is nothing in the application for revision to indicate that the Public Prosecutor did desire to obtain fresh specimen writing of the accused for purposes of comparison and that the Court did definitely order the accused to furnish that writing.  
+</p> 
+
+<p id="p_34"> If the accused is not directed to furnish any fresh writing, no question of the legality of the order of the Sessions Judge arises. The comparison of disputed writing with proved writing of the accused or with the specimen writing of the accused taken in the presence of the Magistrate could be made for purposes of securing evidence or coming to the conclusion about the disputed writing being of the accused or not.  
+</p> 
+
+<p id="p_35"> 20. So far as the revision is directed against the exercise of discretion by the learned Sessions Judge in affording this opportunity to the State to examine further evidence, it cannot possibly succeed as the interests of justice did dictate that the expert's evidence be available to the Court in addition to other oral evidence in that connection.  
+</p> 
+
+<p id="p_36"> 21. Assuming that the order of the learned Sessions Judge did amount to directing the accused to furnish specimen writing or that similar order was subsequently passed at the request of the Public Prosecutor, the question arises whether the accused can be validly ordered to furnish specimen writing. It is for the determination of this question that my brother James has referred it to a larger Bench. It is desirable to decide this point.  
+</p> 
+
+<p id="p_37"> 22. The first paragraph of <a href="/doc/770022/" id="a_29">Section 73</a> of the Indian Evidence Act permits a comparison of the disputed signature, writing or seal with any admitted or proved signature, writing or seal of the person by whom the former is alleged to have been written. We are not concerned with the validity of this provision.  
+</p>
+ 
+
+<p id="p_38"> 23. The second paragraph of <a href="/doc/770022/" id="a_30">Section 73</a> of the Indian Evidence Act is :  
+</p><p id="p_39">  "The Court may direct any person present in Court to write any words or figures for the purpose of enabling the Court to compare the words or figures so written with any words or figures alleged to have been written by such person."  
+</p> 
+
+<p id="p_40"> There is nothing in this provision to suggest that this writing would be evidence in the case. It is obtained just for the purpose of comparison of the disputed writing with it. The writing so obtained requires no proof as it is obtained by the Court in its presence. The writing so obtained cannot be said to be produced before the Court for inspection. The Court itself obtains it; nobody produces it before the Court. According to <a href="/doc/1031309/" id="a_31">Section 3</a> of the Indian Evidence Act, 'evidence' means and includes ;  
+</p>   
+
+<p id="p_41"> "1. all statements which the Court permits or requires to be made before it by witnesses, in relation to matters of fact under inquiry: such statements are called oral evidence;  
+</p> 
+
+<p id="p_42"> 2. all documents produced for the inspection of the Court: such documents are called documentary evidence."   
+</p> 
+
+<p id="p_43"> The writing obtained by the Court from the accused under <a href="/doc/770022/" id="a_32">Section 73</a> of the Evidence Act does not therefore come within the expression 'evidence' as it is not a document produced for the inspection of the Court. Even if it be said that the writing is produced or created by the accused under the orders of the Court, it is not produced for the purpose of inspection of itself. It is produced for the purpose of comparing it with the disputed writing. If the Court itself compares the two writings, no question of the use of this writing as evidence arises.  
+</p> 
+
+<p id="p_44"> If the two writings are compared by an expert, the evidence in the case would be the statement of the expert who would just use the writing obtained from the accused for the purpose of comparison and would then depose about the conclusion he arrived at with respect to the disputed writing being of the accused or not. The specimen writing would be just a material for comparison and would not by itself be evidence of any fact in the Court.  
+</p> 
+
+<p id="p_45"> 24. Clause (3) of <a href="/doc/655638/" id="a_33">Article 20</a> of the Constitution is :  
+</p>   
+
+<p id="p_46"> "No person accused of any offence shall be compelled to be a witness against himself" Even if the accused's writing under the direction of the Court amounts to the accused's furnishing evidence and thus amounts to the accused being a witness, it cannot be said that the accused thus becomes a witness against himself. The writing is not obtained to convict the accused. The Court does not know that the accused's writing would necessarily be identical with the disputed writing and therefore does not obtain the writing from the accused in order to have alleged offence established against the accused.  
+</p> 
+
+<p id="p_47"> The writing is obtained merely for the purpose of enabling the Court to arrive at the truth. If the writing does not tally with the disputed writing, the accused would be acquitted and such furnishing of evidence by him would not be against himself but would be in his favour. Of course, if the writing is proved to be identical with the disputed writing, it will go against the accused. All the same, I am of opinion that the accused's conduct, in making the writing under the direction of the Court does not by itself amount to his being a witness against himself.   
+</p> 
+
+<p id="p_48"> 25. The other question is whether the accused's furnishing the writing under the direction of the Court amounts to his being compelled to be a witness against himself. There is no compulsion. The accused is simply directed to give a writing in the presence of the court or any other person. If he does not want to give a writing he may refuse. Such refusal does not appear to amount to any offence. Whether such a refusal would amount to contempt of court may be debatable.  
+</p> 
+
+<p id="p_49"> Even if it does and the accused's complying with the direction or order of the court to give a writing be said to be due to the fear of punishment for committing contempt of court, the use of that writing may be not permitted by law. I, however, fail to imagine any court forcing an accused to give a writing. Firstly, it is not possible to use physical force against a person and make him write; secondly, such a writing will be of little avail for purposes of comparison with the disputed writing. It would not be a natural writing and the evidentiary value of the expert's opinion on a comparison of such a writing with the disputed writing will be very little.  
+</p> 
+
+<p id="p_50"> For practical purposes I feel that no such occasion can be expected in which an accused would be compelled to give a writing for purposes of comparison. Anyway, the provision that an accused be directed to give a writing cannot be said to be void. Nobody knows --when such a direction is given -- if the accused would like to comply with it willingly or not. If he complies willingly, no question arises of his being compelled to give a writing. In fact, any accused who is innocent would prefer to give a writing as he would feel sure that the disputed writing which is not his would never be established to be his writing.  
+</p> 
+
+<p id="p_51"> It would be the guilty alone who would feel shaky about it and would like to avoid giving a writing for purposes of comparison. Surely the law would not contemplate an accused to escape the penalty of law merely because he raises an objection to giving a writing when no question is possible to be raised that the writing so obtained was not really the writing of the accused. Forced confessions may be untrue; any other information given by word of mouth or by gestures under duress may be untrue; but a writing given by an accused would be his writing.  
+</p> 
+
+<p id="p_52"> Of course, as mentioned earlier, a writing forced out of an accused is not expected to be his natural writing and therefore is not expected to be of much use for purposes of comparison. However, any later consideration of any evidence based on a consideration of such writing to the effect that that evidence is inadmissible will not make the provision of law in <a href="/doc/770022/" id="a_34">Section 73</a> about the giving of direction to an accused to give his writing, against the provisions of Clause (3) of <a href="/doc/655638/" id="a_35">Article 20</a> of the Constitution. In this view of the matter, this revision must be held to be premature.  
+</p> 
+
+<p id="p_53"> 26. The contention for the applicant is founded on what is considered to be the law declared in the pronouncement of their Lordships of the Supreme Court in 1954 SCR 1077: (AIR 1954 SC 300) (A). In that case search warrants were issued during the course of investigation of offences under various sections<a href="/doc/1569253/" id="a_36"> of the Indian Penal Code</a>.  
+</p> 
+
+<p id="p_54"> Searches took place and a number of records were seized from various places. The persons against whom investigation was pending applied for the quashing of the search warrants and for the return of documents seized, contending that the fundamental rights _of the petitioners under Articles 20(3) and 19(1)(f) had been voilated by the searches in question. Their Lordships held that none of these contentions was correct. Their Lordships observed at p. 1096  (of SCR): (at p. 306 of AIR):  
+</p>   
+
+<p id="p_55"> "It is, therefore, clear that there is no basis in the Indian law for the assumption that a search or seizure of a thing or document is in itself to be treated as compelled production of the same. Indeed a little consideration will show that the two are essentially different matters for the purpose relevant to the present discussion.  
+</p> 
+
+<p id="p_56"> A notice to produce is addressed to the party concerned and his production in compliance therewith constitutes a testimonial act by him within the meaning of <a href="/doc/366712/" id="a_37">Article 20(3)</a> as above explained. But search warrant is addressed to an officer of the Government, generally a police officer. Neither the search nor the seizure are acts of the occupier of the searched premises. They are acts of another to which he is obliged to submit and are, therefore, not his testimonial acts in any sense".   
+</p> 
+
+<p id="p_57"> It may be noticed that the observation is that the production of a document in compliance with a notice to produce it constitutes a testimonial act by that person within the meaning of <a href="/doc/366712/" id="a_38">Article 20(3</a>), as explained previously, but is not said to amount to compelled production of the document.  
+</p> 
+
+<p id="p_58"> 27. In arriving at the finding that the production of documents in compliance of search warrants is not compelled production of the documents by the accused himself and therefore does not amount to compelling the accused to be a witness against himself, their Lordships considered various matters. It is the observations in the course of such consideration which have been accepted as declared law and have been the basis of various decisions.  
+</p> 
+
+<p id="p_59"> I venture to think that such observations in the process of reasoning do not amount to declaration of law as contemplated by <a href="/doc/882644/" id="a_39">Article 141</a> of the Constitution. It is well known that a case is an authority for the point it decides. The point decided in the aforesaid case is simply that search warrants are not illegal and the production of documents seized during the search does not amount to compelling the accused to be a witness against himself.  
+</p> 
+
+<p id="p_60"> Even the observations do not to my mind go against the view I have expressed. There was no question in that case, nor is there any in the present case, that the person aggrieved was a person accused of an offence. It was not disputed in that case that the documents which were to be seized were to be those which went to incriminate the accused. The evidence to be obtained by search was to be used against the accused. That cannot be said in the present case.  
+</p> 
+
+<p id="p_61"> I have already mentioned that the writing to be obtained from the accused is without any idea whether it would go to exonerates the accused of the offence or would go to establish it against him. The court does not secure it for the purpose of convicting the accused but for the purpose of obtaining some good material evidence by means of comparison with the disputed writing to determine the facts in dispute. The question argued before their Lordships was that compelled production of incriminating documents from the possession of an accused was compelling the accused to be a witness against himself.  
+</p> 
+
+<p id="p_62"> The question so raised was considered to refer to the second ingredient of the requirements of <a href="/doc/366712/" id="a_40">Article 20(3</a>), that ingredient relating to the protection against 'compulsion to be a witness'. Their Lordships themselves opened the discussion of the question in their judgment by the sentence: "Broadly stated the guarantee in <a href="/doc/366712/" id="a_41">Article 20(3)</a> is against 'testimonial compulsion'". This itself indicates to my mind that they were approaching the question in a general way and not in a very precise way avoiding any such expression which may require reconsideration when that particular point itself becomes a matter in issue for determination by them. Their Lordships had said earlier :  
+</p><p id="p_63">  ''In view of the above background, there is no inherent reason to construe the ambit of this fundamental right as comprising a very wide range. Nor would it be legitimate to confine it to the barely literal meaning of the words used, since it is a recognised doctrine that when appropriate a constitutional provision has to be liberally construed, so as to advance the intendment thereof and to prevent its circumvention."  
+</p> 
+
+<p id="p_64"> It was in view of such a consideration that their Lordships were looking at the question broadly, and even such a broad and general consideration of the point raised before them did not lead them to hold in favour of the petitioners. Their Lordships' observation thereafter is "to be a witness" is nothing more than 'to furnish evidence', and such evidence can be furnished through the lips or by production of a thing or of a document or in other modes". I have already mentioned that what the accused does in writing under the orders of the court does not amount to evidence and therefore this observation would not go against what has been said above.  
+</p> 
+
+<p id="p_65"> 28. Their Lordships later on observed : ''Indeed, every positive volitional act which furnishes evidence is testimony, and testimonial compulsion connotes coercion which procures the positive volitional evidentiary acts of the person, as opposed to the negative attitude of silence or submission on his part." What is the content of the coercion referred to in this observation is not mentioned in the judgment. In fact, as mentioned earlier, they did not describe the production of a document in compliance with a notice to produce it as a compelled production of that document. It will always be a question of fact what evidence is obtained by coercion and therefore amounts to compelled evidence.  
+</p> 
+
+<p id="p_66"> 29. Their Lordships further said in considering the import of the expression "to be a witness" :  
+</p><p id="p_67">  "The phrase used in <a href="/doc/366712/" id="a_42">Article 20(3)</a> is 'to be a witness' and not to appear 'as a witness' : It follows that the protection afforded to an accused in so far as it is related to the phrase 'to be a witness' is not merely in respect of testimonial compulsion in the court room but may well extend to compelled testimony previously obtained from him."  
+</p> 
+
+<p id="p_68"> I draw the same conclusion from the use of the expression 'may well extend' as I have drawn from the exprevssion 'broadly stated' with which their Lordships opened the discussion of the submission made to them.  
+</p> 
+
+<p id="p_69"> 30. Their Lordships then observed : ''Considered in this light, the guarantee under <a href="/doc/366712/" id="a_43">Article 20(3)</a> would be available in the present cases to those petitioners against whom a First Information Report has been recorded as accused therein. It would extend to any compulsory process for production of evidentiary documents which are reasonaly likely to support a prosecution against them." I have already mentioned that the writing sought from the accused under the direction of the court cannot be said to be a document which is reasonably likely to support the prosecution case against him unless it be that the disputed writing was actually made by the accused. There is nothing incriminating in the writing obtained from the accused. The writing only serves to show that the disputed writing is by the accused and thus helps in establishing a link of the prosecution case.  
+</p> 
+
+<p id="p_70"> 31. It was after the aforesaid observations that their Lordships dealt with the direct question raised in that case, that is, whether search warrants for the seizure of documents from the custody of the petitioners were unconstitutional and hence illegal on the ground that in fact they were tantamount to compelled production of evidence. Their answer to this question was in the negative, as already mentioned.  
+</p>
+ 
+
+<p id="p_71"> 32. I therefore do not find in this Supreme Court case anything which goes against the view expressed by me about the validity of the impugned provision of <a href="/doc/770022/" id="a_44">Section 73</a> of; the <a href="/doc/1953529/" id="a_45">Evidence Act</a> or the legality of the order of the learned Sessions Judge directing the accused, if he had really done so to furnish specimen writing.  
+</p> 
+
+<p id="p_72"> 33. We were referred to a number oi cases, and I may briefly refer to them in view of the frequent reference to the effect of the aforesaid decision of the Supreme Court in the trial of cases.  
+</p> 
+
+<p id="p_73"> 34. <a href="/doc/114536744/" id="a_46">In Sunder Singh v. The State (S</a>) AIR 1955 All 367 (I), Handhir Singh J. held that there was no evidence that the accused were compelled to point out or deliver things.  
+</p> 
+
+<p id="p_74"> 35.   In   (S)   AIR  1956  All   341   (G), Desai and Sahai, JJ, were considering the vires of <a href="/doc/697591/" id="a_47">Section 342</a> of the Criminal Procedure Code in view of <a href="/doc/366712/" id="a_48">Article 20(3)</a> of the Constitution and the decision of the Supreme Court. It was held that the object of the impugned provision of <a href="/doc/1953529/" id="a_49">Section 342</a>, Cr. P. C. was not to incriminate the accused but was to give an opportunity to explain matters which had come on record against him.  
+</p> 
+
+<p id="p_75"> This observation is in conformity with what I have said that the specimen writing is not obtained from the accused in order to incriminate him or to prove the case against him but simply to compare the disputed writing and to get evidence which may either prove or disprove that the disputed writing was of the accused.  
+</p> 
+
+<p id="p_76"> 36. <a href="/doc/1107450/" id="a_50">In Subedar v. State</a>, 1057 All LJ 263: ((S) AJR 1957 All 396) (J) my brother James considered the facts of the case to establish that the accused was being coerced to testify. In that case the petitioner did not appear in court when summoned as a witness during a preliminary enquiry on a complaint against Mm. The court issued a warrant for his arrest. In the circumstances it was held that Subedar was being compelled to give evidence against himself, the proceeding being against himself as at that stage the object of examining him was to secure evidence for supporting the case set up by the complainant against the petitioner.  
+</p> 
+
+<p id="p_77"> 37. <a href="/doc/740006/" id="a_51">In Dhoom Singh v. State</a>, 1957 All.L.J. 330 : (AIR 1957 All 197) (K) it was held as a matter of fact that the accused was compelled to point out the dead body and other things and that the evidence about the recovery was therefore inadmissible'. Alternatively too, it was held that the alleged beating of the accused affected the varacity of the prosecution witnesses who deposed about the recovery of the dead body and other articles at the instance of the accused.  
+</p> 
+
+<p id="p_78"> 38. There is nothing in any of these cases of this Court which goes against what I have said in considering the question for determination in this case.  
+</p> 
+
+<p id="p_79"> 39. The case of (AIR 1955 Cal. 247) (E) is apposite to the present case. In that case an
+
+order to give specimen writing was held not to amount to compelling the accused to give evidence. It was said that the Supreme Court case did not cover that question. This case supports my view.  
+</p> 
+
+<p id="p_80"> 40. <a href="/doc/1990504/" id="a_52">In Swarnalingam Chettiar v. 'Assistant Labour Inspector, Karaikudi</a> (1955) 2 Mad L.J. 267 : ( (S) AIR 1956 Mad 165) (L) it was held that a summons to produce documents of account under <a href="/doc/1746646/" id="a_53">Section 94</a> Cr.P.C. was illegal in view of the aforesaid Supreme Court case. It was not considered in that case that the documents would go against the accused or not.  
+</p> 
+
+<p id="p_81"> 41. In 1955-2 Mad LJ 468 : (AIR 1956 Mad 632) (B) it was held that a direction to the accused to give his thumb impression was hit by the provisions of Clause (3) of <a href="/doc/655638/" id="a_54">Article 20</a> of the Constitution. It was not considered whether the giving of thumb impression amounted to furnish evidence against himself.  
+</p> 
+
+<p id="p_82"> 42. <a href="/doc/1990504/" id="a_55">In Swarnalingam v. Assistant Inspector of Labour Karaikudi</a>, 1955-2 Mad LJ 268 : ( (S) AIR 1955 Mad 716) (M), it was held that a notice to a person why a search warrant be not issued was also hit by <a href="/doc/366712/" id="a_56">Article 20(3)</a> of the Constitution.  
+</p> 
+
+<p id="p_83"> 43. IN In re Somalingam Chettiar, 1955-2 Mad LJ 269 ; (AIR 1955 Mad 685) (N), it was held that a search warrant issued under <a href="/doc/1164912/" id="a_57">Section 96</a> of the Criminal Procedure Code was legal. The last but one paragraph of this judgment pointedly draws attention to. the anomaly that a notice to the accused to produce a document be held illegal while a search of his house without giving him such a notice be held legal.  
+</p> 
+
+<p id="p_84"> It appears to me that it was not noticed in the other Madras cases that their Lordships' observation at page 1096 (of SCB) : (at P. 306 of AIR) of the Supreme Court case was simply to the effect that the production of a document in compliance with a notice issued amounts to a testimonial act by the person producing the document and not that such an act amounted to compelled production of the document.  
+</p> 
+
+<p id="p_85"> 44. In In re Palani Moopan, (S) AIR 1955 Mad 495 (O), it was held that the taking of blood-stained clothes from the person of the accused did not amount to compelling the accused to be a witness against himself. Similarly, it may be said that the taking of the thumb impression of an accused should not amount to compelling him to bo a witness against himself. The thumb impression is also taken by another just as the clothes are taken off the accused's person by another. In fact it was so held in <a href="/doc/280799/" id="a_58">Muhammad Hussain v. Stats</a>, AIR 1957 Mad 47 (P), in which case the police had taken the thumb impression of an accused for purposes of comparison during an investigation.  
+</p> 
+
+<p id="p_86"> 45. <a href="/doc/590936/" id="a_59">In State v. Ramkumar Ramgopal, (S</a>) AIR 1957 Madh-Pra 73 (Q), the accused was made to write a copy of the disputed, document in the presence of a Magistrate and it was held that the accused was compelled tc be a witness against himself. There was no evidence of compulsion except that it was presumed that the very presence of the Magistrate would amount to compelling the accused. The report of the case does not indicate whether the accused had objected to write and was then forced to write. With respect, I do not agree with the view expressed in this case.  
+</p> 
+
+<p id="p_87"> 46. The other cases referred to were <a href="/doc/1181502/" id="a_60">Mohammad Hussain v. Provident Fund Inspector</a>, AIR 1957 Madh-B 68 (R) and Krishnan Kesavan v. State of Kerala, AIR 1957 Kerala 78 (S). Both deal with the question of production of documents by the accused and are of no help in determining the question before us.  
+</p> 
+
+<p id="p_88"> 47. Lastly, I may refer to an American case of Holt v. United States, (1909) 218 U.S. 245 : 54 Law Ed 1021 (T). A question arose in that case whether a blouse belonged to the accused. A witness deposed that the accused put it on and it fitted him. It was objected on the basis of the 5th Amendment of the United States Constitution that the accused did this under duress and this evidence be excluded. It was observed at page 252 by Mr. Justice Holmes :  
+</p><p id="p_89">  "But the prohibition of compelling a man in a criminal court to be witness against himself is a prohibition of the use of physical or moral compulsion to extort communications from him, not an exclusion of his body as evidence when it may be material. The objection in principle would forbid a jury to look at a prisoner and compare his features with a photograph in proof. Moreover, we need not consider how far a court would go in compelling a man to exhibit himself. For when he is exhibited, whether voluntarily or by order, and even if the order goes too far, the evidence, if material, is competent".  
+</p> 
+
+<p id="p_90"> Comparing the specimen writing of an accused with the disputed writing is absolutely similar to the comparison of his features with the photograph of the person said to have committed the offence. In one case it is the physical appearance which is used for the purpose of comparison and the court or jury has an idea of that physical appearance when the accused is directed to face them. Comparison of the two writings takes place when the accused is directed to make a writing in court and does make it.  
+</p> 
+
+<p id="p_91"> I may say that the basic principle in favour of the doctrine of protection against testimonial compulsion is that whatever evidence is furnished by the accused under coercion may not be true and therefore any reliance on such evidence would be dangerous. In view of such a principle, the oral statement made by an accused under compulsion or even a document produced by him under compulsion may be held to be inadmissible. It is just possible that the accused creates a document incriminating himself on account of the compulsion. But there is no possibility of the accused's creating a false document by writing in presence of the court for the mere purpose of comparing his writing with the disputed writing.  
+</p>
+ 
+
+<p id="p_92"> 48. The subsidiary question referred to in the order of reference does not arise in view of my opinion. The order directing an accused to furnish his specimen writing under <a href="/doc/770022/" id="a_61">Section 73</a>, <a href="/doc/1953529/" id="a_62">Indian Evidence Act</a>, is not hit by the provisions of <a href="/doc/655638/" id="a_63">Article 20</a> Clause (3). of the Constitution. The accused cannot, therefore, refuse to give the specimen writing when ordered by the court to give it. If he does refuse and the court can draw a presumption against him under any other provision of law, I do not think that that would be illegal. It will not amount to compellng the accused to be a witness against himself. The court does not force the accused to refuse to give the specimen writing. That is the accused's own voluntary conduct The Court, on the other hand, does want him to furnish a specimen writing.  
+</p> 
+
+<p id="p_93"> 49. In view of the above, I am of opinion that the order of the learned Sessions Judge under revision was perfectly correct. I would therefore reject this revision.  
+</p> 
+
+<p id="p_94">  James, J.   
+</p> 
+
+<p id="p_95"> 50. I agree with my brother Dayal that there is nothing in <a href="/doc/770022/" id="a_64">Section 73</a> of the Evidence Act which goes contrary to the fundamental right against self-crimination embodied in Clause (3) of <a href="/doc/655638/" id="a_65">Article 20</a> of the Constitution. I further agree that the direction given by the Court to the accused for giving his specimen writing is a direction which ought to be obeyed and that if the accused refuses to do so the Court would be entitled to draw an appropriate presumption against him under <a href="/doc/731516/" id="a_66">Section 114</a> of the Evidence Act. This revision should therefore be dismissed.  
+</p> 
+
+<p id="p_96"> 51. I would add that the holding of identification proceedings of persons suspected of a crime, recovery of incriminating articles from their possession, taking their photographs, tying clothes etc. upon them, and the like, are proceedings which are perfectly valid.  
+</p> 
+
+<p id="p_97"> 52. In view of our opinion about the merits of this case, we uphold the, order of the learned Sessions Judge and dismiss the revision. The record be returned to the court concerned immediately for proceeding with the sessions trial without any further delay. The stay order is vacated.  
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

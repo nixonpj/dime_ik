@@ -1,0 +1,782 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Citation, I.E, Case Titled As ... vs State, 2006 on 16 January, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/187948492/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:187948492">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/513777/">Section 451 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1897847/">Section 120B in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/187948492/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/187948492/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20sec%20506">what is sec 506</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=506%20ipc">506 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=506%20indian%20penal%20code">506 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=post%20summoning%20evidence">post summoning evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=demolition%20">demolition </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complainant%20not%20examined">complainant not examined</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complainant%20%20witness%20">complainant  witness </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=120-b%20ipc">120-b ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jugal%20kishore">jugal kishore</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=citation">citation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20506%20ipc">section 506 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20code%20sec.506%20">indian penal code sec.506 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20506%20of%20indian%20penal%20code">section 506 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hem%20raj%20">hem raj </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=murari%20lal%20">murari lal </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=120-b">120-b</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pre%20summoning%20evidence">pre summoning evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=451">451</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.380%20">s.380 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=380">380</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Citation, I.E, Case Titled As ... vs State, 2006 on 16 January, 2010</div><div class="doc_author">Author: Sh. Ram Meena</div>
+
+<pre id="pre_1">                               1
+
+           IN THE COURT OF SH. RAM LAL MEENA :
+            MM: KARKARDOOMA COURTS: DELHI
+
+JUDGMENT
+</pre>
+<p id="p_1">Complaint case No. 162/03
+
+U/s 506 (I)/34 <a href="/doc/1569253/" id="a_1">IPC</a>
+
+PS Farsh Bazar
+
+16.01.10
+
+Jugal Kishore, S/o Hem Raj,
+R/o 4/2377, Gali No. 9/10, Behari Colony,
+Bhola Nath Nagar, Shahdra, Delhi            -------- Complainant
+
+                              versus
+
+</p><p id="p_2">01. Murari Lal Malhotra, S/o Hem Raj,
+R/o 3388, Mahindra Park, Rani Bagh,
+Shakur Basti, Delhi
+</p><p id="p_3">02. Ram Gopal, S/o Hem Raj,
+R/o 4/2377, Gali No. 9/10,
+Behari Colony, Bhola Nath Nagar,
+Shahadra, Delhi.                            ------------- Accused
+
+Complaint under section 506 (I)/34 <a href="/doc/1569253/" id="a_2">IPC</a>
+
+
+Date of institution :         23.02.2000
+Date of arguments :           16.12.2009
+Date of decision    :         16.01.2010
+
+JUDGMENT
+<span class="hidden_text" id="span_1">                                2</span>
+
+</p><p id="p_4">01. Brief facts of the complaint are that complainant filed a
+
+complaint for the alleged offences u/s451/380/427/506 <a href="/doc/1569253/" id="a_3">IPC</a> r/w
+
+34/120 B <a href="/doc/1569253/" id="a_4">IPC</a> in which he stated that he and both the accused
+
+are real brothers and in the year 1970-71, he and accused no. 1
+
+jointly purchased the plot of land measuring about 200 square
+
+yards in Behari Colony, i.e, property in dispute of which half
+
+price was paid by accused no. 1 and half by complainant.
+
+Complainant further stated that after purchasing the aforesaid
+
+plot and some time between 1975-80, he got constructed four
+
+rooms on the ground floor over the same with his monetary
+
+funds with the knowledge and consent of accused no. 1 on the
+
+understanding that half possession of constructed portion shall
+
+be given by complainant to accused no. 1 only when he pays
+
+half of its construction price to the complainant. Complainant
+
+further stated that about ten year back, accused no. 2 with his
+
+bag and baggage left Shahjan Pur and requested to him and
+
+accused no. 1 to accommodate him and his family members
+
+somewhere, upon which, complainant and accused no. 1 took
+<span class="hidden_text" id="span_2">                                3</span>
+
+pity and accommodated him and the members of his family in
+
+one room of the house, now in dispute mentioned above.
+
+Complainant further stated that accused no. 2 was also
+
+permitted to open a tea shop for his maintenance and livelihood
+
+by him and accused no. 1 in the house in dispute. Complainant
+
+further stated that one niece of the both parties named Mrs.
+
+Anupama who is a divorce in status, also resides with him in the
+
+aforesaid house who was married about 10/11 years back, but
+
+who got separated from her husband in May-1999 and since
+
+then, she has also been living with her bag and baggage with
+
+him. Complainant further stated that in November 1999, both
+
+accused no. 1 and 2 hatched a criminal conspiracy to
+
+dispossess him from the house in dispute and in furtherance of
+
+this conspiracy, they were finding ways and means how to throw
+
+out him from the premises in suit and how to misappropriate all
+
+chattles and belongings lying in the aforesaid premises of him.
+
+Complainant further stated that it was well within their
+
+knowledge that on 19.11.1999, the marriage of one of nephew
+<span class="hidden_text" id="span_3">                                4</span>
+
+of the parties named Sanjay Mehra was going to be celebrated
+
+at Fatehpuri (Chandni Chowk), Delhi. Complainant further
+
+stated that he and his niece left their aforesaid premises after
+
+locking them on 19.11.1999 at about 2:00 pm and reached the
+
+place of marriage which was going to be celebrated on
+
+20.11.1999. Complainant further stated that when the functions
+
+of the aforesaid marriage was over on 20.11.1999, he along
+
+with his niece Mrs. Anupama came to the premises in dispute
+
+on 21.11.1999 at or about 6:00 pm when it transpired that the
+
+two rooms which were under the physical possession and his
+
+occupation were criminally trespassed with a view to commit
+
+theft and with a view to cause their demolition by the accused
+
+party-who committed wholesale theft of goods and belongings
+
+to him and his niece and ultimately demolished two pucca
+
+rooms some time between 19.11.1999 to 21.11.1999 during the
+
+period when the complainant and niece were not present in the
+
+aforesaid premises. Complainant further stated that enquiries
+
+made at the spot revealed that all the offences aforesaid were
+<span class="hidden_text" id="span_4">                                5</span>
+
+committed by both the accused party jointly severally along with
+
+some other unknown bad characters. Complainant further
+
+stated that Nawal Kishore, Raj Kumar, Shekhar Mehra, Suraj
+
+and several others have ocularly witnessed all the aforesaid
+
+occurrence committed by the accused persons who apprised
+
+regarding the aforesaid criminal offences to the complainant.
+
+Complainant further stated that when the witness had narrated
+
+regarding the criminal offences in question to him, he
+
+questioned both the accused who were incidentally found
+
+present at that time; upon which both the accused persons
+
+furious, vulgarly abused to him and his niece and threateningly
+
+called upon him to vacate even the remaining third room under
+
+his occupation; otherwise all his goods lying therein would be
+
+destroyed by fire and his niece would be forcibly kidnapped and
+
+he shall also be burnt alive. Complainant further stated that
+
+immediately, the matter was reported to the local police but the
+
+local police has not done anything so far and it has rather
+
+wasted time to make the incident old. Complainant further
+<span class="hidden_text" id="span_5">                                 6</span>
+
+stated that accused party with intent to cause or knowing that it
+
+is likely to cause wrongful loss and damage to him and his niece
+
+caused the destruction of two rooms owned by him valued
+
+approximately in the sum of Rs. 50,000/- and as such, they
+
+have committed the offence of mischief u/s 427 <a href="/doc/1569253/" id="a_5">IPC</a>.
+
+Complainant further stated that because the accused party
+
+dishonestly committed the theft of his goods and belongings and
+
+his niece lying in the dwelling house of him without their
+
+consent, hence they are also guilty u/s 380 <a href="/doc/1569253/" id="a_6">IPC</a>. Complainant
+
+further stated that because the accused party committed house
+
+trespass in order to the committing of the offences punishable
+
+with imprisonment as stated above, hence they are also liable
+
+u/s 451 <a href="/doc/1569253/" id="a_7">IPC</a>. Complainant further stated that because all the
+
+aforesaid offences have been committed by the accused party
+
+in furtherance of common intention and as an outcome by the
+
+way of criminal conspiracy hatched by them; hence they are
+
+also liable to the proceeded with u/s 34/120 B <a href="/doc/1569253/" id="a_8">IPC</a>.
+
+Complainant further stated that looking to all the facts and
+<span class="hidden_text" id="span_6">                                 7</span>
+
+circumstances of the present case, the criminal activities of the
+
+accused fall within the four corners of <a href="/doc/513777/" id="a_9">section 451</a>/<a href="/doc/839778/" id="a_10">380</a>/<a href="/doc/222396/" id="a_11">427</a>/<a href="/doc/180217/" id="a_12">506</a>
+
+IPC r/w <a href="/doc/37788/" id="a_13">section 34</a> and <a href="/doc/1897847/" id="a_14">120-B</a> IPC for which they are liable to be
+
+summoned, tried and convicted and sentenced as per law.
+
+</p><p id="p_5">02.       After filing of the complaint, my Learned Predecessor
+
+Court called a status report and after hearing upon the status
+
+report, complaint was fixed for pre summoning evidence and
+
+thereafter, both accused were summoned for the alleged
+
+offences u/s 506 (I)/34 <a href="/doc/1569253/" id="a_15">IPC</a> vide order dated 12.09.2002 and
+
+thereafter, after appearance of both accused, they were admitted
+
+to bail and thereafter, notice of accusation u/s 251 <a href="/doc/445276/" id="a_16">CrPC</a> was
+
+framed against the accused persons for alleged offences u/s 506
+
+(I)/34 <a href="/doc/1569253/" id="a_17">IPC</a> on 11.11.2005 to which both accused did not plead
+
+guilty and claimed trial.
+</p>
+<p id="p_6">03.        In support of his complaint, complainant examined to
+
+himself as CW 1 and Anupama Mehra as CW 2 in post
+
+summoning evidence. CW 1 tendered his evidence by way of
+
+affidavit Ex. CW 1/1 along with documents Ex. CW 1/A to Ex.
+<span class="hidden_text" id="span_7">                                8</span>
+
+CW 1/D in which he deposed on the same line of facts as
+
+mentioned in the complaint, hence same are not reproduced
+
+here. CW 2 Anupama Mehra stated in the course of examination
+
+in chief that on 19.11.1999, she along with complainant went to
+
+attend the marriage of Sanjay Mehra and on 21.11.1999, they
+
+were informed by Shekhar Mehra that two rooms of the property
+
+in question were demolished by the accused persons and entire
+
+goods lying in the property in question were also stolen and
+
+thereafter, matter was reported to the police station and they
+
+also stated to the police that accused persons had used abusive
+
+language for them and they also defamed her regarding her
+
+character.
+</p>
+<p id="p_7">04.     It is pertinent to mention here that there are two
+
+accused persons namely Murari Lal and Ram Gopal in the
+
+present case but during the pendency of the present case,
+
+accused namely Ram Gopal has been missing from his home,
+
+therefore a missing report has been lodged in the PS Seema
+
+Puri, detailed report has also been called from the SHO of PS
+<span class="hidden_text" id="span_8">                                 9</span>
+
+Seema Puri in which he stated that aforementioned person
+
+namely Ram Gopal is missing from his home. Publication has
+
+also been done in the newspaper.
+</p>
+<p id="p_8">05.     Statement of accused namely Murari Lal Malhotra was
+
+recorded on 17.11.2009 in which he stated that the property in
+
+question is in his name and complainant himself vacated the
+
+premises and went away from the property in question. He
+
+further stated that Anupama Mehra did not live permanently in
+
+the property in question and she also left the property in
+
+question. He further stated that he has never given any threat to
+
+the complainant or Anupama Mehra at any time and complainant
+
+has filed false case against him. He further stated that he does
+
+not want to lead his defence evidence.
+</p>
+<p id="p_9">06.      I have heard Ld. counsels of both parties and perused
+
+the record carefully. During the course of final arguments,
+
+counsel for the complainant stated that complainant Jugal
+
+Kishore examined to himself as CW 1 and also examined to
+
+Anupama Mehra as CW 2 and they both stated in their
+<span class="hidden_text" id="span_9">                                 10</span>
+
+deposition that accused persons have threatened to the
+
+complainant, therefore, both accused are liable for offence u/s
+
+506 (I)/34 <a href="/doc/1569253/" id="a_18">IPC</a>. Counsel for the complainant also relied upon
+
+citation, i.e, case titled as Rupak Mudgal &amp; Ors Vs State, 2006
+
+(1) JCC 305, High Court of Delhi, Crl. MC No. 3830 of 2003 in
+
+which it is held that "Criminal intimidation as defined in the
+
+section would imply that threat must be one which can be put
+
+into execution by person threatening-Intention must be to cause
+
+alarm to victim-whether victim was actually alarmed or not is not
+
+material-Threat, by accused of implicating complainant in a
+
+'rape case' brings case within ambit of Sec. 506, Part II, <a href="/doc/1569253/" id="a_19">IPC</a>".
+
+</p><p id="p_10">07.      On the other hand, counsel for the accused stated that
+
+complainant has failed to prove its case beyond reasonable
+
+doubt, hence accused be acquitted for the alleged offences.
+
+Counsel for the accused, in support of arguments for acquittal of
+
+accused, stated that complainant examined three witnesses in
+
+pre summoning evidence who are complainant himself as a CW
+
+1 and other witnesses, i.e, CW 2 Anupama Mehra and CW 3
+<span class="hidden_text" id="span_10">                                11</span>
+
+Shekhar Mehra. Counsel for the accused further stated that CW
+
+3 Shekhar Mehra was witness of the complainant and it is
+
+stated by the CW 2      Anupama Mehra that witness namely
+
+Shekhar Mehra stated to her and complainant that accused
+
+persons had trespassed in the property and stolen the entire
+
+goods lying therein and demolished the property in question.
+
+But the aforementioned witness has not been called by the
+
+complainant in post summoning evidence for substantiate his
+
+version which creates doubts over the complainant's case.
+
+Moreover, complainant has admitted in the course of cross
+
+examination that the registered documents of the property in
+
+question were executed in the name of accused which shows
+
+that property in question belongs to the accused, then why
+
+accused persons would have given threat to the complainant.
+
+Counsel for the accused further stated that Ld. Predecessor
+
+Court called status report in which it is stated that complainant
+
+has filed false and fabricated complaint after thoughts as
+
+demolition of rooms took place on 19.11.1999 in the presence of
+<span class="hidden_text" id="span_11">                                12</span>
+
+complainant Jugal Kishore himself. Moreover, there was no
+
+luggage in the said room and nothing has been damaged during
+
+the demolition. Moreover, the real dispute was that complainant
+
+is a unmarried persons and he kept a lady namely Anupama
+
+Mehra with him and thereafter, accused persons objected for
+
+keeping the aforesaid lady with him. Counsel for the accused
+
+further stated that complainant claimed that accused persons
+
+had threatened to him with this effect that they would kidnap to
+
+the Anupama Mehra (CW 2) and complainant would be burnt
+
+alive and complainant also claimed that the aforesaid matter
+
+was reported to the police authorities. Counsel for the accused
+
+further stated that during the course of cross examination,
+
+complainant was confronted from his complaint Ex. CW 1/A and
+
+Ex. CW 1/B wherein the aforesaid threats were no where found.
+
+Moreover, CW 2 Anupama Mehra has no where stated in her
+
+post summoning evidence that aforesaid threats were given at
+
+any time to the complainant. However, she only stated that
+
+accused persons abused to them and also defamed to her
+<span class="hidden_text" id="span_12">                                      13</span>
+
+regarding her character. Counsel for the accused further stated
+
+that since complainant and his witness CW 2 namely Anupama
+
+Mehra have miserably failed to prove that any threats were
+
+given to the complainant and his niece namely Anupama Mehra,
+
+hence accused be acquitted for the alleged offence u/s 506
+
+(I)/34 <a href="/doc/1569253/" id="a_20">IPC</a>. Counsel for the accused also relied upon citation,
+
+i.e, Noble Mohandass, Petitioner Vs State, Respondent, 1989
+
+CRI.L.J 669 Madras High Court in which it is held that "It should
+
+be real one and not just a mere word when person uttering it
+
+does exact mean what he says and also when person whom
+
+threat is launched does not for threatened actually"
+
+</p><p id="p_11">08.     I have heard Ld. counsels of both parties and perused
+
+the record carefully. After having gone through the rival
+
+submissions of both parties, I find that complainant has failed to
+
+prove its case beyond reasonable doubt on the following
+
+reasons:-
+</p>
+<p id="p_12">        Firstly,   I   find   that    complainant   examined   three
+
+witnesses in pre summoning evidence. Complainant examined
+<span class="hidden_text" id="span_13">                               14</span>
+
+to himself as CW 1 and other witnesses, i.e, CW 2 Anupama
+
+Mehra and CW 3 Shekhar Mehra. I find that CW 3 Shekhar
+
+Mehra was witness of the complainant and it is stated by the
+
+CW 2 Anupama Mehra that witness namely Shekhar Mehra
+
+stated to her and complainant that accused persons had
+
+trespassed in the property and stolen the entire goods lying
+
+therein and demolished the property in question. But the
+
+aforementioned witness has not been called by the complainant
+
+in post summoning evidence for substantiate his version which
+
+creates doubts over the complainant's case. Moreover,
+
+complainant has admitted in the course of cross examination
+
+that the registered documents of the property in question were
+
+executed in the name of accused. However, complainant stated
+
+that property in question was jointly purchased by both
+
+complainant and accused no. 1 but he has not proved that
+
+property in question also belongs to him. During the course of
+
+final arguments, counsel for the accused has also drawn my
+
+attention on the status report called by my Ld. Predecessor
+<span class="hidden_text" id="span_14">                               15</span>
+
+Court wherein it is stated that complainant has filed false and
+
+fabricated complaint after thoughts as demolition of rooms took
+
+place on 19.11.1999 in the presence of complainant Jugal
+
+Kishore himself. Moreover, there was no luggage in the said
+
+room and nothing has been damaged during the demolition.
+
+Moreover, the real dispute was that complainant is a unmarried
+
+person and he kept a lady namely Anupama Mehra with him
+
+and thereafter, accused persons objected for keeping the
+
+aforesaid lady with him.
+</p>
+<p id="p_13">        Now, I examine the evidence of complainant and his
+
+witness. Complainant deposed in the affidavit of evidence Ex.
+
+CW 1/1 that accused persons had threatened to him that they
+
+would kidnap to the Anupama Mehra (CW 2) and complainant
+
+would be burnt alive and complainant also claimed that the
+
+aforesaid matter was reported to the police authorities. It is
+
+pertinent to mention here that during the course of cross
+
+examination, complainant was confronted from his complaint
+
+Ex. CW 1/A and Ex. CW 1/B wherein the aforesaid threats were
+<span class="hidden_text" id="span_15">                                  16</span>
+
+no where found. Moreover, CW 2 Anupama Mehra has no
+
+where stated in her post summoning evidence that aforesaid
+
+threats were given at any time to the complainant. However, she
+
+only stated that accused persons abused to them and also
+
+defamed to her regarding her character.
+</p>
+<p id="p_14">         After having gone through the evidence of complainant
+
+and his witness CW 2, I find that since complainant and his
+
+witness CW 2 namely Anupama Mehra have miserably failed to
+
+prove that any threats were given to the complainant and his
+
+niece namely Anupama Mehra.
+</p>
+<p id="p_15">         In keeping view of the aforementioned discussions as
+
+well as ratio of citation relied by counsel for the accused, I am of
+
+the considered view that complainant and his witness have
+
+failed to prove that accused persons criminally intimidated to the
+
+complainant, hence both accused are acquitted for the alleged
+
+offences u/s 506 (I)/34 <a href="/doc/1569253/" id="a_21">IPC</a>.
+</p>
+<pre id="pre_2">ANNOUNCED IN THE OPEN                       (R.L. MEENA)
+COURTS ON THIS 16.01.2010             METROPOLITAN MAGISTRATE
+                                              KKD, DELHI
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

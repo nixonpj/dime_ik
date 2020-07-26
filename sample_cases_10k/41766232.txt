@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Kallu on 29 January, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/41766232/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/41766232/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/41766232/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kalyan">kalyan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2025">section 25</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=25%20arms%20act">25 arms act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kallu">kallu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2025%20arms%20act">section 25 arms act</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Kallu on 29 January, 2013</div><div class="doc_author">Author: Mr. Vishal Gogne</div>
+
+<pre id="pre_1">               IN THE COURT OF SHRI VISHAL GOGNE 
+               METROPOLITAN MAGISTRATE­03(EAST) 
+                  KARKARDOOMA COURTS, DELHI
+
+
+
+                                                    FIR No. 116/08
+                                                    PS Kalyan Puri
+                                                    U/s 25/54/59 <a href="/doc/1934415/" id="a_1">Arms Act</a>
+
+
+                                  State Vs. Kallu
+
+
+JUDGMENT:
+</pre>
+
+<pre id="pre_2">A Sl. No. of the case             02402R0 308732008
+B Date of institution              24.04.08
+C Date   of   commission   of   14.04.08
+  offence
+D Name of the complainant         Ct. Brijesh Kumar 
+E Name of the accused &amp;            Kallu @ Ram Kumar
+  his parentage and address       S/o Harpal
+</pre><p id="p_1">                                  R/o House of Vijay Nagar, Village Khichripur,
+                                  Delhi.
+</p><pre id="pre_3">F Offence complained of           U/s 25/54/59 <a href="/doc/1934415/" id="a_2">Arms Act</a> 
+G Plea of the accused             Pleaded not guilty under <a href="/doc/73862/" id="a_3">section 25</a> Arms Act.  
+H Order Reserved on                29.01.2013
+I Final order                     Acquitted under <a href="/doc/73862/" id="a_4">section 25</a> Arms Act. 
+J Date of such order               29.01.2013
+
+
+<span class="hidden_text" id="span_1">FIR No.116/08 , PS Kalyan Puri           1</span>
+ Brief reasons for the decision of the case.
+
+</pre><p id="p_2">1.              The   prosecution   has   alleged   against   accused   Kallu   that   on 
+
+14.04.2008 at about 7.45 p.m. at Ambedkar Chowk, Kalyanpuri, Delhi,   he was 
+
+apprehended by PW2(Ct. Brijesh Kumar) &amp; Ct.Kali Charan with a buttondar knife 
+
+in contravention of the notification of the Delhi Government. 
+
+</p><p id="p_3">2.              The charge was framed against the accused U/s 25 of  <a href="/doc/1934415/" id="a_5">Arms Act</a> by 
+
+the Ld. Predecessor on 14.01.2009. The accused pleaded not guilty and claimed 
+
+trial. 
+</p>
+<p id="p_4">3.              The   prosecution   has   examined   PW2   apart   from   the   DO   and 
+
+IO(   PW­1   and   PW­3   respectively).   The   accused   did   not   lead   any   evidence   in 
+
+defence. 
+</p>
+<p id="p_5">4.              The Ld. APP has prayed for conviction on the testimony of PW2  to 
+
+the effect that as he was on checking duty alongwith Ct. Kali Charan at Ambedkar 
+
+Chowk on 14.4.2008, they saw the accused approaching them on a scooter and 
+
+then   attempting   to   escape.   The   two   constables   apprehended   the   accused   and 
+
+recovered a buttondar knife from him. The   IO i.e. ASI Omvir Singh ( PW­3) 
+
+reached the spot and seized the knife vide memo Ex. PW2/B whereas the sketch of 
+
+the same was prepared and exhibited as Ex. PW2/A.   The FIR ExPW1/A was 
+
+recorded on the basis of statement  Ex. PW2/C made by PW­2. 
+
+</p><p id="p_6">5.              It   was   argued   by   the   Ld.   Prosecutor   that   PW2   and   PW3   had 
+
+identified the accused and verified his arrest alongwith recovery of knife and that 
+
+
+<span class="hidden_text" id="span_2">FIR No.116/08 , PS Kalyan Puri                  2</span>
+ the knife had been identified by them. 
+</p>
+<p id="p_7">6.                The counsel for the accused argued that the purported recovery is 
+
+concocted and that the absence of any public witness renders the deposition of the 
+
+police witness unworthy of belief. Further, that the particulars of the FIR were 
+
+found mentioned on the sketch and seizure memo of the knife notwithstanding the 
+
+fact   that   the  same  were  prepared  before   the  registration   of   the  FIR.   This  was 
+
+indicated to be evidence of the false implication of the accused by the policemen 
+
+in question.  
+</p>
+<p id="p_8">7.               It   is   seen   that   the   prosecution   is   based   on   routine   allegations 
+
+concerning   policemen   on   patrol/   checking   duty   coming   across   a   purportedly 
+
+suspicious person who attempts to escape and is apprehended with a prohibited 
+
+weapon,   which   is   mostly   a   knife.   Such   cases   are   generally   hampered   by   the 
+
+absence of public witnesses and the present trial is no exception.  It is notable that 
+
+the time of occurrence was around 07:45 p.m. and the place of occurrence was a 
+
+busy intersection. The presence of public persons was only to be expected.  Infact, 
+
+PW2 and PW3,  admitted the presence of public persons by stating that no such 
+
+public   witness   joined   the   investigation   despite   the   requests.   Such   stereo   typed 
+
+explanations do not carry any weight, as the non examination of available persons 
+
+is in excusable. No written notice was served upon the purported public persons 
+
+present at the spot. Resultantly, the Court is left with no means of independent 
+
+verification of the version of the police witnesses. The Court is  inclined to see the 
+
+
+<span class="hidden_text" id="span_3">FIR No.116/08 , PS Kalyan Puri                   3</span>
+ evidence as convenient to the police witnesses. Reliance cannot be placed on their 
+
+testimony in the absence of corroboration by independent witnesses. 
+
+</p><p id="p_9">8.             The   Ld.   Defence   Counsel   was   also   justified   in   doubting   the 
+
+prosecution version on the basis of the appearance of the FIR No. on the sketch 
+
+and seizure memo of the knife notwithstanding the registration of the FIR after 
+
+these documents were prepared. The possibility of false implication on the basis of 
+
+manipulated documents cannot be ruled out.
+</p>
+<p id="p_10">9.             The accused is granted the benefit of doubt and is acquitted of the 
+
+charge framed U/s 25 of <a href="/doc/1934415/" id="a_6">Arms Act</a>. 
+</p>
+<p id="p_11">
+
+Announced in open Court.
+</p><p id="p_12">Delhi Dated the 29.01.2013
+This Judgment contains 4 pages
+and each paper is signed by me.
+</p><p id="p_13">                                                       VISHAL GOGNE
+                                                    MM(East)­03/KKD Courts/Delhi
+                                                          29.01.2013
+
+
+
+
+<span class="hidden_text" id="span_4">FIR No.116/08 , PS Kalyan Puri              4</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

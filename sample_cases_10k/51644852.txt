@@ -1,0 +1,968 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S. Esys Information ... vs M/S Vijay Technologies on 31 March, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/51644852/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/51644852/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/51644852/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=online">online</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=company%20secretary">company secretary</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hardware">hardware</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=negotiation">negotiation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=non%20joinder">non joinder</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=issues%20and%20finding">issues and finding</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sufficiency%20of%20evidence">sufficiency of evidence</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">M/S. Esys Information ... vs M/S Vijay Technologies on 31 March, 2011</div><div class="doc_author">Author: Ms. Sukhvinder Kaur</div>
+
+<pre id="pre_1">IN THE COURT OF Ms. SUKHVINDER KAUR, ADDL DISTRICT
+
+                    JUDGE CENTRAL­14: DELHI
+
+Suit No. 348/09
+
+M/s. Esys Information Technologies Limited,
+Through its authorized Representative,
+Shri Dinesh Kapoor,
+A­9, Mohan Co­operative Industrial Estate,
+Mathura Road,
+Delhi­110044                                 ............Plaintiff
+
+                             Versus
+
+
+
+1. M/s Vijay Technologies,
+  G­1, Shubham Apartment,
+  B­1/524, Chitrakoot,
+  Jaipur­302016
+
+
+2. Shri Tarun Harjani,
+  Partner,
+  M/s Vijay Technologies,
+  G­1, Shubham Apartment,
+  B­1/524, Chitrakoot,
+  Jaipur­302016
+
+
+
+
+Suit No. 348/09                                            Page 1 of 21
+ 3. Shri Ajay Hingorani,
+   Partner,
+   M/s Vijay Technologies,
+   G­1, Shubham Apartment,
+   B­1/524, Chitrakoot,
+   Jaipur­302016
+                                                         .......Defendants
+
+
+
+                     Suit filed on      : 30.03.2007
+                     Judgment on    : 31.03.2011
+
+
+
+JUDGMENT 
+</pre>
+<p id="p_1">1.     Plaintiff has filed the present suit for recovery praying for a
+
+   money   decree   of   Rs.   7,08,883/­   in   its   favour   and   against   the
+
+   defendants   jointly   and   severally   alongwith   pendente   lite   and
+
+   future interest @ 15% pa till the realization of the suit amount.
+
+   The suit of the plaintiff is that the plaintiff is a limited company
+
+   and   engaged   in   the   business   of   manufacturing,   trading   and
+
+   distribution of computer hardware, its components and mobiles
+
+   etc.   The   present   suit   has   been   filed   through   its   Assistant
+
+   Manager Legal and company secretary Shri Dinesh Kapoor who
+
+
+<span class="hidden_text" id="span_1">Suit No. 348/09                                                       Page 2 of 21</span>
+   is duly authorised to file, sign and verify the present suit by way
+
+  of   board   resolution   dated   15.12.2006.   Defendant   no.1   is   a
+
+  partnership firm of defendant no.2 and defendant no.3 who are
+
+  running   their   partnership   firm   in   the   name   of   M/s   Vijay
+
+  Technologies  ie defendant  No.1 which is dealing in trading  of
+
+  computer   hardware,   its   components   and   mobiles.   Defendant
+
+  no.2   and   3   are   responsible   for   all   the   business   affairs   and
+
+  dealings of the said partnership firm. Defendant no.2 had been
+
+  known to the plaintiff prior to the year 2004 since he had been
+
+  dealing with plaintiff for and on behalf of another firm/group of
+
+  companies known as M/s Chandra Online.com. Defendant no.2
+
+  during those years had been dealing with sale and purchase  for
+
+  the   said   M/s   Chandra   Online.com   and   had   been   signing
+
+  cheques/   demand   drafts   on   behalf   of   the   said   company.
+
+  Defendant no.2 in the month of February 2004 approached the
+
+  plaintiff and informed and represented to the plaintiff that he was
+
+  running the business of computer hardware and mobiles under
+
+  the   name   of   his   partnership   firm   M/s   Vijay   Technologies   and
+
+  further informed and represented to the plaintiff that defendant
+
+<span class="hidden_text" id="span_2">Suit No. 348/09                                                     Page 3 of 21</span>
+   no.3 is the other partner of defendant no.1 firm. Defendant no. 2
+
+  at that time also informed and represented to the plaintiff that
+
+  the said M/sVijay Technologies i.e. Defendant no. 1 also belong
+
+  to   Chandra   group   of   company   along   with   M/s   Chandra
+
+  online.com and the said firm/companies have common business
+
+  interest,   investments   and   dealings.     On   the   basis   of   said
+
+  representation   defendant   no.   2   approached   the   plaintiff   in
+
+  February,   2004   to   supply   computer   hardware   and   mobile   to
+
+  defendant   no.   1.     The   defendant   no.   1,2   and   3   raised   a
+
+  purchased order dated 28.02.2004 upon plaintiff and asked with
+
+  plaintiff to supply the said items at Jaipur.  Defendant no. 2 held
+
+  negotiations for and on behalf of all the defendants with plaintiff
+
+  at Delhi.  On the basis of negotiations made by defendant no 2
+
+  for and on behalf of all  the defendants at Delhi, the Delhi office
+
+  of plaintiff agreed to supply goods to defendant no. 1, 2 and 3
+
+  and   the   officers   of   the   plaintiff   at   Delhi   instructed   the   branch
+
+  office   at   Jaipur   to   supply   the   goods   to   the   defendants.     The
+
+  plaintiff   on   the   basis   of   said   representation   promises   and
+
+  assurances  of defendant  no. 2 and in good faith  supplied the
+
+<span class="hidden_text" id="span_3">Suit No. 348/09                                                         Page 4 of 21</span>
+   Ben Q  mobiles/items to defendants no. 1, 2 and 3.  The plaintiff
+
+  raised   the   invoices   upon   defendants   no.   1   2   and   3   and
+
+  maintained   the   current   and   running   accounts   of   dealings   with
+
+  defendants   no.  1,2and  3.    The invoices  raised  by  the  plaintiff
+
+  were duly received by defendants and the said invoices clearly
+
+  mentioned   that   the     place   of   jurisdiction   between   the   parties
+
+  shall be   Delhi.   The defendants duly accepted the goods and
+
+  invoices and agreed to the terms and conditions.  Defendant no.
+
+  2 for making payments with respect to the said supplies, issued
+
+  several chques under the name of M/s Chandra Online.com to
+
+  the   plaintiff.     At   the   time   of   issuance   of   the   said   cheque
+
+  defendant no. 2 assured the plaintiff that he was duly authorised
+
+  on   behalf   of   M/s   Vijay   Technologies   and   M/s   Chandra
+
+  Online.com to issue the said cheques under the name of said
+
+  firm.     He   also   assured   the   plaintiff   that   the   cheques
+
+  issued/tendered   by   him   under   the   name   of   M/sChandra
+
+  Online.com.     were   reconciled/adjusted   by   defendant   internally
+
+  by   their   own   arrangement   with   M/s   Chandra   Online.com   and
+
+  further   assured   to   the   plaintiff   that   he   was   duly   authorised   to
+
+<span class="hidden_text" id="span_4">Suit No. 348/09                                                         Page 5 of 21</span>
+   make such dealings.  Since, defendant no. 2 had been dealing
+
+  with the plaintiff earlier also on behalf of M/s Chandra Online.
+
+  Com, the plaintiff has no reason to disbelieve defendant no. 2.
+
+  The   plaintiff   therefore   accepted   the   said   cheques   from
+
+  defendants towards the said items/supplies to defendants.  The
+
+  plaintiff   to   its   utter   shock   received   communication   dated
+
+  05.05.2005   from   M/s   Chandra   Online.com   demanding
+
+  Rs.5,34,927.56 from the plaintiff.   The plaintiff issued the reply
+
+  notices dated 18.05.2005 and 15.07.2005 to the defendants and
+
+  M/s Chandra Online.com calling upon them to withdraw the said
+
+  demands   which   were   illegal   as   the   goods   had   already   been
+
+  supplied to defendants.  The reply notices were duly received by
+
+  defendants. The said M/s Chandra Online.com represented to
+
+  the plaintiff that they  had nothing to do with defendants and had
+
+  no such business collection/arrangement with the defendant as
+
+  alleged   by   the   defendants   and   hence   further   alleged   that   the
+
+  cheques of M/s Chandra Online.com had been wrongfully and
+
+  illegally used by defendant no. 2 to make the payment to the
+
+  plaintiff.  The said M/s Chandra Online.com therefore, refused to
+
+<span class="hidden_text" id="span_5">Suit No. 348/09                                                    Page 6 of 21</span>
+   acknowledge any such business arrangement/adjustments with
+
+  the   defendant   and  refused  to  give   any  credit  to   plaintiffs  with
+
+  respect   to   the   above   said   goods   supplied   by   plaintiff   to   the
+
+  defendants.     The   plaintiff   under   the   said   circumstances   was
+
+  forced and constrained to make a settlement with M/s Chandra
+
+  Online.com   and   hence   make   a   payment   of   Rs.7   lacs   to   M/s
+
+  Chandra   Online.com   and   also   executed   memorandum   of
+
+  understanding   dated   24.02.2006.   Defendant   no.   2   during   the
+
+  year 2005 upto February, 06 had several negotiations with the
+
+  officer of the plaintiff and promised and assured the plaintiff that
+
+  the defendants shall make the payment of outstanding dues to
+
+  the plaintiff shortly.     The plaintiff therefore continued to have
+
+  dealing   with   defendant   upto   the   year   2006.     However     the
+
+  defendant failed, refused and neglected to make any payment
+
+  of outstanding dues to the plaintiff.   On the contrary defendant
+
+  no. 2 in conspiracy and connivance with  defendant no.3 made
+
+  false representations and committed such illegal acts that M/s
+
+  Chandra Online.com lodged FIR against defendant no. 2 vide
+
+  FIR no. 30/96 PS Bunny Park, Jaipur.  Hence the present suit.
+
+<span class="hidden_text" id="span_6">Suit No. 348/09                                                      Page 7 of 21</span>
+</p><p id="p_2"> 2.       Suit of the plaintiff has been contested by defendant no. 2
+
+     who  besides   taking   the   preliminary   objections   interalia   on   the
+
+     territorial jurisdiction of the court, misjoinder and non joinder of
+
+     necessary parties, non maintainability of the present suit against
+
+     defendant   no.   2   and   the   suit   being   not   signed,   verified   and
+
+     instituted   by   competent   person,   on   merits,   has   denied   that
+
+     defendant no. 1 is a partnership firm and defendants no. 2 and 3
+
+     are the partners of the firm.   It is stated that plaintiff had came
+
+     forward with altogether concocted story as he defendant no. 2
+
+     never represented as alleged by the plaintiff.   It is stated that
+
+     defendant no. 2 is employee of defendant no. 1 and working on
+
+     behalf   of   defendant   no.   1.     Neither   defendant   no.   2   nor
+
+     defendant no 3 was partner of defendant no. 1 at any point of
+
+     time. It is also denied that defendant no. 2 held negotiations with
+
+     the plaintiff for and on behalf of all the defendants.  It is stated
+
+     that  no cause  of action has arisen in Delhi as the delivery of
+
+     goods were taken at Jaipur office, invoice were also raised at
+
+     Jaipur office and payments were also made at Jaipur office.  It is
+
+     not   denied   that   defendant   no.   2   for   making   payment   with
+
+<span class="hidden_text" id="span_7">Suit No. 348/09                                                        Page 8 of 21</span>
+   respect to the said supplies issue cheques under the name of
+
+  M/s   Chandra   Online.com   plaintiff.     It   is  stated   that   there   was
+
+  understanding   between   defendant   no.   1   and   Chandra
+
+  Online.com and the defendant no. 2 was authorised to sign the
+
+  chques on behalf of M/s Chandra Online.com  The amount was
+
+  due to defendant no. 1 from M/s Chandra Online.com so M/s
+
+  Chandra Online.com had instructed the defendant no. 2 to issue
+
+  the   cheque   on   its   behalf   for   the   amount   due   to   M/s   Vijay
+
+  Technologies i.e. Defendant no. 1and accordingly the cheques
+
+  were issued to the plaintiff company by defendant no. 2 and the
+
+  said   cheques   were   for   the   amount       which     M/s   Vijay
+
+  Technologies   was   owing   to   the   present   plaintiff   and   this   was
+
+  internal arrangement of all concerned.  It is denied that plaintiff
+
+  had received  any communication  dated  05.05.2005  from   M/s
+
+  Chandra Online.com demanding the amount.  It is stated that it
+
+  was collusive act between plaintiff company and   M/s Chandra
+
+  Online.com.  The receipt of notice issued by the plaintiff has not
+
+  been denied.  It is stated that plaintiff company had concocted a
+
+  false story simply with a view to deprive defendant no. 1 of its
+
+<span class="hidden_text" id="span_8">Suit No. 348/09                                                      Page 9 of 21</span>
+   dues to the tune of more than Rs.7lacs under various schemes.
+
+  It   is   also   denied   the     M/s   Chandra   Online.com   refused   to
+
+  acknowledge the said business arrangement with defendant and
+
+  also refused to give any credit to the plaintiff with respect to the
+
+  items supplied to defendants.
+</p>
+<p id="p_3">       Defendants no. 1 and 3 opted not to contest the present suit.
+
+  Though defendant no. 1 was being represented by counsel after
+
+  the   service   of   summons   of   the   suit,   however   no   written
+
+  statement   has   been   filed   on   behalf   of   defendant   no.   1.
+
+  Defendant   no.   3   could   not   be   served   by   ordinary   process
+
+  despite   best   efforts.     He   was   therefore     served   by   way   of
+
+  publication in "Dainik Bhasker" edition dated 17.09.2009 but he
+
+  opted not to contest.   It is pertinent to mention that no formal
+
+  order   has   been   passed   for   proceeding   ex­parte   against
+
+  defendants no. 1 and 3.  However, since there is no appearance
+
+  on   behalf   of   defendant   no.   3   by   way     of   publication   and   no
+
+  written statement has been filed on behalf of defendant no. 1
+
+  despite repeated opportunities, they are deemed to have been
+
+  proceeded ex­parte. 
+</p>
+<p id="p_4"><span class="hidden_text" id="span_9">Suit No. 348/09                                                      Page 10 of 21</span>
+</p><p id="p_5"> 3.         On   the   pleading   of   parties   following   issues   have   been
+
+       framed for consideration on 05.04.2010:­  
+
+</p><p id="p_6">i)         Whether   the   suit   of   plaintiff   has   not   been   filed   by   duly
+
+authorised person?OPD
+
+</p><p id="p_7">ii)        Whether   this   court   has   no   territorial   jurisdiction   to   try   the
+
+suit?  OPD
+
+</p><p id="p_8">iii)       whether there is no cause of action for filing the case against
+
+defendant no. 2?  OPD
+
+</p><p id="p_9">iv)        Whether the suit of plaintiff is bad for mis joinder and non­
+
+joinder of necessary parties?OPD
+
+</p><p id="p_10">v)         Whether the plaintiff is entitled for the amount claimed? OPP
+
+</p><p id="p_11">vi)        Whether the plaintiff is entitled to interest, if any? OPP
+
+</p><p id="p_12">vii)  Relief. 
+</p>
+<p id="p_13">4.         In order to establish its claim affidavit of sh. Abhishek Singh
+
+       Ex. PW1/A is filed.   Sh. Dinesh Kapoor, Sh. Prashant Kumar,
+
+       manager   DTEC   and   Sh.   Sudershan   Ram   have   also   been
+
+       examined   as   PW2   and   PW3   respectively.     No   evidence   has
+
+       been led by defendant no. 2 in defence.  The opportunity given
+
+       to   defendant   no.   2   to   cross   examine   PW1   to   PW4   was   also
+
+<span class="hidden_text" id="span_10">Suit No. 348/09                                                            Page 11 of 21</span>
+    struck off   vide order dated 31.05.2010 in view of the report of
+
+   LC appointed by ld.  Predecessor  of the court for recording of
+
+   plaintiff evidence since nobody appeared for defendant no. 2 for
+
+   cross   examination   of   witness   of   24.05.2010,   25.05.2010   and
+
+   26.05.2010.
+</p>
+<p id="p_14">5.     I   have   gone   through   the   testimony   of   Pws   and   throughly
+
+   gone   go   the   records.     My   finding   on   various   issues   are   as
+
+   under:­
+
+   Finding on  Issue No.1
+
+</p><p id="p_15">6.     The onus to prove issues no. 1 was upon defendant. Though
+
+   no evidence has been adduced by defendant no. 1 to discharge
+
+   the burden of proving the said issue,  however, considering that
+
+   the said issue is  on the point of law, the same can be disposed
+
+   off on the basis of legal .         As per   Order 29 Rule 1 CPC "in
+
+   suits by or against in corporation, any pleadings may be signed
+
+   and verified on behalf of corporation by the secretary or by any
+
+   director or other principal officer of the corporation who is able
+
+   to depose  about facts of the case.  Plaintiff has claimed itself to
+
+   be a limited company duly registered and having its registsted
+
+<span class="hidden_text" id="span_11">Suit No. 348/09                                                    Page 12 of 21</span>
+   office at Mathura Road.  The present suit has been filed through
+
+  Sh. Dinesh Kapoor, company secretary, who has also been duly
+
+  authorised   to   file,   sign   and   verify   the   present   suit.     The
+
+  resolution   passed   in   the   meeting   of   board   of   directors   on
+
+  15.12.2006 in favour of Sh. Dinesh Kapoor, assistant manager
+
+  legal and company secretary has been authorised to represent
+
+  the company in the court and initiate legal proceeding against
+
+  M/s Vijay  Technologies  and has also been authorised  to lead
+
+  the evidence, sign, file the documents, papers, affidavit etc.  and
+
+  do   any   other   act   relating   to   it   as   and   when   required   on   the
+
+  behalf   of   the   company.     Certified   copy   of   resolution   is   Ex.
+
+  PW1/1. Being the company secretary the Denesh Kapoor has
+
+  power to sign and verify plaint in view of provision under 29 rule
+
+  1   CPC   and   since   he   has   been   duly   authorized   by   resolution
+
+  passed by board of directors to initiate the proceeding against
+
+  the defendants, I am of the view that the suit has been  filed by
+
+  a duly authorised person.   Issue no. 1 is decided in favour of
+
+  plaintiff and against the defendant.
+</p>
+<p id="p_16">  Finding on Issue No.2
+
+<span class="hidden_text" id="span_12">Suit No. 348/09                                                       Page 13 of 21</span>
+</p><p id="p_17"> 7.    Onus   to   prove   this   issue   had   also   been   placed   upon   the
+
+  defendant.   The   defendants   however   failed   to   adduce   any
+
+  evidence to prove the said issue.  PW1 testified that defendant
+
+  no. 2 had pursued the dealings for the supply at the office of the
+
+  plaintiff company at Delhi from time to time and also accepted
+
+  the jurisdiction of courts at Delhi. The testimony in the regard
+
+  remained unrebuttal.  PW 2 also in his written statement in reply
+
+  to para 4 on merits has admitted that defendants no. 2 and 3
+
+  visited   Delhi   office   of   the   plaintiff   to   make   demand   and   for
+
+  release of the amount in favour of defendant no. 1.   As per the
+
+  terms and conditions printed on Tax Invoice, copy of which is
+
+  Ex. PW1/5 and also bears the stamp of defendant no. 1, vide
+
+  para 9 of the terms and conditions, the parties have agreed that
+
+  the courts of Delhi alone shall have the jurisdiction to entertain
+
+  any   dispute   between   the   parties.     In   view   of   the   unrebutted
+
+  testimony   of   PW­1   and   terms   and   conditions   printed   on   the
+
+  invoices duly signed and stamped on behalf of  defendant no.1,
+
+  this   court   has   the   jurisdiction   to   try   and   entertain   the   present
+
+  suit. Issue no.2 is decided in favour of the plaintiff and against
+
+<span class="hidden_text" id="span_13">Suit No. 348/09                                                        Page 14 of 21</span>
+      the defendant. 
+</p>
+<p id="p_18">     Finding on issue No.3
+
+</p><p id="p_19">8.       Onus to prove the said issue had also been placed on the
+
+     defendants.   Defendant   No.2   however   has   not   adduced   any
+
+     evidence.   In   the   WS,   though   defendant   no.2   has   taken   the
+
+     defence that he was working as an employee of defendant no.1,
+
+     however he has not adduced any evidence to establish that he
+
+     was just acting as an employee on behalf of defendant no.1. He
+
+     has also not disclosed in his WS as to who were the partners of
+
+     defendant   no.1   though,   admittedly   he   had   carried   out   the
+
+     transaction   on   behalf   of   defendant   no.1.   In   view   of   the
+
+     unrebutted testimony of PW­1 that defendant no.2 pursued the
+
+     dealings for the supplies at the office of the plaintiff from time to
+
+     time,   the admission  made by defendant  no.2 also in his WS
+
+     that   he   had   been   dealing   on   behalf   of   defendant   no.1   and
+
+     omission/failure on his part to disclose the name of the partners
+
+     of defendant no.1, an adverse inference is drawn against him
+
+     and   it   is   believed   that   defendant   no.2   was   dealing   with   the
+
+     plaintiff as one of the partners of defendant no.1. Issue No.3 is
+
+<span class="hidden_text" id="span_14">Suit No. 348/09                                                       Page 15 of 21</span>
+      also   thus   decided   against   the   defendant   and   in   favour   of   the
+
+     plaintiff.
+</p>
+<p id="p_20">     Finding on issue No.4
+
+</p><p id="p_21">9.       The onus to prove the said issue had also been placed on
+
+     the defendant. Defendant no.4 has taken the objection that the
+
+     suit is bad for misjoinder and non­joinder of necessary parties
+
+     since  defendant no.2 was only an employee  and thus no suit
+
+     lies against him. He also took the plea that defendant no.3 has
+
+     been unnecessarily impleaded in the array of the defendants as
+
+     defendant   no.3   was   not   a   partner   of   defendant   no.1   but   was
+
+     working with defendant no.1 on commission basis. In view of the
+
+     observation   already   given   in   the   previous   issue   that   there   is
+
+     sufficient   evidence   on   record   that   defendant   no.2   had   been
+
+     pursuing the dealings with the plaintiff for supply of the goods on
+
+     behalf of defendant no.1 and he also made the payment to the
+
+     plaintiff on behalf of defendant no.1,there is sufficient evidence
+
+     on record that defendant no.2 was one of the partners of the
+
+     defendant  no.1.Defendant  no.2 has also not disputed that the
+
+     cheques were issued by him from the account of M/s Chandra
+
+<span class="hidden_text" id="span_15">Suit No. 348/09                                                        Page 16 of 21</span>
+   Online.com in favour of the plaintiff towards the payment for the
+
+  supply of the goods. Thus merely by stating that he was just an
+
+  employee   of   defendant   no.1,   especially   when   he   omitted   to
+
+  disclose   the   name   of   the   partners   of   defendant   no.1,
+
+  preponderance   of   probability   is   that   he   is   the   partner   of
+
+  defendant   no.1.   Regarding   defendant   no.3,   PW­2   in   his
+
+  testimony   has   stated   that   the   purchase   order   dated   28.02.04
+
+  was placed by Shri Ajay Hingorani to the plaintiff company for
+
+  purchase of Ben Q mobiles which is Ex. PW­1/3. Ex. PW­1/3 is
+
+  purported   to   have   been   signed   by   Shri   Ajay   Hingorani   for
+
+  defendant No.1. In view of the unrebutted testimony of PW­3 in
+
+  this   regard   and   Ex.   PW­1/2,   especially   considering   that   the
+
+  names of partners of defendant no.1 have not been disclosed
+
+  by defendant no.2, it is believed that defendant no.3 was also
+
+  the partner of defendant no.1. Defendant no.2 and 3 being the
+
+  partners of defendant no.1 are the necessary parties. In view of
+
+  the   above   discussion,   issue   No.4   is   decided   in   favour   of   the
+
+  plaintiff and against the defendants. 
+</p>
+<p id="p_22"><span class="hidden_text" id="span_16">  Finding on Issue No.5 &amp; 6</span>
+
+<span class="hidden_text" id="span_17">Suit No. 348/09                                                     Page 17 of 21</span>
+</p><p id="p_23"> 10.   PW­1   in   his   affidavit   adduced   in   evidence   has   mainly
+
+  reiterated   the   contents   of   the   plaint.   He   also   testified   that
+
+  towards the payment of outstanding dues defendant no.2 issued
+
+  cheques under the name of M/s Chandronline.Com representing
+
+  that   he   is   authorised   to   issue   the   said   cheques   towards   the
+
+  liability of defendants to the plaintiff company and the said M/s
+
+  Chandraonline.Com vide its notice dated 05.05.05 to the plaintiff
+
+  company demanded a sum of Rs. 5,34,927/­ alongwith interest
+
+  towards   the   said   cheques   issued   by   defendant   no.2   and
+
+  encashed   by   the   plaintiff   company   towards   the   liability   of
+
+  defendants. Reply notices sent by the plaintiff company to  M/s
+
+  Chandraonline.Com   and   M/s   Vijay   Technologies   dated
+
+  18.05.2005 and 15.07.2007 are Ex. PW­1/9 and Ex. PW­1/10.
+
+  The   courier   receipt,   UPC,   registered   AD   Posts     sent   to   the
+
+  defendant and M/s Chandra online.Com are collectively Ex. PW­
+
+  1/11 and Ex. PW­1/12. M/s Chandraonline.Com also lodged FIR
+
+  No.  30/06   against   defendant   no.2   at  P.S.   Bunny  Park,   Jaipur
+
+  stating   its   bonafide   in   the   matter   against   defendants   and
+
+  demanded   the   said   money   got   encashed   by   plaintiff.   The
+
+<span class="hidden_text" id="span_18">Suit No. 348/09                                                    Page 18 of 21</span>
+   plaintiff   had   thus   no   option   but   to   return   the   money   to   M/s
+
+  Chandraonline.Com   which   was   paid   by   defendant   no.2   to
+
+  plaintiff by way of cheque to clear the liability of defendant no.2.
+
+  The   plaintiff   company   also   executed   the   memorandum   of
+
+  understanding   dated   24.02.06   with   Mr.   Lalit   Bhoka   of   M/S
+
+  Chandraonline.Com   which   is   Ex.   PW­1/13   and   returned   the
+
+  money to M/s Chandraonline.Com as detailed in Ex. PW­1/13.
+
+  The defendant despite several demands of plaintiff company to
+
+  pay the said dues failed and neglected to make the payment of
+
+  outstanding   dues   of   Rs.   5.03,880/­   alongwith   interest   of   Rs.
+
+  2,05.003/­ from 29.02.04 upto 15.11.06 @ 15% per annum. PW­
+
+  2 also corroborated the testimony of PW­1 and testified that Shri
+
+  Amit Bhoka of M/s Chandraonline.com approached the plaintiff
+
+  company   and   denied   that   he   had   anything   to   do   with   the
+
+  dealings   done   by   the   defendants   with   the   plaintiff   company.
+
+  From the memorandum of understanding dated 24.02.2006 Ex.
+
+  PW­1/13, it is established that plaintiff had to pay Rs. 7 lacs to
+
+  M/s Chandraonline.Com being the settled amount including the
+
+  interest for the alleged cheque of Rs. 5,34,927.58/­ issued from
+
+<span class="hidden_text" id="span_19">Suit No. 348/09                                                      Page 19 of 21</span>
+   the account of M/s Chandraonline.Com in favour of the plaintiff
+
+  towards discharge of liability of defendant no.2. The defendant
+
+  No.2   in   his   WS   has   not   disputed     the   transaction   and   also
+
+  admitted   that   the   cheque   was   issued   by  him  in  favour   of   the
+
+  plaintiff under the name of M/s Chandraonline.Com. Though, it
+
+  is stated there was understanding between defendant No.1 and
+
+  M/s Chandraonline.com and defendant No.2 was authorised to
+
+  sign the cheques on behalf of M/s Chandraonline.com, however,
+
+  no evidence has been adduced on behalf of defendant in this
+
+  regard and there is also sufficient evidence on record that the
+
+  plaintiff   had   to   pay   Rs.   7   lacs   to   M/s   Chandra   Online.com
+
+  through   cheque   no.   292005   dated   24.02.06   drawn   on   ICICI
+
+  Bank   Ltd,   New  Friends   Colony,   New  Delhi  on   account   of   the
+
+  cheque   drawn in the name of M/s Chandra Online.com by the
+
+  plaintiff.   Thus   the   plaintiff   is   entitled   for   a   sum   of   Rs.
+
+  5,34,927.58/­   being   principal   amount   alongwith   an   interest   @
+
+  9% per annum w.e.f the date of payment made by the plaintiff to
+
+  M/s Chandraonline.com i.e w.e. 24.02.2006 till the realisation of
+
+  the decretal amount. 
+</p>
+<p id="p_24"><span class="hidden_text" id="span_20">Suit No. 348/09                                                   Page 20 of 21</span>
+   Relief.
+</p>
+<p id="p_25">11.  In view of my finding on the issues above, suit of the plaintiff
+
+  is decreed for a sum of Rs. 5,34,927.58/­ alongwith the interest
+
+  @   9%   per   annum   w.e.f   the   date   of   payment   of   the   settled
+
+  amount   to   M/s   Chandraonline.Com   i.e   24.02.2006   till   the
+
+  realisation   of   the   decretal   amount.   Decree   sheet   be   prepared
+
+  and file be consigned to Record Room.
+</p>
+<p id="p_26">
+
+</p><pre id="pre_2">Announced in open court                      (SUKHVINDER KAUR)
+dated  31.03.2011                           ADDL. DISTRICT JUDGE
+                                              CENTRAL­14: DELHI.
+
+
+
+
+<span class="hidden_text" id="span_21">Suit No. 348/09                                                  Page 21 of 21</span>
+ Suit No. 348/09
+
+10.01.2011
+
+Present:      None.
+
+</pre><p id="p_27">              Application U/o 12 Rule 6 CPC moved on behalf of plaintiff
+
+
+has been allowed vide separate order vide which   plaintiff is entitled
+
+
+for   preliminary   decree   of   possession   in   respect   of   the   suit
+
+property. Decree sheet be prepared. Following preliminary issue
+
+has been framed for consideration:­
+
+       "Whether plaintiff is entitled for mesne profit? If so, at what
+
+rate and for what period?OPP"
+</p>
+<blockquote id="blockquote_1">              Put up for PE on 07.04.2011.
+</blockquote>
+<blockquote id="blockquote_2">                                                (SUKHVINDER KAUR)
+                                                 ADDL. DISTRICT JUDGE
+                                                CENTRAL­14: DELHI.
+</blockquote>
+
+
+
+<span class="hidden_text" id="span_22">Suit No. 348/09                                                 Page 22 of 21</span>
+  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

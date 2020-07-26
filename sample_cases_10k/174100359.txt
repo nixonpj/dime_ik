@@ -1,0 +1,1399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Indian Bank Main Branch Bank ... vs The Sub Registrar Sub-Registrar ... on 11 November, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/174100359/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 39 docs 
+      
+        - [<A HREF="/search/?formInput=cites:174100359">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/52229129/">The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1353758/">The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/152603276/">Section 13 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/826210/">Section 537 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/930802/">Section 531 in The Companies Act,   1956</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 2 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/169488361/">M/S. Sunrise Oleo Chemicals Ltd., ... vs M/S.Reliance Asset ... on 21 December, 2018</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/817040/">F.H. Wilson, Official Assignee, ... vs Nathmull on 8 November, 1929</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/131405891/">International Asset ... vs Rule. Mr. Js Yadav on 8 May, 2015</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/174100359/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/174100359/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/174100359/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=secured%20creditor">secured creditor</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sarfaesi%20act">sarfaesi act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sarfaesi">sarfaesi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=auction%20purchaser">auction purchaser</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20secured%20assets">no secured assets</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=official%20liquidator">official liquidator</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=drt">drt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sub%20registrar">sub registrar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=recovery%20of%20debt">recovery of debt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20bank%20%20">indian bank  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sub-registrar">sub-registrar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20537">section 537</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mortgaged%20property">mortgaged property</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=debts%20recovery%20tribunal">debts recovery tribunal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20531a">section 531a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=guarantor">guarantor</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%2813%29%20of%20sarfaesi%20act">section 13(13) of sarfaesi act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%20sarfaesi%20act">section 13 sarfaesi act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.13%20of%20SARFAESI%20act">sec.13 of SARFAESI act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sarfaesi%20act%20section%2013%2813%29">sarfaesi act section 13(13)</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Andhra High Court</div>
+<div class="doc_title">Indian Bank Main Branch Bank ... vs The Sub Registrar Sub-Registrar ... on 11 November, 2014</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ THE HONOURABLE THE CHIEF JUSTICE SRI KALYAN JYOTI SENGUPTA AND THE HONOURABLE SRI JUSTICE SANJAY KUMAR                     
+
+Writ Appeal Nos.1420  of 2013 and and batch 
+
+11-11-2014 
+
+Indian Bank  Main Branch Bank Street Koti, Hyderabad   Rep. by its Dy. General
+Manager &amp; Authorized Officer   Appellant 
+
+The Sub Registrar Sub-Registrar Office  Makundi Village Bellary District
+Karnataka and others Respondents   </pre>
+
+<p id="p_1">!COUNSEL FOR APPEALLANT : Sri S. Ravi, Senior Counsel,      
+                          for Sri Ambadipudi   Satyanarayana
+
+COUNSEL FOR RESPONDENT NOs.1, 2 and 4: Government Pleader for         
+                                        Revenue
+COUNSEL FOR RESPONDENT NO.3 : Sri M. Anil Kumar         
+
+
+&lt;GIST: 
+</p>
+<p id="p_2">&gt;HEAD NOTE:    
+</p>
+<p id="p_3">? CITATIONS: 1. (2000) 4 SCC 406  
+</p><p id="p_4">                     2. (2005) 8 SCC 190
+</p><p id="p_5">                     3. (2013) 176 Company Cases 246 (Delhi)
+</p><p id="p_6">                     4. 2006 (1) Bom. CR. 362
+</p><p id="p_7">                     5. (2010) 158 Company Cases 168
+</p><p id="p_8">                     6. (2014) 1 SCC 479
+</p><p id="p_9">                     7. (2013) 10 SCC 83
+</p><p id="p_10">                     8. (2014) 5 SCC 610
+</p><p id="p_11">                     9. (2013) 1 SCC 1
+</p><p id="p_12">                   10. (2008) 15 SCC 1
+</p><p id="p_13">                   11. (2013) 4 SCC 381
+</p><p id="p_14">                   12. (2013) 2 SCC 101
+
+THE HONBLE THE CHIEF JUSTICE SRI KALYAN JYOTI SENGUPTA             
+AND  
+THE HONBLE SRI JUSTICE SANJAY KUMAR         
+
+WRIT APPEAL NOs.1420 &amp; 1424 of 2013     
+and 
+O.S.A NOs.34 &amp; 35 of 2013  
+
+COMMON JUDGMENT: (Per the Honble The Chief Justice Sri Kalyan Jyoti Sengupta)     
+
+        All the four appeals are taken up for hearing analogously for
+the sake of convenience as they owe origin to common judgment 
+and order passed by the Honble trial Judge, dated 29.4.2013, in
+Writ Petition Nos.19297 of 2012 &amp; 33655 of 2011, and Company  
+Application Nos.1972 of 2011 &amp; 421 of 2013 in Company Petition
+No.215 of 2010.
+</p>
+<p id="p_15">        All these appeals are preferred by the Indian Bank, a secured
+creditor of a company - M/s. Laran Sponge &amp; Minerals Private
+Limited now in liquidation (hereinafter referred to as the said
+Company).   The facts leading to preferring the appeals are shortly
+put hereunder:
+</p>
+<p id="p_16">      The said company availed itself of various credit facilities from
+the appellant Bank and in consideration thereof it hypothecated its
+plant and machinery and other movables as securities therefor.
+Apart from the above securities, one Smt. P. Latha and one Sri
+P. Vara Prasada Raju, who are the Directors of the said company,
+stood guarantors for repayment of dues of the appellant.  They
+mortgaged their immovable properties viz., large plot non-
+agricultural land situated in the State of Karnataka and two flats in
+Hyderabad.  As there has been default in repayment of the loan
+amount by the said company to the appellant, the loan accounts
+were classified as Non Performing Asset (NPA).  Accordingly, the
+appellant Bank under the provisions of the Securitisation and
+Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_1">Enforcement of Security
+Interest Act</a>, 2002 (hereinafter referred to as <a href="/doc/52229129/" id="a_2">SARFAESI Act</a>) took
+possession of the said securities followed by notification for sale of
+both mortgaged and hypothecated properties issued by the 
+Authorized Officer of the appellant bank on 28th August, 2011.
+One M/s. United Steel Allied Industries Private Limited (hereinafter
+referred to as auction purchaser) who is the 1st respondent in
+W.A. No.1424 of 2013 and O.S.A. No.34 of 2013 participated in the
+auction on 29.9.2010 and came to be declared as the highest
+bidder.  Accordingly, auction purchaser, in terms of the conditions
+of sale, deposited 25% of the sale price.   On 1.11.2010, one M/s.
+SBI Global Factors Limited, being another secured creditor,  filed
+company petition being C.P.No.215 of 2010 for winding up, and the
+said petition was allowed on 18.7.2011.  Consequently, the Official
+Liquidator was appointed to take possession of the assets of the
+said company.  Admittedly, appellant did not approach Company 
+Court either before or after winding up order seeking leave of the
+Court for sale. After depositing 25% of sale price, the auction
+purchaser could not pay the balance 75% of sale consideration
+within the fifteenth day from the date of sale.  It appears that the
+auction purchaser, subsequent to the sale on 24.11.2010,
+applied for grant of loan and pursuant thereto, the
+appellant Bank sanctioned and granted loan to the said
+auction purchaser on 7.1.2011.  The balance 75% of sale
+consideration was adjusted by the appellant Bank from that loan
+account and thereafter sale certificate was issued on 18.01.2011.
+The tender agreement and other documents connected with the  
+sale were sent to the Sub-Registrar, Halakundi Village, Bellary
+District, Karnataka for registration.  At this stage, the Official
+Liquidator addressed a letter on 20.09.2011 to the said Sub-
+Registrar, informing that the borrower company (the said company)
+was wound up in the company petition being C.P. No.215 of 2010 
+and he was appointed Liquidator and requested the Sub-Registrar
+not to register any document with regard to the properties of the
+borrower.  Because of the letter of the Official Liquidator, the Sub-
+Registrar is alleged to have not taken steps, hence the appellant
+Bank was constrained to file the above writ petition being W.P.
+No.33655 of 2011 on 14.12.2011 for a direction to the Sub-
+Registrar to register the sale certificate with regard to auction of the
+said properties.   Simultaneously, the appellant Bank also filed
+Company Application being No.1972 of 2011 on 27.12.2011 for a 
+direction to the Official Receiver to clarify suitably with regard to
+the mortgaged properties in his letter dated 20.09.2011 addressed
+to the Sub-Registrar.  While the matter stood thus, the auction
+purchaser complained that the possession of the said properties
+was not given and further there were dues claimed by several
+authorities and that the property is not free from encumbrance.  As
+such, the auction purchaser avoided the sale and more so the
+appellant Bank threatened the auction purchaser to treat the loan
+account as Non Performing Asset.   In this background, auction
+purchaser filed W.P.No.19297 of 2012 on 26.6.2012 for the relief
+claimed therein.   Thereafter, the auction purchaser also filed
+company application being C.A. No.421 of 2013 for setting aside
+the sale alleging several irregularities, suppression of facts and
+violation of <a href="/doc/930802/" id="a_3">Sections 531</a>, <a href="/doc/856848/" id="a_4">531A</a> and <a href="/doc/826210/" id="a_5">537</a> of the Companies Act. It
+was further alleged that the properties are not properly valued and
+the encumbrances were not disclosed and possession was not   
+delivered effectively.  It was also asserted that there were several
+claims of taxes etc., of a large sum of more than One crore and as
+such the sale is liable to be set aside.
+</p>
+<p id="p_17">       Thus, the aforesaid proceedings were brought in connection
+with the aforesaid sale and the same were heard by the Honble
+trial Judge analogously.
+</p>
+<p id="p_18">      In these proceedings, the Official Liquidator appeared and
+supported the stand taken by the auction purchaser and contended 
+that the entire sale is void as leave of the Company Court was not
+obtained under <a href="/doc/1537531/" id="a_6">Sections 446</a> and <a href="/doc/826210/" id="a_7">537</a> and further, it was violative
+of <a href="/doc/930802/" id="a_8">Sections 531</a> and   <a href="/doc/856848/" id="a_9">531A</a> of the Companies Act.  It is alleged that
+the sale being void as it was done within six months before
+commencement of the winding up of the said company under   
+<a href="/doc/930802/" id="a_10">Section 531</a> of the Companies Act.   Effect of such sale is
+fraudulent preference and accordingly invalid.   It is also void under
+<a href="/doc/856848/" id="a_11">Section 531A</a> of the Companies Act.   Therefore, the Official
+Liquidator asserts he has every right to oppose the registration even
+without asking for setting aside the sale, as it is void.   SBI Global
+contends that there was no proper and valid notification or
+valuation of the property and since the winding up process has
+been initiated by it, Indian Bank cannot claim any priority and the
+sale should be declared void and invalid.  Obviously, the appellant
+denied all the allegations and claimed that after issuing
+notification, sale was duly completed and auction purchaser
+deposited the earnest money.  Auction purchaser deposited 25% of 
+the consideration amount and as the auction purchaser has no
+sufficient fund for payment of 75% of the balance consideration,
+had applied for loan and the same was sanctioned and granted,
+and out of loan amount 75% of consideration money was adjusted. 
+Thereafter the sale certificate was issued and possession was also
+handed over to the auction purchaser.   Thus the sale was
+completed as registration of sale certificate or other document in
+connection therewith is not mandatory requirement under law.  It
+is also contended that since the sale was conducted under the
+<a href="/doc/52229129/" id="a_12">SARFAESI Act</a>, being a special and later enactment, inconsistent 
+provisions of the <a href="/doc/1353758/" id="a_13">Companies Act</a>, 1956 are overridden.  In the
+context of above contention and rival contention, the Honble trial
+Judge formulated the following points for consideration to decide
+the matter.
+</p><p id="p_19">(1)     Whether a valid sale has been conducted on behalf of the
+Indian Bank by the Authorized Officer under <a href="/doc/52229129/" id="a_14">SARFAESI Act</a>?  
+(2)     Whether the sale is void and fraudulent as contended by the
+Official Liquidator (wrongly typed in the copy of the judgment
+as Receiver)?
+</p><p id="p_20">(3)     Whether the sale is vitiated for several of the irregularities
+raised by the auction purchaser and if so it is liable to be
+set aside?
+</p>
+<p id="p_21">      The Honble trial Judge held that the sale conducted by the
+authorized officer is hit by the provisions of <a href="/doc/930802/" id="a_15">Sections 531</a>, <a href="/doc/856848/" id="a_16">531A</a> &amp;
+<a href="/doc/826210/" id="a_17">537</a> of the Companies Act.   It was held that since no leave of the
+Court was obtained, as required under sub-section (b) of <a href="/doc/826210/" id="a_18">Section
+537</a> of the Companies Act, the sale is void.  It was also held that it
+is an invalid sale as it was held within six months from the date of
+presentation of winding up petition, and also under <a href="/doc/856848/" id="a_19">Section 531A</a>
+as the sale was held within a period of one year from the date of
+presentation of winding up petition.  That apart, the learned Trial
+Judge held that the mandatory requirement for holding the sale as
+provided under Rule 9 (1) (2) (3) (4) &amp; (5) of the Rules framed under
+the <a href="/doc/52229129/" id="a_20">SARFAESI Act</a>, having not been adhered to, the sale is also
+invalid.  Therefore, His Lordship set aside the same and the writ
+petition (W.P.No.19297 of 2012) and company application (C.A.
+No.421 of 2013) filed by the auction purchaser were allowed, and
+the writ petition (W.P.No.33655 of 2011) and company application
+(C.A. No.1972 of 2011) filed by the appellant were dismissed.
+</p>        
+<p id="p_22">      Sri S. Ravi, learned Senior Advocate, submits that the
+provisions of the <a href="/doc/1353758/" id="a_21">Companies Act</a>, 1956, in particular <a href="/doc/1971576/" id="a_22">Sections 442</a>,
+<a href="/doc/1537531/" id="a_23">446</a> and <a href="/doc/826210/" id="a_24">537</a> thereof, have no manner of application as the said
+provisions have been ousted by virtue of the provisions of <a href="/doc/33076222/" id="a_25">Section
+35</a> of the SARFAESI Act, which is a later and special enactment as
+the same are inconsistent with <a href="/doc/152603276/" id="a_26">Section 13</a> of SARFAESI Act.  Even 
+the provisions of <a href="/doc/893994/" id="a_27">Section 37</a> of this Act, saves amongst others, the
+<a href="/doc/1353758/" id="a_28">Companies Act</a>, 1956, but not entirely but to the extent of
+compatibility.  He says provision of <a href="/doc/152603276/" id="a_29">Section 13</a> of SARFAESI Act is
+incompatible with above provision.  While examining identical
+provision being <a href="/doc/1302414/" id="a_30">Section 34</a> of Recovery of Debts Due to Banks and
+Financial Institutions Act, 1993  (hereinafter referred to as RDB
+Act), the Supreme Court in the case of <a href="/doc/677551/" id="a_31">Allahabad Bank v.
+Canara Bank</a>  and <a href="/doc/396290/" id="a_32">Rajasthan State Financial Corporation v.
+Official Liquidator</a>   has ruled that in case of Special Legislation
+like this, the provisions of <a href="/doc/1971576/" id="a_33">Sections 442</a>, <a href="/doc/1537531/" id="a_34">446</a> and <a href="/doc/826210/" id="a_35">537</a> of Act 1956
+stood ousted and  that a person aggrieved by sale under the RDB
+Act has to approach the Debts Recovery Tribunal and not the
+Company Court.  
+</p>        
+<p id="p_23">      Following the principle laid down by the Supreme Court, the
+Delhi High Court in <a href="/doc/141898411/" id="a_36">Kotak Mahindra Bank Ltd. v. Megnostar
+Telecommunications Pvt. Ltd.  and the Bombay High</a> Court in 
+<a href="/doc/1483304/" id="a_37">The Akola Oil Industries v. State Bank of India</a> ,  while
+examining the scope of <a href="/doc/52229129/" id="a_38">SARFAESI Act</a>, held that the provisions of
+the <a href="/doc/52229129/" id="a_39">SARFAESI Act</a> will have overriding effect over the <a href="/doc/1353758/" id="a_40">Companies
+Act</a>.  It is candid to say, the Punjab and Haryana High Court has
+taken a contrary view in <a href="/doc/1414378/" id="a_41">Haryana State Industrial and
+Infrastructure Development Corporation v. Haryana Concast
+Ltd</a>. .  He also contends that provisos to <a href="/doc/40078972/" id="a_42">Section 13(9)</a> of the
+SARFAESI Act provide internal evidence as to the extent to which
+the provisions of the <a href="/doc/1353758/" id="a_43">Companies Act</a> are applicable to the
+proceedings under the <a href="/doc/52229129/" id="a_44">SARFAESI Act</a> stands.  The reference to the 
+<a href="/doc/1353758/" id="a_45">Companies Act</a> in <a href="/doc/116137496/" id="a_46">Section 37</a> of the SARFAESI Act will not make  
+any difference.  The right of a bank to sell without the intervention
+of Court in terms of the provisions of <a href="/doc/172827467/" id="a_47">Section 13(1)</a> of the SARFAESI
+Act would prevail over the provisions of <a href="/doc/1537531/" id="a_48">Sections 446</a> and <a href="/doc/826210/" id="a_49">537</a> of
+Act 1956 in view of overriding effect of the <a href="/doc/52229129/" id="a_50">SARFAESI Act</a> as stated
+in <a href="/doc/659435/" id="a_51">Section 35</a> therein.  He contends with the support of judgment of
+the Supreme Court in case of <a href="/doc/128032254/" id="a_52">Jagdish Singh v. Heeralal &amp;
+others</a>  that sale held under <a href="/doc/52229129/" id="a_53">SARFAESI Act</a> can only be questioned 
+before Tribunal under DRT alone, Company Court has no 
+jurisdiction.
+</p>        
+<p id="p_24">      He also submits that Company Application No.421 of 2013 in
+Company Petition No.215 of 2010 and Writ Petition No.19297 of
+2012 filed by the auction purchaser are mala fide.  The auction
+purchaser after having accepted the conclusion of the sale and
+having paid consideration money is estopped from setting up such
+plea.  He argues that the immovable property admittedly belonged
+to the guarantors, who are private individuals, and the said
+company has nothing to do with it.  The movable properties
+belonged to the company and were hypothecated to the appellant 
+bank and the subsequent hypothecation to SBI Global Factors 
+Limited does not invalidate the sale by the appellant.
+</p>        
+<p id="p_25">      Learned counsel for the Official Liquidator, while opposing
+this appeal, contends that the contention of the appellant is un-
+acceptable as the principle laid down by the Apex Court in
+Allahabad Bank case (1 supra) does not apply as the Apex Court 
+in the said Case, looking into the provisions of the RDB and FI Act,
+wherein the said Act was stated to be overriding Act 1956.
+Therefore, the principle laid down therein has no manner of
+application as the appellant bank has proceeded under the
+<a href="/doc/52229129/" id="a_54">SARFAESI Act</a> and unlike in the DRT the consequential  
+proceedings of notice for default, attachment and sale are
+conducted by an Authorized Officer appointed by Bank/Financial
+Institution and not by a Tribunal as in DRT.  An Authorized Officer
+under the <a href="/doc/52229129/" id="a_55">SARFAESI Act</a>, being subordinate to a Presiding Officer
+does not have equal rights and the act of Indian Bank is prone to
+investigation or enquiry by the Honble Company Court.  He
+contends thus, Indian Banks right to proceed against the
+companys assets does not subsist as it does not have a charge over
+the same as per the provisions of Act 1956.  He informs the Court
+that till date the appellant Indian Bank has not filed any document
+to prove their charge either before the Company Court or before
+this Honble High Court and thus violated the provisions of Act
+1956.  He argues hypothetically that in case the land on which the
+borrowers unit exists is the personal property of the borrower and
+the relation and the title of the lands in question were mortgaged to
+the bank by way of deposit of title deed, the other assets standing
+on the land, such as buildings, plant &amp; machinery, current assets,
+furniture etc., are the exclusive properties of the company in
+liquidation and as such the Indian Bank has no right under any
+statute to proceed against the borrower company independently.
+</p>        
+<p id="p_26">      His further contention is that the appellant bank has violated
+the provisions of <a href="/doc/1948051/" id="a_56">Sections 441</a>, <a href="/doc/1537531/" id="a_57">446</a>, <a href="/doc/930802/" id="a_58">531</a>, <a href="/doc/930802/" id="a_59">531(a)</a> and <a href="/doc/826210/" id="a_60">537</a> of Act
+1956 and <a href="/doc/893994/" id="a_61">Section 37</a> and Rules 5, 6 and 8(6)(a) of <a href="/doc/52229129/" id="a_62">SARFAESI Act</a>. 
+He further contends, with the support of the judgment of the
+Supreme Court in <a href="/doc/115833969/" id="a_63">Sri Siddeswara Cooperative Bank Limited v.
+Ikbal</a>  the appellant has also violated the provisions of <a href="/doc/40078972/" id="a_64">Section
+13(9)</a> of the SARFAESI Act, inasmuch as there is no consent 
+between the parties - the purchaser, borrower and the secured
+creditor.  The sale is violative of the above provision because SBI
+Global Factors Ltd., the other secured creditor, was not associated
+by them while conducting the sale.  That apart, the Official
+Liquidator, who is also a secured creditor, since he represents the
+workers, was also not associated with the sale conducted by the
+Indian Bank.  The balance amount of purchase price shall be paid
+by the purchaser to the Authorized Officer on or before the fifteenth
+day of confirmation of sale of the immovable property or within
+such extended period as may be agreed upon in writing between 
+the parties.  This would be clear from the provisions of Rule 9(4) of
+the <a href="/doc/52229129/" id="a_65">SARFAESI Act</a> as the purchaser has remitted the sale 
+consideration or arranged to adjust the sale consideration after the
+stipulated period.  He complains that the appellant bank has also
+grossly violated the provisions of <a href="/doc/52229129/" id="a_66">Sections 531</a> and <a href="/doc/52229129/" id="a_67">537</a> of Act 1956
+that clearly mandates that sales as affected by the parties
+concerning the assets of the company in liquidation, as was done
+by the Indian Bank, are hit by the provisions of Act 1956.  Apart
+from the judgment cited by him as above, he has placed reliance on
+the following decisions.
+</p><p id="p_27">(i)     <a href="/doc/396290/" id="a_68">Rajasthan State Financial Corporation and another v.
+Official Liquidator</a> (2 supra)
+</p><p id="p_28">(ii)    <a href="/doc/115833969/" id="a_69">Sri Siddeswara Cooperative Bank Ltd. v. Ikbal</a> (7 supra)
+</p><p id="p_29">(iii)   <a href="/doc/1414378/" id="a_70">Haryana State Industrial and Infrastructure Development
+Corporation v. Haryana Concast Ltd</a>. (5 supra)
+
+      Learned counsel for respondent No.1, namely the auction
+purchaser, submits that the provisions of Act 1956 have full
+application in view of the provisions of <a href="/doc/116137496/" id="a_71">Section 37</a> of the SARFAESI
+Act, which carves out, amongst others, the <a href="/doc/1353758/" id="a_72">Companies Act</a> found 
+mischief the provision of overriding in <a href="/doc/33076222/" id="a_73">Section 35</a> of the SARFAESI
+Act.  According to him, if <a href="/doc/33076222/" id="a_74">Sections 35</a> and <a href="/doc/116137496/" id="a_75">37</a> of the SARFAESI Act
+are read together, it postulates that in the event any of the
+provisions of Act 1956 not being inconsistent with the provisions of
+the <a href="/doc/52229129/" id="a_76">SARFAESI Act</a>, the application of both the Acts should be
+complementary to each other and both are in tandem.  He says that
+the Supreme Court decisions in Allahabad Bank case (1 supra) 
+and <a href="/doc/396290/" id="a_77">Rajasthan State Financial Corporation v. Official
+Liquidator</a> (2 supra) were rendered in the context of the provisions
+of Section 34 of the RDB Act and the said Act overrides Act 1956 to
+the extent there is anything inconsistent between the two Acts, and
+the Company Courts jurisdiction is ousted.
+</p>
+<p id="p_30">      (On close scrutiny of the two judgments of the Apex Court,
+the point for consideration before this Honble Court is whether the
+said judgment is applicable to the <a href="/doc/52229129/" id="a_78">SARFAESI Act</a>, or not?)
+
+      He contends that it is distinguishable for the reason, in the
+RDB Act there is no protective coverage to the <a href="/doc/1353758/" id="a_79">Companies Act</a>
+which could be found in <a href="/doc/116137496/" id="a_80">Section 37</a> of the SARFAESI Act which 
+clearly mentioned the provisions of the <a href="/doc/52229129/" id="a_81">SARFAESI Act</a> are framed in
+addition to the provisions of the <a href="/doc/1353758/" id="a_82">Companies Act</a> and not in
+derogation thereof.  In that context, the Honble Apex Court held
+that the jurisdiction of the Company Court is ousted.  He contends
+that the provisions of the <a href="/doc/52229129/" id="a_83">SARFAESI Act</a> will not in any way nullify
+or annul or impair the effect of the provisions of the <a href="/doc/1353758/" id="a_84">Companies Act</a>.
+In this case, admittedly auction took place and bid was confirmed
+on 29.09.2010 and the petition for winding up was presented
+before the Company Court on 01.11.2011 and thus it is clear that
+by the date of presentation of the said petition, sale was not even
+concluded.  Hence, as per <a href="/doc/1948051/" id="a_85">Section 441</a> of the Companies Act, 
+winding up of a company by the Tribunal shall be deemed to
+commence at the time of presentation of the petition for winding
+up.  Thus, the sale is subject to the provisions of Act 1956 from the
+date of commencement of the winding up proceedings, i.e.,
+1.11.2011 and as per <a href="/doc/52229129/" id="a_86">Section 446(d)</a> of Act 1956 any question
+whatsoever, whether on law or fact, which may relate to or arise in
+the course of the winding up of the company, the Company Court 
+has jurisdiction to entertain and dispose of the same and hence the
+claim petition filed by the respondent auction purchaser is not
+maintainable and the Company Court was right in declaring that
+the said is void.  He says that <a href="/doc/52229129/" id="a_87">Section 537</a> of Act 1956 is mandatory
+and not directory.  The word used in the provision is shall, which
+necessarily indicate mandatory character.  Further, the very object
+of the provisions relating to winding up are to protect and balance
+the interest of various secured creditors, public dues and workmen
+etc.  If without leave of the Court, the assets of the company are
+sold, the same will jeopardize the very object.  On his part of legal
+submissions, he has placed reliance on the following decisions:</p><pre id="pre_2">
+(i)     Mathew Varghese v. M. Amritha Kumar and others   
+(paragraphs 45 and 46 of the judgment)
+(ii)    Saharas case  (para 66 of the judgment)
+</pre><p id="p_31">(iii)   Bakemens Industries case  (paras 40 &amp; 76 of the
+judgment) 
+
+      Learned counsel for the SBI Global Factors Limited argues on
+the same lines as has been argued by the learned counsel for the
+Official Liquidator and opposes these appeals.
+</p>
+<p id="p_32">      After hearing the learned counsel for the parties appearing
+before us and taking note of the submissions and going through
+the material, which have been produced before us, the following
+questions have fallen for our consideration:
+</p>
+<p id="p_33">(1)     Whether the sale of the mortgaged property owned by private
+individuals can be brought before the learned Company
+Judge or in Writ Court for scrutiny?
+</p><p id="p_34">(2)     Whether the Company Court can decide the question raised  
+with regard to the invalidity of sale in view of provisions of
+the <a href="/doc/52229129/" id="a_88">SARFAESI Act</a> read with Recovery of Debts due to Banks   
+and Financial Institutions Act, 1993?
+</p><p id="p_35">(3)     Whether the provisions of <a href="/doc/930802/" id="a_89">Sections 531</a>, <a href="/doc/856848/" id="a_90">531A</a> &amp; <a href="/doc/826210/" id="a_91">537</a> of the
+Companies Act, 1956 have any manner of application with 
+regard to sale of securities conducted under the <a href="/doc/52229129/" id="a_92">SARFAESI
+Act</a>? 
+</p><p id="p_36">(4)     Whether the learned trial Judge was justified in entertaining
+and deciding the writ petitions with regard to the alleged
+irregularity and illegality in conducting sale on the basis of
+material supplied under the provisions of <a href="/doc/52229129/" id="a_93">SARFAESI Act</a> and
+the Rules framed thereunder?
+</p>
+<p id="p_37">        While deciding the first issue, we need to examine what is the
+factual aspect of the matter namely who is the owner and
+mortgagor of the properties mortgaged.
+</p>
+<p id="p_38">        In paragraph-12 (clauses A &amp; B) of the counter-affidavit filed
+by the appellant Bank in W.P. No.19297 of 2012 specifically stated
+amongst others as follows:
+</p>
+<p id="p_39">      Smt. P. Vara Prasada Raju and Smt P. Latha are the
+guarantors to the loan facility availed by the said borrower.  The
+said loan facilities are secured by the following securities.
+Sl.
+</p><p id="p_40">No.
+</p><p id="p_41">Description of the property
+Nature of
+Security
+Name of the Mortgagor 
+</p><p id="p_42">1.
+Ac.18-65 of Non Agricultural
+lands situated at Halakundi of
+Bellary Taluk and District,
+Karantaka together with
+structures constructed thereon
+Mortgage 
+P. Latha
+(Guarantor)
+</p><p id="p_43">2.
+Flat No.301, 3rd Floor, Bhawani
+Towers, Plot Nos.1 &amp; 2, Vengal
+Rao Nagar, Hyderabad  
+Mortgage 
+P. Vara Prasada Raju 
+(Guarantor)
+</p><p id="p_44">3.
+Flat No.403, Vayuputhra 
+Towers, Premises bearing 
+No.482 of MIG-1, Premises 
+No.483 of MIG-1 of KPHB  
+Colony, Balanagar Mandal, 
+Hyderabad. 
+</p><p id="p_45">Mortgage 
+Smt. P. Latha 
+
+      It was stated that the aforesaid mortgage as part of the
+securities.  The said couple who are the Directors of the said
+company stood guarantors.  It is further stated that the said
+company failed to repay the loan amount as per the terms of
+sanction and also loan documents and thus committed default in
+repayment of dues to the Bank.  Because of failure as above, the
+said loan accounts were classified as Non Performing Asset
+accounts and the appellant Bank, being secured creditor, as per
+the provisions of <a href="/doc/52229129/" id="a_94">SARFAESI Act</a>, 2002, has invoked the provisions
+of the said Act after following due process of law as contemplated
+under the said Act and the Security Interest (Enforcement) Rules,
+2002 has taken possession of the said properties and sold the
+secured assets i.e., the above said hypothecated and mortgaged
+properties.
+</p>
+<p id="p_46">      In the affidavit in reply of the auction purchaser, while
+dealing with the above statement of the appellant Bank, in
+paragraph-7 made the following statement.
+</p><p id="p_47"> .  the averments in paragraph 11 and 12 (A) to (E) of
+counter-affidavit the facts borne out of record and hence
+they do not need any reply.  The 2nd respondent Bank in
+these paragraphs narrated all the facts that led to filing of
+various cases against the borrower, filing of writ petition
+against the Sub-Registrar when he refused to register the
+Sale Certificate issued in favour of petitioner Company
+(auction purchaser) and various proceedings taken place
+in Company Petition filed against M/s. Laran Sponge &amp;
+Minerals (P) Limited, and they are all matter of record.
+</p>
+
+<p id="p_48">        Thus, there is no denial of fact that the two individual
+persons may be Directors, are the owners of the immovable
+properties mortgaged.  However in reply affidavit itself and also in
+the above writ petition has vaguely stated that the said land was
+given to the company on lease till January, 2015.  However, there is
+no document to support the statement, as under the law lease is
+required to be created by written registered document, in the
+absence thereof we think that by virtue of the provisions of <a href="/doc/112742697/" id="a_95">Section
+17</a> read with <a href="/doc/1768154/" id="a_96">Section 49</a> of the Registration Act, 1908 such
+transaction is not admissible in evidence and need not be taken
+into consideration.
+</p>        
+<p id="p_49">      Moreover, going by the provisions of <a href="/doc/1790262/" id="a_97">Section 92</a> of the
+Evidence Act, the fact which is required to be established by
+document no oral evidence is admissible.  It is also settled provision
+of law under <a href="/doc/1505766/" id="a_98">Section 102</a> of Evidence Act the burden of proof of any
+fact rest on him who will fail if no evidence is brought.   Under
+these circumstances, here, we are unable to accept that the
+company has got any interest in any of immovable properties which
+have been mortgaged.  These immovable properties exclusively 
+belong to two private individuals.   This is pointed out in the
+company application filed by the appellant and it will be clear from
+the prayer portion thereof, which is stated hereunder:
+</p>
+<p id="p_50">      this Honble Court may be pleased to direct the
+Official Liquidator to clarify his communication dated
+20.09.2011 to the Sub-Registrar, Halkundi Village, Bellary
+District, Karnataka that the instructions given in the said
+letter not to transfer, alienate, create any third party
+charge over the property standing in the companys name
+without the leave of the Honble High Court or until further
+orders from his office are not applicable to the personal
+immovable properties sold by the petitioner Bank relating
+to the guarantors of the company namely Sri P. Varaprasad
+Raju and Smt. P. Latha together with the plant and
+machinery existing on the said properties  
+        The impugned judgment was delivered dealing with not only
+company applications but also the writ petitions.  But whether
+mortgaged securities can be brought for scrutiny before the
+Company Judge or not is the question.  On careful reading of the
+entire judgment of His Lordship, we do not find that this issue was
+at all addressed.   It appears that His Lordship proceeded on the
+basis that all the securities belonged to the company.  It is settled
+position of law that shareholders and directors stands separate
+from the Company, as far as the legal status is concerned.  We,
+therefore, clarify and hold that the Company Court has no
+jurisdiction in any manner whatsoever to deal with mortgaged
+properties even assuming the contention raised by the auction
+purchaser that the question of illegality and invalidity with regard
+to sale, is correct.   This is absolutely inherent lack of jurisdiction.
+Therefore, we hold in exercise of jurisdiction under the <a href="/doc/1353758/" id="a_99">Companies
+Act</a> finding and decision of the learned Trial Judge with regard to
+mortgaged properties is without jurisdiction.  The Company Court
+is concerned with regard to the assets and properties of the
+company in liquidation.
+</p>
+<p id="p_51">        But this does not solve the problem as it appears that His
+Lordship rendered the judgment not only entertaining above
+company applications but also the writ petitions as well.  On proper
+scanning of the two proceedings brought by the auction purchaser,
+it appears to us in the writ petition the auction purchaser
+questions the right of the appellant Bank demanding the alleged
+outstanding dues in connection with the loan transaction, granted
+to the auction purchaser.   It seems to us that the auction
+purchaser has tried to correlate the loan transaction with
+completion of sale of the secured properties.  It is asserted that
+since the sale is not valid and proper in view of the various
+provisions under <a href="/doc/52229129/" id="a_100">SARFAESI Act</a> and the Rules framed thereunder,  
+there is no transfer of ownership and as such subsequent loan
+transaction become redundant and illegal and adjustment of
+consideration money from the loan account is consequently illegal
+and invalid.   In the company application filed by the auction
+purchaser,  it is asserted that in view of <a href="/doc/930802/" id="a_101">Sections 531</a>, <a href="/doc/856848/" id="a_102">531A</a> &amp; <a href="/doc/826210/" id="a_103">537</a>
+of the Companies Act sale held become void and invalid.  So, the
+Honble trial judge by combining two questions decided the matter
+with the reasoning given therein.
+</p>
+<p id="p_52">        We deal with the jurisdiction of the company court in view of
+the provisions of <a href="/doc/52229129/" id="a_104">SARFAESI Act</a> at the first instance.  The
+provisions of <a href="/doc/52229129/" id="a_105">Sections 531</a>, <a href="/doc/52229129/" id="a_106">531A</a> &amp; <a href="/doc/52229129/" id="a_107">537</a> are required to be
+reproduced hereunder: 
+</p><p id="p_53">531. Fraudulent preference. (1) Any transfer of property,
+movable or immovable, delivery of goods, payment, execution or
+other act relating to property made, taken or done by or against a
+company within six months before the commencement of its  
+winding up which, had it been made, taken or done by or against
+an individual within three months before the presentation of an
+insolvency petition on which he is adjudged insolvent, would be
+deemed in his insolvency a fraudulent preference, shall in the
+event of the company being wound up, be deemed a fraudulent 
+preference of its creditors and be invalid accordingly:
+</p>
+<p id="p_54">       Provided that, in relation to things made, taken or done
+before the commencement of this Act, this sub-section shall have
+effect with the substitution, for the reference to six months, of a
+reference to three months.
+</p>
+<p id="p_55">(2)     For the purposes of sub-section (1), the presentation of a
+petition for winding up by the Tribunal and the passing of a
+resolution for winding up in the case of a voluntary winding up,
+shall be deemed to correspond to the act of insolvency in the case
+of an individual.
+</p>
+<p id="p_56">531A. Avoidance of voluntary transfer.- Any transfer of
+property, movable or immovable, or any delivery of goods, made by
+a company, not being a transfer or delivery made in the ordinary
+course of its business or in favour of a purchaser or
+encumbrancer in good faith and for valuable consideration, if
+made within a period of one year before the presentation of a
+petition for winding up by the tribunal or the passing of a
+resolution for voluntary winding up of the company, shall be void
+against the liquidator.
+</p>
+<p id="p_57">537. Avoidance of certain attachments, executions, etc., in
+winding up by Tribunal.- (1) Where any company is being wound 
+up by the Tribunal--
+</p><p id="p_58">(a) any attachment, distress or execution put in force,
+without leave of the Tribunal against the estate or effects of
+the company, after the commencement of the winding up; 
+or
+</p><p id="p_59">(b) any sale held, without leave of the Tribunal, of any of the
+properties or effects of the company after such
+commencement, shall be void. 
+</p><p id="p_60">(2)     Nothing in this section applies to any proceedings for the
+recovery of any tax or impost or any dues payable to the
+Government. 
+</p>
+        
+<p id="p_61">      On reading of the aforesaid three Sections, it appears that
+any transfer of assets of the company is effected in violation of
+<a href="/doc/52229129/" id="a_108">Sections 531</a> &amp; <a href="/doc/52229129/" id="a_109">531A</a> is void altogether incurably, but it is void
+under <a href="/doc/52229129/" id="a_110">Section 537</a> if it is done without leave of the Company Court.
+Here, admittedly, no leave of the Company Court was obtained.  In
+this context, we examine the contentions of the learned Senior
+Counsel Mr. S. Ravi that no leave is required, as jurisdiction of
+Company Court is ousted in view of the provisions of <a href="/doc/152603276/" id="a_111">Sections 13</a>,
+<a href="/doc/116137496/" id="a_112">37</a> &amp; <a href="/doc/33076222/" id="a_113">35</a> of the SARFAESI Act.  We, therefore, set out the <a href="/doc/152603276/" id="a_114">Sections
+13</a> and <a href="/doc/33076222/" id="a_115">35</a> of the SARFAESI Act in connection with the said
+submission. 
+</p><p id="p_62">13. Enforcement of security interest.-- (1) Notwithstanding
+anything contained in <a href="/doc/52229129/" id="a_116">section 69</a> or <a href="/doc/933049/" id="a_117">section 69A</a> of the Transfer
+of Property Act, 1882 (4 of 1882), any security interest created in
+favour of any secured creditor any be enforced, without the
+intervention of court or tribunal, by such creditor in accordance
+with the provisions of this Act.
+</p>
+<p id="p_63">(2)     Where any borrower, who is under a liability to a secured
+creditor under a security agreement, makes any default in
+repayment of secured debt or any instalment thereof, and his
+account in respect of such debt is classified by the secured
+creditor as non-performing asset, then, the secured creditor may
+require, the borrower by notice in writing to discharge in full his
+liabilities to the secured creditor within sixty days from the date
+of notice failing which the secured creditor shall be entitled to
+exercise all or any of the rights under sub-section (4).
+</p>
+<p id="p_64">(3)     The notice referred to in sub-section (2) shall give details of
+the amount payable by the borrower and the secured assets 
+intended to be enforced by the secured creditor in the event of
+non-payment of secured debts by the borrower.
+</p>
+<p id="p_65">(3A)    If, on receipt of the notice under sub-section (2), the
+borrower makes any representation or raises any objection, the
+secured creditor shall consider such representation or objection
+and if the secured creditor comes to the conclusion that such
+representation or objection is not acceptable or tenable, he shall
+communicate within fifteen days of receipt of such
+representation or objection the reasons for non-acceptance of the
+representation or objection to the borrower:
+</p>
+<p id="p_66">       Provided that the reasons so communicated or the likely
+action of the secured creditor at the stage of communication of
+reasons shall not confer any right upon the borrower to prefer an
+application to the Debts Recovery Tribunal under <a href="/doc/112742697/" id="a_118">section 17</a> or
+the Court of District Judge under <a href="/doc/73651069/" id="a_119">section 17A</a>.
+</p>
+<p id="p_67">(4)     In case the borrower fails to discharge his liability in full
+within the period specified in sub-section (2), the secured
+creditor may take recourse to one or more of the following
+measures to recover his secured debt, namely:-
+</p><p id="p_68">(a) take possession of the secured assets of the borrower
+including the right to transfer by way of lease, assignment
+or sale for realising the secured asset;
+</p><p id="p_69">(b) take over the management of the secured assets of the
+borrower including the right to transfer by way of lease,
+assignment or sale and realise the secured asset:
+Provided that the right to transfer by way of lease,
+assignment or sale shall be exercised only where the
+substantial part of the business of the borrower is held as
+security for the debt:
+</p><p id="p_70">Provided further that where the management of whole of
+the business or part of the business is severable, the
+secured creditor shall take over the management of such
+business of the borrower which is relatable to the security
+for the debt.
+</p><p id="p_71">(c) appoint any person (hereafter referred to as the
+manager), to manage the secured assets the possession of 
+which has been taken over by the secured creditor;
+</p><p id="p_72">(d) require at any time by notice in writing, any person who
+has acquired any of the secured assets from the borrower
+and from whom any money is due or may become due to    
+the borrower, to pay the secured creditor, so much of the
+money as is sufficient to pay the secured debt.
+</p>
+<p id="p_73">(5)     Any payment made by any person referred to in  clause (d)
+of sub-section (4) to the secured creditor shall give such person
+a valid discharge as if he has made payment to the borrower.
+</p>
+<p id="p_74">(5-A)   Where the sale of an immovable property, for which a
+reserve price has been specified, has been postponed for want of
+a bid of an amount not less than such reserve price, it shall be
+lawful for any officer of the secured creditor, if so authorised by
+the secured creditor in this behalf, to bid for the immovable
+property on behalf of the secured creditor at any subsequent
+sale.
+</p>
+<p id="p_75">(5B) Where the secured creditor, referred to in sub-section (5A),
+is declared to be the purchaser of the immovable property at any
+subsequent sale, the amount of the purchase price shall be
+adjusted towards the amount of the claim of the secured creditor
+for which the auction of enforcement of security interest is taken
+by the secured creditor, under sub-section (4) of <a href="/doc/152603276/" id="a_120">Section 13</a>.
+</p>
+<p id="p_76">(5C) The provisions of <a href="/doc/1176956/" id="a_121">section 9</a> of the Banking Regulation
+Act, 1949 (10 of 1949) shall, as far as may be, apply to the
+immovable property.
+</p>
+<p id="p_77">(6)     Any transfer of secured asset after taking possession
+thereof or take over of management under sub-section (4), by the
+secured creditor or by the manager on behalf of the secured
+creditors shall vest in the transferee all rights in, or in relation
+to, the secured asset transferred as if the transfer had been
+made by the owner of such secured asset. 
+</p>
+<p id="p_78">(7)     Where any action has been taken against a borrower under 
+the provisions of sub-section (4), all costs, charges and expenses
+which, in the opinion of the secured creditor, have been properly
+incurred by him or any expenses incidental thereto, shall be
+recoverable from the borrower and the money which is received
+by the secured creditor shall, in the absence of any contract to
+the contrary, be held by him in trust, to be applied, firstly, in
+payment of such costs, charges and expenses and secondly, in  
+discharge of the dues of the secured creditor and the residue of
+the money so received shall be paid to the person entitled
+thereto in accordance with his rights and interests.
+</p>
+<p id="p_79">(8)     If the dues of the secured creditor together with all costs,
+charges and expenses incurred by him are tendered to the
+secured creditor at any time before the date fixed for sale or
+transfer, the secured asset shall not be sold or transferred by the
+secured creditor, and no further step shall be taken by him for
+transfer or sale of that secured asset.
+</p>
+<p id="p_80">(9)     In the case of financing of a financial asset by more than
+one secured creditors or joint financing of a financial asset by
+secured creditors, no secured creditor shall be entitled to
+exercise any or all of the rights conferred on him under or
+pursuant to sub-section (4) unless exercise of such right is
+agreed upon by the secured creditors representing not less than
+sixty per cent in value of the amount outstanding as on a record
+date and such action shall be binding on all the secured
+creditors.
+</p>
+<p id="p_81">       Provided that in the case of a company in liquidation, the
+amount realised from the sale of secured assets shall be
+distributed in accordance with the provisions of <a href="/doc/1190954/" id="a_122">section 529A</a> of
+the Companies Act, 1956 (1 of 1956):
+</p>
+<p id="p_82">       Provided further that in the case of a company being
+wound up on or after the commencement of this Act, the secured 
+creditor of such company, who opts to realise his security
+instead of relinquishing his security and proving his debt under
+proviso to sub-section (1) of <a href="/doc/955237/" id="a_123">section 529</a> of the Companies Act,
+1956 (1 of 1956), may retain the sale proceeds of his secured
+assets after depositing the workmen's dues with the liquidator in
+accordance with the provisions of <a href="/doc/52229129/" id="a_124">Section 529A</a> of that Act:
+</p>
+<p id="p_83">       Provided also that the liquidator referred to in the second
+proviso shall intimate the secured creditors the workmen's dues
+in accordance with the provisions of <a href="/doc/1190954/" id="a_125">section 529A</a> of the
+Companies Act, 1956 (1 of 1956) and in case such workmen's  
+dues cannot be ascertained, the liquidator shall intimate the
+estimated amount of workmen's dues under that section to the
+secured creditors and in such case the secured creditor may
+retain the sale proceeds of the secured assets after depositing
+the amount of such estimated dues with the liquidator:
+</p>
+<p id="p_84">       Provided also that in case the secured creditor deposits
+the estimated amount of workmen's dues, such creditor shall be
+liable to pay the balance of the workmen's dues or entitled to
+receive the excess amount, if any, deposited by the secured
+creditor with the liquidator:
+</p>
+<p id="p_85">       Provided also that the secured creditor shall furnish an
+undertaking to the liquidator to pay the balance of the
+workmen's dues, if any.
+</p>
+<p id="p_86">Explanation:-    For the purposes of this sub-section,-
+</p><p id="p_87">(a) "record date" means the date agreed upon by the secured
+creditors representing not less than sixty per cent in value of the
+amount outstanding on such date; 
+</p>
+<p id="p_88">(b) "amount outstanding" shall include principal, interest and
+any other dues payable by the borrower to the secured creditor
+in respect of secured asset as per the books of account of the
+secured creditor.
+</p>
+<p id="p_89">(10)    Where dues of the secured creditor are not fully satisfied
+with the sale proceeds of the secured assets, the secured creditor
+may file an application in the form and manner as may be
+prescribed to the Debts Recovery Tribunal having jurisdiction or
+a competent court, as the case may be, for recovery of the
+balance amount from the borrower.
+</p>
+<p id="p_90">(11)    Without prejudice to the rights conferred on the secured
+creditor under or by this section, the secured creditor shall be
+entitled to proceed against the guarantors or sell the pledged
+assets without first taking any of the measures specified in
+clauses (a) to (d) of sub-section (4) in relation to the secured
+assets under this Act.
+</p>
+<p id="p_91">(12) The rights of a secured creditor under this Act may be
+exercised by one or more of his officers authorised in this behalf
+in such manner as may be prescribed. 
+</p>
+<p id="p_92">(13)    No borrower shall, after receipt of notice referred to in sub-
+section (2), transfer by way of sale, lease or otherwise (other than
+in the ordinary course of his business) any of his secured assets
+referred to in the notice, without prior written consent of the
+secured creditor.
+</p>
+
+
+<p id="p_93">35. The provisions of this Act to override other laws.-- The
+provisions of this Act shall have effect, notwithstanding anything
+inconsistent therewith contained in any other law for the time
+being in force or any instrument having effect by virtue of any
+such law.
+</p>
+
+<p id="p_94">        <a href="/doc/33076222/" id="a_126">Section 35</a> of the SARFAESI Act, no doubt, provides for
+overriding effect over other Acts which were in force on the date of
+commencement of the Act to the extent of inconsistency.  We think
+that it would be unjust if we do not read and take into
+consideration of <a href="/doc/116137496/" id="a_127">Section 37</a> of the SARFAESI Act, which is set out
+hereunder.
+</p>
+<p id="p_95">37. Application of other laws not barred.- The provisions of
+this Act or the rules made thereunder shall be in addition to,
+and not in derogation of, the <a href="/doc/1353758/" id="a_128">Companies Act</a>, 1956 (1 of 1956),
+the <a href="/doc/220169/" id="a_129">Securities Contracts (Regulation) Act</a>, 1956 (42 of 1956), the
+Securities and <a href="/doc/1365176/" id="a_130">Exchange Board of India Act</a>, 1992 (15 of 1992),
+the Recovery of Debts Due to Banks and Financial Institutions
+Act, 1993 (51 of 1993) or any other law for the time being in
+force.
+</p>
+
+<p id="p_96">        A reading of <a href="/doc/116137496/" id="a_131">Section 37</a> of the Act above makes apparently
+clear that the provisions of the <a href="/doc/1353758/" id="a_132">Companies Act</a> also are saved.  We
+think in this context reading both the <a href="/doc/33076222/" id="a_133">Sections 35</a> and <a href="/doc/116137496/" id="a_134">37</a> of
+SARFAESI Act harmonized interpretation to get true import and
+effect, is to be given.  According to us, the provisions of the
+<a href="/doc/1353758/" id="a_135">Companies Act</a> under <a href="/doc/116137496/" id="a_136">Section 37</a> above are saved to the extent of
+consistency with the provisions of the <a href="/doc/52229129/" id="a_137">SARFAESI Act</a>.   In other
+words, any of the provisions of the <a href="/doc/52229129/" id="a_138">SARFAESI Act</a> expressly run
+counter to the provisions of the <a href="/doc/1353758/" id="a_139">Companies Act</a>, the provisions of
+<a href="/doc/52229129/" id="a_140">SARFAESI Act</a> will prevail over the <a href="/doc/1353758/" id="a_141">Companies Act</a> because it is
+special and later legislation.  It is settled position of law by the
+Honble Supreme Court that subsequent special legislation
+overrides general legislation in the same field or in case of
+inconsistency.
+</p>
+<p id="p_97">        In the case of Allahabad Bank case (1 supra) the Supreme
+Court while examining the scope of the provisions of Recovery of
+Debts due to Banks and Financial Institutions Act, 1993 held that
+it being subsequent legislation and being a special law which would
+prevail over the general law namely the <a href="/doc/1353758/" id="a_142">Companies Act</a>, 1956.   The
+language of Section 34 of the RDB Act is almost similar to that of
+the <a href="/doc/52229129/" id="a_143">SARFAESI Act</a>.  The only distinguishing feature is that the
+provisions of <a href="/doc/1353758/" id="a_144">Companies Act</a> was not saved at all therein as it will
+appear from sub-section (2) of Section 34 of the RDB Act.
+</p>
+<p id="p_98">        It will appear from <a href="/doc/6431889/" id="a_145">Section 34</a> of the SARFAESI Act the
+jurisdiction of the civil court has been ousted absolutely in respect
+of any matter which a Debts Recovery Tribunal or the Appellate
+Tribunal is empowered by or under this Act to determine.  It will
+appear from <a href="/doc/112742697/" id="a_146">Section 17</a> of the SARFAESI Act that any person  
+(including borrower), aggrieved by any of the measures referred to
+in sub-section (4) of <a href="/doc/152603276/" id="a_147">Section 13</a> taken by this secured creditor or
+his authorized officer under this Chapter may make application to
+the Debts Recovery Tribunal having jurisdiction in the matter
+within forty-five days from the date on which such measures had
+been taken.   If aforesaid provision of sub-section (1) of <a href="/doc/112742697/" id="a_148">Section 17</a>
+is read with <a href="/doc/6431889/" id="a_149">Section 34</a>, it would be clear that the Civil Court
+has no jurisdiction to entertain any move to challenge the action
+of secured creditor  under this Act.  A fairly recent  decision  of  the
+Supreme Court in the case of Official Liquidator, U.P. and
+Uttarakhand v. Allahabad Bank and others  ruled in
+paragraph-35 of the report as follows.
+</p>
+<p id="p_99">35.     It has been submitted by Mr Banerji, learned Senior
+Counsel, that if the Company Court as well as DRT can exercise
+jurisdiction in respect of the same auction or sale after
+adjudication by DRT, there would be duality of exercise of
+jurisdiction which the RDB Act does not envisage. By way of an
+example, the learned Senior Counsel has submitted that there
+are some categories of persons who can go before DRT 
+challenging the sale and if the Official Liquidator approaches the
+Company Court, then such a situation would only bring anarchy
+in the realm of adjudication. The aforesaid submission of the
+learned Senior Counsel commends acceptance as the   
+intendment of the legislature is that the dues of the banks
+and financial institutions are realised in promptitude. It is
+to be noted that when there is inflation in the economy, the
+value of the mortgaged property/assets depreciates with
+the efflux of time. If more time is consumed, it would be
+really difficult on the part of the banks and financial
+institutions to realise their dues. Therefore, this Court in
+Allahabad Bank case has opined that it is DRT which
+would have the exclusive jurisdiction when a matter is
+agitated before DRT. The dictum in the said case has been
+approved by the three-Judge Bench in Rajasthan State
+Financial Corpn. It is not a situation where the Official
+Liquidator can have a choice either to approach DRT or the
+Company Court. The language of the RDB Act, being clear, 
+provides that any person aggrieved can prefer an appeal.
+The Official Liquidator whose association is mandatorily
+required can indubitably be regarded as a person  aggrieved
+relating to the action taken by the Recovery Officer which
+would include the manner in which the auction is
+conducted or the sale is confirmed. Under these
+circumstances, the Official Liquidator cannot even take
+recourse to the doctrine of election. It is difficult to
+conceive that there are two remedies. It is well settled in
+law that if there is only one remedy, the doctrine of
+election does not apply and we are disposed to think that
+the Official Liquidator has only one remedy i.e. to
+challenge the order passed by the Recovery Officer before
+DRT. Be it noted, an order passed under Section 30 of the
+RDB Act by DRT is appealable. Thus, we are inclined to
+conclude and hold that the Official Liquidator can only
+take recourse to the mode of appeal and further appeal
+under the RDB Act and not approach the Company Court to  
+set aside the auction or confirmation of sale when a sale
+has been confirmed by the Recovery Officer under the RDB 
+Act.
+</p><p id="p_100">(emphasis supplied)
+
+
+        Again the Apex Court in case of <a href="/doc/128032254/" id="a_150">Jagdish Singh v. Heeralal</a>
+(6 supra) observed in paragraph 24 of the report as proposition of
+law as follows:
+</p><p id="p_101">                     Any person aggrieved by any of the 
+measures referred to in sub-section (4) of <a href="/doc/152603276/" id="a_151">Section 13</a> has got a
+statutory right of appeal to the DRT under <a href="/doc/112742697/" id="a_152">Section 17</a>. The
+opening portion of <a href="/doc/6431889/" id="a_153">Section 34</a> clearly states that no civil court
+shall have the jurisdiction to entertain any suit or proceeding in
+respect of any matter which a DRT or an Appellate Tribunal is
+empowered by or under the Securitisation Act to determine. The
+expression in respect of any matter referred to in <a href="/doc/6431889/" id="a_154">Section 34</a>
+would take in the measures provided under sub-section (4) of
+Section 13 of the Securitisation Act. Consequently, if any
+aggrieved person has got any grievance against any measures
+taken by the borrower under sub-section (4) of <a href="/doc/152603276/" id="a_155">Section 13</a>, the
+remedy open to him is to approach the DRT or the Appellate
+Tribunal and not the civil court. The civil court in such
+circumstances has no jurisdiction to entertain any suit or
+proceedings in respect of those matters which fall under sub-
+section (4) of Section 13 of the Securitisation Act because those
+matters fell within the jurisdiction of the DRT and the Appellate
+Tribunal. Further, <a href="/doc/33076222/" id="a_156">Section 35</a> says, the Securitisation Act
+overrides other laws, if they are inconsistent with the provisions of
+that Act, which takes in Section 9 CPC as well.
+</p>
+
+<p id="p_102">        Noting above pronouncement, we are of considered opinion 
+when the legislature intends legality and validity of sale under the
+provisions of <a href="/doc/152603276/" id="a_157">Section 13</a> of SARFAESI Act has to be brought for
+scrutiny before the Debts Recovery Tribunal, by virtue of <a href="/doc/112742697/" id="a_158">Section 17</a>
+of SARFAESI Act the jurisdiction of the company court cannot be
+inferred to have been conferred rather by necessary implication, the
+same is held to be ousted.   It is true that <a href="/doc/6431889/" id="a_159">Section 34</a> mentioned the
+words Civil Court (not apparently company court), but in our view
+after winding up order is passed by virtue of the provisions of
+<a href="/doc/52229129/" id="a_160">Section 446</a> (2) of the  <a href="/doc/1353758/" id="a_161">Companies Act</a>, the  Company Court 
+exercises jurisdiction of the civil court.   So, essentially, the
+company court becomes civil court.   What is important is not the
+nomenclature of the Court, but power and functions exercised by
+that Court.  In view of discussions above, accepting argument of
+Mr. S.Ravi and rejecting contention of the learned counsel for the
+respondent and Official Liquidator, we hold that the company court
+has no jurisdiction to deal with the issues arising out of action of
+secured creditor under <a href="/doc/152603276/" id="a_162">Section 13</a> of SARFAESI Act. 
+</p>
+<p id="p_103">        But, in this case, the learned trial Judge has not only
+exercised jurisdiction of the company court but also that of writ
+court.   No one can debate now that writ court has jurisdiction
+within its own power as enshrined in Articles 226 &amp; 227 of the
+Constitution of India to entertain any dispute and it cannot be
+taken away by way of simple legislation.
+</p>
+<p id="p_104">        Now, we examine the third question.  We have already
+discussed that to the extent of inconsistency provision of <a href="/doc/52229129/" id="a_163">SARFAESI
+Act</a> will prevail over <a href="/doc/1353758/" id="a_164">Companies Act</a>.  We examine whether there has
+been apparently inconsistent provision for taking action by the
+secured creditor in this Act vis--vis <a href="/doc/1353758/" id="a_165">Companies Act</a>.   It will appear
+from <a href="/doc/152603276/" id="a_166">Section 13</a> (1), as quoted above,  it clearly provides that
+without intervention of the Court or Tribunal action can be taken
+for sale of securities, whereas the provisions of <a href="/doc/826210/" id="a_167">Section 537</a> of
+Companies Act requires leave of Company Court.   We, accordingly, 
+hold this is apparent inconsistency in two competing provisions in
+two different Acts on the same subject.   Similar view is expressed
+by the Division Bench of the Bombay High Court in case of The
+Akola Oil Industries (under liquidation) through <a href="/doc/1472074/" id="a_168">Official
+Liquidator v. State Bank of India</a> (4 supra).   Therefore, the
+provisions of <a href="/doc/52229129/" id="a_169">SARFAESI Act</a> will prevail over the provisions of
+<a href="/doc/826210/" id="a_170">Section 537</a> of the Companies Act to the extent of inconsistency.
+We, accepting contention of Mr. S. Ravi, hold that no leave is
+required under <a href="/doc/826210/" id="a_171">Section 537</a> of the Companies Act, moreover
+jurisdiction of the Company Court is also ousted as discussed
+above.
+</p>
+<p id="p_105">        Next, the question appears to us whether the provisions of
+<a href="/doc/930802/" id="a_172">Section 531</a> &amp; <a href="/doc/856848/" id="a_173">531A</a> of the Companies Act will be applied or not in
+this case.
+</p><p id="p_106">        We have already held to the extent of inconsistency provision
+of the <a href="/doc/1353758/" id="a_174">Companies Act</a> are to be overlooked.  For this, we have to
+examine the provisions of sub-sections (4) &amp; (6) of <a href="/doc/152603276/" id="a_175">Section 13</a> of the
+SARFAESI Act to find element of inconsistency on this issue.  These
+provisions are set out hereunder:
+</p><p id="p_107">13. Enforcement of security interest.
+</p><p id="p_108">(4)     In case the borrower fails to discharge his liability in full
+within the period specified in sub-section (2), the secured
+creditor may take recourse to one or more of the following
+measures to recover his secured debt, namely:-
+</p><p id="p_109">(a) take possession of the secured assets of the borrower
+including the right to transfer by way of lease, assignment
+or sale for realising the secured asset;
+</p><p id="p_110">(b) take over the management of the secured assets of the
+borrower including the right to transfer by way of lease,
+assignment or sale and realise the secured asset;
+Provided that the right to transfer by way of lease,
+assignment or sale shall be exercised only where the
+substantial part of the business of the borrower is held as
+security for the debt:
+</p><p id="p_111">Provided further that where the management of whole of
+the business or part of the business is severable, the
+secured creditor shall take over the management of such
+business of the borrower which is relatable to the security
+for the debt.
+</p><p id="p_112">(c) appoint any person (hereafter referred to as the
+manager), to manage the secured assets the possession of 
+which has been taken over by the secured creditor;
+</p><p id="p_113">(d) require at any time by notice in writing, any person who
+has acquired any of the secured assets from the borrower
+and from whom any money is due or may become due to    
+the borrower, to pay the secured creditor, so much of the
+money as is sufficient to pay the secured debt.
+(emphasis supplied)
+
+(6)     Any transfer of secured asset after taking possession
+thereof or take over of management under sub-section (4), by the
+secured  creditor  or  by  the  manager  on  behalf  of the secured
+
+
+creditors shall vest in the transferee all rights in, or in relation
+to, the secured asset transferred as if the transfer had been
+made by the owner of such secured asset. 
+</p><p id="p_114">(emphasis supplied)
+
+
+      It is clear from sub-section (6) the moment action taken
+under sub-section (4) by the secured creditor or any manager on
+his behalf of the secured creditor for transfer all rights shall vest in
+the transferee in relation to the secured assets.  In other words, if
+action taken under <a href="/doc/152603276/" id="a_176">Section   13</a> (4) is found to be lawful and valid
+in accordance with <a href="/doc/52229129/" id="a_177">SARFAESI Act</a>, no other legal provision can
+invalidate it.    Whereas <a href="/doc/52229129/" id="a_178">Sections 531</a> &amp; <a href="/doc/52229129/" id="a_179">531A</a> provide otherwise if
+any transfer including sale is effected in violation thereof the same
+is invalid and void.   Thus it appears that there has been glaring
+inconsistency naturally, we are constrained to hold that the
+provisions of <a href="/doc/52229129/" id="a_180">Sections 531</a> &amp; <a href="/doc/52229129/" id="a_181">531A</a> have no manner of application
+and the same do not apply in case of valid sale undertaken under
+the <a href="/doc/52229129/" id="a_182">SARFAESI Act</a> and the Rules framed thereunder.  Besides we   
+fail to comprehend how <a href="/doc/52229129/" id="a_183">Section 531A</a> is applicable carefully reading
+the same on fact in this case.   In order to apply this section, three
+factual conditions must be satisfied viz.,  (i) transfer must be by the
+company (ii) it must be voluntary  (iii) such transfer must be within
+one year before presentation of winding up petition.  In this case
+admittedly transfer is not made by company not even on behalf of
+the company, but by secured creditor, appellant herein, by virtue of
+power coupled with right under sub-section (4) of <a href="/doc/152603276/" id="a_184">Section 13</a> of the
+SARFAESI Act.  This could have been decided by the Debts  
+Recovery Tribunal itself since writ court has decided on the
+admitted fact.  Thus the decision of the Honble trial judge while
+applying the aforesaid provisions in the instant sale without
+examining the implications of sub-sections (1), (4) &amp; (6) of <a href="/doc/152603276/" id="a_185">Section
+13</a> of SARFAESI Act at all, is unacceptable legally.  We accordingly
+overrule these findings and decisions in this regard.
+</p>
+<p id="p_115">        Other decisions cited by various learned counsel in our view
+are of no help.  These decisions are rendered on different issues as
+discussed hereunder. 
+</p>
+<p id="p_116">        In the case of <a href="/doc/156094367/" id="a_186">Pravin Gada v. Central Bank of India</a>   the
+Supreme Court accepting earlier decisions of the Supreme Court
+held in paragraph 18 of the report.
+</p>
+<p id="p_117">     A Debts Recovery Tribunal acting under the
+Recovery of Debts Due to Banks and Financial 
+Institutions Act, 1993 would be entitled to order the sale
+and to sell the properties of the debtor, even if a company
+in liquidation, through its Recovery Officer but only after
+notice to the Official Liquidator or the liquidator
+appointed by the Company Court and after hearing him.
+</p>
+<p id="p_118">      In a case where proceedings under the Recovery of
+Debts Due to Banks and Financial Institutions Act, 1993
+or the <a href="/doc/231604/" id="a_187">SFC Act</a> are not set in motion, the creditor
+concerned is to approach the Company Court for 
+appropriate directions regarding the realisation of its
+securities consistent with the relevant provisions of the
+<a href="/doc/1353758/" id="a_188">Companies Act</a> regarding distribution of the assets of the
+company-in-liquidation.
+</p>
+
+<p id="p_119">        In case of <a href="/doc/141898411/" id="a_189">Kotak Mahindra Bank Limited v. Megnostar 
+Telecommunications Private Limited</a> (3 supra) Delhi High Court
+did not deal with applicability of <a href="/doc/930802/" id="a_190">Sections 531</a>, <a href="/doc/856848/" id="a_191">531A</a> and <a href="/doc/826210/" id="a_192">537</a> of
+the Companies Act in view of provisions of <a href="/doc/52229129/" id="a_193">SARFAESI Act</a>, however 
+dwelt   upon  applicability  of  <a href="/doc/955237/" id="a_194">Sections 529</a> and <a href="/doc/1190954/" id="a_195">529A</a> of Companies
+Act.  While doing so it was held amongst others that sale proceeds
+fetched by sale under this Act are subject to the claims, if any,
+under <a href="/doc/955237/" id="a_196">Sections 529</a> and <a href="/doc/1190954/" id="a_197">529A</a> of the Companies Act.  
+</p>
+<p id="p_120">        Punjab and Haryana High Court in case of <a href="/doc/1414378/" id="a_198">Haryana State 
+Industrial and Infrastructure Development Company v.
+Haryana Concast Limited &amp; another</a> (5 supra) while examining 
+legal implication of provision of <a href="/doc/152603276/" id="a_199">Sections 13</a> (4), 9, 35 of <a href="/doc/52229129/" id="a_200">SARFAESI
+Act</a> vis--vis <a href="/doc/1190954/" id="a_201">Section 529A</a> of Companies Act held that there is no
+inconsistency of the provision of <a href="/doc/152603276/" id="a_202">Section 13</a> of SARFAESI Act with
+<a href="/doc/955237/" id="a_203">Sections 529</a> and <a href="/doc/1190954/" id="a_204">529A</a> of the Companies Act, 1956 as by the  
+proviso in sub-section (9) of <a href="/doc/152603276/" id="a_205">Section 13</a> above two sections of the
+<a href="/doc/1353758/" id="a_206">Companies Act</a> are saved. 
+</p>
+<p id="p_121">        In an unreported decision of the learned Single Judge of this
+Court in the matter of M/s. Pioneer Alloy Casting Limited (in
+liquidation) on C.A. No.525 of 2012, no legal ratio is to be found.
+His Lordship following judgment of the Supreme Court and those of
+other High Courts granted relief.
+</p>
+<p id="p_122">        Now, the fourth question is whether the sale can be held
+invalid because of the alleged non-compliance of the mandatory
+provisions of the Rules framed under the <a href="/doc/52229129/" id="a_207">SARFAESI Act</a>. 
+</p>
+<p id="p_123">        The learned trial Judge himself has noted that there is not
+enough material to examine the allegations made by the writ
+petitioners and countered by the appellant.  In spite of noting this
+fact, the learned trial Judge thought that it should be decided and
+so decided.  We are of the view that all materials namely
+advertisement, conditions of sale and other things are not produced
+before us also.  Therefore we do not like to decide this issue
+conclusively nor do we accept such decision of the learned Trial
+Judge in absence of such materials and also for the reasons stated
+hereunder.
+</p>
+<p id="p_124">        The learned trial Judge has not rendered any findings as to
+whether the loan granted to the auction purchaser subsequent to
+the auction being held are correlated to sale of the securities.  In
+other words, whether repayment of the loan is dependent upon
+lawful and valid completion of sale held by the appellant under the
+<a href="/doc/52229129/" id="a_208">SARFAESI Act</a>.  It is the contention of the auction purchaser that
+since sale was not valid nor complete, so also sale certificate issued
+in the context of the provisions of the <a href="/doc/1353758/" id="a_209">Companies Act</a> as well as the
+provisions of the Rules 7, 8 &amp; 9 framed under the <a href="/doc/52229129/" id="a_210">SARFAESI Act</a>
+adjustment of balance consideration amount against loan amount 
+is illegal.  His Lordship with respect without deciding this issue
+granted relief as prayed for to the auction purchaser in the writ
+petition.   Whether the demand of the Bank for repayment of loan
+after adjustment of the sale consideration money is lawful or not,
+whether the same have been linked with the sale and whether the
+sale under the law is complete or not, or whether the auction
+purchaser can back out after bidding and offering to pay price for
+sale by depositing 25% of the same, all these questions are required
+to be decided in great detail.
+</p>
+<p id="p_125">        The learned trial Judge by necessary implication proceeded
+assuming that the loan transaction between the appellant and the
+auction purchaser are having correlation with the completion of
+sale namely handing over possession of the property and payment 
+of balance sale consideration money.  We think that this approach
+in exercise of writ jurisdiction is absolutely unwarranted and the
+writ petitions should not have been entertained at all.  It is not a
+pure question of law on admitted fact.  All the questions and
+controversy are disputed questions of fact and law and could not be
+decided in writ jurisdiction.   Hence we hold that granting relief to
+the auction purchaser as prayed for in the writ petition is not
+sustainable under the law.   Therefore, we set aside the same and
+dismiss the writ petitions leaving all questions open.  It would be
+open for the auction purchaser to approach the Debts Recovery
+Tribunal so also Official Liquidator or any other claimant.
+</p>
+<p id="p_126">        These Appeals are accordingly allowed.  There will be no order
+as to costs.
+</p><p id="p_127">      Consequently, pending miscellaneous petitions, if any, shall
+also stand closed.
+</p><p id="p_128">_______________________    
+Kalyan Jyoti Sengupta, CJ 
+_______________   
+Sanjay Kumar, J 
+Dt.  11.11.2014</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

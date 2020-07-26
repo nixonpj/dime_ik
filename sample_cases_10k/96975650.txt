@@ -1,0 +1,1159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shivanand vs The Branch Manager on 21 February, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/96975650/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1950052/">Divisional Manager National Ins ... vs Laxmawwa on 1 August, 2008</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1633949/">National Insurance Co. Ltd vs Anjana Shyam &amp; Ors on 20 August, 2007</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/96975650/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/96975650/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/96975650/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Shivanand vs The Branch Manager on 21 February, 2018</div><div class="doc_author">Author: B.A.Patil</div>
+
+<pre id="pre_1">                                 1
+
+
+
+
+            IN THE HIGH COURT OF KARNATAKA
+                     DHARWAD BENCH
+
+        DATED THIS THE 21ST DAY OF FEBRUARY 2018
+
+                          BEFORE
+
+           THE HON'BLE MR. JUSTICE B.A. PATIL
+
+                   M.F.A.NO.21253/2012
+                           CW
+                   M.F.A.NO.21254/2012
+                   M.F.A.NO.21242/2012
+               M.F.A. CROB NO. 100065/2014
+               M.F.A. CROB NO. 100066/2014
+
+M.F.A.NO.21253/2012
+BETWEEN:
+THE BRANCH MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+1ST FLOOR, PRABHU BUILDING,
+1732, RAM DEV GALLI, BELGAUM.
+REPRESENTED BY MRS. SAVITA KAMAT,
+AGE: 54 YEARS,
+DEPUTY MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+SUJATA COMPLEX, HUBLI.
+                                             ... APPELLANT
+(BY SRI. S. V. YAJI, ADVOCATE)
+
+AND
+1. SHIVANAND S/O. SIDDAPPA HADIMANI,
+   AGE: 23 YEARS, OCC: AGRICULTURE,
+   R/O. GARJUR, TQ: BAILHONGAL,
+   DIST: BELGAUM.
+
+2. MANJUNATH S/O. RUDRAPPA MAVINAKATTI,
+   AGE: MAJOR, OCC: BUSINESS/OWNER OF
+   TEMPO TRAX NO.KA-24/M-1905,
+   R/O. K.R.C. NAGAR, III CROSS,
+   BAILHONGAL.
+                                  2
+
+
+
+
+3. M. NAGASURESH S/O. M. SHANKARAPPA,
+   AGE: MAJOR,
+   R/O. NO. 293, OPO ROAD,
+   CHIKKABALLAPUR.
+
+4. ROYAL SUNDARAM ALLINACE INSURANCE CO. LTD.,
+   SORRANTO BUILDING, NO. 6, 1ST FLOOR,
+   LATTICE BRIDGE ROAD, YDYAR,
+   CHENNAI - 600 020.
+                                        ... RESPONDENTS
+
+(BY SRI. UMESH AINAPUR, ADVOCATE FOR R1;
+SRI. GEETA K. M @ PAWAR ADV., FOR R2;
+SRI. G. N. RAICHUR, ADV., R4;
+R3 - NOTICE DISPENSED WITH)
+
+      THIS M.F.A. IS FILED UNDER SECTION 173(1) OF THE
+M.V. ACT, 1988, AGAINST THE JUDGMENT AND AWARD DATED
+22-11-2011 PASSED IN M.V.C.NO.588/2010 ON THE FILE OF
+THE SENIOR CIVIL JUDGE AND MEMBER, ADDITIONAL
+M.A.C.T., BAILHONGAL, AWARDING THE COMPENSATION OF
+RS.19,900/- WITH CURRENT AND FUTURE INTEREST AT THE
+RATE OF 6% P.A. TO THE PETITIONER.
+
+M.F.A.NO.21254/2012
+BETWEEN:
+THE BRANCH MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+1ST FLOOR, PRABHU BUILDING,
+1732, RAM DEV GALLI, BELGAUM.
+REPRESENTED BY MRS. SAVITA KAMAT,
+AGE: 54 YEARS,
+DEPUTY MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+SUJATA COMPLEX, HUBLI.
+                                           ... APPELLANT
+(BY SRI. S. V. YAJI, ADVOCATE)
+
+AND
+1. BABU @ BABURAO S/O. IRAPA TALAWAR,
+   AGE: 24 YEARS, OCC: AGRICULTURE/
+   AGENT OF SAMRUDH JEEVAN POLICY,
+                           3
+
+
+
+
+  R/O. GARJUR, TQ: BAILHONGAL,
+  DIST: BELGAUM.
+
+2. MANJUNATH S/O. RUDRAPPA MAVINAKATTI,
+   AGE: MAJOR, OCC: BUSINESS/
+   OWNER OF TEMPO TRAX NO. KA-24/M-1905,
+   R/O. K.R.C. NAGAR, III CROSS,
+   BAILHONGAL.
+
+3. M. NAGASURESH S/O. M. SHANKARAPPA,
+   AGE: MAJOR,
+   R/O. NO. 293, OPO ROAD,
+   CHIKKABALLAPUR.
+
+4. ROYAL SUNDARAM ALLINACE INSURANCE CO. LTD.,
+   SORRANTO BUILDING, NO. 6, 1ST FLOOR,
+   LATTICE BRIDGE ROAD, YDYAR, CHENNAI.
+
+                                        ... RESPONDENTS
+(BY SRI. UMESH AINAPUR, ADVOCATE FOR R1;
+SRI. GEETA K. M @ PAWAR ADV., FOR R2;
+SRI. G. N. RAICHUR, ADV., R4;
+R3 - NOTICE DISPENSED WITH)
+
+      THIS M.F.A. IS FILED UNDER SECTION 173(1) OF THE
+M.V. ACT, 1988, AGAINST THE JUDGMENT AND AWARD DATED
+22-11-2011 PASSED IN M.V.C.NO.589/2010 ON THE FILE OF
+THE SENIOR CIVIL JUDGE AND MEMBER, ADDITIONAL
+M.A.C.T., BAILHONGAL, AWARDING THE COMPENSATION OF
+RS. 1,88,900/- WITH CURRENT AND FUTURE INTEREST AT THE
+RATE OF 6% P.A. TO THE PETITIONER.
+
+M.F.A.NO. 21242/2012
+BETWEEN:
+THE BRANCH MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+1ST FLOOR, PRABHU BUILDING,
+1732, RAM DEV GALLI, BELGAUM.
+REPRESENTED BY MRS. SAVITA KAMAT,
+AGE: 54 YEARS,
+DEPUTY MANAGER,
+NATIONAL INSURANCE CO. LTD.,
+                                 4
+
+
+
+
+SUJATA COMPLEX, HUBLI.
+                                             ... APPELLANT
+(BY SRI.S. V. YAJI, ADVOCATE)
+
+AND
+1. BASAPPA S/O. CHENNAPPA KOTAMBARI,
+   AGE: 54 YEARS,
+   R/O. HOSAMANI CHAWL,
+   TQ: BAILHONGAL, DIST: BELGAUM.
+
+2. KASTURI W/O. BASAPPA KOTAMBAI,
+   AGE: 42 YEARS, OCC: HOUSEWIFE,
+   R/O. HOSAMANI CHAWL,
+   TQ: BAILHONGAL, DIST: BELGAUM.
+
+3. MALLIKARJUNA S/O. BASAPPA KOTAMBARI,
+   AGE: 20 YEARS,
+   R/O. HOSAMANI CHAWL,
+   TQ: BAILHONGAL, DIST: BELGAUM.
+
+4. MANJUNATH S/O. RUDRAPPA MAVINAKATTI,
+   AGE: MAJOR, OCC: BUSINESS/OWNER OF
+   TEMPO TRAX NO.KA-24/M-1905,
+   R/O. K.R.C. NAGAR, III CROSS,
+   BAILHONGAL.
+
+5. M. NAGASURESH S/O. M. SHANKARAPPA
+   AGE: MAJOR,
+   R/O. NO. 293, OPO ROAD,
+   CHIKKABALLAPUR.
+
+6. THE ROYAL SUNDARAM
+   ALLINACE INSURANCE CO. LTD.,
+   SORRANTO BUILDING, NO. 6, 1ST FLOOR,
+   LATTICE BRIDGE ROAD, YDYAR, CHENNAI.
+
+                                          ... RESPONDENTS
+(BY SRI.M.Y. KATAGI, ADVOCATE FOR R6;
+R1 TO R3 - NOTICE SERVED;
+R4 &amp; R5 - NOTICE DISPENSED WITH)
+
+      THIS M.F.A. IS FILED UNDER SECTION 173(1) OF THE
+M.V. ACT, 1988, AGAINST THE JUDGMENT AND AWARD DATED
+22-11-2011 PASSED IN M.V.C.NO.2693/2009 ON THE FILE OF
+                               5
+
+
+
+
+THE SENIOR CIVIL JUDGE AND MEMBER, ADDITIONAL
+M.A.C.T., BAILHONGAL, AWARDING THE COMPENSATION OF
+RS. 4,86,000/- WITH CURRENT AND FUTURE INTEREST AT THE
+RATE OF 6% P.A. TO THE PETITIONERS.
+
+M.F.A.CROB. NO. 100065/2014
+BETWEEN:
+BABU @ BABURAO S/O. IRAPPA TALWAR,
+AGE: 26 YEARS, OCC: AGRICULTURIST/
+AGENT OF SAMRUDH JEEVAN POLICY,
+R/O. GARJUR, TQ: BAILHONGAL,
+DIST: BELGAUM.
+                                       ... CROSS-OBJECTOR
+
+(BY SRI. UMESH C. AINAPUR, ADVOCATE)
+
+AND
+1. THE BRANCH MANAGER,
+   NATIONAL INSURANCE CO. LTD.,
+   1ST FLOOR, PRABHU BUILDING, 1732,
+   RAM DEV GALLI, BELGAUM
+   REP. BY MRS. SAVITA KAMAT,
+   AGE: 58 YEARS,
+   DEPUTY MANAGER,
+   NATIONAL INSURANCE CO. LTD.,
+   SUJATA COMPLEX, HUBLI
+
+2. MANJUNATH S/O. RUDRAPPA MAVINAKATTI,
+   AGE: MAJOR, OCC: BUSINESS/
+   OWNER OF TEMPO TRAX NO. KA 24/M 1905,
+   R/O. K R C NAGAR, III CROSS,
+   BAILHONGAL.
+
+3. M. NAGASURESH S/O. M. SHANKRAPPA,
+   AGE: MAJOR,
+   R/O. NO. 293, OPO ROAD,
+   CHIKKABALLAPUR.
+
+4. THE ROYAL SUNDRAM
+   ALLIANCE INSURANCE CO. LTD,
+   SORRANTO BUILDING, NO. 6,
+   1ST FLOOR, LATTICE BRIDGE ROAD,
+   YDYAR, CHANAI.
+                           6
+
+
+
+
+                                      ... RESPONDENTS
+(BY SRI. S. V. YAJI, ADVOCATE FOR R1;
+SMT. GEETA K.M. @ PAWAR, ADVOCATE FOR R2;
+SRI. G. N. RAICHUR, ADVOCATE FOR R4;
+R3 - NOTICE DISPENSED WITH)
+
+     THIS MFA CROB. IS FILED U/O. 41 RULE 22 OF CPC.,
+AGAINST JUDGMENT AND AWARD DATED 22.11.2011, PASSED
+IN MVC.NO.589/2010 ON THE FILE OF THE SENIOR CIVIL
+JUDGE &amp; ADDITIONAL M.A.C.T., BAILHONGAL, PARTLY
+ALLOWING THE CLAIM PETITION FOR COMPENSATION AND
+SEEKING ENHANCEMENT OF COMPENSATION.
+
+M.F.A.CROB.100066/2014
+BETWEEN:
+SHIVANAND S/O. SIDDAPPA HADIMANI,
+AGE ABOUT 25 YEARS,
+OCC: AGRICULTURIST/AGENT OF
+SAMRUDH JEEVAN POLICY,
+R/O: GARJUR, TQ: BAILHONGAL,
+DIST: BELGAUM.
+                                      ... CROSS-OBJECTOR
+(BY SRI.UMESH C. AINAPUR, ADVOCATE)
+
+AND
+1. THE BRANCH MANAGER
+   NATIONAL INSURANCE CO. LTD.,
+   1ST FLOOR, PRABHU BUILDING,
+   1732, RAMDEV GALLI, BELGAUM,
+   REP. BY MRS. SAVITHA KAMAT,
+   AGE: 58 YEARS,
+   DEPUTY MANAGER,
+   NATIONAL INSURANCE CO.LTD.,
+   SUJATA COMPLEX, HUBLI.
+
+2. MANJUNATH S/O RUDRAPPA MAVINAKATTI,
+   AGE: MAJOR, OCC: BUSINESS/
+   OWNER OF TEMPO TRAX NO. KA-24/M-1905,
+   R/O: K.R.C. NAGAR III CROSS,
+   BAILHONGAL.
+
+3. M NAGASURESH S/O M SHANKRAPPA,
+   AGE: MAJOR,
+                              7
+
+
+
+
+   R/O: NO.293 OPO ROAD, CHIKKABALLAPUR.
+
+4. THE ROYAL SUNDARAM ALLIANCE
+   INSURANCE CO. LTD.,
+   SORANTO BUILDING NO.6,
+   1ST FLOOR, LATTICE BRIDGE ROAD,
+   YDYAR, CHANNAI-600020.
+                                           ... RESPONDENTS
+
+(BY SRI. S. V. YAJI, ADVOCATE FOR R1;
+SMT. GEETA K.M. @ PAWAR, ADVOCATE FOR R2;
+SRI. G. N. RAICHUR, ADVOCATE FOR R4;
+R3 - NOTICE DISPENSED WITH)
+
+     THIS MFA CROB. IS FILED U/O. 41 RULE 22 OF CPC.,
+AGAINST JUDGMENT AND AWARD DATED 22.11.2011, PASSED
+IN MVC.NO. 588/2010 ON THE FILE OF THE SENIOR CIVIL
+JUDGE &amp; ADDITIONAL M.A.C.T., BAILHONGAL, PARTLY
+ALLOWING THE CLAIM PETITION FOR COMPENSATION AND
+SEEKING ENHANCEMENT OF COMPENSATION.
+
+     THESE APPEALS AND CROSS-OBJECTIONS COMING ON
+FOR ORDERS THIS DAY, THE COURT, DELIVERED THE
+FOLLOWING:
+
+                          JUDGMENT
+</pre>
+<p id="p_1">      MFA No.21253/2012, MFA No.21254/2012 and MFA
+
+No.21242/2012      have     been     preferred    by    the
+
+appellant/insurer assailing the judgment and award dated
+
+22.11.2011, passed by the Senior Civil Judge, Asst. Sessions
+
+Judge and Member Additional M.A.C.T., Bailhongal, in MVC
+
+No.588/2010, MVC No.589/2010 and MVC No.2693/2009.
+
+MFA Crob.100065/2014 and MFA Crob.100066/2014 have
+
+been preferred by the cross-objectors/claimants assailing
+<span class="hidden_text" id="span_1">                               8</span>
+
+
+
+
+the judgment and award passed dated 22.11.2011, passed
+
+by the Senior Civil Judge, Asst. Sessions Judge and Member
+
+Additional M.A.C.T., Bailhongal, in MVC No.588/2010,
+
+589/2010. The Tribunal by its judgment and award allowed
+
+the claim petitions in part by fastening the liability on both
+
+the vehicle and the insurers of both the vehicles are directed
+
+to indemnify the claim in the ratio of 80% and 20%.
+
+
+</p><p id="p_2">      2.    I have heard the arguments advanced by Sri. S.
+
+V. Yaji, the learned counsel for the appellant/insurer of
+
+tempo trax and Smt. Geeta K. M. @ Pawar, the learned
+
+counsel for respondent/owner of the tempo trax and Sri.
+
+G.N. Raichur, the learned counsel appearing for the
+
+respondent/insurer of the lorry.
+</p>
+<p id="p_3">
+</p><p id="p_4">      3.    It is the contention of the learned counsel
+
+appearing for the appellant/insurer of tempo trax that the
+
+Tribunal has committed serious error in directing the
+
+appellant/insurer of tempo trax to indemnify the claim by
+
+apportioning the liability to the extent of 80% when the
+
+material records clearly indicates the fact the accident in
+
+question has occurred due to parking of the lorry bearing
+<span class="hidden_text" id="span_2">                                9</span>
+
+
+
+
+No.KA-40/3698 in the middle of the road, without any
+
+indication   and   parking   light.   There   has   been   non-
+
+consideration of material aspects mainly that the FIR and
+
+Charge sheet has been filed against the driver of both the
+
+vehicles but the Tribunal has erroneously fastened the
+
+liability on the appellant/insurer of the tempo trax to the
+
+extent of 80%. He seeks for setting aside the impugned
+
+judgment and award passed by the Tribunal and prays for
+
+fastening the entire liability on the insured and insurer of
+
+the lorry.
+</p>
+<p id="p_5">
+</p><p id="p_6">      4.     Per contra, the learned counsel appearing for the
+
+appellant/insurer of the lorry has argued by justifying the
+
+judgment and award      passed by the Tribunal. He further
+
+contended that the Tribunal has rightly fastened the liability
+
+to the extent of 80% on the insurer of the tempo trax as the
+
+driver of the tempo trax dashed the parked lorry without
+
+taking due care and caution as expected by the prudent
+
+driver and if he could have taken the due care and caution,
+
+the accident could have been avoided. The alleged accident
+
+occurred on his own negligent and not on the negligent act
+<span class="hidden_text" id="span_3">                               10</span>
+
+
+
+
+on the part of the driver of the lorry. The driver of the lorry
+
+had parked the lorry by side of the road. The Tribunal after
+
+going through the records has rightly fastened the liability to
+
+the extent of 80% on the insurer of the tempo trax and to the
+
+extent of 20% on the insurer of the lorry. There is no
+
+infirmity in the order passed by the Tribunal and hence he
+
+prayed for dismissal of all the appeals by confirming the
+
+judgment and award passed by the Tribunal.
+
+
+</p><p id="p_7">      5.    The learned counsel appearing for the cross-
+
+objectors/claimants has also argued by supporting the
+
+judgment and award passed by the Tribunal to the extent of
+
+fastening of the liability and prayed for dismissal of the
+
+appeals preferred by the appellant/insurer. He further
+
+contended that the compensation awarded by the Tribunal is
+
+on the lower side as the monthly income taken by the
+
+Tribunal for assessing the compensation is on the lower side.
+
+In that light he prayed for allowing the cross-objections by
+
+enhancing the compensation awarded by the Tribunal.
+
+
+</p><p id="p_8">      6.    Having heard the learned counsel appearing for
+
+the parties and on perusal of the judgment and award in
+<span class="hidden_text" id="span_4">                              11</span>
+
+
+
+
+question it would indicate that road on which the accident in
+
+question occurred is running East-West.        It is a State
+
+Highway from Belgaum to Bagalkot and also runs vice-versa.
+
+Tempo trax bearing registration No.KA-24/M-1905 was
+
+proceeding from Belgaum towards Bagalkot i.e., East to West
+
+and lorry bearing registration No.KA 40/3698 had been
+
+parked on the edge of the road facing West. Accident in
+
+question occurred around 8 p.m. Undisputedly, there was
+
+no light in the said area and adjacent to the asphalted road
+
+on either side of the road, there is 5 ft kaccha road. The
+
+driver of the lorry had parked the said lorry on the center of
+
+the road and if the same had been parked on the kaccha
+
+road, accident could have been avoided. Likewise, the driver
+
+of lorry after having parked the said vehicle on the center of
+
+the road ought to have switched on the parking lights to
+
+avoid the accident in question. Driver of the said lorry had
+
+not taken any care and caution to ensure that the vehicles
+
+coming from the hind side would notice about said lorry
+
+having been parked on the middle of the road either by
+
+putting up a barricade by using stones as is done in such
+<span class="hidden_text" id="span_5">                               12</span>
+
+
+
+
+circumstances by the drivers to avoid accident. This would
+
+only indicate that driver of the lorry has also contributed to
+
+the alleged accident by parking his vehicle on the middle of
+
+the road.   The driver of tempo trax while proceeding from
+
+East to West also should have visualized about the vehicles
+
+having been parked by the side of road and he is expected to
+
+be vigilant, careful and cautious to avoid any such possibility
+
+and it is expected of a prudent driver to anticipate such
+
+incidents. On account of the speed in which he was
+
+proceeding, obviously, he could not avoid the accident
+
+particularly when the lorry had been parked on the middle of
+
+the road.   As such, he has rammed his tempo trax to the
+
+hind side of the lorry resulting in all the inmates of tempo
+
+trax namely the passengers sustaining grievous injuries and
+
+also resulting in death of two persons.     The Investigating
+
+Authorities having been taken investigation based on the
+
+complaint has proceeded to register the complaint against
+
+drivers of both the vehicles. On conclusion of investigation,
+
+a charge-sheet has also been filed against drivers of both the
+
+vehicles. Despite such evidence being available on record,
+<span class="hidden_text" id="span_6">                               13</span>
+
+
+
+
+Tribunal has held that there are no independent witnesses to
+
+prove the nature of accident. On the other hand, inmates of
+
+the tempo trax who came to be examined as PWs-2 to PWs-
+
+13 have in their cross-examination stated that lorry was
+
+parked without indicators, without keeping stones or wooden
+
+pieces and it was parked on the middle of the road.        The
+
+suggestion made to these witnesses in the cross-examination
+
+that the accident was on account of the driver of the tempo
+
+trax having not avoided the oncoming vehicle has been
+
+denied by them. In view of the fact that eye witnesses to the
+
+accident who are none other than the inmates of the tempo
+
+trax having categorically stated that on account of lorry
+
+having been parked in the middle of the road, accident in
+
+question had occurred and also in view of the fact that the
+
+jurisdictional police having filed charge-sheet against drivers
+
+of both the vehicles, negligence attributable to the drivers of
+
+both the vehicles is to be apportioned in the ratio of 50:50
+
+and not 80:20 between tempo trax driver and lorry driver as
+
+opined by the Tribunal.
+</p><span class="hidden_text" id="span_7">                               14</span><p id="p_9">
+
+
+
+
+</p><p id="p_10">      7.      At this juncture the learned counsel for the
+
+appellant/insurer of the tempo trax brought to my notice
+
+that in the judgment passed by this Court in MFA
+
+No.21243/2012 to 21252/2012, arising out of the same
+
+accident, therein this Court has already held that the drivers
+
+of both the vehicles have contributed to the alleged accident
+
+in the ratio of 50:50. By going through the said judgment
+
+and award, it is clear that this Court has apportioned the
+
+liability on both the insurers in the ratio of 50:50 . In that
+
+light, the contention taken up by the learned counsel for the
+
+appellant/insurer of tempo trax appears to be having force in
+
+law and the same is liable to be accepted. In that light, the
+
+apportionment is fixed on both the vehicles on the ratio of
+
+50:50 each.
+</p>
+<p id="p_11">
+</p><p id="p_12">      8.      It is the further contention of the learned
+
+counsel for the appellant/insurer of the tempo trax that his
+
+liability is only to the extent of 11 persons in the tempo trax
+
+as the said policy is an Act policy and extra premium has
+
+been collected to cover the risk of 11 persons to the extent of
+
+Rs.1,00,000/- per passenger. It is well settled principles of
+<span class="hidden_text" id="span_8">                                  15</span>
+
+
+
+
+law laid down by the Hon'ble Apex Court in the case of
+
+<a href="/doc/1633949/" id="a_1">National Insurance Co. Ltd v. Anjana Shyam and others</a>,
+
+reported in (2007) 7 Supreme Court Cases 445 in para No.
+
+22 and 24, which is observed as under;
+</p>
+<p id="p_13">
+</p><blockquote id="blockquote_1">     22. Then arises the question, how to determine the
+     compensation      payable    or how        to    quantify     the
+     compensation      since     there    is     no        means    of
+     ascertaining who out of the overloaded passengers
+     constitute the passengers covered by the insurance
+     policy as permitted to be carried by the permit itself.
+     As this Court has indicated, the purpose of the Act is
+     to bring benefit to the third parties who are either
+     injured or dead in an accident. It serves a social
+     purpose. Keeping that in mind, we think that the
+     practical and proper course would be to hold that the
+     insurance company, in such a case, would be bound
+     to cover the higher of the various awards and will be
+     compelled to deposit the higher of the amounts of
+     compensation awarded to the extent of the number
+     of passengers covered by the insurance policy.</blockquote><p id="p_14">
+
+
+</p><p id="p_15">     23. Illustratively, we may put it like this. In the case
+     on   hand,   42    passengers       were        the    permitted
+     passengers and they are the ones who have been
+     insured by the insurance company. 90 persons have
+     either died or got injured in the accident. Awards
+     have been passed for varied sums. The Tribunal
+<span class="hidden_text" id="span_9">                          16</span>
+
+
+
+
+should take into account the higher of the 42 awards
+made, add them up and direct the insurance
+company to deposit that lump sum. Thus, the
+liability of the insurance company would be to pay
+the compensation awarded to 42 out of the 90
+passengers. It is to ensure that the maximum benefit
+is derived by the insurance taken for the passengers
+of the vehicle, that we hold that the 42 awards to be
+satisfied by the insurance company would be the 42
+awards in the descending order starting from the
+highest of the awards. In other words, the higher of
+the 42 awards will be taken into account and it
+would be the sum total of those higher 42 awards
+that would be the amount that the insurance
+company would be liable to deposit. It will be for the
+Tribunal thereafter to direct distribution of the
+money so deposited by the insurance company
+proportionately to all the claimants, here all the 90,
+and leave all the claimants to recover the balance
+from the owner of the vehicle. In such cases, it will
+be necessary for the Tribunal, even at the initial
+stage, to make appropriate orders to ensure that the
+amount could be recovered from the owner by
+ordering attachment or by passing other restrictive
+orders against the owner so as to ensure the
+satisfaction in full of the awards that may be passed
+ultimately.
+</p>
+<p id="p_16">
+</p><p id="p_17">24. In these cases, we find that this Court has not
+issued notices to the claimants. We are therefore not
+<span class="hidden_text" id="span_10">                                  17</span>
+
+
+
+
+     in a position to vary the decision of the High Court as
+     regards the claimants. But, we have clarified the law
+     on the question and we grant the insurance company
+     a decree to recover the excess amount that it has
+     deposited, from the owner, who has been issued
+     notice    and   who   has   contested    these   appeals.
+     Obviously, the principle indicated by us here will
+     have to be applied by the Tribunal in the case from
+     which the appeal against the interim award has been
+     filed by the insurance company.
+</p>
+<p id="p_18">     9.       Further, the Hon'ble Apex Court in the case of
+
+<a href="/doc/1950052/" id="a_2">Divisional     Manager,     National       Insurance       Company
+
+Limited, Hubli v. Smt. Laxmawwa and others</a>, reported in
+
+2009 (1) Kar. L. J. 625 (DB) has observed as under;
+
+</p><blockquote id="blockquote_2">     MOTOR VEHICLES ACT, 1988, Sections 166 and 149 -
+     Motor accident - Injury - Compensation - Permit liability -
+     Liability of insurer when owner committed breach of
+     contract - Injured claim compensation - Tribunal allowed
+     claim petition in part - Insurer appealed - Argued that
+     vehicle involved was a Maxi Cab the capacity of which was
+     12 + 1 and policy of insurance was issued covering risk of
+     only 12 passengers plus driver - Also alleged that vehicle
+     was overloaded with 35 passengers - Hence owner
+     committed breach of contract and as such insurer not
+     liable contended liability of insurer cannot be enlarged -
+     Held - even if vehicle overloaded insurer cannot avoid
+     liability - But liability is limited to the number of
+     passengers for whom insurance policy is issued - Cannot
+<span class="hidden_text" id="span_11">                                    18</span>
+
+
+
+
+      also claim from owner as the Insurance Company not
+      satisfying the awards of more than twelve persons where
+      risk covered by policy - Tribunal is right in decreeing part.</blockquote><p id="p_19">
+
+
+</p><p id="p_20">      10.    It is a well settled preposition of law that if the
+
+insurance     policy    covers     only     permitted      number     of
+
+passengers, in such a case, insurer's liability held limited by
+
+the insurance taken out for the number of permitted
+
+passengers. It does not extend to the amounts decreed in
+
+respect of other passengers but harmonious construction of
+
+the provision and law laid down by the Apex Court. Therein
+
+the Hon'ble Apex Court has observed that the proper course
+
+for quantification of the compensation payable by the
+
+insurer, in a case, where the insured passengers and other
+
+passengers could not be identified, insurance company is
+
+bound to cover and accordingly deposit higher of the
+
+amounts of the compensation awarded and the remaining
+
+portion of the amount also has to be paid by the insurer.
+
+Then the lowest of the amount has to be recovered from the
+
+owner of the insured vehicle and that is the settled principle
+
+of law. Accordingly the insurer is hereby directed to follow
+<span class="hidden_text" id="span_12">                               19</span>
+
+
+
+
+the ratio laid down in the cases quoted supra and deposit
+
+the amount accordingly in terms of the policy condition.
+
+
+</p><p id="p_21">      11.   As could be seen from the judgment and award
+
+passed by the Tribunal in MVC No.588/2010 therein, the
+
+claimant has suffered injury to left upper lip and he has lost
+
+three upper teeth and injury to his chest and he was also
+
+inpatient for two days, it is the contention of the learned
+
+counsel for the appellant that the claimant has lost three
+
+upper teeth.   The Tribunal has not considered the loss of
+
+marriage prospects as he was not married and the Tribunal
+
+has also not taken the income, which was prevailing during
+
+the said period. In order to substantiate the said fact that he
+
+has suffered the injuries, he has produced the wound
+
+certificate as per Ex.P145 and disability certificate as per
+
+Ex.P149.
+</p>
+<p id="p_22">
+</p><p id="p_23">      12.   It is the contention of the petitioner that as on
+
+the date of accident, he was agriculturist and LIC agent. But
+
+in order to substantiate the said fact, he has not produced
+
+any documents. But the Tribunal       by taking the notional
+
+income at Rs.3,500/- and by relying upon the evidence of
+<span class="hidden_text" id="span_13">                               20</span>
+
+
+
+
+PW17 the Doctor, has awarded the compensation as
+
+mentioned below:
+</p>
+<pre id="pre_2"> 1    Pain and suffering                                  7,000/-
+ 2    Medicine and hospital charges                       5,400/-
+ 3    Nourishment charges                                   500/-
+ 4    Attendant and conveyance charges                    1,500/-
+ 5    Loss of income during t5reatment                    3,500/-
+      period
+ 6    Loss   of    amenities   and   future               2,000/-
+      unhappiness
+                                  Total Rs.              19,900/-
+
+</pre><p id="p_24">      13.     Though under the normal circumstances, the
+
+compensation awarded by the Tribunal appears to be
+
+justifiable, but at the time of taking the notional income the
+
+Tribunal ought to have kept into view the year of accident
+
+and   wages    prevailing   during   that   particular   period.
+
+Admittedly, the accident is of the year 2009 and during that
+
+particular period the notional income at Rs.5,000/- is the
+
+yardstick, which even used to be adopted in the settlement
+
+of cases before Lok Adalath. If that were to be adopted and
+
+the injuries if they are considered with reference to the
+
+avocation and there is no disability, as such, the Tribunal
+
+has rightly held that the said loss of teeth and other injuries
+
+is not going to come in the way of loss of future earning. But
+<span class="hidden_text" id="span_14">                                21</span>
+
+
+
+
+the Tribunal has awarded the compensation on the other
+
+heads is on the lower side.         In that light, the appellant-
+
+claimant is entitled to some compensation.        In the light of
+
+the injuries suffered and loss of teeth is going to affect the
+
+future marriage prospects, in that light, the appellant-
+
+claimant is entitled to an amount of Rs.30,000/- towards
+
+pain and suffering, an amount of Rs.5,400/- towards
+
+medical expenses, an amount of Rs. 6,000/- towards
+
+attendant charges, conveyance, diet, nourishment and other
+
+incidental charges.     Loss of income during laid off period
+
+Rs.10,000/- loss of amenities and discomfort Rs.30,000 and
+
+loss   of    marriage   prospectus    Rs.50,000/-.   In   all   the
+
+appellant-claimant is entitled to a total compensation of
+
+Rs.1,31,400/- after deducting the compensation awarded by
+
+the Tribunal to the extent of Rs.19,900/- the appellant-
+
+claimant is entitled to an additional compensation of
+
+Rs.1,11,500/- with interest @ 6%.
+</p>
+<p id="p_25">
+</p><p id="p_26">       14.    In so far as, the judgment and award in MVC
+
+No.589/2010 is concerned, therein, the appellant-claimant
+
+has suffered fracture of right hip joint, fracture of both nasal
+<span class="hidden_text" id="span_15">                               22</span>
+
+
+
+
+bones, fracture of left orbit, fracture of maxillary bone,
+
+fracture of zygomatic arch, injury to right eyebrow, upper lip
+
+and other injuries. In order to substantiate the said fact, he
+
+has also produced the wound certificate as per Ex.P173. He
+
+has also produced the disability certificate and has got
+
+examined the Doctor as PW14. he has deposed that as per
+
+Ex.P183, the claimant has suffered a disability to the extent
+
+of 20%, but he is not a treated Doctor. In that light, if the
+
+income is taken at Rs.5,000/- and if the disability is taken at
+
+5%, then under such circumstances, it is going to meet the
+
+ends of justice. But, as could be seen from the judgment and
+
+award p[assed by the Tribunal, the compensation under the
+
+head of pain and suffering, loss of amenities and discomfort,
+
+loss of income during laid up period are all on the higher
+
+side.   In that light, if an amount of Rs.50,000/- awarded
+
+globally by keeping in view the injuries and other things,
+
+then it is going to meet the ends of justice.    In that light,
+
+globally an amount of Rs.50,000/- has been awarded,        the
+
+remaining compensation which has been awarded by the
+
+Tribunal is kept intact. Globally an amount of Rs.50,000/-
+<span class="hidden_text" id="span_16">                                23</span>
+
+
+
+
+has been awarded in addition to Rs.1,88,900/- as awarded
+
+by the Tribunal.
+</p>
+<p id="p_27">
+</p><p id="p_28">      15.    MFA No.21253/2012, MFA No.21254/2012 and
+
+MFA No.21242/2012 and MFA Crob.100065/2014 and MFA
+
+Crob.100066/2014 are allowed in part.
+</p>
+<p id="p_29">
+</p><p id="p_30">      16.    The amount in deposit made before this Court
+
+shall be transmitted to the jurisdictional Tribunal forthwith.
+
+The insurer is also directed to deposit remaining amount
+
+with up to date interest within a period of six weeks from the
+
+date of receipt of copy of this order.
+</p>
+<p id="p_31">
+</p><p id="p_32">      17.    Registry   is   directed    to   draw   the   award
+
+accordingly and send back the records forthwith.
+
+
+
+</p><p id="p_33">                                               Sd/-
+</p><p id="p_34">                                              JUDGE
+
+Yan/Mns
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

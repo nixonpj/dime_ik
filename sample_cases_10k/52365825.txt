@@ -1,0 +1,276 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dr.C.S.Rex Sargunam vs The Tamil Nadu Medical Council on 5 July, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/52365825/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/52365825/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/52365825/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/52365825/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Dr.C.S.Rex Sargunam vs The Tamil Nadu Medical Council on 5 July, 2019</div><pre id="pre_1">                                                            1
+
+                                   IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                   DATED 05.07.2019
+
+                                                         CORAM
+
+                                THE HONOURABLE Mr.JUSTICE K.KALYANASUNDARAM
+
+                                                W.P.No.24013 of 2007
+                                                and M.P.No.1 of 2007
+
+
+
+
+                      Dr.C.S.Rex Sargunam                                              ...Petitioner
+
+
+                                                           Vs
+
+                      1. The Tamil Nadu Medical Council,
+                         Rep. by its President / Registrar,
+                         I Floor, D Block,
+                         Bharathiar Complex,
+                         Jawaharlal Nehru Salai (100 Feet Road),
+                         Vadapalani, Chennai 600 026.
+                      2. The Returning Officer (Elections),
+                         The Tamil Nadu Medical Council,
+                         I Floor, D Block,
+                         Bharathiar Complex,
+                         Jawaharlal Nehru Salai (100 Feet Road),
+                         Vadapalani,
+                         Chennai 600 026.
+                      3. Dr. Prakasam Kuppanna Gounder
+                      4. Dr. Balasubramaniam Muthiah
+                      5. Dr. Balasubramanian Pattanam Muthu
+                      6. Kanagasabapathy Sundaravelu
+                      7. Dr.Ashraf Meera Sahib
+                      8. D.Sadagopan Thambayya
+                      9. Dr. Vijayakumar Kalikutty Nadar                             ..Respondents
+
+
+
+                      Prayer:- The Writ Petition is filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of
+                      India, seeking for a Writ of Declaration to declare the election held to the 7
+                      members of the Tamilnadu Medical Council on 18.06.2007 elected by the
+http://www.judis.nic.in
+                                                            2
+
+                      Registered Medical Practitioners from amongst themselves as contemplated
+                      by Sec.5(1) of the Act conducted and declared by the second respondent on
+                      20.06.2007 as null and void.
+
+
+
+
+                                For Petitioner       : Mr.S.Ayyathurai
+                                For Respondents      : No Appearance, for RR1 and 5
+                                                       Mrs.T.P.Kuil Mozhli, for R2
+                                                       M/s.Bala &amp; Daisy, for RR3, 4, 6 to 9
+
+
+
+
+                                                          ORDER
+</pre>
+
+<p id="p_1">                                The learned counsel for the petitioner submitted that the prayer
+
+                      sought for in this writ petition has become infructuous and he has also made
+
+                      an endorsement to that effect.
+</p>
+
+
+
+<p id="p_2">                                2. In the light of the above submission and the endorsement
+
+                      made by the learned counsel for the petitioner, this writ petition is
+
+                      dismissed as having become infructuous. No costs. Consequently, connected
+
+                      miscellaneous petition is closed.</p><pre id="pre_2">
+
+
+
+
+                                                                                       05.07.2019
+
+                      Index    : Yes/No
+                      Internet : Yes/No
+</pre><p id="p_3">                      Speaking/ Non Speaking Order
+                      pvs
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                           3</span>
+
+                      To
+</p><p id="p_4">                      1. President / Registrar,
+                         The Tamil Nadu Medical Council,
+                         (I Floor D Block),
+                         Bharathiar Complex,
+                         Jawaharlal Nehru Salai (100 Feet Road),
+                         Vadapalani, Chennai 600 026.
+</p><p id="p_5">                      2. The Returning Officer (Elections),
+                         The Tamil Nadu Medical Council,
+                         I Floor D Block
+                         Bharathiar Complex,
+                         Jawaharlal Nehru Salai (100 Feet Road),
+                         Vadapalani,
+                         Chennai 600 026.
+</p>
+
+
+
+<p id="p_6">http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                          4</span>
+
+                              K.KALYANASUNDARAM.J.
+</p>
+<p id="p_7">                                                pvs
+
+
+
+
+                               W.P.No.24013 of 2007
+
+
+
+
+                                        05.07.2019
+
+
+
+
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

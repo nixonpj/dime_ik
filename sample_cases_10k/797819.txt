@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Senthil vs State Rep. By on 24 November, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/797819/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/897478/">Niranjan Panja vs State Of West Bengal on 14 May, 2010</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/683472/">Ramreddy Rajeshkhanna Reddy &amp; Anr vs State Of Andhra Pradesh on 24 March, 2006</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1789800/">State Of U.P vs Satish on 8 February, 2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/797819/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/797819/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/797819/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=last%20seen">last seen</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=last%20seen%20theory">last seen theory</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=circumstantial%20evidence">circumstantial evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=extra%20judicial%20confession">extra judicial confession</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=judicial%20confession">judicial confession</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=AT%20ANY%20POINT%20OF%20TIME">AT ANY POINT OF TIME</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=seen%20last%20with%20the%20deceased%20%20">seen last with the deceased  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=time%20of%20death">time of death</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=last%20seen%20alive">last seen alive</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20Material%20objects"> Material objects</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=inquest%20report">inquest report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forensic">forensic</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Senthil vs State Rep. By on 24 November, 2010</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED : 24-11-2010
+
+
+CORAM
+
+THE HONOURABLE MR.JUSTICE M.CHOCKALINGAM
+AND
+THE HONOURABLE MR.JUSTICE C.S.KARNAN
+
+
+CRL.A.No.607 of 2010
+
+
+Senthil							.. Appellant 
+
+vs
+
+State rep. By
+Inspector of Police
+Pallikaranai Police Station
+(Cr.No.784/2006)					.. Respondent 
+
+
+	Criminal appeal preferred under Sec.374 of the Code of Criminal Procedure against the judgment of the Principal Sessions Judge, Kancheepuram District made in S.C.No.207/07 dated 24.8.2010.
+
+		For Appellant		:  Mr.K.V.Sridharan
+		For Respondent		:  Mr.V.R.Balasubramanian
+					   Additional Public Prosecutor
+
+JUDGMENT
+</pre>
+<p id="p_1">(Judgment of the Court was delivered by M.CHOCKALINGAM, J.)
+
+	This appeal challenges a judgment of the Principal Sessions Division, made in S.C.No.207/2007 whereby the sole accused/appellant stood charged under Sec.302 of <a href="/doc/1569253/" id="a_1">IPC</a>, tried, found guilty of murder and awarded life imprisonment along with a fine of Rs.1000/- and default sentence.
+</p><p id="p_2">	2.Short facts necessary for the disposal of this appeal can be stated as follows:
+</p><p id="p_3">	(a) P.W.1 is the wife of the deceased Anandan.  P.W.3 is the brother of P.W.1.  P.W.1, her husband and P.Ws.2 to 4 were all residents of the same village.  P.W.1, her husband and the accused/appellant were all working under P.W.5, a building contractor.  The deceased used to often quarrel with his wife since he suspected that she had illicit intimacy with the accused.  On one occasion, the deceased slapped the accused in front of others. On another occasion, the deceased quarreled with the accused and P.W.1.  P.W.1 and the deceased were residing as tenants in the house belonging to P.W.2.
+</p><p id="p_4">	(b) On 15.7.2006, when P.Ws.1 and 2, the deceased and the accused were returning after doing their masonry work at Taramani, and waiting for the bus, the accused called the deceased to consume liquor.  P.W.1 objected to the same.  Despite the objections, the deceased joined the company of the accused and went to consume liquor.  After the deceased returned to his house, some time later the accused came there and called him to consume liquor saying that the liquor already taken, was not enough.  P.W.1 cautioned him. But, without hearing her words, the deceased went along with the accused.  P.Ws.4 and 5 saw both of them near the wine shop at about 9.00 P.M.  At about 10.00 P.M., P.W.5 saw the accused alone coming.  He questioned him about the deceased, and the accused replied that he has murdered him and has orally confessed the offence. 
+</p><p id="p_5">	(c) Since the husband did not return home, P.W.1 went in search of her husband till morning, when she was informed by a villager that the dead body of her husband was found with stab injuries at the 16th Street of Vallal Pari Nagar.  P.Ws.1 and 2 rushed to the spot and found the dead body. Then P.W.1 proceeded to the respondent police station and gave a complaint at about 7.45 A.M. on 16.7.2006, to P.W.12, the Inspector of Police of that Circle.  The said complaint is marked as Ex.P1, on the strength of which a case was registered in Crime No.784/2006 under Sec.302 of <a href="/doc/1569253/" id="a_2">IPC</a>.  The Printed FIR, Ex.P10, was despatched to the Court. 
+</p><p id="p_6">	(d) P.W.12 took up investigation, proceeded to the spot, made an inspection and prepared an observation mahazar, Ex.P2, and also a rough sketch, Ex.P11, in the presence of P.W.6 and another.  Then the finger print expert and sniffer dog squad were brought to the scene of occurrence.  M.O.1, bloodstained earth, M.O.2, sample earth, and M.O.3, broken rum bottle, and M.O.4 series, pieces of rum bottle, were recovered under a cover of mahazar.  Then the inquest was conducted by him on the dead body of Anandan in the presence of witnesses and panchayatdars, and he prepared an inquest report, which is marked as Ex.P12. P.W.10, the Photographer, was called, and he took the photographs.  The photographs and its negatives were marked as M.O.10 and 11 series respectively. Then the dead body was sent to the Government Hospital for the purpose of autopsy along with a requisition.
+</p><p id="p_7">	(e) The dead body was subjected to postmortem by one Dr.K.Mathiharan, the Assistant Professor, Department of Forensic Medicine, Government Royapettah Hospital, on 17.7.2006 at 10.15 A.M., and since during the relevant time, the place where he was actually employed, was not actually known, P.W.11, the Doctor, was examined who knew his signature, and through P.W.11, the postmortem certificate was marked as Ex.P9.  
+</p><p id="p_8">	(f) The Investigator further examined all the witnesses and recorded their statements.  Pending investigation, the accused was arrested on 16.7.2006. The confessional statement voluntarily given by him, was recorded by the Investigator in the presence of P.W.7 and another.  Pursuant to the same, M.O.5, bloodstained dhothi, M.O.6, full sleeve shirt, and M.O.7, broken bottle neck piece, were recovered under a cover of mahazar, Ex.P6.  Thereafter, the accused took the police party and produced M.O.9, full sleeve shirt, and M.O.10, bloodstained lungi, which were recovered under a cover of mahazar, Ex.P7.  Then he was sent for judicial remand.  All the material objects were subjected to analysis, which resulted in Ex.P8, the serologist's report, and Ex.P19, the biological report. The finger print expert's report, Ex.P19, was also received. On completion of investigation, the Investigator filed the final report.
+</p><p id="p_9">	3.The case was committed to Court of Session, and necessary charge was framed.  In order to substantiate the charge, the prosecution examined 12 witnesses and also relied on 19 exhibits and 11 material objects. On completion of the evidence on the side of the prosecution, the accused was questioned under Sec.313 of <a href="/doc/445276/" id="a_3">Cr.P.C</a>. as to the incriminating circumstances found in the evidence of the prosecution witnesses which he flatly denied as false.  No defence witness was examined.  The trial Court heard the arguments advanced on either side, and took the view that the prosecution has proved the case beyond reasonable doubt and hence found him guilty as per the charge of murder and awarded the above punishment.  Hence this appeal at the instance of the appellant.
+</p><p id="p_10">	4.Advancing arguments on behalf of the appellant, the learned Counsel Mr.K.V.Sridharan would submit that the prosecution, in the instant case, had no direct evidence to offer; that it relied upon the circumstantial evidence; but the prosecution has miserably failed to prove the case as required by law; that insofar as the motive attributed to the accused to commit the crime, the case of the prosecution was that the deceased suspected that his wife, P.W.1, had illicit intimacy with the accused/appellant, and in the past, there were quarrels between them, and number of times, they had quarrel, and on occasions, the deceased not only slapped his wife, P.W.1, but also the accused, and the accused has informed P.W.1 that if he continued to do so, he would finish him off; but, this entire motive part as spoken to by P.W.1 was not corroborated by any other witnesses; that though, according to the prosecution, P.W.2 is a neighbour and P.W.5 is the contractor under whom all of them were working, no one has whispered about the motive attributed to the accused.
+</p><p id="p_11">	5.The learned Counsel would further submit that it is highly doubtful whether Ex.P1, the report, could have come into existence as put forth by the prosecution; that according to P.W.1, she went to the police station and gave a report as found in Ex.P1; but, at the time of cross-examination, she has categorically stated that the police officials came to the spot, and she gave the information orally which was reduced into writing, and that is Ex.P1; that P.W.2 has also stated that after the police personnel came to the spot, the information was passed on; that in such circumstances, it is highly doubtful whether Ex.P1 could have come into existence as put forth by the prosecution; that as far as the last seen theory is concerned, according to P.W.1, on the date of occurrence at about 8.00 P.M., when she was along with her husband in the house, the accused came over there and asked the deceased to accompany him so as to take further liquor to which P.W.1 raised objection, and despite the same, the deceased accompanied the accused; but he did not return throughout that night; that it was the evidence of P.Ws.4 and 5 that actually they met both the accused and the deceased nearby the wine shop at about 9.00 P.M., and P.W.5 has stated that he has seen only the accused at about 10.00 P.M.  
+</p><p id="p_12">	6.Insofar as the last seen theory, the learned Counsel would submit that the evidence of P.W.1 was to the effect that they left the house at about 8.00 P.M., but the dead body was found in the next morning, and thus there was an interval in between these points of time; that when there is a long interval between these points of time, the last seen theory cannot be believed since the case rested upon circumstantial evidence, and the prosecution must rule out the possibility that the crime could not have been committed by anybody else.  
+</p><p id="p_13">	7.Added further the learned Counsel that as far as the evidence of P.Ws.4 and 5 was concerned, according to both of them, they met the deceased and the accused together at about 9.00 P.M.; but they have not whispered to anybody; that even in the next morning also, when the dead body was found, they have not informed to anybody; that even in Ex.P1, no mention is made about any information passed on by P.W.4 or P.W.5 to P.W.1 in that regard; that apart from the above, the statements of P.Ws.1, 2, 4 and 5 have reached the Court only on 25.7.2006; and that all would clearly be indicative of the fact that the last seen theory was nothing but an introduced one.  
+</p><p id="p_14">	8.The learned Counsel would further add that if the last seen theory has got to be accepted in a given case like this, the time of death could be fixed; but, in the case on hand, the postmortem Doctor was not examined; that the reason adduced by the prosecution for the non-examination of the postmortem Doctor before the trial Court, was that the place where he was working, was not known, and under the circumstances, P.W.11, the Doctor, was examined; that it cannot be a proper reason; that P.W.11 has categorically deposed that he knew the signature of the postmortem Doctor and through him, the postmortem certificate was marked; that a perusal of the postmortem certificate did not fix the time of death; that in a given case like this, when the prosecution rested its case on the last seen theory, the time of death is a material factor; and that in the absence of the time of death brought to the notice of the Court by acceptable evidence, the last seen theory became a weak evidence which should not be relied upon.  The learned Counsel in support of his contention relied on a decision of the Apex Court reported in (2010) 3 SUPREME COURT CASES (CRI) 177 (<a href="/doc/897478/" id="a_4">NIRANJAN PANJA V. STATE OF WEST BENGAL</a>).  
+</p><p id="p_15">	9.The learned Counsel commenting upon the evidence of P.W.5 in respect of the extra-judicial confession, would submit that according to P.W.5, at about 10.00 P.M., he found the accused alone coming back, and he questioned him about the deceased, and at that time, the accused admitted that he has committed the murder of the deceased; that if to be so, one would naturally expect him to immediately inform to P.W.1 or to anybody, but he has kept silent; that even the statement of this witness has reached the Court only on 25.7.2006, and thus it would be quite clear that this extra-judicial confession alleged to have been made by the accused to P.W.5, cannot but be false.  
+</p><p id="p_16">	10.Added further the learned Counsel that insofar as the arrest and recovery of the material objects are concerned, the Investigator would claim that he was arrested at about 10.30 P.M. On 16.7.2006, in the presence of P.W.7 and another, when M.Os.5 to 7, dhothi, shirt and broken bottle piece respectively, were actually recovered from him, and thereafter, he also produced M.Os.8 and 9, both lunghi and shirt of the accused, and they were all recovered under a cover of mahazar; that it is true that the blood group in both these shirts are found to be tallying as per the forensic report, but the recovery has not been properly proved; that according to P.W.7, the broken bottle, which according to the prosecution, was the weapon of crime, was actually recovered from a vast ground; but, according to the Investigator, it was recovered from a bush abutting the road, and thus it is highly doubtful; that apart from that, the colour of the shirt which was recovered, was found to be different as per the recovery mahazar; that according to the prosecution, the occurrence has taken place between 8.00 P.M. and 11.00 P.M.; that according to P.W.1, when she went to the place of occurrence and found the dead body at about 7.00 A.M. the next day, the blood was oozing, and she did not have cloths to clean the same; that if the evidence of P.W.1 that the blood was actually oozing at that time is to be taken as true, then the time of death should have been just prior to 7.00 A.M. when she saw the dead body, and thus the prosecution has not proved the case by placing all the necessary circumstances which would constitute a chain without a snap and be pointing to the hypothesis that except the accused, no one could have committed the offence; that under the circumstances, he is entitled for acquittal in the hands of this Court, but the trial Judge has taken an erroneous view and found him guilty, and hence the judgment of the trial Court has got to be set aside.
+</p><p id="p_17">	11.The Court heard the learned Additional Public Prosecutor on all the above contentions and paid its anxious consideration on the submissions made.
+</p><p id="p_18">	12.It is not in controversy that the dead body of Anandan, the husband of P.W.1, was found by P.W.1 at about 7.00 A.M. on 16.7.2006, and on a report given by her, a case came to be registered by P.W.12, the Inspector of Police.  Following the investigation taken up by P.W.12 and after the preparation of the inquest report in the presence of witnesses and panchayatdars, the dead body was subjected to postmortem by one Dr.K.Mathiharan on 17.7.2006 at 10.15 A.M.  He has also issued a postmortem certificate signed by him which is marked as Ex.P9.  Though the Doctor who conducted autopsy, was not examined, it was marked through P.W.11, the Doctor, who was on duty at the time of trial and who knew his signature.  Thus there was no impediment in accepting the report to the extent that the death of Anandan was due to the homicidal violence, and the trial Judge was correct in recording so.
+</p><p id="p_19">	13.In order to substantiate that it was the accused who committed the crime, the prosecution had no direct evidence.  It relied upon only circumstantial evidence.  It is well settled proposition of law that in a given case where the prosecution rested its entire case on the circumstantial evidence, the prosecution must place and prove all the necessary circumstances constituting a chain without a snap and also pointing to the hypothesis that except the accused, no one could have committed the offence. No doubt, conviction can be sustained on the circumstantial evidence. But, the prosecution must establish the chain of circumstances consistently pointing to the guilt of the accused and the same is inconsistent with his innocence.  It remains to be stated that the circumstances from which an inference of guilt is to be drawn, should be cogently and firmly established.  All circumstances have to be taken into consideration cumulatively.  The circumstances must exist which lead to the conclusion that within all human probability, the accused committed the crime.  If the above cardinal principles are applied, this Court is afraid whether it can sustain the conviction for the following reasons.
+</p><p id="p_20">	14.In the case on hand, the prosecution rested its case much on the last seen theory. P.W.1 has deposed that on the date of occurrence i.e., 15.7.2006, at about 8.00 P.M., when she was in the house, the accused came there and took the deceased for consuming liquor; that they left the house; and that since he did not come in the night hours, she was searching throughout night and found the dead body only in the next morning at about 7.45 A.M.  Thus her evidence was to the effect that he went there along with the accused at about 8.00 P.M., and the dead body was found in the next morning.  In between these two points of time, there was an interval of about 11 hours.  The last seen theory can be applied when the time gap between the points of time when the accused and the deceased were last seen alive and the dead body of the deceased was found, is so small which would rule out the possibility of any other person than the accused being the author of the crime.  Even in such cases, the Court should look for some corroboration. In the instant case, the prosecution marched P.Ws.4 and 5 to corroborate the evidence of P.W.1.  According to both of them, they met both the accused and the deceased near the liquor shop at about 9.00 P.M.  P.Ws.4 and 5 came to know about the occurrence in the next morning.  But, they have not whispered anything either to P.W.1 or to anybody.  Ex.P1, the report, is silent to that effect.  That apart, the statements of P.Ws.4 and 5 reached the Court only on 25.7.2006, after an interval of 10 days.  Thus it would be quite clear that the statements of these two witnesses on the last seen theory, was a subsequent introduction, and therefore, the evidence of P.W.1 did not have any corroborative piece of evidence.  As pointed out above, the interval was about 11 hours.  The Apex Court had an occasion to consider the last seen theory in the following decisions.
+</p><p id="p_21">	(i) <a href="/doc/683472/" id="a_5">In Ramreddy Rajesh Khanna Reddy v. State of A.P</a>. ((2006) 10 SCC 172), it has been held as follows:
+</p><p id="p_22">"27.The last-seen theory, furthermore, comes into play where the time gap between the point of time when the accused and the deceased were last seen alive and the deceased is found dead is so small that possibility of any person other than the accused being the author of the crime becomes impossible.  Even in such a case courts should look for some corroboration."
+</p><p id="p_23">	(ii) It has been held in <a href="/doc/1789800/" id="a_6">State of U.P. v. Satish</a> ((2005) 3 SCC 114) thus:
+</p><p id="p_24">"22.The last-seen theory comes into play where the time gap between the point of time when the accused and the deceased were last seen alive and when the deceased is found dead is so small that possibility of any person other than the accused being the author of the crime becomes impossible.  It would be difficult in some cases to positively establish that the deceased was last seen with the accused when there is a long gap and possibility of other persons coming in between exists. In the absence of any other positive evidence to conclude that the accused and the deceased were last seen together, it would be hazardous to come to a conclusion of guilt in those cases.  In this case there is positive evidence that the deceased and the accused were seen together by witnesses PWs 3 and 5, in addition to the evidence of PW 2."
+</p><p id="p_25">	15.In view of the above decisions of the Apex Court, in the instant case, taking into consideration the time gap of 11 hours between the point of time when the accused and the deceased were last seen alive, and the dead body of the deceased was found, and also in the absence of any corroborative piece of evidence to that effect, the last seen theory put forth by the prosecution, cannot be relied to sustain a conviction. 
+</p><p id="p_26">	16.As far as the extra-judicial confession alleged to have been made by the accused to P.W.5, is concerned, it cannot be relied on for any purpose.  Even a conviction can be sustained exclusively on the extra-judicial confession made by the accused to a witness, provided if it passes two tests; firstly, the circumstances attendant when the accused made such a confessional statement; and secondly, whether the evidence of the person to whom the extra-judicial confession is alleged to have been made, inspired the confidence of the Court.  In the case on hand, if this test is applied, the evidence of P.W.5 has got to be rejected.  According to P.W.5, when he had first met him at about 9.00 P.M., he found the accused in the company of the deceased, and after an hour, he found the accused alone returning, and when he questioned the accused about the deceased, he confessed the crime of murdering the deceased.  If to be so, one would naturally expect him to immediately inform to P.W.1 who is his neighbour, but was silent.  He did not inform to anybody.  The Investigator would claim that the statement of the said witness P.W.5 was recorded on the next day.  But, in the inquest report, the name of P.W.5 was not found, and his statement has reached the Court only on 25.7.2006.  The silence on the part of P.W.5 in regard to his confession would clearly indicate that it cannot but be false.  
+</p><p id="p_27">	17.In a given case where the prosecution wants to rest its case on the last seen theory, the time of death must be fixed. According to P.W.1, when she went to the place of occurrence and found the dead body at about 7.45 A.M. on 16.7.2006, she found blood was oozing.  If her statement has got to be taken as correct, then the occurrence should have taken place just some time prior to that; but, the case of the prosecution was that the occurrence has taken place between 8.00 P.M. and 11.00 P.M. On 15.7.2006.  Apart from that, a perusal of the postmortem certificate would clearly indicate that the time of death was not known since the postmortem was done only on 17.7.2006 at about 10.15 A.M.  Even the postmortem Doctor was not examined to cross-examine in that regard.  Regarding that proposition, the Apex Court has ruled in a case reported in (2010) 3 SUPREME COURT CASES (CRI) 177 (<a href="/doc/897478/" id="a_7">NIRANJAN PANJA V. STATE OF WEST BENGAL</a>) as follows:
+</p><p id="p_28">"Where the prosecution depends upon the theory of "last seen together", it is always necessary that the prosecution should establish the time of death, which the prosecution has failed to do in this case."
+</p><p id="p_29">	18.Apart from the above, the prosecution relied on the recovery of the material objects.  The discrepancies noticed in the evidence of P.W.7, the recovery witness, and also  the Investigator and the contents of the recovery mahazar would also cast a doubt on the said recovery.  Under such circumstances, the reports received from the Forensic Sciences Department, cannot be attached with any evidentiary value.
+</p><p id="p_30">	19.For all the reasons stated above, this Court is of the considered opinion that it would be unsafe to sustain a conviction on the above evidence. Accordingly, the appellant is entitled for acquittal.
+</p>
+
+<p id="p_31">	20.In the result, this criminal appeal is allowed setting aside the judgment of the trial Court. The appellant is acquitted of the charge levelled against him.  He is directed to be set at liberty forthwith unless his presence is required in connection with any other case.  The fine amount if any paid by him, shall be refunded to him.
+</p>
+
+
+
+
+
+
+
+<p id="p_32">nsv
+
+To:
+</p>
+<p id="p_33">1.The Principal Sessions Judge
+  Kancheepuram
+</p><p id="p_34">2.The Inspector of Police
+  Pallikaranai Police Station
+  (Cr.No.784/2006)		
+</p><p id="p_35">3.The Public Prosecutor
+  High Court,  
+  Madras
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

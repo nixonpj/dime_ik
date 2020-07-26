@@ -1,0 +1,714 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M.Sathish vs State Represented By on 4 September, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/153118879/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:153118879">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1371604/">Section 304A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/935822/">Section 3 in The Motor Vehicles Act, 1988</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/153118879/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/153118879/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/153118879/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">M.Sathish vs State Represented By on 4 September, 2019</div><pre id="pre_1">                                                                         Crl.R.C.No.276 of 2014
+
+                               IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                             DATED: 04.09.2019
+
+                                                  CORAM:
+
+                                 THE HONOURABLE Mr.JUSTICE P.N.PRAKASH
+
+                                           Crl.R.C.No.276 of 2014
+
+
+                     M.Sathish                               ..       Petitioner/Accused
+
+                                                      Vs.
+
+                     State represented by
+                     The Inspector of Police,
+                     Sunguvarchathiram Police Station,
+                     Sriperumbudur Taluk,
+                     Kancheepuram District.                  .. Respondent/Complainant
+
+
+
+                            Criminal Revision filed under <a href="/doc/1233094/" id="a_1">Section 397</a> r/w 401 of <a href="/doc/1233094/" id="a_2">Cr.P.C</a>.,
+
+                     to set aside the judgment and order dated 17.09.2012 passed in
+
+                     C.C.No.120 of 2009 on the file of the District Munsif-cum-Judicial
+
+                     Magistrate Court, Sriperumbudur, confirmed by the judgment and
+
+                     order dated 10.02.2014 passed in C.A.No.38 of 2012 on the file of
+
+                     the Sessions Court No.II, Kancheepuram.
+
+
+
+                                 For Petitioner        :     Mr.S.Gopi
+
+
+                                 For Respondent        :     Mrs.P.Kritika Kamal
+                                                             Government Advocate
+                                                             (Crl. Side)
+http://www.judis.nic.in
+                     1/12
+                                                                             Crl.R.C.No.276 of 2014
+
+                                                     ORDER
+</pre>
+<p id="p_1">                                  This criminal revision has been preferred seeking to set
+
+                     aside the judgment and order dated 17.09.2012 passed in
+
+                     C.C.No.120 of 2009 on the file of the District Munsif-cum-Judicial
+
+                     Magistrate Court, Sriperumbudur, confirmed by the judgment and
+
+                     order dated 10.02.2014 passed in C.A.No.38 of 2012 on the file of
+
+                     the Sessions Court No.II, Kancheepuram.
+
+
+
+</p><p id="p_2">                            2. The brief facts leading to the filing of this criminal revision
+
+                     are as follows:
+</p>
+<p id="p_3">                            2.1   It is the case of the prosecution that on 03.02.2008,
+
+                     around 10.00 a.m., while the deceased Ganesan was standing in
+
+                     Sunguvarchathiram bus stand along with his niece Rani (PW1) and
+
+                     his wife Malar (PW2), waiting for bus, the accused, who came by a
+
+                     motorcycle bearing Registration No.TN-21-AA-0986, dashed him
+
+                     and caused his death.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">                            2.2   On the complaint (Ex-P1) lodged by Rani (PW1),
+
+                     Santhanam (PW10), Sub-Inspector of Police, registered a case in
+
+                     Crime No.52 of 2008 and prepared the printed FIR (Ex-P5). The
+
+                     investigation of the case was taken over by Pandian (PW11),
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                     2/12</span>
+                                                                           Crl.R.C.No.276 of 2014
+
+                     Inspector of Police, who went to the place of occurrence and
+
+                     prepared the Observation Mahazar (Ex-P2) and Rough Sketch (Ex-
+
+                     P6). He (PW11) conducted inquest over the body of the deceased
+
+                     and the inquest report was marked as Ex-P7.
+
+
+
+</p><p id="p_6">                            2.3   The body of the deceased was dispatched to the
+
+                     Government Hospital, Sriperumbudur, where, Dr.Yamuna (PW8)
+
+                     performed autopsy on the body of the deceased and issued the
+
+                     postmortem certificate (Ex-P3).
+</p>
+<p id="p_7">
+
+</p><p id="p_8">                            2.4   In the evidence of Dr.Yamuna (PW8) as well in the
+
+                     postmortem certificate (Ex-P3), the following injuries have been
+
+                     noted:
+</p>
+<blockquote id="blockquote_1">                                         “Kfk; rpije;J ,Ue;jJ. jhil&gt; fz;zk;
+</blockquote><blockquote id="blockquote_2">                                  kw;Wk; %f;fpd; vYk;Gfs; Kwptile;J ,Ue;jJ.
+                                  gw;fs; Mbd. tyJ jiyg;Gwj;jpy; jiyg;Gwj;jpy;
+                                  ntl;Lf;fhak; Rkhh; 8x5x4 nr.k{ msTk;&gt; tyJ
+                                  fhypy; ntl;Lf;fhak; 10x4x4 nr.k{ msTs;sJk;&gt;
+                                  jir uj;jf;Foha;fs; euk;Gfs; rpije;J fhypd;
+                                  vYk;Gfs; ntspNa njhpe;jd. ,lJ fhypy; ,uz;L
+                                  vYk;Gfs; Kwpe;J Njhiy fpopj;J ,Ue;jJ.
+                                  cl;fhaq;fs; kz;il XL cile;jjpy; %iyapd;
+                                  [t;T fpope;jpUe;jJ. ,lJ gf;f %isapy; uj;jfl;L
+                                  ,Ue;jd.      khu;G   gFjpia   jpwe;Jghh;j;jNghJ
+                                  Eiwa{uy; ntbj;Jf;fhzg;gl;L&gt; ,Ujak; ntbj;J
+                                  fhypahf ,Ue;jJ. tapw;Wg; gFjpia jpwe;Jghh;f;Fk;
+</blockquote><p id="p_9">http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                     3/12</span>
+                                                                                Crl.R.C.No.276 of 2014
+
+                                  NghJ ,iwg;ig ntbj;J fhypahf ,Ue;jJ.
+</p><p id="p_10">                                  fy;y{uy;&gt; kz;z{uy;&gt; rpWe{ufk;&gt; rpWFly; ntSj;J
+                                  ,Ue;jJ. ,e;j ,wg;ghdJ Kf;fpa cUg;ghd
+                                  %isapy; Vw;gl;l fhaq;fspdhYk; kw;Wk; gy;NtW
+                                  vYk;G        Kwpthy;    Vw;gl;l      uj;jg;Nghf;fpd;
+                                  fhuzj;jpdhYk; ,wg;G Vw;gl;Ls;sJ vd;W rhd;W
+                                  mspj;Njd;. ehd; toq;fpa gpNuj gupNrhjid
+                                  mwpf;if       m.rh.M.3&gt;    Nghy{rhh;     tprhuiz
+                                  nra;jhh;fs;.”
+
+
+                            2.5   Aaramudhan       (PW9),      Motor     Vehicles        Inspector,
+
+                     inspected the two wheeler and submitted his report (Ex-P4),
+
+                     wherein, he has stated that there was no mechanical failure in the
+
+                     vehicle.
+</p>
+<p id="p_11">
+
+</p><p id="p_12">                            2.6   During the course of investigation, it came to light that
+
+                     the accused did not possess a valid driving licence. The accused
+
+                     himself surrendered before the police and was placed under
+
+                     arrest.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">                            2.7   After examining the witnesses and collecting various
+
+                     reports, the Investigating Officer completed the investigation and
+
+                     filed a final report in C.C.No.120 of 2009 before the District
+
+                     Munsif-cum-Judicial      Magistrate,     Sriperumbudur,        against      the
+
+                     accused.
+</p>
+<p id="p_15">
+http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                     4/12</span>
+                                                                        Crl.R.C.No.276 of 2014
+
+                            2.8    On the appearance of the accused, he was furnished
+
+                     with the relied upon documents under <a href="/doc/1233094/" id="a_3">Section 207</a> Cr.P.C. and
+
+                     charges were framed against him for the offences under <a href="/doc/1270101/" id="a_4">Sections
+
+                     279</a>, <a href="/doc/1371604/" id="a_5">304-A</a> IPC and <a href="/doc/1233094/" id="a_6">Sections 139(1)</a> r/w 177 and 192 of the <a href="/doc/785258/" id="a_7">Motor
+
+                     Vehicles Act</a>, 1988 (for brevity “the <a href="/doc/785258/" id="a_8">MV Act</a>”). When questioned,
+
+                     the accused pleaded “not guilty”.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">                            2.9    To prove their case, the prosecution examined eleven
+
+                     witnesses and marked seven exhibits.
+
+
+
+</p><p id="p_18">                            2.10 When the accused was questioned under <a href="/doc/1233094/" id="a_9">Section 313</a>
+
+                     Cr.P.C. on the incriminating circumstances appearing against him,
+
+                     he denied the same.
+</p>
+<p id="p_19">
+
+</p><p id="p_20">                            2.11 On behalf of the accused, no witness was examined nor
+
+                     any document marked.
+</p>
+<p id="p_21">
+
+</p><p id="p_22">                            2.12 After considering the evidence on record and hearing
+
+                     either side, the Trial Court convicted and sentenced the accused
+
+                     as follows:
+</p>
+<p id="p_23">
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                     5/12</span>
+                                                                          Crl.R.C.No.276 of 2014
+
+
+                            Provision under which
+                                                                   Sentence
+                                  convicted
+</p><p id="p_24">                      (i) <a href="/doc/1270101/" id="a_10">Section 279</a> IPC              Six       months           rigorous
+                                                       imprisonment     and     fine    of
+                                                       Rs.1,000/-, in default to undergo
+                                                       one month simple imprisonment.
+</p><p id="p_25">                      (ii) <a href="/doc/1371604/" id="a_11">Section 304-A</a> IPC           Two years rigorous imprisonment
+                                                       and fine of Rs.5,000/-, in default
+                                                       to undergo three months simple
+                                                       imprisonment.</p>
+<p id="p_26">                      (iii) <a href="/doc/935822/" id="a_12">Section 3</a> r/w 181 of the MV Three       months        simple
+                      Act                               imprisonment    and    fine   of
+                                                        Rs.500/-, in default to undergo
+                                                        two weeks simple imprisonment.
+</p>
+<p id="p_27">                     The aforesaid sentences were ordered to run concurrently.
+
+
+</p><p id="p_28">                            2.13 Challenging the above conviction and sentence, the
+
+                     accused filed C.A.No.38 of 2012 before the Sessions Court No.II,
+
+                     Kancheepuram and the same was dismissed on 10.02.2014.
+
+
+
+</p><p id="p_29">                            2.14 Challenging the concurrent findings of the Courts
+
+                     below, the accused is before this Court under Section 397 r/w 401
+
+                     Cr.P.C.
+</p>
+<p id="p_30">
+
+</p><p id="p_31">                            3. Heard Mr.S.Gopi, learned counsel appearing for the
+
+                     accused and Mrs.P.Kritika Kamal, learned Government Advocate
+
+                     (Crl.Side) appearing for the respondent/State.
+
+</p><p id="p_32">                            4. Before adverting to the rival submissions, it may be
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                     6/12</span>
+                                                                                   Crl.R.C.No.276 of 2014
+
+                     necessary to state here that, while exercising revisional powers
+
+                     under <a href="/doc/785258/" id="a_13">Section 397</a> r/w 401 <a href="/doc/1233094/" id="a_14">Cr.P.C</a>., this Court is required to find out,
+
+                     if there is any illegality or impropriety in the findings of the trial Court
+
+                     and the appellate Court warranting interference and it is not open to
+
+                     this Court to exercise the revisional power as a second appellate
+
+                     forum.     In this context, it is profitable to allude to the following
+
+                     paragraphs in the judgment of the Supreme Court in State of
+
+                     Maharashtra, etc. vs. Jagmohan Singh Kuldip Singh Anand
+
+                     and Others, etc.1:
+</p>
+<p id="p_33">
+
+</p><blockquote id="blockquote_3">                                   “22. The revisional court is empowered to exercise all
+                            the powers conferred on the appellate court by virtue of the
+                            provisions contained in <a href="/doc/1233094/" id="a_15">Section 401</a> CrPC. <a href="/doc/1233094/" id="a_16">Section 401</a> CrPC is
+                            a provision enabling the High Court to exercise all powers of
+                            an appellate court, if necessary, in aid of power of
+                            superintendence or supervision as a part of power of revision
+                            conferred on the High Court or the Sessions Court. <a href="/doc/1233094/" id="a_17">Section
+                            397</a> CrPC confers power on the High Court or Sessions Court,
+                            as the case may be,
+
+                                          “for the purpose of satisfying itself or himself
+                                   as to the correctness, legality or propriety of any
+                                   finding, sentence or order, recorded or passed, and
+                                   as to the regularity of any proceedings of such
+                                   inferior court”.
+</blockquote>
+<blockquote id="blockquote_4">                            It is for the above purpose, if necessary, the High Court or the
+                            Sessions Court can exercise all appellate powers. <a href="/doc/1233094/" id="a_18">Section 401</a>
+                            CrPC conferring powers of an appellate court on the revisional
+                            court is with the above limited purpose. The provisions
+                            contained in <a href="/doc/1233094/" id="a_19">Section 395</a> to <a href="/doc/1233094/" id="a_20">Section 401</a> CrPC, read together,
+                            do not indicate that the revisional power of the High Court can
+                            be exercised as a second appellate power.</blockquote><p id="p_34">
+</p><p id="p_35">                                                                   (emphasis supplied)
+                     1 2004 (7) SCC 659
+http://www.judis.nic.in
+<span class="hidden_text" id="span_6">                     7/12</span>
+                                                                                  Crl.R.C.No.276 of 2014
+
+
+
+</p><p id="p_36">                                  23.   On this aspect, it is sufficient to refer to and rely
+                            on the decision of this Court in <a href="/doc/15237/" id="a_21">Duli Chand v. Delhi
+                            Admn</a>.[(1975) 4 SCC 649 : 1975 SCC (Cri) 663 : AIR 1975 SC
+                            1960] in which it is observed thus: (SCC p. 651, para 5)
+                                   “The High Court in revision was exercising supervisory
+                            jurisdiction of a restricted nature and, therefore, it would have
+                            been justified in refusing to reappreciate the evidence for the
+                            purposes of determining whether the concurrent finding of fact
+                            reached by the learned Magistrate and the learned Additional
+                            Sessions Judge was correct. But even so, the High Court
+                            reviewed the evidence presumably for the purpose of
+                            satisfying itself that there was evidence in support of the
+                            finding of fact reached by the two subordinate courts and that
+                            the finding of fact was not unreasonable or perverse.”
+
+
+
+</p><p id="p_37">                            5.   The learned counsel for the accused took this Court
+
+                     through the evidences of Rani (PW1), Malar (PW2) and Suresh
+
+                     (PW4) and submitted that there are discrepancies in their
+
+                     testimonies. He contended that Rani (PW1) has not stated
+
+                     anything about the presence of Malar (PW2) at the time of the
+
+                     incident.
+</p>
+<p id="p_38">
+
+</p><p id="p_39">                            6. This Court carefully perused the evidences of Rani (PW1)
+
+                     and Malar (PW2). Rani (PW1) has stated about the presence of
+
+                     Malar (PW2) at the time of the incident. That apart, just because
+
+                     one witness has not stated anything about the presence of
+
+                     another witness, it will not lead to the inference that the latter
+
+                     witness was not at all present. Unless one witness categorically
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_7">                     8/12</span>
+                                                                         Crl.R.C.No.276 of 2014
+
+                     states that the other witness was not available and the latter
+
+                     witness states that he was available, then, it can be stated that
+
+                     there is contradiction between them.
+
+
+
+</p><p id="p_40">                            7. The learned counsel for the accused further took this
+
+                     Court through the cross-examination of Suresh (PW4), who has
+
+                     stated that the deceased has crossed the road from right side to
+
+                     left side and the incident had occurred only on account of that.
+
+
+
+</p><p id="p_41">                            8. It is the consistent case of Rani (PW2) and Suresh (PW4)
+
+                     that the deceased Ganesan came to the house of Rani (PW1) as a
+
+                     guest and he was returning to his native with his wife Malar (PW2).
+
+                     Rani (PW1) accompanied him to the bus stand to see him off. The
+
+                     evidence of Suresh (PW4) is not to the effect that the incident had
+
+                     taken place when the deceased was crossing the road from right
+
+                     side to left side. No such suggestion has been put to any of the
+
+                     witnesses. His evidence only shows that the deceased merely
+
+                     crossed the road from right side to left side and nothing more.
+
+                     Based on this solitary statement, it cannot be inferred that the
+
+                     deceased was responsible for the incident.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_8">                     9/12</span>
+                                                                         Crl.R.C.No.276 of 2014
+
+
+
+
+</p><p id="p_42">                             9. The learned counsel for the accused submitted that the
+
+                     accused was not identified by any witness. The fact remains that
+
+                     the accused himself surrendered before the police immediately
+
+                     after the incident, which conduct is relevant under <a href="/doc/482978/" id="a_22">Section 8</a> of the
+
+                     Indian Evidence Act, 1872. The nature of injury sustained by the
+
+                     deceased which has been extracted above shows the magnitude of
+
+                     the impact due to collision. He further submitted that the accused
+
+                     also suffered injuries. It is true that after the accused hit the
+
+                     deceased, he lost his balance and fell and that cannot be a good
+
+                     reason to say that he was not driving the vehicle in a rash and
+
+                     negligent manner. He further submitted that the accused had a
+
+                     valid driving licence. Had it been true, the accused would have
+
+                     submitted the same to the Court when he was examined under
+
+                     Section 313 Cr.P.C.
+</p>
+<p id="p_43">
+
+</p><p id="p_44">                             10. In view of the above, this Court does not find any
+
+                     infirmity in the findings of fact arrived at by the Courts below
+
+                     warranting interference. The fact remains that the deceased would
+
+                     not have got any compensation under the <a href="/doc/785258/" id="a_23">MV Act</a> as the accused
+
+                     did not have a valid driving licence. In such view of the matter,
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_9">                     10/12</span>
+                                                                              Crl.R.C.No.276 of 2014
+
+                     the conviction of the accused under <a href="/doc/1270101/" id="a_24">Sections 279</a> and <a href="/doc/1371604/" id="a_25">304-A</a> IPC
+
+                     and <a href="/doc/935822/" id="a_26">Section 3</a> r/w 181 of the <a href="/doc/785258/" id="a_27">MV Act</a>, stands confirmed. However,
+
+                     this Court is of the view that interests of justice will be served if
+
+                     the sentence of two years rigorous imprisonment for the offence
+
+                     under <a href="/doc/1371604/" id="a_28">Section 304-A</a> IPC is reduced to six months rigorous
+
+                     imprisonment and it is ordered accordingly. The sentence passed
+
+                     for the other offences are maintained. The fine amount and the
+
+                     default sentence shall remain the same. The Trial Court is directed
+
+                     to issue warrant for securing the accused immediately. The
+
+                     Registry is directed to send the records to the Trial Court and the
+
+                     Sessions Court.
+</p>
+<p id="p_45">
+
+</p><p id="p_46">                             In the result, this criminal revision petition is partly allowed.
+
+
+
+
+</p><p id="p_47">                                                                                   04.09.2019
+                     Index: Yes/No
+                     Speaking order: Yes/No
+                     nsd
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_10">                     11/12</span>
+                                                                         Crl.R.C.No.276 of 2014
+
+
+
+                                                                       P.N.PRAKASH, J.
+</p><p id="p_48">                                                                                  nsd
+
+
+                     To
+
+</p><p id="p_49">                     1. The Inspector of Police,
+                        Sunguvarchathiram Police Station,
+                        Sriperumbudur Taluk,
+                        Kancheepuram District.
+</p>
+<p id="p_50">                     2. The District Munsif-cum-Judicial Magistrate,
+                        Sriperumbudur.
+</p>
+<p id="p_51">                     3. The District Sessions Judge-II,
+                        Kancheepuram.
+</p>
+<p id="p_52">                     4. The Public Prosecutor,
+                        Madras High Court,
+                        Chennai – 104.
+</p>
+<p id="p_53">                     5. The Deputy Registrar,
+                        Madras High Court,
+                        Chennai-104.
+</p><p id="p_54">                                                                 Crl.R.C.No.276 of 2014
+
+
+
+
+                                                                              04.09.2019
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_11">                     12/12</span>
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

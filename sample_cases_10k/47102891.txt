@@ -1,0 +1,523 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Smt Lakkamma vs The Special on 27 June, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/47102891/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/868941/">Section 18(1) in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1517117/">Section 18 in The Land Acquisition Act, 1894</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/47102891/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/47102891/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/47102891/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Smt Lakkamma vs The Special on 27 June, 2017</div><div class="doc_author">Author: B.S.Patil</div>
+
+<pre id="pre_1">                                        WPs.22795-22797/2017
+                              1
+
+
+
+     IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+          DATED THIS THE 27TH DAY OF JUNE, 2017
+
+                          BEFORE
+
+            THE HON'BLE MR.JUSTICE B.S.PATIL
+
+            W.P.Nos.22795-22797/2017 (LA-RES)
+
+BETWEEN
+
+1.    SMT.LAKKAMMA @ LAKSHMAMMA,
+      W/O LATE RANGASWAMAIAH,
+      AGED ABOUT 66 YEARS,
+
+2.    SRI JAYANNA,
+      S/O LATE RANGASWAMAIAH,
+      AGED ABOUT 46 YEARS,
+
+3.    SRI GIRIYAPPA,
+      S/O LATE RANGASWAMAIAH,
+      AGED ABOUT 44 YEARS,
+
+4.    SRI CHANDRASHEKAR,
+      S/O LATE RANGASWAMAIAH,
+      AGED ABOUT 40 YEARS,
+
+      ALL ARE R/O NANDIHALLI VILLAGE,
+      CHELUR HOBLI, GUBBI TALUK,
+      TUMKUR DISTRICT 572223.            ... PETITIONERS
+
+(By Sri V.B.SIDDARAMAIAH, ADV.)
+
+
+AND
+
+THE SPECIAL LAND ACQUISITION OFFICER,
+HEMAVATHI CANAL ZONE,
+MINI VIDHANA SOUDHA,
+DR.AMBEDKAR ROAD,
+TUMKUR 572101.                        ... RESPONDENT
+
+(By Sri VENKATESH DODDERI, AGA)
+                                          WPs.22795-22797/2017
+                               2
+
+
+
+      THESE WRIT PETITIONS ARE FILED UNDER ARTICLES 226 &amp;
+227 OF THE CONSTITUTION OF INDIA, PRAYING TO SET ASIDE
+THE ORDER DT.3.4.2017 PASSED BY THE COURT OF THE SENIOR
+CIVIL JUDGE, GUBBIT PASSED IN LAC.MISC NO.54/2016 [LAC
+NO.55/2016] VIDE ANNEXURE-G AND CONSEQUENTLY ALLOW
+THE MISC NO.54/2016 VIDE ANNEXURE-A BY CONDONNING THE
+DELAY INVOLVED FILING THE MISC. NO.54/2016 AND BY
+ALLOWING THE I.A.NO.II FILED TO BRING L.RS. ON RECORD, VIDE
+ANNEXURE-D AND RESTORE THE LAC. NO.55/1997 ON THE FILE
+OF THE SENIOR CIVIL JUDGE, GUBBI, TO DISPOSE THE MATTER
+ON MERITS AND ETC.
+
+      THESE PETITIONS COMING ON FOR PRELIMINARY HEARING
+THIS DAY, THE COURT MADE THE FOLLOWING:
+
+                            ORDER
+</pre>
+<p id="p_1">1.    Learned Additional Government Advocate takes notice for
+
+the respondent.
+</p>
+<p id="p_2">
+</p><p id="p_3">2.    As the matter lies in a short compass, with the consent of
+
+learned counsel for both parties, the same is taken up for final
+
+disposal.
+</p>
+<p id="p_4">
+</p><p id="p_5">3.    Petitioners claim to be legal representatives of late
+
+Rangaswamaiah. Land bearing Sy.No.14/1 measuring 1 acre 8
+
+guntas situated at Nandihalli Village, Chelur Hobli, Gubbi
+
+Taluk, Tumkur District   was acquired by the State for public
+
+purpose. Not being satisfied with the compensation awarded by
+
+the Special Land Acquisition Officer, late Rangaswamaiah filed
+
+an application under <a href="/doc/868941/" id="a_1">Section 18(1)</a> of the Land Acquisition Act
+
+seeking reference to the Civil Court for determination of market
+                                            WPs.22795-22797/2017
+<span class="hidden_text" id="span_1">                                3</span>
+
+
+
+value and for payment of just compensation.         The case was
+
+numbered as LAC.No.55/1997 and was pending on the file of
+
+the Senior Civil Judge, Tumkur.      Subsequently, petition was
+
+dismissed on 22.01.2003 for default as the claimant did not
+
+lead evidence.
+</p>
+<p id="p_6">
+</p><p id="p_7">4.     It is urged by the petitioners that on the establishment of
+
+Senior Civil Judge Court at Gubbi that Court came to acquire
+
+jurisdiction in the matter. Petitioners as legal representatives of
+
+late    Rangaswamaiah       filed   Miscellaneous      Application
+
+No.54/2016       seeking    restoration    of   LAC.No.55/1997.
+
+Petitioners also filed application seeking to come on record as
+
+legal representatives of late Rangaswamaiah by setting aside
+
+abatement and condoning the delay.        It was their case that
+
+original claimant died on 07.09.2012 and petitioners were
+
+unaware of the reference made under <a href="/doc/868941/" id="a_2">Section 18(1)</a> and the
+
+order of dismissal passed on 22.01.2003.
+</p>
+<p id="p_8">
+</p><p id="p_9">5.     In the miscellaneous application, they have offered
+
+explanation for the inaction on their part contending inter alia
+
+that they were not aware of the order closing the reference
+
+petition passed by the Court at Tumkur and that recently they
+
+learnt about dismissal of the petition and thereafter, they took
+                                           WPs.22795-22797/2017
+<span class="hidden_text" id="span_2">                                4</span>
+
+
+
+immediate steps by approaching their advocate.         Thus, the
+
+delay in filing miscellaneous application was explained. The
+
+Court below has passed the impugned order dismissing the
+
+miscellaneous application as also the applications filed by the
+
+petitioners to come on record as legal representatives of late
+
+Rangaswamaiah. It is this order that is challenged in these writ
+
+petitions.
+</p>
+<p id="p_10">
+</p><p id="p_11">6.    I have heard the learned counsel for the petitioners and
+
+the learned Additional Government Advocate.
+
+
+</p><p id="p_12">7.    It is mainly urged by the learned counsel for the
+
+petitioners that Reference Court ought not to have dismissed
+
+the petition for default of appearance of the petitioners as there
+
+is a duty cast on the Court below to decide the matter on
+
+merits.   It is also urged by him that the application filed for
+
+condonation of delay in filing the miscellaneous application for
+
+restoration of reference petition as also applications filed for
+
+bringing the legal representatives on record by setting aside
+
+abatement and condoning the delay ought not to have been
+
+dismissed by the reference Court as the same would result in
+
+land looser going uncompensated for the valuable land lost by
+
+him in the acquisition. It is urged that in similar matters after
+                                            WPs.22795-22797/2017
+<span class="hidden_text" id="span_3">                                 5</span>
+
+
+
+considering several judgments of the Apex Court and different
+
+High    Courts,   this   Court   in   similar   circumstances   in
+
+W.P.No.34102/2016 disposed of on 22.06.2016 has allowed the
+
+writ petition by setting aside the order passed by the reference
+
+Court dismissing the applications filed for bringing the legal
+
+representatives on record on the ground that they were barred
+
+by limitation.    A copy of this order is made available to the
+
+Court. Indeed, it is enclosed to the writ petition as Annexure-H.
+
+
+</p><p id="p_13">8.     Learned Additional Government Advocate submits that
+
+while the claimant, who has lost the land, has to get just and
+
+fair compensation, he cannot be indolent in prosecuting his
+
+case and therefore, even if the claim made by the petitioners
+
+under <a href="/doc/868941/" id="a_3">Section 18(1)</a> is required to be adjudicated in accordance
+
+with law on merits, because of the lapse on their part in
+
+prosecuting their case diligently they are not entitled for
+
+payment of any interest for the delayed period in approaching
+
+this Court, particularly from the date of dismissal of the
+
+reference petition on 22.01.2003 till they filed miscellaneous
+
+application on 08.11.2016.
+</p>
+<p id="p_14">
+</p><p id="p_15">9.     Upon hearing the learned counsel for both parties, I find
+
+that as held by the Apex Court in several judgments which are
+                                               WPs.22795-22797/2017
+<span class="hidden_text" id="span_4">                                     6</span>
+
+
+
+considered    in    the    order    dated   22.06.2016      passed    in
+
+W.P.No.34102/2016 and particularly in the case of KHAZAN
+
+SINGH (DEAD) BY L.Rs. Vs. UNION OF INDIA - (2002) 2 SCC 242,         the
+
+reference Court will not be justified in dismissing the reference
+
+for default for non-appearance of the claimant. In a reference
+
+made under <a href="/doc/1517117/" id="a_4">Section 18</a> of the Land Acquisition Act, reference
+
+Court is bound to issue notice to all the interested parties and
+
+pass an award on merits.           Therefore, reference Court was in
+
+error in dismissing the reference petition vide order dated
+
+12.03.2003.        Similarly, when the petitioners herein filed
+
+miscellaneous application seeking restoration of the reference
+
+petition along with applications to come on record by setting
+
+aside   abatement         and   condoning    the   delay     as     legal
+
+representatives of deceased claimant, the Court below ought to
+
+have considered the same keeping in mind the ratio laid down
+
+by the Apex Court and in the ends of justice to compensate the
+
+land loosers by paying them just and reasonable compensation
+
+as per law. The court blow has adopted pedantic approach in
+
+dismissing    the     miscellaneous      application   as    also    the
+
+applications filed by the petitioners to come on record as legal
+
+representatives of deceased claimant.        Therefore, order under
+
+challenge deserves to be set aside.
+</p><p id="p_16">                                                       WPs.22795-22797/2017
+<span class="hidden_text" id="span_5">                                     7</span>
+
+
+
+</p><p id="p_17">10.     Petitioners claim to be wife and children of deceased
+
+Rangaswamaiah/claimant.                  They         have     produced         the
+
+genealogical tree. Though they have not produced the ration
+
+card or Aadhar card, fact remains nobody has raised any
+
+objection regarding their relationship with late Rangaswamaiah.
+
+At any rate, as the Court below has dismissed the applications
+
+on the ground that the applications were filed belatedly, it is not
+
+necessary to decide on the merits of the application filed to
+
+bring the legal representatives on record.                   Suffice to observe
+
+that the application filed by the petitioners to come on record is
+
+required to be considered in accordance with law. If they are
+
+found     to   be   the      legal   representatives             of        deceased
+
+Rangaswamaiah,        they    have       to    be     brought         on    record.
+
+Applications filed for condonation of delay and for setting aside
+
+abatement in a matter like this have to be considered liberally
+
+as the claimant is entitled for adjudication of his claim on
+
+merits.
+</p>
+<p id="p_18">
+</p><p id="p_19">11.     Hence, these writ petitions are allowed. Impugned order
+
+is set aside. The Court below is directed to rehear the matter
+
+on    Miscellaneous       Application         filed     for    restoration       of
+
+LAC.No.55/1997 after considering the applications filed by the
+                                           WPs.22795-22797/2017
+<span class="hidden_text" id="span_6">                                8</span>
+
+
+
+petitioners to come on record as legal representatives of
+
+deceased claimant - Rangaswamaiah by keeping in mind the
+
+observations made above.       The Court below is directed to
+
+dispose of the applications and the miscellaneous application
+
+as expeditiously as possible.       As rightly contended by the
+
+learned Additional Government Advocate, petitioners shall not
+
+be entitled to claim interest for the period from the date of
+
+dismissal of miscellaneous petition i.e., 22.01.2003 till the date
+
+of filing the miscellaneous application i.e., 08.11.2016, as the
+
+State exchequer cannot be burdened for the delay on the part of
+
+the claimant/his legal representatives in seeking restoration of
+
+the reference petition and in applying to come on record as legal
+
+representatives of deceased claimant.
+</p>
+<p id="p_20">
+</p><p id="p_21">      Learned Additional Government Advocate is permitted to
+
+file memo of appearance within three weeks from today.
+
+
+
+</p><p id="p_22">                                                       Sd/-
+</p><p id="p_23">                                                      JUDGE
+
+
+PKS
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

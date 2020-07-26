@@ -1,0 +1,485 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>K.Vasu vs V.Harikrishnan on 23 March, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/4894886/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/4894886/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/4894886/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/4894886/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=relationship%20between%20landlord%20and%20tenant">relationship between landlord and tenant</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">K.Vasu vs V.Harikrishnan on 23 March, 2011</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+RCRev..No. 74 of 2011()
+
+
+
+1. K.VASU, S/O. G.K.GUPTAN
+                      ...  Petitioner
+
+                        Vs
+
+1. V.HARIKRISHNAN, S/O. K.V.VENUGOPAL
+                       ...       Respondent
+
+                For Petitioner  :SRI.A.R.GANGADAS
+
+                For Respondent  :SRI.V.CHITAMBARESH (SR.)
+
+The Hon'ble MR. Justice PIUS C.KURIAKOSE
+The Hon'ble MR. Justice N.K.BALAKRISHNAN
+
+ Dated :23/03/2011
+
+ O R D E R
+                    PIUS C. KURIAKOSE &amp;
+                  N. K. BALAKRISHNAN, JJ.
+         ------------------------------------------------
+                   R. C. R. No.74 of 2011
+         ------------------------------------------------
+           Dated this the 23rd day of March, 2011
+
+                            ORDER
+</pre>
+<p id="p_1">Pius C. Kuriakose, J
+
+
+      Under challenge in this revision filed by the tenant is
+
+the judgment of the Appellate Authority confirming the
+
+order of eviction which was passed by the Rent Control
+
+Court against him on the grounds of arrears of rent under
+
+Section 11(2)(b) and re-construction under Section 11(4)
+
+</p><p id="p_2">(iv). It was relying on a rental arrangement evidenced by
+
+Ext.A5 that the RCP was instituted by the landlord. The
+
+landlord sought for eviction on the grounds of arrears of
+
+rent under Section 11(2)(b); bona fide need for own
+
+occupation under Section 11(3) and need for re-construction
+
+under Section 11(4)(iv). All the grounds were contested to
+
+at the time of trial. The landlord conceded that eviction
+
+<span class="hidden_text" id="span_1">R. C. R. No.74 of 2011         -2-</span>
+
+
+
+under Section 11(3) is not pressed. One of the contentions
+
+raised by the revision petitioner was that the document of
+
+title under which the landlord claims ownership over the
+
+building is a sham document or rather a benami document
+
+executed by his father in the name of his eldest son,
+
+Sri.Venugopalan who is the father of the respondent for the
+
+benefit of all his children. Incidentally it was also contended
+
+that there is no landlord-tenant relationship between the
+
+parties.
+</p>
+<p id="p_3">       2. In the enquiry before the Rent Control Court the
+
+evidence consisted that of PW1, the father of the landlord
+
+and Exts.A1 to A9. On the side of the revision petitioner the
+
+evidence was nil. The Rent Control Court on evaluating the
+
+evidence would first decide that the contentions raised by
+
+the revision petitioner against the title of the landlord and
+
+against the existence of a landlord-tenant relationship are
+
+only to be repelled. On evaluating the evidence it was held
+
+<span class="hidden_text" id="span_2">R. C. R. No.74 of 2011        -3-</span>
+
+
+
+that the eviction ground under Section 11(2)(b) and under
+
+Section 11(4)(iv) stood establish.
+</p>
+<p id="p_4">       3. The learned Appellate Authority considered appeal
+
+preferred by the revision petitioner. That authority re-
+
+appraised the entire evidence and concurred with all the
+
+conclusions of the Rent Control Court. Accordingly, the
+
+appeal was dismissed.
+</p>
+<p id="p_5">       4. In this revision various grounds are raised
+
+challenging the judgment of the Appellate Authority.
+
+Sri.A.R.Gangadas, the learned counsel for the revision
+
+petitioner addressed very strenuous arguments before us
+
+based on the grounds. Sri.Gangadas submitted at the very
+
+outset that RSA No.376/11 has been preferred by the
+
+revision petitioner against the verdict of the civil court which
+
+was in favour of the respondent/landlord. According to
+
+Sri.Gangadas the learned Appellate Authority relied on the
+
+appellate      judgment and    turned   down     the    revision
+
+<span class="hidden_text" id="span_3">R. C. R. No.74 of 2011         -4-</span>
+
+
+
+petitioner's contention based on title. According to the
+
+learned counsel, it is only appropriate that this RCR and the
+
+RSA be heard and decided together. Sri.Gangadas would
+
+attack the eviction order on merits also. According to him,
+
+the judgment of the Appellate Authority is vitiated by so
+
+many illegalities, irregularities and improprieties justifying
+
+interference in revision.
+</p>
+<p id="p_6">       5. Sri.V.Chitambaresh, the learned senior counsel for
+
+the respondent submitted that though it is true that the
+
+learned Appellate Authority has referred to the judgment of
+
+the civil court, the suit before the civil court is not a
+
+comprehensive suit for title. It is a simple suit for injunction
+
+to restrain the revision petitioner from doing repair work in
+
+the building. It has nothing to do with the title.
+
+Sri.Chitambaresh submitted that it cannot be said that there
+
+is a bona fide denial of landlord's title. What was challenged
+
+was proprietory title. Despite that challenge since the
+
+<span class="hidden_text" id="span_4">R. C. R. No.74 of 2011        -5-</span>
+
+
+
+revision petitioner set up an agreement for sale it can be
+
+found that the challenge on title is not serious. Ext.A5
+
+proves the existence of a landlord-tenant relationship. To
+
+whatever evidence is adduced by the landlord there is not
+
+even formal counter evidence.
+</p>
+<p id="p_7">       6. We have very anxiously considered the rival
+
+submissions addressed at the Bar. We have gone through
+
+the judgment of the Appellate Authority and the order of the
+
+Rent Control Court. The short question which arises before
+
+us is whether the judgment of the Appellate Authority
+
+confirming the order of eviction passed by the Rent Control
+
+Court warrants interference within the contours of the
+
+revisional jurisdiction of this Court under Section 20.
+
+According to us, the above question can be answered only
+
+against the revision petitioner. We are not at all impressed
+
+by the contentions raised by the revision petitioner touching
+
+the title of the landlord. First of all as far as rent control
+
+<span class="hidden_text" id="span_5">R. C. R. No.74 of 2011         -6-</span>
+
+
+
+proceedings are concerned it is not the proprietary title over
+
+the building that is important. What is important is only the
+
+landlord's entitlement to receive the rent or the existence of
+
+a landlord-tenant relationship. Ext.A5 is one document
+
+relied on in the Rent Control Petition and in the evidence by
+
+the landlord, for which there is not even a formal counter
+
+evidence is adduced by the revision petitioner. In the
+
+absence of even formal counter evidence, the authorities
+
+below cannot be faulted at all for having concluded that
+
+there exists a landlord-tenant relationship between the
+
+parties. Though we are not concerned with the question of
+
+proprietary title we do find merit in the submission of
+
+Sri.Chitambaresh that party who denied the title and at the
+
+same time sets up an agreement for sale executed by the
+
+landlord, is practically conceding the landlord's proprietary
+
+title also. At any rate as the finding entered by the statutory
+
+authorities regarding the existence of the eviction ground
+
+<span class="hidden_text" id="span_6">R. C. R. No.74 of 2011       -7-</span>
+
+
+
+are based on evidence available on record we do not find
+
+any infirmity about them. The revision petition necessarily
+
+has to fail and the eviction order stands confirmed. At the
+
+same time, the last submission of Sri.Gangadas, the learned
+
+counsel for the revision petitioner that a reasonably long
+
+period of time be given to the tenant for surrendering the
+
+premises has some appeal to us. Hence, even as we dismiss
+
+the RCR confirming the eviction order passed by the Rent
+
+Control Court, there will be a direction to the execution
+
+court to keep in abeyance all proceedings for delivery till
+
+31/12/11 subject to certain conditions. The result of the
+
+above discussion is as follows:-
+</p>
+<p id="p_8">       7. The RCR is dismissed confirming the order passed
+
+under Section 11(2)(b) and 11(4)(iv). The order of eviction
+
+passed by the Rent Control Court under Section 11(2)(b)
+
+can be got vacated by making requisite deposit under
+
+Section 11(2)(c) and filing application within two months
+
+<span class="hidden_text" id="span_7">R. C. R. No.74 of 2011          -8-</span>
+
+
+
+from today. Order of eviction passed under Section 11(4)
+
+</p><p id="p_9">(iv) will not be executed till 31/12/11 subject to the
+
+following conditions:-
+</p>
+<p id="p_10">       8. Revision petitioner shall file an affidavit before the
+
+execution court or the Rent Control Court as the case may
+
+be within three weeks from today undertaking to give
+
+peaceful surrender of the building to the respondent on or
+
+before 31/12/11 and undertaking further that arrears of rent
+
+as found by the Rent Control Court will be paid off within
+
+two months and that occupation charges at the existing rent
+
+rate will also be paid without fail on the first of every month.
+
+The revision petitioner will get the benefit of time granted as
+
+above only if the affidavit as directed above is filed on time
+
+and the undertakings contained therein are honoured.
+
+</p><p id="p_11">       9. We clarify that the respondent will be bound to carry
+
+out the re-construction and allot more or less equal area to
+
+the revision petitioner as provided under the third proviso to
+
+<span class="hidden_text" id="span_8">R. C. R. No.74 of 2011        -9-</span>
+
+
+
+Section 11(4)(iv) of Act 2 of 1965 within the time frame set
+
+by the Appellate Authority.
+</p>
+<p id="p_12">
+
+
+</p><p id="p_13">                                        PIUS C. KURIAKOSE
+                                                      JUDGE
+
+
+
+
+                                      N. K. BALAKRISHNAN
+                                                      JUDGE
+kns/-
+</p>
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

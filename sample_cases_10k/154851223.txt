@@ -1,0 +1,618 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Tirath Singh Yadav vs State on 14 May, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/154851223/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:154851223">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1310327/">Gagan Kanojia &amp; Anr vs State Of Punjab on 24 November, 2006</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1329788/">Mohmed Inayatullah vs The State Of Maharashtra on 9 September, 1975</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/154851223/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/154851223/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/154851223/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Tirath Singh Yadav vs State on 14 May, 2019</div><pre id="pre_1">$~
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%                                      Judgment Reserved on: 28.03.2019
+                                     Judgment pronounced on: 14.05.2019
+
++                                 CRL. A. 273/2004
+
+        TIRATH SINGH YADAV                               ..... Appellant
+
+                        Through:       Mr. Jitendra Sethi, Advocate with
+                                       Mr.Hemant Gulati, Advocate.
+                                  Versus
+
+        STATE                                           .....Respondent</pre>
+<pre id="pre_2">                        Through:       Ms. Aashaa Tiwari, APP for State.
+
+                                       WITH
+
++                                 CRL. A. 279/2004
+
+       CHAMAN SINGH YADAV @ CHAMAN ..... Appellant
+                        Through:       Mr. Deepika Mishra, Advocate.
+                                  Versus
+        STATE                                           .....Respondent
+                        Through: Ms. Aashaa Tiwari, APP for State.
+
+CORAM:
+HON'BLE MS. JUSTICE HIMA KOHLI
+HON'BLE MR. JUSTICE VINOD GOEL
+
+
+
+
+<span class="hidden_text" id="span_1">Crl. A. Nos.273/2004 &amp; 279/2004                                Page 1 of 15</span>
+ VINOD GOEL, J:
+
+</pre><p id="p_1">1.     By these appeals, the appellants have challenged the impugned
+judgment dated 20.03.2004 passed by the court of the learned
+Additional Sessions Judge, Delhi, ('ASJ') in Session Case
+No.100/2000 (1/2003) vide FIR No.371/2000, Police Station Vasant
+Kunj, whereunder both of them were convicted under Section 302
+read with <a href="/doc/37788/" id="a_1">Section 34</a> of the Indian Penal Code, 1860 ('<a href="/doc/1569253/" id="a_2">IPC</a>') and order
+on sentence dated 29.03.2004, sentencing them to undergo life
+imprisonment and pay a fine of Rs.1,000/- each and in default, to
+undergo simple imprisonment for a period of two months.
+</p><p id="p_2">2.      As per the case of the prosecution, the deceased, Ram Singh @
+Lallan Yadav, the appellant, Tirath Singh Yadav (A-1) and Chaman
+Yadav (A-2) were employed by Bhupinder Kumar Kalra (PW-1) at his
+dairy farms No.37-38 and 23-22. The son of the deceased, namely,
+Raju Yadav (PW-2) used to stay with his father at the dairy farm and
+was prone to waste a lot of water from the tubewell. A-1 and A-2 used
+to object to the deceased's son wasting the water. This caused an
+altercation one day which led the accused persons threatening the
+deceased that they would kill him if his son continued to cause such
+wastage.
+</p><p id="p_3">3.      As per the further case of the prosecution, on the intervening
+night of 21/22.06.2000, the deceased was murdered by A-1 and A-2
+which was witnessed by two employees of the said dairy farm, Moti
+Lal (PW-16) and Sukhlal Yadav (PW-6). One Mr. Satish, driver of
+the Tata Tempo 407 (PW-5), who came at the spot to load buffalos on
+
+
+<span class="hidden_text" id="span_2">Crl. A. Nos.273/2004 &amp; 279/2004                          Page 2 of 15</span>
+ that night, found the deceased lying unconscious and informed the
+owner Raju Kalra. The dairy owner and his brother came there and
+informed the police pursuant to which a PCR van reached the spot.
+The deceased was taken to Safdarjung Hospital where he was declared
+'brought dead'. The post-mortem on the body of the deceased was
+conducted on 23.06.2000. The post-mortem report states the cause of
+death as 'shock, head injury and other associated injuries ante-
+mortem in nature, caused by the application of blunt force from a
+blunt object collectively sufficient to cause death in the ordinary
+course of nature'.
+</p><p id="p_4">4.      Both the accused persons were arrested on 23.06.2000. In their
+separate disclosure statements, both of them disclosed that they had
+murdered the deceased on the intervening night of 21/22.06.2000. A-
+1 disclosed that A-2 had physically incapacitated the deceased while
+sleeping and he himself had hit the deceased with the sabal due to
+which he became unconscious. He disclosed that he had concealed the
+sabal and could get the same recovered. He also disclosed that he
+could get his associate arrested.   A-2 disclosed to the Investigating
+Officer (IO) that he had physically incapacitated the deceased while he
+was sleeping and A-1 had hit the deceased with a sabal made of iron
+as a result of which the deceased became unconscious.          He also
+disclosed that A-1 has concealed sabal and he could get his associate
+(A-1) arrested. Both disclosure statements bear the signatures of two
+witnesses, PW-1 and Ct. Shiv Lal (PW-15). The Arrest Memo of A-1
+and A-2 are Ex. PW 17/D and Ex. PW 17/C respectively.                   The
+
+
+<span class="hidden_text" id="span_3">Crl. A. Nos.273/2004 &amp; 279/2004                          Page 3 of 15</span>
+ Personal Search Memo of A-1 and A-2 are Ex. PW 15/E and Ex. PW
+15/D respectively.
+</p><p id="p_5">5.      On 23.06.2000, vide Pointing Out-cum-Seizure Memo of the
+shirt (Ex. PW 1/D and Ex. PW 1/F), A-1 and A-2 got recovered their
+respective blood stained shirts which they were wearing at the time of
+commission of the crime, in the presence of PW-1 and PW-15. On the
+same day, the A-1 got recovered the sabal in the presence of PW-1
+and PW-15 vide Seizure Memo marked as Ex. PW 1/E.
+</p><p id="p_6">6.      To bring home the guilt of the accused persons, the prosecution
+examined 17 witnesses in all. The learned ASJ recorded the statements
+of A-1 and A-2 separately under <a href="/doc/1233094/" id="a_3">Section 313</a> of the Code of Criminal
+Procedure, 1973 ('<a href="/doc/1233094/" id="a_4">Cr.PC</a>') wherein they pleaded their innocence. Both
+of them chose not to lead any evidence in their defence.
+</p><p id="p_7">7.      We have heard the learned counsel for the appellants and the
+learned APP for the State.
+</p><p id="p_8">8.      PW-6 and PW-16, who were working in the dairy where crime
+was committed, have turned hostile and did not support the case of the
+prosecution. PW-6 testified that he knew the deceased as well as the
+accused persons as they were working at the dairy of Raju Yadav and
+he himself was working in dairy No.61-64. He further stated that on
+16.06.2000, he went to his native place and returned on 27.06.2000.
+On his return, he came to know that Ram Singh @ Lallan Yadav had
+died. He stated that he does not know who had killed the deceased.
+The testimony of PW-16 was recorded on 12.07.2002. He stated that
+about two years before, he was working on the dairy of PW-2 at
+
+
+<span class="hidden_text" id="span_4">Crl. A. Nos.273/2004 &amp; 279/2004                            Page 4 of 15</span>
+ Village Maksoodpur. He stated that he does not know Ram Singh @
+Lallan Yadav @ Lambu Yadav (the deceased). He stated that he did
+not see the incidence of murder as he was living at some other place.
+Nothing could come out in their respective cross-examination
+conducted by the learned APP that would have helped the case of the
+prosecution. By impugned judgment, the learned ASJ having noticed
+that both the eye-witnesses have turned hostile, convicted the
+appellants on the basis of circumstantial evidence.
+</p><p id="p_9">9.      <a href="/doc/1310327/" id="a_5">In Gagan Kanojia v. State of Punjab</a>; (2006) 13 SCC 516, the
+Supreme Court summarized the following principles required to be
+followed while basing a conviction on circumstantial evidence:-
+</p>
+<blockquote id="blockquote_1">         "(1) There must be a chain of evidence so far complete
+        as not to leave any reasonable ground for a conclusion
+        consistent with the innocence of the accused and it must
+        be such as to show that within all human probability the
+        act must have been done by the accused.
+</blockquote><blockquote id="blockquote_2">        (2) Circumstantial evidence can be reasonably made the
+        basis of an accused person's conviction if it is of such
+        character that it is wholly inconsistent with the innocence
+        of the accused and is consistent only with his guilt.
+        (3) There should be no missing links but it is not that
+        every one of the links must appear on the surface of the
+        evidence, since some of these links may only be inferred
+        from the proven facts.
+</blockquote><blockquote id="blockquote_3">        (4) On the availability of two inferences, the one in
+        favour of the accused must be accepted.
+</blockquote><blockquote id="blockquote_4">        (5) It cannot be said that prosecution must meet any and
+        every hypothesis put forward by the accused however
+        far-fetched and fanciful it might be. Nor does it mean that
+        prosecution evidence must be rejected on the slightest
+
+
+
+<span class="hidden_text" id="span_5">Crl. A. Nos.273/2004 &amp; 279/2004                             Page 5 of 15</span>
+         doubt because the law permits rejection if the doubt is
+        reasonable and not otherwise."
+</blockquote>
+<p id="p_10">10.     Since the learned APP in her arguments has referred to <a href="/doc/1312051/" id="a_6">Section
+27</a> of the Indian Evidence Act, 1872 ('IEA'), it would be prudent to
+refer to Sections 25, 26, and 27 of IEA, which read as under :-
+</p><blockquote id="blockquote_5">        "25. Confession to police officer not to be proved.--
+        No confession made to a police officer, shall be proved
+        as against a person accused of any offence.
+</blockquote>
+<blockquote id="blockquote_6">        26. Confession by accused while in custody of police not
+        to be proved against him.--
+</blockquote><blockquote id="blockquote_7">        No confession made by any person whilst he is in the
+        custody of a police officer, unless it be made in the
+        immediate presence of a Magistrate, shall be proved as
+        against such person.
+</blockquote><blockquote id="blockquote_8">        Explanation -- In this section "Magistrate" does not
+        include the head of a village discharging magisterial
+        functions in the Presidency of Fort St. George or
+        elsewhere, unless such headman is a Magistrate
+        exercising the powers of a Magistrate under the Code of
+        Criminal Procedure, 1882.
+</blockquote>
+<blockquote id="blockquote_9">        27. How much of information received from accused
+        may be proved.--
+</blockquote><blockquote id="blockquote_10">        Provided that, when any fact is deposed to as discovered
+        in consequence of information received from a person
+        accused of any offence, in the custody of a police officer,
+        so much of such information, whether it amounts to a
+        confession or not, as relates distinctly to the fact thereby
+        discovered, may be proved."
+</blockquote>
+<p id="p_11">11.     While reiterating the principles embodied in Sections 25 and 26
+of IEA, in <a href="/doc/70941143/" id="a_7">Indra Dalal v. State of Haryana</a>; (2015) 11 SCC 31, the
+Supreme Court held as under :-
+</p>
+
+<span class="hidden_text" id="span_6">Crl. A. Nos.273/2004 &amp; 279/2004                              Page 6 of 15</span>
+<blockquote id="blockquote_11">         "16. The philosophy behind the aforesaid provision is
+        acceptance of a harsh reality that confessions are
+        extorted by the police officers by practising oppression
+        and torture or even inducement and, therefore, they are
+        unworthy of any credence. The provision absolutely
+        excludes from evidence against the accused a
+        confession made by him to a police officer. This
+        provision applies even to those confessions which are
+        made to a police officer who may not otherwise be
+        acting as such. If he is a police officer and confession
+        was made in his presence, in whatever capacity, the same
+        becomes inadmissible in evidence. This is the substantive
+        rule of law enshrined under this provision and this strict
+        rule has been reiterated countlessly by this Court as well
+        as the High Courts.                   (emphasis added)
+
+</blockquote><p id="p_12">12.     The scope of Section 27 of the IEA was elaborated by the
+Supreme Court in <a href="/doc/1662945/" id="a_8">Anter Singh v. State of Rajasthan</a>; (2004) 10 SCC
+657 which reads as under:
+</p><blockquote id="blockquote_12">        "14. The expression "provided that" together with the
+        phrase "whether it amounts to a confession or not"
+        shows that the section is in the nature of an exception to
+        the preceding provisions particularly Sections 25 and 26.
+        It is not necessary in this case to consider if this section
+        qualifies, to any extent, Section 24, also. It will be seen
+        that the first condition necessary for bringing this
+        section into operation is the discovery of a fact, albeit a
+        relevant fact, in consequence of the information
+        received from a person accused of an offence. The
+        second is that the discovery of such fact must be
+        deposed to. The third is that at the time of the receipt of
+        the information the accused must be in police custody.
+        The last but the most important condition is that only
+        "so much of the information" as relates distinctly to the
+        fact thereby discovered is admissible. The rest of the
+        information has to be excluded. The word "distinctly"
+</blockquote>
+
+<span class="hidden_text" id="span_7">Crl. A. Nos.273/2004 &amp; 279/2004                              Page 7 of 15</span>
+<blockquote id="blockquote_13">         means       "directly",     "indubitably",       "strictly",
+        "unmistakably". The word has been advisedly used to
+        limit and define the scope of the provable information.
+        The phrase "distinctly" relates "to the fact thereby
+        discovered" and is the linchpin of the provision. This
+        phrase refers to that part of the information supplied by
+        the accused which is the direct and immediate cause of
+        the discovery. The reason behind this partial lifting of the
+        ban against confessions and statements made to the
+        police, is that if a fact is actually discovered in
+        consequence of information given by the accused, it
+        affords some guarantee of truth of that part, and that part
+        only, of the information which was the clear, immediate
+        and proximate cause of the discovery. No such guarantee
+        or assurance attaches to the rest of the statement which
+        may be indirectly or remotely related to the fact
+        discovered.     (<a href="/doc/1329788/" id="a_9">See Mohd.      Inayatullah v. State      of
+        Maharashtra</a> (1976) 1 SCC 828)." (emphasis added)
+
+</blockquote><p id="p_13">13.     In view of the provisions of Sections 25 and 26 of the IEA and
+the law laid down by the Supreme Court in Indra Dalal's case
+(supra), confession of the guilt made by the accused in their disclosure
+statements while in police custody being inadmissible in evidence,
+cannot be used against them. However, Section 27 of the IEA is an
+exception to Sections 25 and 26 of the IEA. It provides that any fact
+discovered in consequence of the information received from a person
+accused of any offence while in the custody of a police officer as
+relates distinctly to the fact thereby discovered, is admissible.
+</p><p id="p_14">14.     In the instant case, PW-1, who is the owner of the dairy, has
+been examined by the prosecution to prove the arrest of the accused
+persons, their disclosure and recovery of the articles. He reached the
+spot pursuant to the information given by PW-5, a tempo driver. He
+
+<span class="hidden_text" id="span_8">Crl. A. Nos.273/2004 &amp; 279/2004                              Page 8 of 15</span>
+ found his employee Ram Singh in an injured condition lying on a cot
+in front of dairy No.23. He called the police by dialing No.100. The
+PCR van removed the deceased to Safdarjung Hospital. The police
+recorded the statement of PW-1 (Ex. PW 1/A).
+</p><p id="p_15">15.     The prosecution examined PW-1 who testified as under :-
+</p><blockquote id="blockquote_14">         '...............On the next day i.e. on 23.6.2000 both the
+         accused persons were arrested by the police. Accused
+         Chamman Singh was arrested from near bus stand
+         near village Maksood Pur while accused Tirath Singh
+         was arrested from railway station New Delhi in the
+         evening. Both the accused were interrogated by the
+         police in my presence and both the accused admitted
+         that they both had killed Ram Singh @ Lallan and they
+         also disclosed separately that they had kept the sabal
+         the weapon of offence in the store of the dairy and they
+         also disclosed that they had concealed their blood
+         stained clothes in the same store and they can get the
+         same recovered. The disclosure statement of accused
+         Tirath Singh is Ex. PW 1/B and bears my signatures at
+         point A and the disclosure statement of accused
+         Chaman Singh is Ex. PW 1/C and bears my signatures
+         at point A. Both the accused persons then led us to the
+         store of the dairy No.22 and pointed out towards the
+         store and took out his blood stained shirt which he
+         alleged to be wearing at the time of the commission of
+         the offence, and he also took out the sabal, the weapon
+         of the offence from the same store and these articles
+         were sealed in the parcel and were seized by the
+         police. The shirt was taken into possession vide
+         recovery memo Ex. PW 1/D while the sabal was taken
+         into possession vide memo Ex. PW 1/E and bears my
+         signatures at point A. Accused Chaman Singh also got
+         recovered his blood stained clothes from the store
+         which is used for keeping the fodder and the same was
+
+
+
+<span class="hidden_text" id="span_9">Crl. A. Nos.273/2004 &amp; 279/2004                            Page 9 of 15</span>
+          also sealed/taken into possession vide recovery memo
+         Ex. PW 1/F and same bears my signatures at point A.
+</blockquote>
+<blockquote id="blockquote_15">         The pointing out memo of Tirath Singh of Dairy No.22
+         is Ex. PW 1/G and which also bears my signatures at
+         point A. At this stage, a sealed parcel is opened which
+         is having the seal of FSL. The sabal is Ex. P1 which
+         was got recovered by the accused persons."
+</blockquote>
+<p id="p_16">16.     The Arrest Memo of A-1, Ex. PW 17/D is dated 23.06.2000. It
+is important to note that it does not mention the place and time of his
+arrest and indicates :-
+</p><blockquote id="blockquote_16">                     "5. Place of Arrest: Near
+</blockquote><blockquote id="blockquote_17">                      6. Date of Arrest: 23.6.2000
+</blockquote><blockquote id="blockquote_18">                      7. Time of Arrest:           "
+</blockquote>
+<p id="p_17">17.     Similarly, the Arrest Memo of A-2, Ex. PW 17/C dated
+23.06.2000, does not indicate the specific dairy from which he was
+arrested. Time of his arrest is also not mentioned. It indicates :-
+</p><blockquote id="blockquote_19">                    "5. Place of Arrest: Dairy Masoodpur
+</blockquote><blockquote id="blockquote_20">                     6. Date of Arrest: 23.06.2000
+</blockquote><blockquote id="blockquote_21">                     7. Time of Arrest:             "
+</blockquote>
+<p id="p_18">18.     PW-1 claimed that A-1 and A-2 were arrested in his presence
+but surprisingly, the Arrest Memo of A-1 and A-2, Ex. PW 17/D and
+Ex. PW 17/C respectively, do not bear his signatures. The IO (PW-
+</p><p id="p_19">17) has also not explained as to why his signatures were not obtained.
+Both these arrest memos bear the name of only one witness, that is,
+PW-15 and again surprisingly, only the Arrest Memo of A-1 bears his
+signatures. The arrest memo of A-2 does not bear signatures of the
+sole witness though his name is mentioned on the document. The
+
+
+<span class="hidden_text" id="span_10">Crl. A. Nos.273/2004 &amp; 279/2004                             Page 10 of 15</span>
+ personal search memo of A-1 (Ex. PW 15/E) dated 23.06.2000 though
+bears the name of PW-15, does not bear his signatures. The personal
+search memo of A-2 (Ex. PW 15/D) bears the signatures of the only
+witness, that is, PW-15. A-1 and A-2 were arrested in the presence of
+PW-1, but it is also not explained as to why his signatures were not
+obtained by the IO on the personal search memos of A-1 and A-2.
+Non-mentioning of the place and time of arrest of A-1 and A-2 and
+non-obtaining of the signatures of PW-1 on the arrest memo and
+personal search memo certainly creates a doubt on the veracity of the
+case of the prosecution.
+</p><p id="p_20">19.     PW-1 has testified that both the accused persons have disclosed
+that after committing the crime, they had concealed their blood stained
+clothes in the fodder store and could get the same recovered.
+However, the disclosure statements of A-1 and A-2, Ex. PW 1/B and
+Ex. PW 1/C respectively, nowhere so indicate. The seizure memo of
+the shirts of the A-1 (Ex. PW 1/D) and A-2 (Ex. PW 1/F) mention that
+blood stained shirts were got recovered by A-1 and A-2 on the basis of
+their disclosure statements, Ex. PW 1/B and Ex. PW 1/C which, in
+fact, is not reflected in the disclosure statements. As per the disclosure
+statement of A-2 (Ex. PW 1/C), he had only disclosed that the sabal
+was concealed by A-1 and he could get A-1 arrested. He never
+volunteered to get anything recovered. Only A-1 disclosed in his
+disclosure statement, Ex. PW 1/B that he could get the sabal
+recovered. However, PW-1 testified that „the sabal is Ex. P1 which
+was got recovered by the accused persons'. The weapon of offence,
+
+
+<span class="hidden_text" id="span_11">Crl. A. Nos.273/2004 &amp; 279/2004                             Page 11 of 15</span>
+ that is, sabal was not found to bear any blood at the time of recovery.
+Further, PW-7, Dr. Chander Kant, who conducted the post-mortem on
+the body of the deceased had opined in his cross-examination that the
+ante-mortem injuries from 1 to 8 could not be caused by the sabal of
+iron. He stated that „At this stage, a sealed parcel having the seal of
+the court is opened and it is found to contain a sable of iron. In my
+opinion, the antemortem injuries from 1 to 8 could not be produced by
+this weapon.        The antemortem injuries No.1 to 6 are caused by
+application of blunt force from fists and 7 and 8 are likely to be
+caused by use of iron rod or a lathi.‟
+</p><p id="p_21">20.     As per the FSL report, Ex. PX, PY and PZ, the blood group
+'AB' was detected on one of the shirts only, that is, S-6 and not on S-
+</p><p id="p_22">5. The report indicate 'AB' blood group of the deceased which was
+found on S4a (Baniyan), S4b (Lungi) and S4c (Shawl) which were
+seized vide Memo, Ex. PW 15/A from the Charpai (Cot) on which the
+deceased was lying. But there is no evidence whether the shirt S-6
+belongs to A-1 or A-2.
+</p><p id="p_23">21.     Following the ratio of the judgment of the Supreme Court in
+Gagan Kanojia's case (supra), it can be said that in a case based
+solely on circumstantial evidence, the chain of circumstances has to be
+unabridged so as to be compatible with only one conclusion, that is,
+the guilt of the accused and if any missing link in the chain of
+circumstances gives rise to two inferences, then the inference
+favouring the accused must be accepted.
+</p><p id="p_24">22. In the instant case, there are several missing links in the chain of
+
+
+<span class="hidden_text" id="span_12">Crl. A. Nos.273/2004 &amp; 279/2004                           Page 12 of 15</span>
+ circumstances which went unnoticed by the learned ASJ while
+convicting the appellants. The recovery of the weapon of offence, that
+is, sabal does not support the case of the prosecution in view of the
+testimony of PW-7, Dr.Chander Kant, who testified that the ante-
+mortem injuries could not have been inflicted by the sabal. Moreover,
+the weapon of offence, that is, sabal was not having blood stains at the
+time of its recovery. The recovery of sabal has been made pursuant to
+the disclosure statement by A-1, whereas PW-1 testified that it was
+recovered at the instance of both, A-1 and A-2.
+</p><p id="p_25">23.     Both the accused persons in their respective disclosure
+statements never disclosed that they could get their respective shirts
+recovered and the shirts recovered vide recovery memo, Ex. PW 1/D
+and PW 1/F, purportedly on the basis of the disclosure statements,
+appear to have been planted. Only one shirt, S-6, was found bearing
+blood group 'AB' but it is not proved whether the said shirt belongs to
+A-1 or A-2. The time and place of arrest of both the accused are also
+not reflected in their respective arrest memos. The arrest and personal
+search memos of both the accused persons do not bear the signatures
+of PW-1, who claims to have been present at the time of their arrest.
+Though the personal search memo of A-1 and arrest memo of A-2,
+mention the name of the witness, PW-15, but he has not signed either
+of these documents.
+</p><p id="p_26">24.     In view of the aforesaid glaring gaps in the case of the
+prosecution, we are of the opinion that the prosecution has failed to
+prove the guilt of the appellants beyond any reasonable doubt.
+</p>
+
+<span class="hidden_text" id="span_13">Crl. A. Nos.273/2004 &amp; 279/2004                           Page 13 of 15</span>
+<p id="p_27"> 25.     Given the aforesaid facts and circumstances of the case, both
+the appellants are entitled to benefit of doubt. Both the appeals are
+accordingly allowed and the impugned judgment dated 20.03.2004
+and the order on sentence dated 29.03.2004 are hereby set aside.
+Consequently, both the appellants are acquitted of the offences under
+<a href="/doc/1953529/" id="a_10">Section 302</a> read with <a href="/doc/37788/" id="a_11">Section 34</a> IPC. The bail bonds and surety
+bonds furnished by the appellants stand discharged. The appellants
+shall comply with the requirements of <a href="/doc/1233094/" id="a_12">Section 437A</a> Cr.PC to the
+satisfaction of the trial court at the earliest. The Trial Court Record be
+returned together with a certified copy of the judgment. Copy of this
+judgment be sent to the concerned Jail Superintendent for updating the
+jail record.
+</p><p id="p_28">26.     The court further finds that the trial Court has not awarded any
+compensation to the legal representatives of the deceased under
+<a href="/doc/1233094/" id="a_13">Section 357</a> of Cr.P.C. Meanwhile Section 357A <a href="/doc/1233094/" id="a_14">Cr.P.C</a>. has been
+incorporated w.e.f. 31.12.2009 and pursuant thereto, the Government
+of NCT of Delhi has framed the Victim Compensation Scheme.
+Therefore, we direct the Delhi State Legal Services Authority
+('DSLSA') in terms of <a href="/doc/1953529/" id="a_15">Section 357A</a> (5) <a href="/doc/1233094/" id="a_16">Cr.PC</a>, to forthwith undertake
+an inquiry and within two months award and ensure disbursal of
+appropriate compensation to the family of the victim in terms thereof.
+For this purpose, a certified copy of this judgment shall be delivered
+forthwith to the Secretary, DSLSA with a further direction to submit a
+compliance report to this Court within three months from the date of
+receipt of the certified copy of this judgment. If no such compliance is
+
+
+<span class="hidden_text" id="span_14">Crl. A. Nos.273/2004 &amp; 279/2004                             Page 14 of 15</span>
+ forthcoming within the time stipulated, the Registry will place a note
+before the roster Bench for further directions.
+</p><p id="p_29">27.     Both the appeals are disposed of.
+</p>
+
+
+<p id="p_30">                                                    (VINOD GOEL)
+                                                       JUDGE
+
+
+
+                                                    (HIMA KOHLI)
+                                                       JUDGE
+ MAY 14, 2019
+'AA'
+
+
+
+
+<span class="hidden_text" id="span_15">Crl. A. Nos.273/2004 &amp; 279/2004                          Page 15 of 15</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

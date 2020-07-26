@@ -1,0 +1,371 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Messrs R.K.Industries vs State Of Bihar &amp; Ors on 29 October, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/179466090/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/179466090/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/179466090/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deoghar">deoghar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=payment%20on%20interest">payment on interest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cheque%20is%20out%20of%20date">cheque is out of date</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court</div>
+<div class="doc_title">Messrs R.K.Industries vs State Of Bihar &amp; Ors on 29 October, 2010</div><div class="doc_author">Author: S.K.Katriar</div>
+
+<pre id="pre_1">                CIVIL WRIT JURISDICTION CASE No.2958 OF 1994
+                                       *******
+</pre><p id="p_1">               In the matter of an application under Articles 226 and 227 of
+               the Constitution of India.
+</p><p id="p_2">                                       *******
+           MESSRS R.K.INDUSTRIES, situated at, P.O. Dev Sangh, P.S. Deoghar,
+           District- Deoghar, through its Partner Smt. Shushila Devi, Mourya Wala,
+           resident of Maurya Niwas, Castair's Town, P.S. Deoghar, District- Deoghar,
+           Bihar.
+</p><p id="p_3">                                                            ..... Petitioner.
+</p><p id="p_4">                                             Versus
+</p><p id="p_5">           1. THE STATE OF BIHAR, through its Secretary, R.E.O. Department,
+               Secretariat, Patna.
+</p><p id="p_6">           2. The Chief Engineer, R.E.O. Department, Patna.
+</p><p id="p_7">           3. The Superintending Engineer, R.E.O., Works Circle, Mayaganj,
+               Bhagalpur.
+</p><p id="p_8">           4. The Executive Engineer, R.E.O. Works Division, Banka.
+</p><p id="p_9">                                                           ....... Respondents.
+</p><p id="p_10">                                            -----------
+</p><p id="p_11">           For the Petitioner :     Dr. Anil Kumar Upadhyay, Advocate.
+
+           For the Respondents:    Mr. N.K. Sinha, A.A.G.-10 with
+                                   Mr. Md. Anish Akhtar, A.C. to A.A.G.-10.
+</p><p id="p_12">                                        *********
+                                       PRESENT
+
+                   THE HON'BLE MR. JUSTICE SUDHIR KUMAR KATRIAR
+                THE HON'BLE MR. JUSTICE BIRENDRA PRASAD VERMA
+                                          *********
+S.K. Katriar, J.         The petitioner seeks a direction to the respondent
+
+          authorities for payment of interest on the cheque amount.
+
+</p><p id="p_13">          2.             A brief statement of facts essential for the disposal of
+
+          this writ petition may be indicated. The petitioner is a manufacturer
+
+          and supplier of hume pipes. He had made supply of hume pipes to
+
+          the State of Bihar through respondent no.4, in March 1992, in
+
+          pursuance of the supply order dated 25.3.1992. Cheque dated
+
+          31.3.1992, for Rs.81,008/-, was issued to him and was received by
+
+          him on that date itself, being the last date of the financial year.
+<span class="hidden_text" id="span_1">                           2</span>
+
+
+
+
+According to the petitioner, he made attempts to have the same
+
+encashed by presenting it before the concerned treasury but could
+
+not be encashed because of heavy rush of cheque-holders which the
+
+treasury was unable to handle. Consequently the cheque could not be
+
+encashed which the petitioner returned to respondent no.4 on
+
+2.4.1992. After persistent efforts for a period of little less than 11
+
+months, respondent no.4 issued cheque dated 23.2.1993 for the like
+
+amount which has been encashed. The present writ petition has been
+
+preferred for payment of interest for a period of 10 months and 22
+
+days along with costs.
+</p>
+<p id="p_14">3.             Learned counsel for the petitioner submits that he,
+
+being a businessman, arranges his finances from the bank and other
+
+sources for which he has to pay interest. Unless the petitioner is paid
+
+for supply of the goods in time, he would suffer losses and the entire
+
+profit earned by the supply would be eaten away by the interest he
+
+has to pay to his lender. He submits that there was no justification
+
+for the authorities to issue cheques on the last date of the financial
+
+year on which date the treasuries of the Government of Bihar are
+
+proverbially overburdened. He has relied on the following orders of
+
+one of us (S.K. Katriar, J.), sitting singly:
+
+</p><blockquote id="blockquote_1">       (i)   Order dated 1.3.2000, passed in C.W.J.C. No. 4927
+
+             of 1999 (Ramdeo Singh Vs. The State of Bihar and
+
+             others), since reported in 2000 (2) P.L.J.R. 235.
+<span class="hidden_text" id="span_2">                         3</span>
+
+
+
+
+</blockquote><blockquote id="blockquote_2">      (ii)   Order dated 28.3.2000, in C.W.J.C. No.5704 of
+
+             1999 (M/s. Bharat Agriculture and Mechanical
+
+             Engineering Co. Vs. State of Bihar and others),
+
+             2000(3) P.L.J.R. 126.
+</blockquote>
+<p id="p_15">4.            The learned Additional Advocate General has opposed
+
+the writ petition. He submits that altogether nine cheques were
+
+issued by respondent no.4 on that date and all the cheques, except
+
+that of the petitioner, were encashed on the same day. In his
+
+submission, therefore, non-encashment of cheque on 31.3.1992 may
+
+be presumed to be attributable to the negligence of the petitioner. He
+
+has also advanced submissions to distinguish the aforesaid reported
+
+decision of the learned Single Judge.
+</p>
+<p id="p_16">5.            We have perused the materials on record and
+
+considered the submissions of learned counsel for the parties.
+
+Learned counsel for the petitioner is right in his submission that the
+
+Government treasury is proverbially over-crowded on the last date of
+
+the financial year, and it is common knowledge that the cheque-
+
+holders find it extremely difficult to have the cheques encashed on
+
+that date. The respondent authorities have not explained the
+
+justification for issuance of the cheque to the petitioner on the last
+
+date of the financial year. We have no manner of doubt that no fault
+
+can be attributed to the petitioner for non-encashment of the cheques
+
+on 31.3.1992. We also find no justification for such enormous delay
+<span class="hidden_text" id="span_3">                          4</span>
+
+
+
+
+in issuance of the fresh cheque. It is equally common knowledge that
+
+businessmen arrange their liquidity from various sources including
+
+the bank on payment of interest. If interest is not granted to the
+
+petitioner on belated payment, then his profit would be eaten away
+
+by payment of interest to the bankers. We are, therefore, convinced
+
+that the petitioner should be compensated with payment of interest.
+
+</p><p id="p_17">6.             The next question arises is that at the rate at which the
+
+interest has to be allowed to the petitioner. Learned counsel for the
+
+petitioner rightly relied on the order of this Court in Ramdeo Singh
+
+Vs. The State of Bihar (supra). We are mindful of the position that
+
+the same was rendered by a learned Single Judge, and one of us.
+
+That was also a similar case for issuance of a fresh cheque by the
+
+State Government to a civil Contractor in a situation where the
+
+cheque could not be encashed within the same financial year because
+
+of the fault attributable to the treasury officer. The writ petition was,
+
+therefore, allowed with interest at the rate of 25%, and cost
+
+quantified at Rs.25,000/-. However, there is one significant
+
+difference with the present case, namely, cheque in that case was not
+
+issued till the order of the Court. Therefore, that writ petition had
+
+been preferred for a direction for payment of the principal amount as
+
+well as interest. On the other hand, in the present case, fresh cheque
+
+had already been issued to the petitioner, and this writ petition has
+<span class="hidden_text" id="span_4">                                     5</span>
+
+
+
+
+          been preferred only for interest and costs. We are, therefore, not
+
+          inclined to grant interest at the same rate.
+</p>
+<p id="p_18">          6.1)           In the present case, unlike the reported decision, the
+
+          fresh cheque was issued after a delay of precisely 10 months and 22
+
+          days. We are, therefore, of the view that it does not appear to us that
+
+          the present case is one of governmental arbitrariness. Nonetheless
+
+          the petitioner has suffered because of being deprived of his money
+
+          for quite some time. We are, therefore, of the view that interest of
+
+          justice would be served if the petitioner is paid simple interest at the
+
+          rate of 18%, from 31.3.1992 to 23.2.1993.
+</p>
+<p id="p_19">          7.             In the result, this writ petition is allowed. Respondent
+
+          no.4 is hereby directed to ensure payment of interest in the aforesaid
+
+          manner within a period of four months from today, failing which the
+
+          petitioner shall be entitled to compound interest at the same rate for
+
+          the same period. In the circumstances of the case, there shall be no
+
+          order as to costs.
+</p>
+<p id="p_20">
+
+</p><p id="p_21">                                                    (S K Katriar, J.)
+Birendra Prasad Verma, J. I agree.
+</p>
+<p id="p_22">
+</p><p id="p_23">                                             (Birendra Prasad Verma, J.)
+Patna High Court, Patna.
+</p><p id="p_24">Dated the 29th day of October, 2010.
+</p><p id="p_25">S.K.Pathak/ (NAFR).
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dev Mani Mishra vs State Of U.P. &amp; Anr. on 17 July, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/44275464/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:44275464">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1436241/">Section 420 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1836662/">Section 12 in The Children Act,   1960</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1560742/">Section 302 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/386021/">Section 201 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1973522/">The Children Act,   1960</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/44275464/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/44275464/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/44275464/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Dev Mani Mishra vs State Of U.P. &amp; Anr. on 17 July, 2019</div><div class="doc_bench">Bench: Rajeev Singh</div>
+
+<pre id="pre_1">
+
+
+
+
+HIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH
+ 
+ 
+
+?Court No. - 11
+ 
+
+ 
+Case :- CRIMINAL REVISION No. - 168 of 2018
+ 
+
+ 
+Revisionist :- Dev Mani Mishra
+ 
+Opposite Party :- State Of U.P. &amp; Anr.
+ 
+Counsel for Revisionist :- Vivek Pandey,Deo Prakash Srivastava
+ 
+Counsel for Opposite Party :- Govt. Advocate
+ 
+
+ 
+Hon'ble Rajeev Singh,J.
+</pre> 
+<p id="p_1">Heard learned counsel for the revisionist and learned counsel for the opposite parties. 
+</p> 
+<p id="p_2">This Criminal Revision has been filed against the judgment and order dated 05.01.2018 passed by Additional Session Judge Room No.2 Gonda in the Criminal Appeal No.36 of 2017 and order dated 18.10.2017 passed by Principal Judge, Juvenile Justice Board, Gonda in Case No.1782 of 2017 arising out of Case Crime No.295 of 2016 under <a href="/doc/386021/" id="a_1">Sections 201</a>, <a href="/doc/1560742/" id="a_2">302</a> and <a href="/doc/1436241/" id="a_3">420</a> I.P.C., Police Station-Kotwali Nagar, District Gonda. 
+</p> 
+<p id="p_3">Learned counsel for the revisionist has contended that the revisionist is a juvenile. He further submitted that the learned Juvenile Justice Board fail to appreciate the provision of Section 12 of Juvenile Justice (Case and Protection of Children), Act 2000. Merely on the basis of presumption the bail application was rejected on 18.10.2017 observing from the DPO report that in case, the revisionist is enlarged on bail, then he would be involved in association of criminals. Therefore, it is not proper to release on bail. The revisionist is in custody since 15.05.2017 and he has no criminal history. The above aspect of the matter has not been properly considered by the court below. He has further contended that during pendency of this revision the co-accused namely Sansarmani, Raj Kumari, Bachcha Ram and Pankaj Kumar Verma @ Ram, Pravesh Verma have been released on bail by this Court, vide orders dated 22.05.2017, 17.02.2017, 18.01.2017 and 12.03.2019 passed in Criminal Misc. Bail Application Nos.4082 of 2017, 1334 of 2017, 296 of 2017 and Criminal Revision No755 of 2017. In these circumstances, the revisionist is also entitled for bail. In case of being enlarged on bail, he will not misuse the liberty of bail. 
+</p> 
+<p id="p_4">Learned A.G.A. has opposed the above contentions but conceded that the revisionist is not having any criminal history and all other co-accused have been enlarged on bail. 
+</p> 
+<p id="p_5">I have considered the rival submissions raised by the learned counsel for the parties and perused the record, which reveals that the above aspects of the matter except to grant of bail to the co accused have not been properly considered by the courts below.
+</p> 
+<p id="p_6">The submission of learned counsel for the revisionist is that it is not in dispute that the revisionist is a juvenile and is entitled to the benefits of the provisions of the Juvenile Justice (Care and <a href="/doc/1973522/" id="a_4">Protection of Children) Act</a>, 2000. It has been submitted that under Section 12 of the Juvenile Justice Act, prayer for bail of a juvenile can be rejected 'if there appear reasonable grounds for believing that the release of the juvenile is likely to bring him into association with any known criminal or expose him to moral, physical or psychological danger or that his release wound defeat the ends of justice'. 
+</p> 
+<p id="p_7">This Court has to see whether the opinion of the appellate Court as well as Juvenile Justice Board recorded in the impugned orders are in consonance with the provision of <a href="/doc/1542339/" id="a_5">Section 12</a> of the Juvenile Justice (Care and <a href="/doc/1973522/" id="a_6">Protection of Children) Act</a>, 2000. <a href="/doc/1836662/" id="a_7">Section 12</a> of the Act lays down three contingencies in which bail could be refused to juvenile, which are as follows: 
+</p> 
+<p id="p_8">(1) if the release is likely to bring him into association with any known criminal, or
+ 
+(2) expose him to moral, physical or psychological danger, or
+ 
+(3) that his release would defeat the ends of justice?
+</p> 
+<p id="p_9">Admittedly, gravity of the offence has not been mentioned as a ground for rejection of bail under <a href="/doc/1836662/" id="a_8">Section 12</a> of the Act. 
+</p> 
+<p id="p_10">It has further been submitted that gravity of the offence could not be relevant for refusing grant of bail to the juvenile, as has been held by this Court in Shiv Kumar alias Sadhu Vs. State of U.P., 2010 (68) ACC 616 and it has been a consistent view of various courts. It has also been submitted that there exists no material to justify rejection of bail on the grounds envisaged by <a href="/doc/1836662/" id="a_9">Section 12</a> of the Act. 
+</p> 
+<p id="p_11">In view of the above, this revision is allowed and order dated 05.01.2018 passed by Additional Session Judge Room No.2 Gonda in the Criminal Appeal No.36 of 2017 and order dated 18.10.2017 passed by Principal Judge, Juvenile Justice Board, Gonda in Case No.1782 of 2017 arising out of Case Crime No.295 of 2016 under <a href="/doc/386021/" id="a_10">Sections 201</a>, <a href="/doc/1560742/" id="a_11">302</a> and <a href="/doc/1436241/" id="a_12">420</a> I.P.C., Police Station-Kotwali Nagar, District Gonda are hereby set aside.
+</p> 
+<p id="p_12">Let revisionist Dev Mani Mishra, be released on bail in Criminal Appeal No.36 of 2017, Case No.1782 of 2017 arising out of Case Crime No.295 of 2016, under <a href="/doc/386021/" id="a_13">Sections 201</a>, <a href="/doc/1560742/" id="a_14">302</a> and <a href="/doc/1436241/" id="a_15">420</a> I.P.C., Police Station-Kotwali Nagar, District Gonda, on furnishing of a personal bond alongwith an undertaking on behalf of revisionist by his legal guardian/father to the effect that he will not permit the revisionist to come in association with any known criminal or expose him to moral, physical or psychological danger or that his release would defeat the ends of justice and provide no occasion to the revisionist whereby his release on bail would defeat the ends of justice, by his legal guardian/father and two sureties each in the like amount to the satisfaction of the Court concerned subject to following conditions :- 
+</p> 
+<p id="p_13">(1) Revisionist will not try to influence the witnesses or tamper with the evidence of the case or otherwise misuse the liberty of bail.
+</p> 
+<p id="p_14">(2) Revisionist will fully cooperate in expeditious disposal of the case and shall not seek any adjournment on the dates fixed for evidence when witnesses are present in the Court.
+</p> 
+<p id="p_15">(3) Revisionist shall remain present, in person, before the Board on the dates fixed for (a) opening of the case; (b) framing of charge; and (c) recording of statement under <a href="/doc/1233094/" id="a_16">Section 313</a> Cr.P.C. If in the opinion of the Board that absence of the applicant is deliberate or without sufficient cause, then it shall be open for the Board to treat such default as abuse of liberty of bail and proceed against him in accordance with law. 
+</p> 
+<p id="p_16">Any violation of above conditions will be treated misuse of bail and Board will be at liberty to pass appropriate orders in the matter regarding cancellation of bail.
+</p> 
+<p id="p_17">Order Date :- 17.7.2019
+ 
+Amit/-
+</p> 
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+    
+      
+  
+  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

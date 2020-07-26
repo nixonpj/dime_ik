@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Manoj Kumar vs Asif on 2 August, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/184753415/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/184753415/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/184753415/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jaswant%20singh">jaswant singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=faridkot">faridkot</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Manoj Kumar vs Asif on 2 August, 2013</div><pre id="pre_1">                                                                    Manoj Kumar
+       IN THE HIGH COURT FOR THE STATES OF PUNJAB AND
+                                                  2013.08.05 14:23
+                                                  I attest to the accuracy and
+                                                                    integrity of this document
+                                                                    High Court Chandigarh
+                      HARYANA AT CHANDIGARH
+
+
+                                             T.A. No.443 of 2013 (O&amp;M)
+
+                                             Date of Decision: 2.8.2013
+
+Shireen Roselein and Anr.
+
+                                                              .....Petitioner(s)
+
+                                   Versus
+
+Asif
+
+                                                             ....Respondent(s)</pre>
+
+<pre id="pre_2">CORAM:       HON'BLE MR. JUSTICE JASWANT SINGH
+
+Present:     Mr. Amaninder Preet, Advocate for the petitioner.
+
+JASWANT SINGH, J (ORAL)
+
+</pre><p id="p_1">             Petitioner-Shireen Roselein and her father-Salvester Fazal
+
+Masih, by filing the present petition, are seeking the transfer of a suit filed
+
+by the respondent-plaintiff/Asif at Faridkot seeking to restrain petitioner
+
+No.2-Salvester Fazal Masih from re-marrying petitioner No.1-Shireen
+
+Roselein to anybody else, in view of the alleged marriage between Asif and
+
+Shireen Roselein on 16.3.2013 at Faridkot Church. The transfer is sought
+
+from Faridkot to Kharar, District Mohali.
+</p>
+<p id="p_2">             After arguing for some time, learned counsel for the petitioners
+
+prays for withdrawal of the present petition.
+</p>
+<p id="p_3">             Dismissed as withdrawn.
+</p>
+<pre id="pre_3">August 02, 2013                                 ( JASWANT SINGH )
+manoj                                                JUDGE
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

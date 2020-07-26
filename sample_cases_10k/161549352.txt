@@ -1,0 +1,419 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Yasir Iqbal vs The State Of West Bengal &amp; Anr on 15 July, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/161549352/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/455468/">Section 307 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/447673/">Section 161 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/261195/">The Indian Electricity Act, 1910</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/161549352/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/161549352/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=grant%20of%20bail">grant of bail</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=defacto%20complainant">defacto complainant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bail%20petitiones">bail petitiones</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=case%20diary">case diary</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bail%20order">bail order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ashim%20kumar%20roy">ashim kumar roy</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">Yasir Iqbal vs The State Of West Bengal &amp; Anr on 15 July, 2009</div><div class="doc_author">Author: Ashim Kumar Roy</div>
+
+<p id="p_1">Form No. J (1)
+
+                 IN THE HIGH COURT AT CALCUTTA
+                                Criminal Revisional Jurisdiction
+                                        Appellate Side
+
+
+Present:
+</p>
+<p id="p_2">The Hon'ble Justice Ashim Kumar Roy
+
+
+
+                                    C.R.R. No. 1788 of 2009
+
+                                           Yasir Iqbal
+                                             versus
+                                The State of West Bengal &amp; Anr.
+</p>
+<p id="p_3">
+
+</p><pre id="pre_1">For Petitioner            :   Mr. Syed Shahid Imam
+                              Mr. Shah Jahan Hossain
+
+For State             :       Mr. Ashimesh Goswami, Ld. P.P.
+                              Mr. Sandipan Ganguly
+                              Mr. Puspal Satpati
+
+For O.P. No. 2    :           Mr. Sudipto Moitra
+                              Mr. Tarique Quasimuddin
+                              Mr. Zainal Tahan
+                              Ms. Najmus Sahar
+                              Ms. Sanchita Chaudhuri
+                              Mr. Ram Narain Rajak
+                              Mr. Md. Irhad Yaqub
+
+
+</pre><p id="p_4">Heard On : June 16th, June 30th, July 1st, July 2nd, July 3rd, 2009.
+
+
+</p><p id="p_5">Judgment On :                 15-07-2009.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">      In connection with New Market Police Station Case No. 101 of 2007, under
+
+<a href="/doc/455468/" id="a_1">Section 307</a> of the Indian Penal Code, the petitioner was arrested by the police on
+ April 15, 2007 and on the very next day, i.e. on April 16, 2007 when he was
+
+produced before the Learned Chief Metropolitan Magistrate, Calcutta he was
+
+released on bail. The opposite party no. 2 herein, the defacto-complainant moved
+
+the City Sessions Court, Calcutta for cancellation of bail, whereupon, the
+
+Learned Chief Judge, City Sessions Court cancelled the petitioner's bail.
+
+</p><p id="p_8">            Hence, this criminal revision against the order of cancellation of bail.
+
+</p><p id="p_9">      2.    Heard the learned Counsels appearing on behalf of the parties.
+
+Perused the Case Diary. Considered the case laws relied upon by them.
+
+</p><p id="p_10">      3.    It is the submissions of the learned Counsel of the petitioner that the
+
+Learned Magistrate was fully justified in granting bail to the petitioner as the
+
+injury sustained by the defacto-complainant was simple in nature. He further
+
+submitted that after being released on bail the petitioner has never misused his
+
+liberty in any way whatsoever and as directed by this Hon'ble High Court he has
+
+been regularly meeting the Investigating Officer of this case, on every day, since
+
+May 19, 2009. According to the Counsel of the petitioner while the petitioner
+
+reported to the Investigating Officer of the case he was thoroughly interrogated
+
+and his statement has also been recorded. Thus, he prayed that the impugned
+
+order whereby the petitioner's bail was cancelled by the Learned Chief Judge,
+
+City Sessions Court be quashed and he be permitted to continue on bail as
+
+granted by the Learned Magistrate.
+</p>
+<p id="p_11">            On the other hand, the learned Counsel appearing on behalf of the
+
+defacto-complainant vehemently urged that the order of granting bail is wholly
+
+against the materials on record and accordingly, the Learned Chief Judge, City
+ Sessions Court very rightly set aside the same and cancelled the petitioner's bail.
+
+He further submitted when the order of granting bail by itself is manifestly
+
+erroneous and illegal, the post bail conduct of an accused has no relevance. In
+
+support of his submission the learned Counsel appearing for the opposite party
+
+no. 2 relied upon the following decisions;
+</p>
+<p id="p_12">            (i) State of U.P. Vs. Amarmani Tripathi, reported in (2005) 8 SCC 21,
+
+</p><p id="p_13">(ii) Narendra K. Amin (Dr.) Vs. State of Gujarat &amp; Anr., reported in (2008) 13 SCC
+
+584, (iii) Lokesh Singh Vs. State of U.P. &amp; Anr., reported in AIR 2009 SC 94, (iv)
+
+Anil Kumar Tulsiyani Vs. State of U.P. &amp; Anr., reported in 2006 (3) All India
+
+Criminal Law Reporter 609, (v) Anwari Begum Vs. Sher Mohammad &amp; Anr.,
+
+reported in (2005) 7 SCC 326, (vi) Dinesh M.N. (S.P.) Vs. State of Gujarat,
+
+reported in (2008) 5 SCC 66, (vii) Gajanand Agarwal Vs. State of Orissa &amp; Ors.,
+
+reported in 2007 (2) Crimes 275 (SC), (viii) Brij Nandan Jaiswal Vs. Munna
+
+Jaiswal &amp; Anr., reported in 2009 (1) Crimes 153 (SC), (ix) Gobarbhai Naranbhai
+
+Singala Vs. State of Gujarat &amp; Ors., reported in (2008) 3 SCC 775, (x) State of
+
+Maharashtra Etc. Vs. Dhanendra Shriram Bhurle Etc., reported in 2009 (2)
+
+Supreme 17, (xi) Nirupama Choudhury Vs. State of West Bengal &amp; Anr., reported
+
+in 2007 (2) CHN 879.
+</p>
+<p id="p_14">            According to him the order impugned does not deserve any
+
+interference.
+</p>
+<p id="p_15">            The Learned Public Prosecutor produced the Case Diary and
+
+supplemented the contention of the learned lawyer of the defacto-complainant,
+
+submitting that the nature of injury suffered by the defacto-complainant clearly
+ attracts the offence punishable under <a href="/doc/455468/" id="a_2">Section 307</a> of the Indian Penal Code and
+
+as such the Learned Magistrate was not justified to grant bail to the petitioner on
+
+the very first day of his production in court.    The Learned Public Prosecutor
+
+further submitted that during the course of investigation, the petitioner was
+
+thoroughly interrogated by the police and his custodial interrogation is no more
+
+necessary. According to him the investigation is almost complete and charge-
+
+sheet will be submitted very shortly.
+</p>
+<p id="p_16">      4.    Now having considered the materials available from the Case Diary
+
+and the statement of the defacto-complainant, the injured herself and the
+
+witnesses, who were present at the time of alleged occurrence, I have no doubt
+
+that the findings of the Learned Magistrate is totally against the materials on
+
+record and wholly erroneous.      The conclusion of the Learned Magistrate as
+
+regards to the offence committed by the petitioner on the face of the materials is
+
+not correct. I find that the victim was assaulted by the present petitioner with an
+
+iron rod on her head and such injury was repaired by as many as 14 stitches. I
+
+further find from the statement of the witnesses recorded under <a href="/doc/447673/" id="a_3">Section 161</a> of
+
+the Code of Criminal Procedure that the accused pounced on the injured saying
+
+that he would kill her. It was the further statement of the witnesses at that time
+
+the accused was also carrying a knife but could not use the same due to the
+
+timely intervention of the local residents. As such, even if, it is found that the
+
+nature of injuries suffered by the victim are simple in nature that does not mean
+
+the offence under <a href="/doc/261195/" id="a_4">Section 307</a> of the Indian penal Code would elude. In a case
+
+where the allegation is one of attempt to commit murder, it is not essential that
+ the bodily injury capable of causing death should have been inflicted, but the
+
+intention of the accused would be the deciding factor. Necessarily the nature of
+
+weapon used, the portion of the body where the injuries were inflicted coupled
+
+with the overact in execution of the offence ought to be taken into consideration
+
+irrespective of its result. Merely because the injuries inflicted on the victim are
+
+simple in nature that cannot take the case out of the ambit of offence punishable
+
+under <a href="/doc/455468/" id="a_5">Section 307</a> of the Indian Penal Code.
+</p>
+<p id="p_17">      5.    Indisputably, it is always open to a superior Court to reverse any
+
+order of granting bail to an accused by any subordinate court and cancel the
+
+same when it is found that such order of granting bail is vitiated by complete
+
+misconception of law or misreading of materials on record or on a wrong
+
+assumption. In such a situation, absence of supervening circumstances is of no
+
+significance. In the instant case, the reason assigned for granting bail, in my
+
+opinion, is also not correct. However, in view of the fact already two and half
+
+months have been elapsed from the date of granting bail to the petitioner and
+
+when admittedly the petitioner is no longer required by the Investigating Agency
+
+for the purpose of custodial interrogation and according to the submissions of
+
+the Learned Public Prosecutor, the investigation is almost complete and charge-
+
+sheet is likely to be filed very shortly, even though order of granting bail is not
+
+proper and erroneous, still I am of the opinion, at the present stage there will be
+
+no justification to uphold the impugned order, whereby the petitioner's bail has
+
+been cancelled by the Learned Chief Judge, City Sessions Court, Calcutta. It is
+
+also pertinent to note neither the State nor the defacto-complainant before this
+ Court expressed any apprehension about the likelihood of petitioner's absconsion
+
+or of tampering with the evidence. Accordingly, the impugned order whereby the
+
+Learned Chief Judge, City Sessions Court, Calcutta cancelled the petitioner's bail
+
+is set aside and the order passed by the Learned Chief Metropolitan Magistrate,
+
+Calcutta on April 16, 2007, granting bail to him is restored, however subject to
+
+the condition that the petitioner shall attend the concerned police station thrice
+
+in every week until further order.
+</p>
+<p id="p_18">            However, the court below is directed to supply the copy of the police
+
+papers to the accused within a month from the date of submission of charge-
+
+sheet and shall make all endeavours to commence the trial within two months
+
+thereafter and conclude the same as expeditiously as possible. The court shall
+
+proceed with the trial on day to day basis and must not grant any adjournment
+
+to either parties unless granting of adjournment is found necessary for ends of
+
+justice.
+</p>
+<p id="p_19">            Criminal Section is directed to deliver urgent Photostat certified copy
+
+of this Judgement to the parties, if applied for, as early as possible.
+
+
+
+</p><p id="p_20">                                                   ( Ashim Kumar Roy, J. )
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

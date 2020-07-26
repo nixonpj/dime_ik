@@ -1,0 +1,1128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Da vs . Suresh Gupta Page 1/16 on 23 January, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/103351728/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:103351728">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/128134290/">Section 13 in The Prevention of Food Adulteration Act, 1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/180182871/">Section 13(5) in The Prevention of Food Adulteration Act, 1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/111740125/">Section 13(3) in The Prevention of Food Adulteration Act, 1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/151999671/">Section 16 in The Prevention of Food Adulteration Act, 1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1710914/">Mohanlal Chhaganlal Mithaiwala vs Vipanchandra R. Gandhi And Anr. on 28 February, 1961</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/103351728/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/103351728/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/103351728/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pfa">pfa</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=suresh%20gupta">suresh gupta</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=da%20">da </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pfa%20act">pfa act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=central%20food%20laboratory">central food laboratory</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=food%20inspector">food inspector</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=aggarwal%20sweets%20corner">aggarwal sweets corner</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%27director%27s%20report%27">'director's report'</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=representative%20sample">representative sample</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sample%20not%20representative%20sample">sample not representative sample</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fac">fac</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mcd">mcd</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=supersede">supersede</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pfa%20act%2C1954">pfa act,1954</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shankar%20lal">shankar lal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shankarlal">shankarlal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adulteration">adulteration</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=director%20of%20central%20food%20laboratory">director of central food laboratory</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=report%20of%20cfl">report of cfl</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=form%20vii">form vii</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Da vs . Suresh Gupta Page 1/16 on 23 January, 2016</div><div class="doc_author">Author: Priya Mahendra</div>
+
+<pre id="pre_1">                      IN THE COURT OF PRIYA MAHENDRA
+                ADDITIONAL CHIEF  METROPOLITAN  MAGISTRATE­II
+                      PATIALA HOUSE COURTS, NEW DELHI
+
+
+C.C. No. 125/03
+COMPLAINT U/S 16 OF THE PREVENTION OF  FOOD ADULTERATION  ACT, 
+1954 
+
+
+Food Inspector
+Department of PFA
+Govt. of NCT of Delhi
+
+
+A­20, Lawrence Road
+Indl. Area, Delhi - 35
+                                                             ........ Complainant
+
+
+                                        Versus
+
+
+
+
+1.</pre><p id="p_1">      Sh. Suresh Gupta S/o Sh. Prahlad Rai
+        M/s Aggarwal Sweets Corner
+        A­1092/1, Mehrauli, Delhi­30
+
+
+
+        R/o A­1092/1, Mehrauli, Delhi
+
+
+                                        ..........Vendor­cum­Proprietor.
+</p>
+<p id="p_2">
+</p><p id="p_3">2.      Sh. Shankar Lal S/o Sh. Manic Ram  (Since P.O vide order dated 
+        22.10.2009)
+        M/s Aggarwal Sweets Corner, A­1092/1, Mehrauli, Delhi­30
+                                        .........Licensee of M/s Aggarwal Sweets 
+                                                       Corner.
+</p>
+<p id="p_4">
+</p><pre id="pre_2">Serial number of the case                 :      125/03/14
+Date of the commission of the offence  :         16/10/02
+Date of filing of the complaint        :         04/03/03
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                           Page 1/16
+ Name of the Complainant                           :       Sh. R. P. Singh, Food Inspector
+Offence complained of or proved                   :       Rule 32 (c) (e) and (i) and Rule 42  
+                                                          ZZZ (17) of PFA Rules, 1955 which  
+                                                          is punishable u/s 16 (1)  of PFA Act  
+                                                          1954 r/w Section 7 of the PFA Act. 
+Plea of the accused                               :       Pleaded not guilty
+
+
+
+Final order                                       :       21.01.2016
+Arguments heard on                                :       21.01.2016
+Judgment announced on                             :       23.01.2016
+
+Brief facts of the case :­
+
+
+</pre><p id="p_5">    1.In brief, the case of the prosecution is that on 16.10.2002 at about 04.00 p.m., 
+
+    Food Inspector Pawan Bhatnagar and Food Inspector Sh. A. K. Dhir, under the 
+
+    supervision and directions of SDM/LHA Sh. Satnam Singh visited the premises 
+
+    of  M/s   Aggarwal   Sweets   Corner,   A­1092/1,   Mehrauli,   Delhi­110030  where 
+
+    accused Suresh Gupta  who was the vendor­cum­proprietor was found present 
+
+    conducting   the   business   of   sale   of   various   food   articles   including  'Sohan 
+
+    Papri' for sale for human consumption and in compliance of the provisions of 
+
+    the   <a href="/doc/32969400/" id="a_1">Prevention   of   Food   Adulteration   Act</a>,   1954   and   the   Prevention   of   Food 
+
+    Adulteration   Rules,   1955   (hereinafter   referred   to   as   the   PFA   Act   &amp;   PFA 
+
+    Rules) the Food Inspector collected/ purchased the sample of Sohan Papri.
+
+
+</p><p id="p_6">    2.During the course of investigation, it was revealed that Sh. Suresh Gupta S/o 
+
+    Sh.   Prahlad   Rai   was   the   vendor­cum­proprietor   at   M/s   Aggarwal   Sweets 
+
+    Corner, A­1092/1, Mehrauli, Delhi­30 at the time of sample and Sh. Shankar 
+
+    Lal S/o Sh. Manic Ram was the Licensee. As such, both vendor and licensee 
+
+    are in charge of and responsible to day to day conduct of the business of the 
+
+    said shop.</p><pre id="pre_3">
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                        Page 2/16
+</pre><p id="p_7">     3.It is further the prosecution's case that the sample was sent to Public Analyst 
+
+    for   analysis   and   as   per   the   report   of   Public   Analyst,   the   sample   was   not 
+
+    conforming   to   standard   with   respect   to   vanaspati   which   is   used   as   an 
+
+    ingredient   in   Sohan   Papri   because   it   gives   a   negative   baudouin   test   for 
+
+    presence of sesame oil. Accordingly after obtaining the necessary Sanction / 
+
+    Consent   under   <a href="/doc/175685226/" id="a_2">Section   20</a>   of   the   Act,   the   present   complaint   was   filed   for 
+
+    violation of provisions of <a href="/doc/27875011/" id="a_3">Section   2</a> (ix) (e) (f) &amp; (k) of PFA Act 1954 and Rule 
+
+    32 (c) (e) &amp; (i) of PFA Rules 1955,  which is punishable under <a href="/doc/151999671/" id="a_4">section 16</a> (1)  of 
+
+    the PFA Act, 1954.
+</p>
+<p id="p_8">
+</p><p id="p_9">    4.After   the   complaint   was   filed,   both   accused   were   summoned.   Accused 
+
+    Suresh Gupta after filing his appearance moved an application under Section 
+
+    13(2) of PFA Act to get analyzed the second counterpart of the sample from 
+
+    Central   Food  Laboratory and  consequent thereto second   counterpart  of the 
+
+    sample as per the choice of the accused was sent to Director, CFL (Pune) for 
+
+    its analysis vide orders dated 05.06.2003.   The Director, CFL after analysing 
+
+    the sample opined vide its Certificate dated 07.07.2003that "the sample bearing  
+
+    no. SS/LHA/002574 contravenes Rule 32 (c) (e) (i) and Rule 42 (ZZZ (17) of  
+
+    the PFA Rules 1955".
+</p>
+<p id="p_10">
+</p><p id="p_11">    5.Notice    for violation of provision of  Rule 32 (c) (e) and (i) and Rule 42 ZZZ 
+
+    (17) of PFA Rules, 1955 which is punishable u/s 16 (1)   of PFA Act 1954 r/w 
+
+    Section 7 of the PFA Act was framed against accused Suresh Gupta vide order 
+
+    dated 17.12.2009 to which accused pleaded not guilty and claimed trial.
+
+
+</p><p id="p_12">    6.The accused Shankar Lal was declared as P.O. vide oder dated 22.10.2009.</p><pre id="pre_4">
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                           Page 3/16
+</pre><p id="p_13">     7.Statement   of   accused   Suresh   Gupta  U/s   313   Cr.   P.C.  was   recorded   on 
+
+    05.03.2015   wherein   the   accused   claimed   himself   to   be   innocent.  Despite 
+
+    opportunity, accused did not lead any defence evidence.
+
+
+A brief scrutiny of the evidence recorded in the matter is as under :­
+
+
+</p><p id="p_14">    8.PW­3 Sh. Pawan Bhatnagar is the Food Inspector who lifted the sample. He 
+
+    deposed that on 16.10.2002, he was posted as Food Inspector in Sub­Division, 
+
+    Hauz Khas, Delhi. He deposed that   on that date he alongwith SI Sh. A.K. 
+
+    Dheer,   under   the   supervision   of   SDM/LHA   Sh.   Satnam   Singh,   visited   the 
+
+    premises of M/s Aggarwal Sweets Corner, A­1092/1, Mehrauli, Delhi­110030 
+
+    where accused Suresh Gupta  was found present and conducting the business 
+
+    of   the   above   mentioned   shop,   having   stored   various   sweet   items   including 
+
+    Sohan   Papadi.  He   deposed   that  this   Sohan   Papdi   was   lying   in   a   plastic 
+
+    container wrapped in a cellophin paper and was in originally sealed condition. 
+
+    It was ready for the sale and having identical label declaration and stated to be 
+
+    of same lot by the vendor. He deposed that first of all, he had disclosed his 
+
+    identify to the accused and expressed his intention to purchase a sample of 
+
+    Sohan Papdi from him for analysis to which he agreed. He deposed that before 
+
+    starting   the   sample   proceedings,   he   tried   to   associate   public   witnesses   by 
+
+    requesting customers, passers­by and neighbouring shopkeepers, but, none 
+
+    came forward then on his request FI Sh. A.K. Dheer had joined as a witness in 
+
+    sample proceedings. He deposed that thereafter, at about 4:00 pm, he had 
+
+    purchased from the accused 3 above mentioned plastic container containing 
+
+    Sohan Papadi having a weight of 1 kg each, on payment of Rs. 300/­ vide 
+
+    Vendor's receipt already exhibited as Ex. PW2/A bearing signatures of vendor 
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                        Page 4/16
+     at  point  A.  He  deposed  that the  so  purchased  three  above  mentioned  seal 
+
+    plastic container containing the sample commodity were converted into three 
+
+    counter parts by putting one sealed container as one counter part.
+
+
+</p><p id="p_15">         He deposed that all the three sample counter parts were separately sealed, 
+
+         packed, fastened and marked as per the PFA Act and Rules.   LHA Slips 
+
+         bearing the signature and code number of LHA were affixed on all the three 
+
+         counter parts from top to bottom. He deposed that vendor signed on each 
+
+         counter part in such a manner so as his signature appeared partly on LHA 
+
+         Slip and partly on wrapper of the counter part.   He deposed that Notice in 
+
+         form VI was prepared vide Ex. PW2/B (already exhibited) and a copy of the 
+
+         same was given to the accused as per acknowledgment at portion X to X 
+
+         thereon.   He   deposed   that   the   accused   disclosed   the   ingredients   of   the 
+
+         sample   commodity   on   this   notice   at   portion   Y   to   Y.   He   deposed   that 
+
+         Panchnama was prepared vide Ex. PW2/C (already exhibited). He deposed 
+
+         that all these documents were read over the explained to the accused in 
+
+         Hindi and  understanding the same, accused signed the same at point A, FI 
+
+         Sh. A.K. Dheer signed the same at point B and he signed the same at point 
+
+         C.  He   deposed   that  the  label   declaration   of  the   sample   commodity   was 
+
+         reproduced on notice in Form VI.   He deposed that one counter part of the 
+
+         sample alongwith one copy of Memo in Form VII in a sealed packet and 
+
+         one copy of Memo in Form VII in a separate sealed cover were deposited 
+
+         with   public   analyst   on   17.10.2002   vide   PA   Receipt  Ex.   PW3/A  and   the 
+
+         remaining two counter parts alongwith two copies of Memo in Form VII in a 
+
+         sealed packet were deposited with LHA on 17.10.2002 vide LHA Receipt 
+
+         Ex. PW2/D, bearing his signature at point B and signature of LHA at point 
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                         Page 5/16
+          A, under intimation that one counter part of the same has already been 
+
+         deposited with PA. He deposed that all the copies of memo in Form VII 
+
+         were marked with his seal impression which was used to seal the sample 
+
+         counterpart.   He deposed that he sent a letter to STO, Ward No. 101 vide 
+
+         Ex.   PW3/B  for   seeking   information   on   the   constitution   of   M/s   Aggarwal 
+
+         Sweets Corner and received its reply at portion X to X on the same that no 
+
+         such firm was registered in that Ward. He deposed that he sent a letter to 
+
+         the   accused   vide  Ex.   PW3/C  and   received   its   reply   vide  Ex.   PW3/C1 
+
+         wherein   the   accused   disclosed   that   the   above   mentioned   firm   was   a 
+
+         proprietor   ship   firm   and   he   was   the   sole   proprietor   of   the   same.       He 
+
+         deposed that at the time of sample proceedings accused had disclosed that 
+
+         he was the partner of M/s Aggarwal Sweets Corner and one Sh. Shankar 
+
+         Lal was the Licensee and Partner of M/s Aggarwal Sweets Corner.
+
+
+</p><p id="p_16">    9.During his cross examination, he admitted that  that in the year 2002, there 
+
+    existed a policy in the Department that cases of first violation of Rule 32, the 
+
+    accused should be let off with a warning.   He stated that since he was not 
+
+    investigating this case, he did not make any inquiry as to whether any of the 
+
+    accused had been previously warned for contravention of Rule 32 of the PFA 
+
+    Rules. He stated that  all the plastic containers taken as samples by him were 
+
+    having a label declaration which was reproduced by him in Notice Form VI. He 
+
+    denied the suggestion that the sample container sent to the public analyst was 
+
+    not   having   any   label   declaration.   He   denied   the   suggestion   that   identical 
+
+    packets were not taken as sample. He denied the suggestion that as he did not 
+
+    take identical packet, the result of two analyst was at variance with each other. 
+
+    He denied the suggestion that he had sent some other container to the public 
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                             Page 6/16
+     analyst and not the container taken in this case from the accused. He stated 
+
+    that he cannot say if during the preparation of sweets, the Baudouin's test of 
+
+    Vanaspati   extracted   from   the   sweets   become   negative.   He   denied   the 
+
+    suggestion that he is deposing falsely.
+</p>
+<p id="p_17">
+</p><p id="p_18">    10.PW1 is Food Safety Inspector. He has conducted the investigation after file 
+
+    was marked to him. PW1 deposed on the lines of evidence of PW3. In addition, 
+
+    PW1­Rajpal Singh deposed that in November, 2002, he was posted in Sub 
+
+    Division, Hauz Khas, Delhi. He deposed that case file of present case was 
+
+    marked to him for further proceedings by concerned SDM/LHA Sh. Satnam 
+
+    Singh. He deposed that on perusal of the file he found that the sample in this 
+
+    case was lifted by FI Sh. Pawan Bhatnagar. He deposed that he started the 
+
+    investigations and during investigations, he visited the premises in question i.e. 
+
+    M/s Aggarwal Sweet Corner, A­1092/1, Mehrauli, Delhi, where accused Suresh 
+
+    Gupta   was   found   conducting   the   business   of   above   mentioned   shop.   He 
+
+    deposed that on enquiry from the accused Suresh Gupta, he handed over to 
+
+    him the photocopy of MCD License, wherein accused Shankar Lal (since P.O) 
+
+    was shown as Licensee of M/s. Aggarwal Sweet Corner. He deposed that said 
+
+    photocopy is Mark 'X'.  He deposed that prior to case file being marked to him, 
+
+    some of the investigations were also conducted by FI Sh. Pawan Bhatnagar. 
+
+    He   deposed   that   on   conclusions   of   investigation,   it   was   found   that 
+
+    accused/vendor   Suresh   Gupta   was   the   Proprietor   of   M/s   Aggarwal   Sweet 
+
+    Corner and accused Shankar Lal was the Licensee of the same and both the 
+
+    accused persons were responsible for conducting its day to day business. He 
+
+    deposed that thereafter, the entire case file was sent to the SDM/LHA, who 
+
+    forwarded   the   same   to   then   Director   PFA   Sh.   K.   S.   Wahi   for   obtaining   his 
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                           Page 7/16
+     consent and the then Director PFA granted his consent for prosecution vide 
+
+    Ex.PW1/A, bearing his signature at point A. He deposed that thereafter, on the 
+
+    directions of SDM/LHA, he filed the complaint before this Hon'ble Court vide 
+
+    Ex.PW1/B, which bears his signature at point A and then Intimation letter along 
+
+    with   copy   of   PA   Report   was   sent   to   the   accused   through   registered   post 
+
+    through SDM/LHA, which was not received back undelivered. He deposed that 
+
+    photocopy of Intimation Letter is Ex.PW1/C, bearing signature of LHA at point 
+
+    A and photocopy of postal registration receipt is Ex.PW1/D bearing relevant 
+
+    entry at point A.
+</p>
+<p id="p_19">
+
+</p><p id="p_20">    11.PW2 Sh. Satnam Singh, the then SDM/LHA and PW4 Sh. A.K. Dhir, Food 
+
+    Inspector deposed on the same lines as deposed by PW1 and PW3 in their 
+
+    examination­in­ chief.
+</p>
+<p id="p_21">
+
+</p><p id="p_22">    12.This so far is the evidence in the matter.
+</p>
+<p id="p_23">
+
+</p><p id="p_24">    13.Ld. Counsel for accused has pleaded for acquittal of the accused no. 1 on 
+
+    the ground of violation of Rule 22(A) of PFA Rules 1954 on account of sending 
+
+    sealed containers bearing different label declaration to two analysts. It is stated 
+
+    that the sample counter part of Sohan Papdi sent for analysis to Public Analyst 
+
+    was in sealed plastic container without label whereas, the sample counter part 
+
+    sent   to   the   Director,  CFL,  was  sent   in  plastic   box  containing   yellow   printed 
+
+    label. It is further argued that in view of the divergent and contradictory report 
+
+    of Public Analyst and Director, CFL, coupled with violation of Rule 22 (A) of 
+
+    Rules, it is clear that representative sample was not taken or the proper sample 
+
+    method was not followed. It is argued that finding of guilt of accused no. 1 
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                         Page 8/16
+     cannot be given on the basis of contradictory reports of Public Analyst and 
+
+    Director, CFL. Ld. Counsel for accused has relied on the judgment passed by 
+
+    the Hon'ble High Court of Delhi in the case MCD Vs. Bishan Sarup, Crl. Appl. 
+
+    No. 48­D of 1972 FAC 273 and Food Inspector Vs. Gurminder Singh, 2014 (2) 
+
+    FAC 166.
+</p>
+<p id="p_25">
+</p><p id="p_26">    14.On the other hand, Ld. SPP for the complainant has argued that in view of 
+
+    the   <a href="/doc/128134290/" id="a_5">Section   13</a>   (3)  of   PFA  Act,   the   report   of  Director,  CFL,   supercedes   the 
+
+    report   given   by   Public   Analyst   and   the   report   of   Public   Analyst   cannot   be 
+
+    considered as it gets completely effaced from record. He has further argued 
+
+    that prosecution has succeeded in establishing the guilt of accused beyond 
+
+    reasonable doubt. 
+</p>
+<p id="p_27">
+
+</p><p id="p_28">    15.I   have   carefully   considered   the   arguments   advanced   at   bar   by   the   Ld. 
+
+    defence counsel as also the Ld. SPP for complainant.   I have also carefully 
+
+    gone through the entire record including the evidence recorded in the matter.
+
+
+
+</p><p id="p_29">         Reasons for decision:
+</p>
+<p id="p_30">         Representative Sample not taken
+
+</p><p id="p_31">    16.In this case, Food Inspector lifted three originally sealed plastic containers 
+
+    of 1 kg. each wrapped with cellophin paper from the premises of M/s. Aggarwal 
+
+    Sweets   Corner   of   which   the   accused   no.   1   was   the   sole   proprietor,   as 
+
+    consistently deposed by PW1 to PW4. PW1 to PW4 also consistently deposed 
+
+    that three sealed plastic containers of Sohan Papdi were bearing identical label 
+
+    declaration. PW2 to PW4 again affirmed in their respective cross­examination 
+
+    that three plastic containers of sample commodity were bearing identical label 
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                           Page 9/16
+     declaration. The notice in Form VI Ex.PW2/B bears the reproduction of the said 
+
+    identical label declaration.
+</p>
+<p id="p_32">
+
+
+</p><p id="p_33">    17.The PFA Act and PFA Rules lay down in detail the procedure to be followed 
+
+    by FI at the time of and after the sample is collected by him. As per <a href="/doc/70055577/" id="a_6">Section 11</a> 
+
+</p><p id="p_34">    (i)(b) of PFA Act, the Food Inspector is obliged to divide the sample into three 
+
+    parts   and   than   the   sample   is   packed,   fastened   and   sealed   in   a   manner 
+
+    prescribed by the Act and Rules. As per Sec. 11(c)(i) &amp; (ii), the Food Inspector 
+
+    has to send one of the parts of sample for the analysis to the Public Analyst 
+
+    and   the   remaining   two   parts   to   the   Local   Health   Authority.   <a href="/doc/56546430/" id="a_7">Section   13(2)</a> 
+
+    authorises   a   person   from   whom   sample   is   taken   to   get   the   other   sample 
+
+    counter part to be examined by the CFL, if he is not satisfied with the report of 
+
+    Public Analyst. The purpose of dividing the sample into three counter parts is 
+
+    to make available another counter part for examination by the Director CFL in 
+
+    case,   the   accused   opts   to   get   the   second   counter   part   examined   by   the 
+
+    Director, CFL. Thus, the PFA Act and Rules thereunder have introduced the 
+
+    system of check and counter check to the process of collection and analysis of 
+
+    sample under the PFA Act. However, if, the three samples are not of uniform 
+
+    nature/ quality, than, the entire purpose of introducing checks and balances is 
+
+    defeated.
+</p>
+<p id="p_35">
+
+</p><p id="p_36">    18.In the case of Chamanlal Vs. MCD &amp; Ors. In Crl. Appeal 65/78 decided on 
+
+    29.03.1979, it had been observed that it is of utmost importance to ensure that 
+
+    the   three   samples   are   of   uniform   quality.   Otherwise,   value   of   check   and 
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                       Page 10/16
+     counter check is completely lost. Therefore, if the sample was not uniform and 
+
+    representative in nature, it would not be safe to convict the petitioner.
+
+
+</p><p id="p_37">    19.In the present case, according to the Public Analyst Report, the sample was 
+
+    received in unsealed plastic container without any label. However, the Director, 
+
+    CFL received it in a plastic box containing yellow printing label. All the PWs 
+
+    deposed  that sealed plastic container  having  identical  label declaration  was 
+
+    lifted from the premises of accused no. 1. This shows that either the process 
+
+    for collecting of sample was not meticulously followed or the sample lifted were 
+
+    not identical. In view of completely different description of sample in the Public 
+
+    Analyst Report and the report of Director, CFL, there is total violation of Rule 
+
+    22 (A) of the PFA Rules which allows contents of sealed containers having 
+
+    identical label declaration to constitute part of sample.
+
+
+</p><p id="p_38">         Variation in report of Public Analyst and Director CFL
+
+</p><p id="p_39">    20.Coming to the second arguments of Ld. Counsel for the accused regarding 
+
+    the variation in report of Public Analyst and Director CFL, it is in no doubt that 
+
+    there is a settled law that once the appellant exercise the right U/Sec. 13 (2) of 
+
+    the Act, the report of the Director, CFL stands completely wiped out by the 
+
+    certificate of the Director, CFL, however, the accused can still show that in the 
+
+    facts of the given case and of concrete objective grounds that the sample 
+
+    sent to the Director, CFL, was not a representative sample.  In the case of 
+
+    MCD Vs. Bishan Sarup (supra), it is observed as under :­
+
+</p><p id="p_40">                  1.The consideration of the time­lapse between the date of the  
+                  taking of the sample, the launching of the prosecution and the  
+                  date   when   the   sample   was   sent   to   the   Director   of   Central  
+                  Food Laboratory is relevant only for this purpose. Once the  
+                  Director of Central Food Laboratory has examined the sample  
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                            Page 11/16
+                   and has delivered his certificate, under proviso to sub­section  
+                  (5) of <a href="/doc/128134290/" id="a_8">Section 13</a>  of  the  Act, the  certificate  is the final  and  
+                  conclusive   evidence   of   the   facts   stated   therein.   The  
+                  presumption attaching to the certificate again is only in regard  
+                  to what is stated in it as to the contents of the sample actually  
+                  examined by the Director and nothing more. Even after this  
+                  certificate, it is open to the accused to show that in the facts  
+                  of a given case and on the concrete objective grounds that he  
+                  may prove on the record the sample sent for analysis to the  
+                  Director could not be taken to be a representative sample of  
+                  the   article   of   food   from   which   it   was   taken   and   if   this  
+                  contention   is   found   to   be   correct,   conviction   based   on   the  
+                  certificate will not be sustainable. Reference on this aspect of  
+                  the question may be made to the observations of the Division  
+                  Bench of the Punjab High Court in Municipal Corporation of  
+                  Delhi Vs. Nirajan Kumar &amp; Others (2).
+</p>
+<p id="p_41">                          "We   would   like   to   clarify   that   finality   and  
+                 conclusiveness has been attached only to the facts stated in  
+                 the report of the Central Food Laboratory. It is not, however,  
+                 conclusive as to any other matter and it may still have to be  
+                 ascertained whether adulteration as disclosed in the report, of  
+                 the  Central  Food   Laboratory  was due  to  certain  factors for  
+                 which an accused could not be held responsible. In short, the  
+                 finality   and   conclusiveness   are   only   to   the   extent   that   the  
+                 sample   as   sent   to   the   Central   Food   Laboratory   contained  
+                 what the report disclosed."
+</p>
+<p id="p_42">                 11.   The   same   view   was   taken   by   the   Division   Bench   of  
+                 Gujarat   High   Court   in   <a href="/doc/1710914/" id="a_9">Mohanlal   Chhaganlal   Mithaiwala   V.  
+                 Vipanchandar R. Gandhi and another</a> (3) where Shelat, J. (as  
+                 he then was) speaking for the Court observed as under :­
+
+                 "The   certificate   of   the   Director   of   Central   Food   Laboratory  
+                 under<a href="/doc/128134290/" id="a_10"> S. 13</a> contains factual data in respect of the article sent  
+                 for analysis or test : Under the proviso to <a href="/doc/128134290/" id="a_11">section 13</a> (5) of the  
+                 Act, the finality or conclusiveness is thus attributed to these  
+                 facts stated in the certificate of the Director. It would be then  
+                 for   the   Court   to   determine,   no   doubt   after   considering   the  
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                                Page 12/16
+                  facts stated  in  the  certificate, whether the  article  of food  in  
+                 question is adulterated food or not. In other words, this would  
+                 be a question of law which is left to be decided by the Court.  
+                 What   is   thus   final   and   conclusive   in   the   certificate   is   the  
+                 finding on an analysis or test of the constituents in the sample  
+                 sent, their proportions, etc. The analyst has merely to give his  
+                 opinion as to whether the article which he analysed has an  
+                 excess or deficiency in constituents. The vendor would still be  
+                 entitled to lead evidence or otherwise show that the article of  
+                 food in question is not adulterated food. For instance, if the  
+                 vendor wants to establish that some of the ingredients of the  
+                 <a href="/doc/237570/" id="a_12">article (in this case ghee)</a> are liable to get evaporated from  
+                 having been boiled at high temperature while manufacturing  
+                 the sweetmeat in question or that some change takes place,  
+                 chemical or otherwise by the ingredients of the ghee used in  
+                 the   preparation   being   mixed   with   the   other   facts,   or   that   a  
+                 change takes place in the article in question owing to lapse of  
+                 time   or   delay   in   making   its   analysis   the   vendor   can   do   so  
+                 inspite   of   the   facts   stated   in   the   certificate   of   the   Director  
+                 though made final and conclusive under the proviso."
+
+
+
+
+</p><p id="p_43">    21.In   the   present   case,   the   Public   Analyst   Report   found   the   sample   not 
+
+    conforming   to   the   standards.   The   analysis   of   the   Director,   CFL   found   the 
+
+    sample conforming to standards but found it deficient for compliance of Rule 
+
+    32 of PFA Rules which provides for particulars to be exhibited on sealed label 
+
+    and container.
+</p>
+<p id="p_44">
+</p><p id="p_45">    22.I do not find any substance in the submission of Ld. Counsel for accused 
+
+    that merely on account of divergence in the report of the Director, CFL and 
+
+    Public Analyst, it is to be presumed that the sample was not representative. 
+
+    The Hon'ble High Court of Delhi in the case of Bishan Sarup (supra) clearly 
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                                     Page 13/16
+       laid   down   that   the   accused   has   to   prove   a   concrete   objective   ground   to 
+
+      establish that the sample sent to Public Analyst and Director, CFL was not a 
+
+      representative sample. The contradiction in two reports is not such a concrete 
+
+      objective ground in itself to infer that sample was not representative sample. 
+
+      This proposition finds strength from the following judgments ;
+
+
+A)        D.L. Chatterjee Vs. Kailashpati Oil Mill and others 2003 (2) FAC 240 the 
+
+          Hon.  Apex Court set aside the order of the High Court which had quashed 
+
+          the proceedings and the Hon. Apex Court remanded the matter back for  
+
+          trial despite the fact that there was variation in the "contents and extent of 
+
+          adulteration of the food articles" in the report of the Director and the PA.
+
+
+B)        The  Division Bench  of Hon'ble High Court of Delhi  in  MCD  Vs.   M/s  
+
+          Lahsa Restaurant &amp; Ors, decided on 01.04.1980 observed as under:
+
+           "<a href="/doc/111740125/" id="a_13">Section 13(3)</a> of the  Prevention  of Food Adulteration Act says that the  
+
+           certificate of the Director shall supersede  the report of the Public Analyst.  
+
+           That   being   so   no   support   can   be   taken   from   the   report   of   the   Public  
+
+           Analyst to content that there was a variation in the report of the Public  
+
+           Analyst and that of Director, CFL in his certificate. By this wholly erroneous  
+
+           approach the Ld. Additional Sessions Judge went wrong in holding that  
+
+           the sample lifted was not a representative sample."
+
+
+
+C)         In  Pralhad Bhai  Amba Lal Patel  Vs.  State of Gujarat, 1984 (2) FAC  
+
+           26,  the  Full Bench of the Hon'ble High Court of Gujarat  while relying 
+
+           upon the decision of the Hon'ble Apex court in Andhra Pradesh Grain &amp;  
+
+           Seeds Merchant Association   Vs.   Union of India, AIR 1971 SC 246  
+
+           and   Chetumal   Vs.   State   of   M.P.,   AIR   1981  SC   1387  elaborately 
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                              Page 14/16
+           discussed the issue of 'variation' and held as under:
+
+</p><p id="p_46">                "Proviso  to <a href="/doc/180182871/" id="a_14"> S.  13(5)</a>  also  indicates  that what is stated  in  the  later  
+        certificate issued by the Director would be final and conclusive evidence of  
+        the facts stated in the said certificate.   It is obvious that the facts stated  
+        would be with respect to the result of the analysis by the Director and the  
+        findings reached therein regarding relevant ingredients of the part of the  
+        sample sent for analysis and analysed by the Director of the Central Food  
+        Laboratory.    Once   this   type   of   conclusive   evidence   emerges   on   record,  
+        whatever   might   have   been   contra­indicated   regarding   the   concerned  
+        ingredients of the sample as found in the prior report of the public analyst  
+        would be totally pushed out of the arena of contest and cannot be looked at.  
+        If that is so,  there would be no question of considering any variance  
+        between the results of the tests carried out by the public analyst on  
+        the one hand and the Director of the Central Food Laboratory on the  
+        other   vis­a­vis   two   parts   of   the   sample   sample.   Any   variation   or  
+        variance   between   the   different   ingredients   mentioned   in   these   two  
+        reports would presuppose comparison between two existing reports  
+        on record.  But if one of the reports is wholly pushed out of record as  
+        enjoined   by  <a href="/doc/111740125/" id="a_15"> S.   13(3)</a>   read   with  <a href="/doc/180182871/" id="a_16"> S.   13(5)</a>,   there   is   no   question   of  
+        resorting to the exercise of comparison between the contents of these  
+        two reports with a view to finding out the supposed variance between  
+        the existing and operative report of the Director and earlier report of  
+        the public analyst which has ceased to exist on record.".   
+
+</p><p id="p_47">                 "Once sub­secs. (3) and (5) of<a href="/doc/128134290/" id="a_17"> S. 13</a> are kept in view, it is impossible  
+
+        to   countenance   the   submission   of   the   accused   that   despite   these  
+
+        provisions, non­existing report of the public anlayst can still be looked at for  
+
+        the purpose of finding out the alleged variance between the contents of that  
+
+        report and the superseding certificate of the Director of the Central Food  
+
+        Laboratory."
+</p>
+<p id="p_48">
+
+
+D)      In Salim and Co.  Vs.  Municipal Corporation of Delhi 1978 Cri LJ 240, 
+
+        it was bserved by the Hon'ble High Court of Delhi as under:</p><pre id="pre_5">
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                      Page 15/16
+</pre><p id="p_49">         "It is correct that there is wide variation in the two reports, but according to  
+        sub­sec. (3) of<a href="/doc/128134290/" id="a_18"> S. 13</a> of the Act, the report of the Director of Central Food  
+        Laboratory supersedes the report of the public analyst.   The statute has  
+        clearly provided as to what value should be attached to the report of the  
+        Director of Central Food Laboratory qua that of the public analyst.   Thus,  
+        the report of the public analyst loses all its value after supersession  
+        by the certificate of the Director.".
+</p>
+<p id="p_50">                 In para 15 it has been further observed as under: :
+</p>
+<p id="p_51">        "It is the superseded report in which the learned trial Magistrate has tried to  
+        put life.  For that matter, he called the public analyst and examined him as a  
+        Court witness.  This procedure is not warranted by law. Instead of reviving  
+        the report of the analyst, he should have discarded the same.". 
+
+
+
+E)      In MCD  Vs.  Ram Swarup 1976 (2) FAC 201, the Hon'ble High Court of 
+
+        Delhi held as under:
+</p>
+<p id="p_52">        "in the instant case whereas the public analyst found the presence of milk  
+
+        fat to the extent of 4.5% in the toned milk the report of the Director of the  
+
+        Central Food Laboratory shows the milk fat as only 0.4%........Since under  
+
+        the law the report of the Director, CFL is conclusive and binding the case  
+
+        has to be decided on the basis of that report only."
+</p>
+<p id="p_53">
+
+F)      In Municipal Committee Amritsar  Vs.  Amrik Singh 1972 FAC 204, the 
+        Division Bench of the Punjab &amp; Haryana High Court, held as under:
+
+        "Therefore, having regard to sub section (3) and sub­section (5) of <a href="/doc/128134290/" id="a_19">Section  
+
+        13</a> of the Act it is not possible to take into account the report of the Public  
+
+        Analyst where a certificate from the Director of the Central Food Laboratory  
+
+        has   subsequently   come   on   record   in   accordance   with   the   provisions   of  
+
+        <a href="/doc/128134290/" id="a_20">Section 13</a>.   Consequently, it would not be correct to say that there was  
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                      Page 16/16
+         variation between the reports of the Public Analyst and the Director as the  
+
+        first   report   of   the   public   analyst   stands   completely   wiped   out   by   the  
+
+        certificate of the Director."
+</p>
+<p id="p_54">
+
+G)       In Hargo Lal  Vs.  State 1972 FAC 699, the Hon'ble High Court of Delhi, it 
+
+         was held that merely because there is a discrepancy between the report of 
+
+         the Public Analyst and the Director, CFL, it is no ground for rejecting the 
+
+         report  of  the   Director,  CFL   as it completely  wipes  out  the  report  of the 
+
+         Public Analyst.  
+</p>
+<p id="p_55">
+
+H)      In MCD  Vs.  Shri Manohar Lal &amp; Anr., 1975 (1) FAC 182, the Division 
+
+        Bench of Hon'ble High Court of Delhi held as under:
+</p>
+<p id="p_56">        "This report was different in its import from the report of the Public Analyst  
+
+        but the variation in the two reports is of no consequence because the  
+
+        certificate issued by the Director of the Central Food Laboratory under sub­
+
+        section (2) of <a href="/doc/128134290/" id="a_21">section 13</a> supersedes the report of the Public Analyst given  
+
+        under sub­section (1) of the said Section and as per proviso appended to  
+
+        sub­section (5) is final and conclusive evidence of the facts stated therein."
+
+
+
+I)      In The Food Inspector, Corporation of Cochin Vs. T.V. Habeeb, 1984 (1)  
+
+        FAC 41, it was observed as under:
+</p>
+<p id="p_57">              "It can thus be seen that it is settled law that the report of the Public  
+        Analyst   is   superseded   by   the   certificate   of   the   Director   which   has  
+        conclusive   effect   also.    Analysis   in   the   two   cases   is   done   by   different  
+        persons at different laboratories.  It would not be surprising if, assuming the  
+        best conditions there is some difference in the results of the two analysis.  
+        Even in cases where sampling and analysis is done to the satisfaction of  
+        the most exacting standards, there could be variation in the percentage of  
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                           Page 17/16
+         different components arrived at in the two laboratories.  But, once the report  
+        of   the   Public  Analyst  is  superseded   by  the   report  of   the   Director   of  the  
+        Central Food Laboratory, there is no report of the Public Analyst available in  
+        the eyes of law for comparison with the certificate issued by the Director.  
+        The   court   cannot,   therefore,   legitimately   make   such   a   comparison   and  
+        conclude that there are divergences and therefrom draw an inference that  
+        the   sampling   must   have   been   done   improperly.    To   arrive   at   such   a  
+        conclusion would amount to flying in the face of settled position of the law  
+        and the terms of sub­sections (3) and (5) of <a href="/doc/128134290/" id="a_22">Section 13</a> of the Act".
+
+
+
+
+         In its latest judgment titled as Food Inspector, Department of PFA, Govt. of 
+
+         NCT of Delhi, Vs. Kailash Chand Dated 31.08.2015, the Hon'ble Apex Court 
+
+         remanded back the appeal/ file to the Hon'ble High Court of Delhi against 
+
+         acquittal   order   passed   by   the   Hon'ble   High   Court   of   Delhi   in   sample 
+
+         commodity, where, the accused was given the benefit of doubt because of 
+
+         variation in report of Public Analyst and Director CFL in moisture, damage 
+
+         grain   and   weevilled,   beyond   permissible   limit   of   0.3%.     Taking   note   of 
+
+         <a href="/doc/128134290/" id="a_23">Section 13</a> (3) of PFA Act providing that the report of Director CFL shall 
+
+         supercede the report given by Public Analyst and Rules 23, 28 &amp; 29 of PFA 
+
+         Rules,   which   completely   prohibits   addition   of   synthetic   red   colour,   the 
+
+         Hon'ble Supreme Court remanded the matter to Hon'ble High Court of Delhi 
+
+         to consider the case in light of the statutory provision and the provisions 
+
+         enshrined under PFA Rules.
+</p>
+<p id="p_58">
+</p><p id="p_59">    23.Nevertheless,   in   the   present   case,   the   accused   has   succeeded   in 
+
+    establishing that the sample sent to two Analysts, PA and the Director CFL, is 
+
+    different. In view of the same, it is established that representative sample was 
+
+    not   taken   or   proper   sample   method   was   not   followed,   and   the   accused   is 
+
+    extended the benefit of doubt.</p><pre id="pre_6">
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                                          Page 18/16
+</pre><p id="p_60">     24.In view of the aforesaid discussions, the accused Suresh Gupta is acquitted 
+
+    for the offence punishable U/Sec. 16 (1) of PFA Act 1954 r/w Section 7 of the 
+
+    PFA Act read with Rule 32 (c) (e) and (i) and Rule 42 ZZZ (17) of PFA Rules, 
+
+    1955.
+</p>
+<p id="p_61">
+</p><pre id="pre_7">Announced in the open Court                                 (PRIYA MAHENDRA)
+on 23.01.2016.                                           ACMM­II/ New Delhi
+
+
+
+
+CC No. 125/03
+DA Vs. Suresh Gupta                                                            Page 19/16
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,392 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shakuntala @ Shekavva Kom vs Shantaveeragouda ... on 9 October, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/133515624/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/133515624/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/133515624/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/133515624/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22%20household%22">" household"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fraudulent">fraudulent</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Shakuntala @ Shekavva Kom vs Shantaveeragouda ... on 9 October, 2014</div><div class="doc_author">Author: S.N.Satyanarayana</div>
+
+<pre id="pre_1">             IN THE HIGH COURT OF KARNA TAKA
+                      DHARWAD BENCH
+
+        DATED TH IS THE 9 T H DAY OF OCTOBER 2014
+
+                         BEFORE
+
+     THE HON'BLE MR. JUS TICE S.N. SA TYANARAYANA
+
+                W.P.NO.107765/2014 (GM-CPC)
+
+BETWEEN:
+
+
+1.   SHAKUNTALA @ SHEKA VVA KOM
+     ANDANAPPA NADAGOUD
+     AGE: 44 YEARS , OCC: HOUSEHOLD WORK
+     R/O. NARENDRA VILLAGE,
+     TQ: &amp; D IS T: DHARWAD
+
+2.   IRAVVA KOM MURUGESHAPPA SHEELA VANT
+     AGE: 42 YEARS , OCC: HOUSEHOLD WORK
+     R/O. NARENDRA VILLAGE,
+     TQ &amp; DIS T: DHARWAD
+
+3.   RAVI   CHINNAPPAGOUDA KUMAR DESAI
+     AGE:   37 YEARS , OCC: AGRICULTU RE
+     R/O.   NARENDRA VILLAGE,
+     TQ &amp;   DIS T: DHARWAD
+
+4.   GOURAVVA KOM AMRU TAPPA TO TAD
+     AGE: 35 YEARS , OCC: HOUSEHOLD WORK
+     R/O. NARENDRA VILLAGE,
+     TQ &amp; DIS T: DHARWAD
+
+5.   ANNAPURNA KOM BASAVARAJ
+     KUMAR DESAI @ PATIL
+     AGE: 46 YEARS , OCC: HOUSEHOLD WORK
+     R/O. NARENDRA VILLAGE,
+     TQ &amp; DIS T: DHARWAD
+
+6.   JAGADISH S/O. BASAVARAJ
+     KUMAR DESAI @ PATIL
+     AGE: 26 YEARS , OCC: AGRICULTU RE,
+                                2
+
+
+
+
+     R/O. NARENDRA VILLAGE,
+     TQ &amp; DIS T: DHARWAD
+
+                                        ... PETITIONERS
+(BY SRI S.K.DESHPANDE AND SRI H .L.HAVARAGI,
+ADVOCATE.)
+
+
+AND:
+
+1.   SHANTAVEERAGOUDA CHINNAPPAGOUDA
+     KUMAR DESAI
+     AGE: 40 YEARS , OCC: AGRICULTU RE
+     R/O. NARENDRA VILLAGE
+     TQ &amp; DIS T: DHARWAD
+
+2.   IRANNA S/O . SHIVAPPA ANGADI
+     AGE: 57 YEARS , OCC: AGRICULTU RE
+     R/O. MUMMIGATTI, GOUDRA ONI,
+     TQ &amp; DIS T: DHARWAD
+
+3.   S RAMACHANDRAREDDY S/O. CHINNAPPA REDDY
+     AGE: 42 YEARS , OCC: BUSINESS
+     R/O. TIKARE ROAD, NEAR LINE BAZAR,
+     TQ &amp; DIS T: DHARWAD
+
+                                       ... RESPONDENTS
+(BY SRI R.M.KULKARNI, ADVOCA TE, FOR R.2 AND R.3.)
+
+       THIS WRIT PETITION IS F ILED UNDER A RTICLES 226
+AND 227 OF THE CONS TITU TION OF INDIA , PRAYING TO
+QUASH     THE   IMPUGNED      ORDER   ON    I.A .NO.III,   DA TED
+6.8.2014 PASSED BY THE COURT OF PRL.CIVIL JUDGE &amp;
+JMFC,     DHARWAD,       IN   O.S .NO.552/2013,     WHICH      IS
+PRODUCED AND MARKED A T ANNEXURE-D, ETC.,.
+
+       THIS   PETITION    COMING    ON     FOR    HEARING     ON
+INTERLOCU TORY APPLICA TION TH IS DAY, THE COURT MADE
+THE FOLLOWING:
+                                  3
+
+
+
+
+                             ORDER
+</pre>
+
+<p id="p_1">      Though this matter is coming up for consideration
+
+of   application   filed   for   vacating   the   interim   order
+
+granted in favour of the petitioners, with the consent of
+
+both the parties to the proceedings, the same is taken
+
+up for final disposal.
+</p>
+<p id="p_2">
+</p><p id="p_3">      2.   The present Writ Petition is filed by plaintiffs
+
+1 to 6 in O.S.No.552/2013, pending on the file of Prl.
+
+Civil Judge (Jr.Dn.) and JMFC, Dharwad.
+
+
+</p><p id="p_4">      3.   Admittedly, the said suit is filed for the relief
+
+of declaration to declare that the sale deed dated
+
+11.2.2005 registered vide document No.4358/2004-05
+
+and also the sale deed No.4349/2007-08 registered on
+
+22.11.2007 are obtained fraudulently and consequently
+
+to cancel the same. In addition to that the plaintiffs
+
+have also sought for the relief of permanent injunction
+
+against the defendants 1 to 3 who are purchasers of
+
+the property under the aforesaid two sale deeds.
+<span class="hidden_text" id="span_1">                                     4</span>
+
+
+
+
+</p><p id="p_5">     4.        In the said proceedings it is seen that the
+
+written statements are filed on behalf of the contesting
+
+defendants 2 and 3. The 1 s t defendant is said to be the
+
+witness for the sale deeds, which are executed by the
+
+father    of    the   plaintiffs    1    to   6   who    is   no   more.
+
+Admittedly the transactions have taken place in the
+
+year 2005 and 2007. The suit is filed in the year 2013
+
+seeking    declaration      that        the   said    sale    deeds   are
+
+obtained fraudulently. In the said suit an application
+
+in I.A.No.3 is filed by the plaintiff under Order 11 Rule
+
+14 read with Section 151 of Code of Civil Procedure,
+
+seeking direction to 2 n d and 3 r d defendants to produce
+
+original sale deeds dated 22.11.2007 and 11.2.2005 in
+
+the suit for the reasons that the said documents are
+
+required to be placed before the Court for the purpose
+
+of declaring them as fraudulent documents.
+
+
+</p><p id="p_6">     5.        It is seen that the Court below on going
+
+through        the    application       and    also     the    pleadings
+
+available on record has rejected the same by its order
+<span class="hidden_text" id="span_2">                                 5</span>
+
+
+
+
+dated     6.8.2014.   Being   aggrieved   by    the   same,   the
+
+present writ petition is filed to impugn the order dated
+
+6.8.2014.
+</p>
+<p id="p_7">
+</p><p id="p_8">     6.     Heard the learned counsel for the petitioners,
+
+who are plaintiffs 1 to 6 in the O.S.No.552/2013 and
+
+also the respondents 2 and 3 who are defendants 2
+
+and 3 in the said suit, perused the order impugned and
+
+the other material available on record.
+
+
+</p><p id="p_9">     7.     On going through the same, it is seen that
+
+the reason assigned by the learned trial Judge in
+
+dismissing the application in I.A.No.3 appears to be
+
+just and proper for the reason that the certified copy of
+
+the impugned documents are already on record as they
+
+are produced by the plaintiffs at the time of filing of
+
+the suit. Therefore question of seeking production of its
+
+original    from   defendants   2   and   3    is   nothing   but
+
+harassment to the defendants.
+</p><span class="hidden_text" id="span_3">                                   6</span><p id="p_10">
+
+
+
+
+</p><p id="p_11">        8.    In that view of the matter, this Court find no
+
+justifiable grounds are made out to interfere with the
+
+order dated 6.8.2014 in rejecting the application in
+
+I.A.No.3 filed by the plaintiffs in O.S.No.552/2013.
+
+Accordingly this writ petition is dismissed.
+
+
+</p><p id="p_12">        9.    Considering the fact that this is a fraudulent
+
+litigation, this Court finds that mere dismissal is not
+
+sufficient.      Therefore   while    dismissing   this   petition
+
+sufficient cost is also required to be imposed to curb
+
+this kind of practice. Hence while dismissing the writ
+
+petition     a   cost   of   Rs.3,000/-   is   imposed    on   the
+
+petitioners, which they are required to deposit in the
+
+Court below. The further proceedings in the suit shall
+
+be subject to deposit of cost. As and when the cost is
+
+deposited, the same shall be released in favour of
+
+defendants 2 and 3 at the rate of Rs.1,500/- each to
+
+meet the cost of litigation.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">                                                 Sd/-
+</p><p id="p_15">                                                JUDGE
+Mrk/-
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

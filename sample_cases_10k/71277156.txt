@@ -1,0 +1,578 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Venkataiah Balimdi vs Union Of India on 28 November, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/71277156/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:71277156">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/310282/">Section 164 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1353758/">The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/729918/">Section 92 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1063221/">Section 2(41) in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/71277156/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/71277156/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/71277156/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Venkataiah Balimdi vs Union Of India on 28 November, 2019</div><pre id="pre_1">                                                                             W.P. No. 22268 of 2018
+
+                             IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                DATED : 28.11.2019
+
+                                                      CORAM
+
+                                THE HON'BLE MR. JUSTICE P.D. AUDIKESAVALU
+
+                                             W.P. No. 22268 of 2018
+                                                      and
+                                       W.M.P. Nos. 26096 and 26097 of 2018
+
+                      Venkataiah Balimdi                                           ... Petitioner
+
+                                                           -vs-
+
+                      1. Union of India,
+                         Represented by its Ministry of Corporate Affairs,
+                         Shastri Bhawan,
+                         Dr. Rajendra Prasad Road,
+                         New Delhi - 110 001.
+
+                      2. The Registrar of Companies,
+                         Tamil Nadu, Chennai,
+                         Block No. 6, B Wing, 2nd Floor,
+                         Shastri Bhawan,
+                         No. 26, Haddows Road,
+                         Chennai - 600 006.                                     ... Respondents
+
+                      Prayer:    Writ Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of
+                      India praying to issue a Writ of Certiorarified Mandamus, calling for
+                      the records of the Second Respondent relating to the impugned order
+                      dated 08.09.2017, read with the updated list dated 01.11.2017 uploaded
+                      and hosted on the website of the First Respondent in so far as the
+                      Petitioner herein is concerned, quash the same as illegal, arbitrary and
+                      devoid of merit and consequentially direct the Respondents herein to
+
+
+                      1/10
+http://www.judis.nic.in
+                                                                            W.P. No. 22268 of 2018
+
+                      permit the Petitioner to get reappointed as Director of any Company or
+                      appointed as Director in any Company without any hindrance.
+
+                             For Petitioner   : Mr. C.V. Shailandhran
+
+                             For Respondents : Mr. V. Venkatesan,
+                                               Central Government Standing Counsel
+
+                                                     ORDER
+</pre>
+<p id="p_1">                             Heard Mr. C.V. Shailandhran, Learned Counsel appearing for the
+
+                      Petitioner and Mr. V. Venkatesan, Learned Central Government
+
+                      Standing Counsel appearing on behalf of the Respondents and perused
+
+                      the materials placed on record, apart from the pleadings of the parties.
+
+
+
+</p><p id="p_2">                      2.     In this Writ Petition, the list dated 01.11.2017 published by the
+
+                      Registrar of Companies, Tamil Nadu, Chennai uploaded in the website
+
+                      of the Ministry of Corporate Affairs, New Delhi disqualifying the
+
+                      Petitioner to hold the Office of the Directorship of a Company under
+
+                      Section 164 (2) (a) of the <a href="/doc/1353758/" id="a_2">Companies Act</a> 2013, which came into effect
+
+                      from 01.04.2014, is challenged with the consequential direction to the
+
+                      Respondents to permit the Petitioner to get re-appointed or appointed
+
+                      as Director in any other Company without any hindrance.
+
+
+
+</p><p id="p_3">                      3.     The lists dated 08.09.2017 and 01.11.2017 published by the
+
+<span class="hidden_text" id="span_1">                      2/10</span>
+http://www.judis.nic.in
+                                                                                W.P. No. 22268 of 2018
+
+                      Registrar of Companies, Tamil Nadu, Chennai were the subject matter
+
+                      of challenge before this Court in a batch of cases in W.P.
+
+                      No. 25455 of 2017 etc. batch [(2018) 6 MLJ 704] and came to be
+
+                      disposed by this Court by order dated 03.08.2018, the operative portion
+
+                      of which is extracted below:-
+</p>
+<blockquote id="blockquote_1">                             "29. In fine,
+
+</blockquote><blockquote id="blockquote_2">                             (a)   When the New Act 2013 came into effect from
+
+                             1.4.2014, the second respondent herein has wrongly given
+
+                             retrospective effect and erroneously disqualified the
+
+                             petitioner-directors   from   1.11.2016   itself   before    the
+
+                             deadline commenced wrongly fixing the first financial year
+
+                             from 1.4.2013 to 31.3.2014.</blockquote><p id="p_4">
+
+</p><p id="p_5">                             (b)   By virtue of the new <a href="/doc/310282/" id="a_3">Section 164(2)(a)</a> of the 2013 Act
+
+                             using the expression “for any continuous period of three
+
+                             financial years” and in the light of <a href="/doc/1063221/" id="a_4">Section 2(41)</a> defining
+
+                             “financial year” as well as their own General Circular
+
+                             No.08/14 dated 4.4.2014, the first financial year would be
+
+                             from 1.4.2014 to 31.3.2015, the second financial year would
+
+                             be from 1.4.2015 to 31.3.2016 and the third financial year
+
+                             would be from 1.4.2016 to 31.3.2017, whereas the second
+
+
+<span class="hidden_text" id="span_2">                      3/10</span>
+http://www.judis.nic.in
+                                                                               W.P. No. 22268 of 2018
+
+                             respondent clearly admitted in paras 15 and 22 of the
+
+                             counter affidavit that the default of filing statutory returns
+
+                             for the financial years commenced from 2013-14, 2014-15
+
+                             and 2015-16 i.e., one year before the Act 2013 came into
+
+                             force. This is the basic incurable legal infirmity that
+
+                             vitiates the entire impugned proceedings.
+
+</p><p id="p_6">                             (c)   By virtue of the first proviso to <a href="/doc/1780467/" id="a_5">Section 96(1)</a> of the
+
+                             2013 Act, Annual General Meeting for the year ending on
+
+                             31.3.2017 can be held within six months from the closing of
+
+                             financial year i.e., 30.9.2017, additionally in the light of
+
+                             <a href="/doc/310282/" id="a_6">Section   164(2)(a)</a>   referring   to   “annual   return”    and
+
+                             “financial statement”, the time limit to file annual return
+
+                             under <a href="/doc/729918/" id="a_7">Section 92(4)</a> of 2013 Act is sixty days from Annual
+
+                             General Meeting or the last date on which Annual General
+
+                             Meeting ought to have been held, hence, the time limit to
+
+                             file balance sheet under <a href="/doc/1049113/" id="a_8">Section 137(1)</a> of the 2013 Act is
+
+                             again thirty days from Annual General Meeting. Therefore,
+
+                             in view of these legal position, the disqualification could get
+
+                             triggered off only on or after 30.10.2017 only, if any
+
+                             company fails to file annual forms for three financial years.
+
+
+<span class="hidden_text" id="span_3">                      4/10</span>
+http://www.judis.nic.in
+                                                                               W.P. No. 22268 of 2018
+
+                             Importantly, it is to be borne in mind that even beyond that
+
+                             time limit, additional time limit of 270 days was available
+
+                             by virtue of the then first proviso to <a href="/doc/1540111/" id="a_9">Section 403</a>.
+
+</p><p id="p_7">                             (d)   Although there is no statute or provision expressly
+
+                             spelling out the observance of the principles of natural
+
+                             justice against disqualification of directors, as the legal
+
+                             right of the petitioners to continue as director in other
+
+                             company or to be reappointed in any other company, which
+
+                             are scrupulously following the provisions of the <a href="/doc/1353758/" id="a_10">Companies
+
+                             Act</a>, have been deprived of, the principles of natural justice
+
+                             should have been adhered to by issuing proper notice to all
+
+                             the directors.
+</p>
+<p id="p_8">                             (e)   When the disqualification clause was not attracted to
+
+                             the directors of private companies under the old Act of
+
+                             1956, the same cannot be allowed to take a retrospective
+
+                             effect under the new Act, when the provision of <a href="/doc/310282/" id="a_11">Section
+
+                             164(2)(a)</a> came into force only from 1.4.2014. This is also for
+
+                             one more reason that the failure to file the annual returns
+
+                             has been adequately taken care of by the penal provision
+
+                             under <a href="/doc/729918/" id="a_12">Section 92</a>, making it clear that every officer of the
+
+
+<span class="hidden_text" id="span_4">                      5/10</span>
+http://www.judis.nic.in
+                                                                              W.P. No. 22268 of 2018
+
+                             company who is in default shall be punishable with
+
+                             imprisonment for a term which may extend to six months
+
+                             or with fine which shall not be less than fifty thousand
+
+                             rupees but which may extend to five lakh rupees, or with
+
+                             both.    Again under <a href="/doc/937488/" id="a_13">Section 137</a>, the failure to file the
+
+                             financial statement visits punishment with imprisonment
+
+                             for a term which may extend to six months or with fine
+
+                             which shall not be less than one lakh rupees but which may
+
+                             extend to five lakh rupees, or with both. Further, under
+
+                             <a href="/doc/1948051/" id="a_14">Section 441(4)</a>, the default in filing returns or accounts
+
+                             compoundable by Tribunal or Regional Director or by any
+
+                             officer authorized by the Central Government.
+
+</p><p id="p_9">                             (f)     In view of the above legal position, when the default
+
+                             in filing the accounts or returns are made as compoundable
+
+                             offence, <a href="/doc/310282/" id="a_15">Section 164(2)(a)</a> providing the disqualification of
+
+                             director of private company not only in the defaulting
+
+                             company, but also from other company in which the
+
+                             petitioner is a director, diligently and meticulously
+
+                             following     every   provision    of   law,   is   certainly
+
+                             disproportionate to the lapse, as it is only regulatory in
+
+
+<span class="hidden_text" id="span_5">                      6/10</span>
+http://www.judis.nic.in
+                                                                             W.P. No. 22268 of 2018
+
+                             nature, because, notice to be sent under <a href="/doc/1353758/" id="a_16">Section 248(1)</a> of
+
+                             the Companies Act, 2013 by the Registrar of Companies for
+
+                             striking off the name of the company from the Registrar of
+
+                             Companies on the premise that the company has not been
+
+                             carrying on any business for a period of two financial years,
+
+                             is different from the disqualification under <a href="/doc/310282/" id="a_17">Section
+
+                             164(2)(a)</a>, inasmuch as a company can be struck off, if the
+
+                             company has not been carrying on any business for a period
+
+                             of two financial years, whereas for disqualification, the
+
+                             criteria is three financial years.       Therefore, in my
+
+                             considered opinion, although the petitioners have not
+
+                             challenged the provision of <a href="/doc/310282/" id="a_18">Section 164(2)(a)</a>, as the
+
+                             respondents have not followed the principles of natural
+
+                             justice, extinguishing the corporate life of the directors to
+
+                             the extent of disqualifying them to hold the directorship in
+
+                             the other companies, the said provision is liable to be read
+
+                             down, hence, <a href="/doc/310282/" id="a_19">Section 164(2)(a)</a> is read down to the extent it
+
+                             disqualifies the directors in other companies which are
+
+                             scrupulously following the requirements of law, making it
+
+                             clear that no directors in other companies can be
+
+
+<span class="hidden_text" id="span_6">                      7/10</span>
+http://www.judis.nic.in
+                                                                              W.P. No. 22268 of 2018
+
+                             disqualified without prior notice.
+</p>
+<p id="p_10">                             (g)   However, it is made clear beyond any pale of doubt
+
+                             that the mischief of removal of the names of the companies
+
+                             by the Registrar of Companies and the disqualification of
+
+                             the directors in the defaulting company will go together, as
+
+                             it is inseparable, and the Registrar of Companies need not
+
+                             give fresh notice to the directors for their disqualification
+
+                             from the dormant company, if there is a failure to file the
+
+                             financial statement or annual return for any continuous
+
+                             period of three financial years as per <a href="/doc/310282/" id="a_20">Section 164(2)(a)</a>.
+
+</p><p id="p_11">                             30.   For all the aforementioned reasons, the impugned
+
+                             orders are set aside and the writ petitions shall stand
+
+                             allowed.     Consequently,    all    the    connected       writ
+
+                             miscellaneous petitions are closed. However, there shall be
+
+                             no order as to costs.''
+
+
+
+</p><p id="p_12">                      4.     As the Petitioner in this case is similarly placed to the Petitioners
+
+                      in the aforesaid batch of cases relating to the same impugned lists
+
+                      published in the website by the Respondents, he is entitled to identical
+
+                      relief that has been granted to them. Accordingly, the Writ Petition
+
+
+
+<span class="hidden_text" id="span_7">                      8/10</span>
+http://www.judis.nic.in
+                                                                          W.P. No. 22268 of 2018
+
+                      stands allowed and the impugned order is set aside on the aforesaid
+
+                      terms. Consequently, the connected Miscellaneous Petitions are closed.
+
+                      No costs.
+</p>
+<p id="p_13">
+</p><p id="p_14">                                                                                  28.11.2019
+<span class="hidden_text" id="span_8">                                                                                     2/2</span>
+                      vjt
+
+                      Index   : Yes/No
+
+                      Note: Issue order copy by 04.12.2019.
+</p>
+<p id="p_15">                      To
+
+</p><p id="p_16">                      1. The Secretary to the Government of India,
+                         Ministry of Corporate Affairs,
+                         Shastri Bhawan,
+                         Dr. Rajendra Prasad Road,
+                         New Delhi - 110 001.
+</p>
+<p id="p_17">                      2. The Registrar of Companies,
+                         Tamil Nadu, Chennai,
+                         Block No. 6, B Wing, 2nd Floor,
+                         Shastri Bhawan,
+                         No. 26, Haddows Road,
+                         Chennai - 600 006.
+</p>
+<p id="p_18">
+
+
+<span class="hidden_text" id="span_9">                      9/10</span>
+http://www.judis.nic.in
+                                     W.P. No. 22268 of 2018
+
+
+
+                              P.D. AUDIKESAVALU, J.
+</p>
+<p id="p_19">                                                       vjt
+
+
+
+
+                                W.P. No. 22268 of 2018
+
+
+
+
+                                             28.11.2019
+<span class="hidden_text" id="span_10">                                                2/2</span>
+
+<span class="hidden_text" id="span_11">                      10/10</span>
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

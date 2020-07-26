@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Amar Singh &amp; Ors vs State &amp; Ors on 19 January, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/22981564/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/22981564/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/22981564/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/22981564/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court - Jodhpur</div>
+<div class="doc_title">Amar Singh &amp; Ors vs State &amp; Ors on 19 January, 2018</div><p id="p_1">     HIGH COURT OF JUDICATURE FOR RAJASTHAN AT
+                      JODHPUR
+             S.B. Civil Writ Petition No. 10857 / 2017
+</p><p id="p_2">1. Amar Singh Son of Shri Ram Singh, Aged About 41 Years,
+Resident of Village &amp; Post Chawandiya, Tehsil Khinvsar, Dist.
+Nagaur, At Present Posted As Driver, Mahila Police Station Dist.
+Nagaur.
+</p>
+<p id="p_3">2. Bhika Ram Son of Shri Gumana Ram, Aged About 43 Years, R/o
+Village Gowa, Post Kumari, District Nagaur, Presently Posted As
+Driver, Police Line Nagaur.
+</p>
+<p id="p_4">3. Ram Niwas Son of Shri Mohan Lal Bishnoi, Resident of Village &amp;
+Post Rotu, Tehsil Jayal, Dist Nagaur, Presently Posted As Driver
+Police Line, Nagaur.
+</p>
+<p id="p_5">4. Baldev Ram Son of Shri Arjun Ram, Resident of Village Basani
+Seja, Tehsil Mertal City, Dist Nagaur, Presently Posted As Driver,
+SP Office, Nagaur.
+</p>
+<p id="p_6">5. Rajendra Singh Son of Shri Gopal Singh, Resident of Village
+Jakhaniya, Post Alay, Dist Nagaur, Presently Posted As Driver,
+Circle Office, Nagaur.
+</p>
+<p id="p_7">6. Machi Lal Son of Shri Hanuman Ram, Resident of Goshinada,
+Karani Colony, Nagaur, Presently Posted As Driver Police Line,
+Nagaur.
+</p>
+<p id="p_8">7. Deva Ram Son of Shri Harka Ram, Resident of Village Post
+Shomna, Via Deh, Dist Nagaur, Presently Posted As Driver Police
+Station Kotwali, Nagaur.
+</p>
+<p id="p_9">8. Ram Swaroop Son of Shri Bhera Ram Bishnoi, Resident of
+Village Dhingsara, Post Bhed, Dist Nagaur, Presently Posted As
+Driver Police Line, Nagaur.
+</p>
+<p id="p_10">9. Ram Pratap Son of Shri Sahi Ram Bishnoi, R/o Village and Post
+Bhed, Tehsil Khinvsar, District, Nagaur, Presently Posted As Driver,
+CO Office, Nagaur.
+</p>
+<p id="p_11">10. Surendra Rao Son of Shri Kumbha Ram, R/o Village Amanda,
+Post Thirod, District Nagaur Presently Driver, Kotwali Nagaur.
+</p>
+<p id="p_12">11. Raghunath Ram Son of Shri Roopa Ram, Resident of Village
+Post Mahiyasar, Badikhatu, Dist Nagaur, Presently Posted As Driver
+Police Line, Nagaur.
+</p>
+<p id="p_13">12. Banshi Lal Son of Shri Bhag Chand Bishnoi, Resident of Village
+Post Panchla Sidha, Tehsil Khinvsar, Dist Nagaur, Presently Posted
+As Driver Police Line, Nagaur.
+</p>
+<p id="p_14">13. Mancha Ram Son of Shri Hukma Ram Khoja, Resident of
+Village Sadokan, Dist Nagaur, Presently Posted As Driver, S.P.
+</p><p id="p_15">                                (2 of 6)
+
+
+
+Office, Nagaur.
+</p>
+<p id="p_16">14. Surja Ram Son of Shri Jena Ram Sankhla, Resident of Rathodi
+Kua, Nagaur, Presently Posted As Driver Police Station Sadar, Dist
+Nagaur.
+</p>
+<p id="p_17">15. Mohan Lal Son of Shri Nahru Ram Meena, Resident of Village
+Post Jhoda, Tehsil Chomu, Dist Jaipur, Presently Posted As Head
+Constable, Police Line, Nagaur.
+</p>
+<p id="p_18">16. Daya Sindhu Son of Shri Lekh Ram Vishnoi, Resident of Village
+&amp; Post Rotu, Tehsil Jayal, Dist Nagaur, Presently Posted As Driver,
+Police Station Deedwana, Dist Nagaur.
+</p>
+<p id="p_19">17. Prithvi Raj Son of Shri Bharmal Bishnoi, Resident of Village &amp;
+Post Rotu, Tehsil Jayal, Dist Nagaur, Presently Posted As Driver,
+Police Station Gotan, Dist. Nagaur.
+</p>
+<p id="p_20">18. Ram Niwas Son of Shri Ganpat Ram Bishnoi, Resident of
+Village &amp; Post Bhed, Tehsil Khinvsar, Dist. Nagaur, At Present
+Driver, Police Station Surpalia, Nagaur.
+</p>
+<p id="p_21">19. Mangla Ram Son of Shri Sanwat Ram Jat, Resident of Village &amp;
+Post Rupathal, Tehsil Jayal, Dist Nagaur, At Present Driver, Police
+Station Rol Dist Nagaur.
+</p>
+<p id="p_22">20. Garib Ram Son of Shri Birma Ram Jat, Resident of Village &amp;
+Post Rupathal, Tehsil Jayal, Dist Nagaur, At Present Driver, Police
+Line, Dist Nagaur.
+</p>
+<p id="p_23">21. Mangi Lal Son of Shri Bhajana Ram Bishnoi, Resident of Chak
+Dhani, Tehsil Degana, Dist. Nagaur, Presently Diver Police Station
+Ladnun, Dist. Nagaur.
+</p>
+<p id="p_24">22. Ram Swaroop Son Shri Ram Kishore Firoda, Resident of Village
+&amp; Post Firod, Tehsil &amp; Dist Nagaur, Presently Driver Police Line,
+Nagaur.
+</p>
+<p id="p_25">23. Shaitana Ram Son of Shri Jassa Ram Jat, Resident of Village
+Post Jawali, Tehsil Merta City, Dist Nagaur, Presently Driver Police
+Station Kuchaman City, Dist Nagaur.
+</p>
+<p id="p_26">24. Ram Dayal Son of Nenu Ram Bishnoi, Resident of Village &amp;
+Post Bhed, Tehsil Khinvsar, Dist. Nagaur, At Present Driver, Police
+Station Ladnun, Nagaur.
+</p>
+<p id="p_27">25. Bhanwer Lal Son of Shri Ganpat Lal, R/o Village Khakharki,
+Tehsil Merta, District Nagaur, Presently Posted As Driver, Police
+Station, Padu Kalla, Dist. Nagaur.
+</p>
+<p id="p_28">26. Bajrang Das Son of Shri Laxman Das Mundel, Resident of
+Village Pandwala, Post Khudi Kalla, Dist Nagaur, Presently Posted
+As Driver, Circle Office, Circle Degana, Dist Nagaur.
+</p><p id="p_29">                                (3 of 6)
+
+
+
+
+</p><p id="p_30">27. Basti Ram Son of Shri Sohan Lal Bishnoi, Resident of Village
+Nedas, Post Khinyas, Tehsil Ren, Dist. Nagaur, Presently Posted As
+Driver Circle Office, Circle Merta City, Dist Nagaur.
+</p>
+<p id="p_31">28. Tara Chand Son of Shri Ramchandra, R/o Village &amp; Post Koliya,
+Tehsil Deedwana, District Nagaur, Presently Posted As Driver,
+Police Station Molasar, Dist Nagaur.
+</p>
+<p id="p_32">29. Kailash Chandra Son of Shri Shyam Lal Acharya, Resident of
+Khotda Ka Mohalla, Nakas Gate, Nagaur, Presently Posted As
+Driver, Addl. S.P. Nagaur.
+</p>
+<p id="p_33">30. Ram Gopal Son of Shri Adu Ram, R/o Village Talanpur, Tehsil
+Merta, District Nagaur, Presently Posted As Driver, Circle Office,
+Circle Makrana, Dist Nagaur.
+</p>
+<p id="p_34">31. Amit Son of Shri Kalyan Singh, Resident of Village Surpalia,
+Tehsil Jayal, Dist Nagaur, Presently Posted As Driver Police Station
+Traffic Dist Nagaur.
+</p>
+<p id="p_35">32. Gordhan Ram Son of Shri Ghewar Ram Jat, Resident of Kiyar
+Ki Dhani, Mundwa, Dist Nagaur, Presently Posted As Driver Police
+Station Kuchera Dist Nagaur.
+</p>
+<p id="p_36">33. Meh Ram Son of Shri Purba Ram, Resident of Village Post
+Inana, Via Mundwa, Dist Nagaur, Presently Posted As Driver Police
+Station Kuchera, Dist Nagaur.
+</p>
+<p id="p_37">34. Sunder Singh Son of Shri Vijay Singh, Resident of Village &amp;
+Post Bhadwasi, Dist Nagaur, Presently Posted As Driver CO, SCST
+Cell Nagaur.
+</p>
+<p id="p_38">35. Kana Ram Son of Shri Mangala Ram, R/o Village Gangwana,
+District Nagaur Presently Posted As Driver, Police Station
+Mundawa, District Nagaur.
+</p>
+<p id="p_39">36. Mada Ram Son of Shri Pura Ram Bhakar, Resident of Village
+Post Thob, Thob, Tehsil Osian, Dist Jodhpur, Presently Posted As
+Driver Police Station Kuchaman, City, Dist Nagaur.
+</p>
+<p id="p_40">37. Pralad Singh Son of Shri Hari Singh, Resident of Village
+Malgaon, Post Bhadana, Dist. Nagaur, Presently Posted As Driver
+Police Station Traffic Dist. Nagaur.
+</p>
+<p id="p_41">38. Anil Son of Shri Joga Ram, Resident of Village Balwa, Post
+Gogelaw, Dist Nagaur, Presently Posted As As Driver Police Station
+Jayal, Dist Nagaur.
+</p>
+<p id="p_42">39. Hardev Singh Son of Shri Lal Singh, Resident of Balwa, Post
+Gogelaw, Dist. Nagaur, Presently Posted As Driver Police Line,
+Nagaur.
+</p><p id="p_43">                                (4 of 6)
+
+
+
+</p><p id="p_44">40. Birbal Ram Son of Shri Bhanwar Lal Bishnoi, Resident of
+Village Post Hodiya, Via Borawar, Dist Nagaur, Presently Posted As
+Driver QRT, Parbatsar, Dist Nagaur.
+</p>
+<p id="p_45">41. Shyam Sunder Son of Shri Parsa Ram, Resident of Khajawana
+Road, Kuchera, Dist Nagaur, Presently Posted As Driver Police
+Station Kotwali, Nagaur.
+</p>
+<p id="p_46">42. Ummed Singh Son of Shri Mohabat Singh, Resident of Village
+Post Madpura, Dist Nagaur, Presently Posted As Driver Police
+Station Khinvsar, Dist Nagaur.
+</p>
+<p id="p_47">43. Rafiq Mohammed Son of Shri Hamid Khan, Resident of
+Sipahiyon Ka Mohalla, Parbatsar, Dist Nagaur, Presently Posted As
+Head Constable, Police Station Kuchaman City, Dist Nagaur.
+</p>
+<p id="p_48">44. Sharwan Kumar Son of Shri Hajari Ram, R/o Village Sateran,
+Tehsil &amp; District Nagaur Presently Posted As Driver Police Line,
+Nagaur.
+</p><p id="p_49">                                                     ----Petitioners
+                              Versus
+</p><p id="p_50">1. The State of Rajasthan Through the Secretary, Home
+Department, Government   of  Rajasthan, Jaipur   (Raj.).
+</p>
+
+<p id="p_51">2. The Director General of Police, Police Head Quarter, Rajasthan,
+Jaipur.
+</p>
+<p id="p_52">3. The Financial Advisor, Police Headquarter, Rajasthan, Jaipur.
+</p>
+
+<p id="p_53">4. The Superintendent of Police, Nagaur.
+</p><p id="p_54">                                                   ----Respondents
+                          Connected With
+              S.B. Civil Writ Petition No. 8828 / 2017
+Bhagirath Ram Son of Shri Manak Ram, Aged About 47 Years,
+Resident of Village &amp; Post Lohawat, Tehsil Lohawat Dist. Jodhpur.
+At Present Posted As Driver, Police Station Phalsood, Tehsil Pokran,
+Dist. Jaisalmer.
+</p>
+<p id="p_55">                                                     ----Petitioner
+
+                               Versus
+
+</p><p id="p_56">1. The State of Rajasthan Through the Secretary, Home
+Department, Government of Rajasthan, Jaipur (Raj.)
+
+</p><p id="p_57">2. The Director General of Police, Police Head Quarter, Rajasthan,
+Jaipur.
+</p><p id="p_58">                                (5 of 6)
+
+
+
+
+</p><p id="p_59">3. The Financial Advisor, Police Headquarter, Rajasthan, Jaipur.
+</p>
+<p id="p_60">4. The Superintendent of Police, Jaisalmer.
+</p>
+<p id="p_61">                                                   ----Respondents
+
+             S.B. Civil Writ Petition No. 10844 / 2017
+</p><p id="p_62">1. Pharsa Ram Son of Shri Gumana Ramji, Aged About 39 Years,
+Resident of Village &amp; Post Nokhra Godara, Tehsil Baap, Dist.
+Jodhpur, At Present Posted As Driver, Police Station Jamba, Rural
+Police Line, Daijar, Jodhpur.
+</p>
+<p id="p_63">2. Mohan Ram Son of Shri Keshu Ram, Jat, Aged About 41 Years,
+Resident of Village Jatipura, Osian, Tehsil Osian, Dist Jodhpur, At
+Present Driver At Addl. S.P. Office, Phalodi, Dist Jodhpur.
+</p>
+<p id="p_64">                                                     ----Petitioners
+
+                               Versus
+
+</p><p id="p_65">1. The State of Rajasthan Through the Secretary, Home
+Department, Government of Rajasthan, Jaipur (Raj.).
+</p>
+<p id="p_66">2. The Director General of Police, Police Head Quarter, Rajasthan,
+Jaipur.
+</p>
+<p id="p_67">3. The Financial Advisor, Police Head Quarter, Rajasthan, Jaipur.
+</p>
+<p id="p_68">4. The Superintendent of Police, Jodhpur Rural, Jodhpur.
+</p>
+<p id="p_69">                                                   ----Respondents
+_____________________________________________________
+For Petitioner(s)   : Mr. Khet Singh
+For Respondent(s) : Mr. Anil Kumar Bissa
+_____________________________________________________
+            HON'BLE MR. JUSTICE ARUN BHANSALI
+                               Order
+19/01/2018
+
+     The present writ petitions have been filed by the petitioners,
+
+seeking a direction to the respondents to grant the pay scale of
+
+Sub Inspector to the petitioners on account of second benefit
+
+under selection grade.
+</p><p id="p_70">                                    (6 of 6)
+
+
+
+      It is submitted that the issue raised in the present writ
+
+petitions is no more res integra as this Court in the case of State
+
+of Rajasthan v. Banne Khan : S.A.W. No. 763/2011, decided on
+
+02.08.2011       and    by   various   other   orders   has   settled   the
+
+controversy.
+</p>
+<p id="p_71">      It is further submitted that the representation made by the
+
+petitioners has not been properly dealt with by the respondents.
+</p>
+<p id="p_72">      In view of the submissions made, the writ petitions filed by
+
+the petitioners are disposed of requiring the petitioners to submit
+
+copy of the present writ petitions alongwith a copy of this order to
+
+the appropriate authority. The appropriate authority is directed to
+
+consider and deal with the petitioner's grievances by reasoned
+
+speaking order within a period of eight weeks from the date of
+
+submission of this order.       It is made clear that even thereafter
+
+petitioners' grievance survive, they will be at liberty to take
+
+recourse to appropriate proceedings.
+</p>
+<p id="p_73">                                                    (ARUN BHANSALI)J.
+</p>
+<p id="p_74">A.K. Chouhan/-174-176
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

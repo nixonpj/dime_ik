@@ -1,0 +1,722 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Umpyrchin @ Ampyrching Village vs The Jaintia Hills Autonomous ... on 4 February, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/111230938/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/185068380/">Section 2 in The Insurance Rules, 1939</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/76226/">Section 3 in The Societies Registration Act, 1860</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/371914/">Member Secretary, Karnataka ... vs Sri Krishna Spinning And Weaving ... on 11 April, 1985</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1700055/">The Societies Registration Act, 1860</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/111230938/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/111230938/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/111230938/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Gauhati High Court</div>
+<div class="doc_title">Umpyrchin @ Ampyrching Village vs The Jaintia Hills Autonomous ... on 4 February, 2011</div><div class="doc_bench">Bench: T Vaiphei</div>
+
+<pre id="pre_1">                       IN THE GAUHATI HIGH COURT
+     (THE HIGH COURT OF ASSAM, NAGALAND, MEGHALAYA, MANIPUR,
+              TRIPURA, MIZORAM &amp; ARUNACHAL PRADESH).
+
+                                  SHILLONG BENCH
+
+                          W.P. (C) No. (SH) 403/2005
+Umpyrchin @ Ampyrching Village,
+BPO Umkiang, Jaintia Hills District,
+Presently residing at Nongrim Hills,
+Represented by the Secretary of the Village,
+Shri Johny Suchen                                              :::Petitioner
+
+        -Versus-
+
+1.      The Jaintia Hills Autonomous District Council,
+        Jowai.
+
+2.      Executive Committee, Jaintia Hills Autonomous District Council,
+        Jowai, Represented by its Secretary.
+
+3.      The Dolloi of Rymbai Elaka and his Dorbar, Rymbai,
+        Jaintia Hills District.
+
+4.      Shri Ham Lamurong,
+        S/o F Swer,
+        R/o Huroi Village,
+        Jaintia Hills District.
+
+5.      Lahalein Village,
+        BPO Umkiang,
+        Jaintia Hills District,
+        Represented by its Headman &amp; Secretary.
+
+6.      Principal Chief Conservator of Forest,
+        Meghalaya, Shillong.
+
+7.      Divisional Forest Officer (T),
+        Jaintia Hills Division, Jowai.                   :::   Respondents</pre>
+
+
+<p id="p_1">                                 BEFORE
+                     THE HON'BLE MR JUSTICE T VAIPHEI
+
+        For the Petitioner           :    Mr L Lyngdoh, Adv.
+</p>
+<pre id="pre_2">        For the Respondents          :    Mr HS Thangkhiew, Sr Adv
+                                          JHADC
+                                          Mr S Sen, GA
+                                          Mr L Khyriem, Adv
+
+        Date of Hearing              :    14.12.2010
+
+        Date of Judgment             :    04.02.2011
+<span class="hidden_text" id="span_1">                                          2</span>
+
+
+
+
+                            JUDGMENT AND ORDER
+
+
+</pre><p id="p_2">              The legality of the order dated 16-6-2005 passed by the Executive
+
+Committee of the Jaintia Hills Autonomous District Council, Jowai, in Political
+
+Appeal No. 1 of 2004 declining to interfere with the decision dated 15-7-2003 of
+
+the Dolloi of Rymbai Elaka, Jaintia Hills District declaring Umpyrchin @
+
+Ampyrching village of the petitioner as the locality within the jurisdiction of Huroi
+
+village under the respondent No. 4 is called into question in this writ petition.
+
+
+
+</p><p id="p_3">2.            The facts of the case, as pleaded by the petitioner, may be briefly
+
+noticed at the outset. The petitioner's village is a part of Rymbai Elaka, consists
+
+of a mixed population of Pnar-Jaintia and War-Jaintia Scheduled Tribe
+
+communities and is, as such, known as Umpyrchin @ Ampyrshing. The prefix
+
+'UM' or "AM' as per War-Jaintia and Pnar-Jaintia dialects literally means "water"
+
+and by whatever nomenclature it is described, they refer to one and the same
+
+village. Huroi village under the Headmanship of respondent No. 4 is situated
+
+within the Narpuh State Reserve Forest Block-I whereas Umpyrchin village is
+
+situated outside the said Reserve Forest. According to the petitioner, the fact
+
+that Umpyrchin village is a separate and independent village is proved by the
+
+following:
+</p>
+<p id="p_4">
+
+</p><blockquote id="blockquote_1">              (i)    The resolution dated 15-6-1970 passed by the village
+
+              Dorbar of the respondent No. 5 (Lahalein village) whereby the
+
+              land with the boundaries described therein upon which situates
+
+              Umpyrchin village, was gifted to the late Solomon Khonglah for
+
+              setting up the village;
+</blockquote><span class="hidden_text" id="span_2">                             3</span>
+
+
+
+
+<p id="p_5">(ii)     The joint memorandum dated 30-1-1985 presented by
+
+Huroi, Hingaria, Lejri, Lahalein and Umpyrchin village to the
+
+Minister of the Government of Meghalaya;
+</p>
+<p id="p_6">(iii)    Due to ill-health, the said Solomon Khonglah vide the
+
+resolution dated 15-6-1993 handed over the charge of the
+
+headmanship to Shri Rill Nongpluh, the present Headman, as he
+
+had to migrate to Umkiang village to avail of better medical
+
+treatment, a fact duly confirmed by his legal heir in his declaration
+
+dated 27-8-2005;
+</p>
+<p id="p_7">(iv)     The letter dated 17-4-2004 of the In-Charge, Umkiang
+
+Police Patrol Post requesting the petitioner to submit the names of
+
+the <a href="/doc/371914/" id="a_1">Headman, Secretary, Members of the V.D.P</a>. and the
+
+population of Umpyrchin village;
+</p>
+<p id="p_8">(v)      Registration of the Youth Sports Club Border Umpyrchin
+
+village under the <a href="/doc/1700055/" id="a_2">Societies Registration Act</a>, 1983 vide the
+
+Certificate dated 18-11-1997;
+</p>
+<p id="p_9">(vi)     Letters/orders showing receipts of financial grants from
+
+authorities of the State by the petitioner village;
+</p>
+<p id="p_10">(vii)    The notification dated 5-8-1983 mentioning the name of
+
+Umpyrchin village at Serial No. 13-Narpuh District Council
+
+Constituency under Rymbai Dolloiship at Appendix I to the
+
+Constitution of the Jaintia Hills Autonomous District Council
+
+(Amendment) Rules, 1983;
+</p>
+<p id="p_11">(viii)   The letter dated 27-7-2004 of the respondent 7 addressed
+
+to respondent 2 stating that the petitioner village is outside the
+
+Narpuh     Reserved    Forest   Block-I   whereas     the   village of
+
+respondent 6 is described as an encroacher village of the
+
+reserved forest and
+<span class="hidden_text" id="span_3">                                           4</span>
+
+
+
+
+</p><p id="p_12">              (ix)    The notification dated 9-3-1918 issued by the Chief
+
+              Secretary to the Commissioner of Assam describing the
+
+              boundaries of the Narpuh Reserve Forest obtained by the
+
+              petitioner from the respondent No. 9 vide the letter dated 4-8-
+
+              2004.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">3.            Notwithstanding the aforesaid evidence, it is further averred by the
+
+petitioner, the respondent No. 4 is bent upon taking over the village of the
+
+petitioner by falsely claiming it to be a locality within the village of Huroi village.
+
+To achieve this illegal object, various complaints have been lodged by him
+
+before the authorities and the court of law. The dispute as to whether the
+
+petitioner village is a separate and independent village or whether this village is
+
+a locality of the respondent No. 4 was placed before the respondent No. 3 for
+
+adjudication. However, as the petitioner had apprehended that the respondent
+
+No. 3 was bias, he by his letter dated 12-4-2003 approached the District
+
+Council to ventilate his grievance but to no effect. In the meantime, the
+
+respondent 3, as apprehended by him, without hearing him, passed the order
+
+dated 15-7-2003 declaring his village as a locality within the jurisdiction of the
+
+respondent No. 4. This prompted the petitioner to prefer political appeal before
+
+the District Council on 22-7-2003, but when no action was taken even after the
+
+lapse of over a year, he approached this Court in WP (C) No. 219(SH) of 2005.
+
+This Court by the order dated 16-7-2004 disposed of the writ petition by
+
+directing the District Council to hear and decide the representation of the
+
+petitioner within a period of two months from the date of receipt of the
+
+representation. The petitioner thereafter filed the appeal accompanied by the
+
+copy of the said order before the respondent No. 3. The District Council, after
+
+sleeping over the matter and on the pain of facing contempt proceeding, finally
+
+directed the petitioner to appear before them on 14-6-2005 but without allowing
+<span class="hidden_text" id="span_4">                                         5</span>
+
+
+
+
+him to represent his case: he was, instead, threatened, abused and insulted for
+
+having approached this Court and for filing contempt petition against them. This
+
+was followed by the impugned order purportedly on the basis of the hearing
+
+conducted by them on 14-6-2004 without giving him an opportunity of hearing
+
+or to adduce his evidence. Contending that the impugned order is mala fide,
+
+illegal, arbitrary and perverse and also betrays non-application of mind, this writ
+
+petition has been filed by him.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">4.            The writ petition is contested by all the respondents by filing their
+
+respective affidavits-in-opposition. In fact, the respondents 1 and 2 filed their
+
+affidavit-in-opposition as well as their additional affidavit. The respondent No. 4
+
+and 5 filed separate affidavits-in-opposition while the respondents 6 and 7 also
+
+filed their affidavit-in-opposition. The respondent No. 4 also filed his additional
+
+affidavit. As the stance taken by all the respondents in their respective
+
+affidavits-in-opposition are virtually one and the same, suffice it to refer to the
+
+affidavit-in-opposition and the additional affidavit of the respondents No. 1 and
+
+</p><p id="p_17">2. The case of the respondents 1 and 2 is that Umpyrshin is a locality of, and
+
+falls under, the administrative control of Huroi village. The land donated to the
+
+said Solomon Khonglah was for setting up of a village on the area falling within
+
+Lahalein village, and was carved out there from: this was the village set up by
+
+the said Solomon Khonglah with the name of Umpyrshin village. According to
+
+the answering respondents, the said Solomon Khonglah established Umpyrshin
+
+village on the land donated to him by Lahalein village. There are two places
+
+with an identical name of Umpyrshin village, the one forming a part of Huroi
+
+village and the other carved out of Lahalein village and donated to the said
+
+Solomon Khonglah, which is the Umpyrshin village reflected in the
+
+memorandum dated 30-1-1985 and not the village over which the petitioner
+
+claimed himself to be the Headman. When Shri Ril Nongpluh, father of the
+<span class="hidden_text" id="span_5">                                          6</span>
+
+
+
+
+petitioner, started claiming himself to be the Headman of Umpyrshin village, the
+
+respondent No. 4 summoned him to the meeting convened by the Durbar of
+
+Huroi village on 26-11-2000 in connection therewith, he asked for forgiveness
+
+from the Durbar and promised not to repeat the same in future. But when he did
+
+not keep his promise, the respondent No. 4 filed a complaint before the
+
+respondent No. 3, who by the order dated 5-8-2003 re-affirmed that Umpyrshin
+
+is a locality under Huroi village and that the claim of Rill Nongpluh that he is the
+
+Headman of Umpyrshin and his further claim that Umpyrshin locality is a
+
+separate village was without any basis. It is asserted by the answering
+
+respondents that adequate opportunity was given to the petitioner to present his
+
+case before the impugned order was passed by the respondent No. 3. It is
+
+denied that the petitioner was ever recognized as the Headman of the locality in
+
+terms of Section 7(i) of the United Khasi-Jaintia Hills Autonomous District
+
+(Appointment and Succession of Chiefs and Headmen) Act, 1959 ("the Act" for
+
+short) nor was the locality recognized as a separate village by any competent
+
+authority. It is contended that creation of a new village or bifurcation of a village
+
+from another is always done with the consent of the inhabitants of the parent
+
+village, which is effected by holding a general durbar wherein all concerned are
+
+allowed to air their views, and the subject put to vote thereafter, but this was
+
+never done in the case of the petitioner village. The Headman of Lahalein
+
+village i.e. respondent No.5 in his statement before respondent No.3 has
+
+categorically stated that the land mentioned in the gift deed dated 15-6-1970
+
+clearly falls within the boundaries of Lahalein village and also rejected the claim
+
+that Shri Rill Nongpluh or his followers ever resided within the area in question:
+
+Shri Nongpluh and others are residing within the boundaries of Huroi village. It
+
+is, therefore, submitted that the writ petition is devoid of merits and is liable to
+
+be dismissed.
+</p><span class="hidden_text" id="span_6">                                          7</span><p id="p_18">
+
+
+
+
+</p><p id="p_19">5.            The sole question which falls for consideration is this writ petition
+
+is whether the locality under the name and style of Umpyrchin village is a
+
+separate and independent village as claimed by the petitioner. The Executive
+
+Committee of the District Council in coming to the conclusion that it is not a
+
+separate and independent village took into account the statements of Dolloi of
+
+Rymbai, Headman of Lahalein, Headman of Huroi and the Assistant
+
+Conservator of Forest, Forest Department, Government of Meghalaya, who
+
+were examined by them in the course of hearing of the political appeal. The
+
+Headman of Lahalein village stated that the land covered by the Gift Deed
+
+dated 15-6-70 on the basis whereof the petitioner claimed to have established
+
+Umpyrchin village fell within the boundary of Lahalein village, which is outside
+
+Narpuh Reserved Forest and rejected the claim that the petitioner or his
+
+followers ever resided in that land. According to the Headman, no one resided
+
+within that area of land and the area where the petitioner and others are
+
+residing falls within the boundary of Huroi village. The Headman of Huroi village
+
+also stated before the Executive Committee that the petitioner used to live and
+
+carry on his cultivation activities as one of the villagers of Huroi village and that
+
+it was only in 1985 that he shifted to Umpyrchin which happened to form a part
+
+and parcel of Huroi village and started proclaiming himself to be the Headman
+
+contrary to the custom and usages prevalent in the Elaka. This prompted him to
+
+lodge objection with the Dolloi of the Elaka (Dolloi of Rymbai), which, after
+
+making physical enquiry and after hearing of all concerned rejected the request
+
+of the petitioner for establishment of a village. This was re-affirmed by the Dolloi
+
+of Rymbai in the Executive Committee which sat on 16-7-2003, whose decision
+
+was communicated to the Administrative Officer. The Executive committee also
+
+took into account the stance taken by the State Forest Department that Huroi
+
+village fell within Narpuh Reserve Forest whereas Lahalein village is outside the
+
+Reserved Forest. It was on the basis of the findings so arrived at that the
+<span class="hidden_text" id="span_7">                                           8</span>
+
+
+
+
+impugned order was passed by the Executive Committee of the District Council
+
+rejecting the application of the petitioner.
+</p>
+<p id="p_20">
+
+</p><p id="p_21">6.            In order to prove that the locality of the petitioner is a separate
+
+village, the petitioner produced a number of documents including Government
+
+correspondences before the Executive Committee, but he has failed to produce
+
+a single order issued by the competent authority unambiguously and
+
+categorically recognizing that his locality is a separate and independent village.
+
+The term "village" is not defined in the United Khasi-Jaintia Hills Autonomous
+
+District (Appointment and Succession of Chiefs and Headmen) Act, 1959. The
+
+term "village" is defined by Section 2(iv) of Khasi Hills Autonomous District
+
+(Administration of Elaka) Act, 1991 to mean an area where a number of houses
+
+have been grouped together under one village for administrative purposes.
+
+Then, <a href="/doc/76226/" id="a_3">Section 3</a> of this Act prescribes the procedure for establishing a new
+
+village. In terms of this provision, it is the Chief and his Durbar, with the
+
+approval of the Executive Committee, which can form a new village by public
+
+notification, if the majority of the people of the village or villages so desire. This
+
+shows that there can be no unilateral establishment of the new village. The new
+
+village has to be established with the knowledge and approval of some public
+
+authorities. However, it can be said in favour of the petitioner that this Act came
+
+into force only with effect from 17-5-2006 and will have no application
+
+whatsoever to the new village which was claimed to be established way back in
+
+1970. But the petitioner is still not yet out of the wood despite this. For, he is not
+
+able to produce any document of the appropriate authority recognizing his
+
+locality as a separate village. In this connection, we may profitably refer to the
+
+definition of the term "village" provided for under Section 2(1)(j) of the United
+
+Khasi-Jaintia Hills Autonomous District (Administration of Justice) Rules, 1953
+
+("the Rules" for short), which is in the following terms:
+<span class="hidden_text" id="span_8">                                          9</span>
+
+
+
+
+</p><blockquote id="blockquote_2">                 "(j) "Village" means an entire area within the jurisdiction of
+                 each of the existing sirdars or dollois listed in Appendix I
+                 annexed and such other area within the syiemships,
+                 lyngdohships, sirdarships or wadadarship listed in Appendix II
+                 annexed as recognized by the syiemship, lyngdohship,
+                 sirdarship or wadadarship as being an area within the
+                 jurisdiction of a court, whose decision is appealable to the
+                 court of the syiem, lyngdoh, sirdar or wadadar concerned and
+                 such other area as may be declared to be so by the District
+                 Council;"
+</blockquote>
+
+
+<p id="p_22">7.            In my opinion, the definition of the term "village" provided for in the
+
+Rules is quite instructive though it is made in the context of administration of
+
+justice. From the aforesaid definition, it is amply made clear that the formation
+
+or creation of an independent village is not an unilateral act but a bilateral act
+
+just as it takes two to a tango. In other words, a self-serving declaration by the
+
+petitioner that his village is a separate and independent village is not decisive:
+
+what is decisive is its recognition by the appropriate authorities. Nor can there
+
+be recognition by implication, which is the case of the petitioner here. He wants
+
+the District Council to treat his locality as a separate and independent village on
+
+the basis of some correspondences which did not touch upon the question as to
+
+whether his locality is a separate and independent village. Admittedly, the
+
+locality of the petitioner does not find a place in Appendix I or Appendix II
+
+annexed to the Rules. The District Council also has never declared his locality
+
+to be a separate and independent village within the meaning of <a href="/doc/185068380/" id="a_4">Section 2(1)(j)</a>
+
+of the Rules. Even if it is assumed for the sake of argument that the definition of
+
+the term "village" provided for in <a href="/doc/185068380/" id="a_5">Section 2(1)(j)</a> of the Rules cannot be held
+
+applicable in this case also, it is the bounden duty of the petitioner to
+
+demonstrate by unimpeachable evidence that there is a categorical recognition
+
+by the competent authority of his locality as a separate and independent village.
+<span class="hidden_text" id="span_9">                                          10</span>
+
+
+
+
+In other words, the burden of proof is upon him, but he has miserably failed to
+
+discharge this burden. As already held by me earlier, the facts and
+
+circumstances relied on by him in paragraph 3 of his writ petition fall far short of
+
+the proof required by law: they are merely conclusions or passing remarks
+
+based on assumptions where there was no occasion to decide if the locality of
+
+the petitioner is a separate and independent village. For example, the name
+
+"Umpyrchin Village", which finds a place at the Notification dated 05.08.1983,
+
+upon which heavy reliance is placed by the petitioner, in the face of dispute
+
+raised by the respondents, cannot in the absence of sufficient corroboration,
+
+persuade me to hold that this particular village is the village of the petitioner
+
+known under the name and style of Umpyrchin village, more so, when a parallel
+
+claim is made by the other respondents that there are two localities having an
+
+identical name. In this view of the matter, I have no alternative but to hold that
+
+the impugned decision of the Executive Committee does not suffer from the
+
+vice of illegality or irrationality or procedural impropriety calling for my
+
+interference.
+</p>
+<p id="p_23">
+
+</p><p id="p_24">8.              The result of the foregoing discussion is that there is no merit in
+
+this writ petition, which is hereby dismissed. However, on the facts and in the
+
+circumstances of the case, I direct the parties to bear their respective costs.
+
+Interim order, if any, stands vacated.
+</p>
+<p id="p_25">
+
+</p><p id="p_26">                                                                       JUDGE
+
+lk
+<span class="hidden_text" id="span_10"> 11</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

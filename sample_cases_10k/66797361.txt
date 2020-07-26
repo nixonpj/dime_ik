@@ -1,0 +1,602 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Rohini Seeds Private Limited, ... vs Reshma Chemicals Private ... on 24 March, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/66797361/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1017213/">The Trade Marks Act, 1999</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1114158/">Cadila Healthcare Limited vs Cadila Pharmaceuticals Limited on 26 March, 2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1353758/">The Companies Act,   1956</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/66797361/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/66797361/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/66797361/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=seed">seed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trademark">trademark</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trade%20mark">trade mark</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=infringement%2C%20">infringement, </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deceptive%20similarity">deceptive similarity</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=logo">logo</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=temporary%20injunction">temporary injunction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reshma">reshma</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=similar%20marks">similar marks</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20irreparable%20loss">no irreparable loss</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cadila">cadila</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=invention">invention</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=grant%20of%20injunction">grant of injunction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deceptively%20similar%20mark">deceptively similar mark</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=use%20of%20trademark">use of trademark</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trade%20marks%20act">trade marks act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=grant%20of%20temporary%20injunction">grant of temporary injunction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=crystallization%20">crystallization </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=brands">brands</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Andhra High Court</div>
+<div class="doc_title">Rohini Seeds Private Limited, ... vs Reshma Chemicals Private ... on 24 March, 2015</div><pre id="pre_1">       
+
+  
+
+   
+
+ 
+ 
+ HONOURABLE SRI JUSTICE A.RAJASHEKER REDDY             
+
+C.M.A.No.1018 of 2014  
+
+24-03-2015 
+
+Rohini Seeds Private Limited, Rep. by its Managing Director..Petitioner.
+
+Reshma Chemicals Private Limited, Rep. by its Managing Director... Respondent. 
+
+Counsel for the Appellant:Smt. K.Lalitha
+
+Counsel for the Respondent:Sri Narasaiah Golla.
+
+&lt;GIST: 
+
+&gt;HEAD NOTE:    
+
+? Cases referred
+  2011 (4) ALT 692 (D.B)
+2 (2001) 5 Supreme Court Cases 73  
+
+
+HONOURABLE SRI JUSTICE A.RAJASHEKER REDDY             
+
+C.M.A. No. 1018 OF 2014  
+
+JUDGMENT:   
+</pre>
+<p id="p_1">          This Civil Miscellaneous Appeal is filed by the appellant
+against order and decree dated 25.08.2014 in I.A.No.147 of 2013
+in O.S.No.46 of 2013 passed by the I Additional District and
+Sessions Judge, Krishna District, partly allowing the petition
+granting temporary injunction restraining the appellant herein
+from using numbers 2222 on his seed packings till disposal of
+the suit and dismissed the petition in so far as the relief of
+restraining the respondent from conducting of Deepika2222
+paddy seeds. 
+</p><p id="p_2">2.      Facts necessary for disposal of the above Civil
+Miscellaneous Appeal are as follows:
+</p><p id="p_3">        The respondent herein is the plaintiff in O.S.No.46 of 2013
+filed the suit for (a) declaring that by manufacturing, producing,
+selling, offering for sale or otherwise, distribution, in wholesale or
+retail, and advertising, promoting, and directly or indirectly
+dealing with trademark DEEPIKA 2222 which consisting of
+similar or deceptively similar marks with falsifying and having
+falsely applying trademark and marks having the similar
+description, colour, writing style, pronunciation, lable, packing
+and/or using any other name akin to R.S.2222 or R.S and
+2222 in the business of agricultural seeds is an infringement
+and passing off and (b) permanent injunction restraining that the
+appellant herein, who is defendant in the above suit, from using
+any other name akin to R.S.2222 or R.S. and 2222 in the
+business of agricultural seeds and also a decree for the
+permanent injunction restraining the appellant/defendant by
+themselves, their servants, officers, their agents, distributors, or
+any and all persons claiming through them or acting for and on
+their behalf, from manufacturing, producing, selling, offering for
+sale, tenders or otherwise distribution, in wholesale or retail, or
+advertising, promoting and in any manner, directly or indirectly
+dealing with trademark R.S.2222 in relation to the agricultural
+seeds and being based on information that is proprietary to the
+respondent and without the express written consent of the
+respondent herein in any manner whatsoever.   Along with the
+suit, the respondent/plaintiff filed I.A.No.147 of 2013 seeking
+temporary injunction restraining the appellant from selling the
+paddy seeds Deepika 2222 variety.
+</p><p id="p_4">3.      The respondent/plaintiff is a company registered under the
+name and style of Reshma Chemicals Private Limited under the 
+<a href="/doc/1353758/" id="a_1">Companies Act</a>, 1956 in the year 1989, and stated to be engaged 
+in the research, development manufacture, production and
+marketing of various kinds of seeds including the paddy seeds of
+new varieties having specific characters of short slender seeds,
+high pest tolerance, high yield characters of paddy and one such
+invented variety of paddy crop seeds with brand name R.S.2222
+and got it registered vide No.1248597, dated 10th November,
+2003, Trademark Registry, Chennai, claiming the date of using of
+the mark from April, 2001 and that by virtue of Section 31(1) of
+the Trademarks Act, 1999, the registration of the trademark shall
+be the prima facie evidence for all the legal proceedings to
+maintain the rights of the respondent for the registration of their
+trademark.  It is stated that the respondent/plaintiff is
+authorized to sell the said seed in State of Andhra Pradesh
+(presently Andhra Pradesh and Telangana States), Maharashtra 
+and Karnataka. 
+</p><p id="p_5">4.      It is further stated that, the appellant/defendant company
+also started marketing the paddy seeds with brand name 
+Deepika 2222 with similar characteristics of
+respondents/plaintiffs trade marked seed of RS2222.  It is
+stated that the farmers are purchasing Deepika2222 variety
+under the impression that they are purchasing RS2222 by
+confusing with 2222, resulting in huge loss to the business
+prospects of respondent/plaintiff.   It is stated that the
+appellant/defendant company is infringing the patent right of the
+respondent/plaintiff and marketing and selling Deepika2222,
+which is nothing but imitation of respondents/plaintiffs brand
+i.e., RS2222 variety and sought for temporary injunction
+restraining the respondent/defendant from manufacturing and
+selling Deepika2222 variety.
+</p><p id="p_6">5.      The appellant/defendant filed counter affidavit denying the
+averments of the affidavit filed in support of the petition stating
+that the appellant is having its own research wing, development
+etc., and it is incorporated with Registrar of Companies as Rohini
+Seeds Private Limited, obtained license for research development,
+production, marketing of various types of seeds.  It is stated that
+after obtaining necessary licence from the competent authorities,
+they started marketing Deepika2222 from the year 2012 and
+that 2222 is only a generic word and that their Deepika2222
+is not similar to that of the respondents RS2222.  It is stated
+that Morphological characters of Deepika2222 are certified and
+certificate to that effect is also issued by the competent authority.
+It is further stated that the appellant is one of the group of
+companies of Crystal Crop dealing in business of invention,
+production and marketing of various seeds having licence, and
+doing seeds business in the State of Andhra Pradesh (Presently
+Andhra Pradesh and Telangana) Maharashtra, Tamilnadu,  
+Gujarath, Rajasthan, Panjab, Haryana, Uttar Pradesh and other
+States.  It is stated that their distributors are persons other than
+respondent/plaintiff as such, there is no confusion to the ryoths
+in purchasing RS2222 and that they can differentiate
+Deepika2222 from respondents seed.  Therefore, the
+respondent/plaintiff cannot claim exclusive rights of RS2222
+and that the same is not protected under Plant Variety and
+Farmers Rights Act.  It is further stated that the packings are of
+different fonts, different style, design of packing is also completely
+different, as such, ryots can easily identify their respective seeds.
+It is further stated that there is no cause of action for the suit
+and cannot maintain the suit.  It is stated that the appellant has
+not violated any of the provisions of the <a href="/doc/1017213/" id="a_2">Trade Marks Act</a> and that
+the respondents business was not affected by appellants selling
+Deepika2222.  It is stated that the respondent has not made
+out a prima facie case or irreparable loss, muchless infringement
+of trademark and sought for dismissal of the petition.
+</p><p id="p_7">6.      Before the Court below, the appellant and respondent did
+not adduce any oral evidence, but they produced documentary 
+evidence i.e., the appellant marked Exs.R1 to R8, while the
+respondent marked Exs.P1 to P23.  However, the Court below, 
+having considered the rival contentions of the parties in the light
+of the material placed, by order dated 25.08.2014 partly allowed
+the petition by granting temporary injunction restraining the
+appellant company from using numbers 2222 on its seed 
+packing till disposal of the suit.  Aggrieved by the same, the
+present Appeal is filed.
+</p><p id="p_8">7.      Heard Smt. K.Lalitha, learned counsel for the appellant as
+well as Sri Narasaiah Golla, learned counsel appearing for the
+respondent.
+</p><p id="p_9">8.      Learned counsel for the appellant while reiterating the
+submissions made before the Court below submits that there are
+several public and private institutions which will research and
+develop units in paddy and there are several varieties for
+commercial cultivation in same maturity group and the grain
+quality, hence, the paddy is not new invention to claim any right
+by the respondent.  She further submits that the name 2222 is
+a generic numerical word and since the appellant is also doing
+business in paddy seeds, the respondent cannot have exclusive
+right to use those words and there is no similarity between trade
+marks of appellant and respondent and that it cannot be said
+that that the trade name used by the appellant is causing or is
+likely to cause deception in the minds of farmers or confusion in
+the customers mind and that business of respondent is adversely
+affected by use of the name of Deepika2222 by the appellant.
+She further contends that when an action for infringement of
+trademark is complained, the onus would be on the respondent 
+to establish that the trademark used by the appellant in the
+course of trade in the goods in respect of which his mark is
+registered is deceptively similar and there is likelihood of
+confusion or deception arising from similarity of trademark or
+logo or words used by the respondent.  She further contended
+that the respondent has not made out any prima facie case or
+irreparable loss that could be caused to the respondent muchless
+infringement of trade mark.  In support of her contention, she
+relied on the judgment reported in Trinethra Super Retail Private
+Limited, Hyderabad rep. by its Company Secretary Mr. Vinod K.Saraf v.
+Mee Trinethra Trading Private Limited, Hyderabad, rep. by its Director,
+Mr.Pilli guru Prasad Anand and others  She thus contended that the
+Court below committed an error in granting temporary injunction
+partly allowing the petition restraining the appellants from using
+2222 and hence, prayed that the order dated 25.08.2014 in
+I.A.No.147 of 2013 in O.S.No.46 of 2013 be set aside and the
+C.M.A. be allowed.
+</p><p id="p_10">9.          On the other hand, learned counsel for the respondent
+reiterated the contents in the counter affidavit filed in the Appeal
+and submitted that the appellants marketing Deepika2222 is
+nothing but infringement of Trade Mark of their company.  He
+would further contend that after considering the documentary
+evidence produced on either side, the Court below has passed a
+reasoned order.    He further submitted that in case of trademark
+infringement of deceptive similarity, statements of accounts need
+not be submitted showing the loss sustained by the complainant.
+He would contend that the statutory provisions under <a href="/doc/1017213/" id="a_3">Trade
+Marks Act</a> provide protection for the registered owners to take
+action against the infringers.   He further submits that in
+deciding whether a particular trademark is likely to deceive or
+cause confusion that duty is not discharged by arriving at the
+result by merely comparing it with the trade mark which is
+already registered and whose proprietor is offering opposition to
+the registration of the mark.  The real question to decide in such
+cases is to see as to how a purchaser, who must be looked upon 
+as an average man of ordinary intelligence, would react to a
+particular trade mark, what association he would form by look at
+the trade mark, and in what respect he would connect the trade
+mark with the goods which he would be purchasing.    In support
+of his contention he relied on the judgment reported in <a href="/doc/1114158/" id="a_4">Cadila
+Health Care Ltd., v. Cadila Pharmaceuticals Ltd.,   He</a> would further
+contend that the respondent has established prima facie case and
+balance of convenience in its favour and after considering the
+same, the Court below partly allowed the petition for temporary
+injunction restraining the appellant from using numbers 2222
+on his seed packing till the disposal of suit and permitted the
+appellant herein to use Deepika only. Thus, he sought for
+dismissal of Civil Miscellaneous Appeal.
+</p>
+<p id="p_11">10.     After scrutinizing the facts and circumstances of the case,
+it is clear that there is no dispute that respondent/plaintiff
+trademark is registered as RS2222 in respect of paddy and
+there is also no dispute that appellant/defendant is marketing
+their paddy by using mark Deepika2222.   The case of the
+respondent/plaintiff is that it has incorporated in the year 2002
+and started marketing RS2222 paddy from the year 2002 
+onwards, whereas Deepika2222 was in research and  
+development during the year 2011 when Ex.R5 licence cum  
+permission is given by the Central Government and State
+Government.  Thus, appellants Deepika2222 has come  
+subsequently to RS2222.   As per Trade Marks Certificate,
+Ex.R3 appellant/defendant was permitted on 20.01.2012 by 
+which time respondent/plaintiff already invented, developed and
+also marketed RS2222 variety of paddy.    Ex.P6, is a seed bag
+discloses that it is a white colour HDPE bag.  Moreover, the
+petitioner companys logo is in red colour with complete red
+colour boarder with super print of RESHMA &amp; COMPANY and    
+in white big letters company name was mentioned as Reshma  
+with blue background and that behind the respondent/plaintiff
+companys logo, rays type design like that of rising sun is found.
+Underneath the same typed big letters RS2222 with blue colour
+and below the same green colour ripe paddy full photo is found
+and that the second side of the bag is in complete green colour
+boarder and logo of respondent/plaintiffs company is found.
+Underneath the same Reshma is mentioned with big letters with
+phone number and underneath the same printed matter  
+regarding paddy, manufacturing date, packing date etc., are
+found and that beneath the same, the respondent/plaintiff
+companys address and customer care number with big letters is
+found.
+</p><p id="p_12">11.           On the other hand, appellant companys Exs.R6 and R7
+bag shows that on one side it is with complete green colour print
+and on the top it is noted on one side with words Crystal and
+another side two swords across each other.  Beneath the same 
+with red and yellow boarder and all lower portion kept into Lunar
+shape design with blue colour with yellow boarder are found.
+There are two photos printed right side showing standing paddy
+crop and the left side showing ripe paddy crop with chronicle
+with many paddy seeds.  At the bottom in red colour Paddy
+letters are found.  Beneath the same with yellow boarder in red
+colour letters Deepika2222 small letters are printed.    On the
+reverse side top is with full green colour letters crystal and
+swords emblem is found.  In lower 2/3 portion Deepika2222
+with red colour letters are found.  Underneath the same left side
+shown paddy, and the right side truthful label describing the
+manufacturing date, page number etc., and also the standards of
+the seed physical purity, generic purity etc., are found.    There is
+a red colour warning on white label treated with Poison, do not
+use for food, feed and oil purposes is mentioned and side lower
+part, appellants company logo and their company address are
+printed.  At the right lower side a warning notice is also found
+that the seed is confirmed with minimum standards etc., with
+office number Email etc., and that the bag is 10 kgs.   Ex.P11 is
+similar bag of the appellant company and the same is a carry bag
+which is made with nylon thread and it is a six kgs bag with
+similar type of print, but having the company name in brown
+colour emblem instead of red colour.  Therefore, when the two
+bags i.e., the bag of the appellant/defendant and the bag of
+respondent/plaintiff are compared, there is a lot of difference
+between the physical appearance of both the packing.  The trial
+Court also considered the evidence and came to the conclusion
+that there is lot of difference between the physical appearance of
+both the bags.  It is also to be seen that the respondent/plaintiff
+has not filed any third party affidavits stating that they
+purchased Deepika2222 of appellants company instead of
+RS2222 of respondents company mistaking the same and that  
+they have incurred losses of crop, and that not having enough
+yield of their expectations.  It is also to be seen that the
+respondent/plaintiff has not produced the marketing statement,
+production and sales statements of appellant company showing 
+that respondents sales decreased as the appellants are using
+words 2222.   The trial Court also found that the packings are
+different, logos are different, but however, the Court below partly
+allowed the injunction petition restraining the appellant from
+using the words 2222, even though packings are different.
+</p><p id="p_13">12.         The trial Court came to a conclusion that the appellant
+cannot use the words 2222 because the same was already used  
+and marketed by the respondent company since the year 2002.  
+Though the trial Court clearly held that except filing Exs.P1 to
+P23, respondent/plaintiff has not filed any third party affidavits
+showing that they have incurred loss of crops, loss in business
+etc., but still partly allowed the injunction petition restraining the
+appellant from using the words 2222.  When the
+respondent/plaintiff has not produced any material regarding
+infringement of their trade mark, the Court below ought not have
+granted injunction restricting the appellant/defendant from using
+the words 2222.  In Trinethra Super Retail Private Limited,
+Hyderabad rep. by its Company Secretary Mr. Vinod K.Saraf v. Mee 
+Trinethra Trading Private Limited, Hyderabad, rep. by its Director,
+Mr.Pilli guru Prasad Anand and others (supra), it is observed as
+follows:
+</p><p id="p_14">       43. When an action for infringement of trademark is complained,
+the onus would be on the plaintiff to establish that the trademark
+used by the defendant in the course of trade in the goods in
+respect of which his mark is registered is deceptively similar and
+there is likelihood of confusion or deception arising from similarity
+of trademark or logo or words used by the plaintiff.  This is prima
+facie case.
+</p>
+<p id="p_15">        47.  The courts have to take into consideration along with prima
+facie case, the other two factors i.e. balance of convenience and
+irreparable loss.  The plaintiff can always be compensated by
+costs, if in case ultimately it is found that the defendant tried to
+capture the market on the basis of the good will of the plaintiff.
+</p>
+
+<p id="p_16">           48.  A rigid invocation without contemplating elasticity in the
+application of rules as to the grant of injunction might sometimes
+result in hardship, which cannot be cured later.  Cases of
+infringement, no doubt, do not depend on proof of actual
+deception.  Yet the entire object of trademark law would be
+rendered meaningless if courts were to mechanically grant
+injunction relief, where no injury is shown, or shown to be a
+natural result of someones use of a mark.    
+</p>
+
+<p id="p_17">        The decision cited by the learned counsel for the
+respondent in <a href="/doc/1114158/" id="a_5">Cadila Health Care Ltd., v. Cadila Pharmaceuticals Ltd</a>.,
+(supra) is also considered by the Division Bench of this Court in
+the aforesaid decision and came to the conclusion that unless
+prima facie plaintiff proves that there is deceptive alleging
+infringement, injunction cannot be granted.    A person trading
+with a particular mark is entitled to insist that no one else should
+use that mark for trading in the same and similar commodity.  If
+there is any infringement or the mark used by the other is
+deceptively similar to his mark in the sense that it nearly
+resembles his mark that is likely to deceive or cause confusion,
+he undoubtedly can ask the Court to restrain the other to trade
+with such deceptively similar mark.  However, it does not mean
+that a person who has a registered trademark can stop all the
+others, whose trademark has slightest similarity with his
+trademark, from doing business.   The trial Court basing on the
+evidence, rightly came to the conclusion that only on the ground
+that RS2222 is the specific trademark of the
+respondent/plaintiff.  The trial Court merely extracted the
+relevant provisions of the <a href="/doc/1017213/" id="a_6">Trade Marks Act</a> and extracted some
+paragraphs of decisions, and having found that the packing and
+logos are different, but erroneously granted injunction restraining
+the appellant from using the words 2222.    The court below has
+also not found that the customers are likely to get confused by
+the use of words Deepika2222 for making out strong prima facie
+case and it is to be made out for grant of injunction. The
+respondent did not produce any material to show that their
+business has been adversely affected by the use of the words
+Deepika2222 by the appellant, much less have filed any
+affidavit stating that by the use of the same, a confusion is
+caused in the minds of general public or customers that the
+outlets run by the appellant or that of the respondent and
+thereby their business was affected adversely.  Since prima facie
+case is not established, the question of considering the balance of
+convenience and irreparable loss does not arise.  It is open for the
+respondent/plaintiff to produce sufficient evidence during the
+course of trial for establishing his case.
+</p><p id="p_18">          For the foregoing reasons, I am of the considered view that
+the respondent/plaintiff failed to discharge his burden to prove
+the prima facie case that the trade mark DEEPIK2222 used by
+the appellant-defendant is deceptively similar to that of the
+respondents trademark, causing confusion in the minds of
+average customers and that there is no balance of convenience in
+favour of the respondent/plaintiff for grant of interim injunction
+restraining the appellant from using words 2222.  The
+respondent/plaintiff has also failed to make out irreparable
+injury that has been caused to it by the use of trade mark 2222
+of the appellant.  Therefore, the order passed by the Court below
+in I.A.No.147 of 2013 in O.S.No.46 of 2013 dated 25.08.2014 is
+set aside to the extent of restraining the appellant from using
+words 2222.   However, it is made clear that these observations
+are only prima facie findings for deciding this appeal filed against
+interlocutory order, as such, same will not be construed as an
+expression of this Court. The trial Court may decide the suit on
+the basis of evidence adduced by the respondent/plaintiff and
+appellant/defendant, without being influenced by the prima facie
+findings for deciding this appeal against order in interlocutory
+application.
+</p><p id="p_19">        Accordingly, the Civil Miscellaneous Appeal is allowed.
+There shall be no order as to costs.  As a sequel thereto,
+miscellaneous petitions, if any, pending in this CMA, shall stand
+disposed of.
+</p>
+<p id="p_20">_______________________    
+A.RAJASHEKER REDDY, J      
+24-03-2015 </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

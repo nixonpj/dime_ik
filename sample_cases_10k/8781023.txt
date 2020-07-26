@@ -1,0 +1,1135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>[Nirmal Mehra vs . State &amp; Ors.] on 7 March, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/8781023/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:8781023">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/99487/">Section 156(3) in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/444619/">Section 200 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1149595/">Section 202 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1291024/">Section 156 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/8781023/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/8781023/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20nirmal%20"> nirmal </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20156%283%29">section 156(3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.156%283%29">sec.156(3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20156">section 156</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%283%29">156(3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156/3">156/3</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%283%29%20citedby%3A99487">156(3) citedby:99487</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%20%283%29criminal%20procedure">156 (3)criminal procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20156%283%29%20code%20of%20criminal%20procedure">section 156(3) code of criminal procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=crpc%20sec%20156%283%29">crpc sec 156(3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.156%283%29criminal%20procedure%20code">sec.156(3)criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20procedure%20code%20section%20156%283%29">criminal procedure code section 156(3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20156%283%29%20crpc">section 156(3) crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.156%283%29%20of%20%20crpc">s.156(3) of  crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=crpc%20156%20%283%29">crpc 156 (3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%283%29%20of%20crpc">156(3) of crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%283%29%20of%20criminal%20procedure%20code">156(3) of criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20code%20of%20procedure%20156%20%283%29">criminal code of procedure 156 (3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=156%203%20crpc">156 3 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20156%283%29%20cr.p.c%20procedure">section 156(3) cr.p.c procedure</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">[Nirmal Mehra vs . State &amp; Ors.] on 7 March, 2015</div><div class="doc_author">Author: Sh. Kanwaljeet Arora</div>
+
+<pre id="pre_1">                                                                    In the matter of :-
+                                                 [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                          Crl.Rev.Pet. No.: 13 / 2014
+                                                              Dated : 07th March 2015
+
+
+
+
+         IN THE COURT OF  :  SH. KANWALJEET ARORA :
+            ADDL.SESSIONS JUDGE :   NORTH WEST ­ 03
+                        ROHINI COURTS :   NEW DELHI.
+
+
+                                       Crl.Rev.No.        :  13  / 2014.
+                                       Under sec.         :  397 <a href="/doc/445276/" id="a_1">Cr.P.C</a>.
+
+
+          Smt.Nirmala Mehra,
+          W/o.: Sh.Vijay Mehra,
+          R/o.: C­21, Ashok Vihar, 
+          New Delhi - 110052.
+
+                                                           [..... Revisionist]
+
+
+                                v e r s u s
+     1. NCT of Delhi.
+
+
+     2. Smt.Rakesh Pal Kaur,
+          W/o.: Late Sh.Suraj Prakash Mehra.
+
+     3. Sanjay,
+          S/o.: Late Sh.Suraj Prakash Mehra.
+
+     4. Vipin,
+          S/o.: Late Sh.Suraj Prakash Mehra.
+
+          All residents of :­
+          C­3/88, Phase­II, Ashok Vihar, Delhi.
+                                                     [.... Respondents]
+
+
+          Date of Allocation                              :  12.03.2014.
+          Date of Institution of Revision                 :  13.03.2014.
+          Date of conclusion of arguments                 :  27.02.2015.
+          Date of Order                                   :  07.03.2015.
+
+
+  Crl.Rev.Pet.No.: 13 / 14                                          Page 1 of 18
+                                                                        In the matter of :-
+                                                    [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                             Crl.Rev.Pet. No.: 13 / 2014
+                                                                 Dated : 07th March 2015
+
+
+
+
+          [Particulars related to impugned order]
+         C.C. No.                                             :  247/04/13
+         Under Section                                        :  156(3) of <a href="/doc/445276/" id="a_2">Cr.P.C</a>
+         Date of Impugned Order                               :  09.01.2014.
+         Name of Ld.Trial Court                               :  Sh.Dharmender Singh, 
+                                                                 Ld.MM­05, Rohini.
+
+
+          Memo of appearance:­
+          Sh.Abhishek Gupta, Advocate, Ld.Counsel for the 
+          revisionist.
+          Ms.Kiran Bala, Ld. APP for respondent no.1 State.
+          None for respondent no.2 to 4.
+
+
+
+
+O R D E R :­
+
+
+     1.                      Smt.Nirmal   Mehra,   the   revisionist,     had 
+
+          invoked the revisional jurisdiction of this Court, feeling 
+
+          aggrieved from the orders dated  09.01.2014,  passed by 
+
+          Sh.Dharmender Singh, Ld.MM­05, North West District, 
+
+          Rohini,   whereby   the   application   under   <a href="/doc/1291024/" id="a_3">section   156</a>   (3) 
+
+          <a href="/doc/445276/" id="a_4">Cr.P.C</a> filed by the revisionist, the complainant therein, 
+
+          seeking directions to the concerned SHO for registration 
+
+          of FIR against the respondents, was dismissed. 
+
+
+
+     2.                      Pursuant   to   filing   of   the   present   revision 
+
+          petition,   Trial   Court   Record   was   summoned   by 
+
+          Ld.Predecessor   of   this   Court.     Vide   orders   dated 
+
+  Crl.Rev.Pet.No.: 13 / 14                                             Page 2 of 18
+                                                                      In the matter of :-
+                                                  [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                           Crl.Rev.Pet. No.: 13 / 2014
+                                                               Dated : 07th March 2015
+
+
+
+
+          09.04.2014,   Ld.Predecessor   of   this   Court   had   observed 
+
+          that notice of this revision petition is not required to be 
+
+          served   to   the   respondents   who   have   been   arrayed,   as 
+
+          accused by the revisionist in her complaint filed by her, 
+
+          before Ld.Trial Court. 
+
+
+
+     3.                      Ms.Kiran Bala, Ld.APP   however, tendered 
+
+          appearance on behalf of respondent no.1, The State. 
+
+
+
+     4.                      I   have   heard   the   arguments   advanced   by 
+
+          Sh.Abhishek   Gupta,   Advocate,   Ld.Counsel   for   the 
+
+          revisionist. 
+
+
+
+     5.                      I have considered the submissions advanced 
+
+          and   have  also  perused   the  facts   stated   in  the  revision 
+
+          petition as well as in the Trial Court Record.  I have also 
+
+          gone   through   the   impugned   order   dated   09.01.2014 
+
+          whereby application under <a href="/doc/99487/" id="a_5">section 156(3)</a> Cr.P.C filed on 
+
+          behalf   of   petitioner   who   is   complainant   therein,   was 
+
+          dismissed.
+
+
+
+
+  Crl.Rev.Pet.No.: 13 / 14                                           Page 3 of 18
+                                                                        In the matter of :-
+                                                    [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                             Crl.Rev.Pet. No.: 13 / 2014
+                                                                 Dated : 07th March 2015
+
+
+
+
+     6.                      Facts</pre><p id="p_1">   in   nut­shell   which   led   to   passing   of 
+
+          the   impugned   order   dated   09.01.2014   by 
+
+          Ld.Metropolitan   Magistrate,   as   emanating   out   of   the 
+
+          Revision Petition and the Trial Court Record,  which are 
+
+          necessary   for   disposal   of   present   revision   petition   are 
+
+          delineated as under:­ 
+
+
+
+</p><p id="p_2">          (a) That, revisionist Nirmal Mehra had been residing at 
+
+          C­3/88,   Phase­II,   Ashok   Vihar,   Delhi   for   a   long   time 
+
+          alongwith her husband. 
+</p>
+<p id="p_3">
+
+</p><p id="p_4">            (b)  It   is   alleged   that   there   had   been   a   dispute   with 
+
+          respect to possession of the first floor of the said property 
+
+          and   in   compliance   with   the   orders   passed   by   Hon'ble 
+
+          High Court, the first floor of the  property, was vacated 
+
+          by the complainant / revisionist on 24.04.2013. 
+
+
+
+</p><p id="p_5">          (c)  It   is   alleged   that   revisionist   /   complainant   was   in 
+
+          possession   of   some   portion   of   the   2nd  Floor   of   said 
+
+          property, wherein she had kept her belongings and after 
+
+          locking the same, she had handed over the possession of 
+
+          first floor to the accused persons on 24.04.2013.
+
+
+
+<span class="hidden_text" id="span_1">  Crl.Rev.Pet.No.: 13 / 14                                             Page 4 of 18</span>
+</p><p id="p_6">                                                                    In the matter of :-
+</p><p id="p_7">                                                [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                         Crl.Rev.Pet. No.: 13 / 2014
+                                                             Dated : 07th March 2015
+
+
+
+
+</p><p id="p_8">          (d) It is alleged that she had brought this fact of having 
+
+          some household articles belonging to her in her lock and 
+
+          key,   at   2nd  Floor   of   this   premises   to   SHO   PS   Ashok 
+
+          Vihar, vide e­mail at 3:32 pm on 24.04.2013 itself.
+
+
+
+</p><p id="p_9">          (e) It is alleged that when complainant / revisionist came 
+
+          to this property on 29.04.2013 to collect her belongings, 
+
+          she was restrained by the accused persons, from going to 
+
+          2nd Floor of the property. 
+</p>
+<p id="p_10">
+
+</p><p id="p_11">          (f)    It   is  alleged  that   accused   persons   had   broken   the 
+
+          lock on the door leading to 2nd Floor of the property and 
+
+          had   taken   unlawful   possession   of   the   same   and   had 
+
+          stolen the belongings of the complainant. 
+
+
+
+</p><p id="p_12">          (g)    It   is   alleged   that   complainant   /   revisionist   then 
+
+          lodged her complaint with the police, but no action was 
+
+          taken by the police on her complaint.
+
+
+
+</p><p id="p_13">          (h)   It is alleged in the revision petition that when no 
+
+          action was taken by the police on her complaint, she had 
+
+          preferred   a   complaint   under   section   200   of   Code   Of 
+
+
+<span class="hidden_text" id="span_2">  Crl.Rev.Pet.No.: 13 / 14                                         Page 5 of 18</span>
+                                                                     In the matter of :-
+</p><p id="p_14">                                                 [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                          Crl.Rev.Pet. No.: 13 / 2014
+                                                              Dated : 07th March 2015
+
+
+
+
+          Criminal   Procedure,   alongwith   which   she   had   filed   an 
+
+          application   under   <a href="/doc/99487/" id="a_6">section   156(3)</a>   Cr.P.C   seeking 
+
+          directions to the concerned SHO for registration of FIR, 
+
+          against the accused persons, for offences under <a href="/doc/1599401/" id="a_7">section 
+
+          341</a>, <a href="/doc/162506/" id="a_8">447</a>, <a href="/doc/180217/" id="a_9">506</a>, <a href="/doc/1101188/" id="a_10">379</a> IPC.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">     7.                      It is apparent from the Trial Court Record 
+
+          that  Ld.Metropolitan Magistrate after hearing  detailed 
+
+          arguments   on   behalf   of   the   revisionist,   who   is 
+
+          complainant   therein,   had   passed   detailed   orders   dated 
+
+          09.01.2014   thereby   dismissing   the   application   under 
+
+          <a href="/doc/1291024/" id="a_11">section   156</a>   (3)   <a href="/doc/445276/" id="a_12">Cr.P.C</a>.   and   directed   the   petitioner 
+
+          herein, to lead pre­summoning evidence.
+
+
+
+</p><p id="p_17">     8.                      It is this order which has been challenged 
+
+          by the petitioner by way of present revision petition. 
+
+
+
+</p><p id="p_18">     9.                      It   is   submitted   by   Sh.Abhishek   Gupta, 
+
+          Advocate,   Ld.Counsel   for   the   petitioner   that 
+
+          Ld.Metropolitan   Magistrate   has   failed   to   take   into 
+
+          consideration   that   there  are  certain   aspects   which   are 
+
+          required   to   be   investigated   by   the   police   and   without 
+
+
+
+<span class="hidden_text" id="span_3">  Crl.Rev.Pet.No.: 13 / 14                                          Page 6 of 18</span>
+                                                                    In the matter of :-
+</p><p id="p_19">                                                [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                         Crl.Rev.Pet. No.: 13 / 2014
+                                                             Dated : 07th March 2015
+
+
+
+
+          taking   them   into   account,   application   filed   by 
+
+          complainant,     under   <a href="/doc/99487/" id="a_13">section   156(3)</a>   Cr.P.C   has   been 
+
+          declined.  He further contended that the complaint filed 
+
+          by   her   did   disclose   commission   of   cognizable   offences, 
+
+          whereby, it became mandatory on the part of concerned 
+
+          court   to   direct   concerned   SHO   to   register   FIR,   but 
+
+          Ld.Metropolitan Magistrate failed to take the same into 
+
+          consideration. He contended that the facts alleged in the 
+
+          complaint   clearly   depicts   commission   of  cognizable  
+
+          offences, for which   it is necessary that FIR should be 
+
+          registered.  He contended that there are certain aspects 
+
+          which   can   only   be   investigated   by   the   investigating 
+
+          agency, therefore, the impugned order be set­aside and 
+
+          necessary directions be issued to the concerned SHO. 
+
+
+
+</p><p id="p_20">     10.                     I have given my thoughtful consideration to 
+
+          the   contentions     advanced   by   Ld.Counsel   for   the 
+
+          revisionist.   I   have   perused   the   material   on   the   Trial 
+
+          Court   Record   and   also   the   impugned   order   dated 
+
+          09.01.2014. I have also gone through the Status Report, 
+
+          which   was   called­for   by   Ld.Trial   Court,   from   the 
+
+          concerned   SHO,   which   is   there   on   the   record   of   Trial 
+
+
+
+<span class="hidden_text" id="span_4">  Crl.Rev.Pet.No.: 13 / 14                                         Page 7 of 18</span>
+                                                                      In the matter of :-
+</p><p id="p_21">                                                  [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                           Crl.Rev.Pet. No.: 13 / 2014
+                                                               Dated : 07th March 2015
+
+
+
+
+          Court File.
+</p>
+<p id="p_22">
+
+</p><p id="p_23">     11.                     Before proceeding further, it is pertinent to 
+
+          mention   that   the  scope   of   this   Court,   in   its  revisional  
+
+          jurisdiction  is  limited  and   is   required   to   be   exercised 
+
+          only if,   it is found that some injustice has resulted due 
+
+          to impugned order passed by Ld.Trial Court. Further,  if 
+
+          the Trial Court,   while passing the impugned order has 
+
+          acted, contrary to the well established principles of Law, 
+
+          or  the order  has  been  passed   without  any  evidence  to 
+
+          support   the   finding  or  if   the   finding   arrived   at,     by 
+
+          Ld.Trial Court is perverse or such as no reasonable man 
+
+          could   have   arrived   at   on   the   same,     on   the   basis   of 
+
+          evidence so produced before it.
+</p>
+<p id="p_24">
+
+</p><p id="p_25">     12.                     It   is   submitted   by   Ld.Counsel   for   the 
+
+          revisionist   that   the   complaint   discloses   commission   of 
+
+          cognizable offences on the part of respondents. Further, 
+
+          the   offences   are   such,   for   which   investigations   are 
+
+          required   by   the   investigating   agency.   Therefore,   the 
+
+          impugned   order   is  bad  as   Ld.Metropolitan   Magistrate 
+
+          has failed to appreciate this contention and declined the 
+
+
+<span class="hidden_text" id="span_5">  Crl.Rev.Pet.No.: 13 / 14                                           Page 8 of 18</span>
+                                                                      In the matter of :-
+</p><p id="p_26">                                                  [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                           Crl.Rev.Pet. No.: 13 / 2014
+                                                               Dated : 07th March 2015
+
+
+
+
+          registration of FIR.  
+</p>
+<p id="p_27">
+
+</p><p id="p_28">     13.                      I have considered the contentions advanced 
+
+          and have also  gone through the precedents relied upon.
+
+
+
+</p><p id="p_29">     14.                     There is no dispute with respect to the law 
+
+          laid down by Hon'ble Apex Court as well as by Hon'ble 
+
+          High Court in the precedents relied upon. However facts 
+
+          of each case differs and are required to be seen in the 
+
+          context   and   circumstances   of   that   case   for   giving   any 
+
+          finding or order. 
+</p>
+<p id="p_30">
+
+</p><p id="p_31">     15.                     The  sole   question  which   requires   to   be 
+
+          considered   here   is   as   to   whether   Ld.Metropolitan 
+
+          Magistrate  is required  to direct the concerned SHO to 
+
+          register   an   FIR,   merely   because   a   complaint   is   filed 
+
+          before   him,   alongwith   an   application   under   <a href="/doc/99487/" id="a_14">section 
+
+          156(3)</a> Cr.P.C seeking such directions. 
+
+
+
+</p><p id="p_32">     16.                     The  answer  is  not  hard   to  seek.  It  is  not 
+
+          obligatory on the part of Court to order registration of 
+
+          FIR on mere asking. The Court is under an obligation to 
+
+
+
+<span class="hidden_text" id="span_6">  Crl.Rev.Pet.No.: 13 / 14                                           Page 9 of 18</span>
+                                                                            In the matter of :-
+</p><p id="p_33">                                                        [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                                 Crl.Rev.Pet. No.: 13 / 2014
+                                                                     Dated : 07th March 2015
+
+
+
+
+          see and peruse the facts of the case before it, to arrive at 
+
+          any decision. 
+</p>
+<p id="p_34">
+
+</p><p id="p_35">     17.                     Hon'ble   Supreme   Court   in   the   matter   of 
+
+          "Madhao and Anr. Vs. State of Maharashtra and  
+
+          Anr."  in   SLP   (Crl.)   No.7693   of   2009,   decided   on 
+
+          03.05.2013 has held as under:  
+</p>
+<blockquote id="blockquote_1">                         "When   a   magistrate   receives   a   complaint  
+                         he is   not bound   to   take   cognizance   if  
+                         the      facts      alleged     in the      complaint  
+                         disclose     the     commission of an offence.  
+                         The   magistrate   has       discretion   in   the  
+                         matter. If on a reading of the   complaint,  
+                         he   finds   that   the   allegations   therein  
+                         disclose   a   cognizable   offence   and   the  
+                         forwarding of the complaint to the police  
+                         for investigation   under   <a href="/doc/99487/" id="a_15">Section   156(3)</a>  
+                         will     be conducive to justice and save the  
+                         valuable time   of   the   magistrate   from  
+                         being       wasted       in       enquiring       into   a  
+                         matter which was premarily     the duty of  
+                         the   police   to   investigate,   he   will   be  
+                         justified   in   adopting   that   course   as  
+                         an       alternative   to   taking   cognizance   of  
+                         the offece   CR NO. 34/14 Kamal Kishor Vs.  
+                         State etc    Page 6 of 11itself." 
+</blockquote>
+
+
+
+<span class="hidden_text" id="span_7">  Crl.Rev.Pet.No.: 13 / 14                                                 Page 10 of 18</span>
+<blockquote id="blockquote_2">                                                                               In the matter of :-
+</blockquote><blockquote id="blockquote_3">                                                           [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                                    Crl.Rev.Pet. No.: 13 / 2014
+                                                                        Dated : 07th March 2015
+
+
+
+
+</blockquote><blockquote id="blockquote_4">     18.                          Hon'ble   High   Court   of   Delhi   in   a   recent 
+
+          decision     titled  "Satpal   Sirohi   Vs.   State   (NCT   of  
+
+          Delhi) &amp; Ors."  in Crl. M. C.   NO.923/2014 decided on 
+
+          24.02.2014, has held as under: 
+</blockquote>
+<blockquote id="blockquote_5">                               "11.             Thus,   the   magistrate   is   not  
+                             supposed   to   act   mechanically     and  
+                             direct   registration   of   FIR   in      each  
+                             and     every      case      in     routine     and  
+                             casual       manner.   Criminal   law   is   not  
+                             expected   to   be   set   in       motion   on   mere  
+                             asking of a party. There has to   be some  
+                             substance in the complaint filed and it  
+                             is  only if it appears that the allegations  
+                             are   serious       enough       and       establish  
+                             the commission   of   cognizable   offence  
+                             which require a thorough   investigation  
+                             by     the     police,     an     FIR should     be  
+                             ordered to be registered. 
+</blockquote>
+
+<blockquote id="blockquote_6">                             12.    In the instant case, the respondents  
+                             are     known     to     the     petitioner     and  
+                             the       evidence       on       which       the  
+                             petitioner       relies       is       within       his  
+                             knowledge   and   control.   It   cannot   be  
+                             said that the   petitioner has been put to  
+                             an impossible task. If     need     were     to  
+                             arise       for       investigation,       such  
+                             possibility   is   not   precluded   as   learned  
+                             trial   court       has   entered   upon   the  
+                             inquiry under <a href="/doc/444619/" id="a_16">Sections 200</a>     and     <a href="/doc/1149595/" id="a_17">202</a>  
+                             Cr.PC.       Proviso       to       <a href="/doc/1149595/" id="a_18">Section       202</a>  
+                             Cr.PC   permit   such   investigation   to  
+                             be   ordered   at   an   appropriate   stage  
+
+
+<span class="hidden_text" id="span_8">  Crl.Rev.Pet.No.: 13 / 14                                                    Page 11 of 18</span>
+                                                                             In the matter of :-
+</blockquote><blockquote id="blockquote_7">                                                         [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                                  Crl.Rev.Pet. No.: 13 / 2014
+                                                                      Dated : 07th March 2015
+
+
+
+
+                             of   the   proceedings.   In   the   CR NO.  
+                             34/14 Kamal Kishor Vs. State etc    Page  
+                             7 of 11result, I do not find any illegality  
+                             or informity in    the     impugned    order  
+                             dated     9.7.2013     passed     by     learned  
+                             Metropolitan Magistrate,  Karkardooma  
+                             Courts, Delhi." 
+</blockquote>
+
+
+<blockquote id="blockquote_8">     19.                        Earlier  in  the  year  2013,  Hon'ble  High 
+
+          Court     of     Delhi   in   the   matter   of  "Subhash  
+
+          Manchanda Vs. State &amp; Anr." in   Crl.M.C.No.3593 /  
+
+          2010,     decided     on     04.02.2013,         the     order     of 
+
+          referring the matter  to police for registration of an FIR 
+
+          had set aside  on the basis of guidelines laid down by the 
+
+          Hon'ble  High  Court   of    Delhi       in     the      matter     of 
+
+          "Subhkaran       Luharuka       &amp;       Anr.       Vs.       State  
+
+          (Govt.    of    NCT    of    Delhi)    &amp;    Anr.",    MANU / 
+
+          DE   /   1646   /   2010   :   170     (2010)   DLT   516.   The   said 
+
+          guidelines are reproduced as under: 
+</blockquote>
+<blockquote id="blockquote_9">                     "(i) Whenever a Magistrate is called upon to  
+                     pass orders under <a href="/doc/99487/" id="a_19">Section 156(3)</a> Cr.PC of the  
+                     Code,       at       the   outset,       the       Magistrate  
+                     should   ensure   that  before coming  to  the  
+                     Court,  the   Complainant  did approach the  
+                     police officer     in     charge     of     the     Police  
+                     Station   having       jurisdiction       over       the  
+                     area       for       recording   the   information  
+                     available   with   him   disclosing   the  
+
+
+
+<span class="hidden_text" id="span_9">  Crl.Rev.Pet.No.: 13 / 14                                                  Page 12 of 18</span>
+                                                                             In the matter of :-
+</blockquote><blockquote id="blockquote_10">                                                         [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                                  Crl.Rev.Pet. No.: 13 / 2014
+                                                                      Dated : 07th March 2015
+
+
+
+
+                     commission of a   cognizable  offence   by   the  
+                     person/persons arrayed as an accused in the  
+                     complainant.   It   should   also   be   examined  
+                     what   action was taken by the SHO, or even  
+                     by the   CR NO. 34/14 Kamal Kishor Vs. State  
+                     etc    Page 8 of 11senior officer of the Police,  
+                     when   approached       by   the   Complainant  
+                     under  <a href="/doc/1622626/" id="a_20">Section  154(3)</a>  of      the  Code.  (ii)   The  
+                     Magistrate   should   then   form   his   own  
+                     opinion   whether   the   facts mentioned   in  
+                     the       complaint   disclose   commission   of  
+                     cognizable       offences       by       the       accused  
+                     persons arrayed in   the   Complaint   which  
+                     can     be     tried     in     his     jurisdiction.     He  
+                     should     also     satisfy     himself     about the  
+                     need for investigation by the Police     in the  
+                     matter.   A     preliminary   enquiry   has   been  
+                     done   by   the   SHO,   then   it   is   all   the  
+                     more     necessary     for     the     Magistrate     to  
+                     consider     all     these     factors.     For      that  
+                     purpose,   the   Magistrate   must   apply   his  
+                     mind       and       such       application   of   mind  
+                     should be reflected in the     Order passed by  
+                     him. Upon a preliminary satisfaction, unless  
+                     there       are   exceptional   circumstances   to  be  
+                     recorded     in writing, a status report by the  
+                     police is to be   called for before passing final  
+                     orders.   (iii)   The   Magistrate,   when  
+                     approached   with   a       Complaint       under  
+                     <a href="/doc/444619/" id="a_21">Section       200</a>       of       the       Code,       should  
+                     invariably   proceed   under   Chapter   XV       by  
+                     taking      cognizance       of       the      Complaint,  
+                     recording     evidence     and     then     deciding  
+                     the       question   of   issuance   of   process  to   the  
+                     accused.       In       that       case       also,       the  
+                     Magistrate     is     fully     CR NO. 34/14 Kamal  
+                     Kishor Vs. State etc    Page 9 of 11entitled to  
+
+
+
+<span class="hidden_text" id="span_10">  Crl.Rev.Pet.No.: 13 / 14                                                  Page 13 of 18</span>
+                                                                             In the matter of :-
+</blockquote><blockquote id="blockquote_11">                                                         [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                                  Crl.Rev.Pet. No.: 13 / 2014
+                                                                      Dated : 07th March 2015
+
+
+
+
+                     postpone the process if it is felt that   there is  
+                     a necessity to call for a police report   under  
+                     <a href="/doc/1149595/" id="a_22">Section 202</a> of the Code. (iv) Of course, it is  
+                     open   to   the   Magistrate   to       proceed   under  
+                     Chapter   XII   of   the   Code   when       an  
+                     application   under   <a href="/doc/99487/" id="a_23">Section   156(3)</a>   of   the  
+                     Code       is       also       filed       alongwith       a  
+                     Complaint     under     <a href="/doc/444619/" id="a_24">Section     200</a>     of     the  
+                     Code   if   the   Magistrate decides not to take  
+                     cognizance of     the     Complaint.     However,  
+                     in     that     case,     the     Magistrate,     before  
+                     passing     any     order     to     proceed   under  
+                     Chapter   XII,   should   not   only       satisfy  
+                     himself       about       the       prerequisites     as  
+                     aforesaid,   but,   additionally,   he   should   also  
+                     be   satisfied   that  it  is  necessary   to  direct  
+                     Police   investigation   in   the   matter   for  
+                     collection     of     evidence which is neither in  
+                     the possession of     the complainant nor can  
+                     be   produced   by   the       witnesses   on   being  
+                     summoned by the Court at     the instance of  
+                     complainant, and the matter is   such which  
+                     calls   for   investigation   by   a   State       agency.  
+                     The     Magistrate     must     pass     an     order  
+                     giving cogent reasons as to why he intends to  
+                     proceed   under   Chapter   XII   instead   of  
+                     Chapter   XV of the Code." 
+</blockquote>
+
+
+
+<blockquote id="blockquote_12">     20.                     In the light of above, I have considered the 
+
+           impugned   order.     Perusal   of   which   reveals   that 
+
+           Ld.Metropolitan  Magistrate had   taken  into account  all 
+
+           these   guidelines   while   considering     as   to   whether   the 
+
+           case in hand requires registration of FIR or not.
+</blockquote>
+
+<span class="hidden_text" id="span_11">  Crl.Rev.Pet.No.: 13 / 14                                                  Page 14 of 18</span>
+<blockquote id="blockquote_13">                                                                        In the matter of :-
+</blockquote><blockquote id="blockquote_14">                                                    [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                             Crl.Rev.Pet. No.: 13 / 2014
+                                                                 Dated : 07th March 2015
+
+
+
+
+</blockquote><p id="p_36">     21.                     After   perusing   all   the   relevant   facts 
+
+          required for  disposal of application under <a href="/doc/99487/" id="a_25">section 156(3)</a> 
+
+          Cr.P.C of the petitioner, Ld.Metropolitan Magistrate had 
+
+          formed an opinion that the present complaint  does not 
+
+          warrants directions to the police for registration of FIR.
+
+
+</p><p id="p_37">     22.                     It   is   apparent   on   perusal   of   these   orders 
+
+          that Ld.Metropolitan Magistrate not only considered the 
+
+          Status Report filed by SHO in this regard, but had also 
+
+          taken   into   consideration   the   orders   dated  03.04.2013 
+
+          passed   by  Hon'ble   High   Court  of   Delhi   in   Contempt 
+
+          Case ie.   Cont. Cas (C) No. 229 / 2013, as well as the 
+
+          requisite proceedings conducted in execution thereto on 
+
+          24.04.2013,  wherein   statements   of   husband   of   the 
+
+          present complainant was recorded, who clearly depicted 
+
+          that after handing over the possession, he had taken his 
+
+          entire   goods   from   the   premises   and   no   articles   of   his, 
+
+          were   left   in   the   premises.   Statement   of   the   witnesses 
+
+          namely   Smt.Raj   Rani   Khanna,   Rakesh   Pal   Kaur, 
+
+          Smt.Santosh   Jain   and   Sh.Anand   Kamal,   to  that   effect 
+
+          were   also   recorded,   during   the   proceedings   dated 
+
+
+
+<span class="hidden_text" id="span_12">  Crl.Rev.Pet.No.: 13 / 14                                             Page 15 of 18</span>
+                                                                      In the matter of :-
+</p><p id="p_38">                                                  [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                           Crl.Rev.Pet. No.: 13 / 2014
+                                                               Dated : 07th March 2015
+
+
+
+
+          24.04.2013   in   compliance   of   orders   of   Hon'ble   High 
+
+          Court.
+</p>
+<p id="p_39">
+
+</p><p id="p_40">     23.                     It   is   apparent   from   perusal   of   these 
+
+          statements as well as orders dated 03.04.2013 passed by 
+
+          Hon'ble High Court, as well as orders dated  10.09.2008 
+
+          passed by Sh.Kamlesh Kumar, the then Ld.ADJ in Civil 
+
+          Suit   No.203   /   2006  titled  "Rakesh   Pal   Kaur   vs.  
+
+          Sh.Vijay Mehra"  , that  the premises bearing number 
+
+          C­3/88, Ashok Vihar, Phase­II, comprises of only Ground 
+
+          Floor   and   First   Floor.     There   is   no   mention   of   any 
+
+          accommodation   on   the   2nd  Floor   of   this   property,   in 
+
+          either of these two orders, or in statement of the parties 
+
+          and   the   witnesses   recorded   on   24.04.2013,   which 
+
+          includes statement of husband of the complainant. 
+
+
+
+</p><p id="p_41">     24.                     Having   regards   to   these   facts   emanating 
+
+          from the material on record, including the Status Report 
+
+          filed   by   the   SHO,   Ld.Metropolitan   Magistrate   relying 
+
+          upon the guidelines laid down by Hon'ble High Court of 
+
+          Delhi in  "Shubh Karan's  Case"  (supra), had opined 
+
+          that   there  are  no  grounds   for  allowing   the  application 
+
+
+<span class="hidden_text" id="span_13">  Crl.Rev.Pet.No.: 13 / 14                                           Page 16 of 18</span>
+                                                                    In the matter of :-
+</p><p id="p_42">                                                [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                         Crl.Rev.Pet. No.: 13 / 2014
+                                                             Dated : 07th March 2015
+
+
+
+
+          under   <a href="/doc/99487/" id="a_26">section   156(3)</a>   Cr.P.C   filed   by   the   complainant, 
+
+          who is revisionist herein. 
+</p>
+<p id="p_43">
+
+</p><p id="p_44">     25.                     In   view   of   above   discussion,   the 
+
+          observations   of   Ld.Metropolitan   Magistrate   which   are 
+
+          the correct derivatives on the basis of facts alleged in the 
+
+          complaint, I do not find any infirmity or illegality in the 
+
+          orders dated 09.01.2014. 
+</p>
+<p id="p_45">
+
+</p><p id="p_46">     26.                      Suffice is to say that I have not been able  
+
+          to find any impropriety, incorrectness or illegality in the 
+
+          impugned   order,   warranting   exercise   of   revisional 
+
+          jurisdiction by this Court.  Needless to say that the facts 
+
+          alleged by the complainant can always be substantiated 
+
+          by the witnesses mentioned in the list of witnesses filed 
+
+          along with the complaint.
+</p>
+<p id="p_47">
+
+</p><p id="p_48">     27.                     Further, if at any point of stage, assistance 
+
+          of police is required, Ld.Metropolitan Magistrate   even 
+
+          after   taking   cognizance   and   proceeding   under   Chapter 
+
+          XV   of   Code   of   Criminal   Procedure,   can   still   order 
+
+          investigations under <a href="/doc/1603768/" id="a_27">section 202(2)</a> Cr.P.C.
+
+
+<span class="hidden_text" id="span_14">  Crl.Rev.Pet.No.: 13 / 14                                         Page 17 of 18</span>
+</p><p id="p_49">                                                                       In the matter of :-
+</p><p id="p_50">                                                   [NIRMAL MEHRA Vs. STATE &amp; Ors.]
+                                                            Crl.Rev.Pet. No.: 13 / 2014
+                                                                Dated : 07th March 2015
+
+
+
+
+</p><p id="p_51">     28.                     Consequently,   there   are   no   grounds   in   the 
+
+          present revision petition for interfering with the impugned 
+
+          order   dated  09.01.2014.   Revision   Petition   accordingly 
+
+          stands dismissed.
+</p>
+<p id="p_52">
+
+</p><p id="p_53">     29.                     Before parting with this order, I wish to add 
+
+          that nothing mentioned hereinabove, shall tantamount to 
+
+          any   expression   on   merits   of   the   case,   as   the   same   have 
+
+          been   observed   only   for   disposal   of   the   present   revision 
+
+          petition.
+</p>
+<p id="p_54">
+
+</p><p id="p_55">     30.                     Copy of this order be kept in the file of   the 
+
+          revision petition.        The Trial Court record along with copy 
+
+          of this order be sent to the concerned Court. 
+
+
+
+</p><p id="p_56">     31.                     The   revision   file   be   consigned   to   Record 
+
+          Room.  
+</p>
+<p id="p_57">
+
+ Announced in open court of
+07th  Day of  March, 2015.
+</p><p id="p_58">                                                (KANWAL JEET ARORA)
+                                             ADDL.SESSIONS JUDGE­03,
+                                   NORTH WEST, ROHINI COURTS,
+                                                         NEW DELHI.
+</p>
+<p id="p_59">
+
+<span class="hidden_text" id="span_15">  Crl.Rev.Pet.No.: 13 / 14                                            Page 18 of 18</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

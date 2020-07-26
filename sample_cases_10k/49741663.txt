@@ -1,0 +1,326 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ajesh vs The State Of Kerala on 9 October, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/49741663/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/180217/">Section 506 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1679850/">Section 482 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/19163/">Section 232 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/4266/">Section 308 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/724142/">Section 324 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/49741663/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/49741663/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/49741663/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Ajesh vs The State Of Kerala on 9 October, 2018</div><pre id="pre_1">          IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                           PRESENT
+
+         THE HONOURABLE MR. JUSTICE K.ABRAHAM MATHEW
+
+TUESDAY ,THE 09TH DAY OF OCTOBER 2018 / 17TH ASWINA, 1940
+
+                   Crl.MC.No. 1490 of 2018
+
+ SC 661/2015 OF ADDITIONAL SESSION JUDGE-III, KOZHIKODE
+
+ SC 944/2016 OF ADDITIONAL SESSION JUDGE-III, KOZHIKODE
+
+CRIME NO. 647/2013 OF CHOMBALA POLICE STATION, KOZHIKODE
+
+
+
+PETITIONER/S:
+
+
+             AJESH, AGED 36 YEARS, S/O SASIDHARAN,
+             CHIRIKANDATH HOUSE, KOROTH ROAD, AZHIYOOR PO,
+             VATAKARA, KOZHIKODE DISTRICT, PIN-673309
+
+             BY ADVS.
+             SRI.KRISHNADAS P. NAIR
+             SMT.B.SABITHA (DESOM)
+             SMT.K.L.SREEKALA
+             SRI.HARIDAS P.NAIR
+             SRI.M.RAJESH KUMAR
+
+
+
+
+RESPONDENT/S:
+
+     1       THE STATE OF KERALA
+             REPRESENTED BY PUBLIC PROSECUTOR, HIGH COURT
+             OF KERALA,
+
+     2       THE STATION HOUSE OFFICER
+             CHOMBALA POLICE STATION, KOZHIKKODE DISTRICT
+
+     3       FASALU, AGED 32 YEARS, S/O MOIDU,
+             PARAPPARAMBATHU MEETHAL, KOROTH ROAD, AZHIYOOR
+             PO, VATAKARA KOZHIKODE DISTRICT.
+ Crl.MC.No. 1490 of 2018
+
+                             ..2..
+
+      4      DILSHAD, AGED 32 YEARS, S/O RAHEEM, SAABIRAS
+             HOUSE, KOROTH ROAD, AZHIYOOR PO, VATAKARA,
+             KOZHIKODE DISTRICT, PIN-673309
+
+             BY ADV. SRI.K.R.RAMESH
+
+
+OTHER PRESENT:
+            SRI. ALEX M THOMBRA SR PP
+
+
+THIS CRIMINAL MISC. CASE HAVING COME UP FOR ADMISSION ON
+09.10.2018, THE COURT ON THE SAME DAY PASSED THE
+FOLLOWING:
+
+
+
+
+                            ORDER
+</pre>
+
+
+<p id="p_1">    Petition filed under <a href="/doc/1679850/" id="a_1">Section 482</a> Cr.P.C.
+
+</p><p id="p_2">2. The petitioner was the second accused in SC
+
+    No. 661 of 2015 on the file of the Additional
+
+    Sessions      Judge-III,     Kozhikode.      The     accused
+
+    allegedly        committed       the     offences        under
+
+    <a href="/doc/4266/" id="a_2">Sections 308</a>, <a href="/doc/724142/" id="a_3">324</a> &amp; <a href="/doc/180217/" id="a_4">506</a> of the Indian Penal
+
+    Code. As the petitioner was absconding, only
+
+    the    others    were   tried.    They    were     acquitted
+
+    under <a href="/doc/19163/" id="a_5">Section 232</a> Cr.P.c. The case against the
+
+    petitioner,       who   surrendered      later,     is    now
+ Crl.MC.No. 1490 of 2018
+
+                                  ..3..
+</p>
+<p id="p_3">    pending as SC No. 944 of 2016. Respondents 3 &amp;
+
+    4 are the victims. It is submitted that the
+
+    matter      has       been    settled.     The    proceedings
+
+    against him are sought to be quashed in the
+
+    light of the acquittal of the co-accused and
+
+    settlement.
+</p>
+<p id="p_4">3. Heard the learned counsel for the petitioner
+
+    and the learned Public Prosecutor.
+
+</p><p id="p_5">4. I have perused Annexure C judgment by which
+
+    the     co-accused           were     acquitted     and   the
+
+    affidavits filed by respondents 3 &amp; 4, who
+
+    have entered appearance through counsel. I am
+
+    satisfied that the matter has been settled and
+
+    no purpose will be served by the trial of the
+
+    petitioner.
+</p>
+<p id="p_6">    In the result, this Crl.M.C. is allowed. The
+
+    proceedings in SC No. 944 of 2016 on the file
+
+    of     the        Additional          Sessions     Judge-III,
+
+    Kozhikode are quashed. The learned magistrate
+
+    may pass appropriate orders for the disposal
+ Crl.MC.No. 1490 of 2018
+
+                                 ..4..
+</p>
+<p id="p_7">     of the material objects, if any, produced in
+
+     the case.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">                                               Sd/-
+</p>
+<p id="p_10">                                         K.ABRAHAM MATHEW
+
+                                              JUDGE
+
+
+
+
+                              APPENDIX
+PETITIONER'S/S EXHIBITS:
+
+ANNEXURE A                THE TRUE COPY OF THE FIR IN CRIME
+                          NO.647/2013 OF CHOMBALA POLICE
+                          STATION, REGISTERED BY THE 2ND
+                          RESPONDENT
+
+ANNEXURE B                THE TRUE COPY OF THE FINAL REPORT IN
+                          CRIME NO.647/2013 OF CHOMBALA POLICE
+                          STATION AS S..C NO.661/2015 OF
+                          SESSIONS COURT, KOZHIKODE
+
+ANNEXURE C                THE CERTIFIED COPY OF THE JUDGMENT
+                          DATED 20.2.2017 OF THE COURT OF
+                          SESSIONS COURT, KOZHIKODE IN
+                          S.C.NO.661/2015
+
+ANNEXURE D                THE TRUE COPY OF THE AFFIDAVIT SIGNED
+                          BY THE 3RD AND 4TH RESPONDENTS DATED
+                          10.2.2018
+
+
+
+Bka/09.10.2018
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

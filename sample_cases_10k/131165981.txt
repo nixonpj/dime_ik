@@ -1,0 +1,378 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Noor Mohammad &amp; Ors. vs State Of U.P. &amp; Another on 12 March, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/131165981/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 19 docs 
+      
+        - [<A HREF="/search/?formInput=cites:131165981">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/435819/">Section 319 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/796352/">Section 366 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/619940/">Section 363 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1279834/">Section 376 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/131165981/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/131165981/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/131165981/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.319">s.319</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=319">319</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20319">section 319</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=manoj%20kumar">manoj kumar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=noor%20mohammed">noor mohammed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=319%20criminal%20procedure%20code">319 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=319%20crpc">319 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20319%20crpc">section 319 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20319%20criminal%20procedure%20code">section 319 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.319%20criminal%20procedure%20code">sec.319 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.319%20cr.p.c">s.319 cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.%20319%20cr.p.c.">s. 319 cr.p.c.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20319%20cr.p.c.">section 319 cr.p.c.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.319%20of%20cr.p.c">sec.319 of cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.%20319%20cr.%20p.%20c">sec. 319 cr. p. c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cr%20p.%20c.%20319">cr p. c. 319</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=committed%20rape%20on">committed rape on</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=363%20">363 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363">section 363</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=366%20a">366 a</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Noor Mohammad &amp; Ors. vs State Of U.P. &amp; Another on 12 March, 2013</div><div class="doc_bench">Bench: Vishnu Chandra Gupta</div>
+
+<pre id="pre_1">
+
+
+
+
+HIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH
+ 
+ 
+
+ 									Reserved  
+ 
+                            		         					   A.F.R.
+ 
+   	 HIGH COURT OF JUDICATURE AT ALLAHABAD,
+ 
+              	  LUCKNOW BENCH, LUCKNOW
+ 
+
+ 
+                           Crl. Revision  No. 168  of  2011
+ 
+      1. Noor Mohammad S/O Late Husaini,
+ 
+      2. Wahid S/O Sri Noor Mohammad, 
+ 
+      3. Km. Nanhakki D/O Sri Noor Mohammad. 
+ 
+ 	All resident of village-Pijrawan, P.S. Kasimpur, District - Hardoi.
+ 
+      4. Pappu S/O Sri Mohd. Waris, resident of village - Kalbari    	Mohammadabad, P.S. - Bangarmau, District - Unnao.
+ 
+                                         	           	                ------ Revisionists                               				-: Versus:-
+ 
+1. State of U.P.
+ 
+2. Vipin Kumar, S/O Nanhakku (Nat), resident of village - Pijrawan, P.S. - Kasimpur, District Hardoi.
+ 
+ 
+ 
+   						    .............. Opposite Parties.
+ 
+
+ 
+Revisionist's Counsel :- Md. Farooq Ahmad, Advocate 
+ 
+Respondents' Counsel :- Govt. Advocate, 
+ 
+
+ 
+Hon'ble Visnhu Chandra Gupta,J.
+</pre> 
+
+ 
+<p id="p_1">				J U D G M E NT				
+ 
+
+ 
+(1) 		This Criminal Revision under <a href="/doc/1457888/" id="a_1">section 397</a>/<a href="/doc/1571667/" id="a_2">401</a> of Criminal Procedure Code (for short '<a href="/doc/445276/" id="a_3">Cr.P.C</a>.) has been filed by the revisionist against an order dated 19.01.2011 passed in Session Trial No. 914 of 2010 ( State Vs. Manoj Kumar Kanaujiya) by Additional Sessions Judge/ FTC, Court No.-7, Hardoi, whereby the revisionists were summoned under <a href="/doc/435819/" id="a_4">section 319</a> Cr.P.C.to face trial alongwith accused Manoj Kumar Kanaujiya.   Revisionist  No. 1 Noor Mohammad and revisionist No. 3 Km. Nanhakki were also summoned to face trial under <a href="/doc/619940/" id="a_5">sections 363</a> and <a href="/doc/796352/" id="a_6">366</a>  of Indian Penal Code (for short '<a href="/doc/1569253/" id="a_7">I.P.C</a>.'). Revisionist No. 2 Wahid and revisionist No. 4 Pappu were summoned to face trial under <a href="/doc/619940/" id="a_8">sections 363</a>, <a href="/doc/796352/" id="a_9">366</a> and <a href="/doc/1279834/" id="a_10">376</a> I.P.C.
+</p> 
+<p id="p_2">(2) At the time of admission of this criminal revision this court passed the following order on 25.4.2011, which is reproduced hereinbelow :-
+</p> 
+
+ 
+<p id="p_3">"Issue notice to opposite party No.2.
+</p> 
+<p id="p_4">List after service report.
+</p> 
+<p id="p_5">In the meantime so far as the proceedings of the court below against the
+ 
+petitioner No.1 and 3 are concerned, that shall remain stayed till further orders of this court.
+</p> 
+<p id="p_6">I hereby further provide that the proceedings of the court below against the petitioner Nos.2 and 4 shall go no. 
+</p> 
+<p id="p_7">Keeping in view the issuance of non bailable warrants against the petitioners, I hereby provide that if the petitioner Nos.2 and 4 appear before the court below within fifteen days and move an application for bail, the same shall be considered and disposed of.
+</p> 
+<p id="p_8">For fifteen days no coercive action shall be taken against the petitioners."
+</p> 
+
+ 
+<p id="p_9">(3) In pursuance of the aforesaid order, the trial was proceeded and revisionist no. 2 Wahid and revisionist no. 4 Pappu were tried alongwith accused Manoj Kumar Kanaujiya. After trial the accused revisionist nos. 2 and 4 and accused Manoj Kumar Kanaujiya were acquitted from all the charges levelled against them under <a href="/doc/619940/" id="a_11">sections 363</a>, <a href="/doc/796352/" id="a_12">366</a> and <a href="/doc/1279834/" id="a_13">376</a> I.P.C. by judgement dated 9th April, 2012 delivered by Addl. Sessions Judge, Court No. 12, Hardoi in the aforesaid sessions trial.
+</p> 
+<p id="p_10">(4) The copy of the  said judgment has been filed by the revisionists with supplementary affidavit as Annexure No. 1.  No counter affidavit has been filed against the supplementary affidavit nor anything has been brought on record to show that the judgment of acquittal was under challenge before this court  in appeal or revision. 
+</p> 
+<p id="p_11">(5)	In view of the above, this criminal revision  has become infructuous in respect of revisionist no. 2 (Wahid) and revisionist no. 4 (Pappu). The instant revision is now pending in respect of revisionist no 1 (Noor Mohammad) and revisionist no. 3 (Nanhkki) (father and daughter ). 
+</p> 
+<p id="p_12">(6) 	For deciding this revision, apart from aforesaid facts, the facts in brief are that on 28.6.2010 at about 1.00 PM one  Km.S (name not disclosed), aged about 15 years, daughter of  Rajendra R/O village - Kasim, District - Hardoi went to take medicine for her ailing father but she was kidnapped by Noor Mohammad (Revisionist No. 1), his daughter Nanhakki (Revisionist No. 3), his son Wahid (Revisionist No. 2) and his son-in-law Pappu (Revisionist No. 4). Thereafter, she disappeared. The First Information Report has been lodged by the uncle of prosecutrix at the police station on 3rd of July, 2010. The police investigated  and found that none of the named persons were involved in the crime. During investigation it was found that one Manoj Kumar Kanaujia is responsible for kidnapping her  and committing rape upon her. The charge sheet was submitted against him on the basis of statement of prosecutrix  recorded under <a href="/doc/447673/" id="a_14">section 161</a> Cr.P.C. as well as under <a href="/doc/497457/" id="a_15">section 164</a> Cr.P.C. Accused Manoj Kumar Kanaujiya was also arrested along with prosecutrix . The case proceeded against Manoj Kumar Kanaujiya. Thereafter, on the basis of statement made in the court, the prosecutrix also involved all the four revisionists alongwith Manoj Kumar Kanujiya and  stated that Noor Mohammad and Kr. Nahnakki met her when she reached at the culvert (Pulia) of Deonath. They stopped her. Pappu and Wahid came there on motorcycle. Noor Mohammad and Nanhkki asked to Pappu and Wahid that today there is good opportunity to get her and then Pappu and Wahid forcibly get her on motorcycle and taken to village Sarehri. Thereafter, she was taken to Delhi and kept there in a room about 10 days. Both Pappu and Wahid committed rape upon her. Thereafter, they handed over her to Manoj Kumar Kanujiya. She was brought back to Unnao by Manoj Kumar Kanaujiya and kept in a room and committed rape. When she was coming back with Manoj Kumar Kanaujiya,  both were arrested near Madar Chauraha by the police. On the basis of this statement, revisionists were summoned. 
+</p> 
+<p id="p_13">(7) 	I have heard learned counsel for the revisionists Sri Farooq Ahmad and learned A.G.A.
+</p> 
+<p id="p_14">(8)	It has been submitted on behalf of revisionists that after acquittal of Pappu and Wahid there is no justification to prosecute the remaining revisionists Noor Mohammad and Nanhakki.  It is further submitted that the trial is now over and thereafter the order impugned has become infructuous. The trial of Noor Mohammad and Nanhakki could not  proceed separately after acquittal of other co-accused.
+</p> 
+<p id="p_15">(9) 	On the contrary learned A.G.A. relied upon the judgment of Apex Court reported in 2011 (13) SCC, 316, (Sarojben Ashwin Kumar Shah Vs. State of Gujrat and Another). The  Supreme Court had an occasion to consider several authorities of the Apex Court and drawn certain guidelines for exercising the jurisdiction by courts u/s 319 <a href="/doc/445276/" id="a_16">Cr.P.C</a>.
+</p> 
+<p id="p_16">(10)		It is submitted by learned A.G.A. that even after conclusion of the trial of the other accused persons, the trial  of the present revisionists Noor Mohammad and Nanhakki could proceed. It was further submitted that provision of <a href="/doc/741791/" id="a_17">section 300</a> Cr.P.C. would not be attracted so far as Noor Mohammad and Nanhkki are concerned.
+</p> 
+<p id="p_17">(11) 		It has been submitted by counsel for revisionist's that Manoj Kumar Kanaujiya  and accused Wahid and Pappu, who were summoned under <a href="/doc/435819/" id="a_18">sections 319</a> Cr.P.C. by the impugned order, were acquitted from all the charges  leveled against them after considering the evidence produced by the prosecution.  It has not been shown that order of acquittal has ever been challenged by prosecution in any appeal or revision before this court. Therefore, the acquittal would be taken to be final.  The trial court acquitted all the three accused persons those who face the trial. While acquitting the accused persons the trial court categorically held that prosecutrix was a consenting party. The prosecution has failed to establish that Pappu and Wahid committed rape upon her. The court also held that PW.2 Vipin Kumar during the course of statement under <a href="/doc/447673/" id="a_19">section 161</a> Cr.P.C. stated that prosecutrix told her that Manoj has committed rape upon her. Court after taking the note of major difference in the statement recorded under <a href="/doc/497457/" id="a_20">section 164</a> Cr.P.C. acquitted the accused. It was also come in the evidence of the prosecution that after arrest of Manoj Kumar Kanaujiya along with prosecutrix, the family members including PW.1 informed the Investigating Officer that they, on the basis of doubt, named all four revisionists on the ground that prosecutrix  used to visit the house of the revisionist accused Nanhakki, who was her  friend . The learned trial court after considering the entire evidence on record found that she was not kidnapped by the revisionists but she went with her own will and consent with Manoj Kumar Kanaujiya. She remained with him for considerable long time and she was recovered with accused Manoj Kumar Kanaujiya. Therefore, prosecution failed to establish the charge of kidnapping or abduction under <a href="/doc/619940/" id="a_21">section 363</a> and <a href="/doc/796352/" id="a_22">366</a> I.P.C. and also failed to establish charge under <a href="/doc/1279834/" id="a_23">section 376</a> I.P.C. In view of the findings recorded by the trial court if Noor Mohammad and Nanhakki is allowed to be tied  on the basis of evidence already adduced, it will be an abuse of process of law, specially when trial court on the basis of evidence of prosecutrix has held that she was not kidnapped or abducted by the accused but she went with her own will and consent with Manoj Kumar Kanaujiya. 
+</p> 
+<p id="p_18">(12) 	The moot question for consideration before this court is :-
+</p> 
+<p id="p_19"> 		Whether  the evidence adduced and considered by the trial court for 	basing its finding for acquittal  could be considered for deciding this 	revision, so far as, it relates to revisionist nos. 1 and 3 ? 
+</p> 
+<p id="p_20">(13)	<a href="/doc/1604816/" id="a_24">In Shashikant Singh v. Tarkeshwar Singh</a> [(2002) 5 SCC 738] this situation was dealt with by the Apex Court and it was held in para 9 of the aforesaid judgment as follows:-  	
+</p> 
+<p id="p_21"> " (9) The intention of the provision here is that where in the course of any enquiry into, or trial of, an offence, it appears to the court from the evidence that any person not being the accused has committed any offence, the court may proceed against him for the offence which he appears to have committed. At that stage, the court would consider that such a person could be tried together with the accused who is already before the court facing the trial. The safeguard provided in respect of such person is that, the proceedings right from the beginning have mandatorily to be commenced afresh and the witnesses reheard. In short, there has to be a de novo trial against him. The provision of de novo trial is mandatory. It vitally affects the rights of a person so brought before the court. It would not be sufficient to only tender the witnesses for the cross-examination of such a person. They have to be examined afresh. Fresh examination-in-chief and not only their presentation for the purpose of the cross- examination of the newly added accused is the mandate of <a href="/doc/1138947/" id="a_25">Section 319(4)</a>. The words "could be tried together with the accused" in <a href="/doc/1138947/" id="a_26">Section 319(1)</a>, appear to be only directory. "Could be" cannot under these circumstances be held to be "must be". The provision cannot be interpreted to mean that since the trial in respect of a person who was before the court has concluded with the result that the newly added person cannot be tried together with the accused who was before the court when order under <a href="/doc/1138947/" id="a_27">Section 319(1)</a> was passed, the order would become ineffective and inoperative, nullifying the opinion earlier formed by the court on the basis of the evidence before it that the newly added person appears to have committed the offence resulting in an order for his being brought before the court." 
+</p> 
+
+ 
+<p id="p_22">(14)		The aforesaid judgment in Shashikant Singh's case (Supra) was considered in <a href="/doc/215176/" id="a_28">Rajendra Singh And Anr. vs State Of Uttar Pradesh</a> AIR (2007) Supreme Court 2786  and the Apex Court after relying upon the judgment of Shashikant Singh's case categorically held that trial of co-accused ended in acquittal cannot have the affect of nullifying or making the order passed under <a href="/doc/435819/" id="a_29">section 319</a> Cr.P.C. ineffective or inoperative, so far as the other co-accused are concerned. The Apex court also considered this aspect that the order under <a href="/doc/435819/" id="a_30">section 319</a> Cr.P.C. in respect of those who did not face trial before the Trial Court cannot be based on the ground of acquittal of co-accused. Thus it is clear that the evidence considered by the Trial Court while acquitting the co-accused cannot be the basis for setting aside the order passed under <a href="/doc/435819/" id="a_31">section 319</a> Cr.P.C.in respect of the other co-accused.
+</p> 
+<p id="p_23">(15) 		Therefore,  this court could  examine correctness and propriety of the order impugned in respect of revisionist no. 1 and 3 only on the basis of material available before the Trial Court at the time of passing the impugned order.
+</p> 
+<p id="p_24">(16) 		The Apex Court in Lal Suraj @ Suraj Singh &amp; Ors Vs. State of Jharkhand 2009 (JIC) page 793 (SC) while discussing requirements under <a href="/doc/435819/" id="a_32">section 319</a> Cr.P.C observed as under :
+</p> 
+<p id="p_25">"The extent of the power of a trial court to summon persons other than the accused to stand trial in a pending case came up for consideration before Apex Court in <a href="/doc/1860679/" id="a_33">Municipal Corporation of Delhi v. Ram Kishan Rastogi</a> [(1983) 1 SCC 1]. Therein, the Supreme Court held that the provision under <a href="/doc/435819/" id="a_34">section 319</a> Cr.P.C. confers a discretionary jurisdiction on the court and held that "this is really an extraordinary power which is conferred on the Court and should be used very sparingly and only if compelling reasons exist for taking cognizance against the other person against whom action has not been taken."
+</p> 
+<p id="p_26">(17)		 The Supreme Court in <a href="/doc/450579/" id="a_35">Lok Pal v. Nihal Singh</a> [(2006) 10 SCC 192] held that there is no compelling duty on the court to proceed against a person under <a href="/doc/435819/" id="a_36">section 319</a> Cr.P.C. only for this simple reason that some evidence had been on record implicating the person sought to be added. The observations made by the Supreme court are as under :-
+</p> 
+<p id="p_27">"...The court, while examining an application under <a href="/doc/435819/" id="a_37">Section 319</a> of the Code, has also to bear in mind that there is no compelling duty on the court to proceed against other persons. In a nutshell, for exercise of discretion under <a href="/doc/435819/" id="a_38">Section 319</a> of the Code all relevant factors, including those noticed above, have to be kept in view and an order is not required to be made mechanically merely on the ground that some evidence had come on record implicating the person sought to be added as an accused.
+</p> 
+<p id="p_28">(18) 		It was observed by Apex Court in Sarabjit Singh &amp; Ans Vs. State of Punjab &amp; Ans., 2009(3) JIC 522 (SC)in para 18, which is reproduced below:-
+</p> 
+<p id="p_29">" The observation of this Court in Municipal Corporation of Delhi (supra) and other decisions following the same is that mere existence of a prima facie case may not serve the purpose. Different standards are required to be applied at different stages. Whereas the test of prima facie case may be sufficient for taking cognizance of an offence at the stage of framing of charge, the court must be satisfied that there exists a strong suspicion. While framing charge in terms of <a href="/doc/1056165/" id="a_39">Section 227</a> of the Code, the court must consider the entire materials on record to form an opinion that the evidence if unrebutted would lead to a judgment of conviction. Whether a higher standard be set up for the purpose of invoking the jurisdiction under <a href="/doc/435819/" id="a_40">Section 319</a> of the Code is the question. The answer to these questions should be rendered in the affirmative. Unless a higher standard for the purpose of forming an opinion to summon a person as an additional accused is laid down, the ingredients thereof, viz., (i) an extraordinary case and (ii) a case for sparingly exercise of jurisdiction, would not be satisfied."
+</p> 
+<p id="p_30">(19)		Case of Md. Shafi (Supra) has been considered in Lal Suraj @ Suraj Singh &amp; Ors Vs. State of Jharkhand 2009 (JIC) Page 793 (SC) . The Apex Court by stating therein observed as under :-
+</p> 
+<p id="p_31">".... The principle of strong suspicion may be a criterion at the stage of framing of charge as all the materials brought during investigation were required to be taken into consideration, but , for the purpose of summoning a person , who did not figure as accused, a different legal principle is required to be applied. A Court framing charge would have before it all the materials on record which were required to be proved by the prosecution. In case where, however , the Court exercises its jurisdiction under <a href="/doc/435819/" id="a_41">section 319</a> of the Code, the power has to be exercised on the basis of fresh evidence brought before the Court. There lies a fine but clear distinction."
+</p> 
+<p id="p_32">(20) 		In the latest judgment of Apex Court reported in 2011 (13) SCC, 316, (Sarojben Ashwin Kumar Shah Vs. State of Gujrat and Another) the Supreme Court had an occasion to consider several authorities of the Apex Court and drawn certain guidelines for exercising the jurisdiction by courts u/s 319 <a href="/doc/445276/" id="a_42">Cr.P.C</a>.. The relevant portion of the judgment in Para 16 is reproduced herein below:-
+</p> 
+<p id="p_33">" 16. The legal position that can be culled out from the material provisions of <a href="/doc/435819/" id="a_43">Section 319</a> of the Code and the decided cases of this Court is this:
+</p> 
+<p id="p_34">(I) The court can exercise the power conferred on it under <a href="/doc/435819/" id="a_44">Section 319</a> of the Code suo motu or on an application by someone.
+</p> 
+<p id="p_35">(II) The power conferred under <a href="/doc/435819/" id="a_45">Section 319</a> (1) applies to all courts including the Sessions Court.
+</p> 
+<p id="p_36">(III) The phrase "any person not being the accused" occurring in <a href="/doc/435819/" id="a_46">Section 319</a> does not exclude from its operation an accused who has been released by the police under <a href="/doc/481610/" id="a_47">Section 169</a> of the Code and has been shown in Column 2 of the charge-sheet. In other words, the said expression covers any person who is not being tried already by the court and would include person or persons who have been dropped by the police during investigation but against whom evidence showing their involvement in the offence comes before the court.
+</p> 
+<p id="p_37">(IV) the power to proceed against any person, not being the accused before the court, must be exercised only where there appears during inquiry or trial sufficient evidence indicating his involvement in the offence as an accused ond not otherwise. The word "evidence" in <a href="/doc/435819/" id="a_48">Section 319</a> contemplates the evidence of witnesses given in court in the inquiry or trial. The court cannot add persons as accused on the basis of materials available in the charge sheet or the case diary but must be based on the evidence adduced before it. In other words, the court must be satisfied that a case for addition of persons as accused, not being the accused before it, has been made out on the addition let in before it.
+</p> 
+<p id="p_38">(V) The power conferred upon the court is although discretionary but is not to be exercised in a routine manner. In a sense, it is an extraordinary power which should be used very sparingly and only if evidence has come on record which sufficiently establishes that the other person has committed an offence. A mere doubt about involvement of the other person on the basis of the evidence let in before the court is not enough. The court must also be satisfied that circumstances justify and warrant that the other person be tried with the already arraigned accused.
+</p> 
+<p id="p_39">(VI) The court while exercising its power under <a href="/doc/435819/" id="a_49">Section 319</a> of the Code must keep in view full conspectus of the case including the stage at which the trial has proceeded already and the quantum of evidence collected till then.
+</p> 
+<p id="p_40">(VII) Regard must also be had by the court to be constraints imposed in <a href="/doc/776101/" id="a_50">Section 319(4)</a> that proceedings in respect of newly added persons shall be commenced afresh from the beginning of the trial.
+</p> 
+<p id="p_41">(VIII) The court must, therefore, appropriately consider the above aspects and then exercise its judicial discretion." 
+</p> 
+<p id="p_42">(21) 		 In view of guidelines issued in Sarojben case (Supra) it would be incumbent upon the courts before exercising the jurisdiction conferred under <a href="/doc/435819/" id="a_51">section 319</a> Cr.P.C. that the court must satisfy itself that the involvement of the accused is established from the evidence adduced during trial and the court should further satisfy itself that there is a possibility of recording his guilt on the basis of such evidence.
+</p> 
+<p id="p_43">(22) 		In the light of aforesaid decisions the facts of this case to be scanned . The person who lodged first information report, Vipin Kumar, is not an eye witness. Hence, his evidence not of any help. The only witness on the basis of which this impugned order has been passed  is evidence of the prosecutrix. The prosecutrix stated on oath that when she was going to take medicine for her ailing father revisionist no. 1 Noor Mohammad and respondent no. 3  Nanhakki  met at the culvert (Pulia) and stopped her. At the same time revisionist no. 2 and 4 came with motorcycle. The revisionist no. 1 and 3 exhorted and asked to revisionist no. 2 and 4 to catch her. In pursuance thereof both revisionist no. 2 and 4 forcibly took her on motorcycle to village Sarehri, From Sarehri she was taken to Delhi, where she was kept in a room and both committed rape upon her . Thereafter she was handed over to Manoj Kumar Kanaujiya by revisionist No.2 and 4. There is no other evidence except the evidence of the prosecutrix. The prosecutrix has admitted in her examination in chief before the trial court that police recovered her when she was with Manoj Kumar Kanaujiya.  Prosecutrix was also cross-examined before passing the impugned order by the Addl. Sessions Judge. The trial Court has  observed in the impugned order on the basis of cross-examination that prosecutrix has completed the age of 18 years. Despite this the revisionists No.1 and 3 have been summoned also under 363 <a href="/doc/1569253/" id="a_52">I.P.C</a>.  
+</p> 
+<p id="p_44">(23) 		In view of the  judgments referred herein above it was incumbent upon trial court to consider the matter with the view that mere prima facie involvement of Revisionist No. 1 and 3 in the commission of crime is not enough to invoke jurisdiction under <a href="/doc/435819/" id="a_53">section 319</a> Cr.P.C. but the court should also have to examine the matter as to whether there is any possibility of recording the guilt of the persons sought to be summoned on the basis of evidence available on record. Since the court below has not considered the matter in right prospective, thus, the trial court committed a manifest error of law and failed to exercise the discretion in a judicious way . Therefore, the impugned order is not sustainable and deserved to be set aside. 
+</p> 
+<p id="p_45">(24) 		Consequently, the revision deserved to be allowed, so far as, the revisionist no. 1 and 3 are concerned. The revision against revisionist no. 2 and 4, namely Wahid and Pappu has already become infructuous as they have acquitted after full trial. 
+</p> 
+<p id="p_46">(25) 		Accordingly, this revision is allowed so far as it relates to revisionist no. 1 Noor Mohammad and revisionist no. 3  Nanhakki . The impugned order dated 19.01.2011 passed  by Addl. Sessions Judge, FTC-VII, Hardoi in Session Trial No. 914/2010 arising out of case Crime No. 500/2010, under <a href="/doc/619940/" id="a_54">section 363</a>/<a href="/doc/796352/" id="a_55">366</a>/<a href="/doc/1279834/" id="a_56">376</a> I.P.C., P.S. Kasimpur, District - Hardoi is hereby set aside  in respect of revisionist 1 and 3. However, liberty is granted to the prosecution to move fresh application under <a href="/doc/435819/" id="a_57">section 319</a> Cr.P.C. if so desired. In case any such application is  moved, the court below will consider the matter in the light of direction contained in the order and will pass a fresh order without having been influence with any finding recorded by this court on merit.
+</p> 
+<p id="p_47">Dated :   12th March, 2013
+ 
+S. Kumar    					 
+ 
+						   (Justice Vishnu Chandra Gupta )  
+ 
+
+ 
+	
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+    
+      
+  
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

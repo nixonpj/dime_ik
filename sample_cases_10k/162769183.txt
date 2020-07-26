@@ -1,0 +1,852 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>) M. Arujan Rao vs Unknown on 17 December, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/162769183/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1718550/">Section 31(2) in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/2587/">Section 30 in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/7832/">The Land Acquisition Act, 1894</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/162769183/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/162769183/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/162769183/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bangalore District Court</div>
+<div class="doc_title">) M. Arujan Rao vs Unknown on 17 December, 2019</div><pre id="pre_1">                             1
+                                       L.A.C. No. 91/2012
+IN THE COURT OF THE II ADDITIONAL CITY CIVIL AND
+   SESSIONS JUDGE AT BANGALORE (C.C.H. No.17)
+
+
+
+      Dated this the 17 th day of December, 2019.
+
+                        PRESENT:
+          Shri. R.Y. Shashidhara, B.Com.,LL.B.
+     II Addl. City Civil and Sessions Judge, Bangalore.
+
+        : LAND ACQUISITION CASE NO.91/2012 :
+  CLAIMANTS:
+                  1) M. Arujan Rao,
+                     S/o Mukunda Rao,
+                     No.455/d, 1st B street,
+                     C. Cross, Mothikerlayout,
+                     Bengaluru-54.
+
+                  2) Chikolamma
+                     W/o Chikkanagaiah,
+                     Gidadakonenahalli village,
+                     Yashavanthapura Hobli,
+                     Bengaluru North Taluk.
+
+                  3) H.S. Krishnegowda
+                     S/o Sonnegowda,
+                     No.56, Kale Gowda Estate,
+                     Kamakshipalya,
+                     Bengaluru-97.
+
+                  4) Suresh Govindar
+                     Ashirward No.4, PF layout,
+                     Vijayanagara, Bengaluru-40.
+
+                  5) Dayur Gowda,
+                     S/o Lakkegowda,
+                     No.56, Kale Gowda Estate,
+                     Kamakshipalya,
+                     Bengaluru-97.
+           2
+                             L.A.C. No.91/2012
+6) C.R. Shoba
+   W/o Jacob Johan,
+   C/o CR Komala, No.137, 4th E Main
+   road, west of chord road, 2nd stage,
+   Bengaluru -86.
+
+7) Honnamma
+   W/o Madaiah,
+   68 years,
+   Residing    at   Gidadakonenahalli
+   village,  Yashavanthapura   Hobli,
+   Bengaluru North Taluk.
+
+8) Suresh Mangala,
+   Residing   at   Gidadakonenahalli
+   village, Yashavanthapura   Hobli,
+   Bengaluru North Taluk.
+
+9) Paravathi N. Rao,
+   Residing    at    Gidadakonenahalli
+   village,  Yashavanthapura    Hobli,
+   Bengaluru North Taluk.
+
+10) Nanjundaiah,
+  Residing    at  Gidadakonenahalli
+  village, Yashavanthapura   Hobli,
+  Bengaluru North Taluk.
+
+11) Chikkanna
+  S/o Nanjundappa,
+  54 years,
+  Residing    at   Gidadakonenahalli
+  village,  Yashavanthapura   Hobli,
+  Bengaluru North Taluk.
+
+12) Smt. Mangalamma,
+  D/o late. Madaiah,
+  W/o late. Narasimhamurthy,
+  45 years,
+                    3
+                                     L.A.C. No. 91/2012
+        13) Smt. Lakkamma
+          D/o late. Madaiah,
+          W/o Maruthi,
+          43 years.
+
+        14) Siddagangamma
+          D/o late. Madaiah,
+          W/o Krishnappa,
+          41 years,
+          Residing at Honaganahatti village,
+          Tavarekere Hobli, Bengaluru South
+          Taluk, Bengaluru.
+
+        15) Sri. Rudrappa,
+          S/o late. Madaiah,
+          37 years.
+
+        16) Smt. Savitha
+          W/o late. Chikkanna
+          (S/o late. Madaiah),
+          37 years,
+
+        17) Sri. Suryanarayana Gowda,
+          S/o late. Madaiah,
+          35 years,
+
+        18) Sri. Suresh
+          S/o late. Madaiah,
+          31 years,
+
+           Sl. No.12, 13, 15 to 18 are residing
+           at    Gidadakonenahalli      village,
+           Vishwaneedam                    post,
+           Yashavanthapura Hobli, Bengaluru
+           North Taluk, Bengaluru-560 091.
+
+ (Sri.KPJ, Advocate for claimant No.6, 7, 11
+   to 18)
+(Claimant No1 to 5, 8 to 10 - Absent)
+                                     4
+                                                           L.A.C. No.91/2012
+                             -VERSUS-
+RESPONDENTS :
+
+                       1) The Addl. Land Acquisition Officer,
+                          Bengaluru Development Authority,
+                          Bengaluru.
+
+                       2) Bengaluru Development Authority,
+                          Bengaluru.
+
+
+              (By Sri. MG, Advocate)
+
+                       : JUDGMENT :
+</pre>
+<p id="p_1">       The          respondent          No.1/ALAO,        Bangalore
+
+Development         Authority,      Bangalore     has    made       this
+
+reference under <a href="/doc/2587/" id="a_1">Sections 30</a> and <a href="/doc/1718550/" id="a_2">31(2)</a> of L.A. Act, 1894
+
+<a href="/doc/7832/" id="a_3">(L.A. Act</a> for short) for apportionment of compensation
+
+amount.
+</p>
+<p id="p_2">
+</p><p id="p_3">       .2.      It is seen from the records that, the
+
+respondent No.1 has acquired the land bearing Sy.No.
+
+46/4         measuring         37       guntas,      situated         at
+
+Gidadakonenahalli           village,    Yeshavanthapura           Hobli,
+
+Bengaluru North Taluk. It was acquired for further
+
+extension      of    Sir.   M.Vishweshwaraiah           layout.     The
+
+respondent No.1 has passed an award for a total
+<span class="hidden_text" id="span_1">                               5</span>
+                                                  L.A.C. No. 91/2012
+compensation of Rs.8,28,834/-. There was a dispute for
+
+disbursement of compensation amount. Hence, the
+
+respondent No.1 has referred the case before this court
+
+and deposited the compensation amount.
+
+</p><p id="p_4">        .3.   After receipt of reference, this court issued
+
+notice to both parties. In pursuance of notice, the
+
+claimant No.1 to 5, 8 to 10 have not appeared and
+
+remained absent. As per the steps taken by the counsel
+
+for the claimants 6, 7, 11 to 18, this court issued notice
+
+to the claimant No.2 to 5, 8 to 10 through paper
+
+publication and it was duly published in Hosa Digantha
+
+kannada daily dated 26.08.2018. In-spite of the same
+
+also they have not appeared before this court and
+
+remained absent. The claimant No.6, 7, 11 to 18 and
+
+the respondent No.1 and 2 have appeared through their
+
+counsels.
+</p>
+<p id="p_5">        .4.   The claimant No.7, 11 to 18 have filed claim
+
+statement separately. The claimant No.6 has not filed
+
+claim     statement.   The   respondents   have    not   filed
+
+objection to the main.
+</p><span class="hidden_text" id="span_2">                                6</span><p id="p_6">
+</p><p id="p_7">                                                      L.A.C. No.91/2012
+     .5.     The claimant No.7, 11 to 18 have filed
+
+common claim statement and stated as follows:
+
+</p><p id="p_8">         It is stated that the respondents have acquired
+
+land bearing Sy.No.46/4 measuring 23 guntas out of 37
+
+guntas situated at Gidadakonenahalli village. After
+
+passing award, they have referred the matter before this
+
+Court and deposited award amount. It is stated that 23
+
+guntas of land out of 37 guntas belonged to one
+
+Madaiah resident of Gidadakonenahalli village who is
+
+husband      of   claimant     No.7.   Said   Madaiah       was
+
+Anubavadar and Khatedar, in possession of 23 guntas
+
+of land. It is stated that legal heirs of Madaiah @
+
+Madappa       have     filed    suit    for    partition       in
+
+O.S.No.8624/2017 on the file of 37th Addl. City Civil
+
+Judge,     Bangalore    City    (CCH-38).     There     was     a
+
+compromise in the said case and compromise decree
+
+passed in favour of legal heirs of Madaiah @ Madappa.
+
+As per compromise decree, 2 guntas of land fell to the
+
+share of claimant No.7 and 3 guntas of land each fell to
+
+the share of claimant No.11 to 18. In the present case,
+<span class="hidden_text" id="span_3">                             7</span>
+                                                L.A.C. No. 91/2012
+the respondent No.1 acquired 37 guntas of land in
+
+Sy.No.46/4 of Gidadakonenahalli village. Out of the
+
+same, as per decree passed in O.S.No.8624/2017, the
+
+claimant No.7, 11 to 18 are claiming 23 guntas. They
+
+prayed for payment of compensation with accrued
+
+interest in-respect of their share. They also prayed for
+
+directing the respondents to alert the incentive BDA
+
+sites to them.
+</p>
+<p id="p_9">       .6.   In order to prove their case, the claimant
+
+No.7, 11 to 18 examined themselves as PW.1 to PW.9
+
+respectively. Documents got marked as Ex.P.1 to P.35.
+
+The claimant No.6 has not adduced oral evidence and
+
+produced the documents. The respondents have not
+
+adduced oral evidence and got marked documents.
+
+
+</p><p id="p_10">     .7.      Heard the arguments and perused the
+
+records.
+</p>
+<p id="p_11">
+</p><p id="p_12">      .8. The following points that would arise for my
+
+consideration are:
+</p>
+<blockquote id="blockquote_1">             (1) Whether the Claimant No.7 is
+                 entitle  to    receive  the
+                 compensation         amount
+<span class="hidden_text" id="span_4">                                   8</span>
+                                                      L.A.C. No.91/2012
+                 disputed in this case in-
+                 respect of 02 guntas out of
+                 acquired land measuring 37
+                 guntas in Sy.No.46/4 of
+                 Gidadakonenahalli village?
+</blockquote>
+<blockquote id="blockquote_2">           (2) Whether the Claimant No.11
+               to 18 are entitle to receive the
+               compensation            amount
+               disputed in this case in-
+               respect of 03 guntas each out
+               of acquired land measuring
+<span class="hidden_text" id="span_5">               37 guntas in Sy.No.46/4 of</span>
+               Gidadakonenahalli village?
+</blockquote>
+<blockquote id="blockquote_3">           (3) Whether the Claimant No.1 to
+               6, 8 to 10 are entitle to
+               receive the compensation
+               amount disputed in this
+               case?
+</blockquote>
+<blockquote id="blockquote_4">           (4) What order or award?
+</blockquote>
+<blockquote id="blockquote_5">     .9. My findings on the above points are:</blockquote><pre id="pre_2">
+
+        Point    No.1   :   In the affirmative,
+        Point    No.2   :   In the affirmative,
+        Point    No.3   :   In the negative,
+        Point    No.4   :   As per final order, for the following:
+
+                            REASONS
+
+</pre><blockquote id="blockquote_6">     .10. POINT No.1 to 3: All these points are inter
+
+connected. Hence, for the purpose of avoiding repeated
+
+discussed, I have taken up all these points together for
+
+consideration.</blockquote><p id="p_13">
+<span class="hidden_text" id="span_6">                              9</span>
+</p><p id="p_14">                                                 L.A.C. No. 91/2012
+     .11.     In the claim statement, the claimant No.7,
+
+11 to 18 stated that 23 guntas of land out of 37 guntas
+
+belonged to one Madaiah resident of Gidadakonenahalli
+
+village. Said Madaiah husband of claimant No.7 and
+
+father   of   claimant   No.11     to   18.   Madaiah   was
+
+Anubavadar and Khatedar, in possession of acquired
+
+land. Acquired property is ancestral property of these
+
+claimants. The legal heirs of Madaiah @ Madappa have
+
+filed suit for partition in O.S.No.8624/2017 before 37 th
+
+Addl. City Civil Judge, Bangalore City (CCH-38). The
+
+said suit ended with compromise and compromise
+
+decree drawn in favour of legal heirs of Madaiah @
+
+Madappa. As per compromise decree, 2 guntas of land
+
+fell to the share of claimant No.7 and 3 guntas of land
+
+each fell to the share of claimant No.11 to 18. Hence,
+
+they are entitle for award       amount with interest and
+
+benefits. Therefore, the claimant No.7 is entitle for
+
+compensation in respect of 2 guntas and claimant
+
+No.11 to 18 are entitle for compensation in respect of 3
+
+guntas of land each in the acquired property. PW.1 to 9
+<span class="hidden_text" id="span_7">                                   10</span>
+                                                        L.A.C. No.91/2012
+in their examination in chief deposed as per the claim
+
+statements.
+</p>
+<p id="p_15">      .12.    I have perused the documentary evidence
+
+produced by the claimant No.7, 11 to 18. Ex.P.1 is
+
+notice dated 06.06.2003 issued by respondent/SLAO,
+
+BDA, in favour of Honnamma - Claimant No.7. It is
+
+mentioned that the respondent No.1 has acquired the
+
+land bearing Sy.No.46/4 of Gidadakonenahalli village
+
+for   the    purpose     of    further    extension    of   Sir    M
+
+Vishweshwaraiah        layout.         Hence,   they   called      for
+
+claimant     No.7   to        produce     documents     and       give
+
+statement. Ex.P.2 and 3 also notice issued by BDA to
+
+the claimant No.7, informed about acquisition of land
+
+and call for objections if any. Ex.P.4 is the award notice
+
+issued U/s.12(2) of L.A.Act to the claimant No.7. Ex.P.5
+
+to 8, 11 to 26 are the RTC extracts in-respect of land
+
+bearing Sy.No.46/4 measuring 37 guntas and they are
+
+in the names of Chikka S/o Nanjunda measuring 140 X
+
+300 feet, Chikkanna measuring 60 X 300 feet and
+
+Madaiah 140 X 300 feet. Ex.P.9 is the registered Will
+<span class="hidden_text" id="span_8">                                11</span>
+                                                    L.A.C. No. 91/2012
+dated      02.06.1994    executed   by     Nanjundappa      S/o
+
+Chikkanna. He has executed Will in favour of his
+
+children.      Ex.P.10   and   27   are    the   encumbrance
+
+certificates in-respect of land bearing Sy.No. 46/4
+
+measuring 36 guntas situated at Gidadakonenahalli
+
+village.
+</p>
+<p id="p_16">        .13.   Ex.P.28 to 35 are certified copies of final
+
+decree passed in O.S. 8624/2017 by the 37 th Addl. City
+
+Civil and Sessions Judge at Bengaluru city (CCH-38). It
+
+reveals that the plaintiffs 1 to 6 filed the suit against
+
+the defendants 1 and 2. The plaintiffs in the said case
+
+are claimants 17, 12, 13, 16, 18 and 14 respectively in
+
+the present case. The defendants 1 and 2 in the said
+
+case are claimant No.7 and 15 of the present case. The
+
+said case ended with compromise on 23.01.2018. As
+
+per the compromise decree, 2 guntas of land fell to the
+
+share of claimant No.7 and 3 guntas of land each fell to
+
+the share of claimant No.11 to 18.
+</p>
+<p id="p_17">        .14.     I   have   carefully     perused   the   claim
+
+statements, oral evidence of PW.1 to 9 and documentary
+<span class="hidden_text" id="span_9">                            12</span>
+                                                  L.A.C. No.91/2012
+evidence placed by the claimant No.7, 11 to 18.            The
+
+claimant No.2 to 5, 8 to 10 have not appeared and
+
+resisted the case of claimant No.7, 11 to 18. I am of the
+
+opinion that, in the cross-examination of PW.s 1 to 9,
+
+nothing has been elicited by the respondent's side. I am
+
+of the opinion that case of the claimant No.7, 11 to 18
+
+is supported by oral and documentary evidence. Hence,
+
+I come to the conclusion that, originally bearing
+
+Sy.No.46/4 measuring 23 guntas out of 37 guntas,
+
+situated   at   Gidadakonenahalli    village,    belongs    to
+
+Madaiah.    As    per   compromise      decree     in   O.S.
+
+No.8624/2017, legal heirs of Madaiah divided their
+
+share in the above said 23 guntas of land. As per
+
+compromise decree, 2 guntas of land fell to the share of
+
+claimant No.7 and 3 guntas of land each fell to the
+
+share of claimant No.11 to 18. Actually the respondent
+
+No.1 has acquired the land measuring 37 guntas in
+
+Sy.No.46/4 of Gidadakonenahalli village and awarded
+
+total compensation of Rs.8,28,834/-. Out of the same,
+
+the claimant No.7, 11 to 18 are claiming 23 guntas.
+<span class="hidden_text" id="span_10">                              13</span>
+</p><p id="p_18">                                                L.A.C. No. 91/2012
+They claiming compensation as per the compromise
+
+decree passed in O.S. No.8624/2017.         I come to the
+
+conclusion   that,     out   of   said   compensation     of
+
+Rs.8,28,834/-,   the    claimant    No.7   is   entitle   for
+
+compensation amount in-respect of 2 guntas of land
+
+with accrued interest. The claimant No.11 to 18 are
+
+entitle for the compensation in-respect of 3 guntas of
+
+land each with accrued interest. Further I come to the
+
+conclusion that, the claimant No1 to 5, 8 to 10 are not
+
+present and proved their title over the acquired
+
+property. Though the claimant No.6 has appeared
+
+through her counsel, she has not filed claim statement
+
+and proved her title over the acquired property. Hence,
+
+the claimants 1 to 6, 8 to 10 are not entitle for
+
+compensation with accrued interest. Therefore, I come
+
+to the conclusion that, the reference in-respect of
+
+claimant No.1 to 6, 8 to 10 is liable to be rejected. The
+
+reference in-respect of claimant No.7, 11 to 18 is liable
+
+to be allowed. Therefore, I answer the point No.1 and 2
+
+in the affirmative and point No.3 in the negative.
+<span class="hidden_text" id="span_11">                               14</span>
+</p><p id="p_19">                                                      L.A.C. No.91/2012
+     .15.    POINT NO.4: In view of my findings on
+
+points 1 to 3, I proceed to pass the following:
+
+
+</p><blockquote id="blockquote_7">                            ORDER
+
+
+                The    reference      made     by      the
+       respondent No.1/ALAO under <a href="/doc/2587/" id="a_4">Sections 30</a>
+       and <a href="/doc/1718550/" id="a_5">31(2)</a> of the Land Acquisition Act, 1894
+       is hereby partly allowed.
+</blockquote>
+<blockquote id="blockquote_8">                The    claimant       No.7     -     Smt.
+       Honnamma W/o Madaiah is entitle for the
+       compensation amount awarded in-respect
+       of 2 guntas of land in Sy.No.46/4 of
+       Gidadakonenahalli                           village,
+       Yashawanthapura Hobli, Bengaluru North
+       Taluk.
+</blockquote>
+
+<blockquote id="blockquote_9">                The claimant No.11 - Chikkanna
+       S/o Nanjundappa, claimant No.12 - Smt.
+       Mangalamma D/o late. Madaiah and W/o
+       late. Narasimhamurthy, claimant No.13 -
+       Smt. Lakkamma D/o late. Madaiah and
+       W/o of Maruthi, claimant No.14 - Smt.
+       Siddagangamma D/o late. Madaiah and
+       W/o      Krishnappa,        claimant    No.15     -
+       Rudrappa       S/o   late    Madaiah,   claimant
+<span class="hidden_text" id="span_12">                              15</span>
+                                                      L.A.C. No. 91/2012
+       No.16 Smt. Savitha D/o late. Madaiah and
+       W/o late Chikkanna, claimant No.17 -
+       Suryanarayanagowda S/o late. Madaiah
+       and claimant No.18 - Suresh S/o late.
+       Madaiah are entitle for the compensation
+       amount in-respect of 3 guntas of land each
+       in Sy.No.46/4 of Gidadakonenahalli village,
+       Yashawanthapura Hobli, Bengaluru North
+       Taluk.
+</blockquote>
+
+<blockquote id="blockquote_10">                 The claimant No.7, 11 to 18 shall
+       have to execute indemnity bond with one
+       surety,     undertaking     to    re-deposit     the
+       compensation amount either in this court
+       or in any other court, if ordered to do so,
+       which amount they are going to receive in
+       this case.
+</blockquote><pre id="pre_3">                 The   reference        made   by       the
+       respondent      No.1/ALAO         in-respect      of
+</pre><blockquote id="blockquote_11">       claimant No.1 to 6 and 8 to 10 is hereby
+       rejected.
+</blockquote>
+
+
+<blockquote id="blockquote_12">            Draw award accordingly.</blockquote><p id="p_20">
+
+</p><p id="p_21">       (Dictated to the Judgment Writer, transcribed by her,
+revised by me and after corrections, pronounced in open
+Court on this the 17th day of December, 2019.)
+<span class="hidden_text" id="span_13">                           16</span>
+                                              L.A.C. No.91/2012
+                                 R.Y. Shashidhara)
+                        II Addl. City Civil and Sessions Judge,
+                             &amp; Spl. Judge, Bangalore
+
+                  ANNEXURE
+</p><p id="p_22">1. WITNESSES EXAMINED FOR CLAIMANTS:
+</p><blockquote id="blockquote_13">    P.W.1: Honnamma
+    P.W.2 : Chikkanna
+    P.W.3 : Mangalamma
+    P.W.4 : Lakkamma
+    P.W.5 : Siddagangamma
+    P.W.6 : Rudrappa
+    P.W.7 : Savitha
+    P.W.8 : Suryanarayana Gowda
+    P.W.9 : Suresha
+</blockquote><p id="p_23">2. DOCUMENTS MARKED FOR THE CLAIMANTS:
+</p><blockquote id="blockquote_14">    Ex.P.1            : Notice copy issued by BDA dated
+                        06.06.2003
+
+    Ex.P.2            : Notice copy issued by BDA dated
+                        25.04.2003
+
+    Ex.P.3            : Notice copy issued by BDA dated
+                        16.09.2003
+
+    Ex.P.4            : Award notice dated 09.11.2003
+
+    Ex.P.5 to 8       : RTC extracts
+
+    Ex.P.9            : Original registered
+                        relinquishment deed
+    Ex.P.10           : Encumbrance certificate
+
+    Ex.P.11           : Certified copy of mutation
+<span class="hidden_text" id="span_14">                     17</span>
+                                      L.A.C. No. 91/2012
+                 extract
+
+Ex.P.12 to 26   : RTC extracts
+
+Ex.P.27         : Encumbrance certificate
+
+Ex.P.28         : Final decree in O.S. No.8624/2017
+
+Ex.P.29         :Final decree in O.S.</blockquote><p id="p_24">
+</p><p id="p_25">                 No.8624/2017 in-respect of
+                 Suryanarayana Gowda and others Vs.
+                 Honnamma and another
+
+Ex.P.30         : Final decree in O.S.
+</p><p id="p_26">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+                   Honnamma and another
+
+Ex.P.31         : Final decree in O.S.
+</p><p id="p_27">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+                   Honnamma and another
+
+Ex.P.32         : Final decree in O.S.
+</p><p id="p_28">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+                  Honnamma and another
+
+Ex.P.33         : Final decree in O.S.
+</p><p id="p_29">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+                  Honnamma and another
+
+Ex.P.34         : Final decree in O.S.
+</p><p id="p_30">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+                  Honnamma and another
+
+Ex.P.35         : Final decree in O.S.
+</p><p id="p_31">                  No.8624/2017 in-respect of
+                  Suryanarayana Gowda and others Vs.
+<span class="hidden_text" id="span_15">                        18</span>
+                                           L.A.C. No.91/2012
+                     Honnamma and another
+
+
+</p><p id="p_32">  3.   WITNESSES EXAMINED FOR THE RESPONDENT:
+
+</p><p id="p_33">           Nil
+
+</p><p id="p_34">  4. DOCUMENTS MARKED FOR THE RESPONDENT:
+
+</p><blockquote id="blockquote_15">           Nil
+
+
+                                (R.Y. Shashidhara),
+                      II Addl. City Civil &amp; Sessions Judge,
+                               &amp; Spl. Judge Bangalore.</blockquote><p id="p_35">
+
+
+
+
+</p><p id="p_36">                            Digitally signed by RACHENAHALLI Y
+                            SHASHIDHARA
+RACHENAHALLI Y              DN: cn=RACHENAHALLI Y
+                            SHASHIDHARA,ou=HIGH COURT OF
+SHASHIDHARA                 KARNATAKA,o=GOVERNMENT OF
+                            KARNATAKA,st=Karnataka,c=IN
+                            Date: 2019.12.19 10:20:09 IST
+ 19
+     L.A.C. No. 91/2012
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

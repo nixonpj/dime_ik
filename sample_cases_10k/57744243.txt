@@ -1,0 +1,159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Satnamsingh vs Panchayat And Rural Development ... on 11 June, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/57744243/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/57744243/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/57744243/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/57744243/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">Satnamsingh vs Panchayat And Rural Development ... on 11 June, 2018</div><pre id="pre_1">                     HIGH COURT OF MADHYA PRADESH BENCH AT INDORE
+                                    W.P.No.10009/2018
+                Indore
+                11.06.2018
+
+                       Shri Arvind Sharma, learned Counsel for the petitioners.
+                       Shri Mukesh Parwal, learned GA for the respondent/State.</pre>
+<p id="p_1">                       Heard on IA No. 2386/2018 an application for early hearing and IA No.
+                2387/2018 an application for hearing during vacation.
+</p><p id="p_2">                       In view of the above, both the applications are allowed and disposed of.
+                       Heard on IA No. 2385/2018 an application for grant of interim relief.
+                       By order dt. 8.5.2018 this Court has declined the exparte interim relief.
+                       Being aggrieved by the aforesaid order, the writ petitioners preferred an
+                Writ Appeal No.634/2018. By order dt. 21.5.2018 the Division Bench of this
+                Court has set-aside the order dt. 8.5.2018 and directed that till the next date of
+                hearing before the writ court the respondents will not reduce the salary of the
+                appellants. In number of identical writ petitions, the interim relief has already
+                been granted by this Court.
+</p><p id="p_3">                       In order to maintain parity as well as keeping in view the order passed
+                by the Division Bench dt. 21.5.2018 passed in WA No. 634/2018 till the next
+                date of hearing, the respondents are restrained from reducing the salary of the
+                petitioners while giving effect to the recommendation of 6th Pay Commission.
+</p><p id="p_4">                       CC as per rules.
+</p>
+
+<p id="p_5">                                                                      (Vivek Rusia)
+                                                                      Vacation Judge
+
+
+
+M.Jilla.
+</p>
+
+
+<p id="p_6">           Digitally signed by Maharukh jilla
+           Date: 2018.06.12 11:11:41 +05'30'
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

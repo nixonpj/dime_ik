@@ -1,0 +1,1059 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Council For Advancement Of ... vs Shri Ramesh Chander on 24 January, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/89837871/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 21 docs 
+      
+        - [<A HREF="/search/?formInput=cites:89837871">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1056316/">Section 25F in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1418464/">Section 2 in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/621517/">State 0F Bombay &amp; Others vs The Hospital Mazdoor Sabha &amp; ... on 29 January, 1960</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/75183/">The Bombay Union Of Journalists ... vs The, Hindu&#39;, Bombay, And Another on 27 September, 1961</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1211873/">Section 25F(a) in The Industrial Disputes Act,   1947</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/89837871/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/89837871/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/89837871/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=notice%20pay">notice pay</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%27%27probationer%27%27">''probationer''</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=termination%20of%20service">termination of service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=notice%20period">notice period</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sahu">sahu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=probation%20period">probation period</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20letter">appointment letter</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=respondent%20is%20not%20a%20workmen">respondent is not a workmen</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=balram%20sahu">balram sahu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=daily%20wager">daily wager</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20wager"> wager</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=notice%20for%20termination">notice for termination</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=equal%20pay%20">equal pay </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cpwd">cpwd</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=temporary%20employee">temporary employee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=condition%20precedent">condition precedent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ramesh%20chander">ramesh chander</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=permanent%20employee">permanent employee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhagwati%20prasad">bhagwati prasad</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=parity">parity</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Council For Advancement Of ... vs Shri Ramesh Chander on 24 January, 2013</div><div class="doc_author">Author: Vipin Sanghi</div>
+
+<pre id="pre_1">32.
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++                       Date of Decision: 24.01.2013
+
+%       W.P.(C) 894/2007 and C.M. Nos. 1543/2007, 3985/2010 &amp;
+        3986/2010
+
+        COUNCIL FOR ADVANCEMENT OF PEOPLE‟S
+        ACTION &amp; RURAL TECHNOLOGY (CAPART) ..... Petitioner
+                      Through: Mr. S.K. Rungta, Senior Advocate
+                               along with Mr. Prashant Singh,
+                               Ms.Prateti Rungta, Ms. Rashmi
+                               Jajonia &amp; Mr. Jewan Chandra,
+                               Advocates.
+                 Versus
+
+        SHRI RAMESH CHANDER                            ..... Respondent
+                     Through:        Mr. Varun Prasad, Advocate.
+
+        CORAM:
+        HON'BLE MR. JUSTICE VIPIN SANGHI
+
+VIPIN SANGHI, J. (ORAL)
+</pre>
+<p id="p_1">1.      The petitioner management by this writ petition has assailed the
+industrial award dated 11.09.2006 made by the Central Government
+Industrial Tribunal-cum-Labour Court-II (hereinafter referred to as CGIT),
+Rajendra Bhawan, Rajendra Place, New Delhi in I.D. No.37/2003 arising out
+of the industrial disputes raised by the respondent workman, which were
+referred by the Appropriate Government for adjudication. The terms of
+reference read as follows:
+</p>
+<blockquote id="blockquote_1">        "1. Whether the demand of the union in relation to equal
+        wages for equal work as performed by Shri Ramesh Chander
+
+
+<span class="hidden_text" id="span_1">W.P.(C.) No. 894/2007                                            Page 1 of 25</span>
+         for performing the work at par with the permanent employees
+        for the period w.e.f. 01.04.1986 to 30.09.1988 as Peon and
+        w.e.f. 01.10.1988 to 01.09.1996 is just, fair and legal? If yes,
+        what relief he is entitled to and from what date.
+</blockquote>
+<blockquote id="blockquote_2">        2.    Whether the action of the management of Council for
+        Advancement of Pupil's Action and Rural Technology, New
+        Delhi in terminating the services of Shri Ramesh Chander, Ex.
+        Clerk w.e.f 21.08.1998 during probation period for not obeying
+        the lawful order of competent authority, without holding
+        domestic inquiry is just, fair and legal? If not, what relief the
+        workman is entitled to and from what date."
+</blockquote>
+
+<p id="p_2">2.      The CGIT by the impugned award answered the points of reference in
+favour of the respondent workman. In the claim statement filed by the
+respondent, he stated that he was initially employed as a Peon on daily
+wages w.e.f. 01.04.1986 and worked in that capacity up to 30.09.1988.
+Thereafter he was again appointed to the post of L.D.C. on daily wages
+w.e.f. 01.10.1988. The petitioner was issued the appointment letter dated
+20.06.1996 appointing him to the post of L.D.C. and his services were
+regularized as L.D.C. w.e.f. 02.09.1996 in the pay scale of Rs.950-20-1150-
+EB-25-1500.             This letter of appointment stated that the appointment was
+offered against a post sanctioned for the North Zone Regional Committee,
+Jaipur of the petitioner Council for Advancement of People‟s Action and
+Rural Technology (CAPART). The appointment memorandum contained,
+inter alia, the following clause:
+</p>
+<blockquote id="blockquote_3">        "2.     The appointment is subject to the following conditions:-
+</blockquote>
+<blockquote id="blockquote_4">        (i)     The appointee will be on probation for a period of two
+                years which will be extended at the discretion of the
+                competent authority. If no orders are passed by the
+
+
+<span class="hidden_text" id="span_2">W.P.(C.) No. 894/2007                                                    Page 2 of 25</span>
+                 competent authority on expiry of the said period of two
+                years, the period of probation shall be deemed to have
+                been extended till such time as specific orders are passed
+                in this regard. During the probation, he will be required
+                to undergo such training etc. as may be considered
+                necessary, as part of duty. The appointing authority,
+                however, reserves the right of terminating the service of
+                the appointee forthwith or before the expiry of notice
+                period by making payment to the appointee a sum
+                equivalent to the pay and allowances for the period of
+                notice or the unexpired portion thereof."
+</blockquote>
+<p id="p_3">3.      The respondent claimed that the appointment to the post of L.D.C. was
+of regular nature.
+</p>
+<p id="p_4">4.      The respondent further submitted that he was directed to put up two
+files mentioned in the communication dated 07.01.1998 issued by the
+petitioner management, failing which he was threatened that he would be
+suspended and disciplinary action would be initiated against him. He further
+claimed that without issuing any charge-sheet or conducting any inquiry,
+vide order dated 14.08.1998, his services were terminated with effect from
+21.08.1998.       The respondent claimed the order of termination to be a
+camouflage. It was claimed that the termination was, in fact, penal though
+on the face of it, the same appeared to be innocuous. He further claimed that
+one Sh. Rajender Kumar, Research Assistant, who was also terminated at the
+same time, was eventually taken back into service as his termination was set
+aside in a departmental appeal.        But the respondent was denied similar
+treatment. The respondent, therefore, alleged discriminatory treatment at the
+hands of the petitioner. He claimed that though he had served continuously
+from 1.4.1986 to 30.09.1988 as Peon, and thereafter as L.D.C. from
+
+
+<span class="hidden_text" id="span_3">W.P.(C.) No. 894/2007                                                  Page 3 of 25</span>
+ 01.10.1988 to 01.09.1996, whereafter his services were also regularized in
+the same position from 02.09.1996, his services were terminated on
+21.08.1998 without one month‟s notice or one month‟s pay in lieu of notice
+and he was also not paid any compensation, gratuity etc. As aforesaid, the
+termination was not preceded by any domestic enquiry. Consequently, the
+respondent claimed that the termination of his services was illegal,
+unjustified and unfair. He claimed regularization of his services from the
+date another daily wager/LDC Shri Gulshan Chadha, junior to him, was
+regularized, i.e., 01.09.1994. As is evident from the terms of reference, he
+also claimed equal wages at par with permanent employees for the period
+01.04.1986 to 30.09.1988 as Peon, and w.e.f. 01.10.1988 to 01.09.1996 as
+L.D.C. He placed reliance on office memorandum issued by the Ministry of
+Personnel, Public Grievance and Pension, Department of Personnel &amp;
+Training, Government of India, dated 07.06.1988 to claim that daily rated
+workers were also entitled to the wages equivalent to their regular counter
+parts.
+</p>
+<p id="p_5">5.       In their written statement, the petitioner management claimed that
+termination of the respondent‟s services was in accordance with the terms of
+his services contained in para 2(i) of his appointment letter dated 26.06.1996.
+It was claimed that though the termination was on account of unsatisfactory
+service and negligence on the part of the respondent, the termination order
+was innocuous and was not penal in nature. The respondent contended that
+the services of probationer may be terminated during probation if his
+performance is not satisfactory prior to the expiry of the period of probation.
+So far as the respondent‟s claim for parity in pay scale with his counterparts-
+</p>
+
+
+<span class="hidden_text" id="span_4">W.P.(C.) No. 894/2007                                                Page 4 of 25</span>
+<p id="p_6"> who were permanent employees of the petitioner, was concerned, reliance
+was placed on legal pronouncements to submit that a daily wager cannot
+claim parity of pay with regular employees even if the work performed by
+them is identical. The petitioner also set out the act of misconduct/negligence
+attributed to the respondent and also led evidence on this aspect to justify the
+termination of the respondent‟s services. The petitioner claimed that the
+respondent was sent a cheque on 14.01.2002 in lieu of one month‟s notice
+pay on 15.01.2002, which was returned by him vide letter dated 17.01.2002
+to the petitioner.      The petitioner also sought to distinguish the case of
+Rajender Kumar, Research Assistant, on the ground that the termination was
+for different reasons and, consequently, the two cases could not be
+compared.
+</p>
+<p id="p_7">6.      After recording evidence the issues for determination were taken up
+for consideration - the first being with regard to the respondent‟s claim for
+equal wages with his permanent counterparts. In this regard, the Industrial
+Adjudicator took note of the decision cited by the petitioner reported as State
+of Orissa &amp; Others Vs. Balaram Sahu &amp; Others, 2003 SCC (L&amp;S) 65.
+This decision had been rendered by following the earlier decision of the
+Supreme Court in State of Haryana Vs. Jasmer Singh, (1996) 11 SCC 77.
+The Supreme Court had disallowed the claim of equal pay for equal work
+made by the NMR workers as it was claimed by the State that the duties &amp;
+responsibilities of the employees in regular establishment were more onerous
+than those of NMR workers who were employed in various projects on daily
+basis. While disregarding the aforesaid decision, the Industrial Adjudicator
+has placed reliance on a three-judge bench of the Supreme Court in
+
+
+
+<span class="hidden_text" id="span_5">W.P.(C.) No. 894/2007                                                 Page 5 of 25</span>
+ Bhagwati Prasad Vs. Delhi State Mineral Development Corporation, 1990
+1 L.L.J. 320. The Industrial Adjudicator has also referred to the statement
+made by the petitioner‟s witness MW-1 in support of his decision.
+</p>
+<p id="p_8">7.      On the second issue-with regard to the termination being legal or
+illegal, the learned Industrial Adjudicator returned a finding in favour of the
+petitioner that the termination order is not stigmatic. It was also held that the
+services of the respondent were terminated within the period of probation of
+two years and that no inquiry was needed in case termination was stigmatic
+or punitive. However, the Industrial Adjudicator decided the said issue
+against the petitioner management since the petitioner had not paid one
+month‟s salary at the time of termination of the respondent‟s services in view
+of Clause 12(i) of the Service Bye-Laws, which read thus:
+</p>
+<blockquote id="blockquote_5">        "(i) The appointee will be on probation for a period of two
+        years which will be extended at the discretion of the competent
+        authority. If no orders are passed by the competent authority
+        on expiry of the said period of two years, the period of
+        probation shall be deemed to have been extended till such time
+        as specific orders are passed in this regard. During the
+        probation, he will be required to undergo such training etc. as
+        may be considered necessary, as part of duty. The appointing
+        authority, however, reserves the right of terminating the
+        services of the appointee forthwith or before the expiry of
+        notice period by making payment to the appointee a sum of
+        equivalent to the pay and allowances for the period of notice or
+        the unexpired portion thereof."
+</blockquote>
+
+<p id="p_9">8.      The Industrial Adjudicator also referred to the case of Sh. Rajender
+Kumar, who had been similarly terminated without payment of the salary
+and compensation for the termination period and had been reinstated on a
+
+
+<span class="hidden_text" id="span_6">W.P.(C.) No. 894/2007                                                  Page 6 of 25</span>
+ departmental appeal. Since the respondent had served the petitioner for 12
+years earlier as Peon and thereafter as L.D.C., he was held entitled for 25%
+back wages along with consequential benefits and continuity of service.
+</p>
+<p id="p_10">9.      The submissions of Mr. Rungta, learned senior counsel for the
+petitioner, in relation to the award made on the first point of reference are
+that the approach of the learned Industrial Adjudicator in disregarding the
+decision cited by the petitioner in the case of Balram Sahu (supra), by
+placing reliance on an earlier decision of the Supreme Court in Bhagwati
+Prasad (supra) was laconic. He submits that in Balram Sahu (supra), the
+Supreme Court had applied the earlier decision in Jasmer Singh (supra),
+wherein the Supreme Court had held that the persons employed on daily
+wages could not be treated at part with persons regularly appointed. Daily
+rated workers are not required to possess qualification prescribed for regular
+workers nor were they required to fulfill the requirement relating to age at
+the time of recruitment. They are not selected in the manner in which the
+regular employees are selected. Consequently, the requirements of selection
+are not as rigorous.    A regularly appointed person is also liable to be
+transferred and be subjected to disciplinary action by the authorities, to
+which the daily rated workers are not. In Balram Sahu (supra), reliance was
+placed by the respondent workman on a three-judge bench decision of the
+Supreme Court in Chief Conservator of Forests Vs. Jagannath Maruti
+Kondhare (1996) 2 SCC 293 in support of their claim for equal pay for equal
+work. The Supreme Court, however, rejected the workman‟s submission
+founded upon that decision in paragraphs 13 &amp; 14, which read as follows:
+</p>
+<blockquote id="blockquote_6">        "13. On a careful consideration of the materials placed on
+
+
+<span class="hidden_text" id="span_7">W.P.(C.) No. 894/2007                                               Page 7 of 25</span>
+         record, we are of the view that the principles firmly laid down
+        in the well-considered decision of Jasmer Singh [(1996) 11
+        SCC 77 : 1997 SCC (L&amp;S) 210] squarely applied on all fours
+        to the cases on hand and the respondent workers would be
+        entitled to only, apart from the regularization order for which
+        the appellants have had no serious objections, the payment of
+        minimum wage prescribed for such workers if it is more than
+        what they were being paid and that the High Court was in
+        serious error in directing that the respondents should be paid
+        the same salary and allowances as were being paid to the
+        regular employees holding similar posts. The respondent
+        workers cannot be held to hold any posts to claim even any
+        comparison with the regular and permanent staff, for any or
+        all purposes including a claim for equal pay and allowances.
+        The fact that no materials were placed before the High Court as
+        to the nature of duties of either categories should have been
+        viewed as a disentitling factor so far as the workers are
+        concerned and dissuaded the High Court from embarking upon
+        an inquiry in the abstract and with no factual basis and not to
+        empower the court to assume and presume equality in the
+        absence of proof to the contra or of any unequal nature of the
+        work performed by them. To claim a relief on the basis of
+        equality, it is for the claimants to substantiate a clear-cut basis
+        of equivalence and a resultant hostile discrimination before
+        becoming eligible to claim rights on a par with the other group
+        vis-à-vis an alleged discrimination. In the light of the decision
+        directly on this issue rendered in Jasmer Singh [(1996) 11 SCC
+        77 : 1997 SCC (L&amp;S) 210] we are unable to persuade ourselves
+        to countenance the claim for minimum basic salary given in
+        some unreported decisions brought to our notice which appear
+        on the face of it to be certain directions given on the peculiar
+        facts and circumstances of the same without an objective
+        consideration of any principle of law. An order made to merely
+        dispose of the case before court by issuing certain directions on
+        the facts and for the purposes of the said case, cannot have the
+        value or effect of any binding precedent and particularly in the
+        teeth of the decision in Jasmer Singh case [(1996) 11 SCC 77 :
+        1997 SCC (L&amp;S) 210] .
+</blockquote>
+
+<span class="hidden_text" id="span_8">W.P.(C.) No. 894/2007                                                   Page 8 of 25</span>
+<blockquote id="blockquote_7">         14. For all the reasons stated above, the appeals are allowed
+        and the orders of the High Court are set aside insofar as the
+        pay equal to that of the regular employed staff has been
+        ordered to be given to the NMR/daily-wager/casual workers,
+        as indicated above, to which they will not be eligible or
+        entitled, till they are regularized and taken as the permanent
+        members of the establishment. For the period prior to such
+        permanent status/regularization, they would be entitled to be
+        paid only at the rate of the minimum wages prescribed or
+        notified, if it is more than what they were being paid as
+        ordered by this Court in Jasmer Singh case [(1996) 11 SCC 77
+        : 1997 SCC (L&amp;S) 210] . There will be no order as to costs".
+</blockquote>
+<blockquote id="blockquote_8">                                                  [Emphasis supplied ]
+
+
+
+</blockquote><p id="p_11">10.     Consequently, learned senior counsel for the petitioner submits that
+the Industrial Adjudicator could not have disregarded the decision of the
+Supreme Court in Balram Sahu (supra) and that being the latest decision
+rendered after consideration of the earlier decisions, was binding and ought
+to have been followed by the Industrial Adjudicator.
+</p>
+<p id="p_12">11.     Mr. Rungta has also drawn the attention of the Court to the decision of
+the Supreme Court in Secretary, State of Karnataka &amp; Others Vs. Umadevi
+&amp; Others, AIR 2006 SC 1806, and in particular paragraph 46 thereof, to
+submit that the respondent workman, as a casual employee, could not seek
+parity of pay scale or wages with permanent counterparts. In the relevant
+paragraph 46 of its decision in Umadevi (supra), the Supreme Court
+observed as follows:
+</p>
+<blockquote id="blockquote_9">        "46. ... .... .... We are, therefore, of the view that, at best, the
+        Division Bench of the High Court should have directed that
+        wages equal to the salary that are being paid to regular
+
+<span class="hidden_text" id="span_9">W.P.(C.) No. 894/2007                                                Page 9 of 25</span>
+         employees be paid to these daily wage employees with effect
+        from the date of its judgment. Hence, that part of the direction
+        of the Division Bench is modified and it is directed that these
+        daily wage earners be paid wages equal to the salary at the
+        lowest grade of employees of their cadre in the Commercial
+        Taxes Department in government service, from the date of the
+        judgment of the Division Bench of the High Court. Since,
+        they are only daily wage earners, there would be no question
+        of other allowances being paid to them ... .... .....".
+</blockquote>
+<blockquote id="blockquote_10">                                                     (Emphasis supplied)
+
+</blockquote><p id="p_13">12.     So far as the award made on the second issue is concerned, Mr.Rungta
+submits that the finding retuned by the Tribunal is in favour of the petitioner
+that the termination was made during the period of probation, and was non-
+stigmatic.     However, the reference has been answered in favour of the
+respondent and the termination has been held to be illegal only on account of
+the fact that payment of one month‟s salary in lieu of notice period has not
+been made in terms of Section 12(1) of the Service Bye-Laws quoted above,
+simultaneously at the time of termination of the respondent‟s services.
+</p>
+<p id="p_14">13.     Mr. Rungta submits that the mere failure to make payment of the
+salary for the notice period would not render the termination illegal, much
+less null &amp; void. Mr. Rungta submits that the services of the respondent
+probationer could have been terminated without notice under Bye Law
+13(1)(i). the said Bye-Law reads as follows:
+</p>
+<blockquote id="blockquote_11">        "13. Termination of Service:
+</blockquote>
+<blockquote id="blockquote_12">                1. The service of an employee may be terminated by the
+                   appointing authority.
+</blockquote>
+<blockquote id="blockquote_13">                    i) during the period of probation or extended period
+
+<span class="hidden_text" id="span_10">W.P.(C.) No. 894/2007                                                Page 10 of 25</span>
+                         of probation following the first appointment, by a
+                        notice of one month in writing or on payment of
+                        pay for such period as the notice shall short of
+                        one month or at any time without notice on
+                        payment of one months' pay".
+</blockquote>
+
+<p id="p_15">14.     In support of his submission Mr. Rungta has placed reliance on
+Oriental Insurance Company Limited Vs. T. Mohammed Raisuli Hassan,
+(1993) 1 SC 553, wherein the Supreme Court held as follows:
+</p>
+<blockquote id="blockquote_14">        "5. When the above term in the clause relating to the condition
+        of service of the respondent with the appellant is seen as a
+        whole, there is nothing to indicate or suggest, even remotely,
+        that non-service of one month's notice as a condition precedent
+        for termination of the respondent's service would result in
+        vitiation or invalidation of termination, if effected. On the
+        contrary, the second part of the term contained in the clause,
+        "breach of this condition, will entitle the company to recover
+        from you one month's salary in lieu of notice" makes it obvious
+        that the same would be the consequence if there was a breach
+        of condition on the part of the company in the matter of service
+        of one month's notice before termination of the respondent's
+        service. Hence, we are constrained to hold that the non-service
+        of one month's notice in writing by the appellant to the
+        respondent before terminating the latter's service did not
+        invalidate or vitiate such termination. From this, it follows that
+        courts below had misread the said clause, by which either party
+        was required to serve notice for putting an end to service of the
+        respondent and consequently committed an apparent error in
+        taking the view that non-service of one month's prior notice to
+        the respondent had vitiated the termination of his service.
+</blockquote>
+<p id="p_16">15.     He also places reliance on the judgment of the learned Single Judge of
+the Andhra Pradesh High Court in P. Usha Radhey Mohan Vs. M.V. Ramu,
+Manager (Personnel) CMC, Hyderabad, 1998 LawSuit (AP) 4, decided on
+
+
+<span class="hidden_text" id="span_11">W.P.(C.) No. 894/2007                                                  Page 11 of 25</span>
+ 01.01.1998. In this case, the Andhra Pradesh High Court placed reliance on
+the decision of the Supreme Court in Oriental Insurance (supra) and
+observed as follows:
+</p>
+<blockquote id="blockquote_15">        "5. The Supreme Court took the same view in <a href="/doc/1010226/" id="a_1">Oriental
+        Insurance Co. Ltd. v. T. Mohammed Raisuli Hassan</a>, 1982 FJR
+</blockquote><blockquote id="blockquote_16">        242. The Supreme Court held that there was nothing to
+        indicate or suggest, even remotely, that the non service of one
+        month's notice as a condition precedent for termination of the
+        employee's service would result in vitiation or invalidation of
+        the termination. Service of such notice as a condition
+        precedent to terminating the service of the employee is not a
+        mandatory requirement so that the breach of the same could
+        result in vitiation of that termination. The Supreme Court
+        further observed that the non service of one month's notice
+        before termination of the employees service would, at the most,
+        entitle him to claim one month's salary in lieu thereof and
+        nothing else."
+</blockquote>
+
+<p id="p_17">16.     On the other hand, the submission of learned counsel for the
+respondent is that so far as the finding of the first issue/reference is
+concerned, the same is not premised only on the judgment of the Supreme
+Court in Bhagwati Prasad (supra). He submits that in the cross-examination
+of the petitioner‟s witness, the said witness had admitted that "at the time of
+daily wagers were performing duties in our establishment they were allowed
+to the payments and other benefits as per the instruction of Central
+Government".
+</p>
+<p id="p_18">17.     Learned counsel for the respondent has also sought to place reliance
+on the Office Memorandum dated 21.10.1990 issued by the Directorate
+General of Works, CPWD, Government of India, in pursuance of the
+
+
+
+<span class="hidden_text" id="span_12">W.P.(C.) No. 894/2007                                               Page 12 of 25</span>
+ Supreme Court judgment in the case of Surinder Singh &amp; Anr. Vs.
+Engineer-in-Chief, CPWD &amp; Others (1986) 1 SCC 639 decided on
+17.01.1986, whereby the method of calculation of wages of daily rated
+workers was provided. This memorandum provided that the total monthly
+emoluments admissible to regular counterparts of the daily rated workers, at
+the minimum of the respective scale of pay, may be multiplied by the
+number of days in a particular month after deducting therefrom the days of
+absence plus the days of rest falling in the week/weeks in which the worker
+remained absent and the result may be divided by number of days in the
+month. The figure so arrived at will be the daily rate of wages for the
+worker.
+</p>
+<p id="p_19">18.     So far as the second aspect is concerned, i.e., with regard to the
+respondents termination, learned counsel for the respondent submits that the
+petitioners have not even raised the challenge to the finding of the Industrial
+Adjudicator in favour of the respondent on the ground of discrimination.
+Learned counsel submits that the case of Rajender Kumar, who was
+identically placed with the respondent, has not been disputed by the
+petitioner. He has also tendered in Court the copy of the memorandum dated
+04.09.1998 issued to Sh. Rajender Kumar, terminating his services while he
+was on probation and the order passed in the appeal preferred by him to the
+Chairman, EC, CAPART on 25.05.2000.             In this order, the Chairman
+observed as follows:
+</p>
+<blockquote id="blockquote_17">        "WHEREAS the appeal has been considered by the Chairman,
+        CAPART vis a vis provision of Bye-Law 12(1) and (2) (ii) and
+        13(1) (i) and the terms of letter of appointment. It is observed
+        therefrom that it is mandatory to give one month's notice or
+
+
+<span class="hidden_text" id="span_13">W.P.(C.) No. 894/2007                                               Page 13 of 25</span>
+          payment of such period as the notice falls short of one month
+         before terminating of services. The said stipulation of the Bye-
+         Laws and terms of appointment letter has not been complied
+         with in the instant case and to that extent the order of
+         termination could be construed to be in contravention of the
+         Bye-Laws and the stipulation of the appointment letter.
+</blockquote>
+<blockquote id="blockquote_18">         NOW THEREFORE, the Chairman, CAPART hereby accepts
+         the appeal preferred by Shri Rajendra Kumar and directs his
+         re-appointment to the post of Research Assistant w.e.f. the date
+         of his re-joining the service in CAPART. The intermittent
+         period between the date of termination of his services and his
+         re-joining the services will be treated as dies non and will not
+         count for any purpose for the service rendered in CAPART. It
+         is further ordered that his period of probation could be
+         extended if considered necessary."
+</blockquote>
+<p id="p_20">19.      He further submits that the appointment order in respect of the
+respondent was issued on 26.06.1996, whereas his termination has taken
+place on 14.08.1998, i.e., after two years of service in probation. He submits
+that the termination was, therefore, beyond the period of probation of two
+years.     Learned counsel further submits that in cross-examination the
+petitioner‟s witness had admitted that the termination of the respondent was
+based on misconduct. He submits that the same was, therefore, punitive.
+</p>
+<p id="p_21">20.      The next submission of the learned counsel for the respondent is that,
+in any event, the respondent was entitled to protection under <a href="/doc/1056316/" id="a_2">Section 25-F</a> of
+the Industrial Disputes Act, 1947 (hereinafter referred to as the Act) since he
+had continuously been serving for 12 years-earlier as a Peon and thereafter
+as L.D.C.       He submits that even a probationer is entitled to protection
+available to a workman under the Act, as a probationer is also a workman.
+Consequently, <a href="/doc/1056316/" id="a_3">Section 25-F</a> had application and termination of service in
+
+
+<span class="hidden_text" id="span_14">W.P.(C.) No. 894/2007                                                Page 14 of 25</span>
+ breach of <a href="/doc/1056316/" id="a_4">Section 25-F</a>, i.e., without payment of compensation
+simultaneously in terms of <a href="/doc/1056316/" id="a_5">Section 25-F</a> (a) &amp; (b) would be null &amp; void. In
+this regard, he has placed reliance on the decision of Division Bench of this
+Court in Delhi Cantonment Board Vs. Central Government Industrial
+Tribunal &amp; Others, 2006 (88) DRJ 75 (DB), wherein the Division Bench has
+observed:
+</p>
+<blockquote id="blockquote_19">    "4. Learned counsel for the appellant submitted that the
+    respondents were on probation and hence their services could be
+    terminated without enquiry. In our opinion, the basic flaw in this
+    argument is that it relies on a principle of service law, whereas we
+    are concerned with industrial law. The principle of one branch of
+    law cannot be automatically applied in another branch.
+</blockquote>
+<blockquote id="blockquote_20">    5. In service law there is an important difference between a
+    temporary employee and a permanent employee. A permanent
+    employee has a right to the post whereas a temporary employee
+    does not, vide <a href="/doc/1489350/" id="a_6">State of U.P. v. Kaushal Kishore Shukla</a>:
+    [1991]1SCR29 . However, there is no such distinction in industrial
+    law. It may be noted that the <a href="/doc/500379/" id="a_7">Industrial Disputes Act</a> makes no
+    distinction between a permanent employee and a temporary
+    employee (whether a probationer, casual, daily wage or adhoc
+    employee).
+</blockquote>
+<blockquote id="blockquote_21">    8. Thus, it has been held in Chief Engineer (Irrigation) Chepauk,
+    Madras v. N.Natesan (1973) II LLJ 446 (Mad.) and in
+    <a href="/doc/108226/" id="a_8">Management of Crompton Engineering Co.(Madras) Private Ltd.
+    v. Presiding Officer, Additional Labour</a> Court (1974) I LLJ 459
+    (Mad.) that even a temporary employee falls within the definition
+    of workman. Similarly in <a href="/doc/1723239/" id="a_9">Elumalai v. Management of Simplex
+    Concrete Piles (India) Ltd</a>. (1970)IILLJ454Mad and <a href="/doc/1128958/" id="a_10">Tapan Kumar
+    Jena v. General Manager, Calcutta Telephones</a> (1981) L.I.C. 68
+    (Cal.) it was held that a casual employee is also a workman. In
+    other words, every person employed in an industry, irrespective
+    of whether he is temporary, permanent or a probationer is a
+    workman vide <a href="/doc/480786/" id="a_11">Hutchiah v. Karnataka State Road Transport
+
+
+<span class="hidden_text" id="span_15">W.P.(C.) No. 894/2007                                               Page 15 of 25</span>
+       Corporation</a> (1983)ILLJ30Kant , provided he is doing the kind
+      of work mentioned in <a href="/doc/1418464/" id="a_12">Section 2(s)</a>."
+</blockquote>
+<blockquote id="blockquote_22">      9. Since the respondents were workmen under the <a href="/doc/500379/" id="a_13">Industrial
+      Disputes Act</a>, <a href="/doc/1056316/" id="a_14">Section 25F</a> of the Act had to be complied with if
+      they had put in 240 days of service in the year prior to the date of
+      termination of service. Respondents had admittedly put in over
+      240 days of service. Hence the termination of their service was
+      illegal, since compliance of <a href="/doc/1056316/" id="a_15">Section 25F</a> is a condition precedent to
+      the termination of service vide <a href="/doc/621517/" id="a_16">State of Bombay v. Hospital Mazdur
+      Sabha</a> (1960)ILLJ251SC , National Iron &amp; Steel Co.Ltd. v. State
+      of West Bengal (1967)IILLJ23SC , Mohanlal v. Management of
+      Bharat Electronics Ltd. 1981 LIC 806 <a href="/doc/465854/" id="a_17">SC, Avon Services
+      (Production Agencies) Ltd. v. Industrial Tribunal</a> (1979)ILLJ1SC .
+      etc."
+</blockquote>
+<p id="p_22">21.      He also places reliance on Anoop Sharma Vs. Executive Engineer,
+Public Health Division No.1, Panipat ( Haryana), (2010) 5 SCC 497, and,
+in particular, paragraphs 17, 23 &amp; 24 thereof, to submit that the failure to
+make payment of the salary, payable at the time of termination would render
+the termination a nullity. The relevant extracts from this decision read as
+follows:
+</p>
+<blockquote id="blockquote_23">         "17. This Court has repeatedly held that <a href="/doc/1211873/" id="a_18">Sections 25-F(a)</a> and
+</blockquote><blockquote id="blockquote_24">         (b) of the Act are mandatory and non-compliance therewith
+         renders the retrenchment of an employee nullity--<a href="/doc/621517/" id="a_19">State of
+         Bombay v. Hospital Mazdoor Sabha</a> [ AIR 1960 SC 610] ,
+         <a href="/doc/75183/" id="a_20">Bombay Union of Journalists v. State of Bombay</a> [ AIR 1964 SC
+         1617 : (1964) 6 SCR 22] , SBI v. N. Sundara Money [(1976) 1
+         SCC 822 : 1976 SCC (L&amp;S) 132] , <a href="/doc/334832/" id="a_21">Santosh Gupta v. State Bank
+         of Patiala</a> [(1980) 3 SCC 340 : 1980 SCC (L&amp;S) 409] , <a href="/doc/538062/" id="a_22">Mohan
+         Lal v. Bharat Electronics Ltd</a>. [(1981) 3 SCC 225 : 1981 SCC
+         (L&amp;S) 478] , <a href="/doc/1242852/" id="a_23">L. Robert D'Souza v. Southern Railway</a> [(1982) 1
+         SCC 645 : 1982 SCC (L&amp;S) 124] , <a href="/doc/1201719/" id="a_24">Surendra Kumar Verma v.
+         Central Govt. Industrial Tribunal-cum-Labour</a> Court [(1980) 4
+         SCC 443 : 1981 SCC (L&amp;S) 16] , Gammon India Ltd. v.
+</blockquote>
+
+<span class="hidden_text" id="span_16">W.P.(C.) No. 894/2007                                                 Page 16 of 25</span>
+<blockquote id="blockquote_25">         Niranjan Dass [(1984) 1 SCC 509 : 1984 SCC (L&amp;S) 144] ,
+        <a href="/doc/1934289/" id="a_25">Gurmail Singh v. State of Punjab</a> [(1991) 1 SCC 189 : 1991
+        SCC (L&amp;S) 147] and <a href="/doc/1976360/" id="a_26">Pramod Jha v. State of Bihar</a> [(2003) 4
+        SCC 619 : 2003 SCC (L&amp;S) 545] .
+</blockquote>
+<blockquote id="blockquote_26">        23.     The stage is now set for considering whether the
+        respondent had offered compensation to the appellant before
+        discontinuing his engagement/employment, which amounts to
+        retrenchment within the meaning of <a href="/doc/1418464/" id="a_27">Section 2(oo)</a> of the Act. In
+        his statement, the appellant categorically stated that before
+        discontinuing his service, the respondent did not give him
+        notice pay and retrenchment compensation. Shri Ram Chander,
+        who appeared as the sole witness on behalf of the respondent
+        stated that the compensation amounting to Rs 5491 was offered
+        to the appellant along with letter, Ext. M-1, but he refused to
+        accept the same. The respondent did not examine any other
+        witness to corroborate the testimony of Ram Chander and no
+        contemporaneous document was produced to prove that the
+        compensation was offered to the appellant on 25-4-1998. Not
+        only this, the respondent did not explain as to why the demand
+        draft was sent to the appellant after more than three months of
+        his alleged refusal to accept the compensation on 25-4-1998.
+</blockquote>
+
+<blockquote id="blockquote_27">        24. If there was any grain of truth in the respondent's
+        assertion that the compensation was offered to the appellant on
+        25-4-1998 and he refused to accept the same, there could be no
+        justification for not sending the demand draft by post
+        immediately after the appellant's refusal to accept the offer of
+        compensation. The minimum which the respondent ought to
+        have done was to produce the letter with which the draft was
+        sent at the appellant's residence. The contents of that letter
+        would have shown whether the offer of compensation was made
+        to the appellant on 25-4-1998 and he refused to accept the
+        same. However, the fact of the matter is that no such document
+        was produced. Therefore, we are convinced that the finding
+        recorded by the Labour Court on the issue of non-compliance
+        with <a href="/doc/1056316/" id="a_28">Section 25-F</a> of the Act was based on correct appreciation
+        of the pleadings and evidence of the parties and the High Court
+
+<span class="hidden_text" id="span_17">W.P.(C.) No. 894/2007                                               Page 17 of 25</span>
+         committed serious error by setting aside the award of
+        reinstatement."
+</blockquote><blockquote id="blockquote_28">                                                   (Emphasis supplied)
+
+</blockquote><blockquote id="blockquote_29">22.     He also refers to the judgment of the Supreme Court in Devinder
+Singh Vs. Municipal Council, Sanaur, AIR 2011 SC 2532, wherein the
+Supreme Court observed:
+</blockquote>
+<blockquote id="blockquote_30">        "13. The source of employment, the method of recruitment, the
+        terms and conditions of employment/contract of service, the
+        quantum of wages/pay and the mode of payment are not at all
+        relevant for deciding whether or not a person is a workman
+        within the meaning of <a href="/doc/1418464/" id="a_29">Section 2(s)</a> of the Act.
+</blockquote>
+<blockquote id="blockquote_31">        14. It is apposite to observe that the definition of workman
+        also does not make any distinction between full-time and part-
+        time employee or a person appointed on contract basis. There
+        is nothing in the plain language of <a href="/doc/1418464/" id="a_30">Section 2(s)</a> from which it
+        can be inferred that only a person employed on a regular basis
+        or a person employed for doing whole-time job is a workman
+        and the one employed on temporary, part-time or contract basis
+        on fixed wages or as a casual employee or for doing duty for
+        fixed hours is not a workman.
+</blockquote>
+<blockquote id="blockquote_32">        15. Whenever an employer challenges the maintainability of
+        industrial dispute on the ground that the employee is not a
+        workman within the meaning of <a href="/doc/1418464/" id="a_31">Section 2(s)</a> of the Act, what the
+        Labour Court/Industrial Tribunal is required to consider is
+        whether the person is employed in an industry for hire or
+        reward for doing manual, unskilled, skilled, operational,
+        technical or clerical work in an industry. Once the test of
+        employment for hire or reward for doing the specified type of
+        work is satisfied, the employee would fall within the definition
+        of "workman".
+</blockquote>
+<blockquote id="blockquote_33">        20. This Court has repeatedly held that the provisions
+        contained in <a href="/doc/1211873/" id="a_32">Sections 25-F(a)</a> and (b) are mandatory and
+
+
+<span class="hidden_text" id="span_18">W.P.(C.) No. 894/2007                                               Page 18 of 25</span>
+         termination of the service of a workman, which amounts to
+        retrenchment within the meaning of <a href="/doc/1418464/" id="a_33">Section 2(oo)</a> without
+        giving one month's notice or pay in lieu thereof and
+        retrenchment         compensation       is      null      and
+        void/illegal/inoperative. <a href="/doc/621517/" id="a_34">State of Bombay v. Hospital Mazdoor
+        Sabha</a> [ AIR 1960 SC 610] , <a href="/doc/75183/" id="a_35">Bombay Union of Journalists v.
+        State of Bombay</a> [ AIR 1964 SC 1617] , SBI v. N. Sundara
+        Money [(1976) 1 SCC 822 : 1976 SCC (L&amp;S) 132] , <a href="/doc/334832/" id="a_36">Santosh
+        Gupta v. State Bank of Patiala</a> [(1980) 3 SCC 340 : 1980 SCC
+        (L&amp;S) 409] , <a href="/doc/538062/" id="a_37">Mohan Lal v. Bharat Electronics Ltd</a>. [(1981) 3
+        SCC 225 : 1981 SCC (L&amp;S) 478] , <a href="/doc/1242852/" id="a_38">L. Robert D'Souza v.
+        Southern Railway</a> [(1982) 1 SCC 645 : 1982 SCC (L&amp;S) 124] ,
+        <a href="/doc/1201719/" id="a_39">Surendra Kumar Verma v. Central Govt. Industrial Tribunal</a>-
+        cum-Labour Court [(1980) 4 SCC 443 : 1981 SCC (L&amp;S) 16] ,
+        <a href="/doc/327865/" id="a_40">Gammon India Ltd. v. Niranjan Dass</a> [(1984) 1 SCC 509 : 1984
+        SCC (L&amp;S) 144] , <a href="/doc/1934289/" id="a_41">Gurmail Singh v. State of Punjab</a> [(1991) 1
+        SCC 189 : 1991 SCC (L&amp;S) 147] and <a href="/doc/1976360/" id="a_42">Pramod Jha v. State of
+        Bihar</a> [(2003) 4 SCC 619 : 2003 SCC (L&amp;S) 545] ."
+</blockquote><blockquote id="blockquote_34">                                                  [Emphasis supplied ]
+</blockquote><blockquote id="blockquote_35">23.     In his rejoinder, Mr. Rungta, learned senior counsel for the petitioner
+has submitted that, in fact, the petitioner does not fall within the definition of
+the expression „industry‟ as it is only engaged in providing grants to
+voluntary organizations for promoting rural technology. He submits that the
+respondent did not invoke <a href="/doc/1056316/" id="a_43">Section 25-F</a> before the Industrial Tribunal and
+the petitioner did not have the occasion to meet the said submission.
+</blockquote><p id="p_23">Consequently, the respondent should not be permitted to rely upon <a href="/doc/1056316/" id="a_44">Section
+25-F</a> at this stage.       He further submits that the termination of the
+respondent‟s services would not amount to „retrenchment‟ as defined in the
+Act. He submits that the said termination falls within <a href="/doc/1418464/" id="a_45">Section 2(oo)</a> as the
+respondent‟s termination has taken place under a stipulation contained in the
+memorandum appointing him.
+</p>
+
+
+<span class="hidden_text" id="span_19">W.P.(C.) No. 894/2007                                                  Page 19 of 25</span>
+<p id="p_24"> 24.      Mr. Rungta submits that in Devender Singh (supra) relied upon by the
+respondent, the Supreme Court had not permitted the respondent employer to
+raise the plea that the action is covered by <a href="/doc/1418464/" id="a_46">Section 2(oo)</a> because no material
+was produced by the employer to show that the engagement of the appellant
+workman was discontinued by relying upon the terms &amp; conditions of the
+employment.
+</p>
+<p id="p_25">25.      So far as the petitioner‟s grievance in relation to the adjudication on
+the first point of reference is concerned, I find that there is merit in the same.
+It is now well-settled that a workman appointed and working as a casual
+worker/daily wager de hors the recruitment rules, for which no regular
+vacancy exists, cannot claim parity of pay with his regular counterparts.
+</p>
+<p id="p_26">26.      The submission of Mr. Rungta that the Industrial Adjudicator erred in
+not following judgment of the Supreme Court in Balram Sahu (supra) and,
+instead, relied upon Bhagwati Prasad (supra) is well founded. In Balram
+Sahu (supra), the Supreme Court had relied upon its earlier decision in
+Jasmer Singh (supra), wherein the distinction between persons employed on
+daily wages and those regularly appointed was clearly brought out. The
+nature     of    their   engagement;    responsibilities,   age,   qualifications,
+accountability, rights and; obligations differ substantially. The Constitution
+Bench in Umadevi (supra) placed the matter absolutely beyond any doubt in
+this respect. Consequently, merely because the casual worker/daily wager
+may be performing what seem like the same job as the regular counterpart,
+he would not become entitled to receive pay as payable to the regular
+workman.
+</p>
+
+
+<span class="hidden_text" id="span_20">W.P.(C.) No. 894/2007                                                  Page 20 of 25</span>
+<p id="p_27"> 27.     At the same time, the Director General of Works, CPWD,
+Government of India has issued the memorandum dated 21.10.1990 in
+pursuance of the decision of the Supreme Court in Surinder Singh (supra).
+The petitioner CAPART is a society under the aegis of Ministry of Rural
+Development, Government of India.         The aforesaid memorandum dated
+21.10.1990 issued by the Government of India in respect of the Directorate
+General of Works, CPWD would get attracted to the petitioner as the
+petitioner just like the CPWD are two different wings of the same body, i.e.,
+the Government of India. The respondent, in my view, be entitled to be paid
+wages in terms of the said office memorandum dated 21.10.1990. This
+memorandum stipulates:
+</p>
+<blockquote id="blockquote_36">        "The total monthly emoluments admissible to regular
+        counterparts of the daily rated workers at the minimum of the
+        respective scale of pay may be multiplied by number of days in
+        a particular month after deducting therefrom the days of
+        absence plus the days of rest falling in the week/weeks in which
+        the worker remained absent and the result may be divided by
+        number of days in the month. The figure so arrived will be the
+        daily rate of wages of the worker."
+</blockquote>
+<p id="p_28">The impugned award in respect of the first term of reference stands modified
+to that extent.
+</p>
+<p id="p_29">28.     The respondent was initially appointed as a Peon on daily wages w.e.f.
+01.04.1986 and worked in that capacity till 30.09.1988. Thereafter, he was
+appointed to the post of L.D.C. on daily wages w.e.f. 01.10.1988. Vide
+appointment letter dated 20.06.1996, he was regularly appointed as LDC
+w.e.f. 02.09.1996 in the relevant pay scale. Merely because the petitioner
+made the respondent‟s appointment to the post of LDC on probation, it
+
+
+<span class="hidden_text" id="span_21">W.P.(C.) No. 894/2007                                               Page 21 of 25</span>
+ would not mean that the respondent could, firstly, be continued in probation
+for an indefinite period and, secondly, even if his probation was continued
+indefinitely, and his services were found to be unsatisfactory, his services
+could have been terminated without compliance of <a href="/doc/1056316/" id="a_47">Sections 25-F</a> &amp; <a href="/doc/41851/" id="a_48">25-G</a>.
+In any event, he would, in that eventuality, be entitled to revert to his
+original position as a Peon.
+</p>
+<p id="p_30">29.     The submission of Mr. Rungta that because the respondent was a
+probationer, his services could be dispensed with any time, cannot be
+accepted in absolute terms. The right vested in the respondent on account of
+his having worked for more than 240 days initially as a Peon between
+01.04.1986 to 30.09.1988 and, thereafter, as LDC w.e.f. 01.10.1988 till the
+date of his termination, in a calendar year and in the year preceding his
+termination, by virtue of <a href="/doc/1056316/" id="a_49">Section 25-F</a> could not be taken away merely on
+account of the fact that the respondent was a probationer. Pertinently, the
+so-called probation of the respondent continued from 02.09.1996 till the date
+of his termination, i.e., 14.08.1998.     In all, the respondent served the
+petitioner for a period of about 12 years - initially as a Peon and, thereafter,
+as LDC.       I agree with learned counsel for the respondent that even a
+probationer is a workman under the Act. This is clear from the various
+decisions cited by the respondent including the decision of the Division
+Bench in Delhi Cantonment Board (supra).
+</p>
+<p id="p_31">30.     The submission of Mr. Rungta that the failure to make payment of the
+notice pay/compensation at the time of termination would not be fatal to the
+termination order, also has no merit. The decision in T. Mohammed Raisuli
+Hassan (supra) was rendered by the Supreme Court in the context of a
+
+
+<span class="hidden_text" id="span_22">W.P.(C.) No. 894/2007                                                Page 22 of 25</span>
+ materially differently worded clause. The clause considered by the Supreme
+Court, in terms, provided that "breach of this condition will entitle the
+company to recover from you one month's salary in lieu of notice", which
+made it obvious that the same would be the consequence, if there was a
+breach of condition on the part of the company in the matter of service of
+one month‟s notice before termination of the respondent‟s service.
+However, in the present case, bye-law 13(i) extracted above, does not state
+that the failure to give one month‟s notice or pay in lieu thereof would not
+invalidate the order of termination of the probation. On the other hand,
+Anoop Sharma (supra) while taking note of various earlier decisions re-
+emphasises the legal position that <a href="/doc/1056316/" id="a_50">Sections 25-F</a> (a) &amp; (b) of the Act are
+mandatory and non-compliance thereof would render the retrenchment of an
+employee a nullity. To the same effect is the judgment in Devinder Singh
+(supra).
+</p>
+<p id="p_32">31.     I cannot permit the petitioner to raise, at this stage, a submission that
+the petitioner is not an industry. No such submission was raised before the
+Labour Court. The Labour Court has not examined the said issue on the
+basis of the evidence that the parties may have led, had the issue been raised.
+</p>
+<p id="p_33">32.     The submission that the termination of the respondent falls within
+<a href="/doc/1418464/" id="a_51">Section 2(oo)(bb)</a> of the Act also has no merit. The said provision excludes
+from the realm of "retrenchment" the termination of the services of the
+workman as a result of non-renewal of contract of employment between the
+employer and the workman on its expiry, or of such contract being
+terminated under a stipulation in that behalf contained therein. In the present
+case, <a href="/doc/1418464/" id="a_52">section 2(oo)(bb)</a> is not applicable because the contract of employment
+
+
+<span class="hidden_text" id="span_23">W.P.(C.) No. 894/2007                                                 Page 23 of 25</span>
+ was not a fixed term contract.
+</p>
+<p id="p_34">33.     The termination of the respondent‟s services by resort to Clause 2(i) of
+the memorandum dated 26.06.1996 is not an order since the memorandum
+dated 14.08.1998 terminating the respondent‟s services did not comply with
+the condition prescribed in Clause 2(i) of the memorandum dated
+26.06.1996, i.e., "by making payment to the appointee a sum equivalent to
+the pay &amp; allowances for the period of notice or unexpired portion thereof".
+</p>
+<p id="p_35">34.     The petitioner has not been able to establish before the Labour Court
+that it had sent the notice pay to the respondent contemporaneously with the
+termination notice. The Labour Court has returned a finding of fact in this
+respect and has also held that the cheque was sent to the respondent
+workman in 2002, which was then received by him. Since the notice pay
+was not sent to the respondent along with the termination order, the said
+termination order was, obviously, bad as the bye-law did not give leeway to
+the petitioner to send the notice pay on a subsequent date and did not save
+the termination order sent without a notice pay from invalidity.
+</p>
+<p id="p_36">35.     I also find merit in the submission of the respondent that the petitioner
+has not been able to explain the discriminatory treatment meted out to the
+respondent in comparison with Sh. Rajinder Kumar, whose case was
+identically situated as that of the petitioner.       In fact, in the case of
+Sh.Rajinder Kumar the petitioner admitted that the termination order, of the
+kind issued to the respondent, was illegal as it is mandatory to give one
+month‟s notice or payment for such period of notice under bye-law 12(i) and
+12(2) (2).
+</p>
+
+
+<span class="hidden_text" id="span_24">W.P.(C.) No. 894/2007                                                 Page 24 of 25</span>
+<p id="p_37"> 36.     In view of the aforesaid discussion, the writ petition is partly allowed
+in the terms aforesaid.
+</p>
+<p id="p_38">37.     The parties are left to bear their respective Costs.
+</p>
+
+
+
+<p id="p_39">                                                               VIPIN SANGHI, J.
+</p><p id="p_40">JANUARY 24, 2013
+BSR
+
+
+
+
+<span class="hidden_text" id="span_25">W.P.(C.) No. 894/2007                                                  Page 25 of 25</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

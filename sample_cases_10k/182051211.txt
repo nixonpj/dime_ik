@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>WP/24104W/2018 on 7 December, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/182051211/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/182051211/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/182051211/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/182051211/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">WP/24104W/2018 on 7 December, 2018</div><pre id="pre_1">                                     1
+
+07.12.2018
+  sl. 8                         W. P. No. 24104 (W) of 2018
+   pk
+
+             Mr. S. N. De,
+             Mr. Harish Chandra Talwar
+                                         ... for the petitioners.
+
+             Mr. Ashit Kumar Chakraborty,
+             Mr. Sunanda Mohan Ghosh
+                        ... for the respondent nos. 6 and 7.</pre>
+
+<p id="p_1">             Mr. Raja Saha,
+             Mr. Amit Kumar Ghosh
+                                                  ... for the State.
+</p>
+<p id="p_2">
+             The instant writ application has been filed against an order dated
+
+   15th June, 2018 passed by the Deputy Registrar of Co-operative Societies,
+
+   KMAH, who is also in charge of the duties of the Joint Registrar.
+
+</p><p id="p_3">             Before the said Deputy Registrar the Society had urged a two fold
+
+   points- (a) that the review application was barred by limitation in view of
+
+   the provisions of the 2006 Act and (b) that a direction of the Court dated
+
+   11th May, 2018 in W. P. No. 30007(W) of 2015 was on the Joint Registrar to
+
+   consider the application for review.
+</p>
+<p id="p_4">             On the aforesaid two questions the Deputy Registrar accepting the
+
+   submissions of the Society held that since the direction was upon the Joint
+
+   Registrar he was not willing to hear out the review application.
+
+</p><p id="p_5">             This Court is surprised at the conduct of the Society as well as the
+
+   manner in which the impugned order has been passed. There is no doubt in
+
+   the mind of this Court that the Society had attempted to frustrate the
+
+   orders of this Court after accepting the same. It is abundantly clear that
+<span class="hidden_text" id="span_1">                                2</span>
+
+the said Deputy Registrar was also in charge of the duties of the Joint
+
+Registrar and hence should have heard the matter or should have
+
+forwarded the same to the Joint Registrar Housing at the headquarters for
+
+appropriate compliance.
+</p>
+<p id="p_6">      The objection of the Society is therefore equally baffling.
+
+      On the question of limitation, this Court finds that it was specifically
+
+ordered that the Joint Registrar could hear out the matter on review if the
+
+petitioner had made such application within ten days of the order.
+
+</p><p id="p_7">      If such application was in fact made, the question of any limitation
+
+after the leave of this Court therefore could not have arisen. The conduct
+
+of the Society in this regard is also unacceptable and deprecated.
+
+</p><p id="p_8">      When the issue of maintainability was kept open with liberty to file
+
+such review application it implies to any person reading the order that the
+
+question of limitation was negated by the Court. The other points of
+
+maintainability were, however, kept open to be urged.
+
+</p><p id="p_9">      In the circumstances, the application for review filed by the
+
+petitioner shall stand transmitted to the Joint Registrar, Housing at the
+
+headquarters of the Calcutta New Secretariat Building at Calcutta of the
+
+Co-operative Directorate and shall be heard and disposed of within a period
+
+of one month from the date of communication of a copy of this order.
+
+</p><p id="p_10">      Any step, during the pendency of the review application or
+
+thereafter, taken by the Society shall be deemed null and void. Society
+<span class="hidden_text" id="span_2">                                3</span>
+
+shall be free to proceed in accordance with law and the 2006 Act after
+
+disposal of the review application.
+</p>
+<p id="p_11">      This Court has already recorded its dissatisfaction and anguish at the
+
+conduct of the Society. Costs assessed at Rs.25,000/- (Rupees twenty five
+
+thousand) only are called for in this regard. The Society shall pay the said
+
+costs to the petitioner within a period of two weeks from date.
+
+</p><p id="p_12">      In default of payment of the aforesaid amount, no decision or
+
+meeting of the Society shall be held or conducted.
+
+</p><p id="p_13">      In view of the aforesaid direction, W. P. No. 24104 (W) of 2018 is
+
+disposed of.
+</p>
+<p id="p_14">      Photostat certified copy of this order, if applied for, be given to the
+
+parties upon compliance of all formalities.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">                               (Rajasekhar Mantha, J.)
+<span class="hidden_text" id="span_3"> 4</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

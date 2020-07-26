@@ -1,0 +1,318 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>L And T Housing Finance Ltd vs Omprakash Mittal And 4 Others on 18 June, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/16397250/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1120409/">Section 9 in The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1306164/">THE ARBITRATION AND CONCILIATION ACT, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1171700/">Section 17 in The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1052228/">The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/584075/">Section 12(1) in The Arbitration Act,   1940</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/16397250/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/16397250/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/16397250/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">L And T Housing Finance Ltd vs Omprakash Mittal And 4 Others on 18 June, 2019</div><div class="doc_bench">Bench: G. S. Kulkarni</div>
+
+<pre id="pre_1">                                                                          5 CARBP 1229 OF 2018
+
+
+vks
+              IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                   ORDINARY ORIGINAL CIVIL JURISDICTION
+
+            COMMERCIAL ARBITRATION PETITION NO.1229 OF 2018
+
+L &amp; T Housing Finance Ltd                                 ...       Petitioner
+           V/s.
+Omprakash Mittal and 4 ors                                ...       Respondents
+
+                           ALONGWITH
+         COMMERCIAL ARBITRATION APPLICATION (L) NO.223 OF 2019
+
+L &amp; T Housing Finance Ltd                                 ...       Petitioner
+           V/s.
+Omprakash Mittal and 4 ors                                ...       Respondents
+
+Mr.Faisal Sayyed a/w Mr. Hassan F. i/by Manilal Kher
+Ambalal &amp; Co., for the Petitioner.
+Mr. Venkatesh Dhond Senior Advocate a/w Manasvi Nanda
+i/by Jayesh Mestry, for respondent Nos. 1 to 4.
+
+
+                         CORAM : G. S. KULKARNI, J.
+</pre>
+<pre id="pre_2">                         DATE    : 18th June 2019.
+
+P.C. :
+
+1]       Commercial Arbitration Petition No.1229 of 2018 is filed under
+
+</pre><p id="p_1"><a href="/doc/1120409/" id="a_1">Section 9</a> of the Arbitration and <a href="/doc/1306164/" id="a_2">Conciliation Act</a>, 1996 (for short, "ACA"),
+
+whereby the petitioner has prayed for interim measures pending the arbitral
+
+proceedings.
+</p>
+<p id="p_2">2]        Commercial Arbitration Application         (L) No.223 of 2019 is filed
+
+under Section 11 of the ACA, whereby the petitioner has prayed that the
+
+<span class="hidden_text" id="span_1">                                          1/4</span>
+
+
+<span class="hidden_text" id="span_2">  ::: Uploaded on - 21/06/2019                       ::: Downloaded on - 14/07/2019 04:44:48 :::</span>
+                                                                        5 CARBP 1229 OF 2018
+
+
+
+arbitral tribunal be appointed to adjudicate the disputes and differences
+
+between the parties as arisen under the Deed of Guarantee dated 11 th
+
+August, 2015 read with Facility agreement dated 11th August, 2015.
+
+3]       It is informed that under the Facility Agreement dated 11 th August,
+
+2015, parties are already before the arbitral tribunal and learned arbitrator
+
+is seized with the proceedings. Learned counsel for both the parties submit
+
+that the disputes and differences as arisen under the Deed Agreement dated
+
+11th August, 2015, be also referred to the same arbitrator, who is
+
+undertaking an arbitration on disputes as arisen between the parties under
+
+the Facility       Agreement. It is also submitted       by learned counsel for
+
+petitioner that <a href="/doc/1120409/" id="a_3">Section 9</a> petition be permitted to be treated as an
+
+application under <a href="/doc/1171700/" id="a_4">Section 17</a> of the Act, to be adjudicated by the arbitral
+
+tribunal. Learned counsel for respondent has no objection to the suggestion
+
+as made on behalf of the petitioner.
+</p>
+<p id="p_3">4]     In view of the above consensus between the parties, these proceedings
+
+are disposed of by the following order:-
+</p>
+<blockquote id="blockquote_1">                                      Order
+
+           i] Mr. Vishal Kanade, advocate of this Court, is appointed as the
+           prospective sole Arbitrator to adjudicate the disputes and
+           differences between the parties, arising under the agreement
+           deed of guarantee dated 11th August, 2015;
+</blockquote>
+
+
+<span class="hidden_text" id="span_3">                                          2/4</span>
+
+
+<span class="hidden_text" id="span_4">  ::: Uploaded on - 21/06/2019                    ::: Downloaded on - 14/07/2019 04:44:48 :::</span>
+<blockquote id="blockquote_2">                                                                            5 CARBP 1229 OF 2018
+
+
+         ii] The prospective sole arbitrator, fifteen days before entering
+         the arbitration reference, shall forward a statement of disclosure
+         as per the provisions of Section 11(8) read with <a href="/doc/584075/" id="a_5">Section 12(1)</a> of
+         the Arbitration and <a href="/doc/1306164/" id="a_6">Conciliation Act</a>, 1996, to the Prothonotary &amp;
+         Senior Master of this Court, to be placed on record of this
+         application with a copy to be forwarded to both the parties;
+</blockquote>
+
+<blockquote id="blockquote_3">         iii)At the first instance, the parties shall appear before the
+         prospective arbitrator within 10 days from today at a date and
+         time as may be fixed by the prospective arbitrator;
+</blockquote>
+
+<blockquote id="blockquote_4">         v] The Petition filed under Section 9 of the ACA is permitted to be
+         treated as an application under Section 17 of the ACA.
+</blockquote>
+
+<blockquote id="blockquote_5">         vi] Both parties are permitted to file additional affidavits before
+         the arbitral tribunal, if they so desire;
+</blockquote>
+
+<blockquote id="blockquote_6">         iv] The learned prospective arbitrator shall endeavour to publish
+         an award as expeditiously as possible and within the time limit as
+         prescribed under <a href="/doc/1052228/" id="a_7">Section 29-A</a> of the Act;
+</blockquote>
+
+<blockquote id="blockquote_7">         v) The       arbitral   Tribunal   shall    endeavour     to    adjudicate
+         application under Section 17 of the ACA as expeditiously as
+         possible preferably within a period of six weeks from the date of
+         presentation of such application;
+</blockquote>
+
+<blockquote id="blockquote_8">         vi] The fees of the arbitral tribunal shall be as prescribed under
+         the Bombay High Court (Fees Payable to Arbitrators) Rules,
+         2018;
+</blockquote>
+
+<span class="hidden_text" id="span_5">                                            3/4</span>
+
+
+<span class="hidden_text" id="span_6">::: Uploaded on - 21/06/2019                          ::: Downloaded on - 14/07/2019 04:44:48 :::</span>
+<blockquote id="blockquote_9">                                                                         5 CARBP 1229 OF 2018
+
+
+</blockquote><blockquote id="blockquote_10">           (v) All contentions of the parties on merits of the matter are
+           expressly kept open;
+</blockquote>
+
+<blockquote id="blockquote_11">           (vi)The Arbitration petition is disposed of in the above terms. No
+           costs.
+</blockquote>
+
+<p id="p_4">5]     Office to forward a copy of this order to the learned Arbitrator on the
+following address:-
+</p><blockquote id="blockquote_12">       Gundecha Chamber, 1st floor,
+       Opp. Milan Cafe,
+       Nagindas Mehta Road,
+       Fort, Mumbai 400 001.
+</blockquote>
+<blockquote id="blockquote_13">       Mobile No.9819668711.
+</blockquote><blockquote id="blockquote_14">                                                [G. S. KULKARNI, J]
+
+
+
+
+<span class="hidden_text" id="span_7">                                          4/4</span>
+
+
+<span class="hidden_text" id="span_8">  ::: Uploaded on - 21/06/2019                     ::: Downloaded on - 14/07/2019 04:44:48 :::</span>
+ </blockquote> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

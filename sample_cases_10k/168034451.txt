@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>WPMS/3215/2019 on 16 October, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/168034451/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1331638/">Article 243K in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/168034451/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/168034451/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Uttarakhand High Court</div>
+<div class="doc_title">WPMS/3215/2019 on 16 October, 2019</div><pre id="pre_1">WPMS No.3215 of 2019
+Hon'ble Sudhanshu Dhulia, J.
+</pre><p id="p_1">       Mr. Abhijay Negi, Advocate for the
+petitioner.
+</p><p id="p_2">       Mr. Yogesh Pandey, Additional CSC, for
+the State/respondent nos. 1 to 3.
+</p><p id="p_3">       Mr. Sanjay Bhatt, Advocate for respondent
+no.4.
+</p><p id="p_4">       The petitioner has filed the present writ
+petition seeking a writ in the nature of
+mandamus directing the respondent no.4 to
+complete the counting of votes for Gram
+Pradhan, Village Chandpur, Block Kashipur,
+District Udham Singh Nagar under the
+supervision of respondent no. 4.
+</p><p id="p_5">        Learned counsel for the petitioner submits
+that in this regard although the petitioner moved
+a representation before the authority concerned
+but the same is not accepted by the respondent
+authorities.
+</p><p id="p_6">       Since the superintendence, direction and
+control for conduct of all elections to the
+Panchayats lies with the Election Commission
+under <a href="/doc/1331638/" id="a_1">Article 243-K</a> of the Constitution of India,
+in case the petitioner moves a representation
+before the authority concerned, let a decision be
+taken by the State Election Commission on the
+representation of the petitioner forthwith so that
+election be conducted in accordance with law.
+</p><p id="p_7">       In view of the above, the writ petition
+stands disposed.
+</p><p id="p_8">       Let a certified copy of this order be
+supplied today itself on payment of usual
+charges.
+</p>
+
+
+<p id="p_9">                               (Sudhanshu Dhulia, J.)
+                                     16.10.2019
+Nitesh/
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

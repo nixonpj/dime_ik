@@ -1,0 +1,713 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Rct­62/09 vs Sh. Nand Lal on 24 September, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/38351201/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:38351201">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/559308/">Section 15(1) in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/367290/">Section 14 in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1987465/">Section 15 in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/234547/">Section 15(3) in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1150627/">Section 12 in The Delhi Rent Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/38351201/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/38351201/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rent%20and%20tenant">rent and tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2015">order 15</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rate%20of%20rent%20">rate of rent </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20cloth%20and%20general%20mills%20co.%20ltd">delhi cloth and general mills co. ltd</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20cloth%20and%20general%20mills">delhi cloth and general mills</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20cloth%20and%20general%20">delhi cloth and general </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20cloth">delhi cloth</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=standard%20rent">standard rent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legally%20recoverable%20rent">legally recoverable rent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pratibha%20rani%20">pratibha rani </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2012%281%29%20a">section 12(1) a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hem%20chand">hem chand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pratibha%20">pratibha </a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Rct­62/09 vs Sh. Nand Lal on 24 September, 2009</div><div class="doc_author">Author: Ms. Pratibha Rani</div>
+
+<pre id="pre_1">    IN THE COURT OF SMT. PRATIBHA RANI, DJ­III­
+             CUM­ I/c ASJ (WEST), DELHI
+                         ***
+
+RCT­62/09
+Smt. Dropti Devi
+w/o Late Sh.Manik Chand Srivastava
+r/o RZ­1/34, Part­II, Sitapuri, New Delhi.
+                                                           ......Appellant
+
+                                     Versus
+Sh. Nand Lal
+s/o Sh. Ram Wadhaya
+r/o WZ­30C, Gali No.9,
+Varinder Nagar, New Delhi.
+                                                           ....Respondent
+
+                                                Date of Institution : 21.08.2009
+                                            Date of Arguments : 16.09.2009
+                                                 Date of Order :       24.09.2009
+O R D E R
+</pre>
+<p id="p_1">              This appeal has been preferred by Smt. Dropti Devi
+
+who   was   the   tenant   in   respect   of   one   ground   floor   shop   in
+
+property No.WZ­30C, Gali No.9, Varinder Nagar, New Delhi on
+
+a monthly rent of Rs.785/­ since 1989.   In brief the case of the
+
+Appellant is that she is an 80 year old illiterate widow and was
+
+making the payment of rent regularly for which consolidated rent
+
+receipts were issued by the respondent as per his convenience.
+</p>
+<p id="p_2">The respondent filed an eviction petition on the ground of non­
+
+
+
+
+<span class="hidden_text" id="span_1">                                       1</span>
+ payment of the rent for the period 01.12.04 till 31.03.05 and in
+
+the written statement she pleaded that being an old women, she
+
+surrendered her tenancy and her son was inducted as tenant in
+
+the presence of various persons of the locality and that her son
+
+was making full payment of the rent for which no rent receipt
+
+was issued.  
+</p>
+<p id="p_3">2.            In   the   said   eviction   petition   vide   order   dated
+
+24.01.07, Ld.ARC passed an order u/s 15(1) DRC Act directing
+
+to deposit legally recoverable arrears of rent w.e.f 01.12.04 till
+
+date and also to deposit future rent at the same rate month by
+
+month by 15th day of each succeeding month.  The Appellant had
+
+deposited the entire arrears of rent and was entitled to get benefit
+
+of Sec.14(2) DRC Act and moved an application for granting of
+
+such   benefit,   however,   vide   impugned   order   dated   16.07.09,
+
+Ld.ARC declined to grant such benefit for the reason that there
+
+was delay in depositing of month to month rent which could not
+
+be   attributed   to   the   Appellant   for   the   reason   that   rent   was
+
+deposited as and when advised by her counsel and there was no
+
+deliberate non­payment of the rent which stood paid upto July,
+
+2009.   The impugned order has been challenged on the ground
+
+
+
+<span class="hidden_text" id="span_2">                                      2</span>
+ that delay was not willful or deliberate or attributed by Appellant
+
+and Ld.ARC also failed to appreciate that there was substantial
+
+compliance of the order. Ld.ARC had the discretion to condone
+
+delay in appropriate cases where the tenant was not a chronic
+
+defaulter but victim of circumstances.  Ld. Trial Court failed to
+
+see the reasons for delay and just passed the orders on the basis
+
+of report of Nazir that there was delay in the deposit of future
+
+rent and in the circumstances, impugned order dated 16.07.09 be
+
+set aside as it was a first case of default and Appellant is entitled
+
+to protection of Section 14(2) of DRC Act.  
+</p>
+<p id="p_4">3.            Notice   of   the   appeal   was   sent   to   the   respondent.
+</p>
+<p id="p_5">TCR was also summoned.
+</p>
+<p id="p_6">4.            I have heard ld. counsels for the parties and carefully
+
+gone   through   the   record.    Ld.   counsel   for   the   appellant   has
+
+contended that initially default was for the period of four months
+
+and the order passed by Ld. ARC u/s 15(1) DRC Act was duly
+
+complied   with   by   the   Appellant   and   the   delay   that   occurred
+
+subsequently by the Appellant in deposit of rent month to month
+
+could be condoned by Ld.ARC as on the date of passing of the
+
+impugned order, the entire rent stood paid, hence, the impugned
+
+
+
+<span class="hidden_text" id="span_3">                                      3</span>
+ order is liable to be set aside.  Ld. counsel for the appellant had
+
+relied   upon   judgments   Shyamcharan   Sharma   Vs     Dharamdas
+
+AIR 1980 SC 587 and Ram Murti Vs  Bhola Nath &amp; Anr. AIR
+
+1984   SC   1392   in   support   of   his   contentions.     So   far   as   the
+
+judgment     Shyamcharan   Sharma   Vs     Dharamdas   (Supra)   is
+
+concerned,   the   case   was   under   M.P.   Accommodation   Control
+
+Act (41 of 1961).   The same is of no help to the Appellant as
+
+under M.P. Accommodation Control Act  a discretion is given to
+
+the Court to extend the time for deposit of the rent whereas no
+
+such discretion is available to the Ld. ARC under DRC Act.  In
+
+the case Jain Motor Car Co.     Vs     Shyam Prabha Jain &amp; Ors.
+</p>
+<p id="p_7">1983(1)   Rent   Control   Reporter   276,   while   dealing   with   this
+
+judgment, in Para 8 of the said judgment while considering the
+
+provisions of Section 12(3), Section 12(1)(a) and Section 13 of
+
+M.P. Accommodation Control Act (41 of 1961), it was held as
+
+under­
+
+                 "In that Act, discretion is given to the Court
+                 to extend the time for deposit of rent on the
+                 application  of  the  tenant.    <a href="/doc/679372/" id="a_1">Under  the  Delhi
+                 Rent   Control   Act</a>,   1958   no   such   discretion
+                 has   been   conferred   upon   the   Controller   as
+                 has been held by the Full Bench of this Court
+                 which view was confirmed by the Supreme
+                 Court.     Thus   it   appears   to   me   that   the
+
+
+<span class="hidden_text" id="span_4">                                       4</span>
+                 Supreme   Court   judgment   in   Shyamcharan
+                (Supra) is not applicable to the facts of the
+                present case."
+</p>
+<p id="p_8">              Another judgment   Ram Murti Vs   Bhola Nath  &amp;
+
+Anr. relied upon by the Ld. counsel for the appellant is also of no
+
+help to the Appellant as it is clear from the impugned order that
+
+there was a regular default by him in depositing the future month
+
+to month rent.
+</p>
+<p id="p_9">5.            On behalf of respondent it has been contended that
+
+Appellant   had   failed   to   comply   with   by   the   order   passed   by
+
+Ld.ARC   u/s   15(1)   DRC   Act   though,   arrears   of   rent   was
+
+deposited   but   for   depositing   the   future   rent,   it   was   to   be
+
+deposited   on   15th  of   every   succeeding   month   which   was   not
+
+deposited   in   time   and   there   was   regular   default   in   complying
+
+with that order.  It has been further contended that Ld.ARC had
+
+no power to extend that time, hence appeal may be dismissed.
+</p>
+<p id="p_10">6.            I have considered the rival contentions and carefully
+
+gone through the record.
+</p>
+<p id="p_11">7.            As per the impugned order dated 16.07.09 although
+
+the   Appellant   deposited   the   arrears   of   rent   within   the   time
+
+extended   by   Ld.   ARCT   vide   order   dated   27.02.07,   the
+
+
+
+<span class="hidden_text" id="span_5">                                      5</span>
+ subsequent rents were deposited with considerable delay.  
+</p>
+<p id="p_12">8.            Ld.   ARC   has   mentioned   the   various   delays   in
+
+depositing the rent in the order i.e. delay of 12 months in the
+
+deposit of rent for the month of April, 2007, delay of 11 months
+
+in the deposit of rent for the month of May, 2007, delay of 10
+
+months in the deposit of rent for the month of June, 2007, delay
+
+of 9 months in the deposit of rent for the month of July, 2007,
+
+delay of 8 months in the deposit of rent for the month of August,
+
+2007, delay of 7 months in the deposit of rent for the month of
+
+September, 2007, delay of 6 months in the deposit of rent for the
+
+month of October, 2007, delay of 5 months in the deposit of rent
+
+for   the   month   of   November,   2007,   delay   of   4   months   in   the
+
+deposit  of   rent  for   the   month   of   December,   2007,   delay   of  3
+
+months in the deposit of rent for the month of January, 2008,
+
+delay   of   2   months   in   the   deposit   of   rent   for   the   month   of
+
+February, 2008, delay of 1 month in the deposit of rent for the
+
+month of March, 2008 and there is also delay of 75 days in the
+
+deposit of rent for the month of June, 2008, delay of 47 days in
+
+the deposit of rent for the month of July, 2008, delay of 15 days
+
+in the deposit of rent for the month of August, 2008, delay of 77
+
+
+
+<span class="hidden_text" id="span_6">                                       6</span>
+ days in the deposit of rent for the month of October, 2008, delay
+
+of 47 days in the deposit of rent for the month of November,
+
+2008 and there is delay of 17 days in the deposit of rent for the
+
+month of December, 2008.   This report by the Civil Nazir as
+
+quoted     in   the   impugned   order   clearly   establishes   that   the
+
+Appellant had not been complying with the order passed u/s 15
+
+(1) DRC Act by depositing month to month rent by 15th of every
+
+month.   In the case of Jain Motor Car Co.   Vs   Shyam Prabha
+
+Jain &amp; Ors. 1983 (1) RCR 276, the Hon'ble High Court of Delhi
+
+dealt with this aspect as under­
+
+       "5.   To claim eviction on the ground of non­payment
+       of   rent   a   landlord   is   required   to   serve   a   notice   of
+       demand   upon   the   tenant   and   if   he   neither   pays   nor
+       tenders   the   whole   of   the   arrears   of   rent   legally
+       recoverable from him within two months of the date of
+       service   of   the   notice   of   demand,   cause   of   action
+       accrues to the landlord to claim eviction of the tenant
+       u/s 14(1)(a) of the Act.   This is not the end.   Even if
+       the tenant has neither paid nor tendered the whole of
+       the   arrears   of   rent   legally   recoverable   within   two
+       months   from   the   date   of   service   of   the   notice   of
+       demand, he is granted further opportunity to pay the
+       rent in pursuance of the order u/s 15 (1) of the Act.
+       This Section requires the Controller to pass an order
+       directing the tenant to pay the rent at the rate at which
+       it was last paid within one month from the date of the
+       order.   This section further requires the Controller to
+       pass an order for deposit of further monthly rent by the
+       15th  of each succeeding month.   <a href="/doc/559308/" id="a_2">Section 15(1)</a> of the
+       Act  is  thus  into   two   parts.     Under   the   first  part  the
+
+
+<span class="hidden_text" id="span_7">                                       7</span>
+ tenant is to required to deposit further monthly rent.
+Under 15(7) of the Act if the tenant fails to deposit
+either the arrears of rent or future monthly rent, the
+Controller has discretion to strike off the defence of
+the tenant.   Further under <a href="/doc/234547/" id="a_3">Section 15(3)</a> of the Act if
+there is any dispute as to the amount of rent payable by
+the tenant, it provides for fixation of interim rent and
+requiring the tenant to deposit arrears as well as further
+monthly rent at the rate of interim rent.   This section
+further   provides   that   after   the   determination   of
+standard rent, the tenant shall be required to pay the
+arrears on the basis of the determined rent within one
+month of the date of the order or such further time as
+the Controller may grant in this behalf.   Thus under
+<a href="/doc/234547/" id="a_4">section  15(3)</a>  of  the  Act  first an  order is  passed  for
+deposit of arrears and future rent at the interim rate of
+rent and second order is passed requiring the tenant to
+deposit the difference between  the standard rent and
+the   interim   rate   of   rent.     <a href="/doc/367290/" id="a_5">Section   14(2)</a>   of   the   Act
+provides that no order for eviction of the tenant on the
+ground mentioned under <a href="/doc/367290/" id="a_6">section 14(1)(a)</a> of Act shall
+be passed if the tenant makes payment or deposit in
+pursuance of the order passed under <a href="/doc/1987465/" id="a_7">Section 15</a> of the
+Act.  In other words, it would mean that if a tenant has
+neither paid nor tendered the whole of the arrears of
+rent legally recoverable from him within the period of
+two   months   from   the   date   of   service   of   notice   of
+demand   he   is   to   be   protected   against   eviction   if   he
+deposits all arrears of rent and future monthly rent in
+pursuance of an order passed under <a href="/doc/559308/" id="a_8">Section 15(1)</a> of
+the Act.  <a href="/doc/367290/" id="a_9">Section 14(2)</a> of the Act does not speak of the
+payment or deposit of arrears of rent only within the
+meaning   of   <a href="/doc/1150627/" id="a_10">section   12</a>   of   the   Act   but   it   speaks   of
+payment or deposit as required by <a href="/doc/1987465/" id="a_11">Section 15</a> of the
+Act.   As already stated, it would mean the deposit of
+arrears as well as future monthly rent in pursuance of
+the order under <a href="/doc/1987465/" id="a_12">Section 15</a> (1) of the Act.  It appears to
+me that unless the arrears of rent and future monthly
+rent are deposited, the tenant would not be entitled to
+any   protection   under   <a href="/doc/367290/" id="a_13">section   14(2)</a>  of   the  Act.    The
+
+
+<span class="hidden_text" id="span_8">                               8</span>
+ provisions of <a href="/doc/1987465/" id="a_14">section 15</a> (1) of the Act are mandatory.
+In   Delhi   Cloth   &amp;   General   Mills   Co.   Ltd.   Vs   Hem
+Chand &amp; Anr., AIR 1972 Delhi 275 (F.B.) it has been
+held  that the  Rent  Controller has no inherent power
+and no jurisdiction to condone the delay in deposit of
+the   amount   of   rent   directed   to   be   paid   or   deposited
+under <a href="/doc/559308/" id="a_15">section 15(1)</a> of the Act so as to wipe off the
+default that has occurred.  In other words, it was held
+that   the   Controller   has   no   discretion   to   extend   time
+either for deposit of arrears of rent or future monthly
+rent in pursuance of the order passed under <a href="/doc/1987465/" id="a_16">section 15</a>
+(1) of the Act.  On appeal it was held by the Supreme
+Court in Hem Chand Vs The Delhi Cloth &amp; General
+Mills Co. Ltd. &amp; Anr. AIR 1977 S.C. 1986 that the
+Rent Controller has no discretion to extend the time
+prescribed under <a href="/doc/559308/" id="a_17">Section 15(1)</a> of the Act.   Thus the
+Supreme   Court   agreed   with   the   Full   Bench   of   this
+Court   to   that   extent.     In   other   words,   it   means   that
+provisions of <a href="/doc/1987465/" id="a_18">Section 15</a> read with <a href="/doc/367290/" id="a_19">Section 14(2)</a> of the
+Act are mandatory and if a tenant either fails to deposit
+or pay arrears of rent within one month of the date of
+the order under <a href="/doc/1987465/" id="a_20">section 15</a> (1) of the Act or fails to
+deposit or pay any future monthly rent by the 15th  of
+succeeding month, the Controller has no jurisdiction to
+extend the time and the tenant is not entitled to claim
+benefit under <a href="/doc/367290/" id="a_21">Section 14(2)</a> of the Act.  In the said Full
+Bench   case   the   tenant   had   committed   default   with
+respect to arrears of rent as well as future monthly rent
+as is apparent from the report Delhi Cloth &amp; General
+Mills Co. Ltd.  (1973 RCR 638) (Supra) and therefore
+the various observations made by the Supreme Court
+must   be   held   to   mean   that   a   tenant   is   required   to
+comply with the entire order under <a href="/doc/559308/" id="a_22">section 15(1)</a> of the
+Act to avail protection under <a href="/doc/367290/" id="a_23">section 14(2)</a> of the Act.  
+</p>
+<p id="p_13">The Supreme Court in para 9 has observed as under :
+</p>
+<p id="p_14">"  Now the question that remains is whether the Rent
+Controller   has   any   discretion   texted   the   time
+prescribed in <a href="/doc/1150627/" id="a_24">Section 12(1)</a>.  This section requires the
+
+
+<span class="hidden_text" id="span_9">                                9</span>
+ Controller after hearing the parties, to make an order
+directing the tenant to pay to the landlord of deposit
+with the Controller within one month of the date of the
+order, the arrears of rent with a direction that he should
+continue  to  pay   or  deposit,  month  by  month,  a  sum
+equivalent to the rent.   This is a second opportunity
+given to the tenant to pay arrears of rent.  Without the
+protection given under the Act the landlord can on 15
+day's   notice   ending   with   the   month   get   the   tenant
+evicted.  The Rent Control Act protects the tenant from
+such eviction  and gives him an opportunity to pay the
+arrears   of   rent   within   two   months   from   the   date   of
+notice   of   demand   as   provided   in   <a href="/doc/367290/" id="a_25">section   14(1)(a)</a>.
+Even if he fails to pay a further opportunity is given to
+the   tenant   to   play   or   deposit   the   arrears   within   one
+month under <a href="/doc/559308/" id="a_26">section 15(1)</a>.   Such payment or deposit
+in complying with the order under <a href="/doc/559308/" id="a_27">section 15(1)</a> takes
+away   the   right   of   the   landlord   to   claim   recovery   of
+possession   on   the   ground   of   default   in   payments   of
+rent.  The legislature has given statutory protection to
+the tenant by affording him an opportunity to play the
+arrears of rent within one month from the date of the
+order.  This statutory provision cannot be modified as
+rights   of   parties   depend   on   the   compliance   with   an
+order under <a href="/doc/559308/" id="a_28">Section 15(1)</a>.   In the circumstances, we
+agree with the Full Bench that the Rent Controller has
+no   discretion   to   extend   the   time   prescribed   under
+<a href="/doc/559308/" id="a_29">Section 15(1)</a>."
+</p>
+<p id="p_15">6. This observation of the Supreme Court concludes
+the matter and therefore I am of the view that tenant is
+required to comply with the entire order under <a href="/doc/559308/" id="a_30">Section
+15(1)</a> of the Act i.e. he should deposit arrears of rent
+within one month from the date of the order and also
+deposit   future   monthly   rent   by   the   15th  of   the
+succeeding month in order to claim protection under
+<a href="/doc/367290/" id="a_31">Section 14(2)</a> of the Act.  There have been judgments
+of this Court holding the same view.  In Smt. Darshan
+Devi Vs  Vidya Nath 1969 RCR 478 there was dispute
+about the rate of rent.  Interim rent was fixed requiring
+
+
+<span class="hidden_text" id="span_10">                               10</span>
+ the   tenant   to   deposit   arrears   of   rent   at   the   rate   of
+interim rent within one month and future monthly rent
+at the said rate by the 15th  of the succeeding month.
+Subsequently   the   standard   rent   was   fixed   and   the
+tenant was required to depoist the difference between
+the standard and interim rate of rent within one month
+from the date of the order.  The tenant was required to
+deposit   the   difference   between   the   standard   and
+interim rate of rent within one month from the date of
+the order.  The tenant defaulted in depositing the rent
+at the rate of interim rent.  This Court held that tenant
+ought to have complied with the order requiring him to
+deposit at the interim rate as well as the order requiring
+him to deposit the difference between the determined
+and interim rate of rent.  In other words it was held that
+the tenant was required to comply with all order passed
+under   <a href="/doc/234547/" id="a_32">section   15(3)</a>   of   the   Act.     The   tenant   had
+committed default and therefore, the order of eviction
+was   passed   against   him.     In   Shri   Munshi   Lal   Vs
+Thakur Prem Chand 1970 RCJ 496 V. S. Deshpande,
+J. (as he then was observed as under:
+</p>
+<p id="p_16">" For the above reasons I find that correct construction
+of   <a href="/doc/367290/" id="a_33">Section   14(2)</a>   of   the   Act   is   that   its   benefit   is
+available to the tenant only when the tenant has made
+the   payment   or   deposit   of   the   rent   as   required   by
+<a href="/doc/234547/" id="a_34">section 15(3)</a> read with <a href="/doc/559308/" id="a_35">section 15(1)</a> and that such rent
+includes not only the arrears of the rent but also the
+rent becoming due subsequently".  
+</p>
+<p id="p_17">In Devi Dayal   Vs     Mst. Zamani Begum, 1975 RCJ
+332 B.C. Mishra, J. held that a tenant to get protection
+under <a href="/doc/367290/" id="a_36">section 14(2)</a> of the Act is required not only to
+deposit the arrears of rent but future monthly rent by
+the   15th  of   the   succeeding   month   i.e.   in   accordance
+with the order passed under <a href="/doc/559308/" id="a_37">Section 15(1)</a> of the Act.
+In Shri Madan Lal  Vs  Shri Hukam Chand and others
+1977(2)   RCJ   643   Yogeshwar   Dayal,   J.   held   that
+though the delay in deposit of rent was condoned for
+the purpose of <a href="/doc/1987465/" id="a_38">section 15(7)</a> of the Act, the landlord
+
+
+<span class="hidden_text" id="span_11">                                11</span>
+        was entitled to an order of eviction against the tenant
+       for   his   failure   in   depositing   the   monthly   rent   in
+       accordance with the order under <a href="/doc/1987465/" id="a_39">section 15</a> (1) of the
+       Act.  He observed as follows:
+</p>
+<p id="p_18">       " It must, therefore, be held that inspite of the fact that
+       the delay in depositing the future rent was condoned
+       for   the   purpose   of   <a href="/doc/1987465/" id="a_40">section   15(7)</a>   of   the   Act,   that
+       condonation does not ensure to wipe out the default
+       completely   and   the   landlord   is   entitled   to   claim   the
+       benefit of the said default, in complying with the order
+       under <a href="/doc/559308/" id="a_41">section 15(1)</a> by the tenant and to claim an order
+       for eviction as stated in <a href="/doc/367290/" id="a_42">section 14(2)</a> of the Act".
+</p>
+<p id="p_19">       7.             In the last three cases arrears of rent were
+       deposited   within   one   month   from   the   date   of   the
+       passing of the order under section15(1) of the Act but
+       there were defaults in depositing future monthly rent
+       by 15th of the succeeding month, meaning thereby that
+       the   order   under   <a href="/doc/1987465/" id="a_43">section   15</a>   (2)   of   the   Act   requiring
+       deposit   of   future   monthly   rent   by   the   15th  of   the
+       succeeding   month   was   not   complied   with   and   the
+       landlord   was   held   entitled   of   an   order   of   eviction
+       against the tenant.  It was held that the tenant was not
+       entitled  to  protection  under <a href="/doc/367290/" id="a_44">section 14(2)</a> of the Act
+       although   he   had   deposited   arrears   of   rent   but
+       committed default in depositing future monthly rent.
+       Learned counsel for the appellant submits that <a href="/doc/367290/" id="a_45">Section
+       14(2)</a>   read   with   <a href="/doc/559308/" id="a_46">section   15(1)</a>   of   the   Act   is   not
+       mandatory but directory.  I do not agree in view of the
+       Full  Bench   decision   of   this   Court   in   Delhi   Cloth   &amp;
+       General Mills Co.Ltd. (Supra) and Hem Chand (Supra)
+       decided by the Supreme Court where it has been held
+       that the Rent Controller has no discretion to extend the
+       time prescribed under <a href="/doc/559308/" id="a_47">Section 15(1)</a> of the Act.  
+</p>
+
+
+<p id="p_20">9.           Reverting   to   the   facts   of   the   present   case,   the
+
+Appellant  herein,  repeatedly,   committed   defaults  in   depositing
+
+
+<span class="hidden_text" id="span_12">                                     12</span>
+ the rent and failed to comply with the order of Ld ARC passed
+
+U/s 15 (1) of DRC Act.   In view of legal position enumerated
+
+above, Ld ARC  had no option but to pass the eviction order.  In
+
+the result, appeal fails and the same is hereby dismissed.   TCR
+
+alongwith   copy   of   order   be   sent   back.     File   be   consigned   to
+
+record room. </p><pre id="pre_2">
+
+Announced in open court 
+
+24.09.2009                                    (PRATIBHA RANI)   
+                                        DJ­III­cum­I/c ASJ (West)/Delhi
+
+
+
+
+<span class="hidden_text" id="span_13">                                      13</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

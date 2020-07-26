@@ -1,0 +1,310 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M.C. Mitra vs The State on 23 May, 1951</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1195724/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1195724">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1331755/">The Prevention of Corruption Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/731949/">Section 4 in The Prevention of Corruption Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/581728/">Section 3 in The Prevention of Corruption Act, 1988</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 11 docs
+      
+        - [<A HREF="/search/?formInput=citedby:1195724">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/570560/">Rao Shiv Rahadur Singh And Another vs The State Of Vindhya Pradesh on 5 March, 1954</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1497706/">Shri Sat Narain And Ors. vs Collector Of Central Excise on 18 April, 1984</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1576450/">The State vs Abhey Singh on 15 October, 1956</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/424653/">Ranjit Singh vs State on 30 August, 1956</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1315459/">Rahas Behari Panday vs State on 2 September, 1954</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1195724/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1195724/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bribe">bribe</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=matching">matching</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20%20valuable%20thing%20">  valuable thing </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gratification%20">gratification </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=judiciary">judiciary</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prevention%20of%20corruption%20act">prevention of corruption act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prevention%20of%20corruption">prevention of corruption</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=East%20Indian%20Railway">East Indian Railway</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20railway">indian railway</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20forfeiture">what is forfeiture</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=c.s.company">c.s.company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prevention%20of%20corruption%20act%201947">prevention of corruption act 1947</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%204%20of%20prevention%20of%20corruption%20act">section 4 of prevention of corruption act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%203%20of%20evidence%20act">section 3 of evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20section%203%20evidence"> section 3 evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=3%20of%20evidence%20act">3 of evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=earnest%20money">earnest money</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20justice">criminal justice</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=165">165</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trap">trap</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">M.C. Mitra vs The State on 23 May, 1951</div><div class="doc_citations">Equivalent citations: AIR 1951 Cal 524</div>
+
+<div class="doc_author">Author: P Mukharji</div>
+
+<div class="doc_bench">Bench: Dasgupta, P Mukharji</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+P.B. Mukharji, J.
+</p> 
+
+<p id="p_2">1. This is an appeal from the judgment &amp; order of the Special Judge, Alipore, convicting the appellant; of an offence under Section 161,<a href="/doc/1569253/" id="a_1"> Penal Code</a>, &amp; sentencing him to rigorous imprisonment for eight months &amp; to pay a fine of Rs. 3000 which includes a fine of Rs. 2000 as required by <a href="/doc/1977541/" id="a_2">Section 9</a> (1), <a href="/doc/688958/" id="a_3">West Bengal Act</a> XXI [21] of 1949; in default of payment of the fine a further sentence of rigorous imprisonment for four months is imposed by the Special Judge.
+</p> 
+
+<p id="p_3">2. The case for the prosecution may be stated briefly.
+</p> 
+
+<p id="p_4">3. The appellant was at all relevant times the Accounts Officer &amp; Financial Adviser to the Deputy General Manager, Grains, East Indian Railway, Calcutta. In that capacity he is said to have accepted directly from G. H. M. Patel of Messrs G. C. Bose &amp; Co. a sum of Rs. 2000 as gratification with the motive of facilitating the passing of outstanding bills of Messrs. G. C. Bose &amp; Co. relating to the supply of potatoes &amp; onions to the East Indian Railway Administration.
+</p> 
+
+<p id="p_5">4. The prosecution case is based on a police trap laid at the office of the firm of M. G. Corporation in a room on the third floor at No. 9 Royal Exchange Place, Calcutta, at about 12-45 p. M. The firm of M. G. Corporation is a business concern belonging to the brother of the accused by the name of H. K. Mitra. The office of Messrs. G. C. Bose &amp; Co., the supplier to the East Indian Railway Administration, is also situated in the same building on the first floor at No. 9, Royal Exchange Place, Calcutta.
+</p> 
+
+<p id="p_6">5. The party consisted of G. H. M. Patel, the Magistrate, Mr. T. P. Mukherjee &amp; Inspector S. B. Mitra accompanied by two Sub-Inspectors of Police. Inspector S. B. Mitra with one Sub-Inspector waited at the verandah at the entrance of the room of M. G. Corporation &amp; another Sub-Inspector was posted on the road side. Patel &amp; the Magistrate, Mr. T. P. Mukherjee went inside the room. The appellant was seated on a chair in that room &amp; his brother was seated on a deck chair to his left. There were two other gentlemen working in that room. Patel introduced the Magistrate Mr. T. P. Mukherjee to the appellant as his friend from Chittagong. The Magistrate took a chair in front of the appellant across the table &amp; Patel pulled up a chair &amp; sat just by the side of the appellant. There were two or three other gentlemen working in that room. Then Patel &amp; the appellant started talking in a low tone which the Magistrate could not overhear. After a minute or two the appellant took up a piece of paper &amp; started drawing a diagram of the route to his house with reference to the Rash Behari Avenue. The appellant asked the Magistrate if the latter understood the position of his house. Patel &amp; the appellant again started talking in a very low tone &amp; then Patel brought out a bundle containing marked G. C. Notes from his pocket &amp; handed the same to the appellant. Patel having made over the notes walked out of the room. The appellant told something which the Magistrate could not hear. But he saw the appellant handing over these notes to his brother on the left when the Magistrate stood up disclosing his identity &amp; asking the appellant to desist. The appellant dropped the notes which fell on the floor just by the side of his chair. Then the Inspector Mitra with his assistant entered the room &amp; challenged the appellant. The Magistrate took up the 20 notes from the floor &amp; verified their number with reference to the numbers noted in the petition Ex. 2. The numbers tallied.
+</p> 
+
+<p id="p_7">6. That in brief is the prosecution case.
+</p> 
+
+<p id="p_8">7. The defence of the appellant admits that these twenty hundred-rupee notes amounting to Rs. 2000 were handed over to him by Patel but according to him they were meant for his brother as earnest money for the match box tender in which Patel wanted to join his said brother. According to the defence case Patel gave a bundle of notes to the accused &amp; then the accused handed over the money to his brother. The further defence of the appellant is that he did not hold up the passing of the bills of Messrs. G. C. Bose &amp; Co. but one M. M. Sen Gupta, the District Con-Controller, Foodgrains, East Indian Railway, Calcutta, did so.
+</p> 
+
+<p id="p_9">8. We have perused the entire record of this case &amp; have arrived at our own independent conclusion.
+</p> 
+
+<p id="p_10">9. Three outstanding features of this case have not been noticed by the Special Judge.
+</p> 
+
+<p id="p_11">10. The foremost among them is that the bribe in this case is said to have been accepted during office hours in a commercial office in a locality like the Royal Exchange Place, Calcutta, where inside the office room not only the Magistrate Mr. T. P. Mukherjee introduced on the spot as a Chittagong Partner of Patel but until then a stranger to the appellant sitting on a chair in front of him was present, but there were also present two others apart from the appellant's brother sitting in that room at the crucial time. The evidence discloses that these two others were sitting at a distance of eight or nine feet from the appellant. Such a notoriously public place with so ceremonious a setting with strangers all about provides too incongruous a background for the acceptance of bribe in a case like this &amp; in my judgment gravely affects the probability of the prosecution case.
+</p> 
+
+<p id="p_12">11. The next outstanding fact, which the Special Judge failed to notice is that the appellant at the very moment of the incident told the Magistrate Mr. T. P. Mukherjee that Patel had seen him on the previous day &amp; agreed to be a partner of M. G. Corporation in the match box tender by paying half the outlay in consideration of half the profits &amp; at that time the accused-appellant also said that Rs. 2000 had been paid as earnest, money for the tender of match box. In my opinion it is difficult to invent a ready-made story on the spur of the moment &amp; on the spot then &amp; there that the money was intended for his brother in the match box tender unless there was a reasonable probability that it was in fact so. If it was all a case of acceptance of bribe, I consider it improbable that the appellant could hit upon that defence immediately at the very moment of the incident. The Special Judge has discussed the probabilities of this case but has failed to notice in so doing how was it that it came to be at all mentioned at the earliest moment. This again is a consideration which in my judgment renders the prosecution case less probable &amp; the defence more probable.
+</p> 
+
+<p id="p_13">12. The next feature of the case that missed the attention of the Special Judge is how far Patel's association with the appellant is to be believed. In my judgment Patel's association with the appellant requires the closest scrutiny. Indeed the most peculiar fact in this context is the absence of G. C. Bose himself from the scene set for offering the alleged bribe although it is in evidence that he was present at the time in the same building in his office at M. G. Corporation &amp; the selection of Patel to play the leading role in paying the alleged bribe. According to Patel, G. C. Bose &amp; he saw the appellant in his office at Messrs. M. G. Corporation some time in the first, second or third week of February 1949 when the appellant was supposed to have told Patel &amp; G. C. Bose that he would not pass their bills &amp; impose heavy fine if they did not pay him three thousand rupees. This visit is the most important visit &amp; one of the central facts on which the whole of Patel's evidence hangs. But in the First Information Report to the Superintendent of Police made by Patel on 15-3-1949 &amp; marked Ex. 1 Patel does not mention this fact at all that he went to the appellant in the company of G. C. Bose. Of course between G. C. Bose &amp; Patel in their evidence they have supported each other on this point. But the fact remains that Patel's omission to report this important visit to have been in the company of G. C. Bose was not noticed by the Special Judge. There is another reason why in my judgment Patel's evidence is not trustworthy. Patel has denied in evidence that he knew of the tender of the match box. In fact his evidence is "I do not know anything about the tender". Being pressed in cross-examination on this point in para. 35 of his deposition he was forced to say this:
+</p><p id="p_14"> "The accused told me that he had earned some money over a contract for match boxes. This he told me sometime in February 1949."
+</p> 
+
+<p id="p_15">If Patel was not concerned at all with the match box tender, what then would be the occasion at all for the appellant to tell Patel about the match box tender? Why should the appellant go out of his way to tell Patel about it? That he told Patel about it is admitted by Patel himself. It can only be consistent &amp; probable with the defence version that Patel wanted to join in as a partner with M. G. Corporation in the tender for match boxes. Added to this is the fact that there was actually a press note issued on 7-3-1949 marked Ex.-A by which the tender notice was issued to the press for publication on 12-13 &amp; 14-3-1949. The notice itself called for tender &amp; said that the tender should reach by 18-3-1949. This, in my judgment, makes the defence again more probable &amp; the prosecution case as based on the evidence of Patel improbable.
+</p> 
+
+<p id="p_16">13. The motive alleged in the charge against the appellant for this offence is facilitating the passing of outstanding bills of Messrs. G. C. Bose &amp; Co. relating to the supply of potatoes &amp; onions to the East India Railway Administration. In the hierarchy of officers the person to deal with these foodgrains contract is M. M. Sen Gupta, the District Controller of Foodgrains. It is only when there is any complaint that the matter reaches the appellant as the Accounts Officer &amp; Financial Adviser to the Deputy General Manager, Grains. On this point the controversy between M. M. Sen Gupta &amp; the appellant boils down to a point of interpretation of the terms of the contract of supply. G. C. Bose &amp; Co, failed to supply according to the contract the potatoes &amp; onions. These are perishable commodities. According to M. M. Sen Gupta such failure to supply was to be penalised by half percent, penalty on the value leviable for the delay in the supply. The principle is that a penalty is imposed on half per cent of the value for each day's delay in the supply; in other words, it only applied to the case of delayed supply &amp; not to the case of non-supply. M. M. Sen Gupta realised that this principle could not in terms be applied to the contract for perishable commodities which were governed by other terms that I shall presently mention. Shat is why M. M. Sen Gupta in his note of 25-8-48 in para. 1 marked H./8 spoke of applying it by "analogy". Sen Gupta's view was put down clearly in Ex. 6/10/1. The appellant's contention was that Sen Gupta was entirely wrong. The contract for supply of potatoes &amp; onions was governed by Ex. B-1 which sets out the terms &amp; conditions &amp; Clause (8) of such terms &amp; conditions provides:
+</p><p id="p_17"> "Time for completion of delivery should be deemed to be the essence of the contract. If the required quantities are not supplied fully on any day or lays during the currency of the contract, the Railway Administration will be at liberty to (a) purchase elsewhere on the account &amp; at the risk of the suppliers the undelivered quantity or quantities without any notice to the supplier &amp; to recever from the supplier any extra cost that may thus be incurred and or (b) forfeit the security deposit in whole or in part at the discretion of the Railway Administration."
+</p> 
+
+<p id="p_18">14. It was, therefore, in this case the question of either a risk purchase or forfeiture of deposit in whole or in part. According to M. M. Sen Gupta's interpretation on the basis of EX. 6/10/1 the penalty only came to a nominal amount of Rs. 7-12-0 &amp; according to the appellant it was likely to involve a forfeiture of the whole or part, of the security deposit which was Rs. 5000. I have no hesitation on the question of construction of the contract that the appellant's interpretation is the correct one having regard to the terms of the contract &amp; the Special Judge was entirely wrong in saying that M. M. Sen Gupta's interpretation was correct. Ultimately it was the appellant's construction which was accepted by the Railway Administration. This view strikes at the very root of the prosecution case regarding the motive because the appellant by insisting on forfeiture as a penalty for non-supply did not stand to gain anything by the proposed bribe. In fact as Ex. 8/8 under date 15-3-49 shows that the appellant said that he had no objection, as indeed he could not have any, because that was exactly what he had all along been contending for. Therefore the incident of 15-3-49 as shown by its result by Ex. 8/8 under that date cannot be said to support the prosecution case that the appellant was holding up the outstanding bills in the hope of getting the bribe so that if he got the bribe then he would decide in favour of a lesser penalty for the delay in supply &amp; would not impose a forfeiture of the deposit. Besides the tearing of the bottom of the page Ex. 6/10/1 which in its present form bears no date nor the initial of M. M. Sen Gupta raises grave suspicion about the document. Then the defence suggestion that the words in Ex. 6/4. "should we not pay for actual supply" are a later interpolation having regard to the first part of the query &amp; its answer already given on the note cannot be brushed aside as totally unfounded. It gives rise to reasonable doubt.
+</p> 
+
+<p id="p_19">15. For these reasons I would give the benefit of doubt to the appellant &amp; acquit him of the charge.
+</p> 
+
+<p id="p_20">16. It is necessary to refer to one aspect of this case which has been stressed by the learned Standing Counsel appearing for the State. It is argued that the appellant dropped the notes on the floor according to the evidence of the Magistrate Mr. T. P. Mukherjee. But he also said in cross-examination that the brother of the accused actually stretched his hand to receive the notes. In para. 7 of the deposition of the Magistrate, Mr. T. P. Mukherjee this is what he says: "The dropping of the notes by the accused &amp; the withdrawal of the hand by his brother were simultaneous." In that context, therefore, the dropping of the notes by the appellant on the floor is not inconsistent with the defence version &amp; reasonable probability that they were meant for his brother who actually extended his hand to receive them. Therefore, the fact that the notes were dropped on the floor does not lead to the irresistible conclusion showing the accused's guilt &amp; it will be too slender &amp; unsafe a piece of evidence on which to hold the accused guilty.
+</p> 
+
+<p id="p_21">17. A good deal of comment has also been made that the defence did not call H. K. Mitra, the brother of the appellant, to give evidence, who could have spoken of the contract for match box. It is not clear to us how much he could have said if it was the appellant who was arranging to help Patel become a partner of his brother.
+</p> 
+
+<p id="p_22">18. The point is of importance by reason of the special provisions in the <a href="/doc/1331755/" id="a_4">Prevention of Corruption Act</a>, 1947, regarding the presumption against the accused. It is contended on behalf of the State that having regard to <a href="/doc/731949/" id="a_5">Section 4</a>, <a href="/doc/1331755/" id="a_6">Prevention of Corruption Act</a>, 1947 (Act II [2] of 1947) the onus was upon the accused to call evidence &amp; in so far as he has failed to have done so the offence is proved against him. This is a question of very large importance &amp; of very great practical significance in corruption cases. It is essential to study the language of this section of the statute in order to find out what is the actual position of the accused under the statute. Presumption in this section arises only upon "proof" that the accused person has accepted or agreed to accept or obtained or attempts to obtain for himself or any other person any gratification or any valuable thing from any person. Such presumption overrides <a href="/doc/1331755/" id="a_7">Sections 101</a> to <a href="/doc/1331755/" id="a_8">114</a>, <a href="/doc/1953529/" id="a_9">Evidence Act</a>, relating to the burden of proof &amp; presumption. But this statutory presumption under <a href="/doc/731949/" id="a_10">Section 4</a>, <a href="/doc/1331755/" id="a_11">Prevention of Corruption Act</a>, 1947, is only with regard to motive or reward mentioned in <a href="/doc/1331755/" id="a_12">Section 161</a>,<a href="/doc/1569253/" id="a_13"> Penal Code</a>, or with regard to absence or inadequacy of consideration presumably with reference to <a href="/doc/1331755/" id="a_14">Section 165</a>,<a href="/doc/1569253/" id="a_15"> Penal Code</a>. Ordinarily, the prosecution would be liable to prove the motive or reward under <a href="/doc/1331755/" id="a_16">Section 161</a>,<a href="/doc/1569253/" id="a_17"> Penal Code</a>, or absence or inadequacy of consideration under <a href="/doc/1331755/" id="a_18">Section 165</a>,<a href="/doc/1569253/" id="a_19"> Penal Code</a>, because such motive or reward or such absence or inadequacy of consideration is part of the very offence under <a href="/doc/1331755/" id="a_20">Section 161</a> or <a href="/doc/1331755/" id="a_21">Section 165</a>,<a href="/doc/1569253/" id="a_22"> Penal Code</a> respectively. But now by reason of <a href="/doc/731949/" id="a_23">Section 4</a>, <a href="/doc/1331755/" id="a_24">Prevention of Corruption Act</a>, 1947, that presumption will be made against the accused the moment the prosecution proves that the accused accepted or agreed to accept or obtained or attempted to obtain any gratification or valuable thing.
+</p> 
+
+<p id="p_23">19. In my judgment this does not mean that the burden of proof on the prosecution to establish the acceptance or the agreement to accept or the obtaining or the agreement to obtain the gratification or the valuable thing is at all displaced by this section. That burden still remains on the prosecution &amp; it is only when the prosecution has discharged that  burden that the presumption of (a) motive or reward or (b) absence or inadequacy of consideration  will be  made against the accused. But not until then such presumption can operate against the accused. Notwithstanding <a href="/doc/731949/" id="a_25">Section 4</a>, <a href="/doc/1331755/" id="a_26">Prevention of  Corruption Act</a>,  1947,  the burden  still remains upon the prosecution to prove first that the  accused has  accepted or agreed to accept or has obtained or agreed to obtain the gratification or the valuable thing &amp; this proof must be in accordance with the standard of proof laid down by <a href="/doc/581728/" id="a_27">Section 3</a>, <a href="/doc/1953529/" id="a_28">Evidence Act</a>. The learned Standing Counsel argued  that it was no longer necessary to prove even this &amp; only about fifty per  cent or a lower standard  of  proof  will  be sufficient.  I entirely reject that argument. Proof  here  has  only   one standard &amp; that is provided by <a href="/doc/581728/" id="a_29">Section 3</a>, <a href="/doc/1953529/" id="a_30">Evidence Act</a>. I am not prepared to accept any other standard of proof by percentage or plausibility.
+</p> 
+
+<p id="p_24">20. Then again the question arises how far <a href="/doc/731949/" id="a_31">Section 4</a>, <a href="/doc/1331755/" id="a_32">Prevention of Corruption Act</a>, 1947, applies in the case of a person through whom money passed. In this case as has been found that although the money was handed over to the appellant it was passed on immediately to his brother. Now, the words of this section of the statute are "For himself or for any other person". Therefore even if one accepts a gratification or a valuable thing for any other person he comes within the plain meaning of these words, but an unconscious &amp; unknowing transmitter or bearer would not in my view come within the section. Suppose for instance any postal or railway authority or any other carrier or agent who is asked to accept or carry money or valuable thing without knowing that it is a bribe for some body else, he cannot in my view be said to have accepted bribe or valuable thing for any other person within the meaning of the section. There must go along with the idea of acceptance a conscious mind that the gratification or the valuable thing is for another person before such acceptance can come within the operation of the section.
+</p> 
+
+<p id="p_25">21. The presumption against the accused under <a href="/doc/731949/" id="a_33">Section 4</a>, <a href="/doc/1331755/" id="a_34">Prevention of Corruption Act</a>, 1947, regarding the motive or reward or absence or inadequacy of consideration is a rebuttable presumption. That presumption may be rebutted by the accused not only by any oral testimony of witnesses called on behalf of the accused but also by a statement of the accused under <a href="/doc/1331755/" id="a_35">Section 342</a>, Criminal P. C. &amp; by any document produced on behalf of the defence of the accused or by the surrounding circumstances. In this case the presumption against the appellant with regard to the motive has in my judgment been replaced or rebutted by the fact of the match box tender referred to not only by the statement of the accused under <a href="/doc/1331755/" id="a_36">Section 342</a>, Criminal P. C. but also by Ex. A &amp; surrounding circumstances.
+</p> 
+
+<p id="p_26">22. I have carefully perused the decisions of this Court on cognate subjects in the case of <a href="/doc/856838/" id="a_37">Chang Chung Ching v. Emperor</a>, 49 C.W.N. 229, in the case of The King v. Capt. J. E. Blythe, 53 C. W. N. 887 &amp; the decision in the case of the <a href="/doc/983989/" id="a_38">King v. S. C. Mitter</a>, in Criminal Appeal No. 236 of 1949 where the judgment of the Court was delivered by my learned brother on 3-3-1950 as well as the decision of the Allahabad High Court in <a href="/doc/1090427/" id="a_39">Promod Chandra v. Rex</a>, 52 Cr. L. J. 197. Nothing in these decisions appears to contradict the view that I have taken. It was observed by the English Court of Appeal in the case of Rex v. Car-Briant, (1943) 1 K. B. 607, dealing with the <a href="/doc/1331755/" id="a_40">Prevention of Corruption Act</a>, 1916, that where either by statute or at common law some other matter is presumed against the accused "unless the contrary is proved" the jury should be directed that it is for them to decide whether the contrary is proved, that the burden of proof required is less than that required at the hands of the prosecution in proving the case beyond any reasonable doubt &amp; that the burden may be discharged by evidence satisfying the jury of the probability of that which the accused is called upon to establish. This applies here with equal, if not greater force, on the basis of the facts of the case as I hold "the contrary is proved". Like the English statute the accused here also is called upon "to prove the contrary" &amp; it is enough for him if he rebuts the presumption, &amp; proof of the contrary is proof according to <a href="/doc/581728/" id="a_41">Section 3</a>, <a href="/doc/1953529/" id="a_42">Evidence Act</a>.
+</p> 
+
+<p id="p_27">23. Before I conclude I wish to express this Court's great disapprobation of the practice that seems to have become very frequent of sending Magistrates as witnesses of police traps. The Magistrate is made to go under disguise to witness the trap laid by the police. In this case it was Presidency Magistrate &amp; in other cases which have come to our notice there have been other Magistrates who became such witnesses. To make the Magistrate a party or a limb of the police during the police investigation seriously undermines the independence of the Magistrates &amp; perverts their judicial outlook. The Magistrates are the normal custodians of the general administration of criminal justice &amp; it is they who normally decide &amp; pass judgments on the acts &amp; conduct of the police. It is not enough to say, therefore, that the Magistrate acting as a witness in a particular case does not himself try that case. This practice is all the more indefensible here specially when there is no separation of the executive from the judiciary. The basic merit of the administration of criminal justice in the State lies in the fact that the person arrested by the police is entitled to come before an independent &amp; impartial Magistrate who is expected to deal with the case, without the Magistrate-himself being in any way a partisan or a witness to police activities. There is another danger &amp; that is the Magistrates are put in the unenviable &amp; embarrassing position of having to give evidence as a witness &amp; then being disbelieved. That is not the way to secure respect for the Magistracy charged with the administration of justice. In my judgment this is a practice which is unfair to the accused &amp; unfair to the Magistrates. It is also unfair to the police. Because charged with the high responsibility &amp; duty of performing a great &amp; essential public service of this State the police cannot afford to run the risk of opprobrium, even if unfounded, that they have enlisted the Magistrate in their cause. That risk is too great &amp; involves forfeiting public respect &amp; confidence. The learned Standing Counsel for the State attempted a comparison with Income-tax Officers who carry on their own investigation. But that is to compare the incomparable. One of the essential securities of a free people is that those who detect crimes shall not be those who try them. A sound &amp; impartial administration of criminal justice in the country demands an independent &amp; untramelled magistracy free from even the slightest breach of police tutelage.
+</p> 
+
+<p id="p_28">24. The appeal is allowed. The order of conviction &amp; sentence passed by the Special Judge is set aside &amp; the appellant is acquitted of the charge. He is directed to be discharged from his bail bond.
+</p> 
+
+<p id="p_29">Das Gupta, J.
+</p> 
+
+<p id="p_30">25. I agree that this appeal be allowed &amp; the order of conviction &amp; sentence of the appellant be set aside &amp; the appellant acquitted. My learned brother has given detailed reasons for the conclusion that the order of conviction cannot be sustained &amp; I entirely agree with them. It is very clear that assuming that the appellant did accept certain monies for another person he has proved to the satisfaction of the Court that that money was received by him not as a bribe for himself but as earnest money for his brother. This is sufficient to show that the appellant has been wrongly convicted.
+</p> 
+
+<p id="p_31">26. I agree entirely with the observations made by my learned brother as regards the undesirability of the practice which has recently sprung up of using Magistrates of the land to work as part of the police machinery. It is a matter of great concern to this Court that Magistrates who are to administer justice allow themselves to be used as a limb of the police. As my learned brother has pointed out, it becomes very difficult, if not impossible, for a Magistrate who has worked as a part of the police machinery to bring an unbiassed mind to the consideration of problems in which the police are concerned. It is equally clear that when Magistrates act in this manner the people who appear before them lose all respect in them &amp; reasonably apprehend that such Magistrates are merely a part of the police. It is unfortunate that in this case the Chief Presidency Magistrate passed an order directing the Magistrate Mr. T. P. Mukherjee to comply with the police request to witness the payment of the bribe. It seems to me doubtful if the Chief Presidency Magistrate in his capacity as a superior Magistrate has any right to ask the other Presidency Magistrates to work in this manner as a limb of the police. We are conscious that so long as the directive principle of the Constitution for separation of the judiciary from the executive is not acted upon, there will always remain the risk of the magistracy not being independent. That is no reason, however, that the Chief Presidency Magistrate himself would take a step which is calculated to throw grave doubt on the independence of the judiciary. There may be some who in excess of zeal for the success of the executive department of the Govt. think that it is right &amp; proper that the judiciary should not be independent of the executive. We, in this Court, can never accept that proposition as correct. We are convinced that the interests of the country no less than the administration of justice demand that the judiciary should be independent of the executive. Indeed, to say otherwise would be to throw doubt on the wisdom of the Constitution of India, which it is our right &amp; duty to guard. The importance of these principles should not be overlooked by the Chief Presidency Magistrate or other Magistrates who may be requested by high police officials to lend the services of the Magistrates to work as part of the police.
+</p> 
+
+<p id="p_32">27. Let a copy of our observations on this matter be sent to the Judicial Secretary to the Govt. of West Bengal.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

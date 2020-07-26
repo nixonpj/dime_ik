@@ -1,0 +1,380 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>T.S. Arulroyer (Deceased) And ... vs Lajja Bai on 9 September, 1996</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1502174/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1502174">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/463150/">The Election Laws (Amendment) Act,   2003</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/223060/">Section 2 in The Election Laws (Amendment) Act,   2003</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/131693/">Dattonpant Gopalvarao Devakate vs Vithabrao Maruthirao Janagavai on 3 April, 1975</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1512333/">Dashrath Baburao Sangale And ... vs Kashimath Bhaskar Data on 10 February, 1993</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1576889/">Saroja Varadarajan vs Kondah Kasi Seetharaman on 6 December, 1983</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 3 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/143578/">Zahir Hussain vs Aruna And Arumugathammal on 18 February, 2002</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/571866/">Zahir Hussain vs Aruna And Anr. on 18 February, 2002</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/376426/">Balasubramanya Gupta vs Saraswathi Ammal (Died), ... on 31 December, 2004</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1502174/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1502174/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20revision%20petition">civil revision petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20revision">civil revision</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=radio">radio</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%27any%20person%27%20includes">'any person' includes</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=eviction%20petition">eviction petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=death%20of%20tenant">death of tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Who%20is%20Tenant%20after%20death%20of%20Tenant">Who is Tenant after death of Tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=eviction%20order">eviction order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20representative%20not%20a%20legal%20heir">legal representative not a legal heir</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=heir%20not%20legal%20representative%20">heir not legal representative </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tenant%20case">tenant case</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=NON-RESIDENTIAL%20BUILDING">NON-RESIDENTIAL BUILDING</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=definition%20of%20legal%20representatives">definition of legal representatives</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20representatives%20act">legal representatives act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%202%20%2811%29%20cpc">section 2 (11) cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=intermeddler">intermeddler</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cpc%2011">cpc 11</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=claiming%20as%20tenant">claiming as tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=son%20of%20a%20tenant%20">son of a tenant </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20will%20and%20tenant%20%20%20"> will and tenant   </a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">T.S. Arulroyer (Deceased) And ... vs Lajja Bai on 9 September, 1996</div><div class="doc_citations">Equivalent citations: (1997) 1 MLJ 208</div>
+
+<div class="doc_author">Author: A Lakshmanan</div>
+
+<p id="p_1">ORDER
+ 
+
+AR. Lakshmanan, J.
+</p> 
+
+<p id="p_2">1. The matter arises under the Tamil Nadu Buildings (Lease and Rent Control) Act, 1960 (hereinafter referred to as the Act). The case has a chequered history. The landlady who filed the eviction petition in August, 1982 is still longing for justice1 in this Court. The matter came up before this Court on an earlier occasion in revision filed by the tenant, which was disposed of by this Court on 13.11.1987 by remitting the matter back to the Appellate Authority to consider the question whether the tenant has put a substantial portion of the building to a different user in the light of the observations made in the order. Both parties were given due opportunity to adduce oral and documentary evidence on this aspect of the matter alone. After remand, evidence was let in, both oral and documentary. The Appellate Authority on a careful consideration of the evidence placed, both oral and documentary rejected the Appeal R.C.A. No. 622 of 1983 by his order, dated 25th March, 1991. The tenant/first petitioner (T.S. Arulroyer (deceased)) has filed the present civil revision petition before this Court and the same was admitted on 24.7.1991. During the pendency of this civil revision petition, the tenant/first petitioner, T.S. Arulroyer died and his son and two grandsons through his son were brought on record as petitioners 2 to 4, and as the legal representatives of the first petitioner, T.S. Arulroyer as per the order of this Court, dated 6.3.1996 in C.M.P. No. 14099 of 1995. As stated above, C.M.P. No. 14099 of 1995 was filed by the son and grandsons of the deceased first petitioner/tenant under Section 27(2) of the Act read with Rule 25 of the Rules to bring them on record as petitioners 2 to 4 being the legal representatives of the first petitioner late T.S. Arulroyer in this civil revision petition and also permit them to continue the civil revision petition. One A. Maria Antony, (second petitioner), son of the first petitioner/tenant has sworn to the affidavit filed in support of the above civil miscellaneous petition. It is stated in the affidavit that even during the life time of the tenant, the two grand sons viz., the proposed petitioners 3 and 4 were looking after the shop along with the tenant/first petitioner. They have also paid the rent in respect of the petition property in question to the landlady. It is further stated that since the tenant/T.S. Arulroyer died on 2.7.1995, leaving behind him his only son as his legal heir and that since the proposed petitioners 3 and 4, who are the grand sons of the deceased tenant, who were actually looking after the business in the petition mentioned property, all the three of them must be impleaded as the legal, representatives of the deceased tenant, the sole petitioner in the civil revision petition. The above civil miscellaneous petition was contested by the respondent/landlady, who filed a detailed counter-affidavit, denying all the allegations made in the affidavit filed in the abovesaid civil miscellaneous petition by one of the legal representatives of the tenant. It is contended that as the son of the tenant (petitioner No. 2) was not in continuous association with the tenant, viz., his father, the purpose of carrying on the business, the son of the deceased tenant cannot become the legal representative of the deceased tenant as far as the proceedings under the Rent Control Act are concerned. Likewise, the grandsons of the deceased tenant/first petitioner cannot also (petitioners 3 and 4) become the legal representatives of the deceased tenant, as they do not come within the definition of the legal representatives of the deceased tenant. It is also stated that the grandsons of the tenant/first petitioner (petitioners 3 and 4) were also not in continuous association with their grand father for the purpose of carrying on business. Under those circumstances, it was contended on the side, of the landlady that they cannot be impleaded as the legal representatives of the deceased first petitioner/tenant. When the above C.M.P. No. 14099 of 1995 came up for orders, before my learned brother Jagadeesan, J. he reserved liberty to both parties to raise all those objections at the time of final disposal of the civil revision petition.
+</p> 
+
+<p id="p_3">3. Before dealing with the legal submissions of learned Counsel appearing on either side, I would like to narrate the facts of this case in short: As seen already, the respondent in this case filed a petition under Section 1O(2)(b) of the Act for an order of eviction of the tenant from the shop bearing door No. 6 in the ground floor of the premises bearing door. No. 15, Ramanan Road, Madras. The eviction was sought on the only ground that the tenant was using the shop portion demised to him for some other purpose other than that for which it was leased out to him viz., for carrying on business as a dealer in provisions, such as dhalls, pulses and other condiments. Since the tenant has committed an act of using the leased premises for a purpose other than that for which it was leased, it is contended that the tenant has rendered himself liable to be evicted from the said portion. A notice, dated 19.4.1979 was issued to the tenant, terminating his tenancy ending with the period 31st May, 1979 and calling upon him to quit and deliver vacant possession of the shop portion fully described in the schedule in the petition to the landlady. Since the tenant failed and neglected to comply with the notice, the eviction petition in R.C.O.P. No. 2190 of 1982 was filed in April, 1982. It is relevant in this context to reproduce the only relevant clause for deciding the dispute raised in this civil revision petition. The rent agreement was marked as Ex. P-2, dated 1st April, 1975. It was entered into between the tenant/first petitioner (deceased) and the respondent. The relevant clause in the agreement runs as follows:
+</p><p id="p_4"> That the shop let out to the tenant viz., the shop No. 6 shall be used by the tenant only for carrying on his own business dealing in Radios, Cycles, fans, clocks and steel furnitures and for non residential purposes and the tenant shall not carry on any other business than the above said business.
+</p> 
+
+<p id="p_5">4. It is the case of the landlady that the building was leased out to the tenant for the purpose of carrying on business dealing in Radios, Cycles, Fans, Clocks and Steel furnitures and that it was specifically agreed by the tenant that he would not carry on any other business and use the building for any other purpose and that as against such specific agreement, the tenant is using the business premises for carrying on business in grocery.
+</p> 
+
+<p id="p_6">5. The tenant resisted the petition, contending that the building was not leased out to him for carrying on or dealing with any particular business, but for a non-residential purpose in general. According to him, though he used the building initially for carrying on business for radios ere, later on, he has extended his business activities and started dealing with other articles and therefore, it would not amount to a different user. The Rent Controller, after considering the evidence adduced by both parties came to the conclusion that the tenant was using the premises for a different purpose other than for which it was let out and ordered eviction. As against the said order, the tenant preferred R.C.A. No. 622 of 1983 and the Appellate Authority confirmed the findings of the Rent Controller. Aggrieved against the said order, the tenant preferred a Civil Revision Petition No. 942 of 1984 before this Court. On behalf of the tenant, it was contended before this Court that there was absolutely no prohibition in the rental agreement, Ex. P-2 for carrying on business in other articles apart from the articles mentioned in the said lease agreement.
+</p> 
+
+<p id="p_7">6. Paragraphs 10 and 11 of the order, dated 13.11.1987 passed by Sivasubramaniam, J. in (C.R.P. No. 942 of 1984 dated 13.11.1987) reads as follows:
+</p>  
+
+<p id="p_8">In this case, I find that the tenant has raised a specific plea stating that the landlady is bound to establish that a substantial portion of the building has been put to different user. Inspite of that, the authorities below have not chosen to consider this aspect of the case. Therefore, there is no alternative except to remit the matter back to the Appellate Authority or considering this aspect of the case alone.
+</p> 
+
+<p id="p_9">Therefore, this revision petition is allowed and the orders of the authorities below are set aside and the matter is remitted to the appellate authority for considering the question whether the tenant has put a substantial portion of the building to a different user, in the light of the above observations. Both parties are at liberty to adduce oral and documentary evidence on this aspect alone. In the circumstances of the case, there will be no order as to costs.
+</p> 
+
+<p id="p_10">After remand, the learned Appellate Authority rejected the appeal filed by the tenant and aggrieved against the said order, the tenant has now filed the present civil revision petition.
+</p> 
+
+<p id="p_11">7. When the present revision petition came up for final hearing before this Court, Mr. A.L. Somayajee, learned Senior Counsel appearing for the respondent/landlady raised a preliminary objection in regard to the locus standi of the grandsons of the first petitioner/tenant (deceased) in contesting this civil revision petition. According to Mr. A.L. Somayajee, learned Senior counsel for the respondent/landlady, the grandsons of the first petitioner/tenant who had been brought on record do not satisfy the definition of 'tenant' contained in Section 2(8) of the Act.
+</p> 
+
+<p id="p_12">8. I shall now consider the legal submissions of Mr. A.L. Somayajee, learned Counsel for the respondent/landlady. Section 2, Sub-clause (8) of the Act reads thus:
+</p>  
+
+<p id="p_13">(8) "tenant" means any person by whom or on whose account rent is payable for a building and includes the surviving spouse, or any son, or daughter, or the legal representative of a deceased tenant who-
+</p>  
+
+<p id="p_14">(i) in the case of a residential building, had been living with the tenant in the building as a member of the tenant's family upto the death of the tenant, and
+ 
+
+</p><p id="p_15">(ii) in the case of a non-residential building, had been in continuous association with the tenant for the purpose of carrying on business of the, tenant upto the death of the tenant and continues to carry on such business thereafter, and a person continuing in possession after the termination of the tenancy in his favour, but does not include a person placed in occupation of a building by its tenant or a person to whom the collection of rents or fees in a public market, cart stand or slaughter-house or of rents for shops, has been framed out or leased by a Municipal Council or a Panchayat Union Council or the Municipal Corporation of Madras or the Municipal Corporation of Madurai....
+</p> 
+
+<p id="p_16">It is the specific contention of Mr. A.L. Somayajee, learned senior counsel for the respondent/landlady that the grandsons of the deceased tenant/first petitioner whom claimed to have been in continuous association with the deceased tenant/first petitioner for the purpose of carrying op business would not be his legal representatives, since the son of the tenant (A. Maria Antony, petitioner No. 2) is alive, though he permanently resides outside India. It is the submission that the definition of the term 'tenant' is contained in two parts and the first limb of the definition refers to any person by whom or on whose account rent is payable for a building. The second limb of the definition which is inclusive in nature includes the surviving spouse or any son or any daughter or any legal representative of a deceased tenant. The expression 'legal representatives' has not been defined in the Act.
+</p> 
+
+<p id="p_17">9. The definition, of legal representative is found in Section 2(11) of the Code of Civil Procedure and the said expression means any person who in law represents the estate of a deceased person includes any person who intermeddles with the estate of the deceased and where a party sues or is sued in a representative character the person on whom the estate devolves on the death of the party so suing or sued. Section 2(11) of the Code of Civil Procedure is as follows:
+</p><p id="p_18"> 'legal representatives' means a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased and where a party sues or is sued in a representative character the person on whom the estate devolves on the death of the party so suing or sues.
+</p> 
+
+<p id="p_19">10. The Act contemplates that legal representatives of a deceased tenant will succeed to the rights of the tenancy only if they have been in continuous association with the tenant for the purpose of carrying on the business, unlike the Code of Civil Procedure, which defines the term 'legal representatives' to mean any person who intermeddles with the estate of the deceased. Therefore, the expression 'legal representative' has been narrowed down in the Act unlike the Code of Civil Procedure.
+</p> 
+
+<p id="p_20">11. A Division Bench of this Court in the decision reported in <a href="/doc/1033685/" id="a_1">Mohammed Sultan Mohideen v. Official Trustee</a> , while dealing with the definition of the erstwhile Clause (8) of Section 2 of the substituted Clause (8) of Section 2 of the Act, which was amended as per the Act XXIII of 1973 has considered the issue, which can be usefully and beneficially extracted as hereunder:
+</p>  
+
+<p id="p_21">We are of the view that even under the old definition, the Legislature made it clear that unless the heir or the legal representatives, who project a claim to be continued as statutory tenant establishes as a fact, that he or they was or were living with the deceased tenant, viz., his or their predecessor in title-interest, he or they cannot obtain the statutory benefits under the provisions of Act XVIII of 1960. When the definition was amended as per Act XXIII of 1973, the following clause was substituted in the place of the erstwhile Clause (8) of Section 2. Clause (8) of Section 2 of the Act reads as follows:
+</p>  
+
+<p id="p_22">'tenant' means any person by whom or on whose account rent is payable for a building and includes the surviving spouse, or any son or daughter, or the legal representatives of a deceased tenant who....
+</p>  
+
+<p id="p_23">(i) in the case of a residential building, had been living with the tenant in the building as a member of the tenant's family upto the death of the tenant, and
+ 
+
+</p><p id="p_24">(ii) in the case of a non-residential building, had been in continuous association with the tenant for the purpose of carrying on the business of the tenant upto the death of the tenant and continues to carry on such business thereafter, and a person continuing in possession after the termination of the tenancy in his favour etc., etc.,....
+</p> 
+
+<p id="p_25">4. Due to such an amendment, the Legislature, according to us, again declared its intention by clarifying the position and by laying an emphasis upon such association of the heirs and legal representatives with the deceased tenant. On an examination of the two limbs of the definition of 'tenant' in Section 2(8) as amended in 1973, one gains the impression that in order to secure continuity in the tenancy the heirs should prove, as a fact, that they were, in the case of a residential building, residing with the deceased tenant as members of his family till his death and equally prove, in the case of a non-residential building, that they were in continuous association with the tenant for the purpose of carrying on the business of the tenant upto the death of the tenant and continue to carry on such business thereafter. It is therefore fairly clear that such a commercial association with the deceased tenant in the business or non-residential activity which was carried on by the deceased in the premises is an essential sine quo non to claim the benefits under Section 2(8)(ii) of the Act. It appears to us that even alter the amendment of the definition of 'tenant' in Section 2(8), the legislature maintained its legislative intent to ensure that only heirs and legal representatives who were living with or associated with the deceased tenant in the case of residential or non-residential buildings as the case may be can claim the benefits of continuing as statutory tenants. This primordial requirement has to be complied with and if there is no proof of nexus in the matter of living or in the matter of the continued association in the quantum of mercantile activity of the deceased tenant, then the heirs or legal representatives, in each of those cases, would not be entitled to the benefits of Act XVIII of 1960. If therefore, the halo of the above legislative intent pervaded the entire fabric of the particular legislation and if what has been achieved by the amendments to declare and clarify such a pre existing intent, then the question whether the amendment which is clarificatory in nature is retrospective in operation does not at all....
+</p> 
+
+<p id="p_26">In this connection, it is also useful to refer to the decision reported in <a href="/doc/1576889/" id="a_2">Saroja Varadarajan v. Kondah Kasi Seetharaman</a> 97 L.W. 398, which was rendered in a second appeal admitted on the following substantial question of law:
+</p>  
+
+<p id="p_27">1. Whether the definition of 'tenant' under the Tamil Nadu Buildings (Lease and Rent Control) Act, 1960 in case of death of the tenant will include any one of the legal representatives or all the legal representatives of the deceased tenant?
+</p> 
+
+<p id="p_28">2. Whether the definition of tenant in so far as the deceased tenant will mean only his spouse or only his son or his daughter or all?
+</p> 
+
+<p id="p_29">3. Whether the word or given in Section 2(8) of the Tamil Nadu Buildings (Lease and Rent Control) Act has to be read as 'or' or as 'and'?
+</p> 
+
+<p id="p_30">4. Is not the appellant entitled to have a declaration that she is a tenant of the respondent by virtue of Section 2(8) of the Act 18 of I960 as amended in 1973? and
+ 
+
+</p><p id="p_31">5. Whether it will not be open for the landlord to take eviction proceedings against one of the legal representatives of the deceased tenant ignoring the widow and can he execute the same against the other legal representatives?
+</p> 
+
+<p id="p_32">In paragraph 7 of the said decision, Shanmukham, J. has held as follows:
+</p><p id="p_33"> Further, the contrast between Section 2(11), C.P.C. and Section 2(8) of the Act will amply support a conclusion that a proceeding under the Act instituted against any one of those such as surviving spouse, or any son or daughter, or the legal representative of a deceased tenant, is enough compliance of this provision. For legal representative as per Section 2(11), C.P.C, means all those on whom the whole estate devolved including an intermeddler. But, that is not the language employed in Section 2(8) of the Act if can safely be assumed that the legislature deliberately employed the disjunctive word "or' in Section 2(8) of the Act. Even in a proceeding governed by the C.P.C. the law is well settled that in any proceeding instituted and pursued against one or other of the legal representatives with the bona fide belief that he or they alone are the legal representatives of the deceased, the decree or order will bind the estate and other legal representatives (Vide: <a href="/doc/1711193/" id="a_3">Sulaiman v. Ismail</a>, , a fortiori, the eviction order suffered by the son will bind the others enumerated under Section 2(8) of the Act....
+</p> 
+
+<p id="p_34">12. In the present case, the grandsons of the deceased tenant/first petitioner have been impleaded as petitioners 3 and 4 as per the order or this Court in C.M.P. No. 14099 of 1995, dated 6.3.1996, on the specific averments made by them that they are the tenants and that they are actually looking after the business along with the original tenant etc. According to them they satisfy the definition of 'tenant' under Section 2(8)of the Act.
+</p> 
+
+<p id="p_35">13. With reference to a non-residential building an enumerated relative cannot be said to be a tenant, if such a person has not been in continuous association with the tenant for the purpose of carrying on the business of the tenant upto the death of the tenant and continued to carry on such business thereafter. In the absence of such continuous association with the tenant for the purpose of carrying on the business, even an enumerated relative cannot claim to be a tenant. In other words, the sine quo non to claim the benefit under Section 2(8)(ii) of the Act is that the person claiming to be a tenant must be associated with the deceased tenant in the business on a non-residential activity which is carried on by the deceased tenant in the premises. It is therefore clear that the definition of 'tenant' in Section 2(8) of the Act not only envisages heritable relationship but also association with the business carried on by the deceased tenant in the premises till his death.
+</p> 
+
+<p id="p_36">14. In the decision reported in <a href="/doc/954625/" id="a_4">R. Ramanujam v. D. Venkat Rao</a> , a Division Bench of Andhra Pradesh High Court while considering the provisions of Section 2(ix) of Andhra Pradesh Buildings (Lease, Rent and <a href="/doc/463150/" id="a_5">Eviction) Act</a>, 1960 has taken a view that even though a nephew does not come within the purview of the persons mentioned in Section 2(ix) of the Andhra Pradesh Rent Control Act, he would be a 'legal representative' as defined in Section 2(11) of the Code of Civil Procedure, as there is no definition of 'legal representative' in the Andhra Pradesh Rent Control Act. That was the case in which one 'R' was the original tenant. On the death of 'R', his concubine one 'S' requested the landlord to allow her to continue the premises in question and the landlord accordingly agreed and allowed her to continue her as a tenant. Since she failed to pay the rent regularly, the landlord terminated the tenancy and asked 'S' to vacate the premises. Thereafter the landlord filed an eviction petition against 'S' on the ground of wilful default in the payment of monthly rent and also on the ground that the said 'S' has sub let the premises to one Ramanujam, the nephew of original tenant 'R'. The nephew, was not made a party to the Rent Control proceedings and has filed a petition to implead him as party on the ground that he was the nephew of the original tenant or he was living with him in the premises till the death of original tenant or he was living with him in the premises till the death of original tenant and therefore, he should be treated as the original heir of the tenant and therefore, he should be treated as the original heir of the tenant. The Rent Controller allowed his petition and made him as a party to the rent control petition. One of the conditions which was raised before the Andhra Pradesh High Court was that the nephew was the legal representative of the deceased tenant on the ground that he was in occupation of the premises, as the nephew of the deceased tenant. It was in that context the Andhra Pradesh High Court made the following observation:
+</p>  
+
+<p id="p_37">Paragraphs 33 and 34:
+</p>  
+
+<p id="p_38">Para. 33. "The legal representative is not defined by the Rent Control Act it is therefore, clear that even though Ramanujam was not the tenant, he is in the occupation of the premises as the nephew of the deceased tena1nt-Rajayya. Hence, he claims to be the legal representative of the deceased tenant Rajayya Obviously, he does not come under the categories of persons mentioned in Section 2(ix) of the Rent Control Act. But there cannot be any doubt that as the nephew of the deceased tenant, he would come under the legal representative as defined in Section 2(11) of the Civil Procedure Code as there is no definition of legal representative in the A.P. Rent The Division Bench of this Court in the above civil revision petition held that where the Rent Control Act is silent the definition of legal representative given in the Civil PC. applies. The above cited ruling of the Division Bench also makes it clear that an eviction petition is maintainable against the legal representative of the deceased tenant even though he does not come under the category of persons mentioned m Section 2(ix) of the Rent Control Act....
+</p> 
+
+<p id="p_39">Para. 34. Thus, it is clear that inasmuch as Ramanujam is the legal representative of the deceased tenant (Rajayya) he was rightly impleaded as the second respondent in the eviction petition. Even (he decision of the Supreme Court in Damadilal's case, A I.R 1976 S.C. 2229 laid down that a legal heir can be hi ought on record in an eviction petition and he is entitled to claim tenancy rights of the deceased-tenant by virtue of the heritability.
+</p> 
+
+<p id="p_40">15. A Division Bench of this Court consisting of Horwill and Balakrishna Ayyar, JJ. has considered the question as to who would be the legal representatives within the meaning of Section 2(11) of the Code of Civil Procedure and has held as follows: The persons or class of persons indicated by the expression 'legal representative' would depend on the context. Subject to that qualification it includes properly appointed executors and administrators; it includes persons who have taken on themselves duties and responsibilities, which belong to the office of executor or administrator even though only in respect of part of the estate; it includes heirs at law, whether they take by succession or by survivorship; it includes reversioners where the action has been brought by or against the widow representing her husband's estate; it includes a universal legatee; it may perhaps in some cases and for some purposes include persons in de facto possession of the entire estate of the deceased; but it does not include trespasser; it does not include creditors who have received payments of the debts due from the estate of the deceased; it does not include persons dealing in the ordinary course of business with goods of the deceased received from another; it does not include persons who intervene merely for the purposes of preserving the goods of the deceased or providing for his funeral or for immediate necessities of his family; it does not include legatees' of a part of the estate and it does not include those taking possession of the property of the deceased from the legatees of a part of the estate.
+</p> 
+
+<p id="p_41">16. In order to claim the status of tenant under the Act, it is not necessary that the person claiming such status should be the legal heir of the deceased tenant. If the intention of the legislature was to confine the benefits of statutory tenancy only to the legal heirs, then nothing would have been easier than to the use the expression 'legal heir' in <a href="/doc/223060/" id="a_6">Section 2(8)</a> of the Act instead of 'legal representative.' When the Legislature in <a href="/doc/223060/" id="a_7">Section 2(8)</a> of the Act, it will not be possible for this Court to equate the term legal representative to legal heirs. The acceptance of the contention as advanced by Mr. A.L. Somayajee, learned Counsel for the respondent/landlady would mean that only legal heirs of the deceased can claim to be a tenant. It is not necessary that the legal representative should only be a legal heir. A person who does not fall under the first limb of the definition of 'tenant' which enumerates the categories of persons can also claim to be a tenant, provided he is a legal representative who had been in continuous association with the original tenant for the purpose of carrying on business upto the date of death of the original tenant and continues to carry on such, business thereafter.
+</p> 
+
+<p id="p_42">17. Learned Senior Counsel, Mr. R. Krishnamoorthy, appearing for the tenant/revision petitioners would invite my attention to <a href="/doc/463150/" id="a_8">Section 27</a> of the Act, which runs thus:
+</p>  
+
+<p id="p_43"><a href="/doc/463150/" id="a_9">Section 27</a>: Proceedings by or against legal representatives: (1) Any application made, appeal preferred, or proceeding taken, under this Act by or against any person, may, in the event of his death, be continued by or against his legal representatives.
+</p> 
+
+<p id="p_44">(2) Where any application, appeal or other proceeding would have been made, preferred or taken, under this Act or by against any person, such application, appeal or other proceeding may, in the event of his death, be made, preferred or taken by or against his legal representatives.
+</p> 
+
+<p id="p_45">The said section provides any application made, appeal preferred or proceedings taken, under the Act by or against any person, may, in the event of his death, be continued by or against his legal representatives. Therefore, an order passed for impleading the legal representatives as a party to the revision petition is merely a procedural one and it helps the landlord to continue the proceedings. Merely because the legal representatives were brought on record in the course of the revision proceedings would not make the legal representatives as heirs and the legal representatives are brought on record only for further prosecution of proceedings. In this connection reference would also be made to a decision on this Court in Sakthivel v. R.S. Govindan (1988) 2 L.W. 52, wherein Ratnam, J has held as follows:
+</p><p id="p_46"> In Muniappa Nadar (deceased) v. Doraipandi Nadar 99 L.W. 839, I had an occasion to consider this identical question and after referring to the several decisions of different courts on as aspect, it was held that any adjudication in the course of proceedings for recording legal representatives would net make the legal representatives heirs, as such, but the findings should be construed as having been given only for the further prosecution of the proceedings and not as a decision on merits operating as res judicata. In view of the principles laid down in the decision referred to above, the proper course for the first respondent would be to agitate all his claims in respect of the trusteeship and its properties as well as the income therefrom in an appropriately framed suit especially when the petitioner had already been brought on record for the purpose of these proceedings as the legal representative of deceased P.S. Ramaswami Chettiar. Therefore, the last contention of the learned Counsel for the petitioner is also well founded. For the aforesaid reasons, the civil revision petition is allowed and the order of the Appellate Authority is set aside and that of the Rent Controller will stand restored. Each party is directed to bear his costs....
+</p> 
+
+<p id="p_47">18. The decision reported in <a href="/doc/1512333/" id="a_10">Dashrath Baburao Sangale v. Kashimath Bahsakar Data</a> , also can be referred to in order to appreciate the contentions of the respondent/landlady. The said case arose out of the provisions of Bombay Rents, Hotel and Lodging House Rates Control Act (57 of 1947), wherein the landlord initiated proceedings for eviction on the ground that the tenant had been using the said premises for a purpose other than the one for which it was leased out. Instead of sugarcane juice business, the landlord alleged that the tenant was using the premises for selling cloth and ready-made clothes. The tenant denied the allegation. His case was that since the sugarcane juice business is a seasonal one, it could not be carried on throughout the year. During the off-season, he pleaded, he was doing the cloth business in the premises in question, which he was entitled to. In the said case, the trial Judge accepting the landlord's case directed eviction against which an appeal was preferred before the Supreme Court, which in turn has observed as follows:
+</p><p id="p_48"> The findings of both trial court and the appellate court are that the tenant has been using the premises for a purpose other than the one for which he had taken the said premises on lease. Indeed the stand of the tenant before the appellate court as well as the High Court was that having taken the said premises on lease for doing business he was entitled to do such business as he chose. In the face of the clear stipulation in the lease deed, the courts below as well as the High Court refused to countenance the said plea. Even on the question of acquiescence of landlord in the said change of user - the other plea raised by the appellants - the finding is against them. The High Court too has accepted the said finding. We see no reason to disturb the, findings of the Courts below under the Act. The appeal is accordingly dismissed.... No costs.
+</p> 
+
+<p id="p_49">19. Admittedly, in the present case, the legal representatives have been brought on record at the instance of the son of the original tenant only for the purpose of continuing the revision proceedings. It is also true that only the legal representatives can alone be brought on record for continuing the proceedings envisaged under Section 27 of the Rent Control Act. Hence the grandsons of the deceased tenant who claim to be in continuous association with the deceased tenant for carrying on his business, would satisfy the definition of legal representatives within the meaning of <a href="/doc/223060/" id="a_11">Section 2(8)</a> of the Act, notwithstanding the fact that the son of the deceased tenant who lives abroad does not claim to be the tenant, apparently because of the fact that he was not in continuous association in the business of his father. Therefore, I reject the contention of Mr. A.L. Somayajee, learned Senior Counsel for the respondent/landlady that the grandsons of the deceased tenant who had been brought on record do not satisfy the definition of 'tenant' contained in <a href="/doc/223060/" id="a_12">Section 2(8)</a> of the Act and his preliminary objection is answered accordingly.
+</p> 
+
+<p id="p_50">20. I shall now deal with the case on merits. According to the tenant, he has initially occupied a portion of the premises for the purpose of carrying on business as a dealer in radios, cycles, fans etc., but later, he has extended his business activity for the sale of other articles too and that it would not amount to a different use. Both the trial court and the Appellate Court (Rent Control Appellate Authority) have ordered eviction and dismissed the petition and the appeal filed by the tenant respectively. Challenging the said findings of both the courts below, the tenant has preferred a civil revision petition before this Court and this Court, while allowing the civil revision petition, remitted back the matter to the Appellate Authority for the reasons stated mentioned earlier. After the matter was remitted to the Appellate Authority, both the landlady and the tenant had adduced oral and documentary evidence in support of their respective contentions, in the light of the observations made by this Court in the earlier civil revision petition referred to above. The Appellate Authority, after considering the matter afresh, came to the conclusion that the substantial portion in the shop in question had been put to a different use for which it was let out. Therefore, the Appellate Authority upheld the order of eviction and dismissed the appeal preferred by the tenant. It was under those circumstances, the present civil revision petition came to be filed by the aggrieved tenants/petitioners.
+</p> 
+
+<p id="p_51">21. I have gone through the entire pleadings, Judgments of the Rent Controller and of the Appellate Authority after remand. I have also perused the documents filed and the evidence let in by both parties in support of their rival contentions. There is no dispute about the fact that originally the tenant was carrying on business in provision in the premises let out to him, in addition to the sale of radios, fans cycles etc., on instalment basis. When the landlady issued the notice, dated 12.4.1979 for eviction of the tenant on the ground of usage of the shop in question for the purpose other than the one for which it was let out, the tenant sent a reply on 7.5.1979, wherein he did not deny the 'different user' of the premises. This is a significant fact which requires to be noticed in the present case. The tenant did not even plead that the provision business carried on by him was only in a small portion of the shop and a substantial portion of the shop was used by him for carrying on the business of sale of radios, fans, etc., However, the tenant was successful before this Court in the Civil Revision Petition No. 942 of 1984 and the matter was remitted back to the Appellate Authority for considering the question whether he has put a substantial portion of shop for a different use. A xerox copy of the sanctioned plan was marked before the Appellate Authority as Ex. P-17 which clearly shows that the shop let out to the tenant measures 21 ft. east to west and 111/2 ft. north to south. The respondent/landlady issued a notice in Ex. P-16 on 14.3.1988, calling upon the tenant to produce the account books relating to the provision business. However, the tenant did not produce the same for (he reasons best known to him. During the course of the cross examination, the tenant had admitted that after 10.11.1978 he has not been carrying on the business of sale of radios, fans etc., on instalment basis. This admission on the part of the tenant clearly shows that the tenanted premises was used only for the purpose of grocery business on and from 10.11.1978 and he ceased to carry on the business of sale of radios, cycles, fans etc., on instalments. The Appellate Authority, in my opinion, has rightly referred all the facts mentioned above and has chosen to draw an adverse inference against the tenants for the non production of account books relating to the provision business despite the specific request made by the respondent/landlady for the production of such amount books.
+</p> 
+
+<p id="p_52">22. Mr. R. Krishnamoorthy, learned Senior Advocate appearing for the tenants/revision petitioners would contend that the Appellate Authority has wrongfully shifted the onus of proof on the tenants and that it is for the respondent/landlady to prove that a substantial portion of the shop in question was put to different use. According to learned Senior Advocate for the tenants/revision petitioners the landlady/respondent has failed to discharge the onus cast on her. This contention of learned Senior Advocate for the tenants/revision petitioners cannot be accepted.
+</p> 
+
+<p id="p_53">23. The Supreme Court in the decision reported in <a href="/doc/1917909/" id="a_13">Gopal Krishnaji v. Mohd Haji Latif</a>  has observed as follows:
+</p>  
+
+<p id="p_54">Mr. Gokhale, however, argued that it was no part of the appellant's duty to produce the accounts unless he was called upon to do so and the onus was upon the respondents to prove the case and to show that the Darghah was the owner of Plot No. 134. We are unable to accept this argument as correct. Even if the burden of proof does not lie on a party the court may draw an adverse inference if he withholds important documents in his possession which can throw light on the facts at issue. It is not, in our opinion, a sound practice for those desiring to rely upon a certain state of facts to withhold from the court the best evidence which is in their possession which could throw light upon the issues in controversy and to rely upon the abstract doctrine of onus of proof. In Murugesam Pillai v. Gnana Sambandha Pandora Sannadhi 44 I.A. 98 at 103 : A.I.R. 1917 P.C. 6 at 8, Lord Shaw observed as follows:
+</p>  
+
+<p id="p_55">A practice has grown up in Indian procedure of those in possession of important documents or information lying by, trusting to the abstract doctrine of the onus of proof, and falling, accordingly, to furnish to the courts the best material for its decision. With regard to third parties, this may be right enough-they have no responsibility for the conduct of the suit, but with regard to the parties to the suit it is, in their Lordships' opinion, an inversion of sound practice for those desiring to rely upon a certain state of facts to with-hold from the court the written evidence in their possession which would throw light upon the proposition.
+</p> 
+
+<p id="p_56">Therefore, it is obligatory on the part of the tenants in the present case to produce the relevant records to establish the quantum of business done in the sale of grocery articles and satisfy the court that the grocery business did not occupy a substantial portion of the shop. The evidence of the tenant is that after the order of remand, he visited the shop at 8.00 p.m. in the company of one S. Guruswamy to take the exact measurements of the shop and based on such visit the tenant has deposed before the Appellate Authority. The tenant has not chosen to examine the said S. Guruswamy, who is stated to have accompanied the tenant. The evidence of the tenant is highly artificial.
+</p> 
+
+<p id="p_57">24. The Supreme Court in the decision reported in <a href="/doc/1047289/" id="a_14">M/s. Rajalakshmi Dyeing Works and Ors. v. Rangaswamy Chettiar</a> , has held as follows:
+</p><p id="p_58"> <a href="/doc/463150/" id="a_15">Section 23</a> of the Act, enables any person aggrieved by an order passed by the controller to prefer an appeal to the Appellate Authority having jurisdiction. <a href="/doc/463150/" id="a_16">Section 25</a> of the Act provides that the High Court may on the application of any person aggrieved by an order of the appellate authority, call for and examine the record of appellate authority, to satisfy itself as to the regularity of such proceeding or the correctness, legality or propriety of any decision or order passed therein in and if, in any case it appears to the High Court that any such decision or order should be modified, annulled, reversed or remitted for reconsideration it may pass orders accordingly. The language of <a href="/doc/463150/" id="a_17">Section 25</a> of the Act is indeed very wide. But we must attach some significance to the circumstances that both the expressions 'appeal' and 'revision' are employed in the statute. Quite obviously, the expression 'revision' is meant to convey the idea of a much narrower jurisdiction than that conveyed by the expression 'appeal'. In fact, it has to be noticed that under <a href="/doc/463150/" id="a_18">Section 25</a> of the Act, the High Court calls for and examines the record of the Appellate Authority in order to satisfy itself. The dominant idea conveyed by the incorporation of the words 'to satisfy itself' under <a href="/doc/463150/" id="a_19">Section 25</a> of the Act appears to be that the power conferred on the High Court under <a href="/doc/463150/" id="a_20">Section 25</a> of the Act is essentially a power of superintendence. Therefore, despite the wide language employed in <a href="/doc/1483303/" id="a_21">Section 25</a> of the Act the High Court quite obviously should not interfere with findings of fact merely because it does not agree with the findings of the subordinate authority. The power conferred on the High Court under <a href="/doc/463150/" id="a_22">Section 25</a> of the Act may not be as narrow as the revisional power of the High Court under Section 115 of the Code of Civil Procedure but in the words of Untwalia, J. in <a href="/doc/131693/" id="a_23">Dattonpant Gopalvarso Devakate v. Vithalrao Maruthirao Jeenagaval</a> 1975 R.C.A. 344, it is not wide enough to make the High Court a Second Court of first appeal....
+</p> 
+
+<p id="p_59">25. Hence for all the foregoing reasons, there is no valid reason to interfere with the well considered finding of the Appellate Authority, ordering eviction of the tenants/ revision petitioners. In the result,
+  
+
+</p><p id="p_60">(a) this civil revision petition fails and it is dismissed;
+</p> 
+
+<p id="p_61">(b) the tenants/revision petitioners are given three months' time to vacate the premises in question and they are directed to deliver vacant and peaceful possession of the premises in question to the respondent/landlady on the expiry of three months from to-day, subject to their filing of an affidavit of undertaking that they would vacate and deliver vacant and peaceful possession of the premises in question to the respondent/landlady within the time stipulated above.
+</p> 
+
+<p id="p_62">(c) the affidavit of undertaking to the aforesaid effect shall be filed by the tenants/revision petitioners within a period of two weeks from to-day, failing which, the respondent/landlady shall be at liberty to proceed against the tenants/revision petitioners for eviction and execution in accordance with law.
+</p> 
+
+<p id="p_63">(d) However, there will be no order as to costs.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

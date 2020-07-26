@@ -1,0 +1,691 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Kanai Lal Sur vs Paramnidhi Sadhukhan on 10 September, 1957</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1057826/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 16 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1057826">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/858315/">The Essential Services (Maintenance) Ordinance Repeal Act,   2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/216843/">Section 5 in The West Bengal Legislative Council (Abolition) Act,   1969.</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/688958/">The West Bengal Legislative Council (Abolition) Act,   1969.</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1944156/">Section 3 in The West Bengal Legislative Council (Abolition) Act,   1969.</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1345438/">Section 3 in The Transfer of Property Act, 1882</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 113 docs
+      
+        - [<A HREF="/search/?formInput=citedby:1057826">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/158509263/">M/S.Pondy Die Castings (P) Ltd vs Appellate Assistant ... on 27 October, 2017</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/408637/">Indian Metals And Ferro Alloys Ltd vs Union Of India And Ors on 21 September, 1990</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/762747/">Provash Chandra Dalui &amp; Anr vs Biswanath Banerjee &amp; Anr on 3 April, 1989</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1533922/">Nabendu Dutta And Ors. vs Arindam Mukherjee And Ors. on 20 May, 2003</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/154663670/">Sunitha Venkatram vs Ms.Divya Rayapati on 30 March, 2015</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1057826/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1057826/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1057826/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika">thika</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenant">thika tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenancy">thika tenancy</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenancy%20act">thika tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tenancy%20act">tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=execution%20proceedings">execution proceedings</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gajendragadkar">gajendragadkar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pending%20proceedings">pending proceedings</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=execution%20application">execution application</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=execution%20of%20decree">execution of decree</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ordinance%20cease">ordinance cease</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=if%20two%20constructions">if two constructions</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Supreme Court of India</div>
+<div class="doc_title">Kanai Lal Sur vs Paramnidhi Sadhukhan on 10 September, 1957</div><div class="doc_citations">Equivalent citations: 1957 AIR  907, 1958 SCR  360</div>
+
+<div class="doc_author">Author: P Gajendragadkar</div>
+
+<div class="doc_bench">Bench: Gajendragadkar, P.B.</div>
+
+<pre id="pre_1">           PETITIONER:
+KANAI LAL SUR
+
+	Vs.
+
+RESPONDENT:
+PARAMNIDHI SADHUKHAN
+
+DATE OF JUDGMENT:
+10/09/1957
+
+BENCH:
+GAJENDRAGADKAR, P.B.
+BENCH:
+GAJENDRAGADKAR, P.B.
+BHAGWATI, NATWARLAL H.
+DAS, S.K.
+
+CITATION:
+ 1957 AIR  907		  1958 SCR  360
+
+
+ACT:
+Thika  tenant-Decree for ejectment-Execution  application-If
+lies  in  civil	 Court-Welfaye	 legislation-Interpretation-
+Calcutta Thika Tenancy Act, 1949 (W.B. 11 Of 1949), s. 5(1).
+
+
+
+HEADNOTE:
+Respondent  obtained  a	 decree for  ejectment	against	 the
+appellant,  a  thika tenant, and filed	an  application	 for
+execution  of the decree before the civil Court.   Appellant
+resisted  the application on the ground that in view  Of  s.
+5(1)  Of  the Calcutta Thika Tenancy Act,  1949,  the  civil
+Court  had  no jurisdiction to	entertain  the	application.
+Section	 5(1)  provides that a landlord wishing to  eject  a
+thika tenant on the grounds specified in s. 3 shall apply to
+the Controller in that behalf.
+Held that S. 5(1) did not apply to a case where the landlord
+had  already  obtained a decree for  ejectment	against	 his
+thika	tenant	 and  consequently  the	 civil	 Court	 had
+jurisdiction to entertain the execution application.
+The  operative	provisions  of	welfare	 legislation  should
+receive a beneficent construction from the Courts.  But	 the
+words  used in a statute must be interpreted in their  plain
+grammatical  meaning  and  it is only when  such  words	 are
+capable	 of two constructions that the question of  adopting
+the construction which is more consistent with the policy of
+the Act arises.
+Heydon's Case, (1584) 3 Co. Rep. 8, referred to.
+
+
+
+JUDGMENT:
+</pre><p id="p_1">CIVIL APPELLATE JURISDICTION:	    Civil Appeal No. 291  of
+1955.
+</p><p id="p_2">Appeal	by special leave from the judgment and	order  dated
+March  29, 1955, of the Calcutta High Court in	appeal	from
+Appellate  Order  No.  134 of  1954,  affirming	 the  appeal
+against the judgment and order
+<span class="hidden_text" id="span_1">361</span>
+dated  July 29, 1954, of the Court of the District Judge  of
+24-Parganas in Misc.  Appeal No. 87 of 1954, arising out  of
+the  order  of	the 1st Additional Court of  the  Munsif  at
+Sealdah dated February 2, 1954, in Misc.  Judicial Case	 No.
+96 of 1953.
+</p><p id="p_3">N.   C. Chatterjee and S. N. Mukherjee, for the appellant.
+A.   V.	 Viswanatha  Sastri  and D. N.	Mukherjee,  for	 the
+respondent.
+</p><p id="p_4">1957 September 10.  The following Judgment of the Court	 was
+delivered by
+GAJENDRAGADKAR	J.-This	 is an appeal by  special  leave  in
+execution   proceedings	 and  the  short  point	 which	 the
+appellant  has raised before us is that, under s. 5  (1)  of
+the  Calcutta  Thika Tenancy Act, 1949 (West  Bengal  II  of
+1949)  as amended by the Calcutta Thika Tenancy	 (Amendment)
+Act,  1953 (West Bengal VI of 1953),  execution	 proceedings
+taken  out by the decrees against him could  be	 entertained
+only  by the controller and not by the civil  courts.	This
+point  arises in this way.  The appellant is a thika  tenant
+in  respect of a portion of the premises No. 28, R.  G.	 Kar
+Road  in  Calcutta.   In Suit No. 46 of 1948  a	 decree	 for
+ejectment  was	passed	against him and	 in  favour  of	 the
+respondent on March 16, 1949.  This decree was challenged by
+the  appellant by preferring an appeal before  the  District
+Court and a second appeal before the High Court at Calcutta;
+but  both those appeals failed and the decree for  ejectment
+passed	by  the trial court was	 confirmed.   Then  followed
+several	 proceedings between the parties and the  course  of
+litigation  between  them turned out to	 be  protracted	 and
+tortuous.  Ultimately on May 22, 1953, the respondent  filed
+an execution case before the First Additional Court, Sealdah
+(Title Execution Case No. 34 of 1953).	By this	 application
+the  respondent claimed that the possession of the  property
+covered by the decree should be delivered to him.  Thereupon
+the  appellant filed a Miscellaneous Judicial Case under  s.
+47  of	the  Code of Civil Procedure in	 the  court  raising
+several	 objections  to	 the  decree	holder's  claim	  for
+execution (Miscellaneous
+<span class="hidden_text" id="span_2">362</span>
+Judicial  Case No. 96 of 1953).	 This case was dismissed  by
+the  executing court on February 2, 1954.   A  miscellaneous
+appeal	preferred  by  the  appellant  before  the   learned
+District   Judge,  24-Parganas,	 as  well  as	the   second
+miscellaneous appeal preferred by him before the High  Court
+at  Calcutta  were likewise dismissed.	The  appellant	then
+applied	 for  leave to prefer an appeal	 under	the  Letters
+Patent.	  This	application  was  rejected  by	Mr.  Justice
+Renupada Mukherjee who had heard the second appeal.  On	 May
+10,  1955, the appellant filed a petition for special  leave
+to appeal to this Court and special leave was granted to him
+on  May	 18,  1955.  The courts below  have  held  that	 the
+decree-holder's	 application  for execution  of	 the  decree
+passed in his favour can and ought to be entertained by	 the
+civil  courts  and  an order has  been	passed	against	 the
+appellant  that	 he should vacate the premises	in  question
+before	the  end of Jaistha 1362 B.S. (1  5th  June,  1955),
+failing which execution will proceed according to law.	 The
+appellant's contention is that the view taken by the  courts
+below about the competence of the civil courts to  entertain
+the  decree-holder's  execution application  proceeds  on  a
+misconstruction	 of s. 5 (1) of the Calcutta  Thika  Tenancy
+Act.   That  is how the only question which arises  for	 our
+decision  is  about the construction of	 the  said  relevant
+section.
+</p><p id="p_5">Before	dealing	 with  this point, it  would  be  useful  to
+consider  briefly the history of legislation passed  by	 the
+West  Bengal  Legislature  with	 the  object  of   affording
+protection to the thika tenants.  Until 1948 the rights	 and
+liabilities  of the landlords and their thika  tenants	were
+governed by the provisions of the <a href="/doc/515323/" id="a_1">Transfer of Property	Act</a>.
+On October 26, 1948, the Calcutta Thika Tenancy Ordinance XI
+of  1948, was promulgated because it was thought  expedient,
+pending the enactment of appropriate legislation to  provide
+for  the temporary stay of the execution of certain  decrees
+and  orders  of	 ejectment of  thika  tenants  in  Calcutta.
+<a href="/doc/1637824/" id="a_2">Section	 2</a>  of	the  Ordinance	defined	 the  thika  tenant.
+<a href="/doc/858315/" id="a_3">Section 3</a> provided that no decree or order for the ejectment
+of  a thika tenant shall be executed during the	 continuance
+in operation of the Ordinance, From the
+<span class="hidden_text" id="span_3">363</span>
+operation  of this section were excluded decrees  or  orders
+for ejectment passed against, thika tenants on the ground of
+non-payment  of rent unless the tenants deposited  in  court
+the  amount  of	 the  decree or order  as  required  by	 the
+proviso.  The object of the Ordinance clearly appears to  be
+to  give protection to the thika tenants in Calcutta and  to
+afford them interim' relief by staying execution of  certain
+decrees and orders as mentioned in<a href="/doc/858315/" id="a_4"> s. 3</a> until an appropriate
+Act was passed by the Legislature in that behalf.
+Then followed Act II of 1949 on February 28, 1949.   <a href="/doc/1637824/" id="a_5">Section
+2</a>, sub-s. (5) of this Act defines a thika tenant.  <a href="/doc/858315/" id="a_6">Section 3</a>
+lays  down  the	 grounds  on which a  thika  tenant  may  be
+ejected.   The	effect of this section is that	it  is	only
+where  one or more of the six grounds recognized by<a href="/doc/858315/" id="a_7"> s. 3</a>  is
+proved	against a thika tenant that a decree  for  ejectment
+against	 him can be passed.  In other words,  grounds  other
+than those mentioned in<a href="/doc/858315/" id="a_8"> s. 3</a> on which a landlord would	have
+been entitled to eject his thika tenant under the provisions
+of  the <a href="/doc/515323/" id="a_9">Transfer of Property Act</a> became inapplicable to	 the
+case of the thika tenants by virtue of<a href="/doc/1345438/" id="a_10"> s. 3</a>. <a href="/doc/1272508/" id="a_11">Section 5</a>, sub-
+s. (1) reads thus:
+</p><p id="p_6">"S.  5. (1) Notwithstanding anything contained in any  other
+law for the time being in force, a landlord wishing to eject
+a  thika tenant on one or more of the grounds  specified  in
+<a href="/doc/1345438/" id="a_12">section	 3</a>  shall  apply in the	 prescribed  manner  to	 the
+Controller  for an order in that behalf and, on	 receipt  of
+such  application,  the Controller shall, after	 giving	 the
+thika tenant a notice to show cause within thirty days	from
+the date of service of the notice why the application  shall
+not be allowed and after making an inquiry in the prescribed
+manner	either	allow  the application or  reject  it  after
+recording  the	reasons for making such order,	and,  if  he
+allows	the application, shall make an order  directing	 the
+thika  tenant  to  vacate the holding and,  subject  to	 the
+provisions of <a href="/doc/576368/" id="a_13">section 10</a>, to put the landlord in  possession
+thereof."
+</p><p id="p_7">This  section  requires the landlord wishing  to  eject	 his
+thika tenant on one or more of the grounds specified in<a href="/doc/1345438/" id="a_14"> s.   3</a>
+to apply in the prescribed manner to the Controller
+<span class="hidden_text" id="span_4">47</span>
+<span class="hidden_text" id="span_5">364</span>
+for an order in that behalf.  This section further  provides
+for  the  procedure  to be followed  by	 the  Controller  in
+dealing	 with  such an application.  Two other	sections  of
+this Act need to be considered.	 <a href="/doc/1898852/" id="a_15">Section 28</a> deals with cases
+where  decrees or orders for the recovery of  possession  of
+any holding from a thika tenant have been passed before	 the
+date of the commencement of the Act and it lays down that if
+</p><p id="p_8">-possession  has not been obtained by the  decree-holder  in
+execution  of such decrees or orders the court may  consider
+whether	 the  decree or order in question is or	 is  not  in
+conformity with any of the provisions of the Act other	than
+subs.  (1)  of<a href="/doc/1272508/" id="a_16"> s. 5</a> or<a href="/doc/1629541/" id="a_17"> s. 27</a>.  On  considering	this  matter
+jurisdiction  is given to the court to rescind or  vary	 the
+decree or the order for the purpose of giving effect to	 the
+relevant  provisions  of  this Act.  A decree  or  order  so
+varied	has then to be sent to the Controller for  execution
+as if it were an order made under and in accordance with the
+provisions  of the Act.	 Having thus dealt with decrees	 and
+orders	for ejectment passed against thika tenants prior  to
+the  commencement of this Act,<a href="/doc/1600183/" id="a_18"> s. 29</a> proceeds to  deal	with
+pending, proceedings for ejectment between the landlords and
+the thika tenants.  This section lays down that all  pending
+proceedings  of this character shall be transferred  to	 the
+Controller who shall thereupon deal with them in  accordance
+with  the provisions of this Act as if this Act had been  in
+operation  on  the date of the institution of  the  suit  or
+proceeding.   The  proviso  to	this  section  exempts	 the
+application  of	<a href="/doc/875838/" id="a_19"> s. 4</a> of this Act to  such  proceedings	 for
+obvious reasons.
+</p><p id="p_9">It  appears  that  the definition of  the  expression  thika
+tenant " contained in the Act gave rise to some difficulties
+and  it was discovered that some of the tenants in  Calcutta
+who  were  in substance thika tenants failed to	 obtain	 the
+protection  of the Act owing to some words used in the	said
+definition.   In  order to afford protection  to  the  whole
+class  of thika tenants in Calcutta, West  Bengal  Ordinance
+No.  XV	 of  1952  was	promulgated  on	 October  21,  1952.
+Accordingly,<a href="/doc/1920937/" id="a_20"> s. 2</a> of this Ordinance amended<a href="/doc/1920937/" id="a_21"> s. 2</a>, sub-s. (5)
+of  the Calcutta Thika Tenancy Act II of 1949.	This is	 one
+important
+<span class="hidden_text" id="span_6">365</span>
+change	introduced by this Ordinance.  The  other  important
+change	introduced by this Ordinance is to be found in<a href="/doc/858315/" id="a_22"> s.  5</a>
+of the Ordinance.  <a href="/doc/858315/" id="a_23">Section 5</a>, sub-s. (1) lays down that	 all
+cases  pending before a court or Controller on the  date  of
+the commencement of this Ordinance shall be governed by	 the
+provisions of Act II of 1949, as amended by this  Ordinance.
+Sub-section (2) of<a href="/doc/858315/" id="a_24"> s. 5</a> then deals with cases where  decrees
+or orders have been passed for the recovery of possession at
+any  time between the commencement of the said Act and	this
+Ordinance.   In	 the present appeal, we are dealing  with  a
+decree falling under<a href="/doc/858315/" id="a_25"> s. 5</a>, sub-s. (2) of this Ordinance.  In
+respect of such decrees this sub-section lays down that	 the
+judgment-debtor	 could	apply  within three  months  of	 the
+commencement of the Ordinance to the court or the Controller
+as  the case may be and invite his decision on the  question
+of  his status as thika tenant; according to the  provisions
+of  this subsection, the status of the judgment-debtor as  a
+thika  tenant  would then have to be  determined  under	 the
+amended definition of the expression "thika tenant".  If the
+finding	 on  the  question of status is	 in  favour  of	 the
+judgment-debtor	 then the decree or order would have  to  be
+set aside and execution proceedings annulled, and the matter
+sent  back  to	the  court or  Controller  for	disposal  in
+accordance  with  law.	Subsection (3) of<a href="/doc/858315/" id="a_26"> s. 5</a>	enables	 the
+court  or  the Controller to stay proceedings,	if  any,  in
+execution pending the disposal of an application made  under
+sub-s. (2).  In other words, the effect of sub-s. (2) of <a href="/doc/858315/" id="a_27"> s.
+5</a>  clearly appears to be that, in regard to  decrees  passed
+during the period mentioned by this subsection, a  judgment-
+debt-or	 was given a right to challenge the validity of	 the
+said  decree  or  order on the ground that he  was  a  thika
+tenant	under the amended definition of the said  expression
+and  this right could be exercised by making an	 appropriate
+application  within the prescribed period of  three  months.
+If no such application is made by the judgment-debtor within
+the  prescribed	 period,  then	the  decree  or	 order	 for
+ejectment  passed  against him would be executed  under	 the
+ordinary law.
+</p><span class="hidden_text" id="span_7">366</span>
+<p id="p_10">This  Ordinance was followed by the Calcutta  Thika  Tenancy
+(Amendment)  Act, 1953 (West Bengal VI of 1953).   <a href="/doc/858315/" id="a_28">This	 Act</a>
+came  into force immediately on the Calcutta  Thika  Tenancy
+(Amendment) Ordinance, 1952 (West Bengal Ordinance No. XV of
+1952), ceasing to operate.  Under the proviso to<a href="/doc/1383252/" id="a_29"> s. 1</a>,	sub-
+s.  (2)	 of this Act, the provisions of the  Calcutta  Thika
+Tenancy	 Act II of 1949, as amended by this Act, shall	also
+apply  and be deemed to always apply to all  suits,  appeals
+and  proceedings  pending  before any court  or	 before	 the
+Controller or before a person deciding an appeal under<a href="/doc/858315/" id="a_30"> s. 27</a>
+of  this  Act on the date of the commencement  of  the	said
+Ordinance  of  1952.  It must, however, be added  that	this
+proviso	 was subject to the provisions of<a href="/doc/858315/" id="a_31"> s. 9</a> of this	Act.
+We  will  presently  refer to<a href="/doc/858315/" id="a_32"> s. 9</a>. <a href="/doc/1637824/" id="a_33">Section 2</a>  of  this	 Act
+adopted the amendment of the definition of the expression, "
+thika tenancy" introduced by the amending Ordinance of 1952.
+<a href="/doc/858315/" id="a_34">Section 4</a> of this amending Act has amended a. 5, sub-s.	 (1)
+of  the original Act by deleting the words "but	 subject  to
+the provisions of<a href="/doc/858315/" id="a_35"> s. 28</a>" which occurred in the said section.
+By s.8 of this Act,<a href="/doc/858315/" id="a_36"> ss. 28</a> and <a href="/doc/858315/" id="a_37">29</a> in the original Act II  of
+1949 have been omitted and by a. 9 it is laid down that	 any
+proceedings  commenced	under  sub-s. (2) of <a href="/doc/858315/" id="a_38"> s.  5</a>  of	 the
+amending  Ordinance  of 1952 shall, on	the  said  Ordinance
+ceasing	 to operate be continued as if sub-ss. (2), (3)	 and
+(4)  of	 that section and the explanations to  that  section
+were  in  force.   It  would thus  appear  that	 though	 the
+Ordinance  ceased to be operative the remedy provided by <a href="/doc/858315/" id="a_39"> s.
+5</a>, sub-s. (2) of the Ordinance to judgment-debtors continued
+to be available to them and the applications made by them to
+seek.  the protection of the said provision bad to be  dealt
+with as if the material provisions of the Ordinance were  in
+operation.  It is true that<a href="/doc/858315/" id="a_40"> s. 9</a> of the amending Act has not
+been  incorporated in the original Act II of 1949 but it  is
+conceded  that the omission to include this section  in	 the
+original Act does not make any difference.
+Mr. N. C. Chatterjee, for the appellant, has contended	that
+the object in enacting the relevant
+<span class="hidden_text" id="span_8">367</span>
+Thika  Tenancy Acts and Ordinances is absolutely clear.	  It
+is a piece of welfare legislation and as such its  operative
+provisions  should receive a beneficient  construction	from
+the  courts.   If  the	scheme of the  Act  and	 the  object
+underlying  it	is to afford full protection  to  the  thika
+tenants, says Mr. Chatterjee, courts should be slow to reach
+the conclusion that any class of thika tenants are  excluded
+from the benefit of the said Act.  In	 support   of	 his
+argument   Mr.	 Chatterjee  hasnaturally  relied   on	 the
+observations  made  by Barons of the Exchequer	in  Heydon's
+case  (1).Indeed these observations have been so  frequently
+cited  with approval by courts administering  provisions  of
+welfare enactments that they have now attained the status of
+a  classic  on	the subject and	 their	validity  cannot  be
+challenged.  However, in applying these observations to	 the
+provisions  of any statute, it must always be borne in	mind
+that the first and primary rule of construction is that	 the
+intention of the Legislature must be found in the words used
+by the Legislature itself.  If the words used are capable of
+one  construction  only	 then it would not be  open  to	 the
+courts	to adopt any other hypothetical construction on	 the
+ground	 that	such  hypothetical  construction   is	more
+consistent  with the alleged object and policy of  the	Act.
+The  words  used in the material provisions of	the  statute
+must  be interpreted in their plain grammatical meaning	 and
+it is only when such words are capable of two  constructions
+that  the question of giving effect to the policy or  object
+of the Act can legitimately arise.  When the material  words
+are capable of two constructions, one of which is likely  to
+defeat	or  impair the policy of the Act  whilst  the  other
+construction is likely to assist the achievement of the said
+policy,	 then  the courts would prefer to adopt	 the  latter
+construction.	It  is only in such cases  that	 it  becomes
+relevant to consider the mischief and defect which the,	 Act
+purports  to  remedy  and correct.   Indeed  Mr.  Chatterjee
+himself	 fairly conceded that be would not be  justified  in
+asking the court to put an undue strain on the words used in
+the section in order
+(1)  (1584) 3 Co. Rep. 8.
+</p><span class="hidden_text" id="span_9">368</span>
+<p id="p_11">that  a construction favourable to the thika tenants  should
+be deduced.  It is in the light of this legal position	that
+we must now consider<a href="/doc/858315/" id="a_41"> s. 5</a>, sub-s. (1) of <a href="/doc/688958/" id="a_42">West Bengal Act</a>  II
+of 1949, amended by <a href="/doc/688958/" id="a_43">West Bengal Act</a> VI of 1953.
+Under  the provisions of<a href="/doc/858315/" id="a_44"> ss. 5</a> and <a href="/doc/858315/" id="a_45">28</a> of the  original	<a href="/doc/688958/" id="a_46">West
+Bengal	Act</a>  II	 of  1949, the position	 was  clear.   If  a
+landlord  wished to eject his tenant he could have  obtained
+an  order for ejectment only if his claim was  justified  on
+one  or more of the grounds recognized by<a href="/doc/1944156/" id="a_47"> s. 3</a> of  the	Act.
+If,  after the commencement of the Act, the landlord  wanted
+to enforce his claim for ejectment, he had to apply for	 the
+said  relief  before  the  Controller  under <a href="/doc/216843/" id="a_48"> s.  5</a>  in	 the
+prescribed manner.  The application of<a href="/doc/216843/" id="a_49"> s. 5</a>, sub-s. (1) was,
+however,  subject  to the provisions of<a href="/doc/688958/" id="a_50"> s. 28</a>.	As  we	have
+already	 pointed  out,<a href="/doc/688958/" id="a_51"> s. 28</a> dealt with	 decrees  or  orders
+already	  passed  whereas <a href="/doc/688958/" id="a_52"> s.  29</a>  dealt  with	 suits	 and
+proceedings  pending  at the commencement of the  Act.	 The
+appellant's  contention is that the effect of<a href="/doc/216843/" id="a_53"> ss. 5</a>, <a href="/doc/688958/" id="a_54">28</a>	 and
+<a href="/doc/688958/" id="a_55">29</a>  was to submit the claims of landlords for  ejectment  of
+the  thika  tenants  to	 a scrutiny  in	 the  light  of	 the
+provisions  of<a href="/doc/1944156/" id="a_56"> s. 3</a> and other relevant sections of the	Act.
+Whether the claim had merged in a decree or was pending in a
+proceeding  at the time when the Act came into force  or  it
+was  made after the commencement of the Act, in	 every	case
+the  test  laid	 down by<a href="/doc/1944156/" id="a_57"> s. 3</a> had to  be  applied;  and	 the
+argument  is  that/  this position is  not  altered  by	 the
+amendments  made  by Act VI of 1953.  In our  opinion,	this
+argument  cannot be accepted.  <a href="/doc/1944156/" id="a_58">Section 3</a> clearly  refers  to
+the claim for ejectment made by the landlord in a proceeding
+instituted  by him.  It is difficult to understand how<a href="/doc/1944156/" id="a_59"> s.  3</a>
+could  be  invoked  against a landlord who  has	 obtained  a
+decree for ejectment of his thika tenant.  It is quite plain
+that when a decree-holder seeks to obtain possession of	 his
+property  in  execution	 of a decree he cannot	be  said  to
+obtain such possession on any of the grounds mentioned in s.
+</p><p id="p_12">3.  All that he does is to rely upon the decree passed by  a
+court  of  competent  jurisdiction and to  insist  upon	 its
+execution.  Similarly the proceedings contemplated by<a href="/doc/216843/" id="a_60"> s.  5</a>,
+sub-s. (1), cannot in
+<span class="hidden_text" id="span_10">369</span>
+our  opinion,  be said to include execution  proceedings  of
+this type.  <a href="/doc/216843/" id="a_61">Section 5</a>, sub-s. (1) deals with cases where the
+landlord  initiates  original proceedings for  ejecting	 his
+thika tenant.  This sub-section refers to a landlord wishing
+to  eject  a  thika tenant on one or  more  of	the  grounds
+specified   in	s.  3.	Now  this  description	 is   wholly
+inapplicable to a landlord who holds' a decree for ejectment
+in his favour.	That is why we feel no hesitation in  coming
+to  the conclusion that landlords who have obtained  decrees
+of ejectment against their thika tenants cannot be  required
+to  apply  under the provisions of<a href="/doc/216843/" id="a_62"> s. 5</a>, sub-s. (1)  of	 the
+Act.   That  is	 one  aspect  of  the  matter.	 The   other
+provisions  of the said sub-section also point to  the	same
+conclusion.  When an application for ejectment is made under
+s.  5,	sub-s. (1), notice is ordered to be  issued  to	 the
+thika  tenant and enquiry follows in the light of  the	pro-
+visions	 of<a href="/doc/1944156/" id="a_63"> s. 3</a>. It is only if the Controller is  satisfied
+that one or more of the grounds recognized by<a href="/doc/1944156/" id="a_64"> s. 3</a> is proved
+by the landlord that an order for ejectment would be  passed
+by  him and this order would be followed by a  direction  in
+consequence of which the landlord would be put in possession
+of the premises.  <a href="/doc/216843/" id="a_65">Section 5</a>, sub-s. (1) thus provides for  a
+self  contained procedure for dealing with applications	 for
+ejectment made by a landlord against his thika tenant before
+the Controller.
+</p><p id="p_13">Mr.  Chatterjee, however, suggests that the deletion of	 the
+words  "  subject  to  the  provisions	of <a href="/doc/688958/" id="a_66"> s.	28</a>  "  which
+originally  occurred in<a href="/doc/216843/" id="a_67"> s. 5</a> indicates that  the  Controller
+has  been given jurisdiction not only to entertain  original
+applications for ejectment made by the landlords but also to
+deal  with decrees already passed in their favour.   Whether
+or not the use of the deleted words in the original<a href="/doc/216843/" id="a_68"> s. 5</a> (1)
+served	any  useful  purpose  and  what	 exactly  was  their
+denotation  are	 matters  on  which  it	 is  unnecessary  to
+pronounce a judgment in the present case.  It is clear	that
+since <a href="/doc/688958/" id="a_69"> s. 28</a> along with<a href="/doc/688958/" id="a_70"> s. 29</a> has been deleted from the	 Act
+by the subsequent amending Act VI of 1953, any reference  to
+s. 28 in<a href="/doc/216843/" id="a_71"> s. 5</a> (1) would have been entirely out of  place.But
+the deletion of the material words does not enlarge the
+<span class="hidden_text" id="span_11">370</span>
+jurisdiction  of the Controller to reopen  disputes  between
+the  landlords	and their thika tenants when in	 respect  of
+such disputes decrees have already been passed by courts  of
+competent  jurisdiction	 in favour of  landlords.   All	 the
+relevant  provisions  of <a href="/doc/216843/" id="a_72"> s. 5</a>, sub-s.	(1)  are  absolutely
+inapplicable  to cases of such decrees and so we are  unable
+to  accept  the argument that even where a decree  has	been
+passed	in favour of the landlord a claim for the  execution
+of the decree would have to be entertained and considered by
+the Controller under<a href="/doc/216843/" id="a_73"> s. 5</a>, sub-s. (1).
+</p><p id="p_14">Then it is urged that it would be unreasonable to hold	that
+a  certain  class  of  thika  tenants  was  precluded	from
+obtaining the benefit of the Act merely because decrees	 for
+ejectment were passed before the Act came into force; and it
+is  emphasised	that  the  scheme of  the  original  Act  as
+evidenced  by <a href="/doc/216843/" id="a_74"> ss.  5</a>,	<a href="/doc/688958/" id="a_75">28</a> and	<a href="/doc/688958/" id="a_76">29</a>  clearly  was  to  afford
+protection  to	all  thika tenants even	 where	decrees	 for
+ejectment had been passed against them.	 It must be conceded
+that  under  the  original  Act,<a href="/doc/688958/" id="a_77"> s.  28</a>	 purported  to	give
+protection to judgmentdebtors' and required that the decrees
+passed	against	 thika	tenants should be  examined  by	 the
+courts	that  passed  the  decrees  in	the  light  of	 the
+provisions  of	the Thika Tenancy Act.	But,  later  on,  it
+appears to have been thought prudent to limit the protection
+to such judgment-debtors in the manner contemplated by<a href="/doc/216843/" id="a_78"> s. 5</a>,
+sub-s.	(2)  of	 the  amending	Ordinance  of  1952.	Such
+judgment-debtors  were allowed liberty to apply for  setting
+aside  the decrees passed against them within  three  months
+after  the  commencement  of the  said	Ordinance  and	such
+applications were required to be dealt with according to law
+even after the Ordinance ceased to be operative.  As we have
+already pointed out, the decree with which we are  concerned
+in  the	 present  appeal falls within  the  purview  of	 the
+provision  of <a href="/doc/216843/" id="a_79"> s. 5</a>, sub-s. (2) of the	Ordinance.   If	 the
+judgment.  debtor  did	not  avail  himself  of	 the   right
+conferred  on him by this provision, he cannot now  seek  to
+rectify	 the omission by relying on the provisions of<a href="/doc/216843/" id="a_80"> s.  5</a>,
+sub-s. (1) as amended.	It may be unfortunate that owing  to
+the steps that he was taking in several
+<span class="hidden_text" id="span_12">371</span>
+proceedings adopted by him in the present litigation he	 was
+probably  not advised to make a proper application under <a href="/doc/216843/" id="a_81"> s.
+5</a>,  sub-s.  (2)	 of  the Ordinance; but	 that  is  the	only
+protection  that he and judgment-debtors of his	 class	were
+entitled  to after the amending Ordinance of 1952 came	into
+force.	 It would, therefore, not be reasonable to  complain
+that no protection whatever has been given to this class  of
+thika tenants.	It may be that the extent of the  protection
+now  afforded  to  this	 class may not	be  as	wide  as  it
+originally  was	 under	s.  28 of Act II  of  1949  but	 the
+deletion  of <a href="/doc/688958/" id="a_82"> s. 28</a> clearly indicates that  the	 Legislature
+wanted	to revise its policy in this matter.  The  position,
+therefore,  is	that  the conclusion which  follows  from  a
+reasonable construction of<a href="/doc/216843/" id="a_83"> s. 5</a>, sub-s. (1) is	corroborated
+by  the deletion of<a href="/doc/688958/" id="a_84"> s. 28</a> from the Act and by the  provision
+of<a href="/doc/216843/" id="a_85"> s.	  5</a>,  sub-s. (2) of the amending Ordinance  of	1952
+and<a href="/doc/9537/" id="a_86"> s.	  9</a>   of   the	amending  Act  VI   of	 1953.	  We
+must,accordingly,  hold	 that the Calcutta  High  Court	 was
+right  in  rejecting  the appellant's  argument	 that  civil
+courts	had  no	 jurisdiction  to  entertain  the  execution
+petition filed by the respondent against the appellant.	  In
+the  result,  the appeal fails and must	 be  dismissed	with
+costs.
+</p><p id="p_15">Appeal dismissed.
+</p>
+
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,506 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S.Hma Data Systems Private ... vs M/S.Ssi Limited on 12 June, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1201422/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/257409/">The Indian Companies (Amendment) Act,   1930</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/18952/">Videocon Properties Ltd vs Dr. Bhalchandra Laboratories &amp; ... on 19 December, 2003</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/158693/">Maula Bux vs Union Of India on 19 August, 1969</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1407895/">Gurbux Singh vs Bhooralal on 22 April, 1964</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/841031/">In The High Court Of Judicature At ... vs Unknown on 13 August, 2010</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1201422/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1201422/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1201422/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hma">hma</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bank%20guarantee">bank guarantee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=private%20limited%20company">private limited company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ii%20rule%202%20%282%29%20cpc">order ii rule 2 (2) cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ii%20rule%202%20of%20cpc">order ii rule 2 of cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ii%20rule%202%20civil%20procedure%20code">order ii rule 2 civil procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=letter%20of%20intent">letter of intent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=private%20company">private company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20forfeiture">what is forfeiture</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ii%2C%20rule%202">order ii, rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ii">order ii</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=furnish%20security">furnish security</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20procedure%20code%20order%202%20rule%202">civil procedure code order 2 rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%202%20rule%202%20cpc">order 2 rule 2 cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ruling%20for%20order%202%2C%20rule%202%20of%20cpc">ruling for order 2, rule 2 of cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%202%20rule%20of%20CPC">order 2 rule of CPC</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=due%20diligence">due diligence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=code%20of%20civil%20procedure%20order%20ii%20%282%29">code of civil procedure order ii (2)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20procedure%20order%202%20rule%202">civil procedure order 2 rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%202%20rule%202">order 2 rule 2</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">M/S.Hma Data Systems Private ... vs M/S.Ssi Limited on 12 June, 2009</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+Dated  12-6-2009
+
+CORAM
+
+The Hon'ble Mr.Justice S.J.MUKHOPADHYA  
+and
+The Hon'ble Mr.Justice R.SUDHAKAR
+
+Original Side Appeal Nos.76 to 78 of 2006
+ 
+
+M/s.HMA Data Systems Private Limited,
+5, Thapar House Mezzanine Floor,
+43/43, Montieth Road,
+Egmore,
+Chennai-8.                                                 ... Appellant/Defendant
+
+-vs.-
+
+M/s.SSI Limited,			
+represented by its authorised signatory
+R.Rangarajan,
+No.54, Thirumalai Road,
+T.Nagar,
+Chennai-17.                                              ... Respondent/Plaintiff
+
+
+	Writ Appeal No.76 of 2006 is filed under Clause 15 of Letters Patent read with Order XXXVI Rule 9 of the Original Side Rules, against the order dated 20.1.2006 passed by the learned single Judge in O.A.No.519 of 2005 in C.S.No.431 of 2005.
+				
+     Writ Appeal No.77 of 2006 is filed under Clause 15 of Letters Patent read with Order XXXVI Rule 9 of the Original Side Rules, against the order dated 20.1.2006 passed by the learned single Judge in Application No.4901 of 2005 in C.S.No.431 of 2005.
+
+	Writ Appeal No.78 of 2006 is filed under Clause 15 of Letters Patent read with Order XXXVI Rule 9 of the Original Side Rules, against the order dated 20.1.2006 passed by the learned single Judge in Application No.3216 of 2005 in C.S.No.431 of 2005. 
+
+
+		For appellant in 
+		all the appeals        :  Mr.H.Karthik Seshadri	   	 
+
+		For respondent in
+		all the appeals       :  Mr.R.Krishnamurthy, 
+					      Senior counsel
+				 	      for Mr.Srinath Sridevan
+
+  -----
+
+COMMON JUDGMENT
+R.SUDHAKAR,J.
+</pre><p id="p_1">	Original Side Appeal No.76 of 2006 is filed by the appellant, the respondent in O.A.No.519 of 2005, the defendant in C.S.No.431 of 2005 challenging the order dated 20.1.2006 passed in O.A.No.519 of 2005, by the learned single Judge, confirming the modified order dated 29.4.2005.
+</p>
+<p id="p_2">	2. Original Side Appeal No.77 of 2006 is filed by the appellant, the applicant in Application No.4901 of 2005, the defendant in C.S.No.431 of 2005 challenging the order dated 20.1.2006 passed in A.No.4901 of 2005 by the learned single Judge, dismissing the application.
+</p>
+<p id="p_3">	3. Original Side Appeal No.78 of 2006 is filed by the appellant, the applicant in Application No.3216 of 2005, the defendant in C.S.No.431 of 2005 challenging the order dated 20.1.2006 passed in A.No.3216 of 2005 by the learned single Judge, dismissing the application.
+</p>
+<p id="p_4">	4.  The brief facts of the case for disposal of all the three appeals are as follows:- 	 
+</p>
+<p id="p_5">	(a) M/s.SSI Limited represented by Chief Financial Officer, the respondent/plaintiff filed the suit C.S.No.431 of 2005 against the appellant/defendant, M/s.HMA  Data Systems Private Limited,   seeking direction to return to the respondent/plaintiff, the sum of Rs.4,36,30,000/- together with post suit interest at 12% per annum.  
+</p>
+<p id="p_6">	(b) Along with the above suit, the respondent/plaintiff, also filed O.A.No.519 of 2005, praying to issue temporary injunction restraining the appellant/defendant, its agents, or successor in interest from transferring, or alienating or encumbering, in any manner of shares held by the appellant/defendant in M/s. India Switch Company Private Limited hereinafter called "M/s.ISC" or in the business of M/s.India Switch Company Private Limited pending disposal of the above suit.  
+</p>
+<p id="p_7">	(c) Respondent/Plaintiff also filed another application A.No.2171 of 2005 directing the appellant/defendant to furnish security for claim made in the suit C.S.No.431 of 2005; any default whereof to order attachment before Judgment of the shares held by the appellant/defendant in India Switch Company Private Limited.
+</p>
+<p id="p_8">	(d) In the above Original Application No.519 of 2005, the learned single Judge,  by order dated 28.4.2005, passed an ex parte order  as follows:-
+</p>
+<p id="p_9">	"That HMA Data Systems Pvt., Ltd., the respondent herein, its agents, or successor interest, be and are hereby restrained by an order of temporary injunction till 17.6.2005 from transferring, or alienating or encumbering in any manner or shares held by the respondent herein, in India Switch Company Pvt., Ltd., or in the business of India Switch Company Pvt., Ltd." 
+</p>
+<p id="p_10">	(e)  The appellant/defendant appeared before this Court on 29.4.2005 on being informed  in the earlier proceeding before the City Civil Court, about the interim order dated 28.4.2005 passed by this Court and gave an affidavit of undertaking on certain terms.  The learned single Judge, after hearing parties by order dated 29.4.2005 passed the following modified order pursuant to the affidavit of undertaking dated 29.4.2005 given by the present appellant/defendant:-
+</p>
+<p id="p_11">	"That the order of temporary injunction granted in pursuance of the order dated 28.4.2005 made in O.A.No.519 of 2005 restraining the respondent therein, its agents, or successor in interest, from transferring, or alienating or encumbering in any manner of shares held by the respondent herein, in India Switch Company Pvt., Ltd., or in the business of India Switch Company Pvt., Ltd., shall stand suspended until further orders of this Court."
+</p> 
+<p id="p_12">	(f) 	The defendant in C.S.No.431 of 2005, the appellant herein, also filed an application A.No.4901 of 2005 praying to vacate the above modified order dated 29.4.2005 passed in O.A.No.519 of 2005.  The defendant  filed another application A.No.3216 of 2005 praying to reject the plaint in C.S.No.431 of 2005.  
+</p>
+<p id="p_13">	(g)  The learned Single Judge, after hearing the contention on either side, by order dated 20.1.2006,   passed the following common order:-
+</p>
+<p id="p_14">	"15. The modified order passed by this Court, wherein the bank guarantee was furnished, has to stand till the disposal of the suit.  So far as the question as to the point of limitation is concerned, this Court  is unable to agree with the learned Senior counsel for the defendant, since the scope of the suit, now pending before this Court, is as to whether any default has been committed by the plaintiff, forfeiting Rs.4,36,30,000/-, which was given as advance money and the same is to be decided only on the evidence.  The question of point of limitation would not arise for consideration.  Under the circumstances, the contentions put forth by the learned Senior counsel for the plaintiff have got to be accepted and the defendant's side contentions have got to be rejected.  Hence, the modified order is to be sustained till the disposal of the suit.
+</p>
+<p id="p_15">	16. The application Nos.3216 and 4901 of 2005 are dismissed and the Application No.2171 of 2005 and O.A.No.519 of 2005 are disposed of accordingly."
+</p>
+<p id="p_16">Aggrieved by the above said common order dated 20.1.2006, the appellant/defendant filed all the three appeals.  No appeal is filed in respect of  A.No.2171 of 2005.  
+</p>
+<p id="p_17">	5. The facts that led to the filing of the suit by the respondent/plaintiff is as hereunder:-  					
+</p>
+<p id="p_18">(a) On 19.4.2000, the respondent/plaintiff M/s.SSI Limited entered into an arrangement with the appellant/defendant M/s.HMA Data Systems Private Limited through a letter of intent for purchase of 80% of equity shares of M/s.India Switch Company Private Limited (ISC), the Target Company, a company registered under the <a href="/doc/257409/" id="a_1">Indian Companies Act</a>, 1956, by way of transfer of the shares of the Target Company from M/s.HMA Data Systems Private Limited, the appellant/defendant to M/s.SSI Limited, the respondent/plaintiff.  On completion of the transaction, it was agreed that the Target Company M/s.ISC will issue the shares in favour of the respondent/plaintiff.  The price agreed for acquisition of the shares by the respondent/plaintiff from the appellant/defendant is around  US $ 43 Million.  The letter of intent dated 19.4.2000 for the above transaction was subject to due diligence clause.  M/s.SSI Limited agreed to make earnest money deposit of US $ 1 Million on signing the letter of intent and on M/s.HMA Data Systems Private Limited accepting the letter of intent.   
+</p>
+<p id="p_19">(b) The further clause is that the earnest money will not be refunded if the share purchase agreement is not executed by M/s.SSI Limited on or before the stipulated date.   As per the terms of the letter of intent,  M/s.SSI Limited should complete the detailed accounting, legal and business due diligence in respect of the Target Company and the proposed acquisition on or before 30th April 2000 or such other date as may be agreed upon in writing by the  parties at a later date.  The further terms is that  the appellant M/s.HMA Data Systems Private Limited shall co-operate fully towards due diligence by M/s.SSI Limited within the stipulated period by providing all necessary information sought for by M/s.SSI Limited during such accounting, legal and business due diligence.  As far as refund of earnest money deposit is concerned, in terms of letter of intent,  it can be claimed in the following circumstances:-
+</p>
+<p id="p_20">(i)  If the sale is not proceeded with on account of withdrawal by M/s.HMA, or 
+
+</p><p id="p_21">(ii) If M/s.SSI is compelled to withdraw from acquisition or defer the execution of the share purchase agreement on or before the stipulated period as a result of the failure of M/s.HMA to provide necessary information  to M/s.SSI, or  
+
+</p><p id="p_22">(iii) On account of any legal or other impediment  on the transfer of shares from M/s.HMA to M/s.SSI which is not overcome by M/s.HMA within 30 days or any additional period which may be mutually agreed upon between the parties, or 
+
+</p><p id="p_23">(iv) If the liabilities of the Target Company, on due diligence are discovered to be in excess of US $ 2 Million and M/s.SSI and M/s.HMA do not reach agreement on the consequential price adjustment, or 
+
+</p><p id="p_24">(v) If the due diligence revealed any previously undisclosed factor(s) adversely affecting the future course of business.
+</p>
+<p id="p_25">(c) The further clause in  the letter of intent is that HMA shall refund the earnest money deposit without interest within seven days from the date of receipt of communication of such withdrawal in writing.  One other clause which may be relevant is as follows:-
+</p>
+<p id="p_26">	"This Letter of Intent is only a basis for continued discussions between the parties and is not an offer or a commitment to consummate the transaction described above.  This Letter of Intent is not intended to create a binding or enforceable contract of commitment between SSI and HMA and the same may not be relied upon by any person or entity as the basis for a contract or commitment.  However, this will not affect the right of HMA to appropriate the earnest money deposit as provided in this Letter of Intent even if the Letter of Intent does not fructify into a binding contract."
+</p><p id="p_27">                                     (emphasis supplied)
+
+</p><p id="p_28">(d) Consequent to the letter of intent, the respondent/plaintiff made a payment of Rs.4,36,30,000/- on 20th April, 2000.  Thereafter, the respondent/plaintiff conducted due diligence and a report was submitted by its law firm on 29th April, 2000.  Thereafter, it appears that the transaction did not conclude in the form of a contract as envisaged by the letter of intent.  The matter was kept in abeyance for more than five years.  
+</p>
+<p id="p_29">(e) On 5th April, 2005, (i.e.) after nearly five years, the English Newspaper, The Hindu, reported a news item about the purchase of the Target Company M/s.ISC by US based company called as M/s.EFunds International India Private Limited.  Based on this report, on 6th April, 2005, plaintiff M/s.SSI writes a letter to M/s.EFunds International India Private Limited informing them about the execution of document for acquiring 80% of the equity shares of M/s.ISC from M/s.HMA, the appellant/defendant.  This was followed a legal notice dated 6.4.2005 by the respondent/plaintiff to the appellant/defendant.  In the notice it is stated that due diligence was conducted, but due to non-furnishing of documents by M/s.HMA, the due diligence was not completed.  The respondent/plaintiff in the notice to the appellant/defendant stated as follows:-
+</p>
+<p id="p_30">	"In this respect we would like to state that your action in dealing with M/s.efunds International Pvt. Ltd., while the agreement with SSI Limited is in subsisting and you are still holding the amount (Rs.4,36,30,000/-) received from SSI Limited is a criminal breach and gross violation of the  contract.  Further, you have so far neither returned the earnest money of Rs.4,36,30,000/- to our client nor terminated the Letter of Intent executed by yourself and our client.
+</p>
+<p id="p_31">	We therefore, advice you not to enter into any negotiations with any other person other than our client for the sale of shares or the business of M/s.India Switch Co. Private Limited, while the Letter of Intent executed by our client and yourself is still subsisting."  
+</p><p id="p_32">                                   (emphasis supplied)
+
+</p><p id="p_33">(f) Thereafter, on 8th April 2005, the respondent/plaintiff filed O.S.No.2245 of 2005 before the VII Assistant City Civil Court, Chennai for permanent injunction restraining  M/s.HMA Data Systems Private Limited, the appellant herein from entering into any negotiation with any other person other than the plaintiff for the sale of shares or the business of M/s.ISC.  It appears on 11th April, 2005, ex parte order of interim injunction was granted in I.A.No.7946 of 2005 by the City Civil Court. After notice and on 15.4.2005, M/s.HMA filed I.A.Nos.8410, 8411 and 8412 of 2005 before the City Civil Court to reject the plaint; to vacate the interim injunction and for advance hearing of the injunction application.  On 20.4.2005, it is stated that all the above applications in the suit O.S.No.2245 of 2005 were heard by the City Civil Court and posted for orders on 28.4.2005.  It is further averred by the appellant/defendant that on 28.4.2005 two applications were filed one for reopening the hearing of I.A.No.7946 of 2005 and the other to receive additional documents.  In the meanwhile on the same day, a memo was filed before the City Civil Court stating that this   Court in C.S.No.431 of 2005 has stayed the proceedings in the suit pending before the City Civil Court.  That respondent/plaintiff obtained an order of interim injunction in O.A.No.519 of 2005 in C.S.No.431 of 2005 on 28.4.2005 as set out earlier.
+</p>
+<p id="p_34">(g) It is further averred by the appellant/defendant that after passing order on 28th April 2005 in O.A.No.519 of 2005 in C.S.No.431 of 2005 restraining the appellant/defendant from transferring or alienating or encumbering the shares of the Target Company,  and in view of closing of the court for summer vacation, an affidavit of undertaking was filed by the present appellant M/s.HMA on 29th April 2005 before this Court.  The affidavit of undertaking was filed by Mr.D.Balajichandran, son of Mr.T.Dakshinamoorthy, working as Chief Financial Officer in M/s.HMA Data Systems Private Limited, No.5,   Mezzanine Floor, Thappar House, New No.37, Old No.44, Montieth Road, Egmore, Chennai-8.  Paragraphs 2 and 3 of the affidavit read thus:-
+</p>
+<p id="p_35">	2. I undertake on behalf of the respondent that the respondent shall, immediately upon receipt of sufficient consideration from M/s.EFunds International India Pvt. Ltd., or any other party for the sale of shares constituting controlling interest in India Switch Company Pvt. Ltd., or transfer of undertaking of India Switch Company Pvt. Ltd., furnish a Bank Guarantee to a tune of Rs.4,36,30,000/- (Rupees Four Crores, thirty six lakhs and thirty thousand only), which is the suit claim herein, to the satisfaction of the Honble High Court.  This undertaking is valid till this Honble  High Court disposes of the Applications for furnishing security in Application  No.2171 of 2005 and O.A.No.519 of 2005 in the above suit.  This undertaking is given without prejudice to the rights of the respondent to contest the suit proceedings or any application therein  before this Honble Court, or any proceeding under O.S.No.2245 of 2005 that the plaintiff seeks to transfer to the file of this Honble Court from the VII Assistant City Civil Court.
+</p>
+<p id="p_36">	3. I respectfully submit that this undertaking is given subject to and based on the understanding entered into by the parties to this suit in open Court today that the plaintiff agrees for the immediate suspension of the orders of injunction dated 11.4.2005 granted by the VII Assistant City Civil Court, at Chennai in I.A.No.7946 of 2005 in O.S.No.2245 of 2005, on account of the impending summer vacation  of this Court.
+
+Based on the above affidavit, the modified order was passed on 29.4.2005 and the order dated 28.4.2005 was suspended until further orders.  The order of interim injunction granted by the City Civil Court in I.A.No.7946 of 2005 in O.S.No.2245 of 2005 was also suspended until  further orders  of this  court.   The   suit  filed before the City Civil Court is transferred to this Court and renumbered as Tr.C.S.No.533 of 2005.   Thereafter based on the undertaking given before this court on 29.4.2005, a bank guarantee was executed  on 22.6.2005 jointly by M/s.State Bank of India and M/s.India Switch Company Private Limited (M/s.ISC) signed by Mr.D.Balajichandran, Chief Financial Officer, authorised signatory and duly constituted attorney in the presence of Mr.S.Suryakumar, Company Secretary.  The address of M/s.India Switch Company is shown as No.5, Mezzanine  Floor, Thapper House No.37, Montieth Road, Egmore, Chennai-8.   This guarantee is issued in favour of the Registrar, High Court,  Madras.  The clauses "B" and E of the guarantee which are relevant reads as follows:-
+</p>
+<p id="p_37">"B. The guarantor is aware of the terms and conditions contained with these presents in respect to the application No.OA No.519 of 2005 in C.S.431 of 2005."
+</p>
+<p id="p_38">E. The Guarantee contained in this Deed is irrevocable, unconditional and unqualified and a continuing one and shall remain in force until the disposal of the application No.OA No.519 of 2005 in CS 431 of 2005 and be payable to the beneficiary  subject to the decision of the application No.OA No.519 of 2005 in CS 431 of 2005 of High Court of Judicature, Madras and irrespective of any instructions by ISC to the Guarantor to withhold payment thereof on any ground whatsoever.
+				
+</p><p id="p_39">(h) Thereafter on 25.7.2005, the appellant/defendant filed the following two applications:-
+</p>
+<p id="p_40">(1)I.A.No.3216 of 2005 for rejection of the plaint and
+(2)I.A.No.4901 of 2005 to vacate the modified order dated 29.4.2005.
+</p>
+<p id="p_41">The respondent/plaintiff filed counter and contested the matters and the impugned common order was passed by the learned single Judge on 20.1.2006 in O.A.No.519 of 2005; A.No.2171 of 2005, A.No.3216 of 2005 and A.No.4901 of 2005.  It was specifically stated that the order governs all the above applications.  Learned single Judge came to the conclusion  that the suit does not require rejection and the order passed on 29.4.2005 does not require modification and the reasons given are as hereunder:-
+</p>
+<p id="p_42">(i)   The cause of action for the first suit O.S.No.2245 of 2005 filed before the City Civil Court was, based on the paper publication which revealed the intention of the appellant/defendant to sell the shares of M/s.ISC, the Target Company, to M/s.EFunds International India Private Limited, whereas the cause of action in the present suit C.S.No.431 of 2005 filed before this court was based on the plaintiffs knowledge that the appellant/defendant had entered into an agreement with third party for sale of the shares and therefore, the plaintiff was constrained to seek recovery of advance money of US $ 1 Million = Rs.4,36,30,000/-, held that the first suit O.S.No.2245 of 2005 before the City Civil Court was for a bare injunction against the appellant/defendant from alienating the shares and the second suit C.S.No.431 of 2005 before this court is for recovery of advance money on coming to know of the agreement.  The learned single Judge held that the cause of action in both the suits is entirely different and distinguishable and therefore, the first contention of the appellant/defendant that the suit is barred in view of Order II Rule 2 CPC was rejected.  
+</p>
+<p id="p_43">(ii)  The next issue that was considered by the learned single Judge was with regard to the ex parte order  dated 28.4.2005 and the subsequent modified order passed on 29.4.2005 based on undertaking dated 29.4.2005 given by the appellant/defendant.  The learned single Judge came to hold that the order dated 28.4.2005 granting ex parte injunction against alienation or encumbering of shares of M/s.ISC was modified on 29.4.2005 by way of suspension only on the basis of the undertaking given by the appellant/defendant by furnishing bank guarantee for the suit claim.  The leaned single Judge came to hold that the bank guarantee furnished  is to the extent of the  money claim made in the suit and has to be kept pending till the suit is decided.  The plea of the appellant/defendant that the bank guarantee was for the limited period (i.e.) till the disposal of the I.A.No.519 of 2005 and I.A.No.2171 of 2005, was rejected.   The leaned single Judge accepted the plaintiffs plea that the release  of the bank guarantee furnished would again take the parties to the original position as if no order was passed in favour of the plaintiff and the amount what is covered in the suit will remain unsecured.    On this premise, the learned single Judge ordered  that the bank guarantee furnished has to stand till the disposal of the suit.  
+</p>
+<p id="p_44">(iii)  The appellant/defendant took a plea that the suit  is barred by limitation and also sought for rejection of the plaint. This plea was rejected by the learned single Judge holding that the scope of the suit pending before this court is  whether any default has been committed by the plaintiff, forfeiting Rs.4,36,30,000/- which was  given as advance money and that will be decided only on evidence.  Therefore, the limitation issue raised at the interlocutory stage was not accepted. The plea for rejection of plaint under Order VII Rule 11 CPC was rejected. The plea that the suit C.S.No.431 of 2005 is hit by Order II Rule 2 CPC was also negatived.
+</p>
+<p id="p_45">Under these circumstances, the present appeals have been filed.
+</p>
+<p id="p_46">	6.  The contentions of the learned counsel for the appellant/defendant are as follow:-   
+</p>
+<p id="p_47">(i) The letter of intent was entered into on 19.4.2000 and the earnest money deposit of US $ 1 Million equivalent to Rs.4,36,30,000/-was paid on certain terms and a time limit was fixed for respondent/plaintiff to complete the acquisition of the shares, viz., 30th April 2000, unless such date is extended on mutual agreement in writing.  Due diligence was undertaken by the respondent/plaintiff in April, 2000.  Thereafter for more than five years no step or action has been taken by the respondent/plaintiff either to acquire the shares or to seek for recovery of the earnest money deposit.  Consequent to the letter of intent, no agreement has been signed between parties.  There is no fault attributed on the part of the appellant/defendant and there is no material to state so.  Since no action has been taken  by the present respondent/plaintiff for more than five years, the suit C.S.No.431 of 2005 filed before this court is barred by limitation.  Hence, the appellant/defendant sought for rejection of the plaint in terms of Order VII Rule 11 C.P.C.  
+</p>
+<p id="p_48">(ii) The second  contention of the learned  counsel for the appellant/defendant is that having filed the suit for bare injunction before the City Civil Court, Chennai on 8th April, 2005, the respondent/plaintiff is not entitled to maintain the present suit C.S.No.431 of 2005 for recovery of money under the very same cause of action.  Referring to Order II Rule 2 CPC, it was submitted that subsequent suit C.S.No.431 of 2005 for recovery of money paid as earnest money deposit is not maintainable.  In other words the respondent/plaintiff abandoned/relinquished their right claimed in the present suit while instituting  the first suit.  
+</p>					
+<p id="p_49">(iii)  During the course of argument in appeal, the learned  counsel for the appellant/defendant referred to  the  affidavit dated 8.1.2007 filed before this court on 27.9.2007, which reads as follows:-
+</p>
+<p id="p_50">2. It is submitted that what has been transferred to eFunds is only a part of  business of India Switch Company Private Limited namely the business of ATM outsourcing managed services, Transaction/Switch Processing and Debit Card production and issuance.  HMA Data Systems Private Limited has not sold or transferred any equity share of India Switch Company Pvt. Ltd., to eFunds.
+</p>
+<p id="p_51">3. It is also submitted that HMA Data Systems Pvt. Ltd., along with its associate companies continues to hold more than 80% of the paid up equity capital of India Switch Company Pvt. Ltd.
+</p>
+<p id="p_52">4. India Switch Company Pvt. Ltd., continues to pursue lines of business such as software development, technical consultancy and networking for non-financial applications.  The Company has also commenced new lines of business in the field of real estate.  The net worth of the India Switch Company Private Limited as on date is positive and substantial.
+
+In support of the above affidavit, a copy of 12th annual report for the year 2006-2007 is filed.  In the course of further hearing on 17.4.2009, the appellant/defendant undertook to furnish the annual report for the subsequent period and accordingly the annual report for the period 2007-2008 is also furnished and the statement in the   affidavit filed earlier was reconfirmed by the learned counsel for the appellant/defendant as holding good still.   It was contended by the learned counsel for the appellant/defendant that the apprehension of the respondent/plaintiff that they will lose the suit claims because of the transaction between the appellant/defendant and the M/s.EFunds International India Private Limited, has no basis.  The M/s.ISC is a company registered under the <a href="/doc/257409/" id="a_2">Indian Companies Act</a> 1956 and therefore, subject to law of this land.  It is a running company and  therefore, there is no basis for the respondent/plaintiff to apprehend that their suit claim  will in any way be affected or prejudice will be caused.  Learned counsel for the appellant/defendant, further pleaded that the net worth of the company M/s.ISC is sound and the appellant/defendant is still holding the majority shares. Respondent/defendant has not made out a case for furnishing of security as envisaged under Order XXXVIII Rule 5 CPC.   In any event, the shares of the Target Company, which is the subject matter of the letter of intent, are available.  The amount deposited is only pending the disposal of the application on merits.  In view of the serious legal infirmity in the case of the respondent/plaintiff, the respondent/plaintiff having failed to establish and make out  a prima facie case against the appellant/defendant for furnishing security by way of bank guarantee in respect of the suit claim, the leaned single Judge ought to have vacated the order of injunction and released the bank guarantee.  The respondent/plaintiff should prove their case for return of the amount.  In any event, the suit C.S.No.431 of 2005 filed before this court is barred by limitation and  is also hit by the provision of Order II Rule 2 CPC and therefore, the bank guarantee should be released.  He pleaded that the balance of convenience is only in favour of the appellant/defendant.  No case has been made out for grant of injunction and in any event the bank guarantee need not be kept alive till the disposal of the suit C.S.No.431 of 2005 as the bank guarantee is given only on full deposit.  Further, the company, the shares which is the subject matter of letter of intent is very much in operation subject to law of our country.  He pleaded that great prejudice is caused to the appellant/defendant by the order of the learned single Judge directing the appellant/defendant to keep the bank guarantee live till disposal of the suit.  The Annual Report for the two consecutive years and the affidavit filed will prove that the financial position of the Target Company is sound.  The respondent/plaintiff has to prove their case for refund and in any event the hurdle of limitation and bar of second suit is a serious legal issue which tilts the balance in favour of the appellant/defendant.  On this premise the appeal is canvassed.
+</p>
+<p id="p_53">7.  Learned senior counsel Shri R.Krishnamoorthy appearing for the respondent/plaintiff on the other hand submitted his contentions as follows:-
+</p>
+<p id="p_54">(i) The common order was passed in O.A.No.519 of 2005, seeking interim injunction not to transfer the shares of M/s.ISC; A.No.2171 of 2005, seeking to furnish bank guarantee or attachment before judgment of the shares of M/s.ISC; A.No.3216 of 2005, seeking rejection of the plaint and A.No.4901 of 2005, seeking to vacate the modified order dated 29.4.2005.  The appeals have been filed against the order passed in O.A.No.519 of 2005, A.No.3216 of 2005 and A.No.4901 of 2005.  No appeal is filed against A.No.2171 of 2005.  Since the appellant/defendant failed to pursue the matter with regard to furnishing of bank guarantee based on the undertaking, no adjudication is called for in the other appeals and the appeals are not maintainable as the appellant/defendant has agreed to the terms.  The nature of order passed by the learned single Judge is only with regard to furnishing of bank guarantee so as to furnish the security to the suit claim  and that having been passed in A.No.2171 of 2005 which is not under challenge, the only course of action for the appellant/defendant is to pursue  the suit and not the appeals.  
+</p>
+<p id="p_55">(ii) As far as the plea with regard to Order II Rule 2 CPC is concerned, learned senior counsel for the respondent/plaintiff contended that the suit O.S.No.2245 of 2005 filed before the City Civil Court was based on a letter of intent dated 19.4.2000 which according to the respondent/plaintiff was subsisting.  Therefore, interim injunction was sought for.  After filing of the suit before the City Civil Court, the appellant/defendant filed I.A.Nos.8410, 8411 and 8412 of 2005 in O.S.No.2245 of 2005 and paragraph 3 of the common affidavit dated 15.4.2005 is as follows:-
+</p>
+<p id="p_56">"3) As per the terms contained in paragraph 5 of the Letter of Intent, the Earnest Money Deposit of U.S. $1 Million paid to the petitioner herein has been forfeited by the petitioner in accordance with the terms of the Letter of Intent, to the  knowledge of the 1st respondent.  Even on a mere perusal of the Letter of Intent, it was clear that, time was the essence of the contract and since the 1st respondent herein did not fulfill his obligations and proceed further for the purchase of the shares from the petitioner herein, the petitioner had suffered loss and the Earnest Money was forfeited, to the knowledge of the 1st respondent. The 1st respondent has not for nearly 5 years made any attempt to even claim back this money from the petitioner, as the 1st respondent knew very well about the forfeiture." 
+</p>
+<p id="p_57">This statement is repeated in paragraph 9, and it reads as follows:-
+</p>
+<p id="p_58"> "As submitted earlier it was the 1st respondent who did not proceed further with the transaction under the Letter of Intent dated 19-04-2000 that led to the forfeiture of U.S. $1 million.  The falsity of the averment is clearly seen from the fact that the 1st respondent has not produced a scrap of paper to show that a demand has been made after having paid a sum of US $ 1 million."
+</p>
+<p id="p_59">Therefore, in view of the above statement in the affidavit, the respondent/plaintiff was forced to file the subsequent suit C.S.No.431 of 2005 before this court for refund of the earnest money deposit.  Learned senior counsel for the respondent/plaintiff also referred to the letter dated 16.4.2005 which was issued by the counsel for the appellant/defendant.  Paragraph 3(ii), (iii), (iv) and (v) of the notice reads thus:-  
+</p>
+<p id="p_60">"ii)  Under the LOI, you were to acquire shares of India Switch Company Pvt. Ltd., ("ISC"), from HMA for a total consideration of USD.43 million (equivalent to Rs.1,876,090,000/-) at the relevant time), by April 30, 2000 or such other date as may be agreed upon in writing.
+</p>
+<p id="p_61">iii) You paid an earnest money deposit of USD.1 million (Rs.43,630,000/-), on or around April 20, 2000, in consideration of HMA refraining from entering into negotiations for sale of its shares in ISC with any party other than SSI, which earnest money deposit would be forfeited if the share purchase agreement was not executed by you on or before the stipulated date on account of withdrawal by you from the acquisition.
+</p>
+<p id="p_62">iv)  You completed the due diligence process and were required to execute the definitive Share Purchase Agreement and make payment of the balance consideration amount of USD.42 million (Rs.1,832,460,000/-).  You however failed to do so, and instead informed us that you did not wish to proceed with and were abandoning the acquisition. 
+</p>
+<pre id="pre_2">v)    Accordingly and as envisaged by the LOI, our client forfeited the earnest money deposit with your concurrence.  This is clear from the fact that in January/February 2001, you expressly admitted and acknowledged to our client that the transaction had not been consummated due to its own internal issues, and that the earnest money deposit had been validly forfeited."
+                                             (emphasis supplied)
+
+</pre><p id="p_63">Therefore, learned senior counsel for the respondent/plaintiff contended that two suits are based on independent cause of action and subsequent events and therefore, Order II Rule 2 CPC is not attracted.  He relied upon the decision of the Apex Court in Kunjan Nair Sivaraman Nair  vs. Narayanan Nair reported in 2004(3) SCC 277 and other decisions and contended that the cause of action, which lead to the filing of the two suits, is not the same.  
+</p>
+<p id="p_64">(iii) As far as limitation is concerned, learned senior counsel for the respondent/plaintiff contended that the earnest money deposit made pursuant to the letter of intent is in the nature of deposit and not an advance.  The limitation for the same will start only when the contract which forms the basis of deposit comes to an end.  It is submitted by the learned senior counsel for the respondent/plaintiff that only in April 2005 the appellant/defendant clearly stated that the amount was forfeited and the process of acquisition of the shares was abandoned.  It was, therefore, contended that this specific statement by the appellant/defendant would save the limitation.    Referring to the various clauses in the letter of intent, particularly, clauses relating to refund of earnest money deposit, it was submitted that in a full-fledged trial it can be established  that the payment of amount is only by way of deposit and it is not in the nature of a loan or an advance.  He relied upon the following decisions:-
+</p>
+<p id="p_65">(1)   Annamalai  vs. - Veerappa reported in A.I.R. 1956 Supreme Court 12 (para 9) and
+
+(2)   <a href="/doc/18952/" id="a_3">Videocon Properties Ltd., - vs. - Dr.Bhalchandra Laboratories</a> reported in 2004(3) SCC 711 (para 14).
+</p>
+<p id="p_66">(iv) On the plea for rejection of plaint it was contended by the learned senior counsel for the respondent/plaintiff that since the Order II Rule 2 CPC is not attracted to the facts of the present case and the question of limitation  has also to be decided by way of evidence based on the nature of transaction, pleading of the parties and the legal notice issued in April 2005, the suit cannot be rejected at the threshold by  rejecting the plaint.  
+</p>
+<p id="p_67">(v) Learned senior counsel for the respondent/plaintiff contended that the appellant/defendant has admitted the receipt of the earnest money deposit and the execution of the letter of intent.  There is no specific evidence to support the plea of forfeiture of the earnest money deposit and therefore, on a mere hyper-technical plea of limitation,  by invoking Order VII Rule 11 CPC, the plaint should not be rejected.  
+</p>
+<p id="p_68">(vi) It was further contended by the learned senior counsel for the respondent/plaintiff that the appellant/defendant is liable to furnish security for the suit claim, since by selling away the shares of M/s.ISC, the Target Company, the valuable rights of the respondent/plaintiff will be affected.  The furnishing of bank guarantee should be read as having been given pending suit and not pending the application. 
+</p>
+<p id="p_69">8.  The next contention of the learned counsel for the appellant/defendant is with regard to rejection of plaint.  This is on the plea that the suit is barred by limitation.  The first cause of action that arose for the filing of the suit is the letter of intent dated 19.4.2000 and the payment of amount as earnest money deposit.   Though the appellant/defendants plea that the suit C.S.No.431 of 2005 for recovery of money is barred by limitation, can be accepted on the first blush, the plea of forfeiture is brought  to light in the affidavit filed before the City Civil Court in O.S.No.2245 of 2005 and in the advocate's notice dated 16.4.2005.  This  is a relevant factor which has to be considered in this lis.   The date of forfeiture of the earnest money deposit and the so-called confirmation by respondent/plaintiff is not the date as set out in the letter of intent, but on a subsequent date, viz., January/February, 2001 and this is evident from a perusal of the legal notice dated 16.4.2005 which is extracted earlier.  The respondent/plaintiffs plea is that it is only after the paper publication in The Hindu on 5.4.2005 and after the institution of the injunction suit O.S.No.2245 of 2005 before the City Civil Court that the respondent/plaintiff came to know about the forfeiture of the amount and therefore, the present suit for recovery of money will not be barred by limitation.  
+</p>
+<p id="p_70">9. <a href="/doc/18952/" id="a_4">In Videocon Properties Ltd., - vs. - Dr.Bhalchandra Laboratories</a> reported in 2004(3) SCC 711 (cited supra), in para 14, as to what is  the nature of an earnest money deposit, was considered and it was held as follows:-
+</p>
+<p id="p_71">	"14. The further aspect that requires to be noticed is as to the nature and character of earnest money deposit and in that context the distinguishing features, which help to delineate the differences, if any.  The matter is not, at any rate, res integra.  In (Kunwar) Chiranjit Singh v. Har Swarup it was held that the earnest money is part of the purchase price when the transaction goes forward and it is forfeited when the transaction falls through, by reason of the fault or failure of the purchaser. This statement of law had the approval of this Court in <a href="/doc/158693/" id="a_5">Maula Bux v. Union of India</a>.  Further, it is not the description by words used in the agreement only that would be determinative of the  character of the sum but really the intention of parties and surrounding circumstances as well, that have to be looked into and what may be called an advance may really be a deposit or earnest money and what is termed as "a deposit or earnest money" may ultimately turnout to be really an advance or part of purchase price.  Earnest money or deposit also, thus, serves two purposes of being part-payment of the purchase money and security for the performances of the contract by the party concerned, who paid it." 
+</p> 
+<p id="p_72">In view of the affidavit filed by the appellant/defendant before the City Civil Court giving details of forfeiture and coupled with the legal notice dated 16.4.2005, which also speaks of forfeiture after nearly five long years, there is some force in the plea of the respondent/plaintiff on the question of limitation.  The forfeiture and its actual date has to be resolved for the purpose of deciding the plea on limitation.  This is an issue to be decided based on evidence to be let in by both parties.  The plea of  limitation, therefore, will have to be decided  only in a full-fledged trial and not at the interlocutory stage.  The rejection of plaint under Order VII  Rule 11 CPC canvassed by the appellant/defendant cannot be countenanced at this point of time and is, therefore, rejected.  As in the Apex Court case of Videocon Properties Ltd., reported in 2004(3) SCC 711 (cited supra), in this case also it has to be established, when the transaction failed and when the forfeiture was made.  The intention of the parties consequent to the letter of intent and the circumstances which led to the forfeiture has to be looked into to ascertain if it is a deposit or advance on the purchase of shares and the rival claims will have to be adjudged on such evidence that may be let in.  Whether the earnest money deposit still remains  without forfeiture is a nebulous question which is to be addressed at the time of trial of the suit.
+</p>
+<p id="p_73">10.  The second contention of the learned counsel for the appellant/defendant is that the first suit O.S.No.2245 of 2005 filed before the City Civil Court for bare injunction and the subsequent suit C.S.No.431 of 2005 filed before this Court arose under the same cause of action.  Therefore, the second suit C.S.No.431 of 2005 for refund of the earnest money deposit is not maintainable  in terms of  Order II Rule 2 CPC.  Order II Rule 2 C.P.C. reads as follows:-
+</p> 
+<p id="p_74">2. Suit to include the whole claim.
+</p><p id="p_75">	(1) Every suit shall include the whole of the claim which the plaintiff is entitled to make in respect of the cause of action; but a plaintiff may relinquish any portion of his claim in order to bring the suit within the jurisdiction of any Court.
+</p>
+<p id="p_76">          (2) Relinquishment of part of claim-where a plaintiff omits to sue in respect of, or intentionally relinquishes, any portion of his claim he shall not afterwards sue in respect of the portion so omitted or relinquished. 
+</p>
+<p id="p_77">	(3) Omission to sue for one of several reliefs - A person entitled to more than one relief in respect of the same cause of action may sue for all or any of such reliefs; but if he omits, except with the leave of the Court, to sue for all such reliefs, he shall not afterwards sue for any relief so omitted.
+</p>
+<p id="p_78">Explanation - For the purposes of this rule an obligation and a collateral security for its performance and successive claims arising under the same obligation shall be deemed respectively to constitute but one cause of action."
+</p>
+<p id="p_79">It is not in dispute that the cause of action in both the cases arose out of the letter of intent dated 19.4.2000.  As far as the suit O.S.No.2245 of 2005 filed before the City Civil Court is concerned, the various dates referred to in the plaint relating to  cause of action is with regard to the payment of earnest money deposit, the request for documents for purpose of due diligence and the press note dated 5.4.2005 which relates to signing of agreement entered into between the appellant/defendant and M/s.EFunds International India Private Limited.  It does not speak of  forfeiture.  As far as the present suit C.S.No.431 of 2005 filed before this court is concerned, it is stated that in the common affidavit of the appellant/defendant dated 15.4.2005 filed in support of the applications I.A.Nos.8410, 8411 and 8412 of 2005 in O.S.No.2245 of 2005 before the City Civil Court it is clearly revealed the intention to sell the shares of M/s.ISC to M/s.EFunds International India Private Limited and therefore, refund was sought for.  It is the appellant/defendants plea that the respondent/plaintiff has abandoned the transaction and therefore, by the terms of the letter of intent, the amount was forfeited to the knowledge of the respondent/plaintiff.   In the common affidavit dated 15.4.2005 filed in support of the applications I.A.Nos.8410, 8411 and 8412 of 2005 in O.S.No.2245 of 2005 before the City Civil Court, there is a clear mention about the forfeiture.  There appears to be no material relating to forfeiture earlier to this date.  At the time of argument, the notice of appellant/defendants counsel dated 16.4.2005 was also pointed out to state that the respondent/plaintiff was put on notice about forfeiture only then.  The cause of action for the second suit arose only because of the plea of forfeiture as stated in the affidavit filed before the City Civil Court. 
+</p>
+<p id="p_80">	11.  According to the appellant/defendant,   the forfeiture had taken place in 2001 and this is disputed. According to the respondent/plaintiff, the question of omitting or relinquishing any portion of the claim did not arise at the time of filing of the  first suit O.S.No.2245 of 2005 before the City Civil Court, as the first suit is for injunction not to deal with shares which is the subject matter of the letter of intent.  It is only on an affidavit filed by the appellant/defendant before the City Civil Court, the appellant/defendant and in the statement of the advocate's notice dated 16.4.2005, the question of forfeiture  came to light.  
+</p>
+<p id="p_81">	12. In terms of Order II Rule 2 C.P.C., the issue that has to be considered in this case is as to whether the respondent/plaintiff   omitted to sue in respect of, or intentionally relinquished any portion of their claim.   A Constitution Bench of Apex Court in <a href="/doc/1407895/" id="a_6">Gurbux Singh -vs. - Bhooralal</a>  reported in AIR 1964 Supreme Court 1810 had the occasion to deal with Order II Rule 2 CPC in the above case.  Para 6 of the judgment is as follows:-
+</p>
+<p id="p_82">	"6. In order that a plea of a bar under Order 2 Rule 2(3), Civil Procedure Code should succeed the defendant who raises the plea must make out (1) that the second suit was in respect of the same cause of action as that on which the previous suit was based; (2) that in respect of that cause of action the plaintiff was entitled to more than one relief; (3) that being thus entitled to more than one relief the plaintiff, without leave obtained from the court omitted to sue for the relief for which the second  suit had been filed.  From this analysis it would be seen that the defendant  would have to establish primarily and to start with, the precise cause of action upon which the previous suit was filed, for unless there is identity between the cause of action on which the earlier suit was filed and that  on which the claim in the later suit is based there would be no scope for the application of the bar.  No doubt, a relief which is sought in a plaint  could ordinarily be traceable to a particular cause of action but this might, by no means, be the universal rule.  As the plea is a technical bar it has to be established satisfactorily and cannot be presumed merely on basis of inferential reasoning.  It is for this reason that we consider that a plea of a bar under Order 2 Rule 2, Civil Procedure Code can be established only if the defendant files in evidence the pleadings in the  previous suit and thereby proves to the court the identity of the cause of action in the two suits."
+</p><p id="p_83">                                     (emphasis supplied)
+
+This has been followed  in the decision of the Apex Court in Kunjan Nair Sivaraman Nair  vs. Narayanan Nair reported in 2004(3) SCC 277.    
+</p>
+<p id="p_84">	13.  The Apex Court in Kunjan Nair's case cited above has also dealt with the issue relating to "cause of action" and its implication in terms of  Order II Rule 2 CPC.  In paras 16 and 17, the Apex Court held as follows:- 
+</p>
+<p id="p_85">	"16.  The expression "cause of action" has acquired a judicially settled meaning.  In the restricted sense cause of action means the circumstances forming the infraction of the right or the immediate occasion for the action.  In the wider sense, it means the necessary conditions for the maintenance of the suit, including not only the infraction of the right, but the infraction coupled with the right itself.  Compendiously the expression means every fact which would be necessary for the plaintiff to prove, if traversed, in order to support his right to the judgment of the court.  Every fact which is necessary to be proved, as distinguished from every piece of evidence which is necessary to prove each fact, comprises in "cause of action".
+</p>
+<p id="p_86">	17. In Halsbury's Laws of England (4th Edn.) it has been stated as follows:
+</p>
+<p id="p_87">	" 'Cause of action' has been defined as meaning simply a factual situation the existence of which entitles one person to obtain from the  court a remedy against another person.  The phrase has been held from earliest time to include every fact which is material to be proved to entitle the plaintiff to succeed, and every fact which a defendant would have a right to traverse.  'Cause of action' has also been taken to mean that particular act on the part of the defendant which gives the plaintiff his  cause of complaint, or the subject-matter of grievance founding the action, not merely the technical cause of action."   
+</p><p id="p_88">				   (emphasis supplied)
+					
+In the present case, as narrated above, the second suit for recovery of money,  filed by the respondent/plaintiff is consequent to the statement in affidavit and legal notice of the appellant/defendant that the earnest money deposit is forfeited.  This, as stated earlier, is an act on the part of the appellant/defendant which gave a cause of action to the respondent/plaintiff for this suit.  This fact has to be established by the appellant/defendant. 
+</p>
+<p id="p_89">	14.  The plea of appellant/defendant that in both suits the cause of action is the same and therefore Order II Rule 2 CPC will be attracted cannot be accepted as such tested on the above said decision interpreting the provisions of Order II Rule 2 CPC.  The second suit is based on a distinct and subsequent cause of action as is evident from the facts narrated above and as set out in the  plaint.  
+</p>
+<p id="p_90">	15.  As far as both parties are concerned, there appears to be no clear statement as to how the parties acted upon after the letter of intent after it was signed and earnest money deposit was paid.  Except certain documents relating to due diligence, the entire transaction appears to have fallen into an abyss.  Both parties are unable to show in clear terms as to how the transaction was concluded or closed.  While the terms of the letter of intent is based on the certain dates and events, to happen within a time frame, the notice of the appellant/defendants counsel dated 16.4.2005 refers to  transaction in the month of January/February, 2001 stating that the respondent/plaintiff has expressed their inability to consummate the transaction and hence forfeiture took place.  This date is well beyond the date stated in the letter of intent.  Further, in the letter of intent, the clause relating to refund of earnest money deposit, it is stated that extension of time can be done mutually.  There is no material to show what happened for several years after the parties signed the letter of intent.  Therefore, the issue as to how  the letter of intent was acted upon by both parties has to be decided only in a full-fledged trial.  Both the parties will have to let in evidence as to how the transaction proceeded consequent to the letter of intent and if the forfeiture, as stated by the appellant/defendant was effected, under what circumstances and on what terms it was done will have to be decided  only on proper evidence.  The respondent/plaintiff in their apprehension to stop the transaction   filed a suit O.S.No.2245 of 2005  for bare injunction  before the City Civil Court.   There was no forfeiture of the amount revealed at that time.   The pleading in the common affidavit dated 15.4.2005 filed  by the appellant/defendant in support of the applications I.A.Nos.8410, 8411 and 8412 of 2005 in O.S.No.2245 of 2005 before the City Civil Court  coupled with the letter of the counsel dated 16.4.2005 and its import in terms of Order II Rule 2 CPC has to be decided only in the trial.   Therefore, the plea that Order II Rule 2 C.P.C., will get attracted  cannot be countenanced at this point of time.  This contention  has to be decided by oral or documentary evidence that may be let in by parties.  If the first suit of respondent/plaintiff on the basis of the letter of intent is  for safeguarding the shares and stop the transfer, the question of refund will not arise then.  Therefore, prima facie, the application of Order II Rule 2 C.P.C., at this stage, cannot be considered as a relevant plea.
+</p>			
+<p id="p_91">	16.  The plea of the learned senior counsel for the respondent/plaintiff that no appeal has been filed against A.No.2171 of 2005 and therefore, all appeals are not maintainable cannot be accepted,  because a common order has been passed in all the applications.  In any event, the bank guarantee has been furnished in O.A.No.519 of 2005 and not in A.No.2171 of 2005. The relevant portion is extracted and respondent/plaintiff has accepted it.  In fact the furnishing of security was not specifically ordered  in A.No.2171 of 2005 and there is no discussion or finding on that application.   The learned single Judge has passed the said common order in O.A.No.519 of 2005 while disposing two of the applications and dismissing others.   The plea of res judicata, therefore, will not arise.  In any event, this Court is of the view that the order under challenge requires modification and we state the reasons hereunder.
+</p>
+<p id="p_92">	17.  The next contentious issue which both the parties are at logger heads is with regard to furnishing of security.  On 28.4.2005, this court passed an order of interim injunction against the appellant/defendant from transferring, encumbering or in any way dealing with the shares of M/s.ISC, the Target Company.  On 29.4.2005, the appellant/defendant furnished an undertaking stating that the appellant/defendant is willing to furnish security till the disposal of the application A.No.2171 of 2005 in O.A.No.519 of 2005 in the above suit.  Based on this undertaking, subsequent order was passed on 29.4.2005 suspending the order of interim injunction dated 28.4.2005.  However, the bank guarantee submitted by the Bank and M/s.ISC and clauses "B" and "E" which have already been extracted above, is a qualified bank guarantee stating that it will remain in force until the disposal of O.A.No.519 of 2005 in C.S.No.431 of 2005 subject to the decision of the application in O.A.No.519 of 2005 in C.S.No.431 of 2005 and it is accepted.  The appellant/defendant does not refer the application A.No.2171 of 2005 in the bank guarantee.  The   appellant/defendants contention is that the suit O.S.No.2245 of 2005 filed before the City Civil Court, and the present suit are  barred by limitation and the subsequent suit C.S.No.431 of 2005 filed before this court for recovery of money is not maintainable in terms of Order II Rule 2 C.P.C.  Since the undertaking is given only pending disposal of the application, O.A.No.519 of 2005, the learned single Judge ought not to have passed the present order stating that the bank guarantee should  remain in force till the disposal of the suit.  It is contended by the learned  counsel for the appellant/defendant that prima facie, the respondent/plaintiff has not made out a case for furnishing such security pending disposal of the suit.   None of the ingredients of Order XXXVIII  Rule 5 CPC have been made out in the present case.  Order XXXVIII Rule 5 CPC reads thus:- 
+</p>
+<p id="p_93">	5. Where defendant may be called upon to furnish security for production of property
+
+	(1) Where, at any stage of a suit, the Court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed against him,
+
+</p><p id="p_94">	(a) is about to dispose of the whole or any part of his property, or
+
+</p><p id="p_95">          (b) is about to remove the whole or any part of his property from the local limits of the jurisdiction of the Court,
+
+the Court may direct the defendant, within a time to be fixed by it, either to furnish security, in such sum as may be specified in the order, to produce and place at the disposal of the Court, when required, the said property or the value of the same, or such portion thereof as may be sufficient to satisfy the decree, or to appear and show cause why he should not furnish security.
+</p>
+<p id="p_96">          (2) The plaintiff shall, unless the court otherwise directs, specify the property required to be attached and the estimated value thereof.
+</p>
+<p id="p_97">          (3) The Court may also in the order direct the conditional attachment of the whole or any portion of the property so specified.
+</p>
+<p id="p_98">        (4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule such attachment shall be void.
+
+The appellant is a registered company under the <a href="/doc/257409/" id="a_7">Indian Companies Act</a>, 1956.  The balance sheet has been filed showing the financial stability of the company, the supporting affidavit, clearly states that the appellant along with associate companies continues to hold 80% of the paid up equity capital of the M/s.India Switch Company Private Limited, the Target Company and the business is continuing.  Therefore, there can be no apprehension on the part of the respondent/plaintiff that the appellant/defendant is about to remove whole or any part of the property from the local limits of the jurisdiction of the court and that the appellant/defendant is intending to cause obstruction or delay the execution of any decree that may be passed against them.  The ingredients of Order XXXVIII Rule 5 CPC is not attracted to the facts of the present case so as to furnish security for the entire amount.  The respondent/plaintiff has not made out a case for furnishing security for the suit claim in its entirety.  The learned single Judge did not consider this plea on prima facie case before ordering the bank guarantee to be kept pending the suit.  In any event, the affidavit dated 29.4.2005 is filed specifically giving an undertaking till disposal of the application.   This is a relevant factor that should be considered which finally disposing off the application.
+</p>
+<p id="p_99">	18.  On the other hand, the appellant/defendant is a company, registered in India and holds shares of the M/s.ISC, the Target Company.  The balance sheet of the Target Company for two consecutive years is  filed to show its financial stability.   As far as the respondent/plaintiff is concerned,  after tendering the earnest money deposit based on the letter of intent dated 19.4.2000 and in spite of  due diligence  in April, 2000, no concrete steps have been taken either to proceed on the basis of letter of intent and conclude the contract for purchase of the shares or make  a request  for return of earnest money deposit.  In such circumstances, it is clear that the respondent/plaintiff at no point of time for more than five years has shown any interest  with regard to the earnest money deposit.  It is only based on the subsequent development which happened after five years, the present suit has been filed for recovery of money before this court.  The appellant/defendant has  been able to establish that  they   continued to hold the 80% of the equity shares of the M/s.India Switch Company Private Limited, the Target Company and a copy of 12th Annual Report 2006-2007  and the 13th Annual Report for the year 2007-2008 have also been furnished.  The shares of this Target Company is the subject matter of the letter of intent dated 19.4.2000.  The said company is a registered under the <a href="/doc/257409/" id="a_8">Indian Companies Act</a> 1956 and the appellant/defendant M/s.HMA Data System is also a company registered under the <a href="/doc/257409/" id="a_9">Indian Companies Act</a>, 1956.  Therefore, the apprehension of the respondent/plaintiff that their claim will be defeated, if the security furnished is not retained till the disposal of the suit is a mere fallacy.   The respondent/plaintiff has to establish their case in the trial that they are entitled to seek recovery of the amount.  Mere apprehension on the part of the respondent/plaintiff that the suit claim will be defeated, if the security is not furnished, does not apply as the nature of transaction in its inception is for transfer of shares based on letter of intent.  The company continues as such.  Appellant/defendant has filed the affidavit dated 27.9.2007 about the share holdings.  The balance sheet has been provided to this court.  None of the ingredients of Order XXXVIII Rule 5 CPC is attracted to furnish  security for the entire suit claim.  
+</p>
+<p id="p_100">	19. There is enough material to suggest that the appellant/defendant and the respondent/plaintiff have mulled over the issue and allowed it  to pass for more than five years  without any activity.  Suddenly, in April, 2005, there is a  great flurry of activity on either side.  Prima facie, both the appellant/defendant and the respondent/plaintiff have contributed to the stalemate by their inaction in concluding the issue, which has resulted in the present suits.   Therefore, the question for furnishing full security for the entire suit claim does not arise. 
+</p>
+<p id="p_101">	20.  The respondent/plaintiff has to establish his prima facie case for recovery of the earnest money deposit.  Having not expressed any apprehension with regard to the earnest money deposit made for more than five years, the respondent/plaintiff cannot wake up suddenly and state that security should be furnished for the entire suit claim.  On the other hand, it is for the appellant/defendant, to show that the forfeiture has been made to the knowledge of the respondent/plaintiff consequent to the failure on the part of the respondent/plaintiff, to conclude the letter of intent by way of contract.  There is some force in the appellant/defendant's plea that the appellant/defendant holds 80% of the shares of the Target Company which is the subject matter of the letter of intent and for which the earnest money deposit was made.  Coupled with the affidavit filed before this Court in appeal, the plea of the appellant/defendant for modification of the order directing furnishing of security by way of bank guarantee can be considered to some extent.  
+</p>
+<p id="p_102">	21.  Keeping in mind the prima facie case of either side and in order to protect the equitable interest  of both the parties and taking into consideration the financial status of the Target Company, viz., M/s.ISC and the annual reports coupled with the affidavit filed by the Chief Financial Officer of M/s.HMA Data Systems Private Limited, where it is stated that the appellant/defendant is  the 80% share holder of the M/s.ISC, this court is of the view that pending suit the appellant/defendant will be entitled to partial relief in the following manner:-  
+</p>
+<p id="p_103">(1) The earnest money deposit is for a sum of Rs.4,36,30,000/-.  The appellant/defendant will furnish a bank guarantee for a sum of Rs.1,36,30,000/- (Rupees One Crore, Thirty Six Lakhs and Thirty Thousand only).  
+</p>
+<p id="p_104">(2) Pending suit, as in the case of the Bank Guarantee already furnished, the appellant/defendant will furnish a security bond for the balance amount of Rs.3,00,00,000/- (Rupees Three Crores only) to be signed both by M/s.HMA Data Systems Private Limited and M/s.India Switch Company Private Limited (ISC).
+</p>
+<p id="p_105">(3) The appellant/defendant will file periodical annual financial report of the Target Company M/s.ISC before the Trial Court,  	
+
+(4) Since both the parties agreed for early disposal of the suit, the suit itself to be taken up for early disposal at an early date.   
+</p>
+<p id="p_106">Accordingly, O.S.A.No.76 of 2006 stands partly allowed.  O.S.A.Nos.77 and 78 of 2006 stand dismissed.  No costs.
+</p>								
+
+
+
+
+
+
+<p id="p_107">ts				
+
+To
+
+</p><p id="p_108">1. The Sub-Assistant Registrar,
+    Original Side, High Court, 
+    Madras.
+</p>
+<p id="p_109">2. The Record Keeper, 
+    V.R. Section,
+    High Court,
+    Madras
+
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

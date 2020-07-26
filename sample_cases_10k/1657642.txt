@@ -1,0 +1,513 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>E.A.Chandrasekaran vs Venkatachalam on 17 December, 2003</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1657642/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1657642">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/960896/">N.A. Suyambulingam vs V.K. Swaminathan And Anr. on 27 January, 1987</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1146817/">Section 8 in THE ARBITRATION AND CONCILIATION ACT, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1732611/">Kamakshi vs Jugraj Jain on 16 September, 1992</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1052228/">The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1591400/">Sukanya Holdings Pvt. Ltd vs Jayesh H. Pandya &amp; Anr on 14 April, 2003</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1657642/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1657642/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1657642/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20revision">civil revision</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20revision%20petition">civil revision petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=NAMAKKAL">NAMAKKAL</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%209">order 9</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=or.17%20rule%202">or.17 rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%209%20rule%209">order 9 rule 9</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2017%20rule%202%20">order 17 rule 2 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%209%20rule%2013">order 9 rule 13</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20under%20order%209%20rule%2013">order under order 9 rule 13</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%202%20rule%202">order 2 rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20xvii">order xvii</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20ix%20rule%2013">order ix rule 13</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20xvii%20rule%202%20">order xvii rule 2 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=venkatachalam">venkatachalam</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%209%20rule%2013%20civil%20procedure%20code">order 9 rule 13 civil procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%209%20rule%2013%20of%20cpc">order 9 rule 13 of cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2017%20rule%202%20cpc">order 17 rule 2 cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20procedure%20code%20order%2017%20rule%202">civil procedure code order 17 rule 2</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20151">section 151</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">E.A.Chandrasekaran vs Venkatachalam on 17 December, 2003</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED: 17/12/2003
+
+CORAM
+
+THE HONOURABLE MR.JUSTICE V.KANAGARAJ
+
+CRP (PD) No.1478 OF 2003 and CRP (PD) 1479 OF 2003
+AND
+C.M.P.Nos.10515 AND 10516 OF 2003
+
+
+C.R.P.P.D.No.1478 OF 2003
+
+E.A.Chandrasekaran             ... Petitioner
+
+-Vs-
+
+1.Venkatachalam
+2.Maragatham                                    ... Respondents</pre>
+<p id="p_1">C.R.P.P.D.No.1479 OF 2003:
+</p>
+<pre id="pre_2">E.A.Chandrasekaran                              ... Petitioner
+
+Vs.
+
+1.P.Pushpanathan
+2.Venkatachalam
+3.Maragatham                                    ... Respondents
+
+</pre><p id="p_2">        Civil Revision Petitions filed under Section 115 of C.P.C.  as  stated
+therein.
+</p>
+
+<p id="p_3">!For Petitioner
+in both CRPS.   :  Mr.R.Swaminathan
+
+^For Respondents Mr.K.Sekar for
+in both CRPs.   :  M/s Sarvabhauman Associates.
+</p>
+<p id="p_4">:COMMON ORDER
+
+                Both the  above  Civil  Revision  Petitions  have  been  filed
+against  the  fair  and  decretal  order  dated 30.4.2003 respectively made in
+I.A.Nos.236 and 237 of 2003 in O.S.No.1370 of 2002 by the Court of Subordinate
+Judge, Namakkal, thereby allowing the Interlocutory Applications filed by  the
+respondents  herein  under  Order IX, Rule 13 r/w Order XVII, Rule 2 &amp; Section
+151 C.P.C.  praying to set aside the decree passed by the said Court.
+</p>
+<p id="p_5">                2.  Tracing the history of the case, what comes to be known is
+that  the  petitioner  herein filed the suit in O.S.No.733 of 1996 before this
+Court, which was later transferred to the Court of Subordinate Judge,  Sankari
+and  re-numbered  as  O.S.No.762  of  1997 and on point of jurisdiction it was
+again transferred to the Court of Subordinate Judge, Namakkal and  re-numbered
+as  O.S.No.1370  of  2002  praying  to  direct  the  defendants to execute and
+register a sale deed in favour of the plaintiff or his nominee or nominees, of
+the schedule property  after  receiving  the  balance  sale  consideration  of
+Rs.1,75,000/-,  to  hand  over  vacant possession of the suit property, to pay
+mesne profits from the date of filing of the suit till delivery  of  the  suit
+property and alternatively direct the defendants to pay the plaintiff a sum of
+Rs.11  ,00,000/-  with  interest  at  12% per annum from the date of suit till
+realisation and for that purpose create a charge over the suit  properties  in
+favour of the plaintiff, for a permanent injunction restraining the defendants
+2  and  3  and  the  1st defendant, power of attorney agent from in any manner
+creating any kind of  documents  and  restraining  them  from  in  any  manner
+alienating  and  encumbering the suit property till final disposal of the suit
+and for costs; that the suit was contested by the respondents herein; that the
+suit was decreed in favour of the petitioner herein; that  the  respondents  2
+and 3 herein have filed I.A.No.287 of 2003 and the first respondent herein has
+filed  I.A.No.286  of  2003  under Order IX, Rule 13 r/w Order XVII Rule 2 and
+Section 151 of C.P.C.  praying to set aside the decree on the ground that  the
+defendants  were  not  examined  as  witnesses  to put forth their substantial
+rights and that no opportunity was given to them to crossexamine  P.W.1;  that
+though  the  suit  was posted for cross-examination of P.W.1 on 5.12.2002 they
+were not able to cross-examine P.W.1, because of P.W.1 was not present on that
+day; that the defendants were not also given opportunity to enter defence.
+</p>
+<p id="p_6">        3.  The learned  Subordinate  Judge,  after  considering  the  reasons
+assigned  on  the  part of the defendants and the defence taken on the part of
+the petitioner herein, also following the decision of the Apex Court cited  on
+the  part  of  the defendants would ultimately allow the applications, thereby
+setting aside the judgment and decree dated 5.12.2 002 made in O.S.No.1370  of
+2002.   It  is  only  testifying  the  validity  of the said fair and decretal
+orders, the petitioner has come forward  to  file  the  above  Civil  Revision
+Petitions  on  grounds  that  the  suit  itself  was  decreed  on  merits, the
+provisions under Order IX Rule 13 C.P.C.  would not be  applicable;  that  the
+impugned  order  was  passed  without jurisdiction since the decree was passed
+under Order XVII Rule 3 C.P.C.  and was based on a detailed judgment; that the
+impugned order has been passed without noting that the decisions cited therein
+have no relevance to the facts of the case and therefore, the  impugned  order
+is not sustainable in law and ought to be set aside.
+</p>
+<p id="p_7">        4.   During  arguments, the learned counsel appearing on behalf of the
+Revision Petitioner in both the above Civil Revision Petitions besides tracing
+the history of the case right from the beginning would  arrive  at  the  point
+that in the suit written statement was filed on 25.3.1997; that nearly 6 years
+the  matter  has  been  kept  pending for trial to be completed; that the suit
+itself was dismissed for default on 29 .7.1999 and thereafter it was  restored
+on 11.8.2002; that the trial commenced on 21.11.2002 and the decree was passed
+in the suit on 5.12.2002 on a detailed judgment.
+</p>
+<p id="p_8">        5.   At  this  juncture,  the learned counsel would cite the following
+judgments:
+</p><p id="p_9">(1) An unreported judgment passed by the  Supreme  Court  of  India  in  Civil
+Appeal Nos.2690 and 2691 of 2003 dated 3.4.2003.
+</p><p id="p_10">(2) 1987(1)  MLJ 20 (<a href="/doc/1357581/" id="a_1">B.CHAMPALAL JAIN vs.  M/S.CHEWARCHAND ASHOK KUMAR AND CO.
+REP</a>.  BY CHEWARACHAND PARICK-I)
+(3) 2000(2)T.L.N.J.  285 (<a href="/doc/381694/" id="a_2">ARUMUGHA GOUNDER AND OTHERS vs.  TMT</a>.    PALANIAMMAL
+AND OTHERS)
+
+</p><p id="p_11">                6.  In the first judgment cited on the part of the petitioner,
+since  the  defendants  1 to 3 were called absent, the trial Court had decreed
+the suit as prayed for and thereafter the defendants had filed an  Application
+under  Order 9 Rule 13 of the CPC before the trial Court to set aside the said
+judgment and decree and on the said petition having been allowed by the  trial
+Court,  a  revision  had been filed before the High Court by the plaintiff and
+the same also having been dismissed, he had filed the Civil Appeal before  the
+Honourable Apex  Court.   The Honourable Apex Court giving expression to Order
+XVII Rules 2 and 3 of C.P.C.  and extracting the said Rules, would remark that
+the case was having imprints of an ex-parte adjudication and not of a decision
+on merits and there was not even  any  indication  as  to  what  evidence  was
+evaluated  and/or whether the merits were tested and had ultimately decided in
+the following terms:
+</p><p id="p_12">we find no infirmity in the impugned judgment to warrant interference.    The
+appeals are dismissed but with no order as to costs.
+</p><p id="p_13">                7.    In  the  second  judgment  cited  on  the  part  of  the
+petitioner, a learned single Judge of this Court has held:
+The Court below when it closed the evidence and  proceeded  with  the  matter
+subsequently, it  did proceed with the case under Or.17, R.3(a) C.P.C.  But by
+virtue of the Explanations attached to Rule 2 of Or.17, C.P.C., if substantial
+portion of the evidence of any party had already been recorded and such  party
+fails  to appear on any day to which the hearing of the suit is adjourned, the
+Court may in its discretion, proceed with the  case  as  if  such  party  were
+present.
+</p><p id="p_14">        8.   In  the third judgment cited on the part of the petitioner, after
+the closure of both sides' evidence and at the time of arguments, the  learned
+counsel for  the  defendants reported no instructions.  In such circumstances,
+the learned trial Judge had proceeded to  decide  the  matter  on  merits  and
+decreed  the  suit  as prayed for, which was taken on appeal by the defendants
+and a learned single Judge of this Court while discussing the  powers  of  the
+Court  under  such  circumstances  and  giving  expression to Order 17, Rule 2
+C.P.C.  had dismissed the appeal suit filed by the  defendants.    Citing  the
+above judgments, the learned counsel for the revision petitioner would pray to
+allow the civil revision petitions.
+</p><p id="p_15">        9.   On the part of the respondents also the following judgments would
+be cited by their counsel:
+</p>
+<p id="p_16">(1) (2003)2 M.L.J.  186 (S.C) (<a href="/doc/729429/" id="a_3">B.JANAKIRAMAIAH CHETTY vs.  A.K.  PARTHASARATHI
+AND OTHERS</a>)
+(2) AIR 1987 SUPREME COURT 42  (<a href="/doc/89872/" id="a_4">PRAKASH  CHANDER  MANCHANDA  AND  ANOTHER  vs.
+SMT.JANKI MANCHANDA</a>)
+(3) 1988-1- L.W.368 (<a href="/doc/960896/" id="a_5">M.A.SUYAMBULINGAM vs.  V.K.SWAMINATHAN AND ANOTHER</a>)
+(4) 1992-2-L.W.  536 (<a href="/doc/1732611/" id="a_6">KAMAKSHI vs.  JUGRAJ JAIN</a>)
+
+</p><p id="p_17">        10.  In the first judgment cited above on the part of the respondents,
+the Honourable Apex Court has held:
+</p><p id="p_18">In  the  absence  any indication as regards merits of the case, preferring an
+appeal will be really inconsequential.  It is more so when no definite  ground
+of  appeal  can be pressed into service, except making generalized challenges.
+It certainly cannot be the legislative intent.
+
+</p><p id="p_19">        11.   In  the  second  judgment  cited  above  on  the  part  of   the
+respondents, the Honourable Apex Court has held:
+</p><p id="p_20">If  on a date fixed,one of the parties to the suit remain absent and for that
+party no evidence has been examined up to that date, the Court has  no  option
+but to proceed to dispose of the matter in accordance with O.17,R.2 in any one
+of the  modes  prescribed  under O.9 of the Civil P.C.  After the Amendment by
+Act 104 of 1976 to O.17 Rr.2 and 3 in cases  where  a  party  is  absent  only
+course is  as  mentioned  in O.17, R.3(b) to proceed under R.2.  Therefore, in
+absence of the defendant, the Court had  no  option  but  proceed  under  R.2.
+Similarly the language of R.2 as now stands also clearly lays down that if any
+one of the parties fails to appear, the Court has to proceed to dispose of the
+suit in  one  of the modes directed under O.9.  The explanation to R.2 gives a
+discretion to the Court to proceed under R.3 even if a  party  is  absent  but
+that  discretion  is  limited onl y in cases where a party which is absent has
+led some evidence or has examined substantial part of their evidence.
+
+</p><p id="p_21">        12.  In the third judgment cited above on the part of the respondents,
+the Honourable Apex Court has held:
+</p><p id="p_22">According to the explanation, to O.17, R.2, C.P.C.    the  party  failing  to
+appear should have let in evidence or a substantial portion of the evidence in
+order  to  enable  the  Court  to  proceed  with the case as if the party were
+present.  In this case the first defendant has not let in any evidence in this
+case.  Only the plaintiff had let in evidence and the  second  defendant  also
+has let  in  evidence.   The contesting first defendant had not entered on his
+defence, so to say, by giving  any  evidence  and  his  counsel  withdrew  his
+appearance during the examination to P.W.1.  In such circumstances, in view of
+the  Explanation to R.2 of O.17, it could not be said that the first defendant
+should be treated as having begun his part of the case in the suit,  entitling
+the court   to  proceed  with  the  case  as  if  he  was  present.    In  the
+circumstances, the treatment of the case as ex parte was right  and  does  not
+call for any interference."
+</p>
+<p id="p_23">        13.   In the last judgment cited above on the part of the respondents,
+even though the defendant was present in the Court, she did not participate in
+the hearing and her counsel was also absent and hence an ex parte  decree  was
+passed against  her.   The application filed by the defendant to set aside the
+ex parte decree was dismissed on ground that only an appeal would lie  against
+such  a  judgment  and  that the application under Order 9 Rule 13 CPC was not
+maintainable.  Aggrieved, the  defendant  preferred  the  Civil  Miscellaneous
+Appeal wherein a learned single Judge of this Court has held:
+</p>
+<p id="p_24">"In  the  instant  case,  the  defendant  was present, but her counsel was not
+present at the time when the case was adjourned.  The defendant,  even  though
+was  physically  present,  was  incapable of participating in the proceedings,
+being a widow and not knowing the procedure  of  court.    The  defendant  was
+helpless  in such a situation, as she could not proceed without the assistance
+of her advocate.  In the circumstances, the order passed by  the  lower  Court
+cannot be  construed  as  an  order  under  Order 17 Rule 3 CPC.  It has to be
+construed as an order under Order 17, Rule 2 CPC  and  the  application  filed
+under Order 9 Rule 13 CPC is maintainable."
+</p><p id="p_25">Citing  the  above  judgments,  the  learned counsel for the respondents would
+submit that the Court below has considered all the facts and circumstances  of
+the case in the manner expected by law and hence no interference of this Court
+is required and would pray to dismiss the above civil revision petitions.
+</p>
+<p id="p_26">        14.  In consideration of the  facts  pleaded,  having  regard  to  the
+materials placed on record and upon hearing the learned counsel for both, what
+comes  to be known is that it is a suit which was originally filed in the year
+1996 before this Court and thereafter it had been transferred to the Court  of
+original  jurisdiction,  the  Court  of  Subordinate  Judge,  Sankari  with  a
+direction to dispose of the matter  within  three  months  and  thereafter  on
+creation  of  a  new  District  Namakkal,  administratively, the case has been
+transferred to the present Court wherein the suit is  pending  i.e.    in  the
+Court  of Subordinate Judge, Namakkal and got re-numbered as O.S.1307 of 2002.
+Therefore, it has to be remembered that it is a case which is kept pending for
+seven years.
+</p>
+<p id="p_27">        15.   In the meantime, the trial Courts have carried on their exercise
+of trying the said suit and ultimately even the suit had been finally disposed
+of decreeing the same with costs in favour of the  petitioner  herein  and  at
+this  juncture,  the  respondents 2 and 3 herein have filed I.A.No.237 of 2003
+and yet another I.A.No.236 of 2003 has been  filed  by  the  first  respondent
+under  Order  9 Rule 13 r/w.Order 17 Rule 2 and Section 151 CPC praying to set
+aside the decree on ground that the defendants were not examined as  witnesses
+to  put-forth  their  substantial  rights and that no opportunity was given to
+them to crossexamine P.W.1.  These two Interlocutory Applications having  come
+to  be  allowed  by the trial Court itself, the petitioner has come forward to
+file the above civil revision petitions on certain grounds  as  brought  forth
+and traced supra.
+</p>
+<p id="p_28">        16.  During arguments, three decisions would be ushered in on the part
+of the petitioner and on the part of the respondents, four decisions have been
+cited  justifying  the  order  passed  by  the  trial  Court in allowing those
+applications.
+</p>
+<p id="p_29">        17.  It may be pointed out that the decisions cited on the part of the
+petitioner have been rendered  by  the  respective  Courts  mentioned  therein
+adhering  to  the facts and circumstances encircling those cases dealt with by
+them and they have little application to the facts of the case in  hand.    On
+the contrary, the decisions cited on the part of the respondents herein reveal
+that  `in  the  absence  of  any  indication  as  regards  merits of the case,
+preferring an appeal will be really inconsequential; that it is more  so  when
+no  definite  ground  of  appeal  can  be  pressed  into service except making
+generalized challenges, which certainly cannot be the legislative  intent'  as
+it  has  been  held  by  the Honourable Apex Court in the judgment reported in
+(2003) II M.L.J.  186 (SC), further giving expression to Order 17 Rules 2  and
+3  and  Order  9  of the CPC, so far as the other judgments on the part of the
+respondents are concerned and therefore, no d oubt, adopting three of the four
+judgments cited by the respondents herein and in full consideration  of  those
+propositions  held  by  the  upper  forums, the lower Court has arrived at the
+valid conclusion to allow the two  Interlocutory  Applications  filed  by  the
+respondents herein.
+</p>
+<p id="p_30">        18.   Further  more,  in  its  recent  judgment  delivered  in <a href="/doc/1591400/" id="a_7">SUKANYA
+HOLDINGS (P) LTD.  vs.  JAYESH H.PANDYA AND ANOTHER</a> reported in (2003)  5  SCC
+531, the Honourable Apex Court has held:
+</p>
+<p id="p_31">"For  interpretation  of  Section 8 (of the Arbitration and <a href="/doc/1306164/" id="a_8">Conciliation Act</a>),
+<a href="/doc/310829/" id="a_9">Section 5</a> would have no  bearing.    Except  <a href="/doc/1146817/" id="a_10">Section  8</a>,  there  is  no  other
+provision  in  the  Act  that in a pending suit, the dispute is required to be
+referred to the arbitrator.   Further,  the  matter  is  not  required  to  be
+referred  to  the  Arbitral  Tribunal,  if  (1) the parties to the arbitration
+agreement have not filed any such application for referring the dispute to the
+arbitrator; (2) in a pending  suit,  such  application  is  not  filed  before
+submitting  first  statement  on  the  substance  of  the dispute; or (3) such
+application is not accompanied by the original arbitration agreement  or  duly
+certified copy  thereof.  This would, therefore, mean that the <a href="/doc/1052228/" id="a_11">Arbitration Act</a>
+does not oust the jurisdiction of the civil court to decide the dispute  in  a
+case  where parties to the arbitration agreement do not take appropriate steps
+as contemplated under sub-sections (1) and (2) of <a href="/doc/1232861/" id="a_12">Section 8</a> of the Act."
+</p>
+<p id="p_32">        19.  When such is the legal position as clarified  by  the  Honourable
+Apex Court in matters of such nature, this Court does not see any valid reason
+to cause its interference into the well considered and merited order passed by
+the Court below and hence the following order:
+</p><p id="p_33">In result,
+</p><p id="p_34">(i)the  above civil revision petitions do not merit acceptance and they become
+liable only to be dismissed and are dismissed accordingly.
+</p>
+<p id="p_35">(ii)The common fair and decretal order dated 30.4.2003 made in I.A.    Nos.236
+and  237  of  2003  in  O.S.No.1370 of 2002 by the Court of Subordinate Judge,
+Namakkal is hereby confirmed.
+</p><p id="p_36">        However, in the circumstances of the cases, there shall be no order as
+to costs.
+</p>
+<p id="p_37">        Consequently, C.M.P.Nos.10515 and 10516 of 2003 are also dismissed.
+</p>
+<p id="p_38">Index:  Yes
+Internet:  Yes
+
+gr/Rao
+
+To
+
+The Subordinate Judge,
+Namakkal.
+</p>
+
+
+<p id="p_39"></p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

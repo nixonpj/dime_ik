@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mohanlal Mukati vs M.P.State Warehousing Corp. &amp; Ors on 7 May, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/158474621/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/158474621/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/158474621/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/158474621/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=industrial%20tribunal">industrial tribunal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=industrial%20">industrial </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reinstatement">reinstatement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=notification">notification</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">Mohanlal Mukati vs M.P.State Warehousing Corp. &amp; Ors on 7 May, 2011</div><pre id="pre_1">                       W.P.(S) No.74/2003
+07.05.2011
+       The Industrial Tribunal in its impugned award, by which
+it   has   refused   reinstatement   and   granted   lump    sum
+compensation instead of reinstatement, has mentioned as one
+of the factors for refusing reinstatement that the workman has
+not been able to prove the take-over of the respondent No.1 by</pre>
+<p id="p_1">the respondent No.2.
+</p>
+
+<p id="p_2">       The take-over is by a Gazette Notification which has
+been published in the Extraordinary Gazette of Madhya
+Pradesh dated 6th July, 2000. A copy of the same has been
+enclosed as Annexure R-2/A. This Gazette Notification has
+been issued by the State Government in exercise of the powers
+under Section 76(1) of the Madhya Pradesh Nagar Tatha
+Gram Nivesh Adhiniyam, 1973.
+</p><p id="p_3">       Once there is a statutory notification, published in the
+official gazette, every Court or Tribunal is bound to take
+judicial notice of the same, and it does not require to be proved.
+Therefore, one of the major factors because of which
+reinstatement has been refused, cannot stand.
+</p><p id="p_4">       In these circumstances, we allow this writ petition of the
+workman, set aside the order of the Industrial Tribunal and
+remand the matter back to the Industrial Tribunal for
+examining the matter afresh.
+</p><p id="p_5">             We make it clear that in view of what has been
+      mentioned above we have not examined the other findings or
+      the other questions, which will remain open before the tribunal.
+</p><p id="p_6">            The   Industrial    Tribunal   will   decide   the   matter
+      expeditiously.
+</p>
+
+<pre id="pre_2">            (Sushil Harkauli)                       (S.C. Sinho)
+               Judge                                  Judge
+psm
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

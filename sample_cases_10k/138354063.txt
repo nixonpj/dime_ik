@@ -1,0 +1,439 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Johny on 5 October, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/138354063/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/110162683/">the Central Excise Act, 1944</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/138354063/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/138354063/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=374">374</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dalbir">dalbir</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dalbir%20singh">dalbir singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2061/1/14%20excise%20act">section 61/1/14 excise act</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Johny on 5 October, 2010</div><div class="doc_author">Author: Ms.Vandana Jain</div>
+
+<pre id="pre_1">                                                      1
+
+           IN THE COURT OF MS. VANDANA JAIN, MM­08
+                   WEST DISTRICT, TIS HAZARI COURT
+
+
+State Vs.  Johny
+FIR No.374/02
+PS: Kirti Nagar
+U/S:  61/1/14 <a href="/doc/110162683/" id="a_1">Excise Act</a>
+
+
+Sr. no. of the case                                        :         755/2
+Date of commission of offence                              :         10.08.2002
+Date of institution of the case                            :         04.03.2003
+Name of the complainant                                    :         Ct. Vijay Singh
+Name of accused and address                                :         Johny S/o Chuni Lal 
+                                                                     R/o jhuggi no.B500, 
+                                                                     Chunna Bhatti, Kirti 
+                                                                     Nagar, New Delhi. 
+Offence complained of or proved    :                                 U/S  61/1/14 <a href="/doc/110162683/" id="a_2">Excise Act</a>
+Plea of  the accused                                       :         Pleaded not guilty
+Final Order                                                :         Acquitted
+Date of judgment                                           :         05.10.2010
+
+
+J U D G M E N T:
+</pre>
+<p id="p_1">1.                 Brief facts of the prosecution story is that on 10.08.2002
+
+     at about 7.00pm  at Chuna Bhatti  Chowk, Kirti  Nagar, Delhi  the
+
+     accused   was   found   in   possession   of   plastic   cane   containing   11
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 1/7
+<span class="hidden_text" id="span_1">                                                       2</span>
+
+     bottles of liquor without any permit or license. 
+
+</p><p id="p_2">2.                 Charge was framed against the accused on 27.02.2006 to
+
+     which the accused pleaded not guilty and claimed trial.
+
+</p><p id="p_3">3.                Prosecution has cited 7 witnesses in support of its case
+
+     and out of  them 4  witnesses have been examined. 
+
+</p><p id="p_4">4.                 PW1  Ct. Mukesh Kumar deposed that on 27.09.2002 he
+
+     collected one bottle sealed with the seal of DS from MHC(M)  and
+
+     deposited the same in excise lab. 
+</p>
+<p id="p_5">5.                 PW2   HC   Rameshwar   Dayal   is   the   MHC(M)   who   had
+
+     received   the   case   property   and   entered   in   register   no.19.   He
+
+     deposed that he sent Ct. Mukesh to excise office for depositing the
+
+     sample. 
+</p>
+<p id="p_6">6.                 PW3  HC  Dalbir  Singh  deposed  that  on  10.08.2002  on
+
+     receiving of DD no.13A, he reached at Chuna Bhatti chowk where
+
+     one   Ct.   Vijay   Kumar   met   him   and   handed   over   accused   Johny
+
+     along with one plastic cane containing illicit liquor and made his
+
+     statement.  He deposed that the illicit liquor was measured with the
+
+     help of bucket and same was found to contain 11 bottles of 750 ml
+
+     out of which one bottle was  taken out for sample. He deposed that
+
+     remaining illicit liquor was poured in the said plastic cane and both
+
+     the case property were separately sealed with the seal of DS and
+
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 2/7
+<span class="hidden_text" id="span_2">                                                       3</span>
+
+   seal after use handed over to Ct. Vijay Kumar. He deposed that he
+
+   prepared   form   M29   and   case   property   was   taken   into   police
+
+   possession. He deposed that he prepared rukka and handed over to
+
+   Ct.   Vijay   Kumar   for   registration   of  FIR  and   he   got   the  FIR
+
+   registered and returned back at the spot along with carbon copy of
+
+   FIR   and   rukka.   He   deposed   that   he   prepared   site   plan   and   the
+
+   accused was formally arrested and the information regarding arrest
+
+   was  given to the wife of accused. 
+</p>
+<p id="p_7">7.                 In his cross examination he stated that lid of the cane can
+
+   be removed without disturbing the seal and he had not shown the
+
+   source of light in the site plan prepared by him at the instance of
+
+   Ct.   Vijay.   He   stated   that   the   proceedings   were   conducted   while
+
+   sitting on a bench taken from a nearby shop/jhuggi.  He stated that
+
+   Ct. Vijay  brought  a plastic bucket  and  a mug along  with empty
+
+   bottle but  the person from whom the above things were taken has
+
+   not been examined by him as witness nor he can give his name and
+
+   address.   He   stated   that   he   reached   the   spot   at   about   7.15pm   or
+
+   finally left the spot at about 9.45pm. He stated that there is neither
+
+   any case diary nor memo regarding return of seal by the Constable
+
+   to him  and he received the seal next day in the morning. He stated
+
+   that that  the person  from whom empty bottle was taken has not
+
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 3/7
+<span class="hidden_text" id="span_3">                                                       4</span>
+
+   been paid anything. He stated that he was having black raxine bag
+
+   with him.   He stated that the constable who took the rukka came
+
+   back after registration of the case after 30 minutes. 
+
+</p><p id="p_8">8.                 PW4  Ct.  Vijay  deposed  that  on 10.08.2002  he was on
+
+   patrolling duty and reached at Chuna Bhatti Chowk where accused
+
+   was  coming  and  was  carrying  one  plastic  cane  containing  illicit
+
+   liquor and on suspicion he asked to stop him  and checked plastic
+
+   cane which was containing illicit liquor on which he made a call to
+
+   DO from where HC Dalbir Singh reached at the spot. He deposed
+
+   that he handed over the accused Johny alongwith plastic cane to
+
+   HC Dalbir and illicit liquor was measured with the help of empty
+
+   bucket   and   same   was  found  to  be  11   bottles   of  750  ml.   out   of
+
+   which  one was taken out  for sample and  remaining illicit  bottle
+
+   poured   in   the   plastic   cane.   He   deposed   that   both   case   property
+
+   sealed with the seal of DS and after using the same was handed
+
+   over to  him.  He deposed  that  the case property  was   taken into
+
+   possession     and   IO   recorded  his  statement.   He   deposed   that  IO
+
+   prepared rukka and handed over to him for registration of the FIR
+
+   and After  registration  of  FIR  he returned at the spot along with
+
+   copy   of  FIR  and   rukka   and   same   was   handed   over   to   IO.   He
+
+   deposed that IO prepared site plan  arrested the accused and later
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 4/7
+<span class="hidden_text" id="span_4">                                                       5</span>
+
+   on he was released on police bail.
+</p>
+<p id="p_9">9.                 In   his   cross   examination   he   stated   that   he   left   PS   for
+
+   patrolling at 7.00pm and apprehended the accused at 7.00pm. He
+
+   stated that he gave the call to PS through a PCO but he cannot give
+
+   the name of the person who was manning the PCO. He stated that
+
+   he  brought one bucket, one empty bottle and a mug from nearby
+
+   jhuggi but cannot name the jhuggiwala or jhuggiwali and jhuggi
+
+   number and nothing was paid to jhuggiwala for the empty bottle.
+
+   He stated that IO was having  cloth of black colour and the bag of
+
+   the   IO   contained   a   phatti   and   a   danda.   He   stated   that   the
+
+   proceedings were conducted while sitting on a bench taken from a
+
+   tea shop but he was not asked to join the proceedings. He stated
+
+   that the proceedings were conducted under street light which was
+
+   not   shown   in   site   plan   which   was   prepared   at   his   instance.   He
+
+   deposed that he   returned the seal at the spot then and there.   He
+
+   stated that they left the spot finally at 5pm  and  do not know how
+
+   the surety happened to be the spot. 
+</p>
+<p id="p_10">10.                Statement of accused U/S 281 <a href="/doc/445276/" id="a_3">Cr.P.C</a> has been recorded
+
+   in which he has stated that he did not wish to lead any defence
+
+   evidence.
+</p>
+<p id="p_11">11.                I   have   heard   arguments   advanced  by   Ld.  APP  for  the
+
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 5/7
+<span class="hidden_text" id="span_5">                                                       6</span>
+
+   State and learned counsel for the accused. I have also perused the
+
+   record carefully. 
+</p>
+<p id="p_12">12.                PW3  HC  Dalbir  Singh  in  his  cross  examination  stated
+
+   that the lid of the cane can be removed without disturbing the seal.
+
+   Therefore,   the   recovery   of   illicit   liquor   from   the   possession   of
+
+   accused becomes doubtful.
+</p>
+<p id="p_13">13.                 He stated that Ct. Vijay brought a plastic bucket, a mug
+
+   and empty bottle but he did not tell from whom he had brought
+
+   these articles nor he was made a witness.
+</p>
+<p id="p_14">14.                 He further  stated that he received the seal next day on
+
+   the other hand PW4 Ct. Vijay stated that he had returned the seal
+
+   then and there. 
+</p>
+<p id="p_15">15.                PW3 HC Dalbir Singh deposed that they finally left the
+
+   PS at about 9.45pm. PW4 Ct. Vijay stated that they finally left the
+
+   spot at 5.00pm. PW4 Ct. Vijay deposed that he was on patrolling
+
+   duty but no DD entry was proved in this regard.
+
+</p><p id="p_16">16.                  He   also   deposed   that   site   plan   was   prepared   at   his
+
+   instance but the same does not bear his signatures. PW4 Ct. Vijay
+
+   stated that he do not know as to how the surety of accused had
+
+   happened at the spot.
+</p>
+<p id="p_17">17.                From   the aforesaid  discussion  it  is  clear that  there  are
+
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 6/7
+<span class="hidden_text" id="span_6">                                                       7</span>
+
+   several contradictions in the testimony of these two witnesses. The
+
+   prosecution has failed to prove its case beyond reasonable doubt.
+
+   Accordingly accused is acquitted for the charge framed U/s 61/1/14
+
+   <a href="/doc/110162683/" id="a_4">Excise Act</a>.  
+</p>
+<p id="p_18">
+
+</p><pre id="pre_2">Announced in the open                                                    (Vandana Jain)
+court on 05.10.2010.                                                 MM­08/West/Delhi
+
+
+
+
+FIR No.374/02 State Vs.Johny                                                                          Page 7/7
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Badari Urao &amp; Ors vs The State Of Bihar &amp; Ors on 28 June, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/50130433/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/7832/">The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/50130433/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/50130433/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Badari Urao &amp; Ors vs The State Of Bihar &amp; Ors on 28 June, 2016</div><pre id="pre_1">                    IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                Civil Writ Jurisdiction Case No.5532 of 2014
+                 ======================================================
+                 1. Badari Urao S/O Budhan Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 2. Palat Urao S/O Bhukhal Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 3. Rupan Urao S/O Bhukhal Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 4. Munnilal Urao S/O Pahun Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 5. Bhikhu Urao S/O Budhan Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 6. Rajdeo Urao S/O Mangani Uraon, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 7. Kanhai Urao S/O Pahun Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                 8. Kamal Urao S/O Devial Urao, resident of Village - Gamhariya, P.S. -
+                 Manpur, P.O. - Chauhata, District - West Champaran
+                                                                         .... .... Petitioner/s
+                                                    Versus
+                 1. The State of Bihar through the Collector, West Champaran at Bettiah
+                 2. The Collector, West Champaran at Bettiah
+                 3. The Divisional Commissioner, Tirhut Division, Muzaffarpur
+                 4. The District Land Acquisition Officer, Bettiah, West Champaran
+                 5. The Circle Officer (The Anchal Adhikari), Mainatand Anchal,
+                 Mainatand, District - West Champaran
+                                                                        .... .... Respondent/s
+                 ======================================================
+                 Appearance :
+                 For the Petitioner/s      :   Mr. Sanjeev Kumar, Advocate
+                 For the Respondent/s      : Mr. Krishna Chandra, AC to AG
+                 ======================================================
+                 CORAM: HONOURABLE MR. JUSTICE BIRENDRA PRASAD VERMA
+                 ORAL ORDER</pre>
+
+<p id="p_1">3   28-06-2016                 Heard the parties.
+</p><p id="p_2">                               The petitioners have filed the present writ petition
+                 under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India raising a grievance
+                 against the notices dated 27.11.2013 issued under the signature of
+                 the respondent Anchal Adhikari, Mainatand, West Champaran, as
+                 contained in Annexure-2 series, whereby they have been informed
+                 that the lands belonging to them are in the process of acquisition
+                 for construction of Indo-Nepal Border Road Project.
+</p><p id="p_3">                               The learned counsel appearing on behalf of the
+<span class="hidden_text" id="span_1"> Patna High Court CWJC No.5532 of 2014 (3) dt.28-06-2016</span>
+
+<span class="hidden_text" id="span_2">                                          2/3</span>
+
+
+
+
+             petitioners submits that all the petitioners are members of the
+             Scheduled Tribes and if their lands are acquired, then they would
+             practically become landless persons. He further submits that no
+             notice or information was given to the petitioners for or after
+             initiation of land acquisition proceeding with respect to the lands
+             in question belonging to them. However, in the whole writ petition
+             no where it has been stated that any Award has been prepared
+             under the provisions of <a href="/doc/7832/" id="a_2">The Land Acquisition Act</a>, 1894 (in short,
+             "the Act, 1894") for acquisition of lands in question.
+</p><p id="p_4">                            The learned AC to AG, appearing on behalf of the
+             respondents, by referring to the averments made in the counter
+             affidavit filed on behalf of the respondent nos. 2,4 and 5, submits
+             that the apprehension of the petitioners about acquisition of their
+             lands are completely misplaced. According to him, though land
+             acquisition proceeding was started for acquisition of certain area
+             of lands for the project in question under the provisions of the Act,
+             1894, which has now been repealed; therefore, the whole
+             proceeding has been stayed by the State authorities and decision
+             has been taken to start a fresh land acquisition proceeding under
+             the provisions of The Right to Fair Compensation and
+             Transparency         in     Land      Acquisition,   Rehabilitation   and
+             Resettlement Act, 2013 ( in short, "the Act, 2013"). He further
+             submits that if such a proceeding is started under the provisions of
+             the Act, 2013 and the Rules made thereunder with respect to lands
+             of the petitioners, then they shall be given opportunity of hearing.
+             He next submits that, at the moment, no such proceeding is
+             pending even under the Act, 2013.
+</p><p id="p_5">                            In view of the above fair stand taken on behalf of the
+             respondents and in view of the statements made in paragraphs 9
+<span class="hidden_text" id="span_3">           Patna High Court CWJC No.5532 of 2014 (3) dt.28-06-2016</span>
+
+<span class="hidden_text" id="span_4">                                                    3/3</span>
+
+
+
+
+                       and 10 of the counter affidavit, this Court is of the opinion that
+                       the present writ petition has practically become infructuous and
+                       apprehension of the petitioners regarding acquisition of their lands
+                       under the provisions of the Act, 1894 is completely misconceived.
+                       Accordingly, the writ petition stands disposed of as infructuous.
+</p><p id="p_6">                                      However, it goes without saying that if fresh
+                       proceeding is started under the provisions of the Act, 2013 with
+                       respect to the lands in question belonging to the petitioners, then
+                       opportunity of hearing must be given to them, besides others, if
+                       any.
+</p>
+<p id="p_7">                                              (Birendra Prasad Verma, J)
+Tahir/-
+</p>
+
+<p id="p_8">  U
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

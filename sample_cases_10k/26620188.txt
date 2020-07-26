@@ -1,0 +1,2875 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In The Court Of Shri L.K. Gaur vs Unknown on 16 April, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/26620188/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 28 docs 
+      
+        - [<A HREF="/search/?formInput=cites:26620188">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1331755/">The Prevention of Corruption Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/556166/">Section 468 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1436241/">Section 420 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1306824/">Section 415 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1439698/">The Part B States (Laws) Act,   1951</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/26620188/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/26620188/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=laxmi%20devi">laxmi devi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=smt.%20laxmi%20devi">smt. laxmi devi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=transfer%20of%20vehicle%20">transfer of vehicle </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prakash%20chand">prakash chand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sudhir%20">sudhir </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electronic%20record">electronic record</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ashok%20leyland">ashok leyland</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=meena">meena</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=13%281%29%28d%29">13(1)(d)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forged%20documents">forged documents</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%281%29%28d%29%28i%29">section 13(1)(d)(i)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20471">section 471</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=udc">udc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20468%20of%20indian%20penal%20code">section 468 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20468%20ipc">section 468 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20468">section 468</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=468%20of%20indian%20penal%20code">468 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=468%20ipc">468 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forgery">forgery</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forgery%20citedby%3A556166">forgery citedby:556166</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">In The Court Of Shri L.K. Gaur vs Unknown on 16 April, 2012</div><div class="doc_author">Author: Sh. L.K. Gaur</div>
+
+<pre id="pre_1">    IN THE COURT OF SHRI L.K. GAUR, SPECIAL JUDGE
+                P.C. ACT (CBI­09), CENTRAL DISTRICT, 
+                       TIS HAZARI: DELHI 
+
+
+CC No. 13/2011
+R.C. No. 57(A)/96/CBI/ACB/ND
+Case I.D No. 02401R0000961999
+
+Central Bureau of Investigation
+
+                 Versus
+Shri Prakash Chand 
+S/o Late Shri Hari Singh 
+R/o RZ 45, Gali No. 1, Nangloi Road,
+Maksudabad Colony, Nazafgarh,
+New Delhi.
+
+Date of Institution              :  22.12.1999
+Date of reserving Judgment  :  01.03.2012
+Date of Pronouncement            :  03.04.2012
+
+
+JUDGEMENT 
+</pre>
+<p id="p_1">FACTS:  
+</p>
+<p id="p_2">      The Accused has been sent for trial under section 120­B 
+
+r/w 420 r/w 511, 468, 471 <a href="/doc/1569253/" id="a_1">IPC</a> &amp; <a href="/doc/86648814/" id="a_2">Section 13(2)</a> r/w 13(1)(d) of 
+
+the <a href="/doc/1331755/" id="a_3">Prevention of Corruption Act</a>, 1988.
+</p>
+<p id="p_3">
+C.C. No. 13/11
+</p><p id="p_4"> 2.    The   Accused   was   working   as   Upper   Division   Clerk   in 
+
+Motor   Licensing   Office   (HQ)   branch   of   the   State   Transport 
+
+Authority Govt of NCT. He was dealing with transfer of vehicles 
+
+of DL 1P series. 
+</p>
+<p id="p_5">
+
+</p><p id="p_6">3.    One   Shri   Ishwar   Lal   Ex   Hawaldar   of   Indian   Army   in 
+
+response to scheme formulated for grant of 3000 stage carriage 
+
+permits by the Transport Authority had submitted application no. 
+
+007049   dated   25.01.1992   in   Ex­   Servicemen   Category.   In   a 
+                                                                         th
+draw of lots he was declared successful. A letter dated 24   of 
+
+December, 1992 was issued to him asking him to submit certain 
+
+documents   and   also   to   produce   the   specified   Bus   within   a 
+
+period of 90 days.
+</p>
+<p id="p_7">4.    Shri   Ishwar   Lal   arranged   some   money   from   his   own 
+
+resources   and   for   the   remaining     Rs.   3,00,000/­   (   Rs.   Three 
+
+Lacs  only)   approached Ashok  Leyland  Finance  Limited  Delhi. 
+
+On Hire­ Purchase basis, he purchased the Bus DLIP­ 5290. 
+
+The   Vehicle   was   registered   in   his   name   vide   Registration 
+
+Certificate dated 7 April 1993.
+</p>
+<p id="p_8">
+C.C. No. 13/11
+</p><p id="p_9"> 5.        Ishwar Lal submitted all the documents necessary for the 
+
+issuance   of   the   permit   and   paid   the   requisite   fees.     He   was 
+
+informed that Route No. 706 from Vivek Vihar to Pragati Maidan 
+
+had been allotted to him. The permit, however, was not issued 
+
+to him. He wrote letters after letters requesting for  permit to be 
+
+issued   to   him   at   the   earliest   and   also   informing   that   in   the 
+
+absence   of   permit   vehicle   is   lying   idle.   The   arrears   of 
+
+installments were mounting. For failure to make the payment of 
+
+installments the vehicle was re­possessed by the Financier on 
+     th
+24  of May 1994.
+</p>
+<p id="p_10">
+</p><p id="p_11">                                                                                  th 
+</p><p id="p_12">6.        At the instance of the Accused himself a letter dated 20
+
+June 1994 was written by one Sanjay employee of M/ Ashok 
+
+Leyland   Finance   Ltd   in   the   name   of   the   Accused   and   also 
+
+signing on his behalf as PRAKASH for purchasing the vehicle 
+
+for Rs. 3,40,000/­ with finance of Rs. Two lakhs for two years. 
+
+Ultimately   the   vehicle   was   purchased   by   the   Accused   in   the 
+
+name of his mother Laxmi Devi vide registration certificate dated 
+                                                                             th
+29.06.1994 after it was conveyed to her by letter dated 24   of 
+
+
+C.C. No. 13/11
+ June   1993   that   her   quotation   for   Rs.   3,40,000/­   had   been 
+
+accepted.   It   may   further   be   noted   that   normally   Finance 
+
+Company would not re­finance the vehicle but in this case it was 
+
+done so after the daughter of the Accused Ms. Manju had made 
+
+a fixed deposit of Rs.1,80,000/­  with the Finance Company. 
+
+
+
+</p><p id="p_13">7.    Though the vehicle had been purchased but it could have 
+
+been transferred in the name of Smt Laxmi Devi the mother of 
+
+the Accused till permit issued in respect of the vehicle Bus DL 1 
+
+P 5290 had been surrendered and the surrender slip showing 
+
+such surrender was attached with the Application. The Accused, 
+
+however,   abusing   his   position   not   only   managed   to   have   the 
+
+vehicle transferred in the name of his mother Laxmi Devi vide 
+
+RC   dated   29/06/1994   but   also   have   the   vehicle   further 
+
+transferred from Laxmi Devi to one R S Bhardwaj vide RC dated 
+
+05.07.94. 
+</p>
+<p id="p_14">  
+
+</p><p id="p_15">8.    In order, however, to regularize the transfers the Accused 
+
+submitted to the dealing assistant  one V K Gupta three forged 
+
+
+C.C. No. 13/11
+ documents.  An   application   purported to  have  been  signed   by 
+
+Ishwar Lal for the surrender of the permit in duplicate and sworn 
+
+affidavit of Ishwar Lal. All the documents were of 05/07/1994. 
+
+The said documents were handed over by Shri V.K. Gupta to 
+
+Shri Ram Pal Singh, an Ex­employee of DTC, who often used to 
+
+visit   STA   office   to   help   the   officials   in   writing   work.   The 
+
+surrender application was found to be not fulfilled in properly. 
+
+On the instructions of Shri V.K. Gupta, Shri Ram Pal had filled 
+
+the missing details. Shri Ram Pal then put up the note dated 
+
+05.07.1994   alongwith   the   said   forged   documents.   Shri   V.K. 
+
+Gupta first signed the said note sheet but later on after he found 
+
+that the surrender application of the applicant did not match the 
+
+original   application   submitted   by   Shri   Ishwar   Lal   for   grant   of 
+
+permit, he crossed the said note but kept the forged documents 
+
+on record. 
+</p>
+<p id="p_16">
+
+</p><p id="p_17">9.     After   the   permission   under   <a href="/doc/126927/" id="a_4">Section   19(1)</a>   (c   )     for   his 
+
+prosecution, the challan was filed in the Court. 
+
+
+
+
+C.C. No. 13/11
+ CHARGE 
+
+
+
+</p><p id="p_18">10.   On the basis of the allegations a charge was framed under 
+
+four   heads.   Under   the   first   head   he   was   charged   for   having 
+
+committed offences punishable under <a href="/doc/1439698/" id="a_5">Section 120</a> B read with 
+
+<a href="/doc/1439698/" id="a_6">section 420</a>, <a href="/doc/1439698/" id="a_7">471</a>, <a href="/doc/1439698/" id="a_8">468</a> and <a href="/doc/1439698/" id="a_9">13(2)</a> read with <a href="/doc/1101716/" id="a_10">section 13(1)(d)</a> of the 
+
+P.C. Act.  Under the second section he was charged for having 
+
+committed   offence   under   <a href="/doc/1436241/" id="a_11">section   420</a>   IPC.     Under   the     third 
+
+head he was charged under <a href="/doc/1331755/" id="a_12">Section 471</a> read with <a href="/doc/556166/" id="a_13">Section 468</a> 
+
+IPC and lastly under the fourth head he was charged for having 
+
+committed offence under <a href="/doc/1259316/" id="a_14">Section 13(2)</a> read with <a href="/doc/1281473/" id="a_15">Section 13(1)</a>
+
+</p><p id="p_19">(d) of the <a href="/doc/1331755/" id="a_16">P.C. Act</a>. 
+</p>
+<p id="p_20">
+
+PROSECUTION EVIDENCE
+
+
+
+</p><p id="p_21">11.   The prosecution has examined 21 witnesses. 
+
+
+
+</p><p id="p_22">12.   Witness PW1 Shri VA Vasu is the Technical Officer from 
+
+State Transport Authority. He had deposed two things. First, that 
+
+
+C.C. No. 13/11
+ for   the   transfer   of   ownership   of   a   commercial   vehicle,   it   is 
+
+mandatory   to   submit   the   slip   with   regard   to   the   surrender   of 
+
+permit, which is issued by the STA. Second, when he took over 
+
+as the MLO of the Authority, the file of the vehicle DL1P­5290 
+
+was not traceable.
+</p>
+<p id="p_23">
+
+</p><p id="p_24">13.    Witness   PW2   Shri   Virender   Singh   Secretary   OBC 
+
+Commission Govt of India had proved the order of Sanction Ex 
+
+PW   2/A   stating,   inter­alia,   that   he   was   working   as   Secretary 
+
+Commissioner,   Govt   of   NCT.   in   December     1999   and   was 
+
+competent to remove the accused from service.
+
+
+
+</p><p id="p_25">14.    Witness   PW­3   Inspector   Sudhir   Jain   had   deposed   that 
+
+from  April,   1993  to   July,   1994   he   was  posted   as  MLO  Head 
+
+(Quarter)   as   Driving   Test   Inspector.     He   had   signed   the 
+
+registration certificate of bus No. DL­1P 5290  Ex. PW­3/A in the 
+
+name of Smt. Laxmi Devi.   He had further stated that the file 
+
+relating   to   the   transfer   of   vehicle   was   brought   to   him   by   the 
+
+accused who was working in his office as UDC. He had signed 
+
+
+C.C. No. 13/11
+ the said registration certificate on the assurance of the accused 
+
+that he will provide surrender slip and the bus permit   on the 
+
+same day. 
+</p>
+<p id="p_26">
+
+</p><p id="p_27">15.    He had further identified the signatures of Shri J.S. Dabas, 
+
+MLO on the R.C. of the same vehicle Ex. PW­3/B showing  the 
+
+bus being transferred in the name of Shri R.S. Bhardwaj. 
+
+
+
+</p><p id="p_28">16.    Witness   PW­4   Shi   R.S.   Chiller   deposed   that   he   was 
+
+working as Head Clerk at the office of MLO (HQ), Under Hill 
+
+Road, Rajpur Road, Delhi.   He alongwith Record Keepers Shri 
+
+Virender and Shri Chandra had tried to trace the file of bus No. 
+
+DL­1P   5290   containing   the   registration   certificate   but   despite 
+
+their best efforts the same could not be find.     He had further 
+
+deposed   that   this   file   was   not   kept   in   safe   custody.   He   had 
+
+clarified that it is only those files in which there is an order to 
+
+preserve the file by the Court or there is any order received from 
+
+any agency like police or CBI etc. to preserve the file, are kept in 
+
+safe custody and remaining files are kept in open racks.  
+
+
+C.C. No. 13/11
+</p><p id="p_29"> 17.   PW­5 Shri Ishwar Lal is the victim in this case. He had 
+
+deposed that he was discharged from Indian Army in the year 
+
+1979 as Hawaldar Clerk.  He had submitted the application Ex. 
+
+PW­5/A dated 25.01.1992 for a permit to be granted of a red line 
+
+bus.  In a draw of lots for the allotment of granting of permit he 
+
+was declared successful.  A letter of intent dated 24.12.1992 Ex. 
+
+PW­5/B was issued to him. Pursuant to that he had purchased a 
+
+new bus from M/s Ashok Leyland bearing No. DL­1P 5290 for 
+
+which   he   had   taken   a   loan   of   Rs.   3   lacs   from   M/s   Ashok 
+
+Leyland.  He had submitted all the required papers for granting 
+
+the permit and his bus was also passed by the office of STA, 
+
+Burari. He was informed that he has been alloted route No. 706 
+
+from Vivek Vihar to Pragati Maidan. Though he submitted all the 
+
+documents   for   the   issuance   of   the     permit   along   with   the 
+
+requisite   fee   but   no   permit   was   issued   to   him.     He   wrote 
+
+reminders   dated   04.03.1994,   07.03.1994   and   28.10.1994   Ex. 
+
+PW­5/C to Ex. PW­5/F, also submitted affidavit Ex. PW­5/G and 
+
+a receipt of payment of the permit security fee Ex. PW­5/H (On 
+
+
+C.C. No. 13/11
+ the same receipt later on he was refunded the security deposit / 
+
+earnest money). 
+</p>
+<p id="p_30">
+
+</p><p id="p_31">18.   His   testimony   further   reveals   that   because   of   non­
+
+issuance   of   permit,   he   could   not   ply   the   bus   resulting   in 
+
+accumulation of installments.  The forged applications submitted 
+
+in duplicate Ex. PW­5/I­1 and Ex. PW­5/I­2 and also the affidavit 
+
+Ex.   PW­5/J   were   shown   to   the   witness   for   identifying   his 
+
+signatures on the said documents.  He had categorically denied 
+
+having submitted the said applications and the affidavit.  He had 
+
+also denied that these said documents had   his signatures. In 
+
+fact he had stated that he had never submitted any application 
+
+for surrender of permit and he actually on the other hand, had 
+
+been trying his level best to get the permit. 
+
+
+
+</p><p id="p_32">19.   There   was   one   permit   on   record   Ex.   PW­5/K   dated 
+
+15.12.1993, which is supposed to be a forged permit showing 
+
+the route different from for which the actual permit was granted, 
+
+was shown to the witness during the testimony.   The witness 
+
+
+C.C. No. 13/11
+ had denied having submitted the same. He had further added 
+
+that the route stated therein was not assigned to him. 
+
+
+
+</p><p id="p_33">20.    He has also shown copy of another permit Ex. PW­5/L for 
+
+identification­   which   was  supposed  to  be  the   actual  permit  to 
+
+have   been   issued   to   the   witness.       He   had   denied   that   this 
+
+permit was ever issued to  him. 
+</p>
+<p id="p_34">
+
+</p><p id="p_35">21.    At the end of his examination in chief he had stated that 
+
+the bus was repossessed from him in May, 1994. 
+
+</p><p id="p_36">22.    Witness   PW6   Vijay   Kumar   Gupta   UDC   from   STA,   this 
+
+witness in his  testimony referred to the note sheet written  by 
+
+Shri Ram Pal Singh (Ex­employee of DTC who had been visiting 
+
+the office of STA for assisting the staff in writing work), on the 
+
+basis of the forged surrender applications Ex. PW­5/I­1 and I­2 
+
+and affidavit Ex. PW­5/A. He had identified his signatures on the 
+
+note Ex. PW­6/A which he had later on cancelled(crossed) after 
+
+discovering that the signatures on these documents did not tally 
+
+with the original application for permit. 
+
+
+C.C. No. 13/11
+</p><p id="p_37"> 23.    This   witness   had   categorically   deposed   that   Prakash 
+
+Chand accused had brought this document to him. After finding 
+
+out that the signatures did not tally with the record he had asked 
+
+the accused to send the applicant himself.  Neither the accused 
+
+Parkash Chand nor Ishwar Lal turned up thereafter. 
+
+
+
+</p><p id="p_38">24.    Witness   PW­7   Shri   Baljeet   Singh   Rathi,   UDC,   Pay   &amp; 
+
+Accounts Office had deposed that from 1990 to 1993 he was 
+
+working as UDC in the MLO Branch. He knew Prakash Chand 
+
+accused  since  1980.  He  also  knew Shri  R.S.  Bhardwaj since 
+
+1993 as he used to come to meet MLO Shri B.S. Chaudhary. In 
+
+1993 Shri R.S. Bhardwaj had visited STA, MLO Branch, Raj Pur 
+
+Road.  He was in some financial difficulty and not in a position to 
+
+purchase the bus though a permit had been issued to him.   In 
+
+such   circumstances   he   was   also   not   in   a   position   to   get   the 
+
+refund of Rs. 25,000/­ (which he may have given the security). 
+
+He   had   introduced   him   to   accused   Prakash   Chand.     The 
+
+accused had a bus purchased in the name of his mother Smt. 
+
+Laxmi Devi. 
+</p>
+<p id="p_39">
+C.C. No. 13/11
+</p><p id="p_40"> 25.   Witness PW­8 Ram Pal Singh, retired employee of DTC, 
+
+stated in his testimony that he used to go to the office of STA at 
+
+Rajpur Road as he had came to know from reliable sources that 
+
+STA required consultants in the Department for preparing time 
+
+tables, route surveyors as they were going to start Red Line bus 
+
+service in Delhi. Thus he came to know Shri Bhram Kaushik, 
+
+dealing Assistant in the office.   Shri Bhram Kaushik had some 
+
+injuries in his right hand and, therefore, he was unable to write 
+
+properly. He used to take his help in writing work in the office. 
+
+After Bhram Kaushik was transferred, Shri V.K. Gupta joined in 
+
+his place. He had identified the note sheets Ex. PW­6/DA, Ex. 
+
+PW­7/A   and   Ex.   PW­7/B   and   portions   B   to   B   written   in   Ex. 
+
+PW­6/A to be in his handwriting.  He had identified the signature 
+
+of   Shri   Bhram   Kaushik.   He   had   admitted   in   the   portions 
+
+encircled as Q4 and Q1 in forged applications Ex. PW­5/I­1 and 
+
+I­2 in  his handwriting.    He  had, however,  denied that he had 
+
+forged the signatures of Shri Ishwar Lal on these documents. 
+
+On a    specific questions put to him he had replied  "I do not  
+
+
+C.C. No. 13/11
+ know   I   had   filled   up   these   form   Ex.   PW­5/I­1   and   I­2   at   the  
+
+instance of the accused."
+</p>
+<p id="p_41">
+
+</p><p id="p_42">26.    Witness PW­9 Shri Ravi Dutt Sharma who was posted as 
+
+Head Clerk during January, 1993 to August, 1994 in the office of 
+
+MLO,   Head   Quarter,   State   Transport   Department,   Delhi   had 
+
+given   the   procedure   as   to   how   the   ownership   of   commercial 
+
+vehicles   was   transferred   during   1993   -   1994.     He   had   also 
+
+stated that the accused had joined the branch sometime in 1993 
+
+and   had   remained   in   the   same   branch   till   the   witness   was 
+
+transferred in August, 1994. He had further deposed that he had 
+
+assigned the work related to transfer of ownership and issuance 
+
+of duplicate registration certificates etc. of DL­1P series of the 
+
+buses besides series of other vehicles to the Accused.
+
+
+
+</p><p id="p_43">27.    Witness PW­10 Shri N.K. Aggarwal, Sr. Scientific Officer, 
+
+CFSL had identified the forwarding letters dated 18.08.1988 Ex. 
+
+PW­10/A by which Shri Anil Kumar, SP, ACB, CBI, Delhi had 
+
+sent   the   documents   as   Annexure   1   and   Questionnaire   as 
+
+
+C.C. No. 13/11
+ Annexure­2 with Ex. PW­10/A.   He had also similarly identified 
+
+another  letter   dated   18.10.1988  Ex  PW10/B  sent  by  SP,   CBI 
+
+alongwith Annexures­I and II. He had further given the details of 
+
+examination of different documents by him in his testimony and 
+
+ultimately   proved   his   detailed   report   dated   03.12.1999   Ex. 
+
+PW­10/E.   He   had   also   identified   the   paragraphs  mark  I   to   V 
+
+giving the reasons for his opinion.  Lastly, he had identified the 
+
+forwarding letter dated 07.12.1999 Ex. PW­10/E­1 by which Shri 
+
+S.R. Singh, the then Director CFSL had forwarded his report to 
+
+CBI. 
+</p>
+<p id="p_44">
+
+</p><p id="p_45">28.     Witness PW­11 Shri Karamvir Singh who was working as 
+
+a driver from 1993 to 1995 on bus No. DL­1P 4454 had deposed 
+
+that   the   said   bus   DL­1P   4454   though   was   registered   in   the 
+
+name of Shri R.S. Bhardwaj but it was owned by Shri Prakash 
+
+Chand.     The   bus   was   purchased   in   the   name   of   Shri   R.S. 
+
+Bhardwaj as Shri R.S. Bhardwaj had a permit in his name. (One 
+
+would note from the file on record that Shri R.S. Bhardwaj was 
+
+also an Ex­service man).  
+</p>
+<p id="p_46">
+C.C. No. 13/11
+</p><p id="p_47"> 29.   According   to  the   testimony  of   this  witness  Shri  Prakash 
+
+Chand had sold his bus DL­1P 4454 and purchased another bus 
+
+registration   No.   DL­1P   5290.   This   bus   was   purchased   by 
+
+Prakash   Chand   in   the   name   of   his   mother   Smt.   Laxmi   Devi 
+
+through Shri Sanjay Kumar of M/s Ashok Leyland Finance Ltd. 
+
+Since Smt. Laxmi Devi did not have any permit for operating the 
+
+said bus it was transferred in the name of Shri R.S. Bhardwaj. 
+
+He had identified his signatures on letters Ex. PW­11/A and Ex. 
+
+PW­11/B dated 04.07.1994 and 24.06.1994, one addressed to 
+
+Ravinder Arora for the release of the vehicle to this witness and 
+
+other   is   the   letter   addressed   to   Shri   Prakash   Chand   himself. 
+
+According   to   this   witness   these   two   documents  were   handed 
+
+over to him by Shri Prakash Chand for the purpose of taking 
+
+delivery   from   the   Rohtak   Yard   of   M/s   Ashok   Leyland.   (The 
+
+vehicle   was   apparently   parked   there   after   it   had   been 
+
+repossessed from Shri Ishwar Lal). One may also note that the 
+
+testimony of this witness was recorded in the absence of the 
+
+accused in terms of <a href="/doc/413319/" id="a_17">Section 22(c)</a> of the P.C. Act. This witness, 
+
+
+C.C. No. 13/11
+ however, did not appear again in the Court as he was reported 
+
+to have expired. 
+</p>
+<p id="p_48">
+
+</p><p id="p_49">30.   Witness PW­12 Shri R.S. Sharma who had been working 
+
+as Motor Vehicle Inspector at Burari in the year 1993 had given 
+
+the procedure with regard to the transfer of vehicle. He had also 
+
+identified   the   inspection   report   Ex.   PW­12/1   prepared   by   him 
+
+with regard to the vehicle in question. 
+</p>
+<p id="p_50">
+
+</p><p id="p_51">31.   Witness   PW­13   Shri   Anil   Kumar   Chhikkara   too   had 
+
+deposed that he was posted at Burari Vehicle Inspection Unit in 
+
+December,   1994   and   his   job   involved   technical   inspection   of 
+
+vehicle including certification of the fitness thereof. He had seen 
+
+the   file   Ex.   PW­9/A   and   had   pointed   out   that   document   Ex. 
+
+PW­6/DA regarding the issuance of permit was submitted to him 
+
+by the dealing assistant on which he had put his signatures at 
+
+point A. He had further pointed out that Ex. PW­6/DA sent to 
+
+computer section for printing of the permit.  As per his testimony 
+
+the file Ex. PW­9/A with regard to the issuance of permit was 
+
+
+C.C. No. 13/11
+ initiated in  July, 1993 by setting out a proposal in the name of 
+
+Shri Ishwar Lal for grant of temporary permit for three months. 
+
+This   proposal   was   in   the   name   of   Shri   Ishwar   Lal.   It   was 
+
+prepared by Shri Bhram Kaushik, the  dealing assistant. He had 
+
+identified the said proposal as Ex. PW­13/1. He had given the 
+
+sequence as to how this proposal was put up before the senior 
+
+officers and finally got approved by the competent authority.   It 
+
+was on the basis of this approval, Ex. PW­6/DA was prepared 
+
+on   which,   as   stated   above,   he   had   put   his   signatures.  This 
+
+witness had further identified the computer print out Ex. PW­5/L 
+
+of the permit No. SC/3000/Ex/0749/93 issued on 21.12.1993 by 
+
+Secretary,   Transport   Authority.       He   had   also   categorically 
+
+stated   that   the   permit   dated   15.12.1993   Ex.   PW­5/K   did   not 
+
+have the signatures of Shri Malik who was the Asstt. Secretary 
+
+of STA at that time and he was in a position to say so as he 
+
+could   identify   his   signatures   because   he   had   seen   his 
+
+signatures before in the course of official dealing. 
+
+
+
+
+C.C. No. 13/11
+</p><p id="p_52"> 32.   Witness PW­14 Shri Musaddi Lal Arora who had worked 
+
+as Head Clerk in State Transport Authority, Rajpur Road, Delhi 
+
+w.e.f.   November,   1993   to   April,   1994   had   identified   his 
+
+signatures on the endorsement appearing on the reverse of Ex. 
+
+PW­13/1. He had further identified his signatures on the note 
+
+Ex. PW­7/B prepared after the forged application had been put 
+
+up for surrender of permit.  
+</p>
+<p id="p_53">
+
+</p><p id="p_54">33.   Witness PW­15 Sh. Chiranji Lal Meena again is a witness 
+
+who had worked as LDC in State Transport Authority at Rajpur 
+
+Road, Delhi from 1991 to 1996.   He had testified that accused 
+
+Prakash Chand was working as UDC in the said branch.   He 
+
+had further deposed that both registration certificates Ex.PW3/A 
+
+relating to the transfer of the vehicle DL 1P 5290 in the name of 
+
+Smt.   Laxmi   Devi   and   Ex.PW3/B   the   registration   certificate 
+
+showing the transfer of the vehicle from Smt. Laxmi Devi to Sh. 
+
+R.S   Bhardwaj   were   put   up   by   him   before   Motor   Licensing 
+
+Authority for obtaining their signatures and he had done so at 
+
+the instance of the accused who had asked him to do so even 
+
+
+C.C. No. 13/11
+ without obtaining the surrender slip.  According to him accused 
+
+had told him that the relevant permit no. SC/3000/EX/0749/93 
+
+(in   the   name  of   Sh.   Ishwar   Lal)   in   relation   to   Ex.PW3/A   and 
+
+Ex.PW3/B was in the name of his mother and he would bring 
+
+the permit and show it to him.
+</p>
+<p id="p_55">
+
+</p><p id="p_56">34.    Witness   PW­16   Sh.   D.   Sengupta   is   an   employee   of 
+
+NDMC.  He was merely a witness to the specimen hand writings 
+
+being taken during the course of the investigation of Sh. Rampal 
+
+Singh, accused Sh. Prakash Chand, Sh. Radhey Shyam, Sh. 
+
+Braham Kaushik and Sh. Baljeet Singh Rathi. Witnesses PW­17 
+
+Sh. Jai Ram and PW­18 Sh. Mohan Lal are also the employees 
+
+of   NDMC   in   whose   presence   the   specimen   hand 
+
+writings/signatures of Sh. Ishwar Lal had been taken.
+
+
+
+</p><p id="p_57">35.    Witness   PW­19  Inspector  A.K  Singh   is  the  Investigating 
+
+Officer   who   had   taken   over   the   investigation   from   the   earlier 
+
+Investigating   Officer   Sh.   S.R   Singh.     In   the   course   of   his 
+
+testimony   he   had   identified   various   documents   which   he   had 
+
+
+C.C. No. 13/11
+ collected during the course of the investigation  and the seizure 
+
+memos vide which the documents he had seized.  He had also 
+
+further   deposed   that   as   to   how   during   the   course   of   the 
+
+investigation he had obtained the specimen hand writing of the 
+
+officials of State Transport Authority including that of Sh. Ishwar 
+
+Lal.
+</p>
+<p id="p_58">
+
+</p><p id="p_59">36.    Witness   PW­20   Sh.   S.R   Singh   Dy.   Superintendent   of 
+
+Police had proved the FIR Ex.PW20/1 which according to him 
+
+was registered under the signatures of <a href="/doc/65717243/" id="a_18">Sh. V.S.K Kamudi</a>, the 
+
+then SP on 11.07.96.
+</p>
+<p id="p_60">
+
+</p><p id="p_61">37.    Witness   PW­21   Sh.   M.   Radha   Mohan   the   Regional 
+
+Manager   of   Ashok   Leyland   Finance   Ltd.   had   deposed   with 
+
+regard to the vehicle DL 1P 5290, being initially given to Sh. 
+
+Ishwar Lal.   He had identified the various documents prepared 
+
+in   this   respect,   such   as,   proposal   given   by   the   borrower   for 
+
+availing the loan in respect of chassis of the vehicle No. DLIP 
+
+5290,   Ex.PW21/1,   agreement   entered   between   the   company 
+
+
+C.C. No. 13/11
+ and the borrower Sh. Ishwar Lal for giving the loan of Rs.3 lakhs 
+
+to Sh. Ishwar Lal Ex.PW21/2 and invoice Ex.PW21/3 issued by 
+
+M/s Ashok Leyland Finance Ltd at the time of delivery of the 
+
+chassis.
+</p>
+<p id="p_62">
+
+</p><p id="p_63">38.   He had further deposed that in May 1994 Sh. Ishwar Lal 
+
+was   in   the   arrears   and   there   was   an   amount   of   Rs.59,650/­ 
+
+outstanding   against   him.     He   had   proved   the   statement   of 
+
+account Ex.PW21/4.   He had also identified the copies of the 
+
+letters Ex.PW21/5 and Ex.PW21/6 written to Sh. Ishwar Lal to 
+
+inform him that his vehicle had been repossessed as he had not 
+
+cleared the outstanding arrears.
+</p>
+<p id="p_64">
+
+</p><p id="p_65">39.   His testimony further reveals that as per the policy of the 
+
+bank to recover the dues the vehicle was disposed off by selling 
+
+it   to   Smt.   Laxmi   Devi   through   Prakash   Chand.     After   Sh. 
+
+Prakash   Chand   had   approached   Sh.   Sanjay   an   executive   of 
+
+M/s Ashok Leyland Finance Ltd. for buying this vehicle in the 
+
+name of his mother.   He also referred to the fact that normally 
+
+
+C.C. No. 13/11
+ the repossessed vehicles are not refinanced but in this case the 
+
+vehicle was refinanced as per the request made after one Manju 
+
+had   submitted   an   application   for   depositing   Rs.1,80,000/­   as 
+
+collateral   security   against   the   refinanced   agreement.     The 
+
+witness had identified this application Mark PW21/1 submitted 
+
+by Manju through his father Prakash Chand for a period of one 
+
+year.   He had also identified photocopy of the bankers cheque 
+
+of Rs.1,80,000/­ drawn on State Bank of Mysore dated 24.6.94 
+
+Mark   PW21/2   submitted   with   the   application.     The   vehicle 
+
+thereafter   according   to   the   witness   was   transferred   to   Smt. 
+
+Laxmi Devi.
+</p>
+<p id="p_66">
+
+</p><p id="p_67">40.    Subsequently,   a   request   was   received   from   Smt.   Laxmi 
+
+Devi   in   the   form   of   application   Mark   PW21/3   to   transfer   the 
+
+vehicle to one Sh. R.S Bhardwaj.  The vehicle was accordingly 
+
+transferred to Sh. R.S Bhardwaj.
+</p>
+<p id="p_68">
+
+</p><p id="p_69">41.    The witness had pointed out that it was initially Parkash 
+
+Chand   who   had   submitted   a   quotation   of   Rs.3,40,000/­   vide 
+
+
+C.C. No. 13/11
+ application   Mark   PW21/4   and   PW21/5   but   subsequently   had 
+
+submitted a fresh quotation for the same amount in the name of 
+
+his   mother  Laxmi  Devi.   After   accepting   the   quotation   of   Smt. 
+
+Laxmi Devi  a letter dated 24.6.94 Mark PW21/7 signed by Sh. 
+
+Sudhir Arora, the then branch Manager, had been sent to Smt. 
+
+Laxmi Devi.  This witness  also identified his signatures on the 
+
+seizure   memo   Ex.PW19/1   by   which   various   documents   had 
+
+been seized by CBI.
+</p>
+<p id="p_70">
+
+STATEMENT OF ACCUSED UNDER SECTION 313 <a href="/doc/445276/" id="a_19">Cr.P.C</a> :
+
+
+</p><p id="p_71">42.   All the incriminating evidence, which has come on record 
+
+was put to the accused and  his statement was recorded under 
+
+<a href="/doc/767287/" id="a_20">Section 313</a> Cr.P.C.
+</p>
+<p id="p_72">
+DEFENCE EVIDENCE
+
+
+</p><p id="p_73">43.   In   his   defence   accused   had   examined   one   Sh.   Satish 
+
+Kumar   S/o   Mathan   Singh   posted   as   clerk   in   the   Transport 
+
+Authority.     This   witness   was   asked   to   produce   the   record 
+
+
+C.C. No. 13/11
+ relating to the vehicle DL1P 5290.  He had deposed that he had 
+
+tried to trace the file of the vehicle no.DL1P 5290 but despite his 
+
+best   efforts   he   had   not   been   able   to   trace   the   same.     He, 
+
+however, had brought one computerized record available in the 
+
+office for the vehicle.   He had proved the same as Ex.DW1/A. 
+
+As per this document the vehicle was in the name of Sh. R.S 
+
+Bhardwaj   S/o   Sh.   S.R   Bhardwaj.     The   names   of   previous 
+
+owners  were  shown  to  be  of  Sh.   Ishwar   Lal  and  Smt.   Laxmi 
+
+Devi.
+</p>
+<p id="p_74">
+SUBMISSIONS
+
+
+</p><p id="p_75">44.     I have heard the submissions made in detail by Ld. PP for 
+
+CBI and also Ld. Defence Counsel.
+</p>
+<p id="p_76">
+No Offence under <a href="/doc/1128948/" id="a_21">Section 120</a> B IPC
+
+
+</p><p id="p_77">45.     It does not require any precedent to say <a href="/doc/1331755/" id="a_22">Section 120B</a> is a 
+
+substantive offence like any other offence in<a href="/doc/1569253/" id="a_23"> the Penal Code</a>. It 
+
+is an agreement between two or more persons to do or cause to 
+
+
+
+C.C. No. 13/11
+ do (1)  an  illegal  act  (2)  an  act  which  is    not illegal by  illegal 
+
+means. It can be proved by a direct or circumstantial evidence. 
+
+Since in the cases of conspiracy the direct evidence is hard to 
+
+come   by   it   would     generally   be   proved   by   circumstantial 
+
+evidence.   Where     evidence   is   only   circumstantial   it   must 
+
+necessarily stand the well known test of circumstantial evidence. 
+
+That is to say, circumstance in totality shall be such as would 
+
+not   only   be   consistent   with   the   guilt   of   the   accused   but   also 
+
+inconsistent with any reasonable hypothesis of his innocence. 
+
+
+
+</p><p id="p_78">46.    There   is   no   other   person   named   in   this   case   as   an 
+
+accused   except   the   accused   himself.   The   allegation   is   ,   he 
+
+conspired   to   commit   the   offences   in   this   case   with   unknown 
+
+persons. The entire set of circumstance relating to this charge 
+
+have been well set out in the charge sheet itself. There would be 
+
+no better way of doing it then to reproduce it from the charge it 
+
+self. It reads as under:
+</p>
+<p id="p_79">
+</p><p id="p_80">        "In 1994 at Delhi you, while working as UDC in the 
+        office of Motor Licencing Officer, (H.Q.) Branch of 
+
+C.C. No. 13/11
+        State Transport Authority, Rajpur road, Delhi were 
+       party to a criminal conspiracy with some unknown 
+       persons,   with   the   object   of   committing   certain 
+       offence to wit, cheating State Transport Authority 
+       for getting bus No. DL­1P 5290, registered in the 
+       name   of   your   mother   Smt.   Laxmi   Devi,   upon 
+       transfer from the name of original owner Ishwar Lal 
+       and then in the name of R.S. Bhardwaj on transfer 
+       from   the   name   of   said   Smt.   Laxmi   Devi,   on   the 
+       basis of forged surrender application of permit no. 
+       SC/3000/Ex/0749/93 in the name of Ishwar Lal in 
+       duplicate and a forged affidavit purporting to have 
+       been sworn on 05.07.94 by the said Ishwar Lal to 
+       the   effect   that   he   wanted   to   surrender   the   said 
+       permit,   knowing   fully   well   that   the   transfer   of 
+       ownership   of   a   commercial   vehicle   could   not   be 
+       registered   by   the   said   office   of   MLC   unless   the 
+       original owner had surrendered his original permit 
+       to the STA branch in the prescribed proforma and 
+       had   obtained   a   surrender   slip   and   also   knowing 
+       fully   well   that   said   R.S.   Bhardwaj   was   already 
+       owner   of   red   line   bus   permit   No. 
+       SC/3000/Ex/0714/93,   using   the   said   forged 
+       documents with knowledge that they were forged; 
+       and committing mis conduct by a public servant by 
+       abusing your said office by corrupt or illegal means 
+       to secure unlawful pecuniary advantage to yourself 
+       and to your co­conspirators and thereby committed 
+
+
+C.C. No. 13/11
+         an   offence   punishable   u/s.   120   B  r/w.   Sec.   420, 
+        471, 468 <a href="/doc/1569253/" id="a_24">IPC</a> and sec. 13(2) r/w sec. 13(1)(d) of 
+        <a href="/doc/1331755/" id="a_25">PC Act</a>, 1988 within my cognizance."
+</p>
+<p id="p_81">
+</p><p id="p_82">47.    There is no direct evidence of conspiracy in this case. I 
+
+have closely examined the entire evidence and I find absolutely 
+
+no   evidence   or   shreds   of   evidence   to   locate   the     reference 
+
+points, which if joined together, would complete a chain which 
+
+would point only in one direction that the accused had entered 
+
+to an agreement with someone to do an illegal act of having 
+
+transferred   the   Vehicle   DL1P   5290     in   the   name   of   first   his 
+
+mother   Smt.   Laxmi   devi   and   from   Laxmi   Devi   to   Sh.   R   S 
+
+Bhardwaj   without   having   submitted   the   surrender   slip   for   the 
+
+permit   essential   for   the   transfer   of   the   ownership   of   the   said 
+
+vehicle and subsequently tried to fill up the lacuna by submitting 
+
+forged   application   and   affidavit     to   achieve     the   objective   of 
+
+submission of a surrender slip of the permit of the said vehicle to 
+
+justify   the   transfer   of   ownership   of   the   transfer   of   the   said 
+
+vehicle.
+</p>
+<p id="p_83">
+
+
+C.C. No. 13/11
+</p><p id="p_84"> 48.   All those who could have been potential conspirators with 
+
+him have in fact stood as witnesses against him.
+
+</p><p id="p_85">49.   Ex   PW3/A   is   the   Copy   of   the   registration   certificate 
+
+showing its transfer date 29.06.1994 by which the vehicle was 
+
+transferred to Smt. Laxmi Devi mother of the Accused and Ex 
+
+PW3/B is the Registration Certificate showing its transfer dated 
+
+05.07.1994  by  which   the  vehicle   was transferred  to   Shri  R  S 
+
+Bhardwaj from Smt. Laxmi devi.
+</p>
+<p id="p_86">
+
+</p><p id="p_87">50.   Witness   PW3   Shri   Sudhir   Jain   is   the   Motor   Licensing 
+
+Officer   ultimately   under   whose   signatures   the   vehicle   was 
+
+transferred   to   Smt.   Laxmi   Devi.   He   had   deposed  "   Prakash  
+
+Chand accused was working in my office at (that) time as UDC.  
+
+He had brought this file to me. He told me that Smt. Laxmi Devi  
+
+was his mother. He had told me that he will give the surrender  
+
+slip of bus permit after sometime on the same day." In the later 
+
+part of his examination in chief he deposed " Shri Praksh Chand  
+
+had   not   handed   over   any   surrender   slip   to   me,   inspite   of  
+
+repeated demands."
+</p>
+<p id="p_88">
+C.C. No. 13/11
+</p><p id="p_89"> 51.    Similarly Sh. C L Meena witness PW15 who was working 
+
+as   the   LDC   in   the   same   office   as   the   Accused.   He   was 
+
+responsible for processing the files on both the occasions for the 
+
+transfer of ownership to Smt. Laxmi Devi and from Smt. Laxmi 
+
+Devi   to   Sh.   R   S   Bhardwaj.   He   deposed  "Both   the   aforesaid  
+
+Registration   Certificates   Ex.   PW3/A   and   Ex   PW3/B   (   also  
+
+proved   as   Ex   PW15/1)   were   put   up   by   me   before   Motor  
+
+Licensing Officer  for obtaining signatures thereon but this was  
+
+done by me at the instance of the accused who had asked me  
+
+to   do   so   even   without   obtaining   the   surrender   slip.   In   fact  
+
+accused   had   told   me   that   the   relevant   permit   no.  
+
+SC/3000/EX/0749/93 in the name of Ishwar Lal in relation to Ex  
+
+PW3/A and ExPW3/B (also proved as Ex PW 15/1) was in the  
+
+name of his mother and he would bring the permit and show it  
+
+to me."
+</p>
+<p id="p_90">
+
+</p><p id="p_91">52.    It   is,   therefore,   certain   that   there   was   no   intermediary 
+
+involved in the transfer of the vehicle without the surrender slip. 
+
+It was accused alone who was responsible for it. 
+
+
+C.C. No. 13/11
+</p><p id="p_92"> 53.   The forged Applications Ex PW5/I­1 and Ex PW5/I­2 and 
+
+the affidavit PW5/J with regard to the surrender of permit had 
+
+also been put up by the Accused himself before the concerned 
+
+dealing clerk PW6 Shri. V K Gupta. He had deposed  "I have  
+
+seen the noting at page 6/N of D 19 ( number of the document).  
+
+This  noting   is   in   the   handwriting   of   Braham  (  read  'Ram')Pal  
+
+Singh. This noting was regarding surrender of permit. This note  
+
+sheet   was   written   by   Ram   Pal   on   the   basis   of   surrender  
+
+applications  Ex PW5/I­1 and  Ex PW5/I­2 and the affidavit Ex  
+
+PW 5/J. I put my signatures at portion A on the note sheet Ex  
+
+PW6/A and which was later cancelled by me as the signatures  
+
+on   these   documents   were   not   tallied   (sic)   with   original  
+
+application for permit. These application were brought to me by  
+
+Prakash Chand. I directed the accused to send the applicant as  
+
+the signatures were not tallied (sic) with the record. Ishwar Lal  
+
+and   Prakash   Chand   had   not   turned   up   again   regarding   this  
+
+case."
+</p>
+<p id="p_93">
+
+
+C.C. No. 13/11
+</p><p id="p_94"> 54.       Thus there is no evidence that the accused had committed 
+
+the offences alleged in this case with the involvement of anyone 
+
+else. Therefore there is a reason to conclude that he had no 
+
+agreement with anyone to commit any of the offences. There is 
+
+nothing to prove that the Accused has committed the offence 
+
+under section 120 B of the Act.
+</p>
+<p id="p_95">
+
+No offence under <a href="/doc/556166/" id="a_26">section 468</a> IPC
+
+
+
+</p><p id="p_96">55.       Similarly no offence under <a href="/doc/1331755/" id="a_27">section 468</a> made out in this 
+
+case. For proving that the accused has committed offence under 
+
+<a href="/doc/556166/" id="a_28">section   468</a>   IPC,   it   was  for   the   prosecution   to   prove   that   the 
+
+accused   forged   the   application   in   duplicate   submitted   for 
+
+ExPW3/I­1 &amp; Ex PW I­2 and the affidavit Ex PW3/J. 
+
+
+<span class="hidden_text" id="span_1">                                                                      1</span>
+</p><p id="p_97">56.       Offence   under  <a href="/doc/556166/" id="a_29">section   468</a>   IPC   can   only  be   proved   by 
+
+direct evidence and not otherwise. Mere because someone has 
+
+1 468   .  Forgery   for   purpose   of   cheating.­Whoever   commits   forgery,   intending   that   the 
+  document   or   electronic   record   forged   shall   be   used   for   the   purpose   of   cheating,   shall   be 
+  punished with imprisonment of either description a term which may extend to seven years, 
+  and shall also be liable to fine. 
+</p>
+<p id="p_98">
+C.C. No. 13/11
+ used   a   forged   document   is   not   to   say   he   has   forged   the 
+
+documents. It may be noted using a forged document in itself is 
+<span class="hidden_text" id="span_2">                                                     1</span>
+an   offence   under   <a href="/doc/1466184/" id="a_30">section   471</a>   IPC   to   be   punished   as   if   the 
+
+person has forged the document.    
+</p>
+<p id="p_99">
+
+</p><p id="p_100">57.     In this case the report of the handwriting expert does not 
+
+connect the accused with the forgery of the said documents. S 
+
+22 to S 40 are the handwritings of the accused taken during the 
+
+course of the investigation for comparison with the questioned 
+
+handwriting i.e. the signatures Q3, Q2 and Q5, and Q6 of the 
+
+victim Shri Ishawar Lal appearing on the forged application Ex 
+
+PW5/I­1 and Ex PW5/I­2 submitted in duplicate for the surrender 
+
+of the permit and supporting affidavit purported to have been 
+
+sworn by Shri Ishwar Lal Ex PW5/J. CFSL  report Ex PW10/E is 
+
+positive about the fact that these questioned signatures are not 
+
+of Sh. Ishwar Lal but there is no finding that these signatures 
+
+match the specimen handwritings of the Accused. There is no 
+
+1 471.  Using as genuine a forged document or electronic record.­ Whoever fraudulently or 
+  dishonestly uses as genuine any document or electronic record which he knows or has reason 
+  to believe to be a forged document or electronic record, shall be punished in the same manner 
+  as if he had forged such document or electronic record. 
+
+
+C.C. No. 13/11
+ witness who said that these documents had been signed by the 
+
+Accused in there presence as " Ishwar Lal". 
+
+
+
+</p><p id="p_101">58.    In   the   absence   of   any   evidence   that   the   Accused   had 
+
+forged the said signatures, the Accused cannot be said to have 
+
+committed the offence under <a href="/doc/556166/" id="a_31">section 468</a> IPC.
+
+
+Offence committed under <a href="/doc/1466184/" id="a_32">section 471</a> IPC read with <a href="/doc/1317063/" id="a_33">section 
+465</a> IPC
+
+
+
+</p><p id="p_102">59.    Let it be made clear straight away that the forgery in this 
+
+case   is   not   for   the   purpose   of   cheating   but   to   cover   up   the 
+
+cheating.   The   accused   had   already   manged   to     get   the 
+
+ownership of the vehicle  sans  surrender slip  first in the name 
+
+of his mother Laxmi Devi and than to Sh. R S Bhardwaj.   
+
+
+
+</p><p id="p_103">60.    The testimony of Sh. V K Gupta has already been referred 
+
+above where it has been stated that the Accused had given him 
+
+the forged papers ( Ex PW5/I­1,  PW5/I­2  and Ex  PW5/J with 
+
+regard   to   surrender   of   permit   and   after   discovering   that   the 
+
+C.C. No. 13/11
+ documents   were   forged   he   had   scored   out   office   note   Ex 
+
+PW6/A.   The   question   was   put   to   the   witness   in   cross­
+
+examination as to whether at the surrender of the application a 
+
+counter   foil   is   issued   to   the   party   and     the   attention   of   the 
+
+witness   was   drawn   to   Ex   PW1/I­1   and   Ex   PW1/I­2   the 
+
+application for surrender submitted in duplicate, to show that in 
+
+this case no counter foil had been issued. It is understandable 
+
+that the Application before could be acted upon was discovered 
+
+to be forged.   To one another question put to him the witness 
+
+had though admitted that it was not part of duty of the accused 
+
+to deposit surrender application. He had, however, explained "if  
+
+any party is personally known to an employee, he can come for  
+
+his assistance."
+</p>
+<p id="p_104">
+
+</p><p id="p_105">61.     Documents Ex PW5/I­1, PW5/I­2 and Ex PW5/J are false 
+<span class="hidden_text" id="span_3">                                                                1</span>
+documents within meaning of <a href="/doc/1745798/" id="a_34">section 464</a>   of the Penal Code, 
+
+1 464. Making a false document.­ A person is said to make a false document or false electronic 
+  record­
+       First.­ Who dishonestly or fraudulently­
+</p><p id="p_106">       (a)  makes, signs, seals or executes a document or part of a document; 
+</p><p id="p_107">       (b)  makes or transmits any electronic record or part of any electronic record; 
+</p><p id="p_108">       (c)  affixes any electronic signature on any electronic record;
+</p><p id="p_109">       (d)  makes any mark denoting the execution of a document or the authenticity of the 
+
+
+C.C. No. 13/11
+ as   someone   has   dishonestly   signed   these   documents   in   the 
+
+name   of   Sh.   Ishwar   Lal   with   the   intention   of   causing   it   be 
+
+believed that such documents were signed by Ishwar Lal. These 
+
+documents  had   been   undoubtedly  made  to   support   the   claim 
+
+that   Shri   Ishwar   Lal   was   surrendering   the   permit   as   "vehicle 
+
+could not be operated economically"  as noted in forged affidavit 
+
+Ex PW 5/J. Thus forgery was committed in respect of the said 
+<span class="hidden_text" id="span_4">                                                1</span>
+documents as per <a href="/doc/1328629/" id="a_35">section 463</a>   of the Penal Code punishable 
+<span class="hidden_text" id="span_5">                           2</span>
+under <a href="/doc/1331755/" id="a_36">section 465</a>  of the penal code.
+</p>
+<p id="p_110">62.     In view of the forgoing discussion I would conclude that 
+
+the   accused   had   committed   offence   under   <a href="/doc/1331755/" id="a_37">section   471</a> 
+
+punishable as provided for under <a href="/doc/1317063/" id="a_38">section 465</a> of the Penal Code.
+
+
+   electronic signature,
+           with the intention of causing it to be believed that such document or part of document,  
+   electronic record or electronic signatures was made, signed, sealed executed, transmitted or 
+   affixed by or by the authority of a person by whom or by whose authority he knows that it was  
+   not made, signed, sealed, executed or affixed; or 
+
+1 463. Forgery.­ Whoever makes any false documents or false electronic record or part of a 
+  document or electronic record, with intent to cause damage or injury, to the public or to any 
+  person, or to support any claim or title, or to cause any person to part with property, or to 
+  enter into any express or implied contract, or with intent to commit fraud or that fraud may be 
+  committed, commits forgery.
+</p><p id="p_111">2 465. Punishment for forgery.­ Whoever commits forgery shall be punished with 
+  imprisonment of either description for a term which may extend to two years, or with fine, or 
+  with both.
+</p>
+<p id="p_112">
+C.C. No. 13/11
+ Offence Under <a href="/doc/1436241/" id="a_39">section 420</a> of the Penal Code.
+
+
+
+</p><p id="p_113">63.   I feel to understand what we need to examine to reach the 
+
+conclusion as to whether accused has committed an offence of 
+
+cheating as defined in <a href="/doc/1306824/" id="a_40">section  415</a> of IPC there would  be  no 
+
+better way of doing it rather then to reproduce the following from 
+
+the   Judgment   of   the   Hon'ble   Madras  High   Court   in   the   case 
+
+<a href="/doc/668262/" id="a_41">State   vs   Ramados   Naidu   And   Ors</a>.   on   13   October,   1976 
+
+[ 1977 CriLJ 2048]  :
+</p>
+<blockquote id="blockquote_1">      7. On behalf of the State, it is contended that the 
+      view taken by the trial Magistrate is wrong and it is 
+      not   in   accordance   with   law.   To   appreciate   the 
+      contentions of the learned Public Prosecutor it is 
+      necessary to refer to the definition of the offence of 
+      cheating   in<a href="/doc/1569253/" id="a_42">   the   Penal   Code</a>.   Shorn   of   minute 
+      details, <a href="/doc/1331755/" id="a_43">Section 415</a>, I. P. C reads  as follows­­
+
+      <a href="/doc/1331755/" id="a_44">Section 415</a> : Whoever, by deceiving any person, 
+      fraudulently or dishonestly induces the person so 
+      deceived   to   deliver   any   property   to   any 
+      person....................   or   intentionally   induces   the 
+      person   so   deceived   to   do   or   omit   to   do 
+      anything........................................   which   act   or 
+      omission causes Or.....................is likely to cause 
+
+C.C. No. 13/11
+       damage   or   harm   to   that   person   in   body,   mind, 
+      reputation or pro is said to 'cheat'.
+</blockquote>
+<blockquote id="blockquote_2">      The word 'dishonestly' had been defined in <a href="/doc/940317/" id="a_45">Section 
+      24</a>, I. P. C. as follows­­
+
+      <a href="/doc/940317/" id="a_46">Section   24</a>   :   Whoever   does   anything   with   the 
+      intention of causing wrongful gain to one person, 
+      or wrongful   loss to another person, is said to do 
+      that thing 'dishonestly'.
+</blockquote>
+<blockquote id="blockquote_3">      <a href="/doc/1148711/" id="a_47">Section   25</a>,   I.   P.   C.   describes   the   word 
+      'fraudulently' in the following manner­­
+
+</blockquote><blockquote id="blockquote_4">      25. A person is said to do a thing fraudulently if he 
+      does that thing with intent to defraud.</blockquote><p id="p_114">
+
+</p><p id="p_115">      Bearing these definitions in mind, we have to find 
+      out   what   are   the   ingredients   of   the   offence   of 
+      cheating.  Firstly,   there   has   to   be   practice   of 
+      deception by the offender. Then on account of the 
+      deception   there   must   be   fraudulent   or   dishonest 
+      inducement so as to make the person deceived to 
+      deliver any property or to do  something or omit to 
+      do something  etc. Lastly,  by reason of delivery of 
+      the property or the doing of a thing or  the omission 
+      to do a thing, there must be the causing of or the 
+      likelihood of the causing of damage or harm to the 
+
+
+C.C. No. 13/11
+       person   deceived   in   body,   mind,   reputation   or 
+      property.  Thus,   as   a   result   of   the   dishonest 
+      inducement   of   a   person,   there   can   be   either 
+      wrongful   loss   to   the   person   deceived   or 
+      wrongful gain to another including the person 
+      practising the deception. Whenever any one of 
+      these   results   follow   on   account   of   the 
+      deception   practised   by   a   person,   then   the 
+      offence   of   cheating   would   be   complete.  The 
+      learned   Magistrate   is   not,     therefore,   correct   in 
+      having   taken   the   view   that   since   no   damage   or 
+      harm   had   been   caused   to   the   person   to   wit   the 
+      Bank   the   offence   of   cheating   has   not   been 
+      committed." (Emphasis supplied).
+</p>
+<p id="p_116">
+</p><p id="p_117">64.   One   may   also   refer   to   the   judgment   of   the   Hon'ble 
+
+Supreme Court in the case AIR 1977 SUPREME COURT 1174 
+
+"<a href="/doc/1605125/" id="a_48">Nrisingha Murari Chakraborty v. State of W.B</a>." It is a case 
+
+where  it   was  held  "The  word  "property"  does  not  necessarily  
+
+mean that the thing, of which delivery was dishonestly desired  
+
+by   the   person   who   cheats,"  must   have   a   money   value   or   a 
+
+market value, in the hand of the person cheated". Even if the  
+
+thing has no money value, in the hand of the persons cheated,  
+
+but becomes a thing of value, in the hand of the person, who  
+
+C.C. No. 13/11
+ may get possession of it, as a result of the cheating practised by  
+
+him, it would still fall within the connotation of the term 'property'  
+
+in  <a href="/doc/1331755/" id="a_49"> S.   420</a>."    It   was   also   added  "a   passport   was   a   valuable  
+
+document".
+</p>
+<p id="p_118">
+Dishonest Inducement resulting in transfer of vehicle. 
+
+
+</p><p id="p_119">65.    There is little doubt that in this case there was dishonest 
+
+inducement by the Accused. 
+</p>
+<p id="p_120">
+
+</p><p id="p_121">66.    There is enough evidence on record that the accused was 
+
+working in the same office and was dealing with cases relating 
+
+to the transfer of the vehicles. He has not even disputed this 
+
+fact. One may refer to the question No. 1 to 3 put to him under 
+
+<a href="/doc/1645922/" id="a_50">section 313</a> of the Procedure Code. The same read as under:
+
+
+</p><blockquote id="blockquote_5">       "Q.1 It has come in evidence against that you were 
+       employed   as   Upper   Division   Clerk   (UDC)   in   the 
+       office of Motor Licensing Officer (HQ Branch) Under 
+       Hill  Road   Delhi  during   1993  to   1994.     What   have 
+       you to say?
+</blockquote><blockquote id="blockquote_6">       Ans.   Yes. 
+</blockquote>
+<p id="p_122">C.C. No. 13/11
+        Q.2 It has come in evidence against you that in the 
+       year 1999 also you were posted in the same office? 
+       What have you to say?
+</p><p id="p_123">       Ans.  Yes. 
+</p>
+<p id="p_124">       Q.3 It has come in evidence against you that while 
+       being posted as UDC you together with Shri Chiranji 
+       Lal Meena LDC used to deal with cases relating to 
+       commercial vehicles like trucks, tempos, buses etc. 
+       having   registration   numbers   of   all   series.     What 
+       have  you to say?
+</p>
+<p id="p_125">       Ans.  Yes."
+</p>
+<p id="p_126">
+</p><p id="p_127">67.   He   has   also   not   disputed   that   the   Bus   DLIP   5290   was 
+
+purchased   in   the   name   of   his   mother   Laxmi   Devi   first   and 
+
+thereafter transferred from his mother to Shri R S Bhardwaj and 
+
+that   for   the   transfer   of   a   commercial   vehicle   the   surrender 
+
+certificate was an essential requirement. One may refer Q27 to 
+
+Q   30,   Q   33   and   Q   35.     The   same   read   as   under:   (dates 
+
+mentioned in question no. 28 and 29 be read as 11.07.1994 and 
+
+29.06.1994   in   stead   of   11.07.1997   and   29.06.1994   being 
+
+typographical errors) 
+
+C.C. No. 13/11
+        "Q.27  It has further come in evidence against you 
+       that   after   you   had   quoted   the   price   for   the 
+       purchase   of   the   said   vehicle   Rs.   3,40,000/­   vide 
+       Mark   P­21/5   dated   20.06.1994   (written   on   your 
+       behalf by Shri Sanjay Kumar, executive of Ashok 
+       Leyland Finance Ltd. ) wherein you had offered to 
+       purchase   the   said   vehicle   for   a   sum   of   Rs. 
+</p><p id="p_128">       3,40,000/­ and pursuant to the same had submitted 
+       an FDR in the sum of Rs. 1,80,000/­ in the name of 
+       your   daughter   Manju   for   one   year   and   also   a 
+       margin money of Rs. 1,40,000/­.  What have you to 
+       say?
+</p>
+<p id="p_129">       Ans.  It is correct.
+</p>        
+<p id="p_130">       Q.28 It has further come in evidence against you 
+       that the vehicle (bus) bearing No. DL­1P 5290 was 
+       sold to Mrs. Laxmi Devi, your mother, through you 
+       by   Ashok   Leyland   Finance   Limited   on   hire 
+       purchase   vide   Hire   Purchase   Agreement   Ex. 
+</p><p id="p_131">       PW­21/6   dated   11.07.1997     after   you   had 
+       approached   Shri   Sanjay,   an   executive   of   Ashok 
+       Leyland Limited for buying this vehicle.  What have 
+       you to say?
+</p>
+<p id="p_132">       Ans. It is correct.
+</p>        
+<p id="p_133">
+
+C.C. No. 13/11
+        Q.29 It has further come in evidence against you 
+       that  the said vehicle was transferred in the name 
+       of your mother Smt. Laxmi Devi vide Registration 
+       Certificate   Ex.   PW­3/A   dated   29.06.1997.   what 
+       have you to say?
+</p>
+<p id="p_134">       Ans. It is correct. 
+</p>
+<p id="p_135">       Q.30 It has further come in evidence against you 
+       that the procedure for the transfer of commercial 
+       vehicle under the commercial permit as applicable 
+       during the year 1993­94 was that the permit holder 
+       was required to file an application for surrender of 
+       his   permit   in   prescribed   performa   in   STA   permit 
+       and thereafter his surrender was used to be issued 
+       to him in token of having surrendered the original 
+       permit   and   thereafter   for   the   transfer   of   the 
+       ownership in the name of the purchaser alongwith 
+       said surrendered slip the documents such as from 
+       No. 29 &amp; 30, insurance, road tax, address proof, 
+       NOC in case of vehicle is on hire purchase etc. will 
+<span class="hidden_text" id="span_6">       required to  be  filed  and further  the  Form  No. 29 </span>
+       was required to be signed by registered owner i.e. 
+       seller   of   the   vehicle   and   Form   No.   30   by   the 
+       purchase of the vehicle.  what have you to say?
+
+       Ans. It is correct." 
+</p><p id="p_136">                       ­­­­xxx­­­­­xxx­­­­xxx­­­­
+
+
+C.C. No. 13/11
+        Q.33 It has further come in evidence against you that 
+       PW­7 Shri Baljit Singh Rathi knew you since 1980 and 
+       he also knew R.S. Bhardwaj since 1993 as he used to 
+       visit Shri D.S. Chaudhary, MLO in whose office he was 
+       working   as   UDC.     Since   Shri   R.S.   Bhardwaj   was   in 
+       financial problem and was not in a position to purchase 
+       the bus though permit had been issued to him, Shri Baljit 
+       Singh   Rathi,   had,   therefore,   introduced   Shri   R.S. 
+       Bhardwaj to you as you had the purchased in the name 
+       of your mother Smt. Laxmi Devi.  What have you to say?
+
+       Ans. It is correct. 
+</p>
+<p id="p_137">
+</p><p id="p_138">                           ­­­­xxx­­­­­xxx­­­­xxx­­­­
+
+       Q.35 It has further come in evidence against you that 
+       the bus bearing No. DL­1P 5290 was transferred by Smt. 
+       Laxmi Devi, your mother to one Shri S.R. Bhardwaj as 
+       per registration certificate Ex.PW­3/B. What have you to 
+       say?
+</p>
+<p id="p_139">       Ans. It is correct." 
+</p>
+<p id="p_140">
+</p><p id="p_141">68.    There is a note sheet on record Ex PW7/A and Ex PW7/B. 
+
+Although in this note there is an allegation tried to be made that 
+
+Shri Ishwar Lal was trying to get a route allotted on the basis of 
+
+a  forged   permit     but   for   us  what   is   important   is   that   there   is 
+
+
+
+C.C. No. 13/11
+ categorical assertion that permit allotted to him was still lying in 
+
+the file and not received by Shri Ishwar Lal. In support there is 
+
+testimony   of   the   Shri   Ishwar   Lal   himself   and   the   various 
+
+application he wrote to STA making a request that the permit be 
+
+issued to him and in fact it is the non­issuance of the permit 
+
+which became the reason the vehicle being re­possessed by the 
+
+Finance company for having not been able to make the payment 
+
+of installments because he could not have plied the bus in the 
+
+absence of the permit. Sufficient would it be if relevant portion of 
+                          th
+his last letter dated 28  October 1994 Ex PW5/F is reproduced. 
+
+[There is an allegation in this letter that there was conspiracy  
+
+from the beginning that he may not be able to get the permit,  
+
+resulting in the failure of business consequently re­possession  
+
+of the vehicle and someone ending up picking his brand new  
+
+Bus.   It   could   be   true   because   once   the   vehicle   was   re­
+
+possessed it did not take long for the mother of the Accused  
+
+buying the Bus. Since there had been no investigation from this  
+
+angle   I   am   overlooking   these   allegation   and   the   portion  
+
+reproduced may only be considered that there was no permit  
+
+
+C.C. No. 13/11
+ issued to him.] The same reads as under:
+</p>
+<blockquote id="blockquote_7">        "Sir,
+
+               This is an old case representing against non­
+        issue   of   permit   arbitratorily   despite   many   letters 
+        and personal meetings with you  and the  dealing 
+        officials. 
+</blockquote>
+<blockquote id="blockquote_8">        1.    List of case is that the Bus No. Dl­1P 5290 
+        has  been  passed  /   produced  and  RC  issued   on 
+        7/4/93   which   has   costed   me   about   Rs.   Seven 
+        lakhs   including   finance   Rs.   3   lacs   for   which   12 
+        instalments of Rs. 1.52 lacs have been paid.
+</blockquote>
+<blockquote id="blockquote_9">        2.       I have also paid permit fee Rs. 550/­ and 
+        permit   security   Rs.   2,000/­   with   all   the   requisite 
+        document   to   the   test   satisfaction   of   the   STA.   I 
+        have been advising the STA with day­to­day going 
+        on   with   this   case   vide   repeated   letters   duly 
+        acknowledged.</blockquote><p id="p_142">
+
+</p><p id="p_143">        3.     As   I   gathered   from   reliable   sources   that   a 
+        conspiracy   was   planed   in   which   the   lower   staff 
+        decided not to issue the permit just to made me a 
+        failure   in   this   business.     Your   interested  officials 
+        contacted he Fin. To pick up the Brand New Bus 
+        for non­payment of Instalments about Rs. 14,000/­ 
+        pm.  When the bus could not ply at all for want of 
+
+C.C. No. 13/11
+         permit, my case has been deliberately involved in 
+        some other fraudulent activities for which I am not 
+        aware   and   responsible.   Please   do   enquire     and 
+        ...... (not readable)".
+</p>
+<p id="p_144">
+</p><p id="p_145">69.   Considering his position in the office and considering that 
+
+the vehicle was to be transferred in the name of  his mother it is 
+
+impossible to believe that he would have not  known that there 
+
+was no permit issued to Ishwar Lal at any point of time. 
+
+
+
+</p><p id="p_146">70.   The relevant parts of the testimonies of Witness PW­3 Shri 
+
+Sudhir Jain MLO had PW15 Shri C L Meena have already been 
+
+reproduced above to show that they had been approached by 
+
+the   Accused   and   persuaded   by   the   Accused   to   transfer   the 
+
+vehicles in the name of his mother and to the name of Shri R S 
+
+Bhardwaj without the surrender slip on the assurance that he 
+
+would produce the same later. I have closely seen the cross­
+
+examination   of   these   witnesses   and   there   is   also   nothing   of 
+
+importance pointed by the Ld defence counsel which may create 
+
+any   doubt   about   there   testimony.   It   is   apparent   that   this 
+
+
+
+C.C. No. 13/11
+ persuasion of transferring of vehicle without   the surrender slip 
+
+of permit on the pretext of producing it later, was nothing but a 
+
+gambit to have the vehicle transferred without the surrender slip 
+
+as there could not have been surrender slip of permit because it 
+
+had never reached the hands of the permit holder Sh Ishwar Lal. 
+
+In other words it was nothing but dishonest inducement by the 
+
+Accused of Shri Sudhir Jain MLO and Clerk Shri C L Meena 
+
+which resulted in the transfer of the vehicle in the name of the 
+
+mother   of   the   accused   first,   Smt.   Laxmi   Devi   and   then   from 
+
+Laxmi Devi to Sh. R S Bhardwaj. 
+</p>
+<p id="p_147">
+Harm to the mind body reputation etc.
+
+
+</p><p id="p_148">71.    It   is   a   case   where   a   Registration   certificates   had   been 
+
+issued   on   the   basis   of   a   misrepresentation   by   the   Accused. 
+
+There is little doubt that had it not been for the assurance given 
+
+by   the   Accused   as   to   the   supply   of   the   surrender   slip     the 
+
+vehicles could not have been transferred in the name of Smt 
+
+Laxmi Devi or Shri R S Bhardwaj. The question, therefore, is 
+
+what harm has been caused to   Shri Sudhir Jain and Shri C L 
+
+C.C. No. 13/11
+ Meena   in   particular   and   State   Transport   Department   of   Govt 
+
+NCT in general. 
+</p>
+<p id="p_149">
+
+</p><p id="p_150">72.    As has been noted in the Ramdos Naidu's Case (supra) it 
+
+is not necessary to show any loss to the Govt. or to the said 
+
+officials, it would be good enough to show it has resulted in the 
+
+wrongful gain to the person deceiving. As was put in Nrisingha 
+
+Murari Chakraborty' s case ( supra) the wrongful not necessarily 
+
+is to be in terms of money. It is sufficient to attract offence of 
+
+cheating   if   it   is   a   "thing   of   value'   in   the   hand   of   the   person 
+
+cheating. 
+</p>
+<p id="p_151">
+
+</p><p id="p_152">73.    Registration   Certificate   of   vehicle   for   sure   is   a   thing   of 
+
+value as without it a vehicle that too commercial vehicles like 
+
+Bus cannot be legitimately plied on road.
+
+
+
+</p><p id="p_153">74.    It , therefore, can be said that the Accused has committed 
+
+an   offence   under   <a href="/doc/1306824/" id="a_51">section   415</a>   of   the   Penal   Code   punishable 
+
+under <a href="/doc/1436241/" id="a_52">section 420</a> IPC. 
+</p>
+<p id="p_154">
+C.C. No. 13/11
+ Offence   under   <a href="/doc/1281473/" id="a_53">section   13(1)</a>   (d)   of   the   <a href="/doc/1331755/" id="a_54">Prevention   of 
+Corruption Act</a>
+
+
+
+</p><p id="p_155">75.   The   reasons   which   hold   good   for   concluding   that   the 
+
+Accused had committed offence under <a href="/doc/1306824/" id="a_55">section 415</a> of the Penal 
+
+could   also   apply   for   holding   that   the   Accused   has  committed 
+
+offence   under   <a href="/doc/1101716/" id="a_56">section   13(1)(d)</a>   (ii)   of   the   <a href="/doc/1331755/" id="a_57">Prevention   of 
+
+Corruption Act</a> for the Accused could not have persuaded Shri 
+
+Sudhir   Jain   MLO   or   Shri  C  L   Meena  to   process  the   case   or 
+
+transfer the vehicle without the surrender slip of the permit if he 
+
+had not misused( abused) his position as a public Servant and 
+
+had obtained for himself/his mother Smt Laxmi Devi and Shri R 
+
+S Bhardwaj a valuable thing ­" Registration Certificate".
+
+
+
+Sanction for prosecution 
+
+
+</p><p id="p_156">76.   The prosecution for sanction was proved by witness PW2 
+
+Sh.   Virender   Singh   the   sanctioning   Authority   himself.     There 
+
+was no question put to him in the cross­examination. There was 
+
+
+C.C. No. 13/11
+ also   no     submission   made   as   to   challenging   sanction   in   any 
+
+manner.
+</p>
+<p id="p_157">
+
+DEFENCE OF THE ACCUSED 
+
+No   rules   and   regulations   placed   on   record   allegedly 
+bypassed with regard to the transfer of the vehicle.  
+
+
+
+</p><p id="p_158">77.   It was submitted by ld. Defence counsel that in this case 
+
+there is an allegation that the rules have been bypassed for the 
+
+transfer   of   vehicle   to   Smt.   Laxmi   Devi,   the   mother   of   the 
+
+accused and from Smt. Laxmi Devi to Shri R.S. Bhardwaj by not 
+
+submitting   the   surrender   slip   alongwtih   the   application   for 
+
+transfer  of  the  vehicle.    There  is,   however,  no  such  rule  and 
+
+regulation  placed on record. 
+</p>
+<p id="p_159">
+
+</p><p id="p_160">78.   As has been noted above, this is a fact, which has been 
+
+repeatedly said by different witnesses who had appeared from 
+
+the Transport Department, but had also been admitted by the 
+
+accused himself in his statement u/s 313 <a href="/doc/445276/" id="a_58">Cr.P.C</a>. One may refer 
+
+
+C.C. No. 13/11
+ to answer to the question No. 30 given by the Accused it reads 
+
+as under:
+</p>
+<blockquote id="blockquote_10">         Q.30 It has further come in evidence against you 
+         that the procedure for the transfer of commercial 
+         vehicle under the commercial permit as applicable 
+         during   the   year   1993­94   was   that   the   permit 
+         holder   was   required   to   file   an   application   for 
+         surrender of his permit in prescribed performa in 
+         STA   permit   and   his   surrender   was   used   to   be 
+         issued to him in token of having surrendered the 
+         original permit and thereafter for the transfer of the 
+         ownership in the name of the purchaser alongwith 
+         said surrendered slip the documents such as from 
+         No. 29 &amp; 30, insurance, road tax, address proof, 
+         NOC in case of vehicle is on hire purchase etc. 
+         will required to be filed and further the Form No. 
+         29 was required to be signed by registered owner 
+         i.e. seller of the vehicle and Form No. 30 by the 
+         purchase of the vehicle.  what have you to say?
+</blockquote>
+<blockquote id="blockquote_11">         Ans. It is correct." 
+</blockquote>
+
+<p id="p_161">79.   I   have   also   gone   through   the   Website   of   Transport 
+<span class="hidden_text" id="span_7">                                                           1</span>
+Department of  Government  of   NCT of  Delhi   and  have  found 
+
+
+1h t t p : / / d e l h i g o v t . n i c . i n / n e w d e l h i / d e p t / t r a
+n s p o r t / t r 1 0 . a s p
+
+C.C. No. 13/11
+ that   submission   of   permit   surrender   slip   is   one   of   the 
+
+requirement   for   the   transfer   of   ownership   of   a   commercial 
+
+vehicle.  A judicial notice of the same can be taken. The same 
+
+reads as under:­ 
+
+
+
+              " H o w   t h e   t r a n s f e r   o f 
+            o w n e r s h i p   o f   a   v e h i c l e 
+                    can be  done?
+</p><p id="p_162">       The   transfer   of   ownership   of   a   vehicle   is   to   be 
+       applied   in   the   concerned   zonal   office   where 
+       vehicle is already registered and following are the 
+       documents to be submitted :­ 
+</p><p id="p_163">        1.Registration certificate in original 
+</p><p id="p_164">        2.Form No. 29 duly filled in duplicate 
+</p><p id="p_165">        3.Form No. 30 duly filled in duplicate 
+</p><p id="p_166">        4.Attested   copy   of   valid   insurance,   in   favour   of 
+        buyer 
+</p><p id="p_167">        5.Attested copy of address proof of buyer 
+</p><p id="p_168">        6.Attested   copy   of   valid   pollution   under   control 
+        certificate 
+</p><p id="p_169">        7.Attested   copy   of   G.I.R./Pan   no.   or   Form   no. 
+        60/Form no. 61 (in case of cars  only) 
+</p><p id="p_170">        8.Prescribed fee 
+</p><p id="p_171">        9.For commercial vehicles in addition to above 
+</p><p id="p_172">        10. Permit surrender slip for S.T.A. 
+</p>                                                      
+<p id="p_173">
+
+C.C. No. 13/11
+</p><p id="p_174">         11.Challan   clearance   from   Traffic   Police   &amp; 
+        Enforcement branch of the transport       deptt.   are 
+        required. 
+</p><p id="p_175">        12.Tax clearance report from 
+
+</p><p id="p_176">        13.Accounts."
+</p>
+<p id="p_177">
+No   witness   examined   for   transfer   of   vehicle   from   Smt. 
+Laxmi Devi to Shri R.S. Bhardwaj.
+</p>
+<p id="p_178">
+</p><p id="p_179">80.    This submission of ld. Defence counsel is contrary to the 
+
+record.   The witness PW­15 Shri Chiranji  Lal  Meena had  not 
+
+only   deposed   that   the   accused   had   approached   him   for   the 
+
+transfer   of   vehicle   but   had   also   stated   that   the   Registration 
+
+Certificate   Ex.   PW­3/B   (also   Ex.   PW15/1),   Registration 
+
+Certificate in the name of Shri R.S. Bhradwaj was put up before 
+
+him for obtaining signatures thereon without the surrender slip. 
+
+The relevant part of the his testimony reads as under:­
+
+
+      "Both   the   aforesaid   Registration   Certificates   Ex. 
+      PW­3/A   and   Ex.   PW­3/B   (also   proved   as   Ex. 
+</p><p id="p_180">      PW­15/1) were put up by me before Motor Licensing 
+      Officer for obtaining his signatures thereon but this 
+
+
+C.C. No. 13/11
+       was done by me at the instance of the accused who 
+      had asked me to do so even without obtaining the 
+      surrender slip.  In fact accused had told me that the 
+      relevant permit no. SC/3000/EX/0749/93 in the name 
+      of   Ishwar   Lal   in   relation   to   Ex.   PW­3/A   and   Ex. 
+      PW­3/B  (also   proved   as  Ex.   PW­15/1),   was  in   the 
+      name of his mother and he would bring the permit 
+      and show it to me."
+</p>
+<p id="p_181">81.    Similarly, witness PW­3 Inspector Sudhir Jain had proved 
+
+the same Registration Certificate by identifying the signatures of 
+
+Shri J.S.Dabas, MLO who had signed the same.   The fact that 
+
+the vehicle was transferred in the name of Shri R.S. Bhardwaj 
+
+has also not been disputed by the accused.   Reference in this 
+
+respect can be made to the question No. 35 of the statement of 
+
+the accused recorded under <a href="/doc/767287/" id="a_59">Section 313</a> Cr.P.C..  The same is 
+
+being reproduced hereunder:­
+
+
+      "Q. 35    It has further come in evidence against you 
+      that the bus bearing No. DL­1P 5290 was transferred 
+      by Smt. Laxmi Devi, your mother to one Shri R.S. 
+      Bhardwaj as per registration certificate Ex. PW­3/B. 
+      What have you to say?
+</p>
+<p id="p_182">       Ans.   It is correct."
+</p>
+<p id="p_183">C.C. No. 13/11
+</p><p id="p_184"> 82.   Going   a  step   further   we   may  also   notice   that   Shri   R.S. 
+
+Bhardwaj was known to the accused personally.  Witness PW­7 
+
+Shri Baljit Singh Rathi had deposed that he was working as LDC 
+
+in   MLO   Branch   during   1992   to   1993   and   he   knew   Prakash 
+
+Chand   since   1980.     He   also   knew   Shri   R.S.   Bhardwaj   since 
+
+1993 as he used to come to the office of Shri D.S. Chaudhary, 
+
+MLO at that time.   Since he had a permit in his name but was 
+
+not in a position to purchase the bus he had introduced him to 
+
+the   accused.     He   had   stated   during   the   examination   in   his 
+
+testimony "I introduced him with Shri Prakash Chand.  The bus 
+
+was   purchased   in   the   name   of   Smt.   Laxmi   Devi   mother   of 
+
+Prakash Chand. I do not know what happened thereafter".  This 
+
+is a fact which was admitted by the accused in his statement 
+
+under <a href="/doc/767287/" id="a_60">Section 313</a> Cr.P.C. and there was also no question put 
+
+to him in the cross­examination. 
+</p>
+<p id="p_185">
+
+</p><p id="p_186">83.   To sum up, it is evident that there is sufficient material on 
+
+record that the vehicle was transferred from Smt. Laxmi Devi to 
+
+Shri R.S. Bhardwaj and the accused was instrumental in getting 
+
+
+C.C. No. 13/11
+ the   vehicle   transferred   in   the   name   of   Shri   R.S.   Bhardwaj 
+
+without   the surrender slip of the permit. Ld. Defence counsel 
+
+had examined  the witness DW­1 Shri Satish  Kumar who had 
+
+placed   on   record   a   computerized   print   out   showing   that   the 
+
+vehicle last stood in the name of Shri R.S. Bhardwaj. 
+
+
+
+Other persons involved in the transfer not made accused in 
+this case.
+</p>
+<p id="p_187">
+
+
+</p><p id="p_188">84.   It has been submitted by the learned defence counsel that 
+
+the accused was merely a LDC and was not concerned with the 
+
+transfer of the vehicle.  The persons who were actually involved 
+
+in transfer of vehicle have not been made accused in this case. 
+
+I  am  of   the  view  that  this  submission  of  the  learned  defence 
+
+counsel   is   of   little   consequence.     The   witnesses   who   were 
+
+actually involved in the transfer of the vehicle, namely, Shri C.L. 
+
+Meena   and   Shri   Sudhir   Jain   had   deposed   that   they   were 
+
+deceived by the accused to get the vehicle transferred first in 
+
+the  name of his mother Smt. Laxmi Devi and from Laxmi Devi 
+
+
+C.C. No. 13/11
+ to Shri R.S. Bhardwaj.   They were in the position of witnesses 
+
+and not  accused in this case. 
+</p>
+<p id="p_189">
+The   main   file   of   the   bus   on   the   basis   of   which   the 
+allegations have been made not produced in the Court.
+
+</p><p id="p_190">85.    It is a matter of record that the file relating to the transfer 
+
+of the vehicle of bus No. DL­1P 5290 had gone missing. This 
+
+was deposed by defence evidence DW­1 Shri Satish Kumar as 
+
+well where he had stated that he had made personal best efforts 
+
+to   trace   the   record   of   the   said   file   but   the   same   was   not 
+
+available.  This is a fact  which was also take note of during the 
+
+testimony of PW­3 Inspector Sudhir Jain where at the time of 
+
+exhibiting   RC   Ex.   PW3/A   there   was   an   objection   raised   that 
+
+since it was a photocopy it could not have been exhibited. The 
+
+Ld. Predecessor of the Court had made an observation that the 
+
+Registration   File   of   this   vehicle   i.e.   bus   No.   DL­1P   5290   is 
+
+missing from the official record and copy of the same can be 
+
+considered to be a secondary evidence.  I am, therefore, of the 
+
+opinion non­availability of the file would have not adverse impact 
+
+on the outcome of this case.  
+</p>
+<p id="p_191">C.C. No. 13/11
+ There   is   nothing   on   record   to   show   that   something   was 
+missing which was required to be done for the transfer of 
+registration certificate etc.
+
+
+</p><p id="p_192">86.    According to the learned defence counsel first of all there 
+
+is nothing on record to show that there was something missing 
+
+which was required for the transfer of the ownership of vehicle. 
+
+He has also submitted that if the surrender slip had not been 
+
+submitted by the accused later on, as per the assurance given 
+
+by   the   accused,   why   did   Shri   Sudhir   Jain   did   not   make   any 
+
+inquiry from the accused as to not supplying the surrender slip 
+
+to him or taken steps for stopping the transfer of RC in the name 
+
+of Smt. Laxmi Devi. 
+</p>
+<p id="p_193">
+
+</p><p id="p_194">87.    It has already come on record that the file relating to this 
+
+case had been missing for long time.  Therefore, obviously there 
+
+is no record available with regard to the transfer of the vehicle. 
+
+As has been noted above there is, however, copious amount of 
+
+oral evidence available on record that the accused had tried to 
+
+
+
+C.C. No. 13/11
+ influence Shri C.L. Meena and Shri Sudhir Jain for transferring 
+
+the   vehicle   in   the   name   of   Smt.   Laxmi   Devi   without   the 
+
+surrender   slip   on   the   pretext   that   he   would   supply   the   same 
+
+soon. There is nothing to doubt their testimony.   It has already 
+
+been discussed before that actually there was no permit ever 
+
+received by Shri Ishwar Lal.   If there was no permit issued to 
+
+Shri Ishwar Lal, there was no question of it being surrendered. 
+
+One   may   also   notice   that   if   the   surrender   slip   had   been   on 
+
+record   there   was   no   necessity   for   the   accused   to   have 
+
+submitted forged application for the surrendering the permit with 
+
+the signatures of Ishwal Lal and also an affidavit sworn in his 
+
+name.     If   all   these   facts   are   put   together   then   even   in   the 
+
+absence of actual record being available, there can only be one 
+
+conclusion that at the time of submission of application for the 
+
+transfer of vehicle in the name of Smt. Laxmi Devi, there was no 
+
+permit surrender slip available. 
+</p>
+<p id="p_195">
+
+</p><p id="p_196">88.    As far as question of Shri Sudhir Jain not making inquiry 
+
+from   the   accused   about   non   supplying   the   surrender   slip   is 
+
+
+C.C. No. 13/11
+ concerned the accused could  have taken benefit of it if he had 
+
+cross­examined the witness Shri Sudhir Jain on these lines.  At 
+
+one stage in reply to the question by the defence counsel the 
+
+witness had stated  "RC  was transferred in the  name of Smt.  
+
+Laxmi   Devi   as   accused   Prakash   Chand,   who   was   working  
+
+under me had given an undertaking to submit the surrender slip  
+
+by   evening   on   the   same   day."    After   this   answer   had   come, 
+
+there   was   no   question   put   to   the   witness   thereafter   if   this 
+
+witness had later on made inquries from Prakash Chand if he 
+
+had not submitted the surrender slip later on.  It may be noted 
+
+that   narration   which   comes   in   the   cross­examination   of   a 
+
+witness   is entirely different from the narration which comes in 
+
+examination in chief of a witness.  In the examination in chief the 
+
+witness   is   supposed   to   say  things   of   his  own   relevant   to   the 
+
+case giving complete narration of facts.   In the case of cross­
+
+examination,   however,   a   witness   is   expected   to   reply   to   the 
+
+questions only which have been put to him specifically for the 
+
+cross­examination   and   not   beyond   that.   It   was,   therefore, 
+
+responsibility   of   the   learned   defence   counsel   in   the   cross­
+
+
+C.C. No. 13/11
+ examination to have elicited   the response from the witness, if 
+
+this witness had after the registration certificate had been issued 
+
+had asked the accused ever to submit the surrender slip.   As 
+
+has   already   been   noted   above   in   the   absence   of   any   cross­
+
+examination on these lines the learned defence counsel cannot 
+
+take benefit of it. 
+</p>
+<p id="p_197">
+No surrender slip required in case of vehicles purchased by 
+auction.   
+</p>
+<p id="p_198">89.   The learned defence counsel had made a reference to the 
+
+testimony   of   the   witness   PW­15   Shri   C.L.   Meena   who   was 
+
+responsible   for   processing   the   case   for   transfer   of   vehicles 
+
+wherein this witness had stated that he did not know that in case 
+
+of a vehicle being purchased by way of auction it is necessary to 
+
+ask for surrender slip  of  the permit.    I believe  if  the accused 
+
+wanted to put across the question that as far as the vehicles 
+
+which   are   purchased   by   way   of   auction,   there   was   no 
+
+requirement   of   submissions   of   permit   surrender   slip,   then   he 
+
+should have brought out this fact clearly in a positive manner by 
+
+making reference to any rule or practice.  Merely by putting  one 
+
+C.C. No. 13/11
+ simple question and trying to make an exception that in case of 
+
+vehicles purchased by way of auction, permit surrender slip was 
+
+not necessary, is far fetched. 
+</p>
+<p id="p_199">
+CONCLUSION
+
+</p><p id="p_200">90.   In   the   light   of   above   discussions,   I   am   acquitting   the 
+
+accused of the charge under <a href="/doc/1331755/" id="a_61">Section 120</a>­B read with <a href="/doc/1436241/" id="a_62">Sections 
+
+420</a>, <a href="/doc/1466184/" id="a_63">471</a>, <a href="/doc/556166/" id="a_64">468</a> IPC and <a href="/doc/1259316/" id="a_65">Section 13(2)</a> read with <a href="/doc/1101716/" id="a_66">Section 13(1)(d)</a> 
+
+of Prevention of Corruption Act and also of the offence under 
+
+<a href="/doc/556166/" id="a_67">section   468</a>   IPC.     I   am,   however,   convicting   the   accused   for 
+
+having committed the offence under <a href="/doc/1466184/" id="a_68">section 471</a> IPC punishable 
+
+in   the   same   manner   as  provided   in   <a href="/doc/1317063/" id="a_69">Section   465</a>   IPC,   having 
+
+committed   offence   of   cheating   under   <a href="/doc/1306824/" id="a_70">Section   415</a>   IPC 
+
+punishable   under   <a href="/doc/1436241/" id="a_71">Section   420</a>   IPC   and   having   committed 
+
+misconduct under <a href="/doc/1226868/" id="a_72">section 13(1)(d)(ii)</a> punishable under <a href="/doc/1259316/" id="a_73">Section 
+
+13(2)</a> of the Prevention of Corruption Act. 
+
+
+</p><pre id="pre_2">Announced in the Open Court                       ( L. K. GAUR )
+on 3rd April, 2012                       Special Judge, <a href="/doc/1331755/" id="a_74">P.C. Act</a>  
+                                          (CBI­09), Central District, 
+                                                        Delhi.
+
+
+C.C. No. 13/11
+</pre><p id="p_201">     IN THE COURT OF SHRI L.K. GAUR, SPECIAL JUDGE
+                P.C. ACT (CBI­09), CENTRAL DISTRICT, 
+                       TIS HAZARI: DELHI 
+
+
+CC No. 13/2011
+R.C. No. 57(A)/96/CBI/ACB/ND
+Case I.D No. 02401R0000961999
+
+Central Bureau of Investigation
+
+                  Versus
+Shri Prakash Chand 
+S/o Late Shri Hari Singh 
+R/o RZ 45, Gali No. 1, Nangloi Road,
+Maksudabad Colony, Nazafgarh,
+New Delhi.
+</p>
+<pre id="pre_3">Date of Institution                :  22.12.1999
+Date of reserving Order            :  11.04.2012
+Date of Pronouncement              :  16.04.2012
+
+
+ORDER ON SENTENCE
+
+CONVICTION
+
+</pre><p id="p_202">      The   convict   has   been   convicted   under   <a href="/doc/1331755/" id="a_75">Section   471</a> 
+
+punishable   in   the   same  manner  as  an   offence  under  <a href="/doc/1317063/" id="a_76">Section 
+
+465</a> IPC, under <a href="/doc/1306824/" id="a_77">Section 415</a> IPC, punishable under Section 420 
+
+
+
+C.C. No. 13/11
+ <a href="/doc/1569253/" id="a_78">IPC</a> and under <a href="/doc/1226868/" id="a_79">Sections 13(1)(d)(ii)</a> of Prevention of Corruption 
+
+Act punishable under <a href="/doc/1259316/" id="a_80">Section 13(2)</a> of the Act. 
+
+
+
+</p><p id="p_203">2.    During   trial   it   was   established   that   an   ex­serviceman 
+
+Ishwar  Lal  was selected  for grant  of  permit  by a  draw  of  lot. 
+
+Pursuant  to  the  selection  he had  purchased  one  bus  bearing 
+
+No.   DL­1P   5290   on   hire   purchase   basis.     The   vehicle   was 
+
+transferred   in   his   name   vide   Registration   Certificate   dated 
+
+07.04.1994.    He   was  informed   that   Route   No.   706   has  been 
+
+alloted to him but permit was not actually issued to him. He had 
+
+kept  approaching  the  Department  for  being  issued  the   permit 
+
+but in vain.  So much so that because of the non­issuance of the 
+
+permit he could not ply the bus and could not pay the monthly 
+
+hire   charges   resulting   in   the   bus   being   repossessed   by   the 
+
+Finance Company.   Convict who had been working as clerk in 
+
+the Transport Department had himself approached the Finance 
+
+Company   for   the   purchase   of   vehicle.   The   vehicle   was 
+
+purchased in the name of his mother. Since the bus could not 
+
+have  been  transferred  in   the  name  of  his  mother  without   the 
+
+
+C.C. No. 13/11
+ permit being surrendered and surrender slip produced of such 
+
+surrender,   he   deceived   his   own   colleagues   to   get   the   bus 
+
+transferred in the name of his mother and subsequently from his 
+
+mother   to   one   Shri   R.S.   Bhardwaj   on   the   assurance   that   he 
+
+would produce the surrender slip later, which he did not submit. 
+
+Later on to cover up the non­submissions of the surrender slip 
+
+he   had   submitted   an   application   alongwtih   an   affidavit   for 
+
+"surrender of permit" with forged signatures of Shri Ishwar Lal. 
+
+
+
+</p><p id="p_204">3.    I have heard the learned Public Prosecutor for CBI and 
+
+also the learned defence counsel on the point of sentence and 
+
+have gone through the record of the case.  
+</p>
+<p id="p_205">
+
+</p><p id="p_206">4.    The learned Defence counsel made a request for taking a 
+
+lenient view and to award minimum punishment to the convict 
+
+for the following reasons:­ 
+
+</p><p id="p_207">(i)   The convict is facing trial since, 1996.  He is 61 years old 
+
+and has already retired from service. He is not maintaining good 
+
+health since the year 2001.
+</p>
+<p id="p_208">
+C.C. No. 13/11
+</p><p id="p_209"> (ii)    His wife has already expired. He has an adopted son who 
+
+is   living   separately   and   one   daughter   who   is   already  married 
+
+and he is the only person to look after his old mother who is 
+
+about 82 years old. 
+</p>
+<p id="p_210">
+
+</p><p id="p_211">(iii)   Because of the present case he has not been able to get 
+
+any pensionary benefit including gratuity etc.   He also did not 
+
+get   two   promotions   because   of   the   pendency   of   the   present 
+
+case. 
+</p>
+<p id="p_212">
+
+</p><p id="p_213">4.      The   learned   Public   Prosecutor   on   the   other   hand   has 
+
+made a request for handing out the maximum punishment to the 
+
+convict   taking   into   consideration   the   manner  in   which   he  has 
+
+committed the offence by deceiving his own colleagues and an 
+
+ex­serviceman. 
+</p>
+<p id="p_214">
+
+</p><p id="p_215">5.      As I can pick up the mitigating circumstance against the 
+
+convict are: 
+</p>
+<p id="p_216">
+
+
+C.C. No. 13/11
+</p><p id="p_217"> (i)     the convict has been facing trial since the year 2000; 
+
+</p><p id="p_218">(ii)    he is a sick person and is suffering from many diseases; 
+
+and
+
+</p><p id="p_219">(iii)   his   mother   who   is   aged   about   82   years   is   completely 
+
+dependent upon him both financially and physically.  
+
+
+
+</p><p id="p_220">6.      The aggravating circumstance on the other hand against 
+
+him  is   that   he  grossly  misused   his  position   as  a   government 
+
+servant to get something done, which he otherwise could not 
+
+have,   by   deceiving   his   own   colleagues   and   had   gone   to   the 
+
+extent of submitting forged papers to cover up his wrong doing. 
+
+
+
+</p><p id="p_221">7.      Having   weighed   all   the   options   before   me   I   am   of   the 
+
+considered opinion that though in this case there is no loss to 
+
+the exchequer of the Government in terms of money but surely 
+
+there is a question of loss of reputation for the Government as 
+
+the acts like this give an impression to the public in general that 
+
+government   servants   are   capable   of   bending   any   rule   / 
+
+procedure, if they want to. I am of the view that the acts like this 
+
+
+C.C. No. 13/11
+ should   have   a   suitably   heavy   component   of   fine   and   also   of 
+
+imprisonment   proportionate   to   the   offences   committed   taking 
+
+into consideration the minimum and the maximum punishment 
+
+provided for such offences.  
+</p>
+<p id="p_222">
+
+
+</p><p id="p_223">8.     In   the   light   of   above   discussion   I   am   sentencing   the 
+
+convict   to   undergo   rigorous   imprisonment   of   one   year   for 
+
+committing the offence punishable under <a href="/doc/1466184/" id="a_81">Section 471</a> IPC read 
+
+with   <a href="/doc/1317063/" id="a_82">Section   465</a>   IPC   and   also   pay   a   fine   of   Rs.   25,000/­ 
+
+(Rs. Twenty Five Thousand only).   I am further sentencing the 
+
+convict to undergo rigorous imprisonment of Two years under 
+
+<a href="/doc/1436241/" id="a_83">Section 420</a> IPC and to pay a fine of Rs. 25,000/­ (Rs. Twenty 
+
+Five   Thousand   only).     I   am   also   sentencing   the   convict   to 
+
+undergo   rigorous   imprisonment   of   Two   years   under   <a href="/doc/1259316/" id="a_84">Section 
+
+13(2)</a> of the Prevention of Corruption Act read with <a href="/doc/1281473/" id="a_85">Section 13(1)</a>
+
+</p><p id="p_224">(d)(ii)   of   the   Act   and   to   pay   a   fine   of   Rs.   50,000/­   (Rs.   Fifty 
+
+Thousand only). 
+</p>
+<p id="p_225">
+
+
+C.C. No. 13/11
+</p><p id="p_226"> 9.     All the sentences of imprisonment shall run concurrently. 
+
+In this case I want the convict to actually pay the overall fine of 
+
+Rs.   1,00,000/­     (   Rupees   One   Lac   only   )   which   has   been 
+
+imposed   by   this   order   and,   therefore,   I   have   purposely   not 
+
+provided any imprisonment in default of payment of fine.   I am 
+
+giving time to the convict to make the payment of the fine within 
+
+two weeks from now.  In case of his failure to pay the fine during 
+
+the   said   period,   steps   would   be   taken   for   recovery  of   fine   in 
+
+accordance   with   the   <a href="/doc/89440/" id="a_86">Section   421</a>   of   the   Code   of   Criminal 
+
+Procedure, 1973.
+</p>
+<p id="p_227">
+
+</p><p id="p_228">10.    The convict had not been arrested in this case and has not 
+
+spent   any   time   in   jail   during   the   entire   course   of   the   trial. 
+
+Therefore, there is no benefit under <a href="/doc/914361/" id="a_87">Section 428</a> Cr.P.C. needs 
+
+to be given to the convict in this case. 
+</p>
+<p id="p_229">              Ordered Accordingly.
+</p>
+<pre id="pre_4">Announced in the Open Court                          ( L. K. GAUR )
+on 16  of April, 2012                       Special Judge, <a href="/doc/1331755/" id="a_88">P.C. Act</a>  
+       th
+
+
+                                             (CBI­09), Central District, 
+                                                          Delhi.
+
+
+C.C. No. 13/11
+ C.C. No. 13/11
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

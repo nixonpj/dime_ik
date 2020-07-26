@@ -1,0 +1,1116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Uid No. 02401C0236822012 vs Sh. Narain Dass Chawla on 20 May, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/104039641/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:104039641">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1403255/">the Drugs (Control) Act, 1950</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/919304/">Section 14 in the Drugs (Control) Act, 1950</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/679372/">The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1439698/">The Part B States (Laws) Act,   1951</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/244087/">Ram Babu Agarwal vs Jay Kishan Das on 7 October, 2009</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/104039641/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/104039641/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prem%20lata">prem lata</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lata">lata</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=leave%20to%20defend">leave to defend</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20triable%20issue"> triable issue</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rent%20receipt">rent receipt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bonafide%20">bonafide </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=eviction%20petition">eviction petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=site%20plan%20not%20filed%20">site plan not filed </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2014%20%20%20filter%3A%20%20%20delhi%20rent%20control%20act">section 14   filter:   delhi rent control act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2014%281%29%28a%29">section 14(1)(a)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=u/s%2014%281%29e%20">u/s 14(1)e </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20triable%20issue%20raised">no triable issue raised</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20jeweller"> jeweller</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=name%20and%20style">name and style</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20bonafide%20requirement">no bonafide requirement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=registered%20sale%20deed">registered sale deed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=eviction%20order">eviction order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tenant%20case">tenant case</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=livelihood">livelihood</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sham">sham</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Uid No. 02401C0236822012 vs Sh. Narain Dass Chawla on 20 May, 2013</div><div class="doc_author">Author: Mr. Saurabh Laler</div>
+
+<pre id="pre_1">          IN THE COURT OF SH. SAURABH  PARTAP SINGH LALER
+                         ACJ­cum­ARC(WEST) THC, DELHI
+
+
+UID No.  02401C0236822012
+                                                E No.45/12 U/s 14(1)(e) of DRC Act
+                                                Date of institution:22.05.2012
+                                                Date of  Order: 20.05.2013
+Smt. Prem Lata Verma 
+W/o Sh. Pyare Lal Verma,
+R/o WZ­433/B, Nangal Raya, 
+New Delhi                                                                        ....... Petitioner
+
+
+                                             Versus
+Sh. Narain Dass Chawla,
+S/o Shri Tara Chand,
+R/o WZ­553/1, Nangal Raya,
+New Delhi                                                                         ......Respondent</pre>
+
+
+
+<p id="p_1">              Order deciding Leave to Defend in Eviction petition
+               U/sec. 14(1)(e) r/w Section 25­B of DRC Act, 1958
+
+</p><p id="p_2">1.      Vide this order I shall dispose of the application U/s 25­B  (4) of DRC
+
+Act of the respondent for seeking leave to defend filed on 02.07.2012.
+
+</p><p id="p_3">2.      The eviction petition U/sec. 14(1)(e) r.w. Section 25­B of the Delhi Rent
+
+Control   Act,   1958     (hereinafter   referred   to   as   DRC   Act)   was   filed   by   the
+
+petitioner against the respondent on 22.05.2012.
+
+</p><p id="p_4">3.      The submissions made in the petition are as under:­
+
+         A.That the respondent was inducted as tenant in respect of one shop
+
+        no.3  measuring 16' X 9", shown in red colour in the site plan,  situated
+
+        on the ground floor of the property bearing No. WZ­433/B Nangal Raya
+
+        New Delhi (herein after called tenanted premises). 
+
+E.No. 45/12        Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                  Page no. 1 of 19
+          B.That the respondent is old tenant and that the tenanted premises
+
+        was let out to the respondent for commercial use. 
+
+         C.That the petitioner is the owner/landlady of the premises bearing no.
+
+        WZ­433/B,   Nangal   Raya,   New   Delhi   and   the   said   property   was
+
+        purchased by the petitioner vide registered sale deed dated 29.09.06.
+
+         D.That the rate of rent is Rs. 200/­ per month excluding electricity and
+
+        other   charges   and   that   the   respondent   used   to   pay   the   rent   to   the
+
+        petitioner against rent receipt.  
+</p>
+<p id="p_5">         E.That the family of petitioner consists of herself, her husband, two
+
+        Sons and their wives and three grandchildren. 
+</p>
+<p id="p_6">         F.That the said tenanted premises is required by the petitioner for the
+
+        use and occupation for doing the business of Electronic items to be run
+
+        by   her   son   Pardeep   Kumar,   aged   36   years   as   the   said   son   of   the
+
+        petitioner is unemployed and desirous to open his business and that
+
+        he is dependent on the petitioner being his mother &amp; father who is the
+
+        owner of the premises in question and that it is the moral duty of the
+
+        petitioner to settle him.
+</p>
+<p id="p_7">         G.That the petitioner is not having any other reasonable and suitable
+
+        accommodation   except   the   tenanted   premises   and   the   tenanted
+
+        premises   is   more   suitable   for   the   business   as   it   is   located   in   a
+
+        commercial market/area.
+</p>
+<p id="p_8">         H.That the property bearing no. WZ­433/B, Nangal Raya, New Delhi
+
+        having two shops at the ground floor (private shop No. 3 &amp; 4) and also
+
+        adjoining two other shops (private no.1 &amp; 2).  That private shop no.1 is
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                  Page no. 2 of 19
+         in   the   occupation   of   another   tenant   and   private   shop   no.2   is   in
+
+        occupation of the petitioner and private shop no.3 is in occupation of
+
+        the respondent and private shop no.4 is in occupation of the husband
+
+        of the petitioner. 
+</p>
+<p id="p_9">         I.That   the   respondent   is   having   four   shops   including   the   tenanted
+
+        shop  and  respondent  is sitting   at   the   another   shop  in  the  premises
+
+        bearing no. WZ­553/1, Nangal Raya New Delhi and WZ­1058, Nangal
+
+        Raya, New Delhi and is running a kiryana shop and one shop is lying
+
+        closed and that the tenanted premises is given to some other person
+
+        namely Vijay Kumar by the respondent. 
+</p>
+<p id="p_10">     4. The respondent filed Leave to Defend along with affidavit and in the
+
+         affidavit the respondent admitted the following facts:
+
+         A.That the respondent is paying rent to the husband of petitioner and
+
+        that the husband of the petitioner is issuing rent receipts against the
+
+        paid rent.  (para (2)(f) of affidavit on page 4).   The   respondent also
+
+        relied upon the rent receipts annexed by the petitioner in this regard
+
+        and it may be noted here that the petitioner has also filed rent receipts
+
+        in which petitioner Prem Lata has been shown as the landlord and the
+
+        rent receipt is counter signed by the respondent. 
+
+         B.That the respondent is a tenant and in possession/occupation of the
+
+        suit property since 1966. (para (2)(j) of affidavit on page 5)
+
+</p><p id="p_11">5.      The  respondent  in his affidavit has raised certain  defenses  and  the
+
+same are as under:
+</p>
+<p id="p_12">         A.That the petitioner is neither the owner of the suit shop nor is the
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla              Page no. 3 of 19
+         landlord qua the respondent.  Hence, the petitioner has no locus standi
+
+        to file the present eviction petition and that the documents filed by the
+
+        petitioner   does   not   disclose   anything   as   regards   ownership   of   the
+
+        petitioner qua the tenanted premises. That  the sale deed filed by the
+
+        petitioner in order to claim the ownership of the tenanted premises has
+
+        been executed by her own husband in her favour and it is apparently a
+
+        sham   document   which   has   been   created   for   the   sake   of   seeking
+
+        eviction of the tenants and the said intention of the petitioner is clearly
+
+        visible   from   the   fact   that   the   present   petition   has   been   filed
+
+        immediately after expiry of statutory period of   5 years from the date of
+
+        sale deed.  
+</p>
+<p id="p_13">         B.That the site plan filed by the petitioner is not correct.
+
+         C.That   petitioner has let out one shop out of four shops about six
+
+        months ago to Mr. Shakir who is  running his business of selling shoes
+
+        from the said shop and as such it is apparent from the said act of the
+
+        petitioner that the petitioner has tried to create a semblance of need for
+
+        the purpose of this petition. 
+</p>
+<p id="p_14">         D.That the petitioner has deliberately concealed the material fact that
+
+        her   younger   son   namely   Mr.   Mohit   Verma   is   already   running   a
+
+        Jewelery   business   under   the   name   and   style   of   "Amar   Suhaag
+
+        Jewelers" from one of the four shops. Similarly, the elder son namely
+
+        Mr. Pardeep Kumar is also running his jewelery business from one of
+
+        the said shops under the name and style of "M/s. Paras Chandi Ghar".
+
+         E.That son of the petitioner, Mr. Pradeep Kumar is living separately
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla            Page no. 4 of 19
+         with his family.   Thus, the petitioner owe no   responsibility of settling
+
+        him. 
+</p>
+<p id="p_15">         F.That the business premises available with the petitioner and for her
+
+        family are more than sufficient.  
+</p>
+<p id="p_16">         G.That the business which is being carried out by the respondent from
+
+        the   property   in   question   is   the   sole   source   of   income   for   the
+
+        respondent and respondent is dependent on the income from the said
+
+        business. 
+</p>
+<p id="p_17">6.      The petitioner has filed a reply to the application for Leave to Defend
+
+along with counter affidavit and in the counter affidavit she has  denied the
+
+defenses taken by the respondent and has categorically denied that the elder
+
+son of the petitioner namely Pardeep Kumar is running a business from one
+
+of the shops under the name and style of 'M/s. Paras Chandi Ghar".  It has
+
+been submitted by the petitioner that she is the proprietor of M/s Amar Suhag
+
+Jewelers and that his husband is the proprietor of M/s Paras Chandi Ghar.
+
+</p><p id="p_18">7.      Arguments were heard 12.03.2013 and 02.04.2013 on the application
+
+under consideration on behalf of both the parties. Record perused.
+
+</p><p id="p_19">8.      In order to succeed in a petition for eviction filed under <a href="/doc/1925530/" id="a_1">section 14(1)(e)</a>
+
+of the Delhi rent <a href="/doc/1403255/" id="a_2">Control Act</a> the petitioner must establish that:
+
+</p><blockquote id="blockquote_1">                                         i.He is the owner and landlord in respect of
+
+                                         the tenanted premises.
+</blockquote>
+<blockquote id="blockquote_2">                                         ii.That he requires the premises bonafide for
+
+                                         himself or for any member of his family
+
+                                         dependent upon him.
+</blockquote>
+
+<p id="p_20">E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla            Page no. 5 of 19
+                                          iii.That he has no other reasonably suitable
+
+                                         accommodation
+
+</p><p id="p_21">9.      The scope of the section has been enlarged in view of the judgment of
+
+the Hon'ble Supreme Court titled as "<a href="/doc/1703207/" id="a_3">Satyawati Sharma v. Union of India</a>"
+
+AIR   2008   SUPREME   COURT   3148  so   as   to   include   premises   let   out   for
+
+commercial   purposes   also   within   the   scope   and   ambit   of   a   petition   under
+
+section 14(1)(e) of DRC Act. 
+</p>
+<p id="p_22">10.     The defences taken by respondent are discussed below and the same
+
+are as under:­
+
+     
+ 1      Petitioner is not the owner of the tenanted premises
+                                                            
+
+         1.1 The respondent has contended that the petitioner is not the owner
+
+        of the tenanted premises however at the same time the respondent
+
+        has   not   denied   the   execution   of   sale   deed   dated   29.09.06   by   the
+
+        husband of the petitioner in her favour.   The respondent has merely
+
+        submitted   that   the   said   registered   Sale   Deed   is   a   sham   document
+
+        which has been fabricated by the petitioner in order to evict tenants in
+
+        the premises. 
+</p>
+<p id="p_23">         1.2 In rent control legislation, the landlord can be said to be owner, if
+
+        he is entitled in his own legal right, as distinguished from for and on
+
+        behalf of someone else, to evict the tenant and then to retain, control,
+
+        hold and use the premises for himself.
+</p>
+<p id="p_24">         1.3 In M.M.Quasim Vs Manohar Lal Sharma (1981) 3 SCC 36 it was
+        observed   by   the   Apex   Court   that   an   "owner­landlord"     can   seek
+
+        eviction on the ground of his personal requirement is one who has a
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla              Page no. 6 of 19
+         right against the whole world to occupy the building in his own right
+
+        and exclude anyone holding a title lesser than his own. 
+
+         1.4 It   was   observed   in  Shanti   Sharma   Vs   Smt   Ved   Prabha   AIR
+        1987   SC   2028  that   the   term   "owner"   has   to   be   understood   in   the
+
+        context of the background of the law and what is contemplated in the
+
+        scheme  of  the   Act.  <a href="/doc/1403255/" id="a_4">The  Act</a> has been   enacted  for protection  of the
+
+        tenants. But, at the same time, it has provided that the landlord under
+
+        certain   circumstances   will   be   entitled   to   eviction   and   bona   fide
+
+        requirement   is   one   of   such   grounds.   Ordinarily,   the   concept   of   the
+
+        ownership may be absolute ownership in the land as well as of the
+
+        structure standing thereon. But in the modern context, where all lands
+
+        belong   to   the   State,   the   persons   who   hold   properties   will   only   be
+
+        lessees   or   the   persons   holding   the   land   on   some   term   from   the
+
+        Government or the authorities constituted by the State. The legislature,
+
+        when it used the term "owner" in<a href="/doc/919304/" id="a_5"> s. 14(1)(e)</a>, did not think of ownership
+
+        as absolute ownership.  The meaning of the term "owner" is vis­a­
+
+        vis the tenant i.e. the owner should be something more than the
+
+        tenant. In cases where the plot of land is taken on lease, the structure
+
+        is built by the landlord and he is the owner of the structure. 
+
+         1.5 In  Sushil   Kanta   Chakravarty   Vs   Rajeshwar   Kumar   2000   (2)
+
+        RCR Rent 4  it was observed that where there was an agreement to
+
+        sell and so also a power of attorney in favour of the purchaser landlord
+
+        and   he   had   been   given   possession   by   virtue   of   the   said   power   of
+
+        attorney, it was held that he could maintain a petition for eviction.
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                Page no. 7 of 19
+          1.6 Coming   to   the   facts   of   the   present   case,   the   respondent   has
+
+        himself   admitted   that   he   was   a   tenant   under   the   landlordship   of
+
+        husband   of   petitioner   since   1966   from   which   an   inference   can   be
+
+        drawn that the husband of the petitioner was the owner of the tenanted
+
+        premises.  The husband of the petitioner sold a portion of the property
+
+        including the tenanted premises to the petitioner on 29.09.06 vide a
+
+        registered   Sale   Deed   for   which   proper   stamp   duty   and   other   taxes
+
+        were paid by the petitioner and therefore merely because there is a
+
+        sale   transaction   between   the   petitioner   and   her   husband   does   not
+
+        mean that the said transaction is a sham transaction or a transaction
+
+        without consideration. Moreover, the submission of the respondent that
+
+        the petitioner has fabricated the sale deed in order to evict the tenant
+
+        does not hold force because even in the absence of the sale deed the
+
+        husband of the petitioner could have filed an eviction petition against
+
+        the respondent for settling his son Mr. Pardeep Kumar.
+
+         1.7   As regards landlordship, the respondent has himself relied upon
+
+        rent   receipts   filed   by   the   petitioner   and   the   petitioner   has   filed   rent
+
+        receipts in which earlier the husband of the petitioner was shown as
+
+        landlord   and   later   the   petitioner   was   shown   as   landlord   and   these
+
+        receipts do bear the counter signatures of the respondent.  
+
+         1.8 Thus, the Court is of the opinion that the respondent has failed to
+
+        raise any triable issue both as regards the ownership of the tenanted
+
+        premises   (in   view   of   the   registered   sale   deed)   and   as   regards   the
+
+        landlordship of the tenanted premises (in view of the rent receipts duly
+
+
+E.No. 45/12        Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                    Page no. 8 of 19
+         signed   by   the   respondent   and   bearing   the   name   of   petitioner   as
+
+        landlord). 
+</p>
+<p id="p_25">         1.9 Thus, this defence raised by the respondent does not raise any
+
+        triable issue.
+</p>
+<p id="p_26">   Site plan filed by the petitioner is not correct.
+<span class="hidden_text" id="span_1"> 2                                                  </span>
+
+</p><p id="p_27">         2.1 In leave to defend, respondent has taken objection that the site
+
+        plan of the tenanted premises is not correct.  However, no reason has
+
+        been assigned by the respondent  in the application as to how the site
+
+        plan filed by the petitioner is incorrect.  
+</p>
+<p id="p_28">         2.2 On   the   other   hand,   the   contention   of   petitioner   is   that   since
+
+        respondent has not filed any contrary site plan showing the details of
+
+        tenanted   premises   thus,   the   plea   of   the   respondent   as   regards  site
+
+        plan of petitioner is vague and baseless.  
+</p>
+<p id="p_29">         2.3 In this regard, reliance can be placed on judgment titled as V. S.
+
+        Sachdeva   Vs.   M.   L.   Grover,   67   (1997)   DLT   737,   wherein   Hon'ble
+
+        Delhi High Court has observed as under:
+</p>
+<p id="p_30">                         "if, the tenant failed to file any site plan, then the site plan filed
+
+                         by the landlord should be accepted"
+</p>
+<p id="p_31">         2.5 In the absence of any contrary site plan of the respondent, plea of
+
+        the respondent is rejected being bald averment without any substance.
+
+        Moreover,   there   is   no   dispute   between   the   parties   as   regards   the
+
+        tenanted   premises   and   as   regards   tenancy.   Rather   it   has   been
+
+        submitted by the respondent himself that he is in possession of the
+
+        tenanted premises since 1966. Further it has not been stated by the
+
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                Page no. 9 of 19
+         respondent in leave to defend as to how the site plan is incorrect.
+
+         2.6 An issue was also raised by the respondent that the shop no. 3 is
+
+        not in his occupation and the shop number has wrongly mentioned by
+
+        the petitioner.  It may be noted here that the shop number as stated in
+
+        the petition is not the municipal number provided to the shop by the
+
+        concerned authority and as the site plan qua the location of the shop is
+
+        not disputed,  hence, the site plan fled by the petitioner aptly describes
+
+        the property under the tenancy of the respondent.
+
+         2.7 Thus, this defence raised by the respondent does not raise any
+
+        triable issue as the tenanted premises is identifiable from the site plan
+
+        filed by the petitioner.  
+</p>
+<p id="p_32">   Bonafide Requirement
+<span class="hidden_text" id="span_2"> 3                     </span>
+
+         3.1 Respondent   has   challenged   the   bonafide   requirement   of   the
+        petitioner   on   the   ground   that   Mr.   Pardeep   Kumar,   elder   son   of   the
+
+        petitioner  is already running   a shop  under  the  name  &amp; style  of M/s
+
+        Paras Chandi Ghar and further that about six months before the filing
+
+        of application under consideration, the petitioner had let out one of the
+
+        four shops to one Mr. Shakir who is running the business of selling
+
+        shoes in the said shop.
+</p>
+<p id="p_33">         3.2 The petitioner on the other hand submitted that the tenancy of Mr.
+
+        Shakir is very old and that it has been indicated in the site plan that
+
+        one of the four shops is occupied by another tenant.   The petitioner
+
+        also submitted that as the shop in the possession of Shakir is owned
+
+        by her husband,  therefore, the fact that the said shop has been let out
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla               Page no. 10 of 19
+         to   Mr.   Shakir   cannot   be   considered   in   the   present   petition.     The
+
+        petitioner also submitted that she herself is the proprietor of M/s Amar
+
+        Suhag Jewelers and that her husband is the proprietor of M/s Paras
+
+        Chandi Ghar and in this respect the petitioner also filed on record her
+
+        income tax return wherein she has been shown as proprietor of M/s
+
+        Amar   Suhag   Jewelers   and   the   income   tax   returns   of   her   husband
+
+        wherein   her   husband   has   been   shown   as   proprietor   of   M/s   Paras
+
+        Chandi Ghar.
+</p>
+<p id="p_34">         3.3   On the other hand, respondent has failed to file any document to
+
+        show that Pardeep Kumar, elder son of the petitioner is running the
+
+        shop in the name &amp; style of M/s Paras Chandi Ghar. 
+</p>
+<p id="p_35">         3.4 By merely stating that the son of the petitioner is running a shop,
+        the   respondent   cannot   obtain   leave   to   defend   because   if   leave   to
+
+        defend is permitted on mere assertion than in every such case tenant
+
+        would state in his leave to defend that the son of the landlord/landlady
+
+        is either running a business or is employed somewhere and drawing
+
+        handsome salary and thereby obtain leave to defend.   However, this
+
+        was not the  intent of  legislature  while  incorporating  <a href="/doc/1403255/" id="a_6">Section  25</a>­B of
+
+        DRC   Act   as   allowing   leave   to   defends   on   mere   assertions   would
+
+        frustrate the very object of <a href="/doc/1403255/" id="a_7">Section 25</a>­B DRC Act. In this context it has
+
+        been observed in para 13 of the judgment titled  Inderjeet Kaur Vs
+
+        Nirpal Singh 2001(1) RCR Rent 33 that
+
+                                          "..   A   leave   to   defend   sought   for   cannot   also   be
+                                 granted   for   mere   asking   or   in  a   routine   manner   which   will
+                                 defeat the very object of the special provisions contained in
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                          Page no. 11 of 19
+                                 Chapter IIIA of the Act.." 
+</p>
+<p id="p_36">         3.6  It has also been observed in judgment titled as Rajender Kumar
+
+        Sharma &amp; Ors. Vs. Leela Wati &amp; Ors. 155 (2008) DLT 383 by Hon'ble
+
+        Delhi High Court as under:
+</p>
+<blockquote id="blockquote_3">                       "<a href="/doc/1439698/" id="a_8">Section   25</a>   B   was   inserted   by   the   Legislature   in   <a href="/doc/679372/" id="a_9">Delhi   Rent
+                       Control Act</a> as a special provision for eviction of the tenants in
+                       respect of specified category of cases as provided therein. Where
+                       a landlord seeks eviction on the basis of  bona fide  necessity, a
+                       summary procedure is provided and tenant has to seek leave to
+                       defend disclosing such facts which disentitled the landlord from
+                       seeking   eviction.   Where   a   tenant   pleads,   in   leave   to   defend
+                       preposterous prepositions and makes such averments which are
+                       palpably  false and the landlord in  his  reply affidavit to leave  to
+                       defend is able to show to the ARC that all facts stated in leave to
+                       defend,   were   palpably   false,   ARC   is   not   precluded   from
+                       considering   the   falsity   of   such   facts   on   the   basis   of   material
+                       placed by  the landlord  before  it.   If the tenant in  its leave  to
+                       defend  pleads that landlord was owner of another premises
+                       with which landlord had nothing to do, mere filing of affidavit
+                       is not sufficient.  The tenant has to place before the learned
+                       ARC   such   documents   which   show   that   the   landlord   was
+                       owner of that premises.   If no such document is placed on
+                       record   by   the   tenant,   the   learned   ARC   is   not   required   to
+                       consider the ownership of the landlord of such a premises.
+                       If the leave is granted on mere assertions that landlord was
+                       owner of the premises, of which he is not, then in every case
+                       the tenant would get leave by just naming any premises with
+                       which landlord has no concern" 
+</blockquote>
+<p id="p_37">         3.7 Thus,   in   absence   of   any   supporting   documents,   this   defence
+
+        raised by the respondent does not raise any triable issue.
+
+         3.8 It has also been alleged by the respondent in the leave to defend,
+        Pardeep Kumar, elder son of the petitioner is living separately and that
+
+        the petitioner has no responsibility of settling him.  However, the Court
+
+        is of the different opinion in this regard.   In a recent judgment it has
+
+E.No. 45/12      Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                       Page no. 12 of 19
+         been observed by our own High Court that it is the moral duty of a
+
+        father to help establish his son. The relevant portion of the judgment
+
+        titled  Pawan  Kumar   Vs   Sant   Lal   R.C.Rev   303/2012   decided   on
+
+        6.8.2012 by Honorable Mr Justice M.L.Mehta is as under:­
+
+              "16. Further, submissions of learned counsel for the petitioner that Dr. Ankit
+              was not financially dependent upon his father and so the tenanted premises
+              could not be got vacated for his requirement, is also only noted for rejection. It
+              is trite that the landlord is entitled to help his son, establish his business.  In
+              Labhu Lal Vs. Sandhya Gupta 2011(1) RCR,(Rent) 231 (Delhi), it has been
+              held by this Court that the children are very much dependant on the landlord
+              for   the   purpose   of   setting   up   their   business   and   such   a   requirement   is   a
+              bonafide   one.  The   right   of   the   landlord   for   possession   of   his   property   for
+              setting up a business for his son has been also recognized by the Apex Court
+              in Ram Babu Aggarwal Vs. Jay Kishan Das 2009(2) RCR 455.  The moral
+              duty of a father to help establish his son  was also recognized by the Apex
+              Court in Joginder Pal Singh Vs. Naval Kishore Behal AIR 2002 SC 2256 in
+              the following words:
+</p><blockquote id="blockquote_4">                          "24........Keeping   in   view   the   social   or   socio­religious   milieu   and
+                          practices prevalent in a particular section of society or a particular
+                          region,   to   which   the   landlord   belongs,  it   may   be   obligation   of   the
+                          landlord to settle a person closely connected with him to make him
+                          economically   independent   so   as   to   support   himself   and/or   the
+                          landlord. To discharge such obligation the landlord may require the
+                          tenancy premises and such requirement would be the requirement of
+                          the landlord. If the requirement is of actual user of the premises by a
+                          person   other   than   the   landlord   himself   the   Court   shall   with
+                          circumspection inquire : (i) whether the requirement of such person
+                          can   be   considered   to   be   the   requirement   of   the   landlord,   and   (ii)
+                          whether there is a close inter­relation or identify nexus between such
+                          person and the landlord so as to satisfy the requirement of the first
+                          query. Applying the overlaid tests to the facts of the present case it is
+                          clear   that   the   tenancy   premises   are   required   for   the   office   of   the
+                          landlord's son who is a chartered accountant. It is the moral obligation
+                          of the landlord to settle his son well in his life and to contribute his
+                          best to see him economically independent."
+</blockquote>
+<p id="p_38">         3.9 In the opinion of the court, the said judgment equally applies to a
+
+        mother who is capable and willing to settle her son.
+
+
+
+E.No. 45/12      Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                               Page no. 13 of 19
+          3.10  It may be noted that in Joginder Pal Singh Vs. Naval Kishore
+        Behal AIR 2002 SC 2256  (as referred to in aforesaid judgment) the
+
+        situation was similar to the present case, as in the said case before the
+
+        Apex court the landlord had filed eviction petition for the office of his
+
+        son   who   was   a   chartered   accountant   who   was   residing   with   him.
+
+        Honorable Mr. Justice R.C. Lahoti observed in the said judgment that
+
+        such a requirement of the landlord is a genuine requirement . In the
+
+        said case the Apex Court evicted the tenant from the premises for the
+
+        said requirement of the landlord.
+</p>
+<p id="p_39">         3.11 The   present   case   is   similar   to   the   case   of  Joginder   Singh
+        (supra)  as in the present case the tenanted premises is required by
+
+        the landlord petitioner for the business of her son Pardeep Kumar, who
+
+        wants to start a business of electronic items in the tenanted premises. 
+
+         3.12 As regards experience for starting a business, in the judgment
+        tiled   as  <a href="/doc/244087/" id="a_10">Ram   Babu   Aggarwarl   v.   Jay   Kishan   Das</a>  2009(4)   R.C.R.
+
+        (Civil) 748 (SC), the Hon'ble Supreme Court observed as under;
+
+</p><blockquote id="blockquote_5">                        ".......6. However, as regards the question of bonafide need, we find
+                        that the main ground for rejecting the landlord's petition for eviction
+                        was that in the petition the landlord had alleged that he required the
+                        premises for his son Giriraj who wanted to do footwear business in
+                        the   premises   in   question.  The   High   Court   has   held   that   since
+                        Giriraj has no experience in the footwear business and was only
+                        helping   his   father   in   the   cloth   business,   hence   there   was   no
+                        bonafide need. We are of the opinion that a person can start a
+                        new business even if he has no experience in the new business.</blockquote><p id="p_40">
+</p><p id="p_41">                        That does not mean that his claim for starting the new business
+                        must   be  rejected  on  the   ground  that   it  is   a  false   claim.   Many
+                        people start new businesses even if they do not have experience
+                        in the new business, and sometimes they are successful in the
+
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                      Page no. 14 of 19
+                          new business also...." (emphasis supplied)
+
+         3.13  In the said judgment the Apex Court has observed to the extent
+
+        that   requirement   of   landlord   for   setting   up   his   son   who   has   no
+
+        experience   in   business   is   a   bona   fide   requirement.     Thus,   it   is   no
+
+        defence that the petitioner's son has no experience in the business of
+
+        electronic items.
+</p>
+<p id="p_42">         3.14  Every parent wants to settle his/her children in the best possible
+        manner and if the petitioner has found it proper to help her son to start
+
+        her business at the tenanted premises, then it would not be proper for
+
+        the court to interfere in such decision of the petitioner, as the petitioner
+
+        is the best judge of her own requirements and that of the requirements
+
+        of her family including her son.
+</p>
+<p id="p_43">         3.15 In   the   judgment   titled   as  <a href="/doc/89832867/" id="a_11">Ragavendra   Kumar   v.   Firm   Prem
+        Machinary</a>   reported   as   AIR   2000   SUPREME   COURT   534  the
+
+        Hon'ble Supreme Court held that it is settled position of law that the
+
+        landlord   is  best   judge   of   his  requirement   for   residential   or   business
+
+        purpose and he has got complete freedom in the matter. Reference be
+
+        made to Prativa Devi Vs T.V. Krishnan (1996) 5 SCC 353.
+
+         3.16 In the judgment tiled as "<a href="/doc/73077085/" id="a_12">Sarla Ahuja v. United India Insurance
+        Co. Ltd</a>." AIR 1999 SUPREME COURT 100 it was held:
+</p>
+<blockquote id="blockquote_6">                "..The crux of the ground envisaged in clause (e) of <a href="/doc/919304/" id="a_13">Section 14(1)</a> of the Act is
+                        that the  requirement of the landlord for occupation of the tenanted
+                        premises must be bona fide. When a landlord asserts that he requires
+                        his   building   for   his   own   occupation   the   Rent   Controller   shall   not
+                        proceed on the presumption that  the  requirement  is not bona fide.</blockquote><p id="p_44">
+</p><p id="p_45">                        When   other   conditions   of   the   clause   are   satisfied   and   when   the
+                        landlord shows a prima facie case it is open to the Rent Controller to
+
+E.No. 45/12        Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                         Page no. 15 of 19
+                          draw a presumption that the requirement of the landlord is bona fide.
+                         It is often said by Courts that it is not for the tenant to dictate terms to
+                         the   landlord   as   to   how   else   he   can   adjust   himself   without   getting
+                         possession of the tenanted premises. While deciding the question of
+                         bona fides of the requirement of the landlord it is quite unnecessary to
+                         make an endeavour as to how else the landlord could have adjusted
+                         himself...." (emphasis supplied)
+
+         3.17 Thus, this defence raised by the respondent as regards bonafide
+
+        requirement does not raise any triable issue.
+</p>
+<p id="p_46">      That the business premises available with the petitioner and for her
+<span class="hidden_text" id="span_3"> 4                                                                        </span>
+
+family are more than sufficient.  
+</p>
+<p id="p_47">         4.1 Respondent   contended   that   petitioner   is   having   sufficient
+
+        commercial   premises   for   her   need   and   the   need   of   her   family
+
+        members.  However, the respondent has not referred or specified any
+
+        other property except the four shops shown in the site plan filed by the
+
+        petitioner herself.  
+</p>
+<p id="p_48">         4.2 The respondent has also admitted that out of four shops one shop
+
+        is in his possession and one shop is in possession of the other tenant.
+
+        As   regards   the   remaining   two   shops,   the   petitioner   is   running   her
+
+        business in the name and style of M/s Amar Suhag jewelers from one
+
+        shop and  the husband of the petitioner is running his business in the
+
+        name and style of M/s Paras Chandi Ghar in the other shop. Thus,
+
+        admittedly there is no vacant commercial premises in the possession
+
+        of   the   petitioner   from   which   the   son   of   the   petitioner   may   start   his
+
+        business in electronic items. 
+</p>
+<p id="p_49">         4.3 It is not expected of the Court to ask the petitioner to either close
+
+        her own business or to ask her husband to close his business so as to
+
+
+E.No. 45/12        Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                           Page no. 16 of 19
+         provide   space   to   her   son   to   start   the   business   of   electronic   items,
+
+        despite being the owner of the tenanted premises in possession of the
+
+        tenant/respondent.
+</p>
+<p id="p_50">        Thus, this defence raised by the respondent is a sham defense and it
+
+        does not raise any triable issue.
+</p>
+<p id="p_51">   Tenanted
+ 5            premises   is   the   only   accommodation   available   with   the 
+
+respondent to carry out his business and to earn his livelihood:­
+
+         5.1 The respondent has taken the defence that he is doing commercial
+
+        activity   in   the   tenanted   premises   and   that   it   is   the   only   means   of
+
+        livelihood for the tenant.
+</p>
+<p id="p_52">         5.2 In the opinion of the court,  the said defence has no relevance to
+
+        the issue at hand as it is not the livelihood of the tenant which is to be
+
+        looked into by the court in these proceedings, rather, the court is to
+
+        look   into   whether   the   tenant   has   disclosed   some   facts   which   may
+
+        disentitle   the   landlord   from   obtaining   an   order   for   recovery   of
+
+        possession. 
+</p>
+<p id="p_53">         5.3 The   fact   that   the   tenanted   premises   is   the   only   source   of
+        livelihood   of   respondent   does   not   render   the   landlord/petitioner
+
+        disentitled to eviction of respondent from the tenanted premises. There
+
+        is no provision in the DRC Act to evaluate the comparative hardships
+
+        and comparative need between the landlord and tenant for deciding
+
+        eviction petition. (Harbhajan Dass Vs Tilak Raj Mehta 1980 RCJ 780
+
+        Delhi) 
+
+         5.4 Thus, this defence raised by the respondent does not raise any
+
+
+E.No. 45/12        Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                Page no. 17 of 19
+         triable issue.
+</p>
+<p id="p_54">Conclusion
+
+</p><p id="p_55">11.     It is well settled that leave to defend is granted to the tenant in case
+
+any triable issue is raised by him, which can be adjudicated by consideration
+
+of   additional   evidence.   The   mere  existence   of   any   triable   issue   is   not
+
+sufficient. The nature of the triable issue raised by the tenant  must be such
+
+that it will disentitle the landlord from obtaining the eviction order.
+
+</p><p id="p_56">12.     In the judgment titled as Sarwan Dass Bange Vs. Ram Prakash 167
+
+(2010) DLT 80  the Hon'ble High Court of Delhi referring to the judgment of
+
+<a href="/doc/1977447/" id="a_14">Baldev Singh Bajwa v. Monish Saini</a> (2005) 12 SCC 778 observed in para
+
+17 as under:
+</p>
+<blockquote id="blockquote_7">                         "..It was held that the legislative intent is of expeditious disposal of the
+                         application for ejectment of tenant filed on the ground of requirement
+                         by   the   landlord   of   the   premises   for   his   own   occupation;   a   special
+                         category of  landlords requiring the premises for their own use has
+                         been  created;   if there   is any  breach  by  the   landlord,   the  tenant   is
+                         given a right of restoration of possession; the landlord who evicts a
+                         tenant on the ground of own requirement is not only prohibited from
+                         letting out the premises or disposing of the same but also required to
+                         use   the   same   for   his   own   residence   only.   It   was   held   that   these
+                         restrictions and conditions inculcate in built strong presumption that
+                         the need of the landlord is genuine; the conditions and restrictions
+                         imposed on the landlord make it virtually improbable for the landlord
+                         to approach the Court for ejectment of tenant unless his need is bona
+                         fide ­ no unscrupulous landlord in all probability, under this Section,
+                         would approach the Court for ejectment of the tenant considering the
+                         onerous conditions imposed on him.  It was further held that this
+                         inbuilt   protection   in   the   Act   for   the   tenants   implies   that
+                         whenever   the   landlord   would   approach   the   court   his
+                         requirement shall be presumed to be genuine and bona fide. It
+                         was further held that a heavy burden lies on the tenant to prove
+                         that the requirement is not genuine.." (emphasis supplied)
+
+</blockquote><p id="p_57">13.     The whole purpose and import of summary procedure under Section
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla                            Page no. 18 of 19
+ 25B of the Act would otherwise be defeated. The prayer for leave to contest
+
+should   be   granted   to   the  tenant  only  where  a  prima   facie  case  has  been
+
+disclosed by him. In the absence of the tenant having disclosed a prima facie
+
+case i.e. such facts which disentitles the landlord from obtaining an order of
+
+eviction, the Court cannot mechanically and in routine manner grant leave to
+
+defend.
+</p>
+<p id="p_58">14.     In the light of the aforesaid legal proposition, all the pleas taken by the
+
+respondent   have   failed   to   raise   any   triable   issues.   The   contents   of   the
+
+application   for   leave   to   defend   have   failed   to   rebut   the   presumption   of
+
+bonafide  qua the requirement of the  petitioner.  The application for leave to
+
+defend filed by the respondent is thus rejected.
+
+</p><p id="p_59">15.     As a consequence thereof, an eviction order is passed U/s. 14 (1)
+
+</p><p id="p_60">(e), DRC Act against the respondent  regarding the tenanted premises
+
+i.e.  one  shop measuring 16'  X 9" situated  on the ground floor  of the
+
+property bearing No. WZ­433/B Nangal Raya New Delhi  as shown in red
+
+in the site plan filed by the petitioner.
+</p>
+<p id="p_61">16.     However in light of <a href="/doc/919304/" id="a_15">Section 14</a> (7) DRCA, the aforesaid eviction order
+
+shall not be executable for a period of six months from today.
+
+</p><p id="p_62">17.The parties are left to bear their own costs.
+</p>
+<p id="p_63">18.File be consigned to Record Room after due compliance.
+
+
+
+Announced in the open Court
+          th
+on this 20  of May 2013
+                                                  (Saurabh Partap Singh Laler) 
+                                                  ACJ/ARC(West)/20.05.2013
+
+E.No. 45/12       Smt. Prem Lata Verma Vs. Sh. Narain Dass Chawla             Page no. 19 of 19
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

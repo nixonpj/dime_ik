@@ -1,0 +1,640 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S Delhi Transport Corporation vs Its Workman on 10 January, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/186105263/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/500379/">The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1774629/">Section 33 in The Industrial Disputes Act,   1947</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/186105263/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/186105263/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=standing%20orders">standing orders</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=leave%20without%20pay">leave without pay</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=habitual%20absence%20">habitual absence </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20transport">delhi transport</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sanction%20of%20leave">sanction of leave</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=depot%20manager">depot manager</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sunder%20singh">sunder singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=135">135</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dtc">dtc</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">M/S Delhi Transport Corporation vs Its Workman on 10 January, 2007</div><div class="doc_author">Author: Sh. Dinesh Dayal</div>
+
+<pre id="pre_1">                                   1           O.P. No. 396/1992
+
+         IN THE COURT OF SH. DINESH DAYAL
+      PRESIDING OFFICER INDUSTRIAL TRIBUNAL II,
+           KARKARDOOMA COURTS, DELHI
+
+
+O.P. No. 396/1992
+
+IN THE MATTER OF
+
+M/s Delhi Transport Corporation,
+Indraprastha Estate, New Delhi
+                                       ...Applicant/Managem
+ent
+
+                           Versus
+
+Its workman
+Sh. Sunder Singh
+Conductor Badge No. 18252,
+Token No. 38601, Hari Nagar ,
+Depot II, Delhi
+                                       ...Respondent
+/Workman
+
+ORDER
+</pre>
+
+<p id="p_1">1.       The respondent was employed as a conductor with
+
+the management . It is alleged against him that he availed 152
+
+days leave without pay during the period from January 1991 to
+
+November 1991 and out of 152 days he did not submit any
+<span class="hidden_text" id="span_1">                                    2             O.P. No. 396/1992</span>
+
+leave applications for 135 days.
+</p>
+<p id="p_2">
+
+</p><p id="p_3">2.        According to the management this amount to
+
+misconduct within the meaning of Para 4 (2) and 19 (h) &amp; (m) of
+
+the Standing orders governing the conduct of the DTC
+
+employees.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">3.        A charge sheet was issued to the respondent and
+
+then a detailed oral enquiry was conducted . The respondent
+
+was given full opportunity to defend his case.       The Depot
+
+Manager to whom the disciplinary authority were delegated ,
+
+issued a show cause notice dated 25.06.92 to the respondent
+
+asking him to show cause as to why he should not be removed
+
+from service.   The respondent submitted the reply but it was
+
+not found convincing . Therefore , the disciplinary authority
+
+removed the respondent from service vide order dated
+
+31.08.92. On the same day one month's wages were remitted
+
+to the respondent by way of money order and the present
+<span class="hidden_text" id="span_2">                                    3            O.P. No. 396/1992</span>
+
+application under section 33 (2) (b) of the <a href="/doc/500379/" id="a_1">Industrial Disputes
+
+Act</a> was filed by the management for seeking approval of its
+
+action.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">4.        The respondent filed the Written Statement alleging
+
+therein that he was appointed by the General Manager of the
+
+petitioner/applicant and as such the Depot Manager was not
+
+empowered to act as disciplinary authority . He availed leave
+
+without pay and, therefore, did not commit any irregularity or
+
+misconduct. The enquiry officer did not correctly recorded the
+
+proceedings. Full one month's wages were not remitted along
+
+with the order of removal from service.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">5.        On these allegations of the parties , a preliminary
+
+issue was framed on 13.09.93 in the following manner:-
+
+</p><p id="p_10">          Whether the applicant held a legal and valid
+
+enquiry against      the   respondent     according      to   the
+
+principles of natural justice?
+</p><span class="hidden_text" id="span_3">                                     4            O.P. No. 396/1992</span><p id="p_11">
+
+
+
+
+</p><p id="p_12">6.        Following additional issues were framed ;-
+
+</p><blockquote id="blockquote_1">          (i)       Whether the respondent committed the
+
+                    misconduct for which he was charge
+
+          sheeted ?
+</blockquote>
+<blockquote id="blockquote_2">          (ii)      Relief
+
+
+
+</blockquote><blockquote id="blockquote_3">7.        The management was afforded an opportunity to lead
+
+its evidence on misconduct.
+
+
+
+</blockquote><p id="p_13">8.        By an order dated 18.11.99 my Learned Predecessor
+
+held that the management had remitted one month's full wages
+
+by way of money order to the respondent on the day of his
+
+removal from service . It was held that the Depot Manager was
+
+competent to issue the order of removal of workman from
+
+service . However my Learned Predecessor found that since
+
+the period of absence has been treated as leave without pay , it
+
+did not amount to any misconduct.
+</p><span class="hidden_text" id="span_4">                                     5                O.P. No. 396/1992</span><p id="p_14">
+
+
+
+
+</p><p id="p_15">9.        The    management      challenged    the    order    dated
+
+18.11.99 by way of writ petition bearing no. 7215/00 in the
+
+Hon'ble High Court.    The Hon'ble High Court vide order dated
+
+02.09.05 accepted the writ petition and remanded the case
+
+back to this Tribunal with the directions to decide the matter in
+
+accordance with the law as laid down in the case titled as DTC
+
+Vs. Sardar Singh reported as AIR 2004 SC 4161 after giving
+
+opportunity to the parties as per law.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">10.       After the remand of the case , opportunity was given
+
+to the parties to lead evidence as directed by the Hon'ble High
+
+Court.
+</p>
+<p id="p_18">
+
+</p><p id="p_19">11.       Workman/Respondent             Sunder Singh examined
+
+himself in support of his case as RW1.        He admitted that he
+
+did not attend his duties for 152 days from January 1991 to
+
+November 1991 . He however has submitted that he had sent
+<span class="hidden_text" id="span_5">                                    6              O.P. No. 396/1992</span>
+
+applications for leave for his sickness and the sickness of his
+
+wife . He denied that no applications had been sent for 135
+
+days . He also stated that he did not know if his applications for
+
+17 days were rejected because it was submitted late.       He also
+
+submitted that he has not performed his duties for 163 days
+
+during the year 1990 and he has denied that he has not sent
+
+the leave applications for 154 days.     He admitted that during
+
+the year 1988 he had remained absent for 63 days with effect
+
+from January to June 1988 for which he was punished with
+
+stoppage of next due two increments without cumulative effect .
+
+He has also admitted that he again remained absent from
+
+13.10.88 to 28.11.88 for which , he was again punished with
+
+stoppage of next two increments with cumulative effect .
+
+
+
+</p><p id="p_20">12.       I have heard the Learned Authorized Representative
+
+for the management.       I have also gone through the written
+
+submissions filed on behalf of workman.
+<span class="hidden_text" id="span_6">                                    7              O.P. No. 396/1992</span>
+
+</p><p id="p_21">13.        From the evidence of Sh. Sunder Singh RW1 , it
+
+stands proved that he did not attended his duties for 152 days
+
+for the period of January 1991 to November 1991 . He has
+
+alleged that he had sent applications for all the 152 days of his
+
+absence.     However the record produced on behalf of the
+
+management shows that no applications was received for 135
+
+days and application received for 17 days were rejected as they
+
+were submitted late.     The workman has failed to prove his
+
+contention that he had sent applications for leave for all the 152
+
+days along with medical certificates.
+</p>
+<p id="p_22">
+
+</p><p id="p_23">14.      In the case of DTC Vs. Sardar Singh reported
+
+as AIR 2004 SC 4161          it has been held that "When an
+
+employee absents       himself from      duty, even      without
+
+sanctioned leave for very long period, it prima facie shows
+
+lack of interest in work . Para 19(h) of the Standing Order
+
+as quoted above relates to habitual negligence of duties
+
+and lack of interest in the Authority's work . When an
+<span class="hidden_text" id="span_7">                                 8              O.P. No. 396/1992</span>
+
+employee absents himself, from duty without sanctioned
+
+leave the Authority can , on the basis of the record, come
+
+to a conclusion about the employee being habitually
+
+negligent in duties and an exhibited lack of interest in the
+
+employer's work . Ample material was produced before the
+
+Tribunal in each case to show as to how the concerned
+
+employees were remaining absent for long periods which
+
+affect the work of the employer and the concerned
+
+employee was required at least to bring some material on
+
+record to show as to how his absence was on the basis of
+
+sanctioned leave and as to how there was no negligence.
+
+Habitual absence is a factor which establishes lack of
+
+interest in work . There can not be any sweeping
+
+generalization . But at the same time some telltale features
+
+can be noticed and pressed into service to arrive at
+
+conclusions in the departmental proceedings.
+
+</p><p id="p_24">         The relevant paragraphs of the Standing Orders
+
+read as under:
+</p><span class="hidden_text" id="span_8">                            9                O.P. No. 396/1992</span><p id="p_25">
+
+</p><p id="p_26">4. Absence without permission :-
+</p>
+<p id="p_27">(i) An employee shall not absent himself from his
+
+  duties   without       having   first    obtained       the
+
+  permission      from     the    Authority         or    the
+
+  competent officer except in the case of sudden
+
+  illness. In the case of sudden illness he shall
+
+  send intimation to the office immediately. If the
+
+  illness lasts or is expected to last for more than
+
+  3 days at a time, applications for leave should
+
+  be duly accompanied by a medical certificate,
+
+  from a registered medical practitioner or the
+
+  Medical Officer of the DTS. In no case shall an
+
+  employee       leave     station        without        prior
+
+  permission .
+</p>
+<p id="p_28">(ii) Habitual absence without permission or
+
+  sanction of leave and any continuous absence
+
+  without such leave fore more than 10 days
+
+  shall render the employee liable to be treated
+<span class="hidden_text" id="span_9">                                            10        O.P. No. 396/1992</span>
+
+           as an absconder resulting in the termination of
+
+           his service with the Organisation .
+</p>
+<p id="p_29">          19. General Provisions :- Without prejudice to
+
+the provisions of the foregoing Standing Orders, the
+
+following acts of commission and omission shall be
+
+treated as misconduct :
+</p>
+<p id="p_30">          (a) ..........................
+</p>
+<p id="p_31">          (h) Habitual negligence of duties and lack of
+
+interest in the Authority's work ."
+</p>
+<p id="p_32">Clause 15 of the Regulations so far as relevant reads as
+
+follows
+
+</p><p id="p_33">          2. Discipline :-- The following penalties may, for
+
+misconduct or for a good and sufficient reason be
+
+imposed upon an employee of the Delhi Road Transport
+
+Authority ;--
+</p>
+<blockquote id="blockquote_4">          (i) ....................................
+
+</blockquote><blockquote id="blockquote_5">          (ii)Removal from the service of the Delhi Road
+
+           Transport Authority.
+</blockquote><span class="hidden_text" id="span_10">                                      11           O.P. No. 396/1992</span><blockquote id="blockquote_6">
+
+</blockquote><blockquote id="blockquote_7">            (iii) Dismissal from the service of the Delhi Road
+
+               Transport Authority.
+</blockquote>
+<p id="p_34">................................."
+
+</p><p id="p_35">           Habitual absence is a factor which establishes lack of
+
+interest in work . There can not be any sweeping generalization
+
+. But at the same time some telltale features can be noticed and
+
+pressed into service to arrive at conclusions in the departmental
+
+proceedings.
+</p>
+<p id="p_36">             Great emphasis was laid by learned counsel for
+
+the respondent-employee on the absence being treated as
+
+leave without pay. As was observed by this Court in State
+
+of Madhya Pradesh Vs. Harihar Gopal (1969)(3) SLR 274)
+
+by a three judge Bench of this court , even when an order
+
+is passed for treating absence as leave without pay after
+
+passing an order of termination that is for the purpose of
+
+maintaining correct record of service. The charge in that
+
+case was , as in the present case, absence without
+
+obtaining leave in advance. The conduct of the employee in
+<span class="hidden_text" id="span_11">                                   12                O.P. No. 396/1992</span>
+
+this case is nothing but irresponsible in extreme and can
+
+hardly be     justified. The    charge in this case was
+
+misconduct by absence. In view of the Governing Standing
+
+Orders unauthorized leave can be treated as misconduct .
+
+</p><p id="p_37">         Conclusions regarding negligence as lack of
+
+interest can be arrived as by looking into the period of
+
+absence, more particularly, when same is unauthorized.
+
+Burden is on the employee who claims that there was no
+
+negligence and/or lack of interest to establish it by placing
+
+relevant material. Clause (11) of Para 4 of the Standing
+
+Order   shows      the   seriousness     attached    to   habitual
+
+absence. In Clause (1) therefore, there is requirement of
+
+prior permission . Only exception made is in case of
+
+sudden illness. There also conditions are stipulated, non-
+
+observance of which renders the absence unauthorized.
+
+
+
+</p><p id="p_38">14.      It   is   therefore   evident    that   the      workman
+
+remained absent unauthorizedly for 152 days during the
+<span class="hidden_text" id="span_12">                               13            O.P. No. 396/1992</span>
+
+period of January 1991 to November 1991 and this act of
+
+the workman amounts to misconduct.              The past
+
+conduct of the workman also shows that he had
+
+remained absent unauthorizedly during the year 1988
+
+and 1990 for which also , he was punished .      The past
+
+conduct of the workman also shows that he is not taking
+
+interest in the work of the corporation. I therefore, hold
+
+that the workman has committed the misconduct and the
+
+penalty of removal from service is justified.           The
+
+application of the management is therefore allowed and
+
+approval required under <a href="/doc/1774629/" id="a_2">section 33</a> (2) (b) of the
+
+<a href="/doc/500379/" id="a_3">Industrial Disputes Act</a> is granted to the management.
+
+</p><p id="p_39">         File be consigned to Record Room after due
+
+compliance.
+</p>
+<p id="p_40">
+ANNOUNCED IN THE OPEN COURT
+ON 10th Day of January 2007
+                                (DINESH DAYAL)
+      PRESIDING OFFICER INDUSTRIAL TRIBUNAL II,
+                  KARKARDOOMA COURTS, DELHI
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

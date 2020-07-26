@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Criminal Revision No. 204283/16 vs Piyush Infrastructure Pvt. Ltd on 16 April, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/24666311/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/24666311/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/24666311/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/24666311/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Criminal Revision No. 204283/16 vs Piyush Infrastructure Pvt. Ltd on 16 April, 2018</div><pre id="pre_1">              IN THE COURT OF DR. NEERA BHARIHOKE
+               ADDL. SESSIONS JUDGE­06:SOUTH EAST
+                     SAKET COURT: NEW DELHI 
+
+
+                       Criminal Revision No. 204283/16
+Sanjay Gandhi
+R/o 1­F/39, NIT
+Faridabad­121001
+Haryana                                                     . . . . . . . . . . Revisionist
+
+
+                                        Versus
+
+
+1. Piyush Infrastructure Pvt. Ltd.
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+2. Amit Goel
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+3. Anil Goel
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+
+4. Puneet Goel
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 1 of 15
+ 5. Pundhir
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+6. Nirmal Singh Lamba
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044
+
+
+7. Deepak Sharma
+A­16/B­1
+Mohan Co­operative Industrial Estate
+Main Mathura Road
+New Delhi­110044                      . . . . . . . . . . Respondents
+
+
+Date of Institution                                    :              11.03.2015
+Date of transfer of the case 
+to this court                                          :              06.11.2017
+Date of Arguments                                      :              27.03.2018
+Date of Order                                          :              16.04.2018
+
+
+                                           ORDER
+</pre>
+
+<p id="p_1">1.     Vide this order I shall decide the present revision filed against the
+ order dated 14.10.2014 passed by learned ACMM in the case titled
+ Sanjay   Gandhi   vs.   Piyush   Infrastructure   Private   Limited   and
+ others.
+</p>
+
+<p id="p_2">2.     Brief submissions of the petitioner are:
+</p>
+
+<p id="p_3">CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 2 of 15
+</p><p id="p_4"> a)             The   petitioner/complainant   had   booked   a   shop/office   in   the
+     commercial property namely Piyush Mahindra Metropolitan Mall, NIT
+</p><p id="p_5">     - 3, opposite Dassehra Ground, Faridabad, Haryana and had made a
+     payment of ₹3,90,000/­ as booking amount. 
+</p><p id="p_6">b)             On   04.08.2009,   petitioner/complainant   was   informed   by   the
+     respondents that letter of intent has been obtained for the said project
+     and the petitioner/complainant was asked to make up for the payment
+     of ₹3,88,800/­ as second installment.
+</p><p id="p_7">c)             The   respondents   also   confirmed   that   the
+     petitioner/complainant was allotted an office/shop measuring 400 sq.
+     feet   at   the   1st  floor   in   the   said   project.   As   he   accordingly   made   a
+     payment of ₹3,88,800/­ through 2 cheques dated 19.08.2009.
+</p><p id="p_8">d)             The petitioner/complainant was again asked on 13.09.2010 to
+     make   over   the   payment   of   ₹2,66,284/­   towards   the   work   of
+     excavation.
+</p><p id="p_9">e)             On   07.03.2011,   the   respondents   issued   a   letter   regarding
+     wrong payment for shop/office measuring 579.98 sq. feet instead of
+     400   sq.   feet   whereby   demand   of   ₹10,22,255/­   was   made   by   the
+     respondents.   On   receiving   the   said   notice/letter,   the
+     petitioner/complainant   contacted   the   respondents/accused   persons
+     and he told that he was allotted a shop/office measuring 400 sq. feet
+     and   ₹10,22,555/­   was   wrongly   demanded   from   him.   But   the
+     respondents   did   not   do   anything   and   issued   another   letter   dated
+     14.06.2011 in the form of reminder demanding ₹10,73, 558.97 paise.
+</p><p id="p_10">f)             Finally in the meeting the petitioner/complainant was informed
+     that at the shop/office measuring 400 sq. feet would be allotted to him
+
+
+CR No. 204283/16       Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 3 of 15
+      in case he deposits an amount of ₹15,00,000/­.
+</p><p id="p_11">g)            The respondents/accused person did not a lot shop/office to
+     the   petitioner/complainant   and   played   a   fraud   upon   him.   The
+     respondents/accused   persons   even   threatened   the   petitioner/
+     complainant.
+</p><p id="p_12">h)            The   petitioner/complainant   was   made   a   complaint   to   the
+     police   but   no   action   was   taken   and   consequently   the   application
+     under section 156 (3) <a href="/doc/445276/" id="a_1">Cr.P.C</a>. was filed by the petitioner/complainant
+     praying for directing SHO PS Badarpur to register the case against
+     the   respondents/accused   persons   and   investigate   the   matter.   An
+     Action Taken Report was called from SHO PS Badarpur where it is
+     stated that the petitioner/complainant had invested for the allotment of
+     shop number 131 in the project Piyush Mahindra Metropolitan Mall
+     but   the   petitioner/complainant   failed   to   make   the   payment   as
+     demanded by the respondents/accused persons and as a result of
+     which allotment of shop was cancelled video letter dated 27.07.2011
+     and   petitioner/complainant   was   informed   that   money   would   be
+     refunded to him. It was further stated that the matter is of civil nature
+     and no offence has been made out.
+</p><p id="p_13">i)            Learned trial court after hearing the arguments of the parties
+     passed   the   impugned   order   dismissing   the   application   of   the
+     complainant/petitioner filed under section 156 (3) <a href="/doc/445276/" id="a_2">Cr.P.C</a>.
+</p><p id="p_14">j)            In the impugned order, learned trial court has observed that
+     the petitioner/complainant has booked an office/shop in the project of
+     respondents/accused   persons   at   Faridabad   and   had   also   paid
+     booking amount of  ₹3,90,000/­ and thereafter, second installment of
+
+
+CR No. 204283/16     Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 4 of 15
+  ₹3,88,000/­. According to the petitioner/complainant, the office/shop
+ measuring   400   sq.   feet   was   allotted   to   him   but   later   on   another
+ shop/office   measuring   579.98   sq.   feet   was   allotted   and   the
+ respondents/accused   persons   have   demanded   more   money   which
+ was   not   paid   by   the   petitioner/complainant.   It   has   been   further
+ observed that petitioner/complainant himself is in a position to pursue
+ the present complaint and no specific investigation is required to be
+ done by investigating agency. The respondents/accused persons are
+ also   known   to   the   petitioner/complainant.   Learned   trial   court   has
+ observed that it is well­settled law that it is not necessary that in each
+ and  every  case  a magistrate  should  give  direction  to the  police  to
+ register the FIR and investigate the matter. Learned trial court has
+ observed   that   considering   all   these   facts,   the   case   of   the
+ petitioner/complainant is not a fit case to give direction to the police
+ under section 156 (3) <a href="/doc/445276/" id="a_3">Cr.P.C</a>. to register a case.
+</p><p id="p_15">k)         The petitioner has submitted that the respondents had the ill
+ intention to grab the hard earned money of the petitioner to cause
+ wrongful loss to him and that amounts invested by the petitioner have
+ been utilized for the development/construction of the said project by
+ the respondents. The petitioner has submitted that the respondents
+ misrepresented that they had obtained the requisite sanction from the
+ requisite authorities whereas it was later revealed that the sanction for
+ the development of the site in question was never provided by the
+ requisite   authorities   and   on   account   of   false   and   fabricated
+ documents,   the   respondents   had   malafidely,   dishonestly   and
+ fraudulently induced the petitioner/complainant to invest his hardened
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 5 of 15
+      money into an unapproved project by making false representations.
+</p><p id="p_16">l)            Petitioner   has   also   stated   that   the   respondent   persons
+     dishonestly/fraudulently and malafidely played a trick under the entity
+     of company and have looted huge money from various other innocent
+     investors including the petitioner and taken booking amount as well
+     as   further   installment   amounts   for   respective   units   and   booked
+     number   of   units   which  is   more   than   the   units   available   with   them.
+     Petitioner has also stated that the respondent persons adopt all the
+     illegal means to achieve their early. Designed motives and that there
+     are various criminal complaints already registered into FIRs against
+     the respondent persons in various cities.
+</p><p id="p_17">m)            The   respondents   dishonestly,   malafidely   and   fraudulently
+     misused the hard earned money of the petitioner and played a fraud
+     upon   the   petitioner   and   public   at   large.   The   respondents   with   the
+     common intention to cheat misappropriated the funds of petitioner to
+     use the same for their personal interest in furtherance of their ulterior
+     designed motives and common intention made false representation.
+</p><p id="p_18">n)            The petitioner has also submitted that on one occasion in the
+     month of November, 2013, on request of one of the representatives of
+     the respondent persons namely Mr. Amit to meet with the respondent
+     persons and to settle the dispute amicably, the petitioner visited the
+     respondent   persons   on   8th  November,   2013   but   the   respondent
+     persons along with their associated persons namely Pundhir instead
+     of   settling   the   issue   threatened   the   petitioner   to   face   the   dire
+     consequences in case he would not  take back his complaint.
+</p>
+
+
+
+<p id="p_19">CR No. 204283/16      Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 6 of 15
+</p><p id="p_20"> 3.      The   grounds   of   the   petitioner   for   filing   the   present   revision
+ petition are:
+</p>
+
+<blockquote id="blockquote_1">     a) The learned MM misdirected himself in forming an opinion that
+        the   dispute   is   in   respect   of   demand   of   more   money   by   the
+        respondent   despite   the   fact   that   the   petitioner   had   booked   a
+        commercial unit of 400 sq. feet (+ / ­ 10%) and after receiving
+        installment as well as allotment of the said unit in the name of the
+        petitioner, the respondents unilaterally changed units space from
+        400 square feet to 579 square feet. 
+</blockquote>
+<blockquote id="blockquote_2">     b) Learned   trial   court   ignored   that   vide   letter   dated   07.03.2011,
+        approximately 6 months after affirming the allocation to be 400
+        sq. feet at 1st floor of the said project and providing of statement
+        of   account,   the   respondents/   accused   persons   deliberately   by
+        forging   statement   of   account   issued   letter   dated   07.03.2011
+        representing the allocation of commercial space of 579.980 sq.
+        feet   for   consideration   of   ₹41,46,285   to   the   complainant   and
+        raised a demand of  ₹9,71,494/­ and in the forced statement of
+        account,   the   respondents/   accused   persons   deliberately
+        manipulated   the   amounts   already   procured   from   the
+        petitioner/complainant   and   despite   petitioner/complainant
+        requesting   the   respondents   to   rectify   the   deed   through   letter
+        dated   04.04.2011   and   03.06.2011,   the   respondents/accused
+        persons continue to demand  ₹9,71,494/­ along with interest and
+        penalties. 
+</blockquote>
+<p id="p_21">CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 7 of 15
+</p><p id="p_22">    c) The learned trial court ignored the fact that the respondents have
+       cheated   him   by   representing   that   this   approved   project   as   an
+       approved one.
+</p>
+<p id="p_23">   d) The   learned   ACMM   failed   to   consider   the   fact   that   the
+       respondent   persons   have   also   shown   certain   documents   in
+       respect   of   the   said   project   is   approved   by   the   statutory
+       authorities   and   the   same   is   still   in   the   possession   of   the
+       respondents which were later revealed to be fabricated by the
+       respondents with sole intention to allure the petitioner to book the
+       said   unit   and   that   the   said   documents   cannot   be   called   out
+       without the interrogation conducted by the police.
+</p>
+<p id="p_24">   e) The learned ACMM failed to consider that the petitioner, with his
+       capacity   to   invest,   entrusted   his   hard   earned   money   with   the
+       respondents towards owning the said commercial unit of 400 sq.
+       feet and the respondents also promised or represented the safe
+       entrustment   of  the   petitioner   even   during   the   time  of   booking,
+       receiving of installments as well as allotment of commercial unit
+       of 400 sq. feet in the said project but later on during the hike in
+       market price of properties, the respondents have breached the
+       said   entrustment   merely   with   malafide   intention   to   procure
+       illegitimate earning.
+</p>
+<p id="p_25">   f) The learned magistrate failed to consider the status report filed
+       by the investigating officer properly as the facts emerged from
+       the   status   report   that   the   said   status   report   had   only   been
+       prepared   as   per   the   verbal   version   of   the   counsel   for
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 8 of 15
+         respondents.   It   also   apparently   revealed   that   the   IO   did   not
+        initiate any step to investigate the fact that how many respective
+        units have been constructed in the project as well as whether the
+        allotment  of  unit  provided  to   the  petitioner   was  re­allocated  to
+        some other person or not. The entire status report emerged to be
+        a report made in the version of the respondents' representative
+        rather than an investigation report of the investigating agency.
+</p>
+<p id="p_26">     g) The   learned   ACMM   failed   to   consider   the   fact   that   the
+        respondents   have   also   threatened   to   the   petitioner   by   calling
+        them to the office on the pretext of settling the matter and the
+        said   fact   health   not   been   considered   by   the   IO   during   his
+        investigation.
+</p>
+<p id="p_27">     h) The learned ACMM failed to appreciate that the entire evidence
+        cannot be collected and produced by the petitioner and the same
+        can only be collected by entering the investigation conducted for
+        the police and that the learned ACMM failed to appreciate that
+        certain things are there which are to be seized by the police and
+        can be done by police alone and not by the petitioner.
+</p>
+
+<p id="p_28">4.      The   petitioner   has   prayed   for   setting   aside   the   order   of   the
+ learned ACMM dated 14.10.2014 as for passing an order/direction to
+ the   SHO   PS   Badarpur   to   register   the   FIR   against   the   respondent
+ under section 406, 420, 467, 471, 34, 120 B and 506 <a href="/doc/1569253/" id="a_4">IPC</a>.
+</p>
+
+<p id="p_29">5.      On   receipt   of   the   notice   of   the   petitioner,   the   respondents
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 9 of 15
+  appeared through their counsel and parties made efforts to settle the
+ matter   through   negotiation   as   well   as   mediation.   However   talks   of
+ mediation   failed   and   the   matter   was   argued   at   length   by   learned
+ counsels for parties.
+</p>
+
+<p id="p_30">6.     The   respondents   had   filed   detailed   written   submissions   and
+ submitted that the petitioner has tested the facts and modified them to
+ apply for criminal prosecution. Therefore, they submitted that there is
+ no   infirmity   in   the   impugned   order   and   the   revision   is   liable   to   be
+ dismissed.
+</p>
+
+<p id="p_31">7.     Arguments heard. Record perused carefully.
+</p>
+
+<p id="p_32">8.     Learned counsel for petitioner has known attention to copy of the
+ receipt/acknowledgement issued by the respondent of an amount of
+ ₹3,90,000/­ dated 09.01.08 which reveals that the said amount was
+ taken/accepted   by   the   respondent   as   advance   for   professional
+ registration amount paid for a unit ad­measuring approximately 400
+ sq. feet with preference subject to availability of 1 st floor and payment
+ plan to be of installment. The said receipt specifically provides that
+ the shop showroom is subject to variation of 10%. Learned counsel
+ for   petitioner   has   drawn   attention   to   letter   dated   4 th  August,   2009
+ written   by   the   respondent   to   the   petitioner   in   reference   to   the
+ registration of office space of 400 sq. feet by the petitioner informing
+ the petitioner that the respondents had obtained the LOI for the said
+ project.   Through   the   said   letter,   the   respondents   requested   the
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 10 of 15
+  petitioner to make for the payment of ₹3,88,800/­ within 15 days from
+ the   date   of   issue   of   the   letter   for   confirmation   of   his   booking   and
+ allotment.   The   said   payment   was   accordingly   made   and   the
+ respondents had issued a receipt dated 10.09.2009 in respect of the
+ said payment.
+</p>
+
+<p id="p_33">9.     The respondents had also written letter dated 03.09.2010 to the
+ petitioner/complainant   for   informing   him   about   allotment  of   400   sq.
+ feet   in   1st  floor   of   Piyush   Mahindra   Metropolitan   Mall   and   also
+ informed the petitioner through the same letter that they had already
+ acquired   the   necessary   government   approvals   and   that   the
+ development is underway. The said letter was accompanied with an
+ annexure/statement   of   account.   The   said   statement   of   account
+ specifically refers to office space of 400 sq. feet in 1 st floor as well as
+ mentions that the petitioner made payment at the time of booking of
+ the project of  ₹3,89,400/­ on 9th January, 2008 i.e. 15%,  ₹3,89,400/­
+ on   18th  August,   2009   at   the   time   of   launching   and   had   to   make
+ balance payment of  ₹2,59,600/­ alongwith service tax by 4 th October,
+ 2010 but the payment particulars provided that the said payment has
+ to be made on start of excavation work. Thus, the said letter clearly
+ reveals   that   the   balance   amount   which   was   to   be   paid   by   the
+ petitioner to the respondents was only ₹2,59,600/­.
+</p>
+
+<p id="p_34">10.    It   is   further   noticed   that   through   letter   dated   07.03.11,   the
+ respondents   issued   allotment   letter   and   demand   letter   against   the
+ petitioner. However, in the said allotment letter, in place of allotment
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 11 of 15
+  of office space of 400 square feet, the respondents  mentioned  the
+ area of the shop/unit to be 579.980 sq. feet and then the demand
+ letter of the same date, the reference was also not to 400 square feet
+ but   to   579.980   sq   feet.   It   is   further   noticed   that   the   statement   of
+ accounts has wrongly described the payments made by the petitioner
+ as  the said statement of account refers to office space to be 579.980
+ sq.   feet   on   1st  floor   as   well   as   mentions   that   the   petitioner   made
+ payment at the time of launching of the project of  ₹5,64,611/­ on 9 th
+ January, 2008 i.e. 15% at the time of booking,  ₹2,14,189/­ on 18th
+ August, 2009 at the time of launching as part payment and still had to
+ pay balance payment of  ₹3,50,422/­ with service tax on account of
+ balance amount of 15% of  ₹5,64,611/­ by 26th March, 2011, payment
+ of  ₹3,76,407/­ along with service tax by 26th  March, 2011 at start of
+ excavation work and ₹2,44,665/­ alongwith service tax by 26 th March,
+ 2011 at start of foundation work i.e.  ₹9,71,494/­. This letter clearly
+ shows   that   the   excavation   work   had   not   been   started   by   the
+ respondent even till 7th March, 2011 whereas they had demanded the
+ payment   for   excavation   which   was   to   commence   on   4 th  October,
+ 2010.
+</p>
+
+<p id="p_35">11.    In   response   to   these   letters   dated   07.03.2011,   the   petitioner
+ specifically wrote a letter dated 4th  April, 2011 to the respondents to
+ rectify the mistake on their part. However, the respondents issued two
+ demand   notices   dated   03.06.2011   and   14.06.2011   demanding   the
+ balance   amount   of   ₹9,71,494/­   +   service   tax.   The   letter   dated
+ 03.06.2011   and   letter   dated   14.06.2011   made   no   reference   to   the
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 12 of 15
+  letter dated 07.03.2011 of the petitioner written to the respondents.
+</p>
+
+<p id="p_36">12.    A legal notice dated 8th July, 2011 was written by the petitioner to
+ the respondents asking them to withdraw their letter dated 07.03.2011
+ as well as demands of ₹10,66,532.97 paise and  ₹10,73,558.97 paise
+ vide letter dated 03.06.2011 and 14.06.2011 respectively and to issue
+ a fresh allotment letter with the appropriate/genuine payment plan for
+ the area of 400 sq. feet.
+</p>
+
+<p id="p_37">13.    However, the respondents did not respond to the same and thus
+ the petitioner filed the application. While deciding the application for
+ seeking   directions   for   registration   of   FIR,   the   learned   ACMM   has
+ failed to consider the facts revealing inducement of the complainant
+ to part with the payment on the strength of the said booking which
+ was specifically agreed to sale purchase of unit ad­measuring 400
+ sq. feet with specific variation of 10% (+/­). It is also apparent that
+ the complainant was called upon to make payments in accordance
+ of schedule provided in respect of unit ad­measuring 400 sq. feet
+ from the years 2008 to 2011 as well as allotment of the said area
+ was also confirmed by the respondents. In view of documents filed
+ by   the   revisionist   as   well   as   respondent,   it   is   also   apparent   that
+ accounts   have   also   been   apparently   manipulated   by   the
+ respondents in order to support their demands.
+</p>
+
+<p id="p_38">14.    I concur with the submissions made by the revisionist that in
+ addition   to   the   prima   facie   occurrence   of   cognizable   offences,
+
+
+CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 13 of 15
+  various   aspects   including   the   issues   like   whether   sanction   of
+ construction from the concerned authority to construct specific units
+ in respect of number of units as well as measurement of units and
+ the   reasons   for   not   allocating   the   units   towards   the   booking
+ applications accepted, number  of such allottees as is the case of
+ the revisionist etc. are the matters outside the capacity of revisionist
+ to procure the evidence on his own and are not and cannot be in
+ possession of the petitioner himself. The nature of allegations are
+ such that the complainant is not in a position to collect and produce
+ evidence on its own before the court and interest of justice demands
+ that police should step in for investigation thus essentially requiring
+ police assistance.  The police was duty bound to register the case on
+ the basis of information received at the police station, which on the
+ face of it, discloses commission of a cognizable offence. Therefore, it
+ is   a   fit   case   of   investigation   to   be   called   for   by   the   investigating
+ agency   and   directing   the   police   under   section   156   (3)   <a href="/doc/445276/" id="a_5">Cr.P.C</a>.   to
+ register the case.
+</p>
+
+<p id="p_39">15.    In view of my above observations and discussion, the impugned
+ order  of the Trial  Court cannot sustain. The impugned  order dated
+ 14.10.14 is set aside. The revision petition is allowed.
+</p>
+
+<p id="p_40">16.    Learned Trial Court is directed to give necessary directions to the
+ SHO PS Badarpur under 156 (3) of <a href="/doc/445276/" id="a_6">Cr.P.C</a>. for registration of FIR.
+</p>
+
+
+
+<p id="p_41">CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 14 of 15
+</p><p id="p_42"> 17.    Trial Court Record be returned alongwith a copy of this order.
+</p>
+
+<p id="p_43">18.    Parties   are   directed   to   appear   before   Ld.   Trial   Court   on
+ 10.05.18 at 2 PM. 
+</p>
+
+<p id="p_44">19.    Revision file be consigned to Record Room. </p><pre id="pre_2">
+
+                                                                        Digitally signed
+                                                                        by NEERA
+                                                NEERA                   BHARIHOKE
+                                                BHARIHOKE               Date: 2018.04.17
+Announced in the open                                                   18:36:47 +0530
+
+Court on 16.04.2018                                 (Dr. Neera Bharihoke)
+                                                ASJ­06/South­East/Saket/ND
+                                                          16.04.2018
+
+
+
+
+</pre><p id="p_45">CR No. 204283/16   Sanjay Gandhi v. Piyush Infrastructure Pvt. Ltd. and Ors.             Page 15 of 15
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

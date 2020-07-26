@@ -1,0 +1,584 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dr. Sunder Saran Bhatnagar vs Nihal Chand on 31 July, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/168364185/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/367290/">Section 14 in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/679372/">The Delhi Rent Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/168364185/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/168364185/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhatnagar">bhatnagar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=subletting">subletting</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nand%20kishore%20">nand kishore </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=structural%20changes">structural changes</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rawat">rawat</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20rent%20control">delhi rent control</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20rent%20control%20act">delhi rent control act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sub%20letting">sub letting</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=assignment%20and%20subletting">assignment and subletting</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=budhiraja%20">budhiraja </a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Dr. Sunder Saran Bhatnagar vs Nihal Chand on 31 July, 2012</div><div class="doc_author">Author: Rakesh Kumar-I</div>
+
+<pre id="pre_1"> In the Court of Dr. Rakesh Kumar: Additional Rent Controller of 
+        East Delhi District at Karkardooma Courts, Delhi.
+
+Application No. E­563/06
+Unique I.D. No.02402C0353532006
+
+In the matter of :­
+1. Dr. Sunder Saran Bhatnagar
+S/o late Devi Saran Das Bhatnagar.
+
+2. Dr. Amit Bhatnagar
+S/o Dr. Sunder Saran Bhatnagar,
+Both r/o 440, Farsh Bazar,
+Shahdara, Delhi­110032.                         .....Applicants
+
+      Versus
+
+1. Nihal Chand
+S/o late Mela Ram,
+R/o 27/51, Jawala Nagar,
+Shahdara, Delhi­32.
+
+2. Suresh Kumar
+3. Nand Kishore
+Both s/o Nihal Chand,
+Both at shop No.VI/443, Farsh Bazar,
+Shahdara, Delhi­32.                  .....Respondents
+
+Date of institution           :  26.04.2006 
+Date on which arguments heard :  27.07.2012
+Date of decision              :  31.07.2012
+
+
+E-563/06   Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 1 of 15
+      Application for Eviction of Tenant under Section 14(1)(b) &amp; (j) 
+                   of the <a href="/doc/679372/" id="a_1">Delhi Rent Control Act</a>, 1958
+
+JUDGMENT 
+</pre><p id="p_1">1.      This is an application for the recovery of possession of one 
+shop   in   the   property   bearing   no.  443,   Farsh   Bazar,   Shahdara, 
+Delhi­32  (hereinafter referred to as 'the premises') as shown in 
+colour red in the site plan attached, made by the landlords Dr. 
+Sunder   Saran   Bhatnagar   and   Dr.   Amit   Bhatnagar  against   the 
+tenants  Nihal   Chand,   Suresh   Kumar   and   Nand   Kishore  on   the 
+grounds mentioned in clauses (b) and (j) of the proviso of sub­
+section   (1)   of   <a href="/doc/367290/" id="a_2">Section   14</a>   of   the   Delhi   Rent   Control   Act,   1958 
+(hereinafter referred to as 'the DRC Act').
+</p><p id="p_2">2.      In   the   present  application,   it  is  alleged   by   the   applicants 
+that the premises were let out to the respondent no.1 for running 
+a   shop   and   no   rent   deed   was   executed   by  him;  that   the 
+respondent   no.1   has   illegally   sublet,   assigned   and   parted   with 
+possession of half portion of the premises to the respondent no.2 
+and the other half portion of the premises to the respondent no.3; 
+that the respondent no.1 has caused substantial damages to the 
+premises without the consent of the applicants and has raised the 
+floor   level   and   height   of   the   shop   of   the   premises;   that   the 
+respondent   no.1   has   also   enlarged   the   size   of   the  premises  by 
+
+<span class="hidden_text" id="span_1">E-563/06      Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 2 of 15</span>
+ making both the Chabutaras as a part of the premises; that the 
+respondent   no.1   has   also   divided   the   premises   unauthorizedly 
+into   two   parts   by   raising   partition   wall   in   between   thereby 
+causing structural changes. It is further prayed in the application 
+that an eviction order be passed against the respondents.
+</p><p id="p_3">3.    The   respondents   contested   the   eviction   application   by 
+filing joint written statement of their defence wherein contended 
+that the respondent no.1 has not sublet, assigned or parted with 
+the  possession  of  the premises  to  the  respondents  no.2  and  3; 
+that the respondent no.1 is running his business of medical store 
+and   cassette   business   in   the   premises   with   the   help   of   the 
+respondents no.2 and 3 who are the real sons of the respondent 
+no.1; that the respondent no.1 is in the full control of the said 
+business and is responsible for day to day activities of the said 
+business; that the respondent no.1 is in exclusive possession of 
+the premises and the respondents no.2 and 3 are only assisting 
+the respondent no.1 in his business being the real sons; that the 
+respondent   no.1   has   not   caused   any   damage   or   effected   any 
+structural change in the premises; that the respondents no.2 and 
+3   are   in   use   and   occupation   with   the   respondent   no.1   in   the 
+premises; that there is only almirahs which has been placed to 
+segregate   medical   store   from   cassette   business   but,   there   is 
+
+<span class="hidden_text" id="span_2">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 3 of 15</span>
+ sufficient   passage/window   through   which   the   respondent   no.1 
+keeps   control   and   watch   on   both   the   businesses;   that   the 
+respondent   no.1   has   been   running   medical   store   since   1990 
+which   is   a  partnership  firm  in   which  the   respondent  no.1   is  a 
+partner alongwith his son namely Raj Kumar; that the respondent 
+no.1 is also running the business of cassette in the premises; that 
+in   order   to   assist   the   respondent   no.1   in   running   the   said 
+business for medical store, the respondent no.1 has been taking 
+the assistance from the respondent no.2; that the respondent no.
+3 who is assisting the respondent no.1 in running the business of 
+cassette since the respondents no.2 and 3 are the real sons of the 
+respondent no.1.
+</p><p id="p_4">4.     It is denied that initially at the time of commencement of 
+the tenancy, the size of the tenanted shop was 8'­6' X 8'­8' with 
+two   chabutras.   It   is   further   denied   that   a   partition   wall   exists 
+between the said two shops. It is denied that the premises is in 
+occupation of the respondents no.2 and 3 as illegal sub­tenant. 
+Other   allegations   of   the   eviction   application   are   denied   and 
+disputed by the respondents and prayed for dismissal of eviction 
+application. 
+</p><p id="p_5">5.     The applicants filed the replication to the written statement 
+wherein they denied the contentions raised by the respondents in 
+
+<span class="hidden_text" id="span_3">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 4 of 15</span>
+ the written statement and reiterated the allegations made in the 
+present eviction application. 
+</p><p id="p_6">6.    The applicants examined four witnesses. PW1 is K.K. Soni, 
+Head clerk from Drug Control Office, PW2 is Dr. Sunder Saran 
+Bhatnagar, the applicant no.1 himself, PW3 is Dr. V.S. Rawat and 
+PW4 is Raghuvansh Tyagi. During their evidence, the applicants 
+also   produced   the   documents   from   Ex.PW1/A,   Ex.PW1/B, 
+Ex.PW2/1 to Ex.PW2/12.
+</p><p id="p_7">7.    The   respondents   also   examined   four   witnesses.   RW1   is 
+Nihal Chand, the respondent no.1 himself, RW2 is Suresh Kumar, 
+the applicant no.2 himself, RW3 is Nand Kishore, the respondent 
+no.3   himself   and   RW4   is   Ashok   Kumar   Kathuria.   During   their 
+evidence,   the   respondents   also   produced   the   documents   from 
+Ex.RW1/1 to Ex.RW1/13 and Mark A.
+</p><p id="p_8">8.    I   have   heard   counsel   for   the   parties   and   perused   the 
+material available on record carefully. My findings are as follows.
+</p><p id="p_9">9.    In the present application for eviction, the applicants are 
+seeking   possession   from   the   respondents   on   the   grounds   of 
+subletting and causing substantial damage to the premises. 
+</p><p id="p_10">10.   To   prove   sub­letting   and   substantial   damage   to   the 
+premises, it is stated by PW2 Dr. Sunder Saran Bhatnagar in his 
+affidavit that  the  respondent  no.1  is  a  tenant  in  respect  of  the 
+
+<span class="hidden_text" id="span_4">E-563/06    Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 5 of 15</span>
+ premises shown in red colour in the site­plan (Ex.PW1/1). It is 
+further stated that at the time of commencement of tenancy, the 
+size of the shop was 8'­6' X 8'­8' with two chabutaras measuring 
+15' X 5'6" on the northern side and 15'8" X 5'8" on the eastern 
+side   of   the   property   bearing   municipal   no.443,   Farsh   Bazar, 
+Shahdara, Delhi. It is further stated that at present a partition wall 
+does exist in between the said shop and the size of the said shop 
+is now 14' X 16' with partition wall in between as shown in red 
+colour in the site­plan. It is further stated that the respondent no.
+1   has   caused   substantial   damages   to   the   premises   without 
+consent and permission of the applicants. It is further stated that 
+the   respondent   no.1   has   illegally   raised   the   floor   level   of   the 
+premises to the extent of 4' and have also raised the height of the 
+shop to the extent of 3'. It is further stated that the respondent no.
+1   has   enlarged   the   size   of   the   shop   by   including   both   the 
+chabutaras by making the same illegally and unauthorizedly as 
+part   and   parcel   of   the   premises.   It   is   further   stated   that   the 
+respondent  no.1  has   has  divided   the  shop  unauthorizedly   into 
+two shops by raising a partition wall in between thereby causing 
+structural   changes   therein   illegally   for   his   material   gains.   It   is 
+further   stated   that   the   respondent   no.1   has   not   restored   the 
+premises   to   its   original   condition   despite   the   notice   dated 
+
+<span class="hidden_text" id="span_5">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 6 of 15</span>
+ 06.12.05 which was served upon him through registered post. It is 
+further   stated   that   the   respondent   no.1   has   illegally   sub­let, 
+assigned and parted with the possession of the half portion of the 
+premises to his son namely Suresh Kumar, the respondent no.2 
+who is running the medical store under the name and style of 
+Budhiraja Medical Store on the basis of the license which he has 
+fraudulently   obtained   by   misrepresentation   of   the   facts   before 
+the   concerned   licensing   authority.   It   is   further   stated   that   the 
+other half portion of the said shop has been illegally sub­let by 
+the respondent no.1 to his another son namely Nand Kishore, the 
+respondent   no.3   who   is   dealing   in   cassettes   business   in   his 
+individual  capacity   is also  running  the  business  of  charging  of 
+Cell Phones under the name &amp; style of Budhiraja Telecom (hutch 
+&amp; Essar). It is further stated that both the respondents no.2 and 3 
+being in complete control and actual physical possession of the 
+aforesaid   shop open  and  close  the  same  daily  and  for  the  last 
+about three years, the respondent no.1 has not even visited the 
+said shop for any purpose whatsoever. It is further stated that the 
+respondent no.1 has no concern on any of the business which are 
+being run by the respondents no.2 and 3.
+</p><p id="p_11">11.    PW3 Dr. V.S. Rawat and PW4 Raghuvansh Tyagi also made 
+similar statements in their separate affidavits to support the case 
+
+<span class="hidden_text" id="span_6">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 7 of 15</span>
+ of the applicants.
+</p><p id="p_12">12.    To disprove the case of the applicants, RW1 Nihal Chand, 
+RW2   Suresh   Kumar   and   RW3   Nand   Kishore   made   similar 
+statements   in   their   affidavits.   It   is   stated   by   them   that   the 
+respondent   no.1   has   not   sublet,   assigned   or   parted   with   the 
+possession   of   the   premises  to   the  respondent   no.2  and   3.   It  is 
+further stated that the respondent no.1 is running the business of 
+medical store and cassette business in the premises with the help 
+of   respondents   no.2   and   3   who   are   the   real   sons   of   the 
+respondent   no.1.   It   is   further   stated   the   respondent   no.1   is   in 
+exclusive possession of the premises and the respondents no.2 
+and 3 are only assisting the respondent no.1 in his business being 
+the real sons. It is further stated that the respondent no.1 has not 
+caused   any   damage   or   effected   any   structural   change   in   the 
+premises. It is further stated that there exists no wall between the 
+shop as there is only almirah which has been placed to segregate 
+medical   store   from   cassette   business   but,   there   is   sufficient 
+passage/window   through   which   the   respondent   no.1   keeps 
+control and watch on both the business. It is further stated that 
+the respondents no.2 and 3 are acting only as an assistants and 
+assist the respondent no.1 in  running his business being his real 
+sons.   It   is     further     stated     that   the   respondent   no.1   has   not 
+
+<span class="hidden_text" id="span_7">E-563/06      Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 8 of 15</span>
+ enlarged the size of the shop by including both the chabutaras by 
+making the same illegally and authorizedly as part and parcel of 
+the premises. It is further stated that necessary repairs are being 
+made to cover the Nala which is already part and parcel of the 
+premises.   It   is   also   stated   that   the   respondent   no.1   has   not 
+divided   the   shop   unauthorizedly   into   two   shops   by   raising   a 
+partition   wall   in   between   thereby   causing   structural   changes 
+therein illegally for his material gains. It is further stated that the 
+premises are in its original condition so, the question of restoring 
+the premises to any other condition does not arise at all. It is also 
+stated   that   the   respondent   no.1   has   replied   the   notice   dated 
+06.12.05 of the applicant vide reply dated 17.12.05.
+</p><p id="p_13">13.   PW1   K.K.   Soni   has,   in   his   cross   examination,   made 
+following deposition:
+</p><blockquote id="blockquote_1">            "Sh.   Ravinder   Kumar   Kasana   was   the   pharmacist   w.e.f. 
+            18.06.98 and as per our record he is still the pharmacist. 
+            The address of Sh. Ravinder Kumar Kasana is 1799, Kotla, 
+            Mubarak Pur, New Delhi­3..... I have brought the copy of 
+            partnership deed as well as copy of site plan filed with our 
+            office. I have brought the partnership deed as summoned 
+            from   record   and   in   our   record   the   carbon   copy   of   the 
+            same is filed. However, the same was duly notarized and 
+            signature in the original was appended on the same on 
+            both pages. It runs into two pages. The copy of the same 
+            are Ex.PW1/A and Ex.PW1/B respectively."
+</blockquote>
+
+<p id="p_14">14.   PW2   Dr.   Sunder   Saran   Bhatnagar   has,   in   his   cross 
+
+
+<span class="hidden_text" id="span_8">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.                Page 9 of 15</span>
+ examination, made following deposition:
+</p><blockquote id="blockquote_2">           "It is correct that respondent no.1 is  paying rent to me 
+           regularly @ Rs.134/­ p.m. upto date..... It is correct that I 
+           myself receive the rent and I myself  had received the rent 
+           till date..... The petitioner no.2 has not taken any interest 
+           in   relationship   of   landlord   and   tenant   with   respondent 
+           no.1 so far because I am collecting the rent..... Except the 
+           photographs I have not filed any documentary proof to 
+           show that there is a partition wall. It is correct that the 
+           partition wall is not visible is photographs Ex.PW2/2 and 
+           PW2/3.....   The   additional   alteration   carried   out   most 
+           probably   in   the   month   of   January,   03.  Vol.   I   remained 
+           away to Srinagar to my son alongwith my wife and the 
+           addition/alteration carried out during said period in the 
+           month   of   Jan/feb,   03.....   I   have   not   given   any   written 
+           complaint to MCD..... It is correct that the fire broke out 
+           in both the portions of the tenanted shop..... Respondent 
+           no.1 is aged about 80­85 years. He does not require any 
+           assistance   at   this   stage   from   his   sons   to   look   after   his 
+           business because he is very much active and he might be 
+           retired......   I   have   come   to   know   about   the   business   of 
+           Medical   Store   in   partnership   on   the   basis   of   record 
+           summoned from the Drug Control Office. It is correct that 
+           the respondents no.2 and 3 are the sons of respondent no.
+</blockquote><blockquote id="blockquote_3">           1..... I have not made and complaint to the police or to 
+           any   authority   regarding   partition   of   the   shop   in   two 
+           portions.....   It   is   correct   that   respondent   no.1   since   the 
+           inception of the tenancy i.e. 1961 has carried out some 
+           necessary repairs at his own cost whenever required and I 
+           never objected to the same so far."
+</blockquote>
+
+<p id="p_15">15.   PW3   Dr.  V.S.   Rawat   has,   in   his   cross   examination,   made 
+following deposition:
+</p><blockquote id="blockquote_4">           "I cannot  tell  the  date month  and  year of  any  addition 
+           alteration   carried   in   the   suit   premises.....   I   do   not 
+           remember on which date month and year the partition 
+           wall was erected since I have no concern for the same..... 
+           It is correct that the respondent no.1 is the tenant and the 
+
+
+<span class="hidden_text" id="span_9">E-563/06    Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.                    Page 10 of 15</span>
+             respondent no.2 and 3 are looking after the business of 
+            the   tenanted   shop.....   The   respondent   no.2   and   3   are 
+            looking after both the business from the very beginning 
+            from   the   inception   of   the   shop.....   It   is   correct   that 
+            respondent no.2 and 3 are sons of Sh. Nihal Chand but I 
+            cannot ascertain if they are assisting Sh. Nihal Chand in 
+            the   tenanted   premises   or   not.....   It   is   correct   that   the 
+            tenanted shop  was constructed about 40 years ago and 
+            whenever   required   the   respondent   carried   out   the 
+            necessary repairs from there own pocket..... The shop is 
+            being  run  from   the   tenanted   premises   under   the   name 
+            and style of Buddhiraja Medical Store for the last ten to 
+            fifteen years."
+</blockquote>
+
+<p id="p_16">16.   PW4 Raghvansh Tyagi has, in his cross examination, made 
+following deposition:
+</p><blockquote id="blockquote_5">            "I have come on request of the petitioner to depose..... I 
+            cannot tell when the alteration was made in the tenanted 
+            premises   but   the   respondent   converted   one   room   into 
+            two   shops   and   they   covered   the   chabutara   in   front   of 
+            shop.....   I   cannot   say   whether   the   partition   is   made   by 
+            wooden almirah or otherwise but there is partition in the 
+            tenanted   premises.....   I   do   not   remember   when   the 
+            respondent partitioned the suit premises..... It is correct 
+            that both respondent no.2 and his brother used to sit in 
+            both the shops and look after the same. I never seen the 
+            father of the respondent no.2 present in court."
+</blockquote>
+
+<p id="p_17">17.   In the light of evidence of the parties, it is admitted by the 
+applicant   no.1   (PW2   Dr.   Sunder   Saran   Bhatnagar)   that   the 
+respondent   no.1   has   been   paying   rent   to   him   upto   date.  The 
+applicant no.1 has also admitted that he himself was receiving 
+rent. It is admitted by the applicant no.2 that the respondents no.
+</p>
+
+<span class="hidden_text" id="span_10">E-563/06    Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.                  Page 11 of 15</span>
+<p id="p_18"> 2 and 3 are sons of the respondent no.1. In view of the above, it is 
+proved   that   since   the   inception   of   the   tenancy   till   date,   the 
+respondent no.1 was paying rent to the applicants in respect of 
+the premises.
+</p><p id="p_19">18.    PW3   has   also   admitted   in   his  cross   examination   that   the 
+respondent no.1 is a tenant and the respondent nos. 2 and 3 are 
+looking after the business of the tenanted premises. PW3 has also 
+admitted that the respondents no.2 and 3 are looking after the 
+business from the very beginning from the inception of the shop. 
+PW3  has  also   admitted  that  the shop  in  question   is being   run 
+from the premises under the name and style of Budhiraja Medical 
+Store from the last 10­15 years. In view of the admissions made by 
+PW3 in his cross examination, it is proved that the respondents 
+no.2   and   3   were   looking   after   the   business   of   the   premises   in 
+which the respondent no.1 is a tenant, since the very beginning.  
+</p><p id="p_20">19.    PW4 has also admitted that the respondent no.2 and 3 used 
+to sit in both the shops and look after the same but, he has no 
+where   stated   that   the   respondents   no.2   and   3   are   in   exclusive 
+possession of the premises. 
+</p><p id="p_21">20.    In view of the above cross­examination of PW2, PW3 and 
+PW4, it is highly probable that the respondents no.2 and 3 are 
+only looking after the business of medical store and cassettes of 
+
+<span class="hidden_text" id="span_11">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 12 of 15</span>
+ their father, the respondent no.1. 
+</p><p id="p_22">21.   The applicants have not placed on record any material to 
+prove   that   that   the   respondents   no.2   and   3   are   in   exclusive 
+possession of the premises. The applicants have also not placed 
+on   record   any   material   to   prove   that   the   respondent   no.1   has 
+sublet the premises without obtaining the consent in writing of 
+the   applicants   and   that   between   the   respondent   no.1   and   the 
+respondents   no.2   and   3,   there   is   a   relationship   of   lessor   and 
+lessee. 
+</p><p id="p_23">22.   Next comes the question of making substantial damages to 
+the premises. PW2 Dr. Sunder Saran Bhatnagar  (the applicant no.
+</p><p id="p_24">2) has, in his cross­examination admitted that since the inception 
+of   the   tenancy   i.e.   1961,   the   respondent   no.1   had   carried   out 
+some necessary repairs at his own costs whenever required and 
+he had never objected to the same so far. PW3 Dr. V.S. Rawat has 
+also  admitted  in  his  cross  examination  that  the  premises  were 
+constructed about 40 years ago and the respondent had carried 
+out necessary  repairs  from  his  own  pocket whenever  required. 
+The  applicant  no.1 has also  admitted   in  his  cross­examination 
+that fire had broken out in both the portion of tenanted premises. 
+Neither PW2 Dr. Sunder Saran Bhatnagar (the applicant no.1) nor 
+PW3 nor PW4 have been able to state in their cross­examination 
+
+<span class="hidden_text" id="span_12">E-563/06     Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 13 of 15</span>
+ when alteration was carried out by the respondent no.1. PW4 was 
+unable to deny the question whether the partition of the shop 
+was made by wooden almirah or otherwise. In view of the above, 
+it is proved that the respondent no.1 had carried out necessary 
+repairs   in   the   premises   whenever   required,   more   particularly 
+after fire had broken out in the premises and the applicants never 
+objected to it which suggest that they had consented the carrying 
+out of repairs by the respondent no.1. 
+</p><p id="p_25">23.   PW2 Dr. Sunder Saran Bhatnagar (the applicant no.1) has 
+himself   admitted   in   his   cross­examination   that   except   the 
+photographs   he   had   not   filed   any   documentary   proof   to   show 
+that there was a partition wall. PW2 has also admitted that the 
+partition wall was not visible in the photographs Ex.PW2/2 and 
+Ex.PW2/3.  The   photographs   Ex.PW2/2   and   Ex.PW2/3   were   not 
+proved by the applicants as per the law. Even otherwise, these 
+photographs are of no use when, admittedly, they do not show 
+the alleged partition wall. 
+</p><p id="p_26">24.   The   site­plan   Ex.PW2/1   was   also   not   proved   by   the 
+applicants as per law. PW2 has admitted that he has got prepared 
+the   site­plan   from   the   draftsman.  The   said   draftsman   was   not 
+examined by the applicants. In view of the above, the site­plan 
+also remained unproved. 
+</p>
+<span class="hidden_text" id="span_13">E-563/06    Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 14 of 15</span>
+<p id="p_27"> 25.   For   the   discussions   afore­stated,   there   is   no   material   on 
+record to prove that the respondent no.1 has sublet the premises 
+without obtaining the consent in writing of the applicants and 
+that between the respondent no.1 and the respondents no.2 and 
+3, there is a relationship of lessor and lessee.  The applicants have 
+also   failed   to   prove   that   the   respondent   no.1   has   caused 
+substantial damages to the premises without the consent of the 
+applicants and has raised the floor level and height of the shop of 
+the premises.
+</p><p id="p_28">26.   For   the   reasons   afore­stated,  the   application   for   the 
+recovery of the possession on the grounds mentioned in clause 
+</p><p id="p_29">(b) and (j) of the proviso of sub­section (1) of Section 14 of the 
+DRC Act is dismissed with costs.
+</p>
+
+<p id="p_30">Announced in the open court                  (Dr. Rakesh Kumar)
+on 31.07.2012                        Additional Rent Controller (East)
+                                         Karkardooma Courts, Delhi.
+</p>
+
+
+
+<span class="hidden_text" id="span_14">E-563/06    Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 15 of 15</span>
+<p id="p_31"> 31.07.2012
+Present:­ Applicant no.1 in person.
+</p><p id="p_32">           Respondent in person.
+</p><p id="p_33">            Vide my separate judgment of even date, the  application 
+for the recovery of possession on the ground mentioned in clause (b) 
+&amp; (j) of the proviso of sub­section (1) of <a href="/doc/367290/" id="a_3">Section 14</a> of the Delhi Rent 
+Control Act is dismissed with costs.
+</p><p id="p_34">            File after due compliance be consigned to record room.
+</p>
+<p id="p_35">                                          (Dr. Rakesh Kumar)
+                                   Additional Rent Controller (East)
+                                     Karkardooma Courts, Delhi.
+</p><p id="p_36">                                               31.07.2012
+
+
+
+
+<span class="hidden_text" id="span_15">E-563/06   Dr. Sunder Saran Bhatnagar &amp; Anr. v. Nihal Chand &amp; Ors.   Page 16 of 15</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

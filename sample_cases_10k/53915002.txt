@@ -1,0 +1,393 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Dinesh Kumar on 18 October, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/53915002/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:53915002">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/409589/">Section 304 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1402213/">Section 337 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1682361/">Section 437 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/53915002/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/53915002/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%20and%20337%2C">279 and 337,</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hem%20raj%20">hem raj </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amit%20sharma">amit sharma</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Dinesh Kumar on 18 October, 2011</div><div class="doc_author">Author: Hem Raj</div>
+
+<pre id="pre_1">         IN THE COURT OF SH. HEM RAJ, METROPOLITAN MAGISTRATE, 
+                                  WEST - 09, TIS HAZARI COURTS, DELHI
+
+
+                                              STATE Vs. DINESH KUMAR
+                                              FIR No : 338/2007
+                                              U/S : 279/337/304­A <a href="/doc/1569253/" id="a_1">IPC</a> 
+                                              P.S : VIKASPURI 
+
+
+1. Serial No. of the Case                          : 712/2
+2. Unique ID of the Case                                               : 02401R1621762008
+3. Date of Commission of Offence                                       : 04.08.2007
+4. Date of institution of the case                                     : 06.02.2008
+5. Name of the complainant                                             : Sh. Vikas Raghav
+6. Name of accused, parentage &amp;                                       :  Dinesh Kumar
+                                                    S/o Sh. Jagmal Singh
+                                                    R/o­Village­Khaspur, PS­Narnaul,
+                                                    Mahendergarh (HR).
+7. Offence complained                             : U/S : 279/337/304­A <a href="/doc/1569253/" id="a_2">IPC</a>
+8. Plea of Accused                                                     : Pleaded Not Guilty.
+9. Final Order                                                         : Acquitted
+10.Date of Final Order                                              : 18.10.2011.
+
+
+                                              J U D G M E N T
+</pre>
+
+<p id="p_1">1           The   prosecution   filed   a   charge   sheet   on   the   allegations   that   on 
+
+04.08.2007   at   around   1.30   PM   near   Red   Light,   CRPF   Camp,   Outer   Ring 
+
+Road, Vikas Puri,  Delhi within  the  jurisdiction of PS, Vikas Puri,  accused 
+
+
+
+FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.1/6
+ was   found   driving   one   Truck   bearing   No.   CH­01G­0441   in   a   rash   and 
+
+negligent   manner   and   hit   against   one   Motorcycle   bearing   No.   DL­4S­
+
+BD­3170 and caused death of Amit Sharma as well as caused simple hurt to 
+
+Vikas   Raghav.   Therefore,   the   accused   was   alleged   to   have   committed 
+
+offences   under   <a href="/doc/1270101/" id="a_3">Sections   279</a>/<a href="/doc/1402213/" id="a_4">337</a>/<a href="/doc/409589/" id="a_5">304</a>­A   <a href="/doc/1569253/" id="a_6">IPC</a>.     After   the   completion   of   the 
+
+investigation, the charge­sheet was filed against the accused.  
+
+
+
+2         In   compliance   of   <a href="/doc/1613898/" id="a_7">Section   207</a>   Cr.P.C,   the   copy  of   the   charge   sheet 
+
+along with other documents were supplied to accused.  Later on, vide Order 
+
+dated   18.01.2011,   notice   for   offences   under   <a href="/doc/1270101/" id="a_8">Sections   279</a>/<a href="/doc/1402213/" id="a_9">337</a>/<a href="/doc/409589/" id="a_10">304</a>­A   <a href="/doc/1569253/" id="a_11">IPC</a> 
+
+framed against the accused to which he pleaded not guilty and claimed trial. 
+
+
+
+3     In order to prove its case against the accused persons,  the prosecution 
+
+examined four witnesses. 
+</p>
+<p id="p_2">
+
+4             PW­1 Dr. Nishu Dhawan was the doctor who proved the MLC No. 
+
+18167 of the injured Vikas Raghav prepared by Dr. Ramesh Kumar Pandey 
+
+as Ex PW­1/A.  She was not cross­examined on behalf of the accused.</p><pre id="pre_2">
+
+
+
+5         PW­2 Vikas Raghav was the eye­witness of this case.     He deposed 
+
+
+
+FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.2/6
+</pre><p id="p_3"> that  in the  month  of August  of the  year 2007  he  alongwith  his friend  was 
+
+going towards his resident on his bike bearing no.DL 4SBD 3170.  He further 
+
+deposed that he was driving the bike and his friend Amit Sharma was sitting 
+
+as a pillion rider.  He further deposed that when they were crossing the Red 
+
+light of Vikas Puri and going towards Madhuban Chowk, one truck came from 
+
+behind and hit his bike due to which they both fell down alongwith bike. He 
+
+further deposed that he became unconscious after the accident.  
+
+
+
+6           However, his testimony was disowned by Ld. APP and he preferred to 
+
+cross­examine   the   witness.     In   his   cross­examination   by   the   Ld.   APP   he 
+
+admitted that the accident occurred in the noon.   He stated that he did not 
+
+remember   the   date.   However,   the   accident   was  occurred   in   the   month   of 
+
+August 2007. Police came at hospital and inquired him about the accident 
+
+and   obtained   his   signatures   on   his   statement   vide   Ex.PW2/A.   After   the 
+
+accident he was shifted to DDU hospital by PCR Van.     His statement Ex. 
+
+PW­2/A was shown and read over to the witness who denied that he made 
+
+such   statement.   He   stated   that   police   obtained   his   signatures   on   blank 
+
+papers. He denied that the statement Ex.PW2/A was voluntary made by him. 
+
+He stated that he cannot admit or deny that the number of the offending truck 
+
+was CH 01G 0441. He denied that accused who was present in the Court on 
+
+
+
+FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.3/6
+ that day was driving the offending truck in a rash and negligent manner and 
+
+caused the accident and at the time of accident he was having one name 
+
+plate on which his name was written as Dinesh Kumar. (Confronted with the 
+
+statement Ex.PW2/A where it is so recorded). He denied that   the accused 
+
+was arrested at his instance and arrest memo Ex.PW2/B.  He was not cross­
+
+examined by the Ld. Defence Counsel.
+</p>
+<p id="p_4">
+
+7          PW­3 Devender was the cousin of the deceased.  He deposed that on 
+
+05.07.2007, he had identified the dead body of the deceased Amit Sharma in 
+
+the Mortuary of the DDU Hospital vide Identification Memo as Ex. PW­3/A.  In 
+
+his cross­examination by the Ld. Defence Counsel, he stated that he had not 
+
+seen the accident.
+</p>
+<p id="p_5">
+
+8          PW­4 ASI Jai Prakash was the DO who registered and proved the FIR 
+
+on the record as Ex. PW­4/A and endorsement on the record as Ex. PW­4/B.
+
+
+
+9          In this case, PW­2 Vikas Raghav was the star and the eye witness of 
+
+the prosecution.  Perusal of the testimonies of PW­2 revealed that he has not 
+
+supported the case of the prosecution at all despite the cross­examination by 
+
+the   Ld.   APP   for   the   State.   He   has   deposed   about   the   rashness   and 
+
+
+
+FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.4/6
+ negligence on the part of the driver of one truck but he did not depose about 
+
+the   number   of   the   truck   which   hit   his   bike   from   behind.     In   the   cross­
+
+examination by the Ld. APP, he did not admit or deny the suggestion that the 
+
+number of the truck was CH­01G­0441.  He denied the suggestion of the Ld. 
+
+APP that accused present in the Court was driving the afore said truck.  He 
+
+further denied that the accused was arrested at his instance.  He has failed to 
+
+identify the accused as the offender.   The identification of the accused as an 
+
+offender in this case has not been proved at all by the prosecution.   Apart 
+
+from   PW­2   Vikas   Raghav,   there   is   no   other   eye   witness   cited   by   the 
+
+prosecution in this case.    Since, this witness has turned hostile and did not 
+
+support   the   case   of   the   prosecution   at   all   hence,   finding   that   no   purpose 
+
+would be served with the continuance of prosecution evidence, the same was 
+
+closed. It would have been a futile exercise. The other witnesses examined in 
+
+this case were only  of corroborative nature and their testimonies would not 
+
+have been sufficient to bring home the guilt of the accused. There is nothing 
+
+on   the   record   to   suggest   that   the   offence   has   been   committed   by   the 
+
+accused.   Not a figment of the evidence has come on the record against the 
+
+accused. Since, nothing incriminating has come against the accused in the 
+
+evidence, therefore, SA of the accused was also  dispensed with. 
+
+
+
+
+</p><pre id="pre_3">FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.5/6
+ 10            Therefore,   in   view   of   the   discussions  made   herein   above   and   the 
+
+</pre><p id="p_6">facts and  circumstances of  the present case, in my considered opinion, the 
+
+prosecution  has miserably failed to  prove  the  guilt of  the  accused  beyond 
+
+reasonable doubt.   Hence,   the accused Dinesh Kumar is hereby acquitted 
+
+for the offence under <a href="/doc/1270101/" id="a_12">section 279</a>/<a href="/doc/1402213/" id="a_13">337</a>/<a href="/doc/409589/" id="a_14">304</a>­A <a href="/doc/1569253/" id="a_15">IPC</a>, he has been charged with. 
+
+He be set at liberty forthwith. His earlier B/Bs are extended for a period of six 
+
+months   from   today   for   the   purposes   of   <a href="/doc/1682361/" id="a_16">Section   437</a>­A   <a href="/doc/445276/" id="a_17">Cr.P.C</a>.       File   be 
+
+consigned to Record Room after necessary formalities.
+
+
+
+</p><pre id="pre_4">ANNOUNCED IN THE OPEN COURT                                                                 (HEM RAJ)
+TODAY i.e. ON 18  OCTOBER, 2011        
+                                TH
+                                                                                            MM­09:WEST:THC
+                                                                                           18.10.2011
+
+
+
+
+FIR No. 338/2007                          STATE V/s DINESH KUMAR                                                           PAGE No.6/6
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

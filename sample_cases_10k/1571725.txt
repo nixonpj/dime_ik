@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: Venkatanarasimha Naidu vs Unknown on 14 March, 1900</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1571725/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/258743/">Pichuvayyangar vs Seshayyangar on 14 December, 1894</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1571725/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1571725/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amendments%20">amendments </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%5C%22reasonably%5C%22">\"reasonably\"</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">In Re: Venkatanarasimha Naidu vs Unknown on 14 March, 1900</div><div class="doc_citations">Equivalent citations: (1900) 10 MLJ 216</div>
+
+<div class="doc_author">Author: Shephard</div>
+
+<p id="p_1">ORDER
+ 
+
+Shephard, J.
+</p> 
+
+<p id="p_2">1. The decree of the Subordinate Judge did not accord with the judgment. There was an appeal to the District Judge who confirmed the decree and a second appeal to this Court which terminated in the same way. Now it is sought to have the decree amended so as to make it accord with the judgment of the Subordinate Judge and the question is whether the application for that purpose is rightly made in the High Court.
+</p> 
+
+<p id="p_3">2. The question is narrowed by the decision of the Full Bench in <a href="/doc/258743/" id="a_1">Pichuvayyangar v. Seshayyangar</a> (1894) I.L.R. 18 M., 214, for there it was held in a case where there had been an appeal from the District Munsif's decree to the District Judge, that it was not competent to the District Munsif to amend his decree. The reason of that decision is that when there has been a judgment of a Court of Appeal passed in accordance with Section 577 of the Code of Civil Procedure and a decree consequent thereon, it is that decree and not the original decree which is the operative decree in th,e case. There may be a distinction between a confirmatory decree and decree which simply dismisses the appeal. The language of the Judicial Committee in Kistokinker Ghose Roy v. Bur, oda Cant Singh Roy suggests suah a distinction and the distinction has been Recognized by the Bombay High Court in Bapu v. Vajir 1896 I.L.R. 21 B. 548 in a case to which Section 551 of the Code of Civil Procedure had been applied. It is not necessary, however, in the present case to decide this point because the decree of this Court confirmed that of the District Judge as the latter confirmed that of the Sub-Judge. It appears to me that as the Subordinate Judge could not after the decree had been passed by the District Court rectify his own decree, so and for the same reasons the District Judge cannot now make the required amendment. By reference, though not in direct terms the decree of the High Court confirmed the decree of the Subordinate Judge and that decree is the only one now subsisting, and, therefore, is the one which ought to be amended, for it is obviously useless to amend any decree except that which is to Be executed. For these reasons, I think the application is rightly made to this Court.
+</p> 
+
+<p id="p_4">Subrahmania Aiyar, J.
+</p> 
+
+<p id="p_5">I concur.
+</p> 
+
+<p id="p_6">Davies, J.
+</p> 
+
+<p id="p_7">Notice will issue accordingly.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

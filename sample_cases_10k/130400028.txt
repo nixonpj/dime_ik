@@ -1,0 +1,442 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Saibanna And Ors vs The State Of Karnataka on 28 June, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/130400028/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1783708/">Section 438 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1119707/">Section 395 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/130400028/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/130400028/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/130400028/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Saibanna And Ors vs The State Of Karnataka on 28 June, 2017</div><div class="doc_author">Author: B.A.Patil</div>
+
+<pre id="pre_1">                              1
+
+
+
+
+           IN THE HIGH COURT OF KARNATAKA
+                  KALABURAGI BENCH
+
+        DATED THIS THE 28TH DAY OF JUNE, 2017
+
+                          BEFORE
+
+           THE HON'BLE MR.JUSTICE B. A. PATIL
+
+           CRIMINAL PETITION No.200685/2017
+
+Between:
+
+1.    Saibanna S/o Revansiddappa
+      Age: 36 years,
+2.    Mahanthappa S/o Chandappa
+      Age: 30 years,
+3.    Sharanappa @ Sharanabasappa
+      S/o Saidappa Age: 26 Years,
+4.    Yallappa S/o Saidappa,
+      Age: 28 years,
+5.    Shrishail S/o Revansiddappa,
+      Age: 22 Years,
+6.    Ningappa @ Ninganna S/o Siddappa,
+      Age: 30 Years,
+7.    Shamaraya S/o Siddappa,
+      Age: 35 Years,
+8.    Amruth S/o Madivalappa,
+      Age: 38 years,
+9.    Raju @ Rajkumar
+      S/o Mallappa @ Mallanna,
+      Age: 29 Years,
+10.   Sidram S/o Basanna,
+      Age: 24 years,
+
+      All belongs to Talawar Caste,
+
+      R/o Narayanpur,
+      Tq. Jewargi, Dist. Kalaburagi-585310.
+                                              ... Petitioners
+(By Sri. Huleppa Heroor, Advocate)
+                                 2
+
+
+
+
+And:
+
+The State of Karnataka,
+Represented by Nelogi Station,
+Nelogi, Tq. Jewargi,
+Dist. Kalaburagi
+R/By Special Public Prosecutor
+                                                         ... Respondent
+(By Sri. Prakash Yeli, Addl. S.P.P.)
+
+       This Criminal Petition is filed under <a href="/doc/1783708/" id="a_1">Section 438</a> of
+Cr.P.C., praying to enlarge the petitioners on anticipatory
+bail in the event of their arrest in Cr.No.81/2017, registered
+by the Nelogi P.S., pending on the file of JMFC Court,
+Jewargi.
+
+     This petition coming on for Orders this day, the Court
+made the following:-
+
+                            ORDER
+</pre>
+<p id="p_1">       The    present      petition        is        filed      by      the
+
+petitioners/accused Nos.1 and 10 under <a href="/doc/1783708/" id="a_2">Section 438</a> of
+
+Cr.P.C., seeking anticipatory bail in Crime No.81/2017 of
+
+Nelogi P.S., registered for the offences punishable under
+
+<a href="/doc/1119707/" id="a_3">Section 395</a> of Indian Penal Code.
+</p>
+<p id="p_2">
+</p><p id="p_3">       2. Brief facts leading to filing of the complaint are
+
+that, on 2.5.2017 at about 7:00 p.m., complainant and
+
+Channamallayya       Hiremath       went        to    attend     funeral
+
+ceremony     of   one   Mallanna       Biredar.         After        leaving
+<span class="hidden_text" id="span_1">                              3</span>
+
+
+
+
+Channamallayya Hiremath to his house, complainant
+
+along with two others by name Bhimaraya S/o Shivaraya
+
+Biredar and Dundappa S/o Shivasharanappa Biredar
+
+were proceeding to attend second nature call, at that time,
+
+the accused persons by holding a knife, stick and stones
+
+came there and abused the complainant with filthy
+
+language   and   also   threatened   and,   thereafter    they
+
+snatched one tola gold chain and cash of Rs.4,000/- from
+
+the complainant then they ran away from the spot.
+
+Subsequently, a complaint was came to be registered on
+
+3.5.2017 at 4:00 p.m.
+
+
+</p><p id="p_4">     3.    I have heard the learned counsel for the
+
+petitioners and the learned Additional        State      Public
+
+Prosecutor appearing for respondent-State.
+
+
+</p><p id="p_5">     4.    The main grounds urged by the learned
+
+counsel for the petitioners are that, petitioners are
+
+innocent and they have not committed any offence as
+
+alleged against them. Only because of the earlier incident
+
+which has taken place between the complainant and the
+<span class="hidden_text" id="span_2">                              4</span>
+
+
+
+
+accused persons and in order to take revenge against the
+
+petitioners, a false case has been registered. He would
+
+further contend that the alleged offence is not punishable
+
+with death of imprisonment for life.     He would further
+
+contend that, test identification parade has also not been
+
+conducted by the police during the course of the
+
+investigation.    He would further contend that, the
+
+petitioners are the permanent residents of Nelogi village
+
+and have got both movable and immovable properties and
+
+they are ready to abide by the conditions to be imposed by
+
+this Court and they are also ready to offer sureties. On
+
+these grounds, he prays for allowing the petition.
+
+
+</p><p id="p_6">      5. On the contrary, learned Additional State Public
+
+Prosecutor appearing for the respondent-State vehemently
+
+contended that, the petitioners only with an intention to
+
+commit the dacoity came to the spot, assaulted with knife
+
+and other weapons and thereafter they snatched the gold
+
+chain and cash of Rs.4,000/- from the possession of
+
+complainant.     He would further contend that petitioners
+<span class="hidden_text" id="span_3">                              5</span>
+
+
+
+
+are absconding and are not available for the purpose of
+
+investigation or interrogation. He would further contend
+
+that at this stage if the petitioners are released on bail,
+
+they may abscond and they may not be available for trial.
+
+On these grounds, he prays for dismissal of the petition.
+
+
+</p><p id="p_7">      6.    I have gone through the copy of the FIR,
+
+complaint and other material produced along with the
+
+petition.
+</p>
+<p id="p_8">
+</p><p id="p_9">      7.    As could be seen from the contents of the
+
+complaint, which clearly discloses that on the alleged date
+
+of incident when the complainant along with other two
+
+persons were proceeding for attending the second nature
+
+call and at that time, petitioners came there, assaulted
+
+and abused the complainant in filthy language besides
+
+snatching gold chain and cash of Rs.4000/- from the
+
+complainant.
+</p>
+<p id="p_10">
+</p><p id="p_11">      8.    Be that as it may. The complainant has
+
+specifically mentioned the names of all the accused
+<span class="hidden_text" id="span_4">                              6</span>
+
+
+
+
+persons in the complaint and even he is aware of the fact
+
+that all the accused persons are belonging to his village.
+
+When the said incident has taken place at 8:10 p.m. that
+
+too when the complainant was knowing the accused
+
+persons, then under such circumstances, the question of
+
+test identification parade does not arise at all. Be that as
+
+it may. The alleged offence is not punishable with death
+
+or imprisonment for life.   When the petitioners are also
+
+permanent resident of the same village and the petitioners
+
+are ready to abide by the conditions to be imposed by this
+
+Court, including offering sureties, then under such
+
+circumstances, I feel that by imposing some stringent
+
+conditions, if the petitioners are enlarged on bail, it is
+
+going to meet the ends of justice.
+</p>
+<p id="p_12">      For the aforementioned reasons, the petition is
+
+allowed.
+</p>
+<p id="p_13">      The respondent-Police are hereby directed to release
+
+the petitioners/accused Nos.1 to 10 on bail, in the event of
+
+their arrest, for the above said offences, subject to the
+
+following conditions :-
+</p><span class="hidden_text" id="span_5">                                7</span><p id="p_14">
+
+
+
+
+</p><blockquote id="blockquote_1">     i.     The petitioners shall execute a personal
+            bond for a sum of Rs.2,00,000/- (Rupees
+            Two Lakhs Only) each with two solvent
+            sureties for the likesum to the satisfaction
+            of the arresting authority.
+</blockquote>
+<blockquote id="blockquote_2">     ii.    The petitioners shall not tamper with any of
+            the   prosecution      witnesses   directly   or
+            indirectly.
+</blockquote>
+<blockquote id="blockquote_3">     iii.   The petitioners shall appear before the
+            investigating officer as and when required
+            and co-operate for investigation.
+</blockquote>
+<blockquote id="blockquote_4">     iv.    The petitioners shall mark their attendance
+            before the concerned police every fortnight
+            till the chargesheet is filed.
+</blockquote>
+<blockquote id="blockquote_5">     v.     The petitioners shall appear before the
+            jurisdictional Court and execute personal
+            bond, surety bond and furnish surety
+            within thirty days from the date of receipt
+            of certified copy of this order.
+</blockquote>
+
+
+<blockquote id="blockquote_6">                                                Sd/-</blockquote><p id="p_15">
+</p><p id="p_16">                                               JUDGE
+
+BL
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

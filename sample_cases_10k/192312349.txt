@@ -1,0 +1,437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>G.Mallikarjuna Reddy vs The Income Tax Officer on 5 March, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/192312349/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/789969/">The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/727816/">Section 131 in The Income- Tax Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/192312349/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/192312349/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/192312349/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">G.Mallikarjuna Reddy vs The Income Tax Officer on 5 March, 2019</div><pre id="pre_1">                                                          1
+
+                                 IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                 DATED: 5.3.2019
+
+                                                       CORAM
+
+                                  THE HON'BLE DR.JUSTICE VINEET KOTHARI
+                                                   AND
+                                 THE HON'BLE MR.JUSTICE C.V.KARTHIKEYAN
+
+                                          Tax Case Appeal No.186 of 2019
+
+                 G.Mallikarjuna Reddy                                       Appellant
+
+                                                         Vs.
+
+                 The Income Tax Officer,
+                 Non Corporate Ward 17(2)
+                 Chennai 600 034.                                           Respondent
+
+                       Tax Case Appeal filed under <a href="/doc/789969/" id="a_1">Section 260A</a> of the Income Tax Act, 1961
+                 against the order of the Income Tax Appellate Tribunal, Madras 'A' Bench,
+                 Chennai, dated 9.4.2018 made in ITA No.2156/Mds/2017.
+
+                               For Appellant      : Mrs.J.Sreevidya for
+                                                    M/s.Arun Kurian Joseph
+                               For respondent     : Mr.T.Ravikumar,
+                                                    Senior Standing Counsel
+                                                  JUDGMENT
+</pre><p id="p_1">                                        (Delivered by DR.VINEET KOTHARI,J)
+
+                          The Assessee has filed this Appeal raising the following purported
+
+                 questions of law arising from the order of the learned Tribunal dated 9.4.2018
+
+                 whereby the Assessee's Appeal came to be dismissed by the learned Tribunal
+
+                 upholding the order passed by the learned Commissioner of Income Tax
+
+                 (Appeals) for the Assessment Year 2014-2015.
+</p>
+<p id="p_2">                           "i) Whether, on the facts and in the circumstances of the
+
+                           case, the Tribunal was right in confirming the addition when
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                          2</span>
+
+                           the Assessee had discharged its onus of proving the
+
+                           genuineness of the transactions by producing the bank
+
+                           statements of both parties?
+</p>
+<p id="p_3">                           ii) Whether the order of the Tribunal is based on a perverse
+
+                           finding of fact that the whereabouts of the appellant's
+
+                           brother in law are not known, when the Revenue has neither
+
+                           summoned the brother in law under <a href="/doc/727816/" id="a_2">Section 131</a> of the Act
+
+                           nor called for any confirmation letter from him?
+
+</p><p id="p_4">                           iii) Whether, on the facts and in the circumstances of the
+
+                           case, the Tribunal was right in treating the amounts
+
+                           transferred to the appellant as unexplained cash credit
+
+                           merely because the bank account of the transferor was not
+
+                           designated as an NRI Account?"
+</p>
+<p id="p_5">                          2. The ground on which the Assessee lost before the two Appellate
+
+                 Authorities is that the Assessee could not prove the Cash Credit in the name of
+
+                 Bhuma Ramakrishna Reddy, the brother in law of the Assesssee, who was
+
+                 engaged in the construction business and who is said to be a Software Engineer
+
+                 and an NRI, who maintained a Bank Account with ICICI Bank and it is from such
+
+                 Bank Account only the advances were made to the Assessee, but, since the
+
+                 Assessee could not produce the said Bhuma Ramakrishna Reddy, an adverse
+
+                 inference was drawn by the Commissioner of Income Tax (Appeals)            and
+
+                 additions made by the Assessing Officer were confirmed.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                                                          3</span>
+
+</p><p id="p_6">                          3. Mrs.J.Sreevidya, the learned counsel appearing for the Assessee has
+
+                 urged before us that the said person could not be produced as he was travelling
+
+                 out of India most of the times and though the Bank Account details were
+
+                 submitted before the Commissioner of Income Tax (Appeals) for the first time,
+
+                 the Assessee may be given one more opportunity to produce the said person
+
+                 himself so that the credit entries can be verified by the by the learned
+
+                 Commissioner of Income Tax (Appeals), before whom the Bank Account details
+
+                 were submitted.
+</p>
+<p id="p_7">                          4. The learned Senior Standing Counsel Mr.T.Ravikumar appearing for the
+
+                 Revenue opposed the said submission and supported the impugned orders.
+
+</p><p id="p_8">                          5. A bare perusal of the order of the Commissioner of Income Tax
+
+                 (Appeals) in para 7.4, which is quoted below, would reveal that the Assessee
+
+                 was put to questions about the said Cash Credit in the name of Mr.Bhuma
+
+                 Ramakrishna Reddy, but, the Authorised Representative appearing for the
+
+                 Assessee could not explain the same and answer the said questions and no
+
+                 confirmation letter of the said person       was filed before the Commissioner of
+
+                 Income Tax (Appeals).
+</p>
+<p id="p_9">                          6.   Para 7.4   of the order passed by the Commissioner of Income Tax
+
+                 (Appeals) is quoted below for ready reference:-
+
+</p><blockquote id="blockquote_1">                           "7.4. On verification of the ICICI Bank Statement it is noticed
+
+                           that it is not NRI Account. The A.R. was asked to explain --
+
+</blockquote><blockquote id="blockquote_2">                           (i) In which country Mr.Bhuma Ramakrishna Reddy is living?</blockquote><p id="p_10">
+
+</p><p id="p_11">                           (ii)   What is he doing there? (iii) What is his source of
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                                                           4</span>
+
+                           income? (iv) Is he assessed to tax in India (v) What is the
+
+                           source for the deposits in the ICICI Bank Account? (vi) How
+
+                           the money from abroad was deposited in the savings bank
+
+                           account in India with ICICI Bank?
+</p>
+<p id="p_12">                                  The   Authorised    Representative   did   not   give   any
+
+                           explanation to the above questions.
+</p>
+<p id="p_13">                                  Moreover the A.R. did not file any confirmation letter
+
+                           from Mr.Bhuma Ramakrishna Reddy."
+</p>
+<p id="p_14">                          7. The Tribunal also confirmed the said findings with the following
+
+                 observation:-
+</p>
+<blockquote id="blockquote_3">                            "12. We have considered the rival contentions and perused
+
+                            the orders of the authorities below. Learned Commissioner
+
+                            of Income Tax (Appeals) had given a clearly finding that
+
+                            bank account Shri.Bhuma Ramakrishna Reddy with ICICI
+
+                            was not an NRI account.      Assessee had failed to file any
+
+                            confirmation   from      Shri.Bhuma   Ramakrishna        Reddy.
+
+                            Assessee also could not give any details on the whereabouts
+
+                            of Shri.Bhuma Ramakrishna Reddy. In such circumstances,
+
+                            we are of the opinion that the addition was rightly made by
+
+                            the learned Assessing Officer and confirmed by learned
+
+                            Commissioner of Income Tax (Appeals). We do not find any
+
+                            reason to interfere with the orders of the lower authorities.
+
+                            Grounds 4 &amp; 5 stand dismissed."
+</blockquote>
+<blockquote id="blockquote_4">
+
+</blockquote><p id="p_15">http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                                                           5</span>
+
+</p><p id="p_16">                          8. Though we do not find any substantial question of law arising in the
+
+                 present matter, we are of the opinion that the Assessee can be accorded one
+
+                 more opportunity to prove the said Cash Credit in the name of his close relative
+
+                 Mr.Bhuma Ramakrishna Reddy, who could not be produced before the learned
+
+                 Commissioner of Income Tax (Appeals) though the copies of the Bank Account
+
+                 details were furnished by the Assessee.        The mere production of the Bank
+
+                 Account copies was not sufficient and the entires made therein were required to
+
+                 be proved by the Assessee by production of the said witness Mr.Bhuma
+
+                 Ramakrishna Reddy.
+</p>
+<p id="p_17">                          9. In order to allow verification of entries in Bank Statement in this
+
+                 regard, we are of the considered opinion that it would be appropriate and in the
+
+                 interest of justice to remit the matter back to the learned Commissioner of
+
+                 Income Tax (Appeals), who may examine the said witness at his own level and
+
+                 return the findings in this regard. Since a considerable time has already passed
+
+                 and the matter pertains to the Assessment Year 2014-2015, we direct the
+
+                 Assessee to appear before the said Authority viz., Commissioner of Income Tax
+
+                 (Appeals)      at the first instance on 25.3.2019 and direct the CIT (A) to pass
+
+                 appropriate orders after the said person is produced before him and pass
+
+                 appropriate orders within a period of 3 months thereafter.
+
+</p><p id="p_18">                          10. With the above observation, the Appeal is disposed of. No orders as to
+
+                 costs.</p><pre id="pre_2">
+
+                                                                                (V.K.,J.) (C.V.K.,J.)
+                                                                                      5.3.2019
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                                                     6</span>
+
+                 Index       : Yes/No
+                 Internet    : Yes/No
+                 ssk.
+
+                 To
+
+                 1. The Income Tax Officer,
+                    Non Corporate Ward 17(2)
+                    Chennai 600 034.
+
+                 2. Income Tax Appellate Tribunal,
+                    Madras 'A' Bench, Chennai.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_6">                          7</span>
+
+                                   DR.VINEET KOTHARI, J.
+                                           and
+                                   C.V.KARTHIKEYAN, J.
+
+
+
+
+                                                        ssk.
+
+
+
+
+                              Tax Case Appeal No.186 of 2019
+
+
+
+
+                                                   5.3.2019.
+
+
+
+
+http://www.judis.nic.in
+</pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

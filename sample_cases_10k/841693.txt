@@ -1,0 +1,230 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In The Matter Of, S.R. Narsimlu And ... vs Unknown on 16 March, 1973</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/841693/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:841693">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/923361/">The Public Prosecutor vs K. Bhimeswara Rao on 23 July, 1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/320833/">Sarwan Singh And Ors. vs State Of Punjab on 11 August, 1976</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1687464/">Bhulu Mia vs The State on 14 February, 1969</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/553551/">Harnam Singh And Anr. vs Emperor on 23 May, 1918</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/841693/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/841693/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bribe">bribe</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=accomplice">accomplice</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=inducement">inducement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sessions%20case">sessions case</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dishonestly">dishonestly</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=material%20particulars">material particulars</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=corroborative%20evidence">corroborative evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=false%20representation">false representation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=calcutta%20high%20court">calcutta high court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=murder%20case%20">murder case </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dishonest%20intention">dishonest intention</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=brothel">brothel</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Andhra High Court</div>
+<div class="doc_title">In The Matter Of, S.R. Narsimlu And ... vs Unknown on 16 March, 1973</div><div class="doc_citations">Equivalent citations: 1973 CriLJ 1481</div>
+
+<div class="doc_author">Author: R Raju</div>
+
+<div class="doc_bench">Bench: R Raju</div>
+
+<p id="p_1">ORDER
+ 
+
+Ramachandra Raju, J.
+</p> 
+
+<p id="p_2">1. The petitioners were the two accused who were convicted under Section 420, <a href="/doc/1569253/" id="a_1">IPC</a> and sentenced each to suffer rigorous imprisonment for a period of one year by the trial Court and confirmed by the appellate Court. The charge was that on or about 14-7-1970 at Karimanagar the petitioners cheated P. Ws. 1 and 4 by dishonestly inducing them to deliver a sum of Rs. 9,000/- representing that the 1st petitioner accused No. 1 was related to the Sessions Judge, Karimnagar and on receipt of such payment they would see that the Sessions Judge would acquit all the accused in Sessions Case No. 2 of 1970 on his file in which 18 accused were prosecuted and tried for offences of murder etc. The prosecution case is as follows : The trial in the Sessions Case No. 2 of 1970 commenced on 6-7-1970 and concluded on 21-7-1970. Accused No. 1 was a Foreman of the Andhra Pradesh State Road Transport Corporation, Karimnagar Depot, Accused No. 2 was the driver of the Sessions Judge Karimnagar. P. Ws. 1 and 4 were attending to the Sessions case on behalf of the accused. On 10-7-1970, accused No. 2 contacted P. W. 1 and took him and P. W. 4 to the house of accused No. 1 that evening informing them that by paying money they can get acquittal of the accused in that murder case. Accused No. 1 also falsely represented to P. Ws. 1 and 4 that he is related to the Sessions Judge and that he can influence the Sessions Judge and get the acquittal of the accused. P. Ws. 1 and 4 collected moneys from the friends and relatives of the accused and they paid a sum of Rupees 9,000/- to accused No. 1 on 14-7-1970 in the presence of accused No. 2 P. Ws. 1 and 4 also paid a sum of Rs. 200/- to accused No. 2 for the part played by him in arranging their meeting with accused No. 1 on 14-7-1970 on which date the arguments in the Sessions Case were heard and the case was posted to 18-7-1970 for judgment.
+</p> 
+
+<p id="p_3">On 18-7-1970 the judgment was not pronounced and the case was adjourned to 21-7-1970. On hearing about the adjournment P. Ws. 1 and 4 went to the house of accused No. 1 and told him about the adjournment. The accused No. 1 told them that he knew about it and the Sessions Judge told him by phone that the judgment was not ready, the Sessions Judge was going to Jagtial on 19-7-1970 and would return on 21-7-1970 and the Sessions Judge told that he would acquit all the accused on that day. On 21-7-1970 the judgment was pronounced without acquitting all the 18 accused. The Sessions Judge convicted nine of them. Therefore, at about 6 or 6-30 p. m., P. Ws. 1 and 4 went to the house of accused No. 2 and questioned him as to how it happened like that. Accused No. 2 took them to the house of accused No. 1. There, P. Ws. 1 and 4 questioned him about it. Accused No. 1 remarked and there might have been more powerful recommendation on behalf of the complainant. Then P. Ws. 1 and 4 asked accused No. 1 to return their money. Accused No. 1 told them that he had paid the money to the Sessions Judge and that he would go and question the Sessions Judge the next day and that he would try to get money at least in part. Accordingly accused No. 1 asked P. Ws. 1 &amp; 4 to meet him on 22-7-70. On that day P. Ws. 1 and 4 went to the house of accused No. 1, when the latter told them that he could not go and meet the Sessions Judge as he was busy and that he would go on the next day. On the next day, accused No. 1 went to the bungalow of the Sessions Judge and waited at the gate. After some time accused No. 2 came there. They both talked to each other and then went inside the compound of the bungalow. Without actually meeting the Sessions Judge and pretending to have met him after some time accused No. 1 returned while accused No. 2 remained in the bungalow. Accused No. 1 told P. Ws, 1 and 4 to meet him in the evening.
+</p> 
+
+<p id="p_4">Accordingly on that evening P. Ws. 1 and 4 went to the house of accused No. 1 along with accused No. 2. Accused No. 1 told them that the Sessions Judge has said that it was a case of sentence for 15 years imprisonment and that he had given imprisonment for one year only and that he was surprised that they were asking him to refund the money. After saying that accused No. 1 took out a cover containing a cash of Rupees-5,000/- and paid it to P. Ws. 1 and 4. They took that money and asked for the balance of Rs. 4,000/-. Accused No. 1 agreed to pay the balance also and asked them to meet him on the first of the next month. Accordingly on 1-8-1970 when P. Ws. 1 and 4 went to the house of accused No. 1 accompanied by accused No. 2 they were told that accused No. 1 was on camp and that he would return only either on 3rd or 4th. On 4-8-1970, P. Ws. 1 and 4 again went to the house of accused No. 1. On that occasion accused No. 1 grew angry and remarked that the Sessions Judge did not return the balance. So P. Ws. 1 and 4 returned back and met on that night their advocate. On his advice, on 6-8-1970 P. W. 4 gave a complaint to the Superintendent, Sessions Court, Karimnagar, against accused Nos. 1 and 2. The advocate informed P. Ws. 1 and 4 that the Sessions Judge wanted them to give another complaint to the Police, So they got Ex. P.I complaint typed and gave it in the Police Station.
+</p> 
+
+<p id="p_5">2. As regards the direct evidence for the offence, there is only the evidence of P. Ws. 1 and 4. But their evidence is corroborated by the evidence of P. Ws. 2, 3, 5, 6, 8 and 12 the friends and relatives of the accused in the Sessions Case who contributed some sums to enable P. Ws. 1 and 4 to make the payment to accused Nos. 1 and 2. The plea of the accused was one of denial. Accused No. 1 has also pleaded alibi by stating that he was at Hyderabad on 14-7-1970 on duty and he could not have received any money on that day at Karimanagar as alleged by the prosecution and also adduced some evidence in support of that plea.
+</p> 
+
+<p id="p_6">3. On the material placed before it, the trial Court, IV City Magistrate, Hyderabad, to which Court the case was transferred from Karimnagar, accepted the prosecution case and disbelieved the alibi pleaded by accused No. 1 and accordingly convicted both the accused and sentenced them as mentioned above and their convictions and sentences were confirmed on appeal preferred by them to the Assistant Sessions Judge, Hyderabad.
+</p> 
+
+<p id="p_7">4. It is true that there is only the evidence of P. Ws. 1 and 4 who were interested witnesses, with regard to the actual commission of the crime. But there are no inherent defects in their evidence. Their evidence appears to be cogent and convincing. Therefore, there is no difficulty in accepting the reliability of their evidence. Nonetheless, Sri Bhimaraju, the learned Counsel for the petitioners, has raised two points as to why even assuming that the evidence of P. Ws. 1 and 4 is reliable the convictions of the accused-petitioners cannot follow on the basis of their evidence only. The points urged by him are (1) The evidence of P. Ws. 1 and 4 is in the nature of the evidence of that of an accomplice and it requires corroboration on material particulars connecting the accused With the crime before it can be acted upon. (2) There is no evidence to show that at the time of the transaction the petitioners were actuated with a dishonest intention without any idea of attempting to bribe the Sessions Judge. Taking the first point first, the first question for consideration is whether P. Ws. 1 and 4 can be said to be accomplices to the crime. Here, the crime we are concerned with is the offence of cheating said to have been committed by the petitioners by dishonestly inducing P. Ws. 1 and 4 to part with money. So far as this offence is concerned, P. Ws. 1 and 4 cannot be said to be its accomplices. On the other hand they were its victims. An accomplice is a person who has either participated or concurred in the commission of an offence. He may be a partner in the crime or an associate in guilt. Sri Bhima Raju seeks to dub P. Ws. 1 and 4 as accomplices for the reason that they were guilty of attempting to commit the offence of bribing the Sessions Judge and therefore they are accomplices. It is true that P. Ws. 1 and 4 wanted to bribe the Sessions Judge with the help of the petitioners. Therefore, they cannot be said to be men of integrity and wanting in character. So far as that offence of attempting to bribe the Sessions Judge is concerned, they may be accomplices. In [bribery cases, Courts have always held that persons who actually pay the bribe or cooperate in its payment or are instrumental in the negotiations are also accomplices of the person who bribes. But so far as the present offence of cheating is concerned, by no stretch of imagination, can it be said that they were accomplices to it when they were actual-1 ly the victims of the offence.
+</p> 
+
+<p id="p_8">5. In support of his contention, the learned Counsel has placed reliance on two decisions which are C. Subba Rao v. K. B. Reddy  and <a href="/doc/1687464/" id="a_2">Bhulu Mia v. The State</a> . In the first mentioned case which relates to an election petition where corrupt practice of bribing the voters by a candidate in the election was alleged this Court while considering the evidence of a voter, who is said to have received a bribe, has come to the conclusion that receiver of a bribe in relation to the giver is an accomplice and therefore he is unworthy of credit unless corroborated in material particulars. Though the corrupt practice which the Court was considering relates to giving of the bribe, as the taking of the bribe is intimately connected with it as there cannot be any giving of a bribe without taking it and because of that intimate connection between the giver and taker this Court said that the evidence of the receiver of a bribe is in the nature of that of an accomplice. That case has no parallel to the facts of this case. In the second mentioned case of the Calcutta High Court, the Calcutta High Court was dealing with an offence of keeping a brothel. The Magistrate relied upon the evidence of pimps and prostitutes engaged by the keeper of the brothel. The Calcutta High Court held that their evidence is in the nature of that of an accomplice and therefore requires corroboration. In that case also, the pimps and prostitutes were intimately connected with the keeping of the brothel. Therefore, the facts of that case are also different from the facts here. In this connection a case of the Madras High Court which was relied on by Sri Bhima Raju for the second point may also be mentioned. It is <a href="/doc/216089/" id="a_3">Public Prosecutor v. Bhimeswar Rao</a> AIR 1948 Mad 258 : (49 Cri LJ 443). In that case the accused was prosecuted for cheating the complainants by receiving an amount of Rs. 1,000/- from them under the representation that he would pay the same to the Income-tax Officer for avoiding the assessment of the complainants' firm to excess profits tax, but did not pay the same to the said officer. The complainants deposed as witnesses. The evidence was not treated as that of an accomplice for the reason that they wanted to bribe the Income-tax Officer with the money of which they were cheated. What all was said in that case by Rajamannar, J., (as he then was) is that though they are not certainly of high integrity because they admittedly abetted the offence of the alleged bribing, still that fact does not warrant a complete rejection of their evidence.
+</p> 
+
+<p id="p_9">6. Therefore, I do not find any substance in the first point raised by Sri Bhima Raju.
+</p> 
+
+<p id="p_10">7. Even otherwise, I think there is sufficient corroboration for the evidence of P. Ws. 1 and 4 in the evidence of P. Ws. 2, 3, 4, 5, 6, 8 and 12 with regard to some material particulars. According to P. Ws. 1 and 4 they made collections from those witnesses who are friends and relatives of the accused in the Sessions Case to make up the amount of Rs. 9,000/- which they paid to accused No. 1. In their evidence these witnesses have spoken to about the amounts they have paid to P. Ws. 1 and 4 to enable them to get the acquittal of the accused in that case by bribing or influencing the Sessions Judge. They spoke about the various amounts they have paid to P. Ws. 1 and 4. But the argument of Sri Bhima Raju is that though their evidence corroborates the evidence of P. Ws. 1 and 4 with regard to some material particulars of the case, those particulars do not connect the petitioners-accused with the crime and the corroboration required is not merely with regard to some particulars but those particulars must show a connection between the crime and the accused. For the proposition that with regard to the evidence of an accomplice the corroboration required is on material particulars which connect the accused with the crime, the learned Counsel has placed reliance on the following Supreme Court decisions; <a href="/doc/320833/" id="a_4">Sarwan Singh v. State of Punjab</a> , Hussain Umar v. Dalip Singhji  and <a href="/doc/1270588/" id="a_5">Sheshanna v. State of Maharashtra</a>  wherein it was held that the corroborating evidence must connect the accused with the crime. There is no difficulty about the principles. The very purpose of the requirement of corroboration with regard to the evidence of an accomplice before it is acted upon is to lend assurance to the testimony given by him and that assurance cannot come with regard to a particular accused unless the corroborating evidence connects him with the crime.
+</p> 
+
+<p id="p_11">8. Even so, I think there is sufficient mention of the two accused in the evidence of P. Ws. 5, 8, 11 and 12. P. Ws. 5 has stated that P. W. 1 told him that one Depot Manager and the driver promised to get the accused in the murder case acquitted by paying money to the Sessions Judge. P. W. 8 has stated that P. W. 1 met and told him that the driver and the businessman promised to get the acquittal of the accused in the murder case by paying Rs. 9,000/-. P. W. 11 has stated that the driver and the Depot Manager were managing to get the acquittal by making payment. P. W. 12 has stated that P. W. 4 told him that the money was to be paid to the Judge's driver and another person. Though the names of the petitioners were not mentioned by those witnesses the description given by them would certainly relate to accused No. 1 who was the Foreman in the Karimnagar Depot and accused No. 2 who was the driver of the Sessions Judge.
+</p> 
+
+<p id="p_12">9. Under these circumstances, I think even assuming that the evidence of P. Ws. 1 and 3 is in the nature of that of an acconv plice, even then there is sufficient corroboration for it in material particulars connecting the accused with the crime.
+</p> 
+
+<p id="p_13">10. The next argument of the learned Counsel is that there is no evidence to show that at the time of the representation the petitioners were actuated with the dishonest irjtention of misappropriating the amount without any idea of bribing the Sessions Judge and in the absence of such evidence no offence of cheating can be found. To put it in other words, according to the learned Counsel, at the time the petitioners made the representation to P. Ws. 1 and 4 that they would make the payment to the Sessions Judge for securing the acquittal of the accused in the sessions case, they made it falsely and with the intention to deceive them and from the mere fact that the money has not been really paid to the Sessions Judge it is not possible to conclude that at the time the representation was made the petitioners never had any intention of attempting to bribe the Sessions Judge. In support of this argument the learned Counsel placed reliance on a Madras decision <a href="/doc/923361/" id="a_6">Public Prosecutor v. Bhimeswara Rao</a> AIR 1948 Mad p. 258 : (49 Cri LJ 443) already referred to above, where the facts are: the complainants paid an amount of Rs. 1,000/-to their auditor on the representation made by him that he would pay the same to the Income-tax Officer for avoiding the assessment of the complainant's firm to excess profits tax which amount was not really paid to the Officer. Under the circumstances of that case, Rajamannar, J., (as he then was) observed that the accused might be foolish in assuming that he could bribe a Public Officer and when there is nothing to show that at the time when the complainants delivered the money to the accused there was actual deceit in the sense that it was not the intention of the accused ever to try to utilise the amount in that way, it is not possible to hold that the offence of cheating was committed. I do not think the same reasoning is valid in the present case to think that the petitioners might have foolishly assumed that they could bribe the Sessions Judge, which they could not do ultimately. Here, it is not the case of the petitioners that they actually thought of bribing the Sessions Judge but could not do or that they have bribed him actually. The petitioners have denied the transaction alogether. According to the evidence of P. Ws. 1 and 4, the 1st petitioner (accused No. 1) represented to them that he is related to the Sessions Judge, which appears to be not true at all. When the petitioners made such a representation to P. Ws. 1 and 4 and made them part with the money, the inference is irresistible, in my opinion, that they must have done it with the dishonest intenticpi of misappropriating the amount without any intention of attempting to bribe the Sessions Judge. Sri Bhima Raju has argued that in the absence of any positive evidence with regard to the dishonest intention at the time the representation was made and the amount was received, the denial of the transaction cannot form the basis of conviction. For that purpose he placed reliance on some decisions which are: Veer-anna v. Mastan Saheb , Sudhdeo v. The, <a href="/doc/225561/" id="a_7">State of Bihar , State of Kerala v. A. P. Pillai</a>  and <a href="/doc/553551/" id="a_8">Harnam Singh v. Emperor</a>, 1937 Cri LJ p. 814 : (AIR 1937 Lah 597)."
+</p> 
+
+<p id="p_14">What all was stated in the above decisions is that the mere fact that the accused denied the transaction at the trial does not necessarily show that they had a criminal intention from the beginning. Here, the inference is not drawn merely by the denial of the transaction. There is no evidence to show that the petitioners were in a position to influence the Sessions Judge. The representation made by the 1st petitioner that he is related to the Sessions Judge is false. It is highly improbable that persons in the position of the petitioners could have really thought of bribing the Sessions Judge. The denial of the transaction coupled with these circumstances really lead to the inference that with no intention of attempting to bribe the Sessions Judge they must have made the representation falsely and induced P. Ws. 1 and 4 to part with the money. I am unable to agree with the argument of the learned Counsel that there should be some positive evidence about the dishonest intention. That can be inferred only by the surrounding circumstances and subsequent conduct.
+</p> 
+
+<p id="p_15">11. Another argument, which appears to me to be very fantastic, submitted by the learned Counsel is that to constitute an offence of cheating the loss must have been to the person induced and in this case the loss cannot be said to be that of P. Ws. 1 and 4 who were the victims of the inducement as the amount they parted with on account of the inducement did not belong to them and it was the amount of the other Witnesses from whom they got it. The point for consideration is whether on account of the false representation and inducement the person induced parted with any property of not. How he got that property is besides the point. It is P. Ws. 1 and 4, to whom the false representation was made and were induced, who actually parted with the money on account of the false representation and inducement. It is not as if the false representation and inducement were made to P. Ws. 1 and 4 and some other persons parted with the money. Under these circumstan-, ces, I do not find any substance in this submission also of the learned Counsel.
+</p> 
+
+<p id="p_16">12. In the end, I do not see any merits in this revision case. Accordingly, it is dismissed.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

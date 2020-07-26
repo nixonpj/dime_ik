@@ -1,0 +1,683 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Anil Kumar Sharma vs Satya Narain V. Sandeep ... on 27 August, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/136201020/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 18 docs 
+      
+        - [<A HREF="/search/?formInput=cites:136201020">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/673245/">Krishna Janardhan Bhat vs Dattatraya G. Hegde on 11 January, 2008</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/8322296/">V.S.Yadav vs Reena on 21 September, 2010</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/4554/">Avon Organics Ltd. vs Poineer Products Ltd. And Ors. on 4 July, 2003</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/136201020/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/136201020/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ni%20act">ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=blanks%20%20%20filter%3A%20%20%20negotiable%20instruments%20act">blanks   filter:   negotiable instruments act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.138%20ni%20act">s.138 ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=138%20ni%20act">138 ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ni%20138%20">ni 138 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.138%20of%20ni%20act">sec.138 of ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20138%20ni%20act">sec 138 ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20138%20of%20ni">section 138 of ni</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20liability">legal liability</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20cheque%20not%20issued%20"> cheque not issued </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=blank%20signed%20cheque">blank signed cheque</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=promissory%20notes">promissory notes</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20debt%20liability">legal debt liability</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=signed%20blank%20paper">signed blank paper</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=loan%20transaction%20%20filter%3A%20%20notice%20not%20proved%20in%20case%20of%20section%20138%20of%20NI%20Act">loan transaction  filter:  notice not proved in case of section 138 of NI Act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20debt%20liability">no debt liability</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=written%20arguments">written arguments</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nagpal">nagpal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=blank%20cheque%20is%20no%20cheque">blank cheque is no cheque</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=blank%20cheque%20">blank cheque </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Anil Kumar Sharma vs Satya Narain V. Sandeep ... on 27 August, 2014</div><div class="doc_author">Author: Ms. Deepti Devesh</div>
+
+<pre id="pre_1">                   IN THE COURT OF METROPOLITAN MAGISTRATE 
+                MUNICIPAL MAGISTRATE­01,  KKD, EAST, NEW DELHI 
+                                 Presided by : Ms. Deepti Devesh
+Complaint No. 429/13
+Unique ID No. 02402R0172082013
+PS: Krishna Nagar
+
+
+Anil Kumar Sharma,
+S/o Sh. Ram Babu Sharma,
+R/o 106 Baldev Park, Delhi­51,                                                   ........Complainant
+
+                                               VERSUS
+Priyanka Nagpal,
+D/o Sh. R.K. Nagpal,
+R/o E­5, Gali No.3, East Chander Nagar, Delhi                                  ........Accused
+
+
+                        Complaint under section 138 of the Negotiable
+                                             Instruments Ac t
+         Offence complained of                                 :       U/s 138 <a href="/doc/1132672/" id="a_1">NI Act</a>
+
+
+         Date of commission of offence                         :       10.05.2013
+
+
+         Plea of Accused                                       :       Not guilty
+
+
+         Final Arguments heard &amp; Concluded on                  :       30.07.2014
+
+
+         Date of decision of the case                          :       27.08.2014 
+
+
+         Final Order                                           :        Conviction  
+BRIEF FACTS AND REASONS FOR DECISION OF THE CASE: 
+1                Vide this Judgment I shall finally dispose off this complaint U/s 138 
+<a href="/doc/1132672/" id="a_2">NI   Act</a>   by   complainant   Sh.   Anil   Kumar   Sharma   against   the   accused   Priyanka 
+Nagpal.   The   complainant's   story   in   brief   is   that   the   accused   approached   the 
+
+
+    CC No. 429/13                                                                         page no. 1 /14
+ complainant as the family of the accused was having friendly relations with the 
+complainant. On 28.04.2011 the complainant had given a loan of Rs.4,50,000/­ 
+in cash to the accused, after withdrawing Rs.4,00,000/­ from his bank account 
+and remaining Rs.50,000/­ from his home savings, for a period of 1.5 years in 
+lieu of promissory note dated 28.04.2011 executed by the accused in favour of the 
+complainant. In order to repay the loan, the accused issued post dated cheque 
+bearing no. 014781 dated 15.04.2013 for Rs.4,50,000/­ drawn on Lakshmi Villas 
+Bank Ltd, Krishna Nagar branch in favor of the complainant and had assured the 
+complainant that the same shall be honored on its presentation. The said cheque 
+was presented by the complainant which was returned vide return memo with 
+endorsement   of   "Drawer's   signature   is   required   /   Incomplete   /   Differs   from 
+Specimen". Thereafter the complainant issued legal notice dated 23.04.2013. The 
+complainant has also stated that despite service of the legal notice the accused 
+did not make any payment in discharge of her liability.  
+
+
+2                After   the   filing   of   the   complaint   and   closing   of   pre­summoning 
+evidence, vide order dated 25.06.2013, summons were issued to the accused for 
+the   offence   U/s   138   <a href="/doc/1132672/" id="a_3">NI   Act</a>.  The   accused   was   admitted   to  bail  on   26.07.2013. 
+Thereafter notice U/s 251 Cr. PC was framed upon the accused on 07.08.2013 to 
+which she did not plead guilty and claimed trial.
+
+
+3                Application U/s 145(2) <a href="/doc/1132672/" id="a_4">NI Act</a> was filed by the accused on 23.08.2013, 
+which was allowed vide order dated 04.09.2013. Thereafter the matter was fixed 
+for CE. 
+
+
+4                In order to prove its case, the complainant examined himself as CW­1 
+who reiterated the contents of the complaint on Oath and filed evidence by way of 
+affidavit.   CW­1   exhibited   statement   of   account   showing   withdrawal   of 
+Rs.4,00,000/­ from his bank account as Ex. CW1/A, Promissory note / receipt 
+dated 28.04.2014 as Ex. CW1/B, deposit slip for the cheque in question as Ex. 
+CW1/C,   original   cheque   bearing   no.   014781   dated   15.04.2013   as   Ex.   CW1/D, 
+
+
+    CC No. 429/13                                                                         page no. 2 /14
+ return memo dated 15.04.2013 as Ex. CW1/E, legal notice dated 23.04.2013 as 
+Ex. CW1/F, Registered post receipts and speed post receipt as Ex. CW1/G &amp; Ex. 
+CW1/H respectively, returned AD card as Ex. CW1/I &amp; Net tracking report as Ex. 
+CW1/J. Thereafter CW­1 was cross examined and discharged.
+
+
+5                 After that, on 13.01.2014, the accused was examined U/s 313 Cr. PC 
+and her statement was duly recorded.  All the incriminating evidence were put to 
+the accused, to which the accused denied taking any loan from the complainant. 
+She firstly denied her signatures on the promissory note but later on, again said 
+that the signatures on the promissory note was her's only but she had not given 
+the said promissory note to the complainant. She further submits that she had 
+not issued the cheque in question from her side to the complainant. The accused 
+also denied receiving any legal notice from the complainant and further denied 
+her liability towards the complainant. The accused further stated that she does 
+not   even   know   the   complainant.   Infact,   the   complainant   had   financial 
+transactions with her father and her father had taken a loan of Rs.50,000/­ @ 
+interest of 3% per month from the complainant. Since her father could not pay 
+back the loan amount to the complainant within the stipulated period of three 
+months, hence, the present case has been filed against her by the complainant. 
+She further, claimed that may be her father had given the cheque in question to 
+the complainant. It was further submitted by the accused that the complainant 
+has also filed another case against her mother. The accused also stated that she 
+wanted to lead defence evidence.  
+
+
+6.                Accused examined herself as DW­1. She stated that she knows the 
+complainant as he was on visiting terms with her father and he occasionally used 
+to visit her home at Chandan Nagar, however, she had not taken any loan from 
+the   complainant.   She   further   stated   that   her   father   had   taken   a   loan   of 
+Rs.50,000/­ @ interest of 3% per month from the complainant. At the time of 
+taking of loan, her father handedover the cheque in question and one pronote Ex. 
+CW1/B and one cheque signed by her mother to the complainant as security. It 
+
+
+     CC No. 429/13                                                                         page no. 3 /14
+ was further submitted by her that since her father could not pay interest for 2­3 
+months on the loan, therefore, the complainant has filed the present case and the 
+complainant   has  filed   a   number   of   other   cases   against   various   other   persons. 
+Thus the complainant is doing the business of money lending. Thereafter DW­1 
+was cross examined and discharged.
+
+
+7.        The   accused   then   examined   her   father   Sh.   R.K.   Nagpal   as   DW­2.   He 
+reiterated the averment made by the accused in her examination in chief and the 
+same is not being repeated herein for the sake of brevity. Thereafter DW­2 was 
+cross   examined   and   discharged.   Defence   evidence   was   closed   and   matter   was 
+fixed for final arguments. 
+
+
+8                 Final   arguments   were   addressed   and   heard   on   behalf   of   both   the 
+parties.   Ld. Counsel for the complainant has reiterated the averments made in 
+the complaint. He has argued that the accused has failed to disclose any defence. 
+Therefore all ingredients of U/s 138 <a href="/doc/1132672/" id="a_5">NI Act</a> stands fulfilled and the accused is 
+liable   to   be   convicted.   Counsel   for   the   complainant   has   also   filed   written 
+arguments   on   behalf   of   the   complainant   reiterating   that   all   the   ingredient   for 
+offence U/s 138 <a href="/doc/1132672/" id="a_6">NI Act</a> has been made out against the accused. He has further 
+stated   in   his   written   arguments   that   accused   has   not   brought   any   defence 
+evidence   to  support   her   claim   that   the   cheque   in   question   has   been   given   as 
+security or that she is not liable to pay the cheque amount. Ld. Counsel for the 
+complainant has relied upon various case laws, which are as under:
+a)        <a href="/doc/1242890/" id="a_7">Umaswamy v. K.N. Ramnath</a> 2007 (2) DCR 377,
+b)        <a href="/doc/141554145/" id="a_8">Kajal   v.   Vikas   Marwah</a>   decided   by   Hon'ble   High   Court   of   Delhi   on 
+27.03.2014</pre><p id="p_1"> in Criminal Appeal no. 870 / 2013, 
+</p><p id="p_2">c)        <a href="/doc/141639/" id="a_9">R.R. Naidu v. K.S. Prasad &amp; Anr</a> 2004 (1) DCR 91,
+</p><p id="p_3">d)        V. Satya Narain v. Sandeep Enterprises 2005 (1) DCR 203,
+</p><p id="p_4">e)        K.P. Morajkar v. Joe Ferrao &amp; Anr 2013 ACD 942 (Bom),
+</p><p id="p_5">f)        Jai Prakash Singh v. Rashmi Aggarwal in Criminal Revision Petition 
+
+
+     CC No. 429/13                                                                         page no. 4 /14
+ 749/2010 decided by Hon'ble High Court of Delhi on 11.07.2013.
+</p>
+
+<p id="p_6">9                 On the other hand, the Counsel for the accused has argued that the 
+present   complaint   should   be   dismissed   as   there   is   no   legal   liability   upon   the 
+accused to pay the complainant as no loan of Rs.4,50,000/­ was ever taken by 
+the accused from the complainant. Infact, the father of the accused handed over 
+the cheque in question to the complainant as security. Counsel for the accused 
+has   further   stated   that   the   cheque   in   question   has   been   misused   by   the 
+complainant.   Counsel   for   the   accused   has   filed   written   arguments   and   has 
+further relied upon the following case laws: 
+</p><p id="p_7">a)        <a href="/doc/1880223/" id="a_10">Sudhir Kumar Bhalla v. Jagdish Chand &amp; Ors</a> 2009 (2) CRL 199 (S.C),
+</p><p id="p_8">b)        <a href="/doc/1791370/" id="a_11">K. Prakashan v. P.K. Surenderan Crl</a>. Appeal No.1410 of 2007,
+</p><p id="p_9">c)        <a href="/doc/673245/" id="a_12">Krishana Janardhan Bhat v. Dattatraya G. Hegde Criminal Appeal No</a>. 
+518 of 2006,
+</p><p id="p_10">d)        <a href="/doc/225296/" id="a_13">G. Gopan v. Tonny Varghese Crl</a>. A No.668 of 2000(A),
+</p><p id="p_11">e)        <a href="/doc/4554/" id="a_14">M/s   Avon   Organics   Ltd   v.   M/s   Pioneer   Products   Limited   &amp;   others 
+Criminal Appeal No</a>. 181 of 1999,
+</p><p id="p_12">f)        Sriniwasan v. State of Kerala Criminal MC No. 6088/1998 decided by 
+Hon'ble Kerala High Court on 11.10.1999,
+</p><p id="p_13">g)        <a href="/doc/1050538/" id="a_15">Jose v. P.C. Joy Crl</a>. RP No.4487 &amp; 3275 of 2006,
+</p><p id="p_14">h)        <a href="/doc/98511133/" id="a_16">Abdul   Rahman   v.   U.P.K.   Mohammed   Haneefa   Crl</a>.   Appeal   No.96   of 
+1998,
+</p><p id="p_15">i)        Shanku   Concretes   Pvt   Ltd   &amp;   ors   v.   State   of   Gujrat   &amp;   Anr   Criminal 
+Misc. Application No. 4171 of 1999.
+</p>
+
+<p id="p_16">10                Arguments advanced by both the parties have been heard at length. I 
+have also perused the judicial record. 
+</p>
+
+<p id="p_17">11                For offence U/s 138 <a href="/doc/1132672/" id="a_17">NI  Act</a> the necessary ingredients to be proved 
+are:
+</p>
+<pre id="pre_2">     CC No. 429/13                                                                         page no. 5 /14
+        a)      That the accused had a legal liability / debt towards the complainant.
+       b)      That the accused issued a cheque in discharge of the said legal 
+               liability / debt.
+       c)      That the accused was maintaining a bank account for the cheque 
+               issued by him. 
+       d)      That the cheque was presented by the complainant within its validity 
+                       period.
+       e)      That the cheque was dishonored on his presentation.
+       f)      That the complainant issued legal demand notice within 30 days from 
+                       the date of dishonor of the cheque.
+       g)      That the accused failed to pay within 15 days of receipt of legal 
+               demand notice. 
+</pre><p id="p_18">               If the above ingredients are proved then an offence punishable U/s 
+138 <a href="/doc/1132672/" id="a_18">NI Act</a> is committed.
+</p>
+
+<p id="p_19">12             In the present case, the accused has stated in the notice framed U/s 
+251 Cr. PC that she had signed the cheque in question but had not issued the 
+same to the complainant. She stated that she used to keep blank signed cheques 
+at her home and that her father might have given the cheque in question to the 
+complainant as security. She has reiterated the same in her statement U/s 313 
+Cr.   PC   and   also   in   her   examination   in   chief.   She   has   further   stated   that   the 
+cheque in question has not been filled by her in notice framed U/s 251 Cr. PC. 
+Since the accused has admitted her signatures on the cheque in question and the 
+fact that the cheque in question had been given to the complainant, therefore, it 
+is  irrelevant  for  offence  U/s 138 <a href="/doc/1132672/" id="a_19">NI  Act</a>  that  the  cheque  in question  had  been 
+given to the complainant by some other person than the accused. It is sufficient 
+that the cheque in question has been signed by the accused and that it was given 
+to the complainant, to raise the statutory presumption U/s 118 &amp; 139 <a href="/doc/1132672/" id="a_20">NI Act</a> in 
+favour of the complainant. Therefore, the particular ingredient for offence U/s 138 
+<a href="/doc/1132672/" id="a_21">NI Act</a>, that whether the cheque in question was issued or not to the complainant 
+is clearly in favour of the complainant and against the accused. 
+</p>
+
+<pre id="pre_3">  CC No. 429/13                                                                         page no. 6 /14
+ 13             The   accused   has   further   denied   receiving   legal   notice   from   the 
+</pre><p id="p_20">complainant in her  notice U/s 251 Cr. PC, statement U/s 313 Cr. PC and her 
+cross examination. However, the statutory presumption of delivery of notice is in 
+favour of the complainant. Further, the legal notice has been sent at the same 
+address as the summons from the court which has been duly received by the 
+accused. The accused has also admitted in her cross examination that she has 
+been residing at the same address on which the legal notice has been sent since 
+her  birth till 04.02.2014 and the legal notice has been sent on 23.04.2013, at 
+which time the accused was still residing at that address. Further, she has also 
+admitted   her   signatures   in   her   cross   examination   on   Ex.   CW1/I   which   is   the 
+registered AD card for the legal notice sent by registered post. In light of all this, it 
+can safely be concluded that the legal notice was also received by the accused. 
+Hence, the disputed question to be decided is whether the cheque in question was 
+issued in discharge of legal liability / debt to the complainant.  
+</p>
+
+<p id="p_21">14             Now, the question of liability of the accused to pay the complainant 
+shall  be  dealt   with.  In the  present  case  the  complainant   has  averred  that   the 
+cheque in question was issued against discharge of liability arising out of loan 
+transaction   between   the   parties.   Since   the   cheque   in   question   is   bearing   the 
+name   of   complainant   and   the   present   complaint   has   been   filed   by   the 
+complainant in his own name therefore, presumption arises U/s 118­A &amp; 139 <a href="/doc/1132672/" id="a_22">NI 
+Act</a> in favour of the complainant that the cheque was issued in discharge of a 
+legal liability. Thus, the onus to rebut this presumption is on the accused. The 
+accused   has   disputed   her   legal   liability   to   make   payment   on   the   ground   that 
+there was no loan transaction between the parties and that the same has been 
+misused by the complainant. 
+</p>
+
+<p id="p_22">15             The   accused   has   taken   the   defence   that   the   cheque   had   been 
+handedover to the complainant in blank signed condition. The accused has relied 
+upon <a href="/doc/4554/" id="a_23">Avon Organics Ltd v. Pioneer Products Ltd and Ors</a> in criminal Appeal  
+
+  CC No. 429/13                                                                         page no. 7 /14
+ no.   181/1999  decided   by  Hon'ble  Andhra   Pradesh   High  Court   on   04.07.2003, 
+wherein it was held that if a blank cheque has been issued by the accused no 
+evidence exist to show that the accused had consented to the payee filling up the 
+amount   in   the   cheque,   then   the   accused   is   not   liable   U/s   138   <a href="/doc/1132672/" id="a_24">NI   Act</a>.   The 
+complainant, on the other hand, has denied in his cross examination that the 
+cheque in question was a blank signed cheque and rather stated that the accused 
+has given the cheque in question in filled up condition. The law does not require 
+that for offence u/s 138 <a href="/doc/1132672/" id="a_25">NI Act</a>, the entire cheque has to be in handwriting of the 
+accused.   Admission   of   signatures   is   sufficient   to   prove   that   the   cheque   in 
+question  must   have  been  issued  in  discharge of  some  legal liability   / debt.  <a href="/doc/324041/" id="a_26">In 
+Jaipal Singh Rana v. Swaraj Pal</a> 149 (2008) DLT 682, the Hon'ble Delhi High 
+Court has held that there is no alteration in a cheque if the amount and the date 
+are filled by somebody else apart from the signatory of the cheque. It was further  
+held that there is no law that requires the filling up of entire cheque by drawer 
+himself. Further, in <a href="/doc/692276/" id="a_27">Ravi Chopra v. State &amp; Anr</a> 2008 (2) LRC 118 (Del), it has 
+been   held   that   if   a   blank   signed   cheque   is   given   then   it   is   possible   that   the 
+drawer has consented impliedly or expressly to filling up of the cheque by the 
+payee on a later date. Further in  <a href="/doc/143232225/" id="a_28">Vijender Singh v. Eicher Motors Ltd &amp; Anr</a> 
+decided by Hon'ble Delhi High Court on 05.05.2011, it was laid down that any 
+person who issues blank signed cheque should understand the consequences of 
+doing so. Therefore, in view of the above case laws, it is no defence to offence U/s 
+138 <a href="/doc/1132672/" id="a_29">NI Act</a> that the cheque in question was issued in blank signed condition. 
+</p>
+
+<p id="p_23">16             It is the case of the complainant that the complainant gave a loan of 
+Rs.4,50,000/­   to   the   accused   and   also   got   Ex.   CW1/B   on   the   day   of   loan 
+transaction.       It   is   true   that   for   offence   U/s   138   <a href="/doc/1132672/" id="a_30">NI   Act</a>,   the   accused   is   not  
+expected   to   prove   his   defense   beyond   reasonable   doubt   in   order   to   rebut   the 
+statutory presumption. Same has been held by Hon'ble Supreme Court in <a href="/doc/363129/" id="a_31">Kumar 
+Exports v. Sharma Carpets</a> (2009) 2 SCC 513. Now it will have to be examined 
+whether the accused has been able to rebut the statutory presumption U/s 118 &amp; 
+
+
+  CC No. 429/13                                                                         page no. 8 /14
+ 139 of <a href="/doc/1132672/" id="a_32">NI Act</a>. 
+</p>
+
+<p id="p_24">17             The Hon'ble High Court of Delhi has held in  <a href="/doc/8322296/" id="a_33">V.S. Yadav v. Reena</a>  
+172 (2010) DLT 561  that the offence U/s 138 <a href="/doc/1132672/" id="a_34">NI Act</a> is a technical offence and 
+the complainant is required only to prove that the cheque issued by the accused 
+was dishonored, that the cheque was issued in discharge of legal liability / debt, 
+that legal notice was sent by the complainant within 30 days of dishonor and that 
+accused failed to pay the cheque amount within 15 days of receipt of legal notice.
+</p>
+
+<p id="p_25">18             It is the duty of the Court to balance the statutory presumption in 
+favour of the complainant and the defence disclosed / material produced by the 
+accused in order to rebut the statutory presumption and then come to a view 
+regarding the ascertainment of the truth. The same has been held by the Apex 
+Court in <a href="/doc/673245/" id="a_35">Krishana Janardhan Bhat v. Dattatraya G. Hegde Criminal Appeal  
+No</a>. 518 of 2006. 
+</p>
+
+<p id="p_26">19             In the instant  case the accused has no where stated either  in her 
+notice U/s 251 Cr. PC, statement U/s 313 Cr. PC or in her evidence that she had 
+demanded return of the cheque in question from the complainant or she had sent 
+any legal notice to the complainant to return the cheque in question along with 
+the blank signed paper given to the complainant. Hence, the accused has failed to 
+prove that she act like a prudent, reasonable person and in absence of the same, 
+her defence that she had not taken the loan amount from the complainant can 
+not taken to be proved. It is not even the case of the accused that the father of 
+the accused ever demanded the return of the cheque in question along with the 
+blank signed paper orally or in writing from the complainant. 
+</p>
+
+<p id="p_27">20             Ex.   CW1/B   fortifies   the   statutory   presumption   in   favour   of   the 
+complainant as the said document is a promissory note / receipt executed by the 
+accused   in   favour   of   the   complainant   acknowledging   the   loan   amount   of 
+
+
+
+  CC No. 429/13                                                                         page no. 9 /14
+ Rs.4,50,000/­ between the parties. Ex. CW1/B  clearly states that the accused 
+has taken a loan of Rs.4,50,000/­ in cash without   any   interest   and   the   same 
+shall be returned on demand or order to the complainant within one and half 
+years.   The   accused   has   admitted   her   signature   on   Ex.   CW1/B,   however,   the 
+accused has stated that she had not given this receipt to the complainant and 
+that her father may have handedover the same to the complainant. The father of 
+the   accused   has   stated   in   his   evidence   that   he   had   handedover   blank   signed 
+pronote to the complainant. It is a basic principle of the law of evidence that a 
+fact is said to be proved when its existence is so probable that a reasonable man 
+would believe it to be true. In the instant case, the father of the accused has used 
+the word 'blank signed pronote' in his examination in chief, and not 'blank signed 
+paper'.   Therefore,   it   is   hard   to   believe   that   a   pronote   which   was   supposedly 
+created after obtaining the signatures, would be in the knowledge of the father of 
+the   accused   at   the   time   of   handingover   the   blank   signed   paper   to   the 
+complainant.   Further,   the   signature   of   the   accused   on   Ex.   CW1/B   is   across 
+revenue   stamp   and   no   normal   prudent   reasonable   person   would   give   a   blank 
+signed stamped paper to any person. Further, Ex. CW1/B is printed in such a 
+manner that there is optimum gap between the printed portion and the pasted 
+stamp bearing signatures of the accused across it. This fact makes it improbable 
+that the typed portion of Ex. CW1/B was typed after obtaining the signature of 
+the   accused.   Further,   the   accused   herself   has   admitted   that   the   address 
+mentioned   on   Ex.   CW1/B   below   her   signatures   is   in   her   handwriting,   which 
+further fortifies the case of the complainant that the said document was already 
+typed when it was duly signed by the accused. Thus it is proved that the accused 
+signed Ex. CW1/B  after it was typed and since the accused has admitted her 
+signature   on   Ex.   CW1/B,   therefore,   the   execution   of   this   receipt   is   also   not 
+disputed. Hence, Ex. CW1/B appears to be a genuine document and this court 
+deems it fit to rely upon the same. 
+</p>
+
+<p id="p_28">21            The defence raised by the accused that there was no loan transaction 
+between the parties, rather there was a loan transaction between the complainant 
+
+
+  CC No. 429/13                                                                         page no. 10 /14
+ and father of the accused appears to be a clever after thought concocted by the 
+accused   to   sleep   away   from   the   hands   of   law.   It   does   not   appear   to   be   the 
+behavior of a reasonable prudent person to take loan and then issue blank signed 
+cheques and blank signed paper in the name of his wife and daughter. There, is 
+no   explanation   put   forward   by   the   accused   as   to   why   she   kept   blank   signed 
+cheques   at   her   home   when   she   was   not   earning   and   was   only   maintaining 
+balance of Rs.20,000/­ to Rs.30,000/­ in her account. There is no explanation as 
+to why the father of the accused would give a blank signed cheque signed by his  
+daughter   after   taking   a   loan   of   Rs.50,000/­   no   knowing   fully   well   that   his 
+daughter   is   only   maintaining   a   balance   of   Rs.20,000/­   to   Rs.30,000/­   in   her 
+account. It is also unbelievable that the father of the accused would give blank 
+signed   cheque   and   blank   signed   paper   in   the   name   of   his   daughter   without 
+informing his daughter as claimed by the accused consistently that the cheque in 
+question and Ex. CW1/B may have been given by her father to the complainant. 
+Further, the accused in her  evidence has been unable to explain the purpose of 
+keeping   blank   signed   cheques   at   her   house   when   she   has   stated   in   her 
+examination in chief that she is a student and is not earning any money. It is also 
+unbelievable that her father would issue her cheque for security purposes, if the 
+accused was not earning any money and did not have sufficient balance in her 
+account as stated in her cross examination. She has stated she used to keep only 
+Rs.20,000/­ to Rs.30,000/­ in her account. The accused has also contradicted 
+herself in her cross examination wherein she has stated in one point that she 
+used to keep entire cheque book in blank signed condition, but later on she has 
+stated that she used to keep one or two blank signed cheques only. All of the 
+above, cumulatively, do not inspire confidence and the accused is not considered 
+to be a reliable witness. Furthermore, the actions of her father do not seem to be 
+the actions of a reasonable prudent person and hence, he also is a unreliable 
+witness. 
+</p>
+
+<p id="p_29">22             Counsel for the accused has stated in his written arguments that the 
+complainant has deposed that he will show the loan amount in his ITR whenever 
+
+
+  CC No. 429/13                                                                         page no. 11 /14
+ he   file   the   same.   However,   as   the   complainant   has   not   filed   his   ITR   till   date 
+therefore, the transaction in question has not been proved by the complainant. It 
+is the law of evidence that a document which supports the case of a party, the 
+onus is upon that party to either bring or summon the document in evidence to 
+prove its case. In the instant case, if the ITR of the complainant for the relevant 
+period was crucial to the accused for his case, the onus was upon the accused to 
+summon the said document from the complainant, however, the record of entire 
+cross examination of the complainant shows that only question was put to the 
+complainant about reflecting the loan amount in his ITR, and no where has the 
+accused called upon the complainant to produce his ITR for the relevant period 
+as and when is the same filed by him. Therefore, the said arguments does not 
+deserves any consideration. 
+</p>
+
+<p id="p_30">23             Counsel for the accused has further argued in his written arguments 
+that   the   loan   in   question   is   doubtful   as   the   complainant   has   admitted   in   his 
+cross examination that the father of the accused approached him for loan but he 
+had refused him on the ground that the father of the accused was already under 
+liability   and   therefore,   it   is   unbelievable   that   the   complainant   would   advance 
+such a huge amount of loan to the daughter of the same person. As discussed 
+above, the accused is require to prove her defence on the basis of preponderance 
+of   probability.   The   arguments   advanced   by   the   counsel   for   the  complainant   is 
+merely a conjecture that the complainant could not have advance such a heavy 
+loan amount to the daughter of the same person to whom he had refused to give 
+loan.   No   documentary   evidence   has   been   brought   forward   by   the   accused   to 
+dispute   the   factum   of   loan   transaction,   while   the   complainant   has   placed   on 
+record the receipt of withdrawal of Rs.4,00,000/­ from his bank account and the 
+promissory note admittedly signed by the accused. Therefore, this defence on the 
+basis of mere conjecture can not be accepted. 
+</p>
+
+<p id="p_31">24             Counsel for the accused further stated in his written arguments that 
+the complaint has been filed with malafidely intention as the complainant has 
+
+
+  CC No. 429/13                                                                         page no. 12 /14
+ deliberately suppressed the fact that he is a money lender and that he has filed 
+other complaint cases U/s 138 <a href="/doc/1132672/" id="a_36">NI Act</a> against the mother of the accused which is 
+pending before another court. Firstly, the accused has not brought any evidence 
+to   show   that   the   complainant   is   a   money   lender   and   secondly,   even   if   it   is 
+assumed to be true that the complainant is a money lender than also this is no 
+defence as <a href="/doc/1823824/" id="a_37">Section 138</a> NI Act is a remedy enforcible before criminal court and no 
+provision of law debarres a money lender from instituting complaint U/s 138 <a href="/doc/1132672/" id="a_38">NI 
+Act</a>, the same has been held by Hon'ble Delhi High court   in  Kajal v. Marwah  
+Criminal Appeal no. 870/2013 decided on 27.03.2014. further, the fact that 
+the complainant may have filed other complaints against family members of the 
+accused is no defence for the accused in the present case. 
+</p>
+
+<p id="p_32">25             Counsel for the accused has relied on several case laws in support of 
+his contentions, however, the said case laws are distinguishable from the present 
+complaint on the facts of the case and therefore, are inapplicable.  
+</p>
+
+<p id="p_33">26             The statutory presumption in <a href="/doc/1132672/" id="a_39">NI Act</a> are mandatory in nature and the 
+same can not be rebutted by mere explanations of the accused. It is to be shown 
+by the accused that the explanations given is not only reasonable, but also a true 
+one. In order to do so, the accused is required to produce such cogent evidence 
+which inspires confidence of the Court to believe of the case of the accused rather 
+then believing the case of the complainant, who was admittedly in possession of 
+the dishonored cheque, admittedly signed by the accused. (<a href="/doc/72279575/" id="a_40">Attar Singh Wadhwa  
+v. NCT of Delhi</a> decided by Hon'ble High Court of Delhi on 23.12.2009).   
+</p>                
+<p id="p_34">27             The Hon'ble High Court of Delhi has held in  <a href="/doc/8322296/" id="a_41">V.S. Yadav v. Reena</a>  
+172 (2010) DLT 561  that the offence U/s 138 <a href="/doc/1132672/" id="a_42">NI Act</a> is a technical offence and 
+the complainant is required only to prove that the cheque issued by the accused 
+was dishonored, that the cheque was issued in discharge of legal liability / debt, 
+that legal notice was sent by the complainant within 30 days of dishonor and that 
+
+
+  CC No. 429/13                                                                         page no. 13 /14
+ accused failed to pay the cheque amount within 15 days of receipt of legal notice. 
+In view of the above discussion the complainant has discharged the burden upon 
+him   to prove  the  above  said  ingredients  beyond  reasonable  doubt.  Accordingly 
+accused Priyanka Nagpal, D/o Sh. R.K. Nagpal, R/o E­5, Gali No.3, East Chander 
+Nagar, Delhi stands convicted of the offence under <a href="/doc/1823824/" id="a_43">section 138</a> NI Act.   
+</p>
+
+<p id="p_35">28              Let a copy of the Judgment be supplied to the accused free of cost.    </p><pre id="pre_4">
+
+
+
+
+Announced in the open court  
+today i.e.27.08.2014                                                     (DEEPTI DEVESH)
+                                                                       MM:KKD:DELHI:27.08.2014
+</pre>Containing 14 pages all signed by the presiding officer.           <pre id="pre_5">
+ 
+                                                                        (DEEPTI DEVESH)
+                                                                  MM:KKD:DELHI:27.08.2014  
+
+
+
+
+    CC No. 429/13                                                                         page no. 14 /14
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

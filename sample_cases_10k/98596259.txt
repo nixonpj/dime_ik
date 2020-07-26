@@ -1,0 +1,625 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Amit Kumar on 4 September, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/98596259/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/224316/">Section 281 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/98596259/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/98596259/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Kunwar%20Pal">Kunwar Pal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dd%20entries">dd entries</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law">criminal law</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Amit Kumar on 4 September, 2012</div><div class="doc_author">Author: Sh. Shailender Malik</div>
+
+<pre id="pre_1">                IN THE COURT OF SHRI  SHAILENDER MALIK : ACMM/
+                             NORTH EAST, KARKARDOOMA COURTS, DELHI.
+
+           State Vs. Amit Kumar 
+           FIR No. 71/07
+           U/S: 25/54/59 <a href="/doc/1934415/" id="a_1">Arms Act</a> 
+           P.S.: Shahdara  
+
+
+                                                                          Date of Institution of case:29.03.2007
+                                                    Date on which judgment is reserved: 04.09.2012 
+                                                   Date on which judgment is delivered: 04.09.2012
+
+                              Unique I.D. No. 02402RO263672007
+
+J U D G M E N T 
+</pre> 
+<pre id="pre_2">a) Sl. no. of the case                      CC No. 48/07
+   
+b) Date of commission of offence              20.02.2007
+
+
+c) Name of complainant                     Ct. Kunwar Pal 
+d)Name of accused, his parentage 
+and address                                  Amit Kumar S/o Munesh Kumar 
+                                           r/o: E 33, gali no. 1, West Jyoti Nagar, 
+                                       Kardampuri Marg, Shahdra, Delhi. 
+
+e) Offence complained of 
+or proved                                                    U/S:25/54/59 <a href="/doc/1934415/" id="a_2">Arms Act</a>  
+
+f ) Plea of the accused                                 :Pleaded  not guilty
+g) Final order                                               : Acquitted  
+  
+h) Date of such order                                   : 04.09.2012. 
+
+j) Brief reasons for the just decision of the case 
+
+</pre><p id="p_1">       Accused Amit Kumar S/o Munesh Kumar   was sent up to face trial for 
+
+FIR NO. 71/07                                                                              Page 1of 12pages
+ offence under <a href="/doc/73862/" id="a_3">Section 25</a>  Arms Act with the allegations that on 20.02. 2007,  at 
+
+about 10.40 am at near gate of DDA ground, Wazirabad Road, Shahdaras, delhi 
+
+accused   was   found   in   possession   of   a   button   actuated     knife     without   any 
+
+licence or permit in contravention of notification issued by DAD and thereby 
+
+committed   the   offence   under   <a href="/doc/73862/" id="a_4">Section   25</a>   Arms   Act.   After   the   necessary 
+
+investigation chargesheet was filed.
+</p>
+<p id="p_2">
+
+</p><p id="p_3">       Copy   of   the   chargesheet   was   supplied   to   the   accused.     Learned 
+
+predecessor of this court having considered the material available on record, 
+
+vide   order   dated   16.10.2008   had   framed   the   charge   against   the   accused   to 
+
+which he had pleaded not guilty and claimed trial.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">       To substantiate the charge,   prosecution has examined as many as six 
+
+witnesses.
+</p>
+<p id="p_6">       PW1 is HC  Jag Roshni who  was the duty officer and  who had proved the 
+
+registration   of   formal   FIR   as   Ex.   PW1/A   on   the   basis   of   tehrir   sent   by   SI 
+
+Bhupender and his endorsement on the tehrir as Ex.PW1/B. 
+
+</p><p id="p_7">       PW2  is  SI  Bhupender  Kumar     has testified  that  on  20.02.2007,  he  was 
+
+posted at PS Shahdra and on that day, during patrolling he had   reached at 
+
+DDA ground Wazirabad Road, Shahdara where Ct. Kunwar Pal alongwith the 
+
+
+
+FIR NO. 71/07                                                                      Page 2of 12pages
+ accused Amit Kumar   met him.   Ct. Kunwar Pal produced the accused Amit 
+
+before him alongwith recovered knife from the possession of the accused. Ct. 
+
+Kanwar   Pal   got   recorded   his   statement   to   him   vide   Ex.   PW2/A   and   duly 
+
+attested by him at point X He had asked 4­5 passersby to join the investigation 
+
+but   none   agreed   and   left   the   spot   after   telling   reasonable   excuses.   He   had 
+
+opened the knife with the help of button. He had  prepared the sketch of the 
+
+knife which was 24 cm in total length, handle was 13cm, blade was 11 cm in 
+
+length and width of the blade was 2.5cm. The blade was made of steel and the 
+
+handle was made of iron having strips of alluminium type metal having red 
+
+and green circles. The button was having a hole. The sketch is Ex. PW2/A . The 
+
+knife was taken into possession after sealing the same with the seal of BKS vide 
+
+seizure memo Ex. PW2/B.   Seal was handed over to Ct. Kunwar Pal after use. 
+
+Thereafter he had prepared the rukka Ex. PW2/C and handed over the same to 
+
+Ct. Kunwar Pal for the registration of FIR   who after registration of the case 
+
+came back at the spot and handed over the copy of FIR and original rukka to 
+
+him.   He   had   also   prepared   the   site   plan   Ex.   PW2/D.     The   accused   was 
+
+interrogated and arrested vide arrest memo Ex. PW2/E and his personal search 
+
+was obtained vide Ex. PW2/F.  He had recorded the supplementary statement 
+
+of   Ct.   Kunwar   Pal   during   investigation   at   the   spot.   The   accused   was   also 
+
+produced in the court and  had also prepared the charge sheet. 
+
+
+
+</p><p id="p_8">FIR NO. 71/07                                                                    Page 3of 12pages
+        PW: 3: Ct. Kunwar Pal Singh has testified that on  20.02.2007 while he was 
+
+posted at PS Shahdara.  On that day, while on patrolling in Division no. 6, DDA 
+
+Ground At about 10.30­10.40 am he saw one   boy, standing near the gate of 
+
+DDA Ground and after seeing him in police uniform he became perplexed and 
+
+tried to run away, upon suspicion, he had asked him to stop but when he tried 
+
+to run away he   chased him and apprehended him after coming about 10­15 
+
+paces.  After his apprehension, when he  made casual search of the said person 
+
+who revealed his name upon inquiries to be Amit, one button actuated knife 
+
+was recovered from the right dub of the pant of the accused.  In the meantime, 
+
+SI Bhupender reached at the spot while on patrolling.  He had  produced the 
+
+accused and the recovered knife to him who recorded his statement which is 
+
+already   Ex.   PW2/A   .   At   that   time,   he   also   tried   to   join   4/5   public   persons, 
+
+however,   none   of   them   agreed   and   left   after   giving   some   excuses.       SI 
+
+Bhupender  thereafter  prepared   the sketch  of   the knife which  is  Ex. PW2/A. 
+
+Total length of the knife was 24 cms, length of the blade was 11 cms, length of 
+
+the handle was 13 cms and the width of the blade was 2.5 cm. There was a 
+
+button in between the knife and shape of circles on the handle.   SI Bhupender 
+
+with the help of button closed it and kept it in a cloth and prepared a pullanda 
+
+which  was   sealed  with  the   seal  of   BKS  and   sealed  pullanda  was  taken   into 
+
+possession   vide   seizure   memo   Ex.   Pw2/B.    Thereafter   on   his   statement   SI 
+
+FIR NO. 71/07                                                                        Page 4of 12pages
+ Bhupender   prepared   the   rukka   and   handed   over   the   same   to   him   for 
+
+registration of the FIR.  He  accordingly went to the PS and came back at the 
+
+spot after getting the FIR registered.   Copy of the FIR and original rukka was 
+
+handed over to SI Bhupender who thereafter prepared the site plan Ex. Pw2/D 
+
+at his instance and after interrogation arrested the accused vide arrest memo 
+
+Ex.   PW2/E   and   his   personal   search   was   conducted   vide   memo   Ex.   PW2/F. 
+
+Subsequently accused was brought in the PS and case property was deposited 
+
+in the malkhana.  Knife is  Ex. P1. 
+</p>
+<p id="p_9">
+
+</p><p id="p_10">      PW4 HC Sanjay Singh MHC(M) was MHC(M) who has testified that he 
+
+was working  as MHC(M) at P.S. Shahdara . As per register no. 19 case property 
+
+in this case was deposited on 20.02.2007 vide entry no. 2352. The case property 
+
+was duly sealed with the seal of BKS. He had proved the  copy of the relevant 
+
+entry in the register no. 19 as Ex. PW4/A.
+</p>
+<p id="p_11">
+
+</p><p id="p_12">      Thereafter, PE was closed.
+</p>
+<p id="p_13">
+
+         Upon completion of investigation whole of the evidence was put to the 
+
+accused in the statement of accused recorded under <a href="/doc/224316/" id="a_5">Section 281</a>  Cr.P.C.   to 
+
+which accused denied and took the plea of false implication. No evidence was 
+
+
+
+FIR NO. 71/07                                                             Page 5of 12pages
+ led in defence.
+</p>
+<p id="p_14">         I   have   heard   learned   APP   for   the   State   and   learned   counsel   for   the 
+
+accused.
+</p>
+<p id="p_15">       It is a settled proposition of criminal law that prosecution is supposed to 
+
+prove its case on judicial file beyond reasonable doubts by leading reliable, 
+
+cogent and convincing evidence. Further it is a settled proposition of criminal 
+
+law that in order to prove its case on judicial file, prosecution is supposed to 
+
+stand   on   its   on   legs   and   it   cannot   derive   any   benefit   whatsoever   from   the 
+
+weaknesses,   if   any,   in   the   defence   of   the   accused.   Further   it   is   a   settled 
+
+proposition   of   criminal   law   that   burden   of   proof   of   the   version   of   the 
+
+prosecution in a criminal trial throughout the trial is on the prosecution and it 
+
+never shits to the accused. Also it is a settled proposition of criminal law that 
+
+accused is entitled to the benefit of every reasonable doubt in the prosecution 
+
+story and such doubt entitles the accused to acquittal. Keeping in view above 
+
+stated   well   established   legal   proposition,   it   would   be   approriate   to   refer 
+
+Chapter 22 Rule 49 of Punjab Police Rules, 1934, which provides as under:
+
+
+</p><p id="p_16">            ''22.49 Matters to be entered in Register No. II - The following 
+       matters shall, amongst others, be entered :­
+
+</p><p id="p_17">   (c) The hour of arrival and departure on duty at or from a police station of all  
+   enrolled police officers of whatever rank, whether posted at the police station  
+   or elsewhere, with a statement of the nature of their duty. This entry shall be  
+
+
+FIR NO. 71/07                                                                     Page 6of 12pages
+   made   immediately   on   arrival   or   prior   to   the   departure   of   the   officer  
+  concerned and shall be attested by the latter personally by signature or seal.
+
+     Note :­ The term Police Station will include all places such as Police Lines  
+     and Police Posts where Register No. II is maintained.
+</p><p id="p_18">1.In   the   present   case,   the   above   said   provision   appears   to   have   not   been 
+
+complied with by prosecution. As per the prosecution version at the time of the 
+
+apprehension of the accused with one button operated knife in his possession, 
+
+police officials were on vehicle checking duty   but the DD entry vide which 
+
+they had left the PS for vehicle checking has not been brought on record. Even 
+
+the number of the said DD entry made in Register No. II has not been brought 
+
+on judicial record. In my opinion prosecution was under an obligation to prove 
+
+on record, the above said DD entry vide which above said police officials had 
+
+left the PS for vehicle checking duty so as to prove the possibility of availability 
+
+of Police witnesses at the place of apprehension of the accused. In the facts 
+
+and circumstances of the case, the prosecution ought to have proved the DD 
+
+entry by which the above said police officials had left the PS so as to inspire the 
+
+confidence regarding their availability/presence at the place of apprehension 
+
+of  the  accused.  At this  juncture, it would  be  relevant  to  refer to  a  case law 
+
+reported as  Rattan Lal V/s State, 1987 (2) Crimes 29  the Hon'ble Delhi High 
+
+Court wherein it has been observed that if the investigating agency deliberately 
+
+ignores   to   comply   with   the   provisions   of   the   Act   the   courts   will   have   to 
+
+
+FIR NO. 71/07                                                                    Page 7of 12pages
+ approach   their   action   with   reservations.  The   matter   has   to   be   viewed   with 
+
+suspicion if the provisions of law are not strictly complied with and the least 
+
+that can be said is that it is so done with an oblique motive. This failure to 
+
+bring on record, the DD entry creates a reasonable doubt in the prosecution 
+
+version and attributes oblique motive on the part of the prosecution.
+
+</p><p id="p_19">2.   As   per   prosecution   version   came   on   record,   after   apprehension   of   the 
+
+accused IO requested 4­5 passersby to join the police raiding party but all left 
+
+the   spot   after   giving   reasonable   excuses,   however   without   disclosing   their 
+
+name and address. As per rukka after apprehension of the accused with button 
+
+actuated   knife   in   his   possession,   since   attempt   has   not   been   made   by   the 
+
+police to join independent public persons in the police proceedings despite 
+
+availability of such witnesses. After the apprehension of the accused, IO of the 
+
+case could very well have served the passersby/public witnesses with notice in 
+
+writing   to   join   the   police   proceedings   inasmuch   as   at   that   point   of   time 
+
+accused already stood apprehended and there was no possibility of accused 
+
+escaping   his   arrest   or   crime   going   undetected.   At   least   in   the   facts   and 
+
+circumstances   of   the   case   in   my   opinion   IO   must   have   asked   the 
+
+passersby/persons available at the spot by serving them notice in writing and 
+
+in case of their refusal IO must have taken action against them U/s 187 <a href="/doc/1569253/" id="a_6">IPC</a>. 
+
+Facts and circumstance of the case suggest that no sincere efforts have been 
+
+
+
+FIR NO. 71/07                                                                  Page 8of 12pages
+ made   by   police   official   to   join   independent   public   witnesses   in   the   police 
+
+proceedings. In this regard in   Anoop Joshi V/s State, 1992 (2) C.C.Cases 314 
+
+(HC), Hon'ble High Court of Delhi has observed as under:
+
+
+</p><blockquote id="blockquote_1">     ''18. It is repeatedly laid down by this Court that in such cases it should  
+     be   shown   by   the   police   that   sincere   efforts   have   been   made   to   join  
+     independent witnesses. In the present case, it is evident that no such  
+     sincere efforts have been made, particularly when we find that shops 
+     were open and one or two shop­keepers could have been persuaded to  
+     join   the   raiding   party   to   witness   the   recovery   being   made   from   the  
+     appellant.  In   case   any   of   the   shopkeepers   had   declined   to   join   the  
+     raiding party, the police could have later on taken legal action against  
+     such shopkeepers because they could not have escaped the rigours of 
+     law while declining to perform their legal duty to assist the police in 
+     investigation as a citizen, which is an offence under the <a href="/doc/1569253/" id="a_7">IPC</a>''.</blockquote><p id="p_20">
+
+</p><p id="p_21">      In a case law reported as Roop Chand V/s The State of Haryana, 1999 (1) 
+C.L.R 69, the Hon'ble Punjab &amp; Haryana High Court held as under:­
+
+</p><p id="p_22">        3.''   I   have   heard   the   learned   counsel   for   the   parties   and   gone 
+        through the evidence with their help. The recovery of illicit liquor  
+        was effected from the possession of the petitioner during noon time 
+        and   it   is   in   the   evidence   of   the   prosecution   witnesses   that   some 
+        witnesses from the public were available and they were asked to join  
+        the investigation. The explanation furnished by the prosecution is  
+        that the independent witnesses were asked to join the investigation 
+        but they refused to do do so on the ground that their joining will  
+
+
+FIR NO. 71/07                                                                      Page 9of 12pages
+        result into enmity between them and the petitioner''. ''4. It is well  
+       settled principle of the law that the Investigating Agency should join  
+       independent witnesses at the time of recovery of contraband articles, 
+       if they are available and their failure to do so in such a situation  
+       casts a shadow of doubt on the prosecution case. In the present case  
+       also   admittedly   the   independent   witnesses   were   available   at   the  
+       time   of   recovery   but   they   refused   to   associate   themselves   in   the 
+       investigation. This explanation does not inspire confidence because  
+       the police officials who are the only witnesses examined in the case  
+       have not given the names and addresses of the persons contacted to  
+       join It is a very common excuse that the witnesses from the public  
+       refused   to   join   the   investigation.   A   police   officer   conducting 
+       investigation   of   a   crime   is   entitled   to   ask   anybody   to   join   the  
+       investigation   and   on   refusal   by   a   person   from   the   public   the 
+       Investigating Officer can take action against such a person under  
+       the law. Had it been a fact that he witnesses from the public had 
+       refused to to join the investigation, the Investigating Officer must  
+       have proceeded against them under the relevant provisions of law.  
+       The failure to do so by the police officer is suggestive of the fact that  
+       the explanation for non­joining the witnesses from the public is an  
+       after thought  and is not  worthy  of credence. All  these facts taken  
+       together make the prosecution case highly doubtful''.
+         In case law reported as Sadhu Singh V/s State of Punjab, 1997 (3) Crimes 
+
+  55 the Hon'ble Punjab &amp; Haryana High Court observed as under:­
+
+
+       ''5. In a criminal trial, it is for the prosecution to establish its case  
+       beyond all reasonable doubts. It is for the prosecution to travel the  
+
+FIR NO. 71/07                                                                   Page 10of 12pages
+         entire   distance   from   may   have   to   must   have.  If   the   prosecution  
+        appears to be improbable or lacks credibility the benefit of doubt  
+        necessarily has to go to the accused'' ''6. In the present case, the State 
+        examined two witnesses namely, Harbans Singh ASI who appeared  
+        as PW1 and Kartar Singh. PW2. Both the witnesses supported the  
+        prosecution   version   in   terms   of   the   recovery   of   opium   from   the  
+        person of the petitioner, but there was no public witness who had 
+        joined. It is not necessary in such recoveries that public witnesses  
+        must   be   joined,   but   attempt   must   be   made   to   join   the   public  
+        witnesses. There can be cases when public witnesses are reluctant to 
+        join or are not available. All the same, the prosecution must show a  
+        genuine attempt having been made to join a public witness or that  
+        they were not available. A stereo­type statement of non­availability  
+        will not be sufficient particularly when at the relevant time, it was  
+        not   difficult  to  procure  the  service  of  public  witness.  This  reflects  
+        adversely on the prosecution version''.
+</p>
+<p id="p_23">
+      Being guided by above said case law, it can be said that search of the 
+
+accused by above said police official(s) was in complete violation of the above 
+
+said case law and the same can be said to be illegal. As per evidence on record, 
+
+the   seal   after   use   on   the   pulanda   containing   the   case   property   allegedly 
+
+recovered from the accused was given to none else but to one who is a material 
+
+prosecution witness being a witnesses to the alleged recovery of the illicit knife 
+
+from the possession of the accused. Such material witness of a case is always 
+
+
+
+FIR NO. 71/07                                                                  Page 11of 12pages
+ interested in the success of the case of the prosecution and keeping in view of 
+
+this factum chances of fabrication of case property cannot be ruled out beyond 
+
+doubts. Further it is equally  pertinent to  note that the entire judicial file is 
+
+silent as to when the seal was given back said witness to IO. 
+
+</p><p id="p_24">      In the present case, the above mentioned doubts circumstances are very 
+
+much   evident.     It   has   come   in   evidence   of   PW3   and   PW4   that   despite 
+
+availability they did not join any independent witness. Moreover, whole search 
+
+proceedings   conducted by doubtful circumstance. Therefore in view of the 
+
+above discussion, I find that benefit of doubt is to be given to the accused as a 
+
+consequence   thereof   accused   stands   acquitted.   His     PB/SB   stand   cancelled 
+
+and   discharged.  File   be   consigned   to   record   room  after   completion   of 
+
+necessary formalities. 
+</p>
+<p id="p_25">  (ANNOUNCED IN OPEN COURT 
+ON 04.09.2012)
+                                                                                             (SHAILENDER  MALIK)
+                                                                                                  ACMM­I, North East,
+                                                                        KARKARDOOMA COURTS:DELHI
+
+       
+
+
+
+
+FIR NO. 71/07                                                                                Page 12of 12pages
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

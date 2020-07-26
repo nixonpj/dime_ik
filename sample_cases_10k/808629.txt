@@ -1,0 +1,556 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>De Nora India Limited vs Union Of India And Ors. on 5 July, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/808629/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/82193976/">Sahney Kirkwood Private Limited &amp; ... vs Union Of India &amp; Ors. on 7 July, 2008</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/743328/">Erusian Equipment &amp; Chemicals Ltd vs State Of West Bengal &amp; Anr on 11 November, 1974</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/808629/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/808629/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/808629/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dgs%26d">dgs&d</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dgs">dgs</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ban">ban</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rate%20contract%20not%20contract">rate contract not contract</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rate%20contract">rate contract</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=april%202009">april 2009</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=misrepresentation">misrepresentation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=muralidhar">muralidhar</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">De Nora India Limited vs Union Of India And Ors. on 5 July, 2011</div><div class="doc_author">Author: S. Muralidhar</div>
+
+<pre id="pre_1">        IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                                 W. P. (C) 6339/2010
+
+                                                    Reserved on: May 25, 2011
+                                                    Decision on: July 5, 2011
+
+        DE NORA INDIA LIMITED                           ..... Petitioner
+                        Through: Mr. Rajiv Nayar, Senior Advocate with
+                        Ms. Swaty S. Malik and Mr. L.K. Bhushan, Advocates.
+
+                        versus
+
+
+        UNION OF INDIA AND ORS               ..... Respondents
+                        Through: Ms. Maneesha Dhir with Ms. Preeti Dalal and
+                        Mr. M.P. Singh, Advocates.
+
+
+        CORAM: JUSTICE S. MURALIDHAR
+
+        1. Whether Reporters of local papers may be
+           allowed to see the judgment?                         No
+        2. To be referred to the Reporter or not?               Yes
+        3. Whether the judgment should be reported in Digest? Yes
+
+                          JUDGMENT
+</pre><p id="p_1">                           05.07.2011
+
+Introduction
+</p><p id="p_2">1. The challenge in this writ petition by De Nora India Limited („DNIL‟) [formerly
+known as Titanor Components Limited („TCL‟)] is to an order dated 12th August 2010
+passed by the Department of Commerce („DOC‟) (Supply Division) in the Ministry of
+Commerce and Industry („MOCI‟), Government of India partly allowing the appeal of
+DNIL and upholding the order dated 22nd February 2010 by the Director General of
+Supplies and Disposals („DGS&amp;D‟) banning DNIL from dealing with all the
+departments/ministries/offices of the Government of India but reducing the period of
+ban from five years to a period of one year operative from 22nd February 2010 and in
+relation only to tender notices of the DGS&amp;D.
+</p>
+
+
+
+<span class="hidden_text" id="span_1">W.P. (C) 6339 of 2010                                                     Page 1 of 10</span>
+<p id="p_3"> Factual background
+</p><p id="p_4">2. DNIL has its registered office in Goa and is in the business of manufacture of
+various high end technology products including, electro chlorinators, which are used
+to generate onsite chlorine for disinfection of water. DNIL claims that it is a pioneer
+in introducing the technology for drinking water purification and is a leading
+manufacturer of models SEACLOR MAC 50S and SEACLOR MAC 50R.
+</p>
+
+<p id="p_5">3. Pursuant to a tender enquiry floated by the DGS&amp;D for the supply of Batch Type
+Sodium Hypochlorite Generating System, the Petitioner submitted its bid for the
+supply of different models of SEACLOR MAC. It is stated that while filing the
+performance statement and statement of supplies for the financial year 2002-03 of all
+SEACLOR MAC electro chlorination systems manufactured and supplied by it, the
+Petitioner furnished details of an earlier Purchase Order dated 24th December 2002
+placed on it by the Northern Railway („NR‟). It is stated that in accordance with a
+circular dated 20th June 2000, the MOCI undertook an elaborate cost study through
+the Deputy Director (Costs) of the product offered by the Petitioner, which was the
+sole bidder. It is stated that the officials of the MOCI undertook to visit the
+Petitioner‟s manufacturing unit and recommended the Petitioner‟s bid for acceptance.
+The MOCI undertook a review of cost analysis and also a second cost study which
+was concluded some time before 5th October 2005.
+</p>
+
+<p id="p_6">4. The Petitioner states that it was surprised to receive a show cause notice dated 27th
+April 2009 from the supply division of the DOC proposing administrative action
+against it. The Petitioner was asked to show cause as to why business dealings with
+them should not be banned by the Government of India in the non-statutory sphere in
+terms of para 5.18.3 of DGS&amp;D Manual read with standardized code for suppliers
+circulated vide Department OM No. 13/38/65-V dated 14th September 1971. Inter
+alia, in the show cause notice it was alleged as under:
+</p>
+
+<blockquote id="blockquote_1">        a)      After the award of the Rate Contract („R/C‟) to the Petitioner for
+        supply of electro chlorinators it was noticed by the DGS&amp;D that the Petitioner
+
+
+
+<span class="hidden_text" id="span_2">W.P. (C) 6339 of 2010                                                      Page 2 of 10</span>
+         had obtained an order dated 24th December 2002 from the NR for the supply
+        of SEACLOR MAC 50 model at a price of Rs. 1,23,000/- per unit including
+        installation and commissioning charges as compared to the DGS&amp;D R/C rate
+        of MAC 50 model of Rs. 2,44,286/- per unit besides installation and
+        commissioning charges of Rs. 12,214/-.
+</blockquote>
+
+<blockquote id="blockquote_2">        b)      The Petitioner had not furnished copies of all the direct orders received
+        by them to the DGS&amp;D despite being asked to do so. Instead the Petitioner
+        had submitted details of those orders which showed supply of the same
+        equipment at a higher rate. The concealment/misrepresentation by the
+        Petitioner "led to unrealistic cost analysis and the R/C was placed on them at a
+        higher price".
+</blockquote>
+
+<blockquote id="blockquote_3">        c)      The explanation given by the Petitioner that it had offered model „R‟
+        on DGS&amp;D R/C whereas they had been producing model „S‟ for simplified
+        units of electro-chlorinator for specific and limited use was not given by the
+        Petitioner at the time of submitting their offer for DGS&amp;D R/C, or during the
+        cost analysis or during negotiations. The Petitioner‟s statement that it had
+        stopped producing model „S‟ was not convincing.
+</blockquote>
+
+<blockquote id="blockquote_4">        d)      On the life-span of electrodes used in the R/C items, contradictory
+        statements had been given by the Petitioner. In a letter dated 14th December
+        2004, the Petitioner had indicated the life-span of the electrodes as only two
+        years whereas in the letter dated 17th June 2005, it indicated the life-span of
+        „R‟ models as eight to ten years. In the R/C, the item had a
+        guarantee/warrantee of one year followed by additional six warrantees, which
+        factor led to the inclusion of the costs of the replacement of electrodes after
+        every two years. This led to the inflated price quoted by the Petitioner which
+        was inconsistent with the representation made by it during the cost analysis.
+</blockquote>
+
+<blockquote id="blockquote_5">        (e) All the above factors led to the Petitioner obtaining the DGS&amp;D R/C "at a
+
+
+
+<span class="hidden_text" id="span_3">W.P. (C) 6339 of 2010                                                       Page 3 of 10</span>
+         higher price than would be admissible".
+</blockquote>
+
+<p id="p_7">5. On 18th May 2009, the Petitioner furnished a detailed reply to the show cause
+notice of the MOCI in which inter alia it was pointed out by the Petitioner that there
+was no bidder other than the Petitioner and, therefore, no other party could have
+possibly given any complaint about the R/C rates being higher than the market rates.
+Further, the product was not sold ordinarily in the market and was a customized one
+as per the tender specifications provided by the DGS&amp;D. With the Petitioner being
+the sole bidder, a thorough cost analysis had been undertaken by the experts of the
+relevant Government department which concluded that the price quoted by the
+Petitioner was fair and reasonable. The machine supplied by the Petitioner to the NR
+was of a different specification. It was not of "identical specification and scope" to
+the stores supplied to the DGS&amp;D in terms of Clause 15.1 and, therefore, the price of
+the machine supplied to the NR was not comparable to the price of the R/C. Model
+„S‟ which was produced for a limited and specific use was vastly different from model
+„R‟ which was produced for advanced and versatile use. The DGS&amp;D had already
+issued a show cause notice on 22nd August 2005 under the Book Examination Clause
+and had undertaken a second cost study after which the R/C was closed with effect
+from 5th October 2005.
+</p>
+
+<p id="p_8">6. A personal hearing was granted on 18th January 2010 to the Petitioner by
+Respondent No. 2, followed by the Petitioner giving its written submissions dated
+22nd January 2010. In its written submissions the Petitioner set out in detail the
+comparison of the details of the chlorinators which were supplied to the South East
+Railway (SER), Bhubaneshwar and to the NR Karnal. The Petitioner inter alia raised
+the point that the action by the DGS&amp;D was sought to be initiated more than three and
+a half years after the short closure of the R/C.
+</p>
+
+<p id="p_9">7. By an order dated 22nd February 2010, the DGS&amp;D, inter alia, held that "no
+evidence was tendered to prove that model provided to Northern Railways
+independently of the rate contract and the offer which was approved in the DGS&amp;D
+
+
+
+<span class="hidden_text" id="span_4">W.P. (C) 6339 of 2010                                                    Page 4 of 10</span>
+ rate contract was any different". Further, the cost analysis had been based upon the
+details provided by the Petitioner which were falsified. It was held that the Petitioner
+had misrepresented the facts and that "the malafide in quoting higher price are clearly
+proved". Consequently, all departments/ministries and offices of the Government of
+India were forbidden from engaging in commercial/business dealings in the non-
+statutory sphere with the Petitioner and its allied/subsidiary firms for a period of five
+years.
+</p>
+
+<p id="p_10">8. Aggrieved by the above order, the Petitioner preferred an appeal to the Hon‟ble
+Minister of the MOCI under Clause 5.18.1 of the DGS&amp;D Manual as amended on
+12th May 2009. With there being a delay in the disposal of the said appeal, the
+Petitioner filed Writ Petition (Civil) No. 3765 of 2010 in this Court which was
+disposed of by an order dated 28th May 2010 directing that the appeal should be
+disposed of within six weeks. It was further directed that till the disposal of the said
+appeal, the operation of the impugned order dated 22nd February 2010 debarring the
+Petitioner    from      having   commercial    business    dealings    with    all    the
+departments/ministries/offices of the Government of India, other than the DGS&amp;D,
+shall remain stayed. Subsequently the Petitioner furnished additional grounds on 5th
+June 2010 to the appellate authority. Thereafter the impugned order was passed on
+12th August 2010 reducing the ban on the Petitioner from a period of five years to one
+year.
+</p>
+
+<p id="p_11">9. The present writ petition was filed on 17th September 2010 and came up for hearing
+on 20th September 2010. Since the ban period was coming to an end on 21 st February
+2011, this Court considered it appropriate to direct that the writ petition itself should
+be set down for a final hearing on an early date. A counter affidavit was thereafter
+filed on 19th October 2010. A rejoinder was filed thereto. It was pointed by the
+Petitioner at the hearing on 7th March 2011 that although the period of ban had
+expired, it was still coming in the way of the Petitioner being considered for other
+contracts.
+</p>
+
+
+
+<span class="hidden_text" id="span_5">W.P. (C) 6339 of 2010                                                       Page 5 of 10</span>
+<p id="p_12"> 10. The submissions of Mr. Rajiv Nayar, learned Senior counsel appearing for the
+Petitioner and Ms. Maneesha Dhir, learned counsel appearing for the Respondents
+have been considered.
+</p>
+
+<p id="p_13">11. The first question that arises for consideration is whether in the facts and
+circumstances of the case, the Petitioner can be held to be guilty for misrepresentation
+of facts as alleged in the show cause notice dated 27th April 2009 and as concluded in
+the impugned order dated 22nd February 2010 of the DGS&amp;D which has been upheld
+by the impugned order dated 12th August 2010 of the MOCI in appeal. The further
+question is whether the imposition of a ban even for a reduced period of one year is
+justified in the facts and circumstances.
+</p>
+
+<p id="p_14">12. Clause 5.18 of the DGS&amp;D Manual deals with the banning and suspension of
+business dealings with the contractors. The grounds for banning of business dealings
+are set out in Clause 5.18.3. Specific to the present case is sub clause (iii) of Clause
+15.8.3, which has been relied upon by the Respondents, and which reads as under:
+</p>
+
+<blockquote id="blockquote_6">                "(iii) If there is strong justification for believing that the
+                proprietor or employee or representative of the firm has
+                been guilty of malpractices such as bribery, corruption,
+                fraud,     substitution     of     tenders,     interpolation,
+                misrepresentation, evasion or habitual default in payment
+                of any tax levied by law; etc."
+</blockquote>
+<p id="p_15">13. It is seen that the wording of the above clause is identical to Clause 16 (iii) of a
+circular dated 14th September 1971 of the Department of Supply, Government of India
+setting forth the standardized code for suppliers.
+</p>
+
+<p id="p_16">14. One of the principal grounds on which the banning order has been sought to be
+justified by the Respondents is that the Petitioner had supplied electro chlorinator to
+the NR at Karnal at a much lower rate. The tender document submitted by the
+Petitioner mentioned the Purchase Order dated 24th December 2002 placed by the NR,
+Karnal on it. The list of dates and events set out in the counter affidavit of the
+
+
+
+<span class="hidden_text" id="span_6">W.P. (C) 6339 of 2010                                                            Page 6 of 10</span>
+ Respondents indicates that the Petitioner had quoted a total price of Rs. 2,90,852/- to
+the DGS&amp;D against the tender enquiry for the model SEACLOR MAC 50 that only
+one single bid was received which was of the Petitioner. An advance R/C was placed
+with the Petitioner on 1st February 2005 for supply of electro chlorinator. Prior to this
+the Deputy Director (Costs) of the DGS&amp;D informed the Petitioner that the
+Petitioner‟s offer had been referred for conduct of a cost and price study. The
+Petitioner was asked to furnish detailed breakup of the cost production for the tender
+models as per the proforma of the DGS&amp;D. The list of dates and events set out in the
+counter affidavit, however, does not refer to the earlier correspondence between the
+parties. Therefore, the facts stated by the Petitioner in relation to the correspondence
+at this stage between the parties prior to the placement of the order dated 1st February
+2005 must be taken to be correct. This letter dated 1st February 2005 was preceded by
+a detailed cost analysis undertaken by the DGS&amp;D.
+</p>
+
+<p id="p_17">15. The Petitioner has referred to Clause 6(iii) of the conditions of contract governing
+contracts placed by the Central Purchase Organisation of the Government of India,
+which reads as under:
+</p>
+
+
+<blockquote id="blockquote_7">                "(iii) If the price quoted/charged is higher than the
+                controlled price etc. referred to in sub-clause (i) above or
+                where there is no controlled price, the price lowest
+                charged by the contractor from a private purchaser,
+                domestic or foreign or from any organization or
+                department of Government, for the stores of the same
+                nature, class or description, etc. as referred to in sub-
+                clause (ii) above, the contractor will specifically mention
+                this fact in his tender giving reasons for quoting higher
+                price (s). If he fails to do so or making any mis-statement
+                it shall be lawful for the Secretary (a) to revise the price at
+                any stage so as to bring it in conformity with the sub-
+                clause (i) or (ii) above or (b) to terminate the contract and
+                purchase the stores at the risk and cost of the contractor
+                and in that event the provisions of clause 14 shall apply as
+                far as applicable as if the contractor has failed to deliver
+                the stores within the period fixed."
+</blockquote>
+<p id="p_18">16. It appears that the DGS&amp;D did write to the NR to confirm whether the Petitioner
+
+
+<span class="hidden_text" id="span_7">W.P. (C) 6339 of 2010                                                             Page 7 of 10</span>
+ had supplied the equipment SEACLOR MAC 50. Without waiting for a reply from
+the NR, Karnal, the DGS&amp;D on 22nd August 2005 issued a show cause notice alleging
+that it had been supplying electro chlorinators to the Railways at a substantially lower
+rate. The Petitioner was accordingly asked to show cause why its R/C should not be
+cancelled. On 26th August 2005, the NR, Karnal furnished to the Petitioner the details
+of the spares supplied with the SEACLOR MAC electro chlorinators by the Petitioner
+to it. Thereafter on 9th September 2005, the Petitioner wrote to the DGS&amp;D enclosing
+a copy of the said letter dated 26th August 2005 received from the NR, Karnal. Inter
+alia, it was pointed out that "the machine supplied to NR, Karnal was of different
+specification than the Rate Contract provides. It was a less featured machine whereas
+the machine given in current Rate Contract is a superior and advanced quality
+machine and costly too, as has been established by the said consignee (NR, Karnal)
+vide their letter dated 28.8.2005 enclosed herewith for your reference." It was also
+pointed out that the machine was supplied more than two years earlier. The Petitioner
+undertook and confirmed that effective from 1st February 2005 "we have not sold this
+product at a price lower than the Rate Contract price, with identical specification and
+identical scope of supply". Further details sought by the DGS&amp;D were also furnished
+by the Petitioner.
+</p>
+
+<p id="p_19">17. The counter affidavit in paras 12 and 13 refers to a second cost analysis
+undertaken by the Department of Expenditure and Ministry of Finance, but a copy of
+this report was never furnished to the Petitioner and not referred to in the show cause
+notice dated 27th April 2009. It has also not been enclosed with the counter affidavit
+either. According to the Respondents, the second cost study showed the difference in
+the price quoted by the Petitioner as 8.93% more than the "fair price" arrived at by the
+Department of Expenditure. In the absence of this being one of the reasons for
+debarring the Petitioner as stated in the impugned order, and the Petitioner not having
+been given an opportunity of offering an explanation thereto it is not permissible for
+the Respondents to now rely upon it in the counter affidavit in reply to the writ
+petition challenging the banning order.
+</p>
+
+
+
+<span class="hidden_text" id="span_8">W.P. (C) 6339 of 2010                                                      Page 8 of 10</span>
+<p id="p_20"> 18. The Petitioner is right that in terms of Clause 6 (iii) that it was open to the
+DGS&amp;D to have required the Petitioner to reduce its rates if there was any material
+available with the DGS&amp;D. Reliance has also been placed on the Book Examination
+Clause which provides as under:
+</p>
+<blockquote id="blockquote_8">                "If on such an examination, it is established that the
+                contracted price is in excess of the actual cost plus
+                reasonable profit, the Secretary Department of there shall
+                have the right to reduce the price and determine the
+                amount to a reasonable level."
+</blockquote>
+
+<p id="p_21">19. There is no answer given by the Respondents as to why no action has been taken
+in accordance with the above clause for the purposes of reducing the price if it was
+felt that the Petitioner had quoted the price higher than the equipment supplied to the
+NR, Karnal. The Petitioner appears to have explained the difference between the „S‟
+model which was supplied to the NR, Karnal and the rate quoted in the R/C. A copy
+of the letter dated 17th June 2005 encloses a detailed explanation (Annexure P13)
+regarding queries made for supply to the NR in the year 2002-03. This does give a
+comparative analysis of the models. It is not, therefore, as if the Petitioner did not
+offer any explanation for the difference in the price charged from the NR, Karnal for
+the supply of SEACLOR MAC 50S model of electro chlorinator. The impugned
+banning order dated 22nd February 2010 does not indicate that the Respondents
+considered the explanation offered by the Petitioner as regards the different features
+of the two models of electro chlorinators. It is not as if the Petitioner was offering this
+explanation for the first time. It was given way back on 5th June 2005 and was
+reiterated by the letter dated 9th September 2005 of the Petitioner enclosing a copy of
+the letter dated 26th August 2005 from the NR, Karnal. Therefore, it was incumbent
+on the Respondents to have dealt with the above explanation of the Petitioner which
+they obviously failed to in passing the impugned banning order. The explanation
+given by the Respondents for the delay in issuing the show cause notice on 27 th April
+2009, long after the completion (short closure) of the supply made by the Petitioner of
+the electro chlorinator pursuant to the R/C awarded on 1st February 2005, is also not
+very convincing. This Court is, therefore, of the view that there were no justifiable
+
+
+<span class="hidden_text" id="span_9">W.P. (C) 6339 of 2010                                                        Page 9 of 10</span>
+ grounds for the Respondents to conclude that there was a misrepresentation made by
+the Petitioner when it quoted the aforementioned rate for the electro chlorinator
+supplied by it. On the second issue, no justification has been shown by the
+Respondents for persisting with the ban even for a period of one year.
+</p>
+
+<p id="p_22">20. A distinction was sought to be drawn by learned counsel for the Respondents
+between a blacklisting and a banning order on the strength of the decision of this
+Court in <a href="/doc/82193976/" id="a_1">Sahney Kirkwood Pvt. Ltd. v. Union of India</a> 154 (2008) DLT 555.
+However, the said decision is distinguishable on facts. It is seen from para 23 of the
+said judgment that the Court in any event reduced the penalty to the period of ban
+already undergone. Undeniably the impugned banning order prevents the Petitioner
+from applying for tenders of other organizations. The effect of a banning order is in
+the present case not different from a blacklisting order. Since both have adverse civil
+consequences, such orders have to comply with the requirements of reasonableness as
+explained by the Supreme Court in <a href="/doc/743328/" id="a_2">Erusian Equipment &amp; Chemicals v. State of West
+Bengal</a> (1975) 1 SCC 70.
+</p>
+
+<p id="p_23">21. In the considered view of this Court, for all of the above reasons, the impugned
+order dated 22nd February 2010 of the DGS&amp;D as modified in appeal by the second
+impugned order dated 12th August 2010 of the MOCI imposing a ban of one year on
+the Petitioner cannot be sustained in law. Both orders are hereby set aside.
+</p>
+
+<p id="p_24">22. The writ petition is allowed in the above terms but in the circumstances with no
+order as to costs.
+</p>
+
+
+
+<p id="p_25">                                                        S. MURALIDHAR, J.
+</p><p id="p_26">July 5, 2011
+ha
+
+
+
+
+<span class="hidden_text" id="span_10">W.P. (C) 6339 of 2010                                                      Page 10 of 10</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,647 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Paramjit Singh @ Padam on 5 October, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/89650584/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/796352/">Section 366 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/619940/">Section 363 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1613898/">Section 207 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/89650584/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/89650584/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dragged">dragged</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20tip">no tip</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=164%20cr.p.c.">164 cr.p.c.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=code%20of%20criminal%20procedure%20164">code of criminal procedure 164</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.164%20crpc">s.164 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.164%20of%20cr.p.c">s.164 of cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=164%20of%20crpc">164 of crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tilak">tilak</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.164%20crpc">sec.164 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20164%20cr.p.c">section 164 cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20164%20crpc">section 164 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20164%20of%20code%20of%20criminal%20procedure%20code">section 164 of code of criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20164%20of%20code%20of%20criminal%20procedure">section 164 of code of criminal procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20164">section 164</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sultan%20singh">sultan singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rajinder%20singh%20">rajinder singh </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kidnapping">kidnapping</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gurdev%20singh">gurdev singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=proclaimed%20offender">proclaimed offender</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=raj%20kumar%20brothers%20">raj kumar brothers </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Paramjit Singh @ Padam on 5 October, 2010</div><div class="doc_author">Author: Ms. Pratibha Rani</div>
+
+<pre id="pre_1">                      IN THE COURT OF SMT. PRATIBHA RANI, 
+                       DJ­III­CUM­ASJ (WEST)/DELHI
+                                        ***
+SC No. ­ 20A/10
+
+
+Unique  ID No. 02401R0164672010
+
+
+State                         Vs.             Paramjit Singh @ Padam
+                                              s/o Late Sh. Raj Kumar
+                                              r/o M­84, WZ­155, Hari Nagar
+                                              Delhi.
+
+
+FIR No. : 477/89
+PS : Janak Puri
+U/S : 366/34 <a href="/doc/1569253/" id="a_1">IPC</a>
+
+Date of Institution  : 19.11.90
+Date of Arguments : 30.09.2010
+Date of Order            : 05.10.2010
+
+
+J U D G M E N T
+</pre>
+<p id="p_1">             Case FIR No.477/89 was registered under <a href="/doc/619940/" id="a_2">Section 363</a> IPC on the 
+
+basis   of   statement   made   by   Smt.   Renuka,   maternal   aunt   (Mausi)   of   the 
+
+kidnapped   girl   'S'   (name   withheld   to   conceal   the   identity   of   the   minor 
+
+kidnapped child).   As per the complaint Ex.PW3/A on 19.10.89 at about 
+
+7.45   PM   the   complainant  alongwith  her  niece  'S' aged  about  15    years, 
+
+Rakesh @ Pappu and Anita was strolling in the park in front of Qr. No. 
+
+B­15/11   P&amp;T   Colony,   Janak   Puri,   New   Delhi   when   at   about   7.45   PM 
+
+Rakesh left for the market and 'S' was busy in eating corns, at that time one 
+
+Maruti van of white colour, number of which could not be noticed, stopped 
+
+
+SC No.20A/10                                                                            1/9
+ near 'S' and somebody called her near the van.   The moment 'S' reached 
+
+there, she was dragged into the van by the persons sitting therein though 'S' 
+
+raised alarm by calling 'Mausi­Mausi' but those persons managed to escape. 
+
+In the mean time Ramvati, her younger sister managed to reach there and 
+
+somebody   informed   the   police.     When   the   police   arrived,   she   made 
+
+statement on the basis of which case under Sec.363 <a href="/doc/1569253/" id="a_3">IPC</a> was registered.
+
+</p><p id="p_2">2.         During investigation accused Rajinder Singh, Sanjay Sharma and 
+
+Shashi Bhushan were arrested and accused Paramjit @ Padam surrendered 
+
+in the Court.   One accused Manoj Kumar was got discharged as he could 
+
+not   be   identified   during   TIP.     After   surrender   of   accused   Paramjit, 
+
+application for his TIP was also moved  but he refused to take part in TIP. 
+
+The kidnapped girl 'S', while she was being taken by the accused persons to 
+
+quarters under construction near Tilak Vihar, managed to flee from the spot 
+
+and sought  help of one chowkidar Vishnu Dev and in the mean time SI 
+
+Gurdev Singh happened to reach there who recovered her in this case and 
+
+also produced for her statement under Sec. 164 <a href="/doc/445276/" id="a_4">CrPC</a>.  Thereafter <a href="/doc/796352/" id="a_5">Section 
+
+366</a> IPC was also added in the FIR.  During investigation, accused persons 
+
+were arrested and interrogated and after completion of investigation, were 
+
+sent to face trial.
+</p>
+<p id="p_3">3.        After compliance of the requirements of <a href="/doc/1613898/" id="a_6">Section 207</a> CrPC, the 
+
+case was committed to the Court of Sessions.
+</p>
+<p id="p_4">4.        After   hearing   on   the   point   of   charge,   accused   persons   were 
+
+charged under sec. 366/34 <a href="/doc/1569253/" id="a_7">IPC</a> to which they pleaded not guilty.   During 
+
+the trial, accused Paramjit absconded and was declared proclaimed offender 
+
+on  10.05.1996.    Vide judgment  dated  07.04.1999  and order on sentence 
+
+SC No.20A/10                                                                       2/9
+ dated   08.04.1999   accused   Rajinder   Singh,   Sanjay   Sharma   and   Shashi 
+
+Bhushan   were   convicted   and   sentenced.     Convict   Sanjay   Sharma   and 
+
+Shashi   Bhushan   preferred   an   appeal   against   the   said   judgment   before 
+
+Hon'ble High Court and vide order dated 19.05.2008 they were acquitted. 
+
+</p><p id="p_5">5.          Accused Paramjit was arrested as proclaimed offender and was 
+
+produced in the Court on 07.04.2010.  After his arrest PW8 Smt. Kamlesh 
+
+Sud, PW9 (Retd) Inspr. Gurdev Singh, PW11 Sh. Parveen Kumar Gupta, 
+
+PW13   HC   Ghanshyam   Gaur,   PW14   SI   Sultan   Singh   and   PW15   HC 
+
+Dharmender Sharma were re­examined.   The kidnapped girl 'S' remained 
+
+un­traced despite the efforts being made by the prosecution.
+
+</p><p id="p_6">6.          PW8 Smt. Kamlesh Sud has proved the school leaving certificate 
+
+of 'S' as Ex.PW8/A and stated that  as per certificate her date of birth is 
+
+01.04.1977.  
+</p>
+<p id="p_7">7.          PW9   Sh.   Gurdev   Singh,   (Retd)   Inspector   has   stated   that   on 
+
+19.10.1989 he was posted as Sub­Inspector at PP Tilak Vihar.  On that day 
+
+he alongwith Ct. Rishi Pal was on patrolling duty and when they reached 
+
+near   vacant  quarters,   Tilak  Vihar,  they  heard  noise.    On reaching  there, 
+
+they found that many persons had gathered there and a girl was in the midst 
+
+of those persons.  That girl told him that she had been brought from Janak 
+
+Puri in a van forcibly.  He took that girl and chowkidar to PP Tilak Vihar 
+
+and  gave the information  to PS Janak Puri.   ASI Sultan Singh  from  PS 
+
+Janak   Puri   came   there   and   he   handed   over   the   girl   to   him   vide   memo 
+
+Ex.PW9/A.  
+</p>
+<p id="p_8">8.          PW11 Sh. Praveen Kumar Gupta has stated that he was running a 
+
+shop of electric repair in Posangipur market, Janak puri and about 15­16 
+
+SC No.20A/10                                                                            3/9
+ years ago police came to his shop alongwith one person.  That person was 
+
+having a slip Ex.PW11/A which was in his handwriting and the same was 
+
+issued by him to one Raj Kumar who purchased bulbs.  
+</p>
+<p id="p_9">9.         PW13   HC   Ghanshyam  Gaur   has  stated   that  on   20.10.1989   he 
+
+joined the investigation of this case with ASI Sultan Singh when Raj Kumar 
+
+produced one slip Ex.PW11/A to ASI Sultan Singh which was seized vide 
+
+seizure memo Ex.PW13/A.  
+</p>
+<p id="p_10">10.        PW15 HC Dharmender Sharma has stated that on 07.04.2010 he 
+
+was posted in Special Staff, Dwarka and arrested accused Paramjit who was 
+
+declared proclaimed offender by the Court.  He prepared kalandra and filed 
+
+the same in the Court.  
+</p>
+<p id="p_11">11.        PW14 Retd SI Sultan Singh has stated that on 19.10.1989 he was 
+
+posted as ASI PS Janak puri.  At about 8.10 PM he received copy of DD 
+
+No.17A   and   reached   P&amp;T   Colony   alongwith   Ct.   Kishan   Pal.     There   he 
+
+recorded  the statement  Ex.PW3/A of Renuka  and made his endorsement 
+
+Ex.PW14/A and got the FIR, copy of which is Ex.PW6/A registered.   He 
+
+prepared the site plan and made enquiries in the locality.  He further stated 
+
+that on receiving the information that the girl had been recovered and was 
+
+present at PP Tilak Vihar, he reached there and found girl 'S' and chowkidar 
+
+Vishnu Dev in PP Tilak Vihar.  He recorded the statement of 'S', SI Gurdev 
+
+Singh,   chowkidar   Vishnu  Dev   and  prepared  recovery   memo   Ex.PW9/A. 
+
+PW14 further stated that he got the girl 'S' medically examined.   On the 
+
+next day they went to P&amp;T Colony where Raj Kumar produced one slip 
+
+Ex.PW11/A   which   was   seized   vide   seizure   memo   Ex.PW13/A.     On 
+
+22.10.1989 he arrested Laddu @ Sanjay Kumar from C­2 bus stand, Janak 
+
+SC No.20A/10                                                                      4/9
+ Puri   and   during   interrogation   he   disclosed   the   involvement   of   accused 
+
+Paramjit   alongwith   other   persons.     Accused  Paramjit   surrendered  in   the 
+
+Court  and  he moved  an  application Ex.PW14/X for his TIP but accused 
+
+Paranjit refused to take part in TIP and the proceedings in this regard are 
+
+Ex.PW14/Y.  He has stated that later on accused Paramjit was identified by 
+
+the   victim   in   the   Court   premises   and   he   recorded   her   supplementary 
+
+statement to this effect.  PW14 has further stated that summons of girl 'S' 
+
+were given dasti to him but despite his best efforts she could not be traced 
+
+as her present whereabouts  could not be ascertained.  
+
+</p><p id="p_12">12.         In   his   statement   under   Sec.   313   <a href="/doc/445276/" id="a_8">CrPC</a>   accused   Paramjit   has 
+
+denied the case of prosecution and claimed his innocence stating that on the 
+
+day of alleged incident, he was out of station.  
+</p>
+<p id="p_13">13.         On behalf of State, Sh. S.C. Sharma, Addl. PP has submitted that 
+
+so far as accused Paramjit is concerned, his name appeared in the disclosure 
+
+statement   of   the   co­accused   persons   and   he   surrendered   in   the   Court, 
+
+refused to take part in the TIP and thereafter supplementary statement of 'S' 
+
+was recorded and in these circumstances when the accused Paramjit was 
+
+duly identified by the prosecutrix to be the person who dragged her in the 
+
+Maruti   van,   after  he   was  declared  proclaimed  offender,  her statement  is 
+
+admissible   in   evidence   against   him   and   can   be   treated   as   the   statement 
+
+recorded under Sec. 299 <a href="/doc/445276/" id="a_9">CrPC</a> as now the witness is not traceable.  It has 
+
+also been submitted that when specific role of accused Paramjit to be the 
+
+person who dragged 'S' in Maruti van has been proved by the prosecution, 
+
+he is the main accused and even in the absence of cross examination of 'S', 
+
+her statement is sufficient to prove the guilt of accused Paramjit specially 
+
+SC No.20A/10                                                                            5/9
+ when he was not in the police custody at any point of time and 'S' had no 
+
+chance to see him in the police station.  It is the accused Paramjit who has 
+
+to  explain  in  what  circumstances  he refused to take part  in TIP and his 
+
+refusal in this regard is also sufficient to prove his guilt, hence he is liable 
+
+to be convicted.
+</p>
+<p id="p_14">14.         On behalf of accused  Paramjit, Sh. Dhian Singh, advocate has 
+
+filed written submissions.   It has been contended that no material witness 
+
+has   been   tendered   for   cross   examination   by   the   prosecution   after   this 
+
+accused has appeared to face trial and the evidence recorded by the Court 
+
+during the time when he was facing trial, the main witness 'S' could not be 
+
+cross   examined.     Her   statement,   being   incomplete,   cannot   be   read   in 
+
+evidence.  It has also been submitted that there are other contradictions also 
+
+on the basis of which statement of prosecutrix become unreliable.  Accused 
+
+Sanjay Sharma and Shashi Bhushan were convicted by the trial Court on 
+
+the basis of admission of convict Rajinder  Singh who admitted before the 
+
+Court that he was driving the Maruti Van at the time of occurrence.   Ld. 
+
+Defence   counsel   has   drawn   the   attention   of   the   Court   to   para   5   of   the 
+
+judgment   wherein   the   statement   of   'S'   recorded   under   sec.164   <a href="/doc/445276/" id="a_10">CrPC</a>   is 
+
+referred to in which she stated that the driver caught her hand and forcibly 
+
+dragged her in the car.  However, when she appeared before the Court, she 
+
+made statement to the effect that a white Maruti van came near the park and 
+
+pointing out towards accused Paramjit stated that he came out of the van, 
+
+asked  about  some address  and  when she  expressed  ignorance about  that 
+
+address,   accused   Paramjit   held   her   by   arm   and   dragged   her   inside   the 
+
+Maruti van which is contrary to her version given in statement under Sec. 
+
+</p><p id="p_15">SC No.20A/10                                                                               6/9
+ 164 <a href="/doc/445276/" id="a_11">CrPC</a>.  Ld. Defence counsel has also referred to the statement of the co­
+
+accused recorded under Sec. 313 <a href="/doc/445276/" id="a_12">CrPC</a> wherein in reply to question No.4 
+
+and 5 it has come on record that Rajinder was driving the van and none of 
+
+them stated that the girl 'S' was dragged into the van by accused Paramjit. 
+
+Rather they could  not   say as to who dragged her in the van.  Ld. Defence 
+
+counsel   has   submitted   that  in  these  circumstances  accused  Paramjit  also 
+
+deserves to be acquitted.  
+</p>
+<p id="p_16">15.         I have carefully considered the rival contentions and also gone 
+
+through the record.  So far as the contention of ld. Addl. PP that statement 
+
+of 'S' be treated as under Sec. 299 <a href="/doc/445276/" id="a_13">CrPC</a> to base the conviction of accused 
+
+Paramjit is concerned, this contention is liable to be rejected for the reasons 
+
+that accused Paramjit was facing trial at that time and she could not be cross 
+
+examined on the same day.  Subsequently he absconded.  So the statement 
+
+of 'S' so far as this accused is concerned, remained incomplete and her in­
+
+complete statement i.e. without cross examination by this accused, cannot 
+
+be  read   in  evidence  against  him.    Even  if it  is  assumed  for the sake of 
+
+arguments that in­complete statement of 'S' can be read in evidence against 
+
+this accused, even then it is not of much help to the prosecution.  The order 
+
+in   appeal   by   Hon'ble   High   Court   is   on   record  wherein  while   acquitting 
+
+accused   Sanjay   Sharma   and   Shashi   Bhushan,   Hon'ble   High   Court   has 
+
+considered (1) effect of not sending of Ramesh to face trial as he was the 
+
+person known to 'S' and named in the statement under sec. 164 <a href="/doc/445276/" id="a_14">CrPC</a> as one 
+
+of the kidnapper but he was not arrested; (2) PW12 Sh.Raj Kumar, brother 
+
+of 'S' saw accused Sanjay sitting in the van on the day of incident but was 
+
+named on 22.10.1989 after unduly long delay; (3) Manoj Kumar who took 
+
+SC No.20A/10                                                                         7/9
+ part in TIP could not be identified by the complainant as one of the culprit, 
+
+hence discharged; (4) accused Sanjay Sharma and Shashi Bhushan refused 
+
+to take part in TIP and from the statement of 'S' and her brother Raj Kumar 
+
+(PW12) it was established on record that they had seen them in the PS and 
+
+contrary to the case of prosecution that accused Sanjay Sharma was arrested 
+
+in presence of 'S' and her brother Raj Kumar (PW12), they were claimed to 
+
+be seen only in the PS and not arrested in their presence or at their instance; 
+
+(5) the statement of convict Rajinder Singh also could not be read against 
+
+the   co­accused   as   confession.     Hon'ble   High   Court   disbelieving   the 
+
+testimony   of   PW2   'S'   as   well   as   her   brother   Sh.   Raj   Kumar   (PW12) 
+
+acquitted accused Sanjay Sharma and Shashi Bhushan.  Now on the basis of 
+
+the same evidence, with the contradictions that have already emerged on 
+
+record, prosecution cannot claim that their testimony can be believed by the 
+
+Court  to convict accused Paramjit for the offence complained of.
+
+</p><p id="p_17">16.        This Court cannot ignor that the person Ramesh, named to be the 
+
+kidnapper, known to 'S' was not arrested, further Manoj was got discharged 
+
+because he preferred to take part in TIP but remained unidentified.  After 
+
+appearance of accused Paramjit in the instant case, the kidnapped girl 'S' 
+
+remained   untraceable   and   her   in­complete   testimony   cannot   be   read   in 
+
+evidence against him and even if the contention of ld. Addl. PP is accepted 
+
+for the sake of arguments, the version given by her that accused Paramjit 
+
+dragged her in the van, is in total contradiction to the version given by her 
+
+under Sec. 164 <a href="/doc/445276/" id="a_15">CrPC</a> wherein she named the driver to be the person who 
+
+dragged her and driver of the van admittedly was convict Rajinder Singh 
+
+and not accused Paramjit.  No doubt, accused Paramjit had surrendered in 
+
+SC No.20A/10                                                                        8/9
+ the Court and the police had no chance to show him to the witnesses but his 
+
+identity is otherwise not well established for the reason that as per initial 
+
+version   given   by   'S'   in   her   statement   under   Sec.   164   <a href="/doc/445276/" id="a_16">CrPC</a>,   the   driver 
+
+dragged her in the van.   However, when she pointed out towards accused 
+
+Paramjit, the role attributed by her to him was that he came down from the 
+
+van to enquire about some address and when she claimed ignorance, it was 
+
+he who dragged her inside the vanIt cannot be ignored by the Court that in 
+
+the complaint Ex.PW3/A the complainant has no where stated that anybody 
+
+got down from the van and dragged her niece 'S' in the van.  Omission of 
+
+this fact further makes the statement of 'S' doubtful regarding getting down 
+
+of accused Paramjit from the van and dragging her in.
+
+</p><p id="p_18">17.         In   view   of   the   above   discussion,   I   am   of   the   opinion   that 
+
+prosecution  has not been able to prove its case against  accused Paramjit 
+
+beyond reasonable doubt, hence he is acquitted.  Since the accused is in J/C, 
+
+he be released forthwith if not required in any other case.  File be consigned 
+
+to record room.  </p><pre id="pre_2">
+
+Announced in the open Court
+
+05.10.2010                                            (PRATIBHA RANI)
+                                                DJ­III­cum­I/c ASJ (West)/Delhi
+
+
+
+
+SC No.20A/10                                                                             9/9
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

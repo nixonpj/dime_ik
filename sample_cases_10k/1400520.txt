@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Kailash Chandra Jain And Anr. vs The State Of Rajasthan on 23 March, 1968</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1400520/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 27 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1400520">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/500379/">The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1123043/">Article 309 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/452505/">Section 3 in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1113485/">the Competition Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/41851/">Section 25G in The Industrial Disputes Act,   1947</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/122445355/">Mr. Ak Khan For vs Unknown on 2 May, 2014</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1400520/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1400520/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=roadways">roadways</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kailash%20chandra">kailash chandra</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kailash">kailash</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rajasthan%20service%20rules">rajasthan service rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=industrial%20establishment%20">industrial establishment </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20of%20rajasthan">state of rajasthan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deputation">deputation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=minimum%20wages%20act">minimum wages act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wages%20minimum%20wages%20act">wages minimum wages act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=workman%20who%20was%20not%20represented">workman who was not represented</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wages%20act">wages act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appeal%20rule%20">appeal rule </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20civil%20servant"> civil servant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mohanlal">mohanlal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mohan%20lal">mohan lal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trade%20union">trade union</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lien">lien</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=government%20service">government service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20board%2Crajasthan">electricity board,rajasthan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%27article%20309%20ORR%20army%20rules%201954%27">'article 309 ORR army rules 1954'</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court</div>
+<div class="doc_title">Kailash Chandra Jain And Anr. vs The State Of Rajasthan on 23 March, 1968</div><div class="doc_citations">Equivalent citations: AIR 1969 Raj 68, (1969) IILLJ 44 Raj</div>
+
+<div class="doc_author">Author: K Singh</div>
+
+<div class="doc_bench">Bench: K Singh</div>
+
+<p id="p_1">ORDER
+
+
+ 
+
+  Kan Singh, J.  
+</p>
+ 
+
+<p id="p_2"> 1. These are two identical writ petitions under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution. Writ Petition No. 592 of 1967 is by one Kailash Chandra Jain. Writ Petition No. 578 of 1967 is by the State Roadways Workers Union, Jaipur. They concern the legality of certain orders of transfer in respect of certain employees of what was the Roadways Department of the State Government. The employees came to be transferred by the impugned orders to other departments of the State Government. The petitioners pray for appropriate writs, directions or orders in these matters.  
+</p> 
+
+<p id="p_3"> 2. It will be convenient to narrate the facts with reference to Kailash Chandra Jain's writ petition.  
+</p> 
+
+<p id="p_4"> 3. Kailash Chandra Jain came to be appointed as a Conductor on 7-4-1960 in what was then the State Roadways Department of the Government of Rajas than. With effect from 1st October, 1964, Rajasthan State Roadways Corporation was constituted in pursuance of <a href="/doc/1779621/" id="a_2">Road Transport Corporation Act</a>, 1950. The Corporation was a body corporate under the Act. It appears that with the establishment of the Corporation the management of the Road Transport business hitherto run by the State Roadways Department was taken over by the Corporation. So far as the employees of the State Roadways Department were concerned, by a Notification of the State Government dated 18-11-64, their services came to be placed at the disposal of the Corporation. I will have occasion to refer to that Notification a little later. The petitioner claims that after the transfer of the transport business of the State Roadways to the Corporation, he became an employee of the Corporation.  
+</p> 
+
+<p id="p_5"> This position is controverted by the respondents. According to the respondents the petitioner was only on deputation with the Corporation for a limited period and he never became a servant or employee of the Corporation. The petitioner continued to work as a Conductor with the Corporation for sometime after its formation. The petitioner like other employees was served with an option form and was asked to intimate whether he would like to serve the Corporation as its employee or would opt for the service of the State. The petitioner thought that the option sent to him suffered from vagueness. He, therefore, sought clarifications so that he could exercise his choice properly.  
+</p> 
+
+<p id="p_6"> According to the petitioner a fresh option form was issued to him by the State Government, but the petitioner took the position that he had become the employee of the Corporation and thus there could be no question of his opting for State service as according to him there was no corresponding or analogous department of the State Government to winch the petitioner could be appointed. On 11-9-67 an order was served on the petitioner that he had been declared surplus by the General Manager Rajas than State Roadways Corporation and that he has been absorbed to the post of Surveillance Worker in the National Malaria Eradication Prevention Unit, Banner against a vacancy and the petitioner was directed to report himself for duty at Barmer. In pursuance of the order dated 11-9-67, the petitioner was relieved from the post of Conductor. The grievance of the petitioner is that by the way the petitioner was dealt with the respondents sought to retrench him.  
+</p> 
+
+<p id="p_7"> 4. The petitioner contends that he was a workman in an industry viz., that of providing transport service and was governed by the <a href="/doc/500379/" id="a_3">Industrial Disputes Act</a>, 1947, the Standing Orders framed by the State Roadways, the Workmen's <a href="/doc/1113485/" id="a_4">Compensation Act</a> and several other pieces of legislation to which detailed reference need not be made at this stage and therefore, according to the petitioner it was not open to the respondents to transfer him to a department of the State Government which was not an industrial establishment of the kind he was employed in and thereby to deprive him of all the benefits to which he was entitled. The petitioner has raised   a   two-fold   contention by  his writ petition.    
+</p> 
+
+<p id="p_8"> 5. The first contention is that he was in full sense of the term an employee of the Corporation, and, therefore, the Government had no power to transfer him to its own department. The second contention is that even if the petitioner be not taken to be an employee of the Corporation, the Government had no power to transfer the petitioner from a department which was having the dominant character of an industrial establishment to another department of the State which was not industrial in character as this was bound to materially alter the service conditions of the petitioner under which he joined service in the erstwhile State Roadways Department of the State Government.  
+</p> 
+
+<p id="p_9"> 6. The second writ petition, as already observed, has been moved by the State Roadways Workers Union and seeks to question the validity of orders of the Government (Exs. 14 to 18 on record). Exhibit 18 in this case is the order relating to Kailash Chandra which is the subject matter of the first writ petition. The Union has challenged the validity of these orders on the same grounds as have been taken by Kailash Chandra.  
+</p> 
+
+<p id="p_10"> 7. Both the writ petitions have been opposed on behalf of the respondents.  
+</p> 
+
+<p id="p_11"> 8. It is contended on behalf of the State that the Government could transfer the employees of the erstwhile State Roadways Department to the departments and places to which they have been transferred by the impugned orders. It is denied by the respondents that Kailash Chandra petitioner and other employees had become the employees of the Corporation. It is urged by them that these employees were the employees of State when they first entered service in the State Roadways Department and continued to be so till after the formation of the Corporation. It is stated that when the Corporation was formed and the transport business run by the State Roadways Department taken over by the Corporation the services of these employees were temporarily placed at the disposal of the Corporation on deputation. They maintained that the deputation of these employees was initially for a period of three months, but the period was subsequently extended from time to time.   
+</p> 
+
+<p id="p_12"> Eventually these employees were given the option to say whether they would like to be absorbed in the service of the Corporation or would like to continue in Government service. According to the respondents when the first option was given the petitioners Kailash Chandra and other employees gave evasive replies and, therefore, second time they like others were served with fresh option notices and as they did not exercise the option for joining the service of the Corporation, the Corporation had to declare them surplus for their own requirements. Thereafter the State Government according to the respondents could deal with them like other Government servants and could post them to other departments as the Government had no State Roadways Department any more with them.  
+</p> 
+
+<p id="p_13"> Further according to the respondents at the time these employees came to be deputed with the Corporation certain supernumerary posts were created in the Directorate of Transport and the lien of these employees like others was kept in the Directorate of Transport of the State. For this reason it is urged that at all times the petitioners continued to be the employees of the State Government and they could be transferred like other civil servants to other departments. There is one additional plea raised by the respondents in the writ petition filed by the Workers Union that such a writ petition was not maintainable because according to the respondents it is only the aggrieved persons who could have filed such a writ petition.  
+</p> 
+
+<p id="p_14"> 9. From the above narration it will be evident that two questions arise for determination;  
+</p>   
+
+<p id="p_15"> 1. Whether petitioner Kailash Chandra and the other employees whose cause has been espoused by the Union had become amployees of the Corporation so that neither the corporation could have declared them surplus nor would the State Government be left with any power to transfer them on posts in other departments.  
+</p> 
+
+<p id="p_16"> 2. Whether the State Government was competent to transfer Kailash Chandra and other employees who had been employed in the State Roadways Department to other departments of the State.   
+</p> 
+
+<p id="p_17"> 10. The plea raised by the respondents regarding the non-maintainability of the writ petition moved by the Workers Union need not detain me long because even if this writ petition is thrown out on the sole ground that the party affected by the impugned orders has not chosen to come before this court, the points raised in Kailash Chandra's writ petition will still have to be dealt with and disposed of. The writ petition filed by Kailash Chandra or by the Workers Union for that matter appears to be test cases and decision of the question raised in Kailash Chandra's writ petition, should, in my view, settle the controversy. It is not expected of the State Government or the Corporation for that matter that they are interested in multiplying cases in court. Whatever way the controversy is settled it is expected that the respondents will deal with the matter accordingly even in respect of other employees who may have been similarly dealt with.  
+</p> 
+
+<p id="p_18"> 11. Before I may address myself to the points formulated above, it will be convenient to refer to the relevant statutory provisions. The conditions of service of the servants of the State are laid down in the Rajasthan Service Rules, 1951. These rules had been made by the Raj Pramukh of Rajasthan in 1951 in exercise of the powers under <a href="/doc/1123043/" id="a_5">Article 309</a> of the Constitution and now by the constitutional changes intervening they are deemed to be rules made by the Governor. Rule 2 provides that:  
+</p>   
+
+<p id="p_19"> "2. Extent of application.-- These rules apply.- 
+</p>   
+
+<p id="p_20"> (i) to all persons appointed by the Government of Rajasthan to posts or services under its administrative control or in connection with the affairs of the State of Rajasthan on or after the seventh day of April, 1949.  
+</p> 
+
+<p id="p_21"> (ii) to all persons appointed on or after the said day to such posts or services as a result of integration of the services of the Covenanting States, and  
+ 
+
+</p><p id="p_22"> (iii) to all persons appointed to such posts or services on the basis of contracts entered into by the Government of Rajasthan or by the Government of a Covenanting State in respect of such matters covered by these Rules as are not specially provided for in their contracts for appointment. This rule is subject to certain provisos which are not material for the present purpose. Rule 20 provides for transfer of a Government servant and I may read it:--   
+</p>   
+
+<pre id="pre_1"> "20. Transfer  of  a  Government     servant;   
+   
+
+ (a) Government may transfer a Government servant from one post to another, provided that except- 
+ 
+
+ (i) on account of inefficiency or misbehaviour, or  
+ 
+
+ (ii) on his written request, a Government servant shall not be transferred substantively to, or, except in a case covered by Rule 50 appointed to officiate in a post carrying less pay than the pay of the permanent post on which he holds a lien or could hold a lien had his lien not been suspended under Rule 17.   
+ 
+
+</pre><p id="p_23"> Rule 141 provides that an employee cannot be transferred to foreign service without his consent. The term 'foreign service' has been defined under these rules to mean a service in which a Government servant receives his substantive pay with the sanction of the Government from a source other than the consolidated fund. Rule 141 is however, inapplicable in the case of a transfer of a Government servant to the service of a body incorporated or not which is wholly or substantially owned or controlled by the Government. In other words R. 141 contemplates that a Government servant can be transferred even without his consent to a corporation like the one in the present case.    
+</p> 
+
+<p id="p_24"> For matters relating to classification and control of civil servants in the State there are the Rajasthan Civil Services (Classification, Control and Appeal) Rules, 1958. These rules make provision for the classification of civil servants in various categories and for certain disciplinary matters. The term 'Government Servant' has been defined in these rules to mean:--   
+</p>
+<p id="p_25">  "a person who is a member of a service or who holds a civil post under the Government of Rajasthan and includes any such person on foreign service or whose services are temporarily placed at the disposal of a local or other authority and also any person in the service of a local or other authority whose services are temporarily placed at the disposal of the Government or Rajasthan or a person in service on a contract or a person who has retired from Government service elsewhere and is re-employed under the Government of Rajasthan."  
+</p> 
+
+<p id="p_26"> This term does not include certain civil servants on deputation in Rajasthan and with that I am not concerned. These rules apply to all Government servants except persons of certain categories mentioned in Rule 3. But I am not concerned with the persons except the categories of civil servants mentioned therein. However, the provisions of Rule 3 (1) (b) may be noticed. Persons who are employed in such Industrial Organizations of Government as may be notified from time to time and who are workmen within the meaning of <a href="/doc/500379/" id="a_6">Industrial Disputes Act</a>, will not be governed by these rules. It follows that it is such workmen within the meaning of the <a href="/doc/500379/" id="a_7">Industrial Disputes Act</a> about whose Industrial Organisation the Government had issued the notification that the provisions of these rules will cease to apply.  
+</p> 
+
+<p id="p_27"> <a href="/doc/500379/" id="a_8">Industrial Disputes Act</a>, 1947, confers a number of benefits on workmen in an industry and this Act applies equally to industries run by the State Government. The term 'Industries' according to <a href="/doc/1418464/" id="a_9">Section 2</a> (j) of this Act means:    
+</p><p id="p_28">"Any business, trade, undertaking, manufacture or calling of employers and includes any calling, service, employment, handicraft, or industrial occupation or avocation of workmen."  
+</p> 
+
+<p id="p_29"> The term 'workmen' has been defined by the Act as follows:  
+</p>  
+
+<p id="p_30">  '"Workman' means any person (including an apprentice) employed in any industry to do any skilled or unskilled, manual, supervisory, technical or clerical work for hire or reward whether the terms of employment be expressed or implied, and for the purposes of any proceeding under this Act in relation to an industrial dispute, includes any such person who has been dismissed, discharged or retrenched in connection with, or as a consequence of, that dispute, or whose dismissal, discharge or retrenchment has led to that dispute, but does not include any such person   
+   
+
+</p><p id="p_31"> (i) who is subject to the <a href="/doc/165229/" id="a_10">Army Act</a>, 1950, or the <a href="/doc/1786905/" id="a_11">Air Force Act</a>, 1950, or the Navy (Discipline) Act, 1934, or  
+ 
+
+</p><p id="p_32"> (ii) who is employed in the police service or as an officer or other employee of a prison; or  
+ 
+
+</p><p id="p_33"> (iii) who is employed mainly in a managerial or administrative capacity; or  
+ 
+
+</p><p id="p_34"> (iv) who, being employed in a supervisory capacity, draws wages exceeding five hundred rupees per mensem or exercises, either by the nature of duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature."     
+</p> 
+
+<p id="p_35"> The avowed object of this Act is to maintain industrial peace and it provides a machinery for the settlement of industrial disputes and some of the provisions of the Act are designed to ensure security of tenure and for this it confers certain benefits on workmen. It makes provision in this refiard for lay off, strikes and lock-outs. <a href="/doc/41851/" id="a_12">Section 25-G</a> gives a right to a workman laid off for compensation. <a href="/doc/1056316/" id="a_13">Section 25-F</a> describes the conditions to be fulfilled before a workman could be retrenched. Likewise <a href="/doc/1836267/" id="a_14">Section 25-FF</a> makes provisions for compensation to workmen in case of transfer of undertakings. This section runs as follows:  
+</p>  
+
+<p id="p_36">  "Compensation to workmen in case of transfer of undertakings- 
+</p> 
+
+<p id="p_37"> Where the ownership or management of an undertaking is transferred, whether by agreement or by operation of law, from the employer in relation to that undertaking to a new employer, every workman who has been in continuous service for not less than one year in that undertaking immediately before such transfer shall be entitled to notice and compensation in accordance with the provisions of <a href="/doc/1056316/" id="a_15">Section 25-F</a>, as if the workman had been retrenched:  
+</p> 
+
+<p id="p_38"> Provided that nothing in this section shall apply to a workman in any case where there has been a change of employers by reason of the transfer, if- 
+</p>   
+
+<p id="p_39"> (a) the service of the workman has not been interrupted by such transfer;  
+</p> 
+
+<p id="p_40"> (b) the terms and conditions of service applicable  to   the   workman   after   such   transfer  are  not   in   any   way   less   favourable  to the   workman  than  those  applicable   to   him immediately  before  the  transfer;   and  
+ 
+
+</p><p id="p_41"> (c) the new employer is, under the terms of such transfer or otherwise, legally liable to pay to the workman, in the event of his retrenchment, compensation on the basis that his service has been continuous and has not been interrupted by the transfer."    
+</p> 
+
+<p id="p_42"> There are other provisions like <a href="/doc/41851/" id="a_16">Sections 25-G</a> &amp; <a href="/doc/1476304/" id="a_17">25-H</a> which provide for the procedure for retrenchment. Then there are a number of other statutes like the Workmen's <a href="/doc/1113485/" id="a_18">Compensation Act</a>, the <a href="/doc/720619/" id="a_19">Bonus Act</a>, the <a href="/doc/794158/" id="a_20">Payment of Wages Act</a>, <a href="/doc/142278/" id="a_21">Minimum Wages Act</a> which confer a number of benefits on workmen. Since these are statutory benefits conferred on a workman, it can legitimately be predicated that a workman has a right to these benefits under the stated conditions and these statutory provisions are thereby assimilated to the conditions of service of a workman employed in an industrial undertaking.  
+</p> 
+
+<p id="p_43"> 12. I may now turn to the <a href="/doc/1376794/" id="a_22">Industrial Employment (Standing Orders) Act</a>, 1940. <a href="/doc/500379/" id="a_23">This Act</a> was made to require employers in industrial establishments to define with sufficient precision the conditions of employment under them and to make the said conditions known to workmen employed by them. As the learned counsel for the petitioner argued that it is the Standing Orders made under this Act which were the conditions of service on which the petitioner came to be employed. I may read the relevant provisions of the Act. <a href="/doc/452505/" id="a_24">Section 3</a> of this Act makes it obligatory for an employer to submit a draft of the standing orders proposed by him for adoption in his industrial establishment within six months from the date on which the Act becomes applicable to an industrial establishment. It runs as follows:  
+</p>   
+
+<p id="p_44"> "3. Submission of draft standing orders:-- (1) Within six months from the date on which this Act becomes applicable to an industrial establishment, the employer shall submit to the Certifying Officer five copies of the drait standing orders proposed by him for adoption in his industrial establishment.   
+</p> 
+
+<p id="p_45"> (2) Provision shall be made in such draft for every matter set out in the Schedule which may be applicable to the industrial establishment, and where model standing orders have been prescribed shall be, so far as is practicable, in conformity with such model.  
+</p> 
+
+<p id="p_46"> (3) The draft standing orders submitted under this section shall be accompanied by a statement giving prescribed particulars of the workmen employed in the industrial establishment including the name of the trade union, if any, to which they belong.  
+</p> 
+
+<p id="p_47"> (4) Subject to such conditions as may be prescribed, a group of employers in similar industrial establishments may submit a joint draft of standing orders under this section."   
+</p> 
+
+<p id="p_48"> <a href="/doc/185363/" id="a_25">Section 4</a> lays down the conditions for certification of the standing orders and it reads as under:--  
+</p>   
+
+<p id="p_49"> "4. Conditions for certification of standing orders. Standing Orders shall be certifiable under this Act if- 
+</p> 
+
+<pre id="pre_2"> (a)   provision   is   made  therein  for    every matter set out in the schedule which is applicable to  the industrial establishment, and  
+ 
+
+ (b) the standing orders or otherwise in conformity with the provisions of this Act, and it shall be the function of the Certifying officer or appellate authority to adjudicate upon the fairness or reasonableness of the provisions of any standing orders."   
+ 
+
+ <a href="/doc/746513/" id="a_26">Section 5</a> lays down the procedure for the certification of the standing orders and it is as follows:--  
+  
+
+</pre><p id="p_50">  "5. On receipt of the draft under <a href="/doc/452505/" id="a_27">Section 3</a>, the Certifying Officer shall forward a copy thereof to the trade union, if any, of the workmen, or where there is no such trade union, to the workmen in such manner as may be prescribed, together with a notice in the prescribed form requiring objections, if any which the workmen may desire to make to the draft standing orders to be submitted to him within fifteen days from the receipt of the notice.   
+</p> 
+
+<p id="p_51"> (2) After giving the employer and the trade union or such other representatives of the workmen as may be prescribed an opportunity of being heard, the Certifying Officer shall decide whether or not any modification of or addition to the draft submitted by the employer is necessary to render the draft standing orders certifiable under this Act, and shall make an order in writing accordingly.  
+</p> 
+
+<p id="p_52"> (3) The Certifying Officer shall thereupon certify the draft standing orders. After making any modifications therein which his order under Sub-section (2) may require and shall within seven days thereafter send copies of the certified standing orders authenticated in the prescribed manner and of his Order under Sub-section (2) to the employer and to the trade union or other prescribed representatives of the workmen."   
+</p> 
+
+<p id="p_53"> <a href="/doc/1080978/" id="a_28">Section 6</a> provides that any person aggrieved of the order of the Certifying Officer under Sub-section (2) of <a href="/doc/746513/" id="a_29">Section 5</a> may file an appeal before the appellate authority. <a href="/doc/1150040/" id="a_30">Sections 7</a>, <a href="/doc/310761/" id="a_31">8</a>, <a href="/doc/1376184/" id="a_32">9</a> and <a href="/doc/1669932/" id="a_33">10</a> provide for various matters relating to the date of operation of the standing orders, maintaining register for standing orders, posting of standing orders and for duration and modification of standing orders. Under Section 11 of the Act Certifying Officers and the appellate authorities have been given certain powers of civil courts. <a href="/doc/1877749/" id="a_34">Section 13</a> lays down that any employer who fails to submit the draft standing orders as required by <a href="/doc/452505/" id="a_35">Section 3</a> shall be punishable with fine which may extend to Rs. 5000. He will be liable to a further fine if the offence continues. I may then notice <a href="/doc/500379/" id="a_36">Section 13-B</a> which runs as follows:--  
+</p>   
+
+<p id="p_54">"13-B. Act not to apply to certain industrial establishments- 
+</p> 
+
+<p id="p_55"> Nothing in this Act shall apply to an industrial establishment in so far as the workmen employed therein are persons to whom the Fundamental and Supplementary Rules, Civil Services (Classification, Control and Appeal) Rules, Civil Services (Temporary Service) Rules, Revised Leave Rules, Civil Service Regulations, Civilians in Defence Service (Classification, Control and Appeal) Rules or the Indian Railway Establishment Code or any other rules or regulations that may be notified in this behalf by the appropriate Government in the Official Gazette, apply."   
+</p> 
+
+<p id="p_56"> As the learned Additional Advocate General placed reliance on this section for showing that the petitioner was not governed by the standing orders and he also went to the length of saying that the Roadways Department had unnecessarily made and then applied for certification of the standing orders which according to tie learned Additional Advocate General was a meaningless superfluity.  
+</p> 
+
+<p id="p_57"> 13. It is in the light of the various provisions that I have noticed that I may deal with the two questions formulated by me above.  
+</p> 
+
+<p id="p_58"> 14. For showing how the petitioner and the other workmen should be taken to have been appointed in the service of the Corporation learned counsel for the petitioner referred me to the notification issued by the Governor on 18th November, 1964 which is at page 50 of the paper book in the writ petition filed by the Workmen Union. This notification was issued by the Governor in exercise of his powers under <a href="/doc/1757864/" id="a_37">Section 34</a> of the "<a href="/doc/1779621/" id="a_38">Road Transport Corporations Act</a>, 1950 and thereby he made the administrative arrangements stated therein. Clause (1) of the Notification on which reliance was placed was as follows:--  
+</p>  
+
+<p id="p_59">  "Clause (1). The Rajasthan State Road Transport Corporation (hereinafter referred to as the Corporation) shall take over the management of the existing Roadways Department of the Government of Rajasthan. Next clause on which reliance was placed is in the following terms:  
+</p> 
+
+<p id="p_60"> Clause (6). The services of all Government employees holding whole or part time posts in the Roadways Department shall be temporarily placed at the disposal of the said Corporation on deputation for a period of three months or for the period as may be extended from time to time by the Government on the terms and conditions governing them at present till the Corporation frames its own regulations in respect of services of their employees which shall not be less advantageous than the terms and conditions applicable to them at present including provision for absorption in the services of the Corporation of Government employees of the Roadways Department.  
+</p> 
+
+<p id="p_61"> Provided that no deputation allowance will be given to the Government employees for the deputation period. Leave salary and pension contribution shall be regularly paid by the Corporation in respect of all Government Servants.  
+</p> 
+
+<p id="p_62"> Provided further that in respect of disciplinary proceedings or appeals, arising therefrom, pending immediately before the 1st October, 1964, the State Government shall exercise all powers, although they will be under the administrative control of the Corporation."   
+</p> 
+
+<p id="p_63"> 15. Shri Mridul also referred to Exts. 5, 8, 17 and 18. Exhibit 5 is a copy of a reply filed on behalf of the Corporation in a dispute between one Laluram and the Corporation. Exhibit 8 is an award of an arbitrator about certain disputes between the workmen represented by the State Roadways Workers' Union and the Rajasthan State Roadways. Exhibits 17 and 18 are the orders passed by the Director of Medical and Health Services, Rajasthan for posting certain workmen to certain departments as they were declared surplus by the Rajasthan State Roadways Transport Corporation Department. From the tenor of these two orders Exs. 17 and 18 it is sought to be argued that the Director of Medical -and Health Services who passed the orders of absorption, was treating the Corporation as a department of the State. Learned counsel for the petitioner realised that there was no express order appointing these workmen in the service of the Corporation. Even so he attempted to argue that from the facts and circumstances placed before the Court by him, it should be inferred that petitioner Kailash Chandra and other workmen came to be appointed in the service of the Corporation. For this he placed reliance on a bench decision of this court in <a href="/doc/1327286/" id="a_39">Mohan Lal v. State</a>, AIR 1966 Raj 1 which was affirmed in appeal by the Supreme Court in Rajasthan State Electricity Board, laipur v. Mohanlal, AIR 1967 SC 1857.  
+</p> 
+
+<p id="p_64"> 16. I have considered the various documents to which my attention was invited. But on the material before me I find it difficult to come to the conclusion that the petitioner Kailash Chandra as also the other workmen represented by the Union in the second writ petition came to be appointed in the service of the Corporation. The fate of Mohanlal's case, AIR 1966 Raj 1 decided by this court turned on its own facts. There were definite orders passed by the Rajasthan Electricity Board from which it could be inferred that Mohanlal had been appointed in the service of the Rajasthan State Electricity Board. The most important fact relied upon by the learned Judges was that the Rajasthan Electricity Board itself had sent Mohanlal on deputation with the Public Works Department and he could have been so sent on deputation only if he were in the service of the Rajasthan Electricity Board. The present case is not a case of that type. In the circumstances I find it exceedingly difficult to determine, in the exercise of the extraordinary jurisdiction of this court under <a href="/doc/1712542/" id="a_40">Article 226</a> of the Constitution, whether the petitioner or the workmen represented by the Union in the other case had really been appointed in the service of the Corporation. This is a matter which can more appropriately be raised either in a civil suit if it is open to these workmen to file one or by raising a dispute before an Industrial Tribunal. Such a Tribunal can go into the entire evidence and then reach the conclusion whether petitioner Kailash Chandra and other workmen could be said to have been appointed in the service of the Corporation.  
+</p> 
+
+<p id="p_65"> 17. I now turn to the consideration of the second question. I need not in the present case decide whether the conditions of service of the petitioner would be governed by the Standing Orders made by the erstwhile Rajasthan State Roadways, nor need I decide whether the Standing Orders could not have been framed in view of the provisions of <a href="/doc/1877749/" id="a_41">Section 13</a> (b) of the <a href="/doc/1376794/" id="a_42">Industrial Employment (Standing Orders) Act</a>, 1946. I will assume for the purposes of this case that it is the Rajasthan Civil Services (Classification, Control and Appeal) Rules, 1958 and the Rajasthan Service Rules, 1951 which apply to the employees of the erstwhile State Roadways Department. Even so, the question will have to be examined whether the provisions of <a href="/doc/500379/" id="a_43">Industrial Disputes Act</a>, 1947, the <a href="/doc/720619/" id="a_44">Bonus Act</a>, the Workmen's <a href="/doc/1113485/" id="a_45">Compensation Act</a>, <a href="/doc/794158/" id="a_46">Payment of Wages Act</a>, <a href="/doc/142278/" id="a_47">Minimum Wages Act</a> and a number of other statutes that apply to workmen.  
+</p> 
+
+<p id="p_66"> There is no dispute that these Acts do apply to workmen even in an industry run by the State Government. It has also not been rightly disputed before me that the running of transport business as a departmental undertaking by the State Government was an industry in the fullest sense of the term. It has also not been questioned that the petitioner Kailash Chandra and the workmen represented by the Union in the other case joined service for the first time in the State Roadways Department i.e., these were persons who came to be govern-ed by whatever statutory conditions that would be applicable to workmen in am industry.  
+</p> 
+
+<p id="p_67"> I am not called upon to consider the case of a person who joined service in some other department of the State Government and came to be transferred to the erstwhile State Roadways Department and retained his lien in other departments. In the case of those workmen who join service for the first time in an industrial establishment of the State Government I have no manner of doubt that the conditions of service will include the statutory conditions and benefits to which a workman is entitled under the <a href="/doc/500379/" id="a_48">Industrial Disputes Act</a> and various other Acts enumerated above.  
+</p> 
+
+<p id="p_68"> Parties have not set down to draw up any formal agreement embodying the contract of service between them. In the circumstances the contract of service between them will be taken to be based on the Rajasthan service Rules and the Rajasthan Civil Services (Classification, Control and Appeal) Rules and several other statutes enumerated above. It is in this background that the powers of the Government under Rule 20 of the Rajasthan Service Rules have to be ascertained. The question is whether the Government will be competent to so exercise its powers under Rule 20 of the Rajasthan Service Rules that a person who is a workman and is employed in an industry run by the Government could be transferred to another department which is not an industry assuming he may be called upon in the department to which he is sought to be transferred to discharge similar duties.   
+</p> 
+
+<p id="p_69"> There is no manner of doubt that a workman employed in an industry has certain statutory benefits conferred by various Acts of Parliament. The Rajasthan Service Rules, 1951 have been made by the Governor in exercise of his powers under <a href="/doc/1123043/" id="a_49">Article 309</a> of the Constitution. <a href="/doc/1123043/" id="a_50">Article 309</a> itself provides that conditions of service are to be laid down by an Act of the Legislature and it is only till such conditions are laid down by the Act of the Legislature that the Governor is competent to lay down the conditions of service by rules under <a href="/doc/1123043/" id="a_51">Article 309</a> of the Constitution, now it is not the nature of the work that an individual employee or workman may be discharging that alone is the criterion for determining whether a particular department is or is not an industry.  
+</p> 
+
+<p id="p_70"> For seeing that a particular activity is or is not an industry within the meaning of the various enactments applicable, the dominant character of the activity under examination has to be ascertained. Rule 20 of the Rajasthan Service Rules may empower the State Government to transfer a workman employed in one industry to another industry of the State where he may have almost the identical conditions of service on which he initially joined the employment. But in my view Rule 20 of the Rajasthan Service Rules cannot be utilised to put an employee in an industrial undertaking in a position where he stands to lose the several benefits available to him under the various Acts of Parliament. Rule 20 of the Rajasthan Service Rules has to be so utilised that it does not trench upon the provisions of other statutes. Therefore, assuming that petitioner Kailash Chandra had not become the employee of the Corporation and consequently he could be posted by the State Government to any department under its control.  
+</p> 
+
+<p id="p_71"> I do not think that Rule 20 of the Rajasthan Service Rules can empower the State to post such a workman or an employee to a department which is not industry at all. It may be that with the transfer of the transport business run by the Government through the agency of its department viz., the Rajasthan State Roadways, the Government are not left with any industrial activity on which a particular workman can be gainfully employed.  
+</p> 
+
+<p id="p_72"> But that would not be a justification for the State Government to transfer an employee or a workman in an industry to a department which is not an industry, without his consent. It is always open to parties to arrive at an arrangement by agreement. That is not a question before me. It is nobody's case that the petitioner Kailash Chandra or other workman represented by the Union had agreed to their transfer to the departments which were not industries within the meaning of several statutes. That being so, the impugned orders, to my mind, have been passed without any legal basis. I am unable to hold that transfer of a workman employed in an industry to another department of the State which is not an industry, is just an incident of service. It is a different matter as observed earlier if it is a case of transfer of an employee or a workman in one industry to another industry of the State where the conditions of service may be almost identical and I am not dealing with such a case. But in the case like the present one I have no doubt that the State Government cannot be said to be clothed with any power to transfer an employee in an industrial undertaking like the one engaged in by the erstwhile State Road ways Department to a department which is not an industry.   
+</p> 
+
+<p id="p_73"> 18. I have already noticed the difficulty that the second writ petition has been filed by the Union and not by the workers who have been affected by the orders of transfer made by the, State Government. But Kailash Chandra's case as I have already observed is a test case and it is to be expected that Government being interested in the correct interpretation of the law are not interested in multiplying cases. Therefore, though technically the Union cannot be permitted to maintain the writ petition on behalf of the others I do express the hope that the State Government will accord the other workman the treatment that has to be given to Kailash Chandra in pursuance of the order that I am going to pass.  
+</p> 
+
+<p id="p_74"> 19. In the result I allow Kailash Chandra's writ petition and hereby quash the order Ex. 1 dated 11-9-67 and restrain the respondents from giving effect to it. In the light of the observations made above, I dismiss the second writ petition filed by the State Roadways Workers Union. The parties are left to bear their own costs.  
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

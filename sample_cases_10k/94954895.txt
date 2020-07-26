@@ -1,0 +1,1037 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Godfrey Phillips India Ltd. vs Dharampal Satyapal Ltd. &amp; Anr. on 2 July, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/94954895/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:94954895">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1136195/">the Copyright Act, 1957</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1175689/">Khemraj Shrikrishandas vs Garg &amp; Co. And Anr. on 7 March, 1975</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/593677/">Section 48 in The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1129646/">Section 14 in the Copyright Act, 1957</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/526211/">Section 44 in the Copyright Act, 1957</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 2 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/115718142/">R.Radha Krishnan vs Mr.A.R.Murugadoss on 25 September, 2013</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/120337276/">Sanjay Chauhan &amp; Ors. vs Mcd &amp; Ors. on 29 April, 2013</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/94954895/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/94954895/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/94954895/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=slogan">slogan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=copyright">copyright</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pan%20masala">pan masala</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=passing%20off">passing off</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=swad%20">swad </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trade%20mark">trade mark</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=infringement%2C%20">infringement, </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=imitation">imitation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=passing%20off%20action">passing off action</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=literary%20work">literary work</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=copyright%20act">copyright act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=statutory%20right">statutory right</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=artistic%20work">artistic work</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=goodwill%20is">goodwill is</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=copyright%20act%2C%201957%20citedby%3A526211">copyright act, 1957 citedby:526211</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=copyright%20act%201957">copyright act 1957</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=unfair%20competition">unfair competition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=common%20law">common law</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deceit">deceit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=television%20">television </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Godfrey Phillips India Ltd. vs Dharampal Satyapal Ltd. &amp; Anr. on 2 July, 2012</div><div class="doc_author">Author: A. K. Pathak</div>
+
+<pre id="pre_1">     *IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++      I.A. No. 6010/2012 (u/O 39 R 1 &amp; 2 r/w Sec. 151 CPC)
+       in CS(OS) 865/2012
+                                       Reserved on 1st May, 2012
+
+                                         Decided on 2nd July, 2012
+
+       GODFREY PHILLIPS INDIA LTD.                  ..... Plaintiff
+
+                            Through:   Mr. Rajiv Nayar, Sr. Adv.
+                                       with Ms. Prathiba M. Singh,
+                                       Mr. Sudeep Chatterjee and
+                                       Ms. Anusuya Mehrotra,
+                                       Advs.
+                       Versus
+
+       DHARAMPAL SATYAPAL LTD. &amp; ANR. ..... Defendants
+
+                            Through:   Mr. Sudhir Chandra, Sr. Adv.
+                                       with Mr. Gaurav Barathi, Mr.
+                                       Anuj Gupta, Mr. Piyush
+                                       Joshi and Mr. Nidhish, Advs.
+Coram:
+HON'BLE MR. JUSTICE A.K. PATHAK
+
+A.K. PATHAK, J.
+</pre>
+<p id="p_1">1.     By this order I shall dispose of an application under Order 39
+
+Rules 1 and 2 read with Section 151 of the Code of Civil Procedure,
+
+1908 ("Code", for short) whereby plaintiff has prayed that the
+
+defendants be restrained from manufacturing, marketing, selling or
+
+offering for sale "Tulsi Saada Pan Masala" or any other product
+
+using the advertising slogan and campaign "Swad Badi Cheez Hai"
+
+or any other slogan or campaign which may be complete imitation
+
+of the slogan and campaign of the plaintiff, that is, "Shauq Badi
+
+<span class="hidden_text" id="span_1">CS (OS) No. 865/2012                                    Page 1 of 19</span>
+ Cheez Hai" so as to result in acts of infringement of copyright,
+
+passing off, unfair competition and dilution.
+</p>
+<p id="p_2">2.      Plaintiff has filed this suit for permanent injunction regarding
+
+acts of infringement of copyright, passing off, unfair competition,
+
+dilution, rendition of accounts/damages, delivery up etc., against the
+
+defendants.
+</p>
+<p id="p_3">3.      Plaintiff as well as defendants are engaged in the similar
+
+trade. Plaintiff is engaged in manufacturing, marketing, distribution
+
+and sale of, inter alia, "Pan Masala". Plaintiff launched its product
+
+"Pan Vilas Pan Masala" sometime in the beginning of the year
+
+2010.      Defendants are also engaged in the manufacturing,
+
+marketing, distribution and sale of "Pan Masala" under the mark
+
+"Tulsi Sada".
+</p>
+<p id="p_4">4.      Plaintiff has alleged that it had engaged an advertisement
+
+agency "M/s Meridian Communication Pvt. Ltd.", Mumbai for its
+
+brand development, brand launch strategy and conceptualizing and
+
+creating the advertisement campaign in the year 2008. The said
+
+agency created an advertisement campaign in respect of "Pan Vilas
+
+Pan Masala". The slogan "Shauq Badi Cheez Hai" was created as a
+
+punch-line in the advertisement. The slogan forms a key element of
+
+the plaintiff‟s promotional activities and advertising campaign and
+
+has been displayed at positions of prominence through extensive
+
+<span class="hidden_text" id="span_2">CS (OS) No. 865/2012                                      Page 2 of 19</span>
+ advertisements in the print media, radio and on television. The
+
+slogan is the punch-line of the advertisement of the plaintiff on
+
+television which also forms a sizable part of the voice over in
+
+advertisements on radio channels as well. Campaign is designed in
+
+a manner that it embodies the spirit of connoisseurs who will go to
+
+any lengths to fulfill their quest for the best. The campaign features
+
+a well known bollywood actor Manoj Bajpai in the character of a
+
+„Nawab‟ who is extremely particular about the finer things in life
+
+such as ironing creases out of newspapers before reading, using
+
+German binoculars, attending events with foreign ambassadors and
+
+riding antique Victorian bicycles; eventually the advertisements go
+
+on to show how his quest for the elusive perfect taste ends with
+
+"Pan Vilas Pan Masala" with a voice over of the slogan "Shauq
+
+Badi Cheez Hai". The slogan forms the theme of the entire
+
+campaign. The advertisements have struck a chord with the
+
+consumers and they relate the slogan exclusively to the product of
+
+the plaintiff.
+</p>
+<p id="p_5">5.     Plaintiff has invested more than `25 crores in the
+
+advertisements during a short span of two years. The product of the
+
+plaintiff has received enormous recognition from the consumers and
+
+its sale during the financial year 2010-11 was `2456.7 lacs and
+
+during the year 2011-12 is `10562.7 lacs. Plaintiff has applied for
+<span class="hidden_text" id="span_3">CS (OS) No. 865/2012                                    Page 3 of 19</span>
+ registration of the slogan with the Trade Mark Registry, in respect
+
+of the slogan "Shauq Badi Cheez Hai", in Hindi as well as English
+
+language.
+</p>
+<p id="p_6">6.     Plaintiff alleges that it is the proprietor of the copyright in
+
+respect of the slogan "Shauq Badi Cheez Hai", which is original
+
+literary work of the plaintiff created through an advertisement
+
+agency, thus, plaintiff is entitled to copyright protection and no
+
+third party has a right to use the same. Plaintiff also enjoys the
+
+statutory trade mark rights as well as the common law rights in the
+
+slogan "Shauq Badi Cheez Hai".
+</p>
+<p id="p_7">7.     Defendants are the competitors of the plaintiff. Defendants
+
+have imitated the various distinctive and key characteristic features
+
+and properties of the plaintiff‟s slogan "Shauq Badi Cheez Hai"
+
+with minor variation in respect of their products, that is, "Tulsi
+
+Saada Pan Masala". Defendants started using the slogan "Swad
+
+Badi Cheez Hai", which is imitation of the plaintiff‟s slogan and
+
+campaign. Defendants have also started airing on television an
+
+advertisement that seeks to derive an unfair benefit by copying
+
+substantial aspects from the plaintiff‟s campaign. Defendants have
+
+adopted the similar slogan as well as the campaign to encash the
+
+plaintiff‟s enormous goodwill and reputation in the field.
+
+Defendants have also based their campaign expressing the luxurious
+
+<span class="hidden_text" id="span_4">CS (OS) No. 865/2012                                    Page 4 of 19</span>
+ taste relating to their product. Deliberate and conscious attempt of
+
+the defendants to imitate, copy and plagiarise the plaintiff‟s
+
+campaign may be evidenced from the fact that the defendants have
+
+copied the punch-line of the campaign in order to obtain unfair
+
+benefit. The voice over in the defendants‟ advertisement has no
+
+element of originality and is a slavish copy of the plaintiff‟s slogan.
+
+Defendants have only replaced the word "Shauq" with "Swad"
+
+while retaining the slogan. The slogan and the campaign adopted
+
+by the defendants are likely to create confusion in the minds of
+
+unwary consumers to believe that defendants‟ product is an
+
+extension of plaintiff‟s product.      The imitation is not merely
+
+restricted to the slogan but also to various other features which
+
+establish that the copying is not merely a coincidence but a
+
+premeditated attempt to cash in on the goodwill and reputation
+
+enjoyed by the plaintiff. It is alleged that conduct of the defendants
+
+constitutes (a) infringement of copyright in the slogan; (b) passing
+
+off; (c) acts of unfair competition and (d) dilution.
+
+</p><p id="p_8">8.     In their reply to the application defendants have denied that
+
+the slogan and campaign of the plaintiff has been copied by them.
+
+It is alleged that slogan of the defendants, that is, "Swad Badi
+
+Cheez Hai Swad Se Badhkar Kuch Nahi Tulsi Saada Pan Masala" is
+
+totally different and dissimilar from the slogan and campaign of the
+
+<span class="hidden_text" id="span_5">CS (OS) No. 865/2012                                     Page 5 of 19</span>
+ plaintiff "Shauq Badi Cheez Hai".             Defendants have led
+
+comprehensive and complete emphasis on the word "Swad" which
+
+is even used twice in the slogan that too along with the name of the
+
+brand of the defendants "Tulsi Sada Pan Masala". "Pan Masala" by
+
+the defendants is promoted and endorsed by referring it with the
+
+rich taste and delectable flavor only and nothing else. The slogan of
+
+the defendants is wholly and completely different from the slogan
+
+and punch-line of the plaintiff as there is remarkable difference in
+
+the contents, style along with the meaning of the two. It is denied
+
+that defendants‟ slogan and campaign amount to infringement of the
+
+plaintiff‟s statutory rights or common law rights. Plaintiff does not
+
+possess an exclusive right over the alleged slogan "Shauq Badi
+
+Cheez Hai" as the same forms an intrinsic part of the "current
+
+language", which is most commonly used in the trade. Such words
+
+and expression are not only common but perhaps in a sense,
+
+necessary to describe the characteristics or attributes of the product
+
+as the product is a "Pan Masala", which is targeted to the
+
+consuming market. Defendants allege that plaintiff‟s slogan "Shauq
+
+Badi Cheez Hai" does not fall under the purview of „literary work‟
+
+within the meaning and scope of the <a href="/doc/1136195/" id="a_1">Copyright Act</a>, 1957
+
+(hereinafter referred to as "the Act") therefore, enjoys no protection,
+
+inasmuch as, slogans are not protectable under the Act. As per the
+
+<span class="hidden_text" id="span_6">CS (OS) No. 865/2012                                     Page 6 of 19</span>
+ defendants, they are not guilty of passing off as there is no
+
+similarity between the slogan and campaign of the plaintiff, vis-à-
+
+vis, defendants‟ slogan and campaign. The mark of the plaintiff is
+
+read/spoken as "Shauq Badi Cheez Hai"; whereas the slogan used
+
+by the defendants reads as "Swad Badi Cheez Hai Swad Se Badhkar
+
+Kuch Nahi Tulsi Saada Pan Masala". There is no likelihood of the
+
+consumer getting deceived or confused from the two marks since
+
+defendants have even used the name of their product "Tulsi Sada
+
+Pan Masla" along with the mark "Swad Badi Cheez Hai Swad Se
+
+Badhkar Kuch Nahi". It is denied that the slogan of the defendants
+
+is imitation of the plaintiff‟s slogan. Defendants have asserted that
+
+the slogan of the plaintiff is neither distinctive nor has any acquired
+
+distinctiveness. Furthermore, slogan of the defendants "Swad Badi
+
+Cheez Hai Swad Se Badhkar Kuch Nahi Tulsi Saada Pan Masala"
+
+does not amount to misrepresentation or likely to cause confusion,
+
+thus, question of passing off does not arise. It was also denied that
+
+plaintiff has statutory right in the trade mark, that is, the slogan
+
+"Shauq Badi Cheez Hai". It is stated that the plaintiff‟s application
+
+for registration is still pending and the mark has yet not been
+
+registered, thus, plaintiff has no statutory right in the said slogan,
+
+which otherwise is different than the defendants‟ slogan. It was
+
+denied that the defendants have copied the plaintiff‟s advertisement.
+
+<span class="hidden_text" id="span_7">CS (OS) No. 865/2012                                     Page 7 of 19</span>
+ It is alleged that the voice over in the defendants‟ advertisement is
+
+not a slavish copy of the plaintiff‟s slogan. There is no similarity in
+
+the advertisement and voice over between the plaintiff‟s and
+
+defendants‟ advertisement campaigns. Defendants were well
+
+established in the trade since the year 1929 and currently is valued
+
+at `1850 crores. Defendants‟ total revenue only from the "Pan
+
+Masala" segment is to the tune of `500 crores, thus, defendants
+
+have not to encash upon the reputation and goodwill of others.
+
+</p><p id="p_9">9.     I have heard the learned senior counsel of both the parties
+
+and perused the entire record including audio, visual and print
+
+advertisements.
+</p>
+<p id="p_10">10.    There can be no conflict as regards legal proposition as
+
+propounded by the plaintiff‟s Senior counsel that the registration of
+
+copyright is not compulsory for the purpose of enforcing copyright
+
+by a party. In Burroughs Welcome (India) Ltd. versus Uni-Sole
+
+Pvt. Ltd. &amp; Anr. 1999 PTC (19) 188, Supreme Court has held that
+
+<a href="/doc/526211/" id="a_2">Section 44</a> of the Copyright Act, 1957 provides for registration of
+
+work in which copyright exists but in order to claim copyright
+
+registration is not necessary. This is because registration is only to
+
+raise a presumption that the person shown in the certificate of
+
+registration is the author. This presumption is not conclusive, but no
+
+further proof is necessary unless there is a proof rebutting the
+<span class="hidden_text" id="span_8">CS (OS) No. 865/2012                                     Page 8 of 19</span>
+ contents of the said certificate.        Under <a href="/doc/593677/" id="a_3">Section 48</a> of the
+
+Registration Act, therefore, the act of registration is ex-facie prima
+
+facie evidence of the particulars incorporated in the certificate.
+
+There is no provision under the Act which deprives the author of his
+
+rights on account of non-registration of the copyright. There is
+
+nothing in the Act to suggest that the registration is condition
+
+precedent to the subsistent of the copyright or acquisition of
+
+copyrights or ownership thereof or for reliefs of infringement of
+
+copyrights. In Frito-Lay India and Ors. versus Radesh Foods &amp;
+
+Anr. 2009 (40) PTC 37 (Del), a Single Judge of this Court has held
+
+that for the purpose of infringement a copyright need not be
+
+registered.
+</p>
+<p id="p_11">11.    The next question which is to be delved upon is whether the
+
+slogans and/or phrases are copyrightable or not. As per learned
+
+senior counsel for the defendants, the slogan "Shauq Badi Cheez
+
+Hai" is wholly and totally common phrase and embodies commonly
+
+used words in the Hindi language. There is nothing original in this
+
+slogan which is not copyrightable. As per Nimmer on Copyright,
+
+<a href="/doc/655638/" id="a_4">Article 20.01 (B)</a> at Page 2-15 "words and short phrases such as
+
+names, titles and slogans; familiar symbols or designs; mere
+
+variations of typographic ornamentation, lettering or coloring; mere
+
+listing of ingredients or contents are not subject to copyright".
+
+<span class="hidden_text" id="span_9">CS (OS) No. 865/2012                                     Page 9 of 19</span>
+</p><p id="p_12"> 12.    <a href="/doc/121334999/" id="a_5">Section 2(c)</a> and (o) of the <a href="/doc/1136195/" id="a_6">Copyright Act</a>, 1957 define
+
+"artistic work" and "literary work" respectively. Relevant it would
+
+be to refer to these sections, which reads as follows:-
+
+</p><blockquote id="blockquote_1">              2(c) "artistic work" means:-
+</blockquote><blockquote id="blockquote_2">              (i)    a painting, a sculpture, a drawing
+              (including a diagram, map, chart or plan), an
+              engraving or a photograph, whether or not
+              any such work possesses artistic quality;
+</blockquote><blockquote id="blockquote_3">              (ii) a work of architecture; and
+</blockquote><blockquote id="blockquote_4">              (iii) any      other   work     of     artistic
+              craftsmanship;
+</blockquote><blockquote id="blockquote_5">              2(o) "literary work" includes computer
+              programmes, tables and compilations
+              including computer databases;</blockquote><p id="p_13">
+
+
+</p><p id="p_14">13.    A perusal of the above referred definition creates a serious
+
+doubt about slogans being covered under the said definitions. In
+
+Pepsi Co. Inc. &amp; Anr. versus Hindustan Coca Cola &amp; Ors. 94
+
+(2001) DLT 30, a Single Judge of this Court held that
+
+advertisement slogans are, prima facie, not applicable under the
+
+<a href="/doc/1136195/" id="a_7">Copyright Act</a> and they may be protected under the law of passing
+
+off in case the plaintiff makes out a case. An appeal was filed
+
+before the Division Bench against the said order, which has been
+
+disposed of vide judgment titled Pepsi Co., Inc. &amp; Ors. versus
+
+Hindustan Coca Ltd. &amp; Anr. 2003 (27) PTC 305 Del (DB)
+
+wherein, the view taken by the Single Judge that the advertisement
+
+slogans are, prima facie, not applicable under the Act has not been
+
+
+<span class="hidden_text" id="span_10">CS (OS) No. 865/2012                                      Page 10 of 19</span>
+ reversed by the Division Bench even though injunction, which was
+
+declined by the Single Judge, has been granted in respect of the
+
+commercial advertisement as it was found that the advertisement of
+
+respondent has copied the theme of appellant‟s advertisement. In
+
+para 35 of the judgment, it was held as under:-
+</p>
+<blockquote id="blockquote_6">              "We were shown the commercial of roller
+              coaster during the proceedings by both
+              parties. By seeing the same an impression
+              which one gathers is that roller coaster of the
+              respondent is a copy of the theme of the
+              roller coaster of the appellant. The roller
+              coaster commercial of the appellant is an
+              original work of the appellant, therefore,
+              covered under <a href="/doc/1129646/" id="a_8">Section 14</a> of the Act. Not
+              only the presence of roller coaster is replica
+              of the appellant‟s commercial but even the
+              dress of the boys is also similar. Relying on
+              the observation of Apex Court in the case of
+              R.G. Anand versus Delux Films,
+              MANU/SC/0256/1978: [1979] 1SCR 218,
+              it can, prima facie, be concluded that the
+              roller coaster commercial of the respondent
+              is nothing but a literal imitation of the
+              copyright work of the appellant with some
+              variations here and there. Having said so we
+              would be failing in our duty by not
+              restraining the respondents from showing its
+              roller coaster commercial in the present
+              form".
+</blockquote>
+<p id="p_15">14.    <a href="/doc/1175689/" id="a_9">In Khemraj Shrikrishnadass vs. M/s Garg &amp; Co. and
+
+another</a>, AIR 1975 Delhi 130, a Single Judge of this court in para
+
+8 has observed as under:-
+</p>
+<blockquote id="blockquote_7">              "Copinger on Copyright, 11th Edition, in
+              paragraph 230 on page 108 stated that the
+
+<span class="hidden_text" id="span_11">CS (OS) No. 865/2012                                     Page 11 of 19</span>
+               titles to books, newspapers and periodicals
+              though often coming before the courts on the
+              question of copyright therein are not
+              generally in themselves the proper subjects
+              of this right that it is difficult to say that there
+              is any original literary work in the formation
+              of one or two words into a title and that the
+              words or phrase chosen may be original in
+              their application to the subject matter of the
+              work to which they are applied. Further (in
+              paras 233 and 235 on pages 110 and 111)
+              learned author proceeds to say that titles of
+              books are, in certain circumstances, protected
+              from imitation by means of a „passing off‟
+              action............."
+</blockquote>
+<p id="p_16">15.    I am of the view that the slogan "Shauq Badi Cheez Hai",
+
+being combination of common words, would not fall within the
+
+scope of "Artistic/litrary work" under the Act. Slogan "Shauq Badi
+
+Cheez Hai" does not appear to be an outcome of great skill,
+
+inasmuch as, it uses the short stereo type combination of words. In
+
+fact, both the slogans, that is, "Shauq Badi Cheez Hai" as well as
+
+"Swad Badi Cheez Hai" are commonly spoken in Hindi language in
+
+day to day life.       That apart, the slogans, in my view, are not
+
+copyrightable. Plaintiff can at best press for a passing off action by
+
+making out a case in its favor.
+</p>
+<p id="p_17">16.    Plaintiff has relied upon a judgment titled Chemical
+
+Corporation of America versus Anheuser-Busch, Incorporated
+
+134 USPQ 524. In the said case appellant claimed itself to be
+
+owner of the slogan "Where there‟s life.........there‟s Bud". This
+
+<span class="hidden_text" id="span_12">CS (OS) No. 865/2012                                          Page 12 of 19</span>
+ slogan was used by the appellant for sale of Budweiser beer.
+
+Respondent, a combined floor wax and insecticide manufacturer,
+
+started using the slogan "Where there‟s life....there‟s Bugs" for its
+
+product "floor wax". Court was of the view that the slogan would
+
+cause confusion in the minds of the public as to the source of the
+
+floor wax product and would damage the "public image" of the
+
+appellant by associating in the minds of the public the idea of bugs
+
+with a food product. This is what weighed in the mind of the Court
+
+while granting the injunction.   This judgment is of no help to the
+
+plaintiff.
+</p>
+<p id="p_18">17.    As regards infringement of trade mark on the pretext of the
+
+slogan "Shauq Badi Cheez Hai"         having been applied by the
+
+plaintiff for registration with the Trade Mark Registry is concerned,
+
+in my view, no statutory right flows in favor of the plaintiff since
+
+the mark has yet not been registered. Thus, the plaintiff can at best
+
+claim passing off action with regard to the mark/slogan "Shauq
+
+Badi Cheez Hai".
+</p>
+<p id="p_19">18.    I do not find any similarity in both the advertisements, which
+
+may be sufficient to deceive the unwary customers.          Both the
+
+campaigns depict different ideas, inasmuch as, the slogans convey
+
+different meaning. The advertisement of the defendants is hardly of
+
+a few seconds. In the defendants‟ advertisement only one stretched
+
+<span class="hidden_text" id="span_13">CS (OS) No. 865/2012                                   Page 13 of 19</span>
+ hand is shown putting a small tin of "Tulsi Sada Pan Masala" on a
+
+table lying in a room, which appears to be a part of a luxurious
+
+apartment and/or office, with the background sound uttering slogan
+
+"Swad Badi Cheez Hai Swad Se Badhkar Kuch Nahi Tulsi Saada
+
+Pan Masala". This advertisement ends with the slogan. In contrast,
+
+advertisement campaign of the plaintiff is lengthier and it depicts
+
+bollywood actor Manoj Bajpayee as a „Nawab‟ leading a luxurious
+
+life style, living in a palace, reading newspaper after ironing the
+
+same in order to remove folds, using German binoculars, attending
+
+meetings with foreign ambassadors and hosting parties and riding
+
+antique Victorian bicycle etc. This advertisement depicts his quest
+
+for perfectionism which ends with "Pan Vilas Pan Masala" with a
+
+voice over "Shauq Badi Cheez Hai". Both the advertisements are
+
+different and in no manner cause any confusion in the minds of
+
+unwary customers which may comprise of persons of all the
+
+segments including persons living in far off villages including the
+
+illiterate ones; more so, when product of the plaintiff as also of the
+
+defendants is clearly visible and noticeable in advertisements,
+
+inasmuch as, background sound in the slogan of the defendant also
+
+refers to the name of the product "Tulsi Sada Pan Masala" at the
+
+end of slogan.         These distinguishable features rule out any
+
+
+
+<span class="hidden_text" id="span_14">CS (OS) No. 865/2012                                    Page 14 of 19</span>
+ confusion or doubt in the minds of consumers, to buy the product of
+
+the defendants by taking it as that of plaintiff.
+</p>
+<p id="p_20">19.    For initiating a passing off action, plaintiff has to prove that
+
+its slogan has acquired such a reputation sufficient enough to
+
+connect the product of the plaintiff with the slogan by the
+
+consumers. It has to be shown that slogan has become so distinctive
+
+of a product that it has acquired secondary meaning. It has further to
+
+be shown that the use of such slogan or deceptively similar slogan
+
+by the defendant would be sufficient to deceive the customers into
+
+thinking that defendant‟s goods are that of the plaintiff. Passing off
+
+is an action in deceit. In Khemraj (Supra) a Single Judge of this
+
+Court held, thus "that the action for infringement of a trade mark or
+
+copyright is a statutory remedy and in pursuing it, the plaintiff must
+
+prove his title and exclusive right to use the trade mark (or work) in
+
+question and further establish that the defendant has infringed the
+
+same by identical or deceptively similar or colourable imitation of
+
+it. In such a case, if otherwise established, it is no valid defense on
+
+the part of the defendant that it has been sufficiently indicated on
+
+the infringing goods that they are not of the plaintiff, but of the
+
+defendant. On the other hand, action for passing off is a common
+
+law remedy and its gist is deceit and not infringement of a right to
+
+exclusive user. In such an action, the plaintiff may, if so advised,
+
+<span class="hidden_text" id="span_15">CS (OS) No. 865/2012                                     Page 15 of 19</span>
+ prove his title to the exclusive use of the trade mark (or copyright)
+
+but he need not do so. What is however essential for the plaintiff to
+
+establish are: (1) distinctive features: (2) substantial user and (3)
+
+wide reputation. The law casts an obligation on the defendant not
+
+to pass off his own goods (or work) as if they had been produced by
+
+the plaintiff and the court will enforce this obligation. In such a
+
+case, the defendant can escape the liability by showing that his
+
+goods (or work), though similar, distinctly indicate that they do not
+
+originate from the plaintiff but have been produced by the
+
+defendant. Element of deceit may exist in both kinds of action but it
+
+is of the essence of the passing off action. Actual deception is not
+
+required to be proved, but reasonable ground for apprehending
+
+deception must exist. In Kaviraj Pandit Durga Dutt Sharma
+
+versus Navratna Pharmaceutical Laboratories AIR 1965 SC
+
+980, the Apex Court held that the use by the defendant of the trade
+
+mark of the plaintiff is not essential in an action for passing off, but
+
+is the sine qua non in the case of an action for infringement. No
+
+doubt, where the evidence in respect of passing off consists merely
+
+of the colourable use of a registered trade mark, the essential
+
+features of both the actions might coincide in the sense that what
+
+would be a colourable imitation of a trade mark in a passing off
+
+action would also be such in an action for infringement of the same
+
+<span class="hidden_text" id="span_16">CS (OS) No. 865/2012                                     Page 16 of 19</span>
+ trade mark. But there the correspondence between the two ceases.
+
+In an action for infringement, the plaintiff must, no doubt, make out
+
+that use of the defendant's mark is likely to deceive, but where the
+
+similarity between the plaintiff's and the defendant's mark is so
+
+close either visually, phonetically or otherwise and the court
+
+reaches the conclusion that there is an imitation, no further evidence
+
+is required to establish that the plaintiff's rights are violated.
+
+Expressed in another way, if the essential features of the trade mark
+
+of the plaintiff have been adopted by the defendant, the fact that the
+
+get-up, packing and other writing or marks on the goods or on the
+
+packets in which he offers his goods for sale show marked
+
+differences, or indicate clearly a trade origin different from that of
+
+the registered proprietor of the mark would be immaterial; whereas
+
+in the case of passing off, the defendant may escape liability if he
+
+can show that the added matter is sufficient to distinguish his goods
+
+from those of the plaintiff.
+</p>
+<p id="p_21">20.    Defendants have not adopted the slogan of the plaintiff as it
+
+is. Both the slogans convey different meaning. "Shauq Badi Cheez
+
+Hai" of the plaintiff conveys passion of a person for good things in
+
+life be it clothing, housing, mode of commutation etc; whereas
+
+defendants‟ slogan "Swad Badi Cheez Hai" denotes only to the
+
+taste in respect of eatables/food products.      Both these slogans
+
+<span class="hidden_text" id="span_17">CS (OS) No. 865/2012                                    Page 17 of 19</span>
+ convey different meanings making less chances of confusion in the
+
+mind of consumers of the products including persons living in the
+
+remote areas. The difference of meaning of "Shauq Badi Cheez
+
+Hai" and "Swad Badi Cheez Hai" is known to everyone. That
+
+apart, a perusal of both the advertisements makes it clear that
+
+defendants have neither copied the whole or substantial part of the
+
+plaintiff‟s advertisement nor the idea and/or theme of the
+
+advertisement, inasmuch as, the products have been named. Both
+
+the advertisements as well as slogans are distinct making no
+
+possibility of confusion in the minds of the consumers to accept the
+
+product of the defendant as that of the plaintiff. In the facts of this
+
+case, I do not find that there is any chance of any confusion or the
+
+consumers getting deceived by the slogans. All other judgments
+
+relied upon by the plaintiff are in the context of different facts and
+
+are of no help to the plaintiff.
+</p>
+<p id="p_22">21.    For the forgoing discussions, in my view, plaintiff has failed
+
+to make out a, prima facie, case in its favor seeking passing off
+
+action. It is not the case of the plaintiff that defendants are new
+
+entrants in the field. Defendants are engaged in the same trade for
+
+the last several years and have a reputation with regard to its
+
+product. Plaintiff has, thus, failed to disclose a prima face, case that
+
+defendants have adopted the slogan, which otherwise, is distinct, to
+
+<span class="hidden_text" id="span_18">CS (OS) No. 865/2012                                     Page 18 of 19</span>
+ ride on the reputation and goodwill of the plaintiffs. Accordingly,
+
+in my view, plaintiff shall not suffer any irreparable loss and injury
+
+in case the injunction is not granted. Balance of convenience is also
+
+not in favor of the plaintiff.
+</p>
+<p id="p_23">22.    For the foregoing reasons, in my view, plaintiff has failed to
+
+make out a case of injunction, as prayed for in the application.
+
+Application is dismissed.
+</p>
+<p id="p_24">                                                  A.K. PATHAK, J.
+</p><p id="p_25">July 02, 2012
+ga
+
+
+
+
+<span class="hidden_text" id="span_19">CS (OS) No. 865/2012                                    Page 19 of 19</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

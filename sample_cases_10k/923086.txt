@@ -1,0 +1,587 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Brijesh Kumar And Anr. vs State on 17 December, 1957</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/923086/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 16 docs 
+      
+        - [<A HREF="/search/?formInput=cites:923086">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1312051/">Section 27 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/367586/">Article 14 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/387768/">Section 26 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/94346/">Section 34 in The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 2 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/438019/">Deoman Upadhyaya vs State on 24 August, 1959</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1261347/">Shri Irfan Ali vs State on 29 October, 1968</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/923086/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/923086/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=302/34">302/34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=discovery">discovery</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=evidence%20section%2027">evidence section 27</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=evidence%20act%20sec%2027">evidence act sec 27</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.27%20of%20evidence%20act">sec.27 of evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ghaziabad">ghaziabad</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20evidence%20act">section evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anand%20sarup">anand sarup</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=27%20evidence%20act">27 evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.27%20evidence%20act">s.27 evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.302%20and%20s.34">s.302 and s.34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20201%20">sec 201 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2026">section 26</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=corpus%20delicti">corpus delicti</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gambling">gambling</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=refugee">refugee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=police%20custody">police custody</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=confession%20to%20police%20officer">confession to police officer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=death%20sentence">death sentence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=equality%20before%20law">equality before law</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Brijesh Kumar And Anr. vs State on 17 December, 1957</div><div class="doc_citations">Equivalent citations: AIR 1958 All 514, 1958 CriLJ 842</div>
+
+<div class="doc_author">Author: D Roy</div>
+
+<div class="doc_bench">Bench: D Roy, R Chowdhry</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ D.N. Roy, J. 
+</p> 
+
+<p id="p_2"> 1. Brijesh Kumar, aged twenty years, and Shiv Narain alias Shiv Charan, aged twenty-eight, were charged along with one Lakhi with offences punishable under Sections 302 and 201, I. P. C., read with Section 34, I. P. C. Lakhi has been acquitted. The other two have been sentenced to death under the first count and to two years' rigorous imprisonment under the second count. They have appealed against their conviction and sentences. Along with their appeal there is the usual reference by the learned Sessions Judge for the confirmation of their death sentences. 
+</p> 
+
+<p id="p_3"> 2. The charge against the appellants was that on the night between the 19th and 20th of June, 1956, between 10 p. m. and 1 a. m. they committed, in furtherance of their common intention, the murder of Battu Mal somewhere in the jungle of village Duhai and they caused the dead body to disappear with the object of escaping punishment. 
+</p> 
+
+<p id="p_4"> 3. Briefly stated the prosecution story was as follows: Lala Battu Mal was a shop-keeper of Ghaziabad and was possessed of considerable property. He had brought up Brijesh Kumar and he proposed eventually to adopt him at the time of his marriage. Latterly, friction developed between the two because Battu Mal objected to Brijes's absenting himself from work and indulging in satta gambling. 
+</p> 
+
+<p id="p_5"> The antagonism was aggravated when Brijesh wanted to marry a Punjabi refugee girl. The proposal was not acceptable to Battu Mal. On 19-6-1956, Battu Mal left Ghaziabad for Garhmukhte-shwar to take a bath in the Ganga on the occasion of Ekadashi. It is said that he returned back to Ghaziabad by the night train on the same date at about 10 p. m. and was met at the station by the two appellants along with Lakhi. 
+</p> 
+
+<p id="p_6"> Shiv Narain appellant and Lakhi were the friends of Brijesh. The prosecution alleged that Battu Mal was taken off by them in a car bearing No. U. P. R. 7545, which Brijesh had purchased that very day with the assistance of Shiv Narain. The car was driven to a place near village Duhai about five miles out of Ghaziabad on the Meerut road. Battu Mal. it is said, was then induced to get down from the car and was taken to a field about two furlongs away from the road where he was murdered with a gandasa. 
+</p> 
+
+<p id="p_7"> It is further said that his dead body was dragged back to the car and was taken to the Ganges canal about four miles further on towards Meerut where it was thrown into the water by Shiv Narain and Lakhi along with the gandasa with which the murder had been committed, along also with the umbrella, Jhola and other articles which Battu Mal had taken with him to Garhmukhteshwar. 
+</p> 
+
+<p id="p_8"> Next morning Battu Mal's wife Smt. Chaoli became alarmed at the failure of her husband to
+
+return home and she sent for Brijesh and asked him to telephone to Battu Mal's brother Anand Sarup who lived in Hapur. 
+</p> 
+
+<p id="p_9"> 4. A belated report Ex. P-13 regarding Battu Mal's disappearance was lodged with the police by Brijesh on 20-6-1956, at 8 p. m., but nothing further was done until June 22 when the Sub-Inspector commenced investigation and he recorded the statements of certain witnesses. On 25-6-1956, Brijesh is said to have told the Sub-Inspector that he could point out the place where the murder was committed and he led him together with the witnesses to a field near Duhai where blood-stained earth was recovered. 
+</p> 
+
+<p id="p_10"> Shiv Narain, likewise, is said to have led the Sub-Inspector and the witnesses to the canal from where the gandasa Ex. 10 and Battu Mal's umbrella, Jhola and other articles Exs. I to VIII &amp; XI, XII, XVII and XVIII were recovered from the water. On 25-6-1956, the car in which Battu Mal was taken to the scene of murder was also recovered by the Sub-Inspector, on being pointed out by Shiv Narain, from the gher of one Amar Singh in village Ujera, the village to which Shiv Narain belongs, situated near the canal about four miles from the main road. 
+</p> 
+
+<p id="p_11"> At the pointing out of Brijesh the Sub-Inspector, it is further said, recovered in the presence of the witnesses from the dukarya of Battu Mal's shop in Ghaziabad a shirt and a dhoti Exs. XV and XVI, which Brijesh is said to have been wearing when the murder was committed, from under a heap of clothes. It was further alleged that on June 26 Brijesh revealed that he had thrown Battu Mal's keys into the well of one Brahm Singh just outside the abadi of Ghaziabad, and on June 27 the bunch of keys Ex. IX was recovered from there as a result of this information. 
+</p> 
+
+<p id="p_12"> As a result of the investigation made by the police a charge-sheet was submitted on 4-8-1956, and it ended in the conviction of the two appellants and in an acquittal of the third accused Lakhi. 
+</p> 
+
+<p id="p_13"> 5. Battu Mal's corpse has not been recovered. The fact that he went to Garhmukhteshwar on 19-6-1956, and he did not return home again was deposed to by his wife Smt. Chaoli P. W. 3, his servant Ehikka P. W. 4 and his brother Anand Sarup P. W. 1. Smt. Chaoli and Ehikka further deposed that Battu Mal took with him a 'katoredan, katori, gangasagar', umbrella bottle, earthen pot, 'jhola and kurta' Exs. I to VIII, which were recovered from the canal on June 25 and were identified by them in court in regular proceedings in identification conducted by Sri R. P. Singh Magistrate P. W. 14 on 2-8-1956. 
+</p> 
+
+<p id="p_14"> 6. The fact that the feelings between Battu Mal and Brijesh accused were formerly cordial and that Battu Mal wanted to adopt Brijesh at the time of his marriage, but the feelings got embittered on account of subsequent conduct of Brijesh by reason of the fact that Brijesh indulged in satta gambling and did not apply himself to work, and further on account of the fact that he wanted to marry a Punjabi refugee girl of the name of Ratan Kumari Agarwal some time after March. 1956. which had been opposed by Battu Mal. was testified to by Smt. Chaoli, Anand Swarup and Sri Kashi Ram P. W. 24, a retired advocate from the Punjab and a close friend of Battu Mal. 
+</p> 
+
+<p id="p_15"> All of them deposed that Brijesh wanted to marry that girl, but Battu Mal objected to the
+
+match because the girl was not of his biradari. Sri Thakur Datt Khanna P. W. 10 the Principal of the Dayanand College at Ghaziabad lent corroboration to that allegation by stating that Brijesh accused inquired from him about Ratan Kumari Agarwal some time after March, 1956, mentioning that a proposal for her betrothal had come and that he wanted to marry the girl.
+</p> 
+
+<p id="p_16"> 7. The prosecution produced a diary maintained by Brijesh accused and relied on two passages Ex. P. 28 (a) and Ex. P. 28 (b) dated 17-3-1966, and 18-3-1955, respectively. The first of these entries dated 17-3-1955, stated, inter alia, that satta of ten times leads to losses. 
+</p> 
+
+<p id="p_17"> It further stated that Lalaji (Battu Mal) was somewhat opposed to Brijesh Kumar himself. The second entry Ex. P. 28 (b) dated 18-3-1955, in the diary admittedly maintained by Brijesh in his own hand is also important. It reads as follows: 
+</p><p id="p_18">  "Mataji ki har wakt Lala ke munh se burai sun lijiye aur sath sath meri lekin main aj yahan likh kar yeh prakat kar dun ki hey mere pita jis
+kal blujangi niti ko turn khel samajh kar khel rahe ho kahin use apne jiwan ka vish na bana dena. Aj Brijesh ki pratigya hai ki Kabuliwale khandan ko kisi din na chamka kar aur tumharl bhul ko aur galat fahmi ko dur na kar diya to Jiwan bekar hai, vyarth hai." 
+</p> 
+
+<p id="p_19"> These two entries in Brijesh's handwriting were proved by Sri Kishan Jindai P. W. 32, a
+nephew of Battu Mal. In answer to questions Nos. 13, 14 and 15 put to him by the learned Sessions Judge, Brijesh stated that Exs. P. 28 (a) and P. 28 (b) are in his pen; that he did mention in Ex. P. 28 (a) that Battu Mal was against him, but he could not say what the occasion was for his writing so; that in the entry Ex. p. 28 (b) he meant by "kabuliwala khandan" not only Battu Mal but also himself and his father and Anand Sarup; that no threat was intended by the entry Ex. P. 28 (b) and that by that entry he only promised to become a good man so that the family may achieve further honours. 
+</p> 
+
+<p id="p_20"> The entry Ex. P. 28 (b), however, clearly indicates that Brijesh Kumar's antagonism towards Battu Mal had reached such a pitch that he had almost avowed that the course of action or conduct followed by Battu Mal, who professed to take him in adoption, might prove to be his death knell. It further contained the threat that he would set right Battu Mal. It also expressed a pious hope that he would in future gain fresh laurels for the 'Kabuli wala khandan' and thereby prove that what was professed by Battu Mal as the right course of conduct was wrong. 
+</p> 
+
+<p id="p_21"> In answer to question No. 14 put to him by the learned Sessions Judge which was as follows: "Did you write in Ex. P. 28 (a) that Battu Mal was against you," Brijesh gave an affirmative reply and he added to that statement that he could not say what was the occasion that led him to make that entry in the diary. The statement in Ex. P. 28 (b) shows Brijesh's annoyance with Battu Mal for grumbling at him and also contains the hint of a threat in the words: 
+</p><p id="p_22">  "Father, beware lest the deadly policy you are treating as a game prove a poison to your life." 
+</p> 
+
+<p id="p_23"> Matters seem to have come to a head a month or so before the murder. The testimony of Smt. Chaoli, Anand Sarup and Kashi Bam that Battu Mal was bitterly opposed to the proposal of Brijesh's marrying the Punjabi refugee girl may
+
+well be taken as the proximate motive for the offence. 
+</p> 
+
+<p id="p_24"> 8. The oral evidence referred to above and the entries in the diary maintained by Brijesh therefore lent satisfactory basis for the contention advanced on behalf of the prosecution that Brijesh got inimical to Battu Mal and his intentions against him were not above suspicion. In cases of circumstantial evidence also motive may have to be considered. 
+</p> 
+
+<p id="p_25"> The deceased's objection to marry Brijesh with Ratan Kumari, a refugee girl, and also his objection to satta gambling furnished, according to the prosecution, the motive for the commission of the crime. It was argued that even if there was some ill-feeling, it was against Brijesh's interest to kill Battu Mal who had thought of adopting him. It is important to note that Battu Mal intended to perform the adoption ceremony at the same time as marriage to a girl of his choice, a plan which may well have been unpalatable to Brijesh, especially if he was in love with Ratan Kumari. 
+</p> 
+
+<p id="p_26"> There is therefore no inherent improbability or inadequacy in the motive suggested by the prosecution for the commission of the crime by Brijesh. In this connection we may just as well deal with the suggestion made on behalf of the accused that other persons besides Brijesh had a motive for killing Battu Mal. Suggestions that he might have been killed by his brother Anand Sarup or by his brother-in-law Shankar Lal, who wanted to prevent Brijesh being adopted and were eager to secure Battu Mal's estate for themselves, were made. 
+</p> 
+
+<p id="p_27"> These suggestions had not had the support of any evidence whatsoever. They were also not consistent with probabilities. If Anand Sarup and Shankar Lal wished to prevent Brijesh's adoption, it would have been much simpler for them to have killed Brijesh instead of Battu Mal; and they could not by any means expect that the death of Battu Mal would have brought his estate into their hands since Battu Mal was survived by his widow Smt. Chaoli. 
+</p> 
+
+<p id="p_28"> 9-13. The prosecution led evidence to prove preparation on the part of Brijesh and Shiv Narain appellants for the commission of the murder, firstly, by raising money, and then by purchasing a car. (Their Lordships then discussed the evidence and continued as under:) 
+ 
+
+</p><p id="p_29"> 14. At this stage we may dispose of a point of law which has been advanced by learned counsel for the accused. It is based upon <a href="/doc/1312051/" id="a_1">Section 27</a> of the Indian Evidence Act. The argument is two-fold. Firstly, that <a href="/doc/1312051/" id="a_2">Section 27</a> is ultra vires the Constitution as it offends against <a href="/doc/367586/" id="a_3">Article 14.</a> Secondly, that the scope of <a href="/doc/1312051/" id="a_4">Section 27</a> is limited and it does not comprehend within itself all sorts of statements which may amount to confession made before a police officer. 
+</p> 
+
+<p id="p_30"> The argument advanced in regard to the un-constitutionality of the provisions of the section is based upon what was observed by Mahmood J., in his dissenting judgment in the Full Bench case of <a href="/doc/1474388/" id="a_5">Queen-Empress v. Babu Lal, ILR</a> 6 All 509 at pp. 533 and 534 (A). Before we quote that passage it may be necessary to lay down the provisions of <a href="/doc/494844/" id="a_6">Sections 25</a>, <a href="/doc/387768/" id="a_7">26</a> and <a href="/doc/1312051/" id="a_8">27</a> of the Evidence Act. They are as follows: 
+</p>  
+
+<p id="p_31">  "25. No confession made to a police-officer shall be proved as against a person accused of any offence. 
+</p>
+ 
+
+<p id="p_32"> 26. No confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person. 
+</p> 
+
+<p id="p_33"> (There is an Explanation to <a href="/doc/387768/" id="a_9">Section 26</a> which is not relevant for our purposes). 
+</p> 
+
+<p id="p_34"> 27. Provided that, when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved."  
+</p> 
+
+<p id="p_35"> 15. The Full Bench in <a href="/doc/1474388/" id="a_10">Queen-Empress v. Babu Lal (A</a>), cited above held (Mahmood. J., dissenting) that <a href="/doc/1312051/" id="a_11">Section 27</a> of the Indian Evidence Act is a proviso not only to <a href="/doc/387768/" id="a_12">Section 26</a> but also to <a href="/doc/494844/" id="a_13">Section 25</a> and therefore so much of the information given by the accused to the police officer, whether amounting to a confession or not, as related distinctly to the facts thereby discovered, might be proved. 
+</p> 
+
+<p id="p_36"> Mahmood J., on the other hand, held that <a href="/doc/1312051/" id="a_14">Section 27</a> of the Indian Evidence Act is not a proviso to <a href="/doc/494844/" id="a_15">Section 25</a> but only to <a href="/doc/387768/" id="a_16">Section 26</a> and therefore the statements in question were wholly inadmissible in evidence. To illustrate his point Mahmood J., observed at pages 533 and 534 of the report : 
+</p>  
+
+<p id="p_37">  "A confession made to a police officer by a person who is not in the custody of the police, even though such confession led to discovery, would not be admissible in evidence, because it could not fall under the purview of <a href="/doc/1312051/" id="a_17">Section 27</a>, which is restricted to persons 'in the custody of a police officer.' 
+ 
+
+ But if that same confession were made to a police officer whilst the accused is in the custody of that officer, such confession would, according to the contention of the learned Public Prosecutor, be admissible under <a href="/doc/1312051/" id="a_18">Section 27</a> of the Act. In other words, a confession made to the police officer by the accused, whilst he is entirely under the power and control of such officer, may be admitted in evidence, but that same confession, if made before arrest, and whilst the accused is free, cannot be admitted in evidence, even though it led to discovery. 
+</p> 
+
+<p id="p_38"> What, then, becomes of the principle that the obvious policy of these sections was to check torture of prisoners for extortion of confessions? It seems clear to my mind that the confession contemplated by <a href="/doc/1312051/" id="a_19">Section 27</a> must have been made to some person other than a police officer. This view seems to be the only one which does not clash with the policy of the law -- "the presence of a third person to whom the confession is made being a check upon maltreatment of the prisoner, the discovery which takes place in consequence of the confession being a guarantee of its truth."  
+</p> 
+
+<p id="p_39"> 16. Learned counsel for the appellants has argued that <a href="/doc/1312051/" id="a_20">Section 27</a> of the Indian Evidence Act creates an inequality before the law, or the equal protection of the laws, and is therefore ultra vires of <a href="/doc/367586/" id="a_21">Article 14</a> of the Constitution which enjoins that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. 
+</p> 
+
+<p id="p_40"> As a part of his argument learned counsel for the appellants has adopted the same reasoning which is contained in the observation of Mr. Justice Mahmood in the passage cited above. It is evident from how <a href="/doc/1312051/" id="a_22">Section 27</a> finds its place in the <a href="/doc/1953529/" id="a_23">Evidence Act</a> that the section is not artistically worded This view was expressed by their Lordships of the Privy Council in <a href="/doc/254739/" id="a_24">Pulukuri Kottaya v. Emperor</a>,    AIR 1947 PC 67 (B). 
+</p> 
+
+<p id="p_41"> <a href="/doc/1312051/" id="a_25">Section 27</a>, although an independent section, opens in the manner of a proviso. The object of the section which has been expressed in the nature of a proviso was to provide for the admission of evidence which, but for the existence of the section, could not in consequence of the preceding sections be admitted in evidence. The theory enunciated in <a href="/doc/1312051/" id="a_26">Section 27</a> of the Evidence Act is the theory of "confirmation by subsequent facts." In the leading case of Rex v. Warwick-shell, (1783) 1 Lea 263 (C), it was observed : 
+</p>  
+
+<p id="p_42">  "When, in consequence of information un-duly obtained from the prisoner, the property stolen, or the instrument of the crime, or the body of the person murdered, or any other Material fact, has been discovered, proof is admissible that such discovery was made conformably with the information so obtained. The prisoner's statement as to his knowledge of the place where the property or other article is to be found, being thus confirmed by the fact, is shown to be true and not to have been fabricated in consequence of any inducement. 
+</p> 
+
+<p id="p_43"> It is, therefore, competent to prove that the prisoner stated that the thing would be found by searching a particular place, and that it was accordingly so found; but it would not be competent to enquire whether he confessed that he had concealed it there. So much of the confession as relates distinctly to the facts discovered by it may be given in evidence, as this part at least of the statement cannot have been false."  
+</p> 
+
+<p id="p_44"> 17. In this connection Rex v. Butcher, (1798) 1 Lea 265 (D), may also be cited. The fundamental theory upon which confessions become inadmissible is that when made under certain conditions they are untrustworthy as testimonial utterances. If now a circumstance appears which indicates that the law's fear of untrustworthiness is unfounded, and counteracts the significance of the improper inducement by demonstrating that after all it exercised no sinister influence, the confession should be adopted. 
+</p> 
+
+<p id="p_45"> This is the theory of "confirmation by subsequent facts" which has been in vogue ever since there has been any doctrine about excluding confession. That theory is that where in consequence of a confession otherwise inadmissible, search is made and facts are discovered which confirm it in material points, the possible influence which through caution has been attributed to the improper inducement is seen to have been nil, and the confession may be accepted without hesitation. This is the view which we find expressed in Wigmore on Evidence <a href="/doc/1953529/" id="a_27">Section 356</a>. 
+</p> 
+
+<p id="p_46"> 18. In delivering the judgment of the Board in the Privy Council decision cited above, Sir John Beaumont observed: 
+</p><p id="p_47">  "It is fallacious to treat the 'fact discovered' within the section as equivalent to the object produced; the fact discovered embraces the place from which the object is produced and the knowledge of the accused as to this, and the information given must relate distinctly to this fact." 
+</p> 
+
+<p id="p_48"> The decision of the Privy Council was referred to by the Supreme Court in <a href="/doc/423598/" id="a_28">Ramkishan Mithanlal Sharma v. State of Bombay, (S</a>) AIR 1955 SC 104 (E), and the same view was expressed. Their Lordships of the Supreme Court laid it down that <a href="/doc/1312051/" id="a_29">Section 27</a> of the Evidence Act is an exception to the rules enacted in <a href="/doc/494844/" id="a_30">Sections 25</a> and <a href="/doc/387768/" id="a_31">26</a> of the Act, which provide that no confession made to a police officer shall be proved against a person accused of an offence and that no confession made by any
+person whilst he is in the custody of a police officer unless it be made in the immediate presence of a Magistrate, shall be proved as against such person; where however any fact is discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, that part of the information as relates distinctly to the fact thereby discovered can be proved whether it amounts to a confession or not; that the expression "Whether it amounts to a confession or not" has been used in order to emphasise the position that even though it may amount to a confession that much information as relates distinctly to the fact thereby discovered can be proved against the accused; that the section seems to be based on the view that if a fact is actually discovered in consequence of information given some guarantee is afforded thereby that the information was true and accordingly can be safely allowed to be given in evidence; but clearly the extent of the information admissible must depend on the exact nature of the fact discovered to which such information is required to relate. 
+</p> 
+
+<p id="p_49"> 19. <a href="/doc/367586/" id="a_32">Article 14</a> of the Constitution forbids class legislation. It does not forbid reasonable classification for the purposes of legislation. In order, however, to pass the test of permissible classification two conditions must be fulfilled, namely, 
+   
+
+  (1) that the classification must be founded on an intelligible differentia which distinguishes persons or things that are grouped together from others left out of the group; and   
+ 
+
+ (2) that that differentia must have a rational relation to the object sought to be achieved by the Statute in question.  
+</p> 
+
+<p id="p_50"> The learned Advocate General has argued that if a classification is made not in regard to persons or class of persons but in regard to situations, <a href="/doc/367586/" id="a_33">Article 14</a> will not apply. He has further argued that <a href="/doc/367586/" id="a_34">Article 14</a> docs not mean that the same person should be treated similarly in two different situations and therefore the question of testing its reasonableness does not arise. 
+</p> 
+
+<p id="p_51"> As a part of his argument the learned Advocate General has adopted what was expressed in Francis Barbier v. Patrick Connolly, (1884) 28 Law Ed 923 at pp. 924 and 925 (F). There a person was convicted under the Fourth Section of an Ordinance, of washing and ironing clothes in a public laundry within the prescribed limits, between the hours of 10 o'clock in the evening and 6 o'clock in the morning of the following day. 
+</p> 
+
+<p id="p_52"> The convicted person moved for his discharge on the ground that the Fourth Section of the Ordinance violated the Fourteenth Amendment of the Constitution of the United States and certain Sections of the Constitution of the State. The particulars stated in which such alleged violations consist were substantially these, omitting the repetition of the same position: that the section discriminates between the class of labourers engaged in the laundry business and those engaged in other kinds of business; that it discriminates between labourers beyond the designated limits and those within them; that it deprived the petitioner of the right to labour and, as a necessary consequence, of the right to acquire property; and that it is unreasonable in its requirements. 
+</p> 
+
+<p id="p_53"> The Superior Court overruled the positions and dismissed the writ. The petitioner then
+
+brought the writ of error. It was held that the Fourteenth Amendment, in declaring that no State shall deny to any person within its jurisdiction the equal protection of the law undoubtedly intended that equal protection &amp; security  should be given to all under like circumstances in the enjoyment of their personal and civil rights; and that they should have like access to the courts of the country for the protection of their persons and property, and the prevention and redress of wrongs. 
+</p> 
+
+<p id="p_54"> It was further observed that class legislation, discriminating against some and favouring others is prohibited, but legislation which, in carrying out a public purpose, is limited in its application, if within the sphere of its operation, it affects alike all persons similarly situated, is not within the amendment. 
+</p> 
+
+<p id="p_55"> 20. The meaning and scope of <a href="/doc/367586/" id="a_35">Article 14</a> of the Constitution has been fully discussed by the Supreme Court in the case of Chiranjitlal Chowdhuri v. Union of India, 1950 SCR 869: (AIR 1951 SC 41) (G), and the principles laid down in that case may be summarised as follows: 
+</p>   
+
+<p id="p_56"> (1) The presumption is always in favour of the constitutionality of an enactment, since it must be assumed that the Legislature understands and correctly appreciates the needs of its own people, that its laws are directed to problems made manifest by experience and its discriminations are based on adequate grounds. 
+</p> 
+
+<p id="p_57"> (2) The presumption may be rebutted in certain cases by showing that on the face of the Statute there is no classification at all and no difference peculiar to any individual or class and not applicable to any other individual or class and yet the law hits only a particular individual or class. 
+</p> 
+
+<p id="p_58"> (3) The principle of equality does not mean that every law must have universal application over all persons who are not by nature, attainment or circumstances in the same position, and the varying needs of different classes of persons often require separate treatment. 
+</p> 
+
+<p id="p_59"> (4) The principle does not take away from the State the power of classifying persons for legitimate purposes. 
+</p> 
+
+<p id="p_60"> (5) Every classification is in some degree likely to produce some inequality and mere production of inequality is not enough. 
+</p> 
+
+<p id="p_61"> (6) If a law deals equally with members of a well-defined class, it is not obnoxious and it is not open to the charge of denial of equal protection on the ground that it has no application to other persons. And   
+ 
+
+ (7) While a reasonable classification is permissible such classification must be based upon some real and substantial distinction bearing a reasonable and just relation to the object sought to be attained and the classification cannot be made arbitrarily.  
+</p> 
+
+<p id="p_62"> 21. It is therefore manifest that the guarantee of the equal protection of the laws means the protection of equals. It merely requires that all persons subjected to such legislation shall be treated alike under like circumstances and conditions both in the privileges conferred and in the liabilities imposed. 
+</p> 
+
+<p id="p_63"> 22. With the principles enunciated above in view, we have to decide whether <a href="/doc/367586/" id="a_36">Article 14</a> of the Constitution has been violated by the provisions of <a href="/doc/1312051/" id="a_37">Section 27</a> of the Evidence Act. 
+</p> 
+
+<p id="p_64"> 23. We have already stated how <a href="/doc/1312051/" id="a_38">Section 27</a> of the Evidence Act stands and we would not re-
+</p>
+<p id="p_65">state it here. The section, relates to cases in which the statement has been improperly obtained, as by a police-man, while in custody of the police, or by illegal inducement and is therefore not receivable. Nevertheless, so much of such statement as relates to any discovery relevant to the case made in consequence of such information, may be received though the rest is excluded. 
+</p> 
+
+<p id="p_66"> The law contained in <a href="/doc/1312051/" id="a_39">Section 27</a> deals equally with all those who are placed in the circumstance envisaged by that section. It does not make any distinction between them. It would not be open to the charge of denial of equal protection on the ground that it has no application to other persons. As we have already said, the fundamental theory upon which confessions become inadmissible is that when made under certain conditions they are untrustworthy as testimonial utterances. 
+</p> 
+
+<p id="p_67"> If now a circumstance appears which indicates that the law's fear of untrustworthiness is unfounded, and counteracts the significance of the improper inducement by demonstrating that after all it exercised no sinister influence, the confession should be adopted, based as it would be on the theory of "confirmation by subsequent facts". 
+</p> 
+
+<p id="p_68"> In consequence of the confession otherwise inadmissible, "search is made and facts are discovered which confirm it in material points", and thus the possible influence which through caution has been attributed to the improper inducement is seen to have been nil. and the confession may accordingly be accepted without hesitation. The law always aims at best evidence being produced. The principle of best evidence might be the principle behind <a href="/doc/1312051/" id="a_40">Section 27</a>. The principle or object behind the section might as well be to minimise or altogether exclude the chances of manufactured confessions being adopted. 
+</p> 
+
+<p id="p_69"> 24. Learned counsel for the appellants has
+argued that the inequality which the section creates is between statements made by a person in custody leading to discovery, and statements made by a person not in custody leading to discovery, and he has urged that this is capriciously done with an "evil eye and an unequal hand" so as to deliberately bring about invidious discrimination between man and man although both
+of them are situated in exactly the same or similar circumstances. 
+</p> 
+
+<p id="p_70"> In support of his argument he has relied upon a passage at pages 95 and 96 of AIR 1952 SC which contains the report of the decision in the <a href="/doc/184660633/" id="a_41">State of West Bengal v. Anwar Ali Sarkar</a> which begins from page 75 (H). In that case the validity of Section 5(1) of the West Bengal Special
+Courts Act (No. X of 1950) was in question. <a href="/doc/94717/" id="a_42">Section 5</a> (1) of the Act was as follows: 
+</p><p id="p_71">   "A Special Court shall try offences or classes of offences or cases or classes of cases,  as the State Government may by general or special order in writing, direct."
+</p> 
+
+<p id="p_72">  The sub-section obviously referred to four distinct
+categories, namely, "offences," "classes of offences", "cases" and "classes of cases" and empowered the State Government to direct any one or more of these categories to be tried by the Special Court constituted under the Act. The majority view of the learned Judges constituting the Bench held that the provisions of <a href="/doc/94717/" id="a_43">Section 5</a> (1) were ultra vires the Constitution by reason of their being in conflict with <a href="/doc/367586/" id="a_44">Article 14</a> of the Constitution. 
+</p>
+ 
+
+<p id="p_73"> The passage relied upon by learned counsel for the appellants is to be found in paragraph 61 and part of paragraph 62 of the report in the judgment of S. R. Das J., at pages 95 and 96 and it is this: 
+</p>  
+
+<p id="p_74">  "I have already stated that this part of the sub-section contemplates a process of classification of "offences", "classes of offences" and "classes of cases". This classification must in order that it may not infringe the constitutional prohibition, fulfil the two conditions I have mentioned. The Preamble of the Act under consideration recites the expediency of providing for the speedier trial of certain offences. 
+</p> 
+
+<p id="p_75"> The provision for the speedier trial of certain offences is, therefore, the object of the Act. To achieve this object, offences or cases have to be classified upon the basis of some differentia which will distinguish those offences or cases from others and which will have a reasonable relation to the recited object of the Act. 
+</p> 
+
+<p id="p_76"> The differentia and the object being, as I have said, different elements, it follows that the object by itself cannot be the basis of the classification of offences or the cases, for, in the absence of any special circumstances which may distinguish one offence or one class of offences or one class of cases from another offence, or class of offences or class of cases the speedier trial is desirable in the disposal of all offences or classes of offences or classes of cases. Offences or cases cannot be classified in two categories on the basis of the Preamble alone as suggested by the learned Attorney-General. 
+</p> 
+
+<p id="p_77"> Learned counsel for the respondents then contended that as the object of the Act as recited in the Preamble cannot be the basis of classification, then this part of Sub-<a href="/doc/94717/" id="a_45">section 5</a> (1) gives an uncontrolled and unguided power of classification which may well be exercised by the State Government capriciously or 'with an evil eye and an unequal hand' so as to deliberately bring about invidious discrimination between man and man, although both of them are situated in exactly the same or similar circumstances."  
+</p> 
+
+<p id="p_78"> 25. S. R. Das J., after making that observation pointed out by way of illustration what the difference in the circumstances of two alleged offenders can bring about and he then went on to observe: 
+</p>  
+
+<p id="p_79">  "Even if this difference in the circumstances of the two alleged offenders can be made the basis of a classification, there is no nexus between this difference and the object of the Act, for, in the absence of any special circumstances, there is no apparent reason why the offence of theft in a dwelling house by a stranger should require a speedier trial any more than the offence of theft by a servant should do. 
+</p> 
+
+<p id="p_80"> Such classification will be wholly arbitrary and will be liable to be hit by the principles on which the Supreme Court of the United States in Skinner v. Oklahoma, (1942) 316 US 535: 86 Law Ed 1655 (I), struck down the Oklahoma Habitual Criminal Sterilisation Act which imposed sterilisation on a person convicted more than twice of larceny but not on one who was convicted of embezzlement on numerous occasions. That sort of classification will, therefore, not clearly be a proper classification such as the Act must be deemed to contemplate."  
+</p> 
+
+<p id="p_81"> 26. The provisions of <a href="/doc/94717/" id="a_46">Section 5</a> (1) of the West Bengal Special Courts Act (No. X of 1950) were different from the provisions of <a href="/doc/1312051/" id="a_47">Section 27</a> of the Evidence Act. <a href="/doc/1312051/" id="a_48">Section 27</a> does not contemplate a process of classification of offences, classes of offences, and classes of cases. Nor does it give uncontrolled and unguided power to the prosecution to have all sorts of confessions made before a police officer proveable in evidence, nor can the provisions of <a href="/doc/1312051/" id="a_49">Section 27</a> be exercised by the Court capriciously or with an unequal hand. 
+</p> 
+
+<p id="p_82"> 27. There is another aspect of the matter which, in our opinion, has an important bearing upon the case. Before the coming into force of the Constitution, as regards judgments of the Privy Council, the Privy Council had long laid down that it was not open to the Courts in India to question any principle enunciated by the Privy Council, although they have the right of examining the facts of any case both to see whether and how far the principle on which stress is laid applies on the facts of a particular case. 
+</p> 
+
+<p id="p_83"> <a href="/doc/882644/" id="a_50">Article 141</a> of the Constitution says that the law declared by the Supreme Court shall be binding on all Courts within the territory of India. This Article corresponds to Section 212 of the Government of India Act, 1935, with the omission of the words "so far as applicable", and substituting "the Supreme Court" for "the Federal Court and by any judgment of the Privy Council." 
+</p> 
+
+<p id="p_84"> The Supreme Court in (S) AIR 1955 SC 104
+(E), considered the scope and applicability of <a href="/doc/1312051/" id="a_51">Section 27</a> of the Evidence Act and it held that <a href="/doc/1312051/" id="a_52">Section 27</a> is an exception to the rules enacted in <a href="/doc/494844/" id="a_53">Sections 25</a> &amp; <a href="/doc/387768/" id="a_54">26</a> of the Act which provides that no confession made to a police officer shall be proved as against a person accused of an offence and that no confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person; that where, however, any fact is discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, that part of the information as relates distinctly to the fact thereby discovered can be proved whether it amounts to a confession or not; that the expression 'whether it amounts to a confession or not' has been used in order to emphasise the position that even though it may amount to a confession that much information as relates distinctly to the fact thereby discovered can be proved against the accused; that the section seems to be based on the view that if a fact is actually discovered in consequence of information given, some guarantee is afforded thereby that the information was true and accordingly can be safely allowed to be given in evidence; that the extent of the information admissible must depend on the exact nature of the fact discovered to which such information is required to relate; that under <a href="/doc/1312051/" id="a_55">Section 27</a> what is allowed to be proved is the information or such part thereof as relates distinctly to the fact thereby discovered; that the information would consist of a statement made by the accused to the police officer and the police officer is obviously precluded from proving the information or part thereof, unless it comes within the four corners of the section; that if the police officer wants to prove information or a part thereof, the Court would have to consider whether it relates distinctly to the fact thereby discovered and allow the proof thereof only if that condition were satisfied; that if, however, the police officer does not want to prove the information or any part thereof, <a href="/doc/1312051/" id="a_56">Section 27</a> does not come into operation at all. 
+</p>
+ 
+
+<p id="p_85"> The law thus declared by the Supreme Court shall, in view of <a href="/doc/882644/" id="a_57">Article 141</a> of the Constitution, be-binding on all Courts within the territory of India. There is no conflict between this decision of the Supreme Court and the decision of the Privy Council in AIR 1947 PC 67 (B). In fact that Privy Council decision has been referred to by the Supreme Court at page 116 of the report. 
+</p> 
+
+<p id="p_86"> 28. In view of what we have stated above and in view of the scope and applicability of <a href="/doc/1312051/" id="a_58">Section 27</a> of the Evidence Act having been declared by the Supreme Court in (S) AIR 1955 SC 104 (E), which is binding on all Courts within the territory of India, we are clearly of opinion that <a href="/doc/1312051/" id="a_59">Section 27</a> is not ultra vires the Constitution and it does not offend against <a href="/doc/367586/" id="a_60">Article 14.</a> We are further of opinion that the scope and applicability of the section are to be governed by what the Supreme Court has laid down in the case cited above. 
+</p> 
+
+<p id="p_87"> 29. Applying the test laid down by the Privy Council and by the Supreme Court in the decisions aforementioned, it would follow that the evidence proved on the footing of <a href="/doc/1312051/" id="a_61">Section 27</a> of the Evidence Act was rightly admitted and the learned Judge upon that evidence was correct in coming to the conclusion that the prosecution has succeeded in proving that Brijesh pointed to a spot in a certain field of Duhai village and said: "This is where we committed the murder", with the result that blood-stained earth was recovered. from there. 
+</p> 
+
+<p id="p_88"> 30. The either statement alleged to have been made by Brijesh to the police officer was a
+statement to the effect that he could produce the clothes he had been- wearing at the time of the murder in consequence of which information Brijesh took the investigating officer in the presence of Khacheru Mal P. W. 23 and certain other witnesses and led to the recovery of the dhoti Ex. 15 and the shirt Ex. 16 from under a pile of clothes inside the dokarya of Battu Mal's-shop. 
+</p> 
+
+<p id="p_89"> This recovery formed the subject of recovery memo. Ex. P 15, which besides having been attested by Khacheru Mal is said to have been attested by Prem Shankar, Nandu Mal and Mani Ram. In the statement of Khancheru Mal P. W. 23 the words: "Brijesh said he would give the clothes" would be admissible, but not the words: "he was wearing at the time of the murder of Battu Mal" in view of AIR 1947 PC 67 at p. 71 (B). The same consideration would apply to the statement of Sub-Inspector D. D. Dikshit P. W. 31 and that part of his statement which specifies that Brijesh had said: "he was wearing at the time of the murder" would be excluded. Certain discrepancies were tried to be emphasised in the evidence of these two witnesses. 
+</p> 
+
+<p id="p_90"> (After discussing the evidence and the circumstances relating to third discovery, Their Lordships continue as under :) 
+ 
+
+ 31-32. We have already mentioned above that Battu Mal's body was not recovered. To sustain a charge of murder, the failure on the part of the prosecution to recover the dead body will not indicate that there was no murder if the other evidence is convincing enough to establish the crime of murder. The phrase corpus delicti is well-known in law. Literally it is "the body of the offence" i. e., the ingredients which go to make it up. 
+</p> 
+
+<p id="p_91"> It does not include the ascertainment of the criminal. The offence is, for instance, that a person has been killed -- and not only killed but murdered; that a house has been set on fire --
+</p>
+<p id="p_92">and set on fire wilfully. These matters being established -- and not till then -- do we enquire who committed the offence. (See Wills on Circumstantial Evidence, 7th Edition, page 337): Every criminal charge involves two things; first that an offence has been committed; and, secondly, that the accused is the author or one of the authors. Says Lord Stowell: 
+</p><p id="p_93">  "If you have a criminal fact ascertained you may then take presumptive proof to show who did it; to fix the criminal, having then an actual corpus delicti". 
+</p> 
+
+<p id="p_94">  (Best. <a href="/doc/1326950/" id="a_62">Section 44</a>). If the corpus delicti is not established, no conviction can be sustained for culpable homicide. The finding of the body is not absolutely necessary if the prisoner were to confess : Queen v. Petta Gazi Ali Hossein, 4 Suth WR 19 (3) (J), or where the circumstances are such as it is possible to suppose that the man is still alive: Queen v. Poorusoolah, 7 Suth WR Cr 14 (K); Empress of India v. Bhagirath, ILR 3 All 383 (L); <a href="/doc/1522720/" id="a_63">Raj Kumar v. Emperor</a>, AIR 1928 Pat 473 (M). In R. v. Onufrejczyk, 1955-1 All ER 247 (N), it was held that on a criminal charge the fact that the murdered man was killed, like any other fact, can be proved by circumstantial evidence, being evidence which leads only to that one conclusion of fact, although no body is found. In the present case there was evidence from which the Court could infer that Battu Mal was dead, and, if he was dead, the circumstances of the case pointed to the fact. 
+</p> 
+
+<p id="p_95"> 33. The evidence against Brijesh may therefore be summed up as follows: 
+</p>   
+
+<p id="p_96"> (a) he harboured resentment against Battu Mal and thus had a motive to kill him. 
+</p> 
+
+<p id="p_97"> (b) Ornaments Exs. XIII and XIV were pawned by Shiv Narain with his aid and assistance and in his presence on 19-6-1956, at about 4 or 5 p. m. and a sum of Rs. 1,000/- was raised which was used for purchasing the car No. U. P. R. 7545 on the same evening at 7 p. m. 
+</p> 
+
+<p id="p_98"> (c) The car was taken delivery of by him and Shiv Narain on 19-6-1956, at about 7 p. m. 
+</p> 
+
+<p id="p_99"> (d) Brijesh stated on June 25 that he could point out the place where the murder had been committed and thereupon he took the investigating officer and the witnesses to a spot in a field in Duhai village from which human blood was recovered. 
+</p> 
+
+<p id="p_100"> (e) Brijesh stated on June 25 that he could produce certain clothes and thereupon he took the Sub-Inspector and the witnesses and led to the recovery of the shirt and dhoti Exs. 15 and 16 belonging to Brijesh which were found stained with human blood. And   
+ 
+
+</p><p id="p_101"> (f) Brijesh stated on June 26 that he could point out where he had thrown Battu Mal's bunch of keys, and he led the Sub-Inspector in the presence of witnesses to that well and it was from that well that the bunch of keys had been recovered on June 27.  
+</p> 
+
+<p id="p_102"> 34. The incriminating circumstances appearing against Brijesh have, in our opinion, been fully established and those circumstances are consistent only with the hypothesis of the guilt of the accused and they do not leave any reasonable ground for concluding that they may also be consistent with the innocence of the accused. This chain of circumstantial evidence is so complete as to leave no reasonable ground for escape to the accused. 
+</p> 
+
+<p id="p_103"> We do not think that there are any lacunae in the chain leaving gaps in the prosecution evidence to enable an avenue of escape to the accused. In this connection the following observations of Lord Coleridge quoted at pages 46-47 of Wills's Principles of Circumstantial Evidence, 7th Edition, may be referred to: 
+</p>   
+
+<p id="p_104"> "Now circumstantial evidence varies infinitely in its strength in proportion to the character, the authority the cogency, the independence, one of another, of the circumstances. I think one might describe it as a net work of facts cast around the accused man. That network may be a mere gossamer thread, as light and as unsubstantial as the air itself. 
+</p> 
+
+<p id="p_105"> It may vanish at a touch.   It may be that, strong as it is in part, it leaves great gaps and rents through which the  accused  is  entitled to pass in safety.   It may be so close, so stringent, so   coherent  in  its   texture,  that  no   efforts  on the part of the accused can break through.    It may come to nothing -- On the other hand, it may be absolutely convincing  .....  The
+law does not demand that you should act upon certainties alone ..... 
+</p> 
+
+<p id="p_106"> In our lives, in our acts, in our thoughts we do  not  deal  with  certainties;  we   ought  to  act upon   just   and   reasonable   convictions   founded upon   just  and  reasonable  grounds   .....
+</p><p id="p_107">The law asks for no more and the law demands no less."  
+</p> 
+
+<p id="p_108"> 35. Bearing these observations in mind we are of opinion that the incriminating circumstances quoted above have been fully established against Brijesh; that those circumstances are so complete as to leave no reasonable ground for escape to the accused and that they are consistent only with the hypothesis of the guilt of the accused and they do not leave any reasonable ground for concluding that they may also be consistent with his innocence. 
+</p> 
+
+<p id="p_109"> In our opinion, therefore, Brijesh has rightly been convicted under <a href="/doc/1953529/" id="a_64">Section 302</a> with the aid of <a href="/doc/94346/" id="a_65">Section 34</a>, I. P. C., under which he was charged. We are unable, however, to find any satisfactory evidence against Brijesh to indicate that the charge under <a href="/doc/1953529/" id="a_66">Section 201</a>/<a href="/doc/94346/" id="a_67">34</a>, I. P. C., was made out. His conviction under that section must therefore be set aside. 
+</p> 
+
+<p id="p_110"> 36-40. Turning now to the second appellant Shiv Narain alias Shiv Charan, there is evidence to show that he was intimate with Brijesh and that he participated in the preparations for the murder. In addition, we have evidence of incriminating recoveries made at his instance, under statements admissible under <a href="/doc/1312051/" id="a_68">Section 27</a> of the Evidence Act. (Their Lordships then discussed the evidence and concluded as under:) 
+ 
+
+ The incriminating circumstances mentioned above have been fully established against Shiv Narain accused. These circumstances are so complete as to leave no reasonable ground for escape to the accused and they are consistent only with the hypothesis of the guilt of the accused and they do not leave any reasonable ground for concluding that they may also be consistent with his innocence. 
+</p> 
+
+<p id="p_111"> We are therefore of opinion that Shiv Narain has been rightly convicted under <a href="/doc/1953529/" id="a_69">Section 302</a>/<a href="/doc/94346/" id="a_70">34</a> and <a href="/doc/1953529/" id="a_71">Section 201</a>, I. P. C. 
+</p> 
+
+<p id="p_112"> 41. On the question of sentence we are of opinion that under <a href="/doc/1560742/" id="a_72">Section 302</a>/<a href="/doc/37788/" id="a_73">34</a> of the Indian Penal Code instead of passing the extreme sentence it would meet the ends of justice if a sentence of life imprisonment is passed. This is not Cut of consideration of the fact that the dead body has not been discovered. As far back as 1880 it was
+
+laid down by this Court in ILR 3 All 383 (L), that it is not imperatively essential in order to justify a conviction for murder that the corpus delicti should be forthcoming." 
+</p> 
+
+<p id="p_113"> It was further observed that to recognise any such condition precedent as being absolutely necessary to conviction in all cases would be to afford complete immunity and certain escape to those murderers who are cunning or clever enough to make away with or destroy the bodies of their victims and that such a principle once admitted would in some instances render the administration of justice impossible. In 1882 a Bench of this Court in Empress v. Sedhu, 1882 All WN 160 CO), relying upon Empress v. Bhagirath (L), referred to above, held that the murderers having been found, the mere circumstance that the body of the unfortunate victim had been effectively made away with by the convicts should not have influenced the Court in not passing the sentence of death. 
+</p> 
+
+<p id="p_114"> But there are other considerations which weigh upon us in the present case in passing the lesser sentence. The first consideration is the youth of the appellants. Brijesh is aged twenty, and Shiv Narain is aged twenty-eight. If in consequence of inexperience and youth they committed the murder in vindication of a supposed wrong, -- the evidence showing that Brijesh had taken much to heart the bickerings created by Battu Mal requiring him to abstain from satta gambling and further requiring him to apply to his work, -- and further because Battu Mal was not agreeable to allow him to take a girl of his own choice in marriage which ultimately affected the question of his adoption by Battu Mal, -- these were circumstances which may be taken in extenuation on the question of sentence. These, in our opinion, would justify the passing of the lesser sentence. 
+</p> 
+
+<p id="p_115"> 42. In the result we allow this appeal in part; and: 
+</p>   
+
+<p id="p_116"> (a) In the case of Brijesh Kumar his conviction and sentence under <a href="/doc/1953529/" id="a_74">Section 201</a>, I. P. C., are set aside and he is acquitted of that charge, but his conviction under <a href="/doc/1953529/" id="a_75">Section 302</a>/<a href="/doc/94346/" id="a_76">34</a> is maintained and the sentence under that section is reduced from one of death to imprisonment for life; 
+</p> 
+
+<p id="p_117"> (b) in the case of Shiv Narain alias Shiv Charan his conviction under <a href="/doc/1953529/" id="a_77">Sections 302</a>/<a href="/doc/94346/" id="a_78">34</a> and <a href="/doc/1953529/" id="a_79">201</a>, I. P C., is maintained as also his sentence under <a href="/doc/1953529/" id="a_80">Section 201</a>, I. P. C., but the sentence- under <a href="/doc/1953529/" id="a_81">Section 302</a>/<a href="/doc/94346/" id="a_82">34</a>, I. P. C., is reduced from one of death to imprisonment for life; -- both the sentences to run concurrently. The reference for the confirmation, of the death sentences of Brijesh Kumar and Shiv Narain is rejected.  
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

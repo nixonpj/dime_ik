@@ -1,0 +1,704 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shri S.S. Bakshi vs Ms. Yvonne Mac Pherson on 11 May, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/182048548/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/182048548/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/182048548/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=caterer">caterer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mental%20agony">mental agony</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20hardship%20"> hardship </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=project%20manager%20">project manager </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rajneesh">rajneesh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cooke%20">cooke </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Shri S.S. Bakshi vs Ms. Yvonne Mac Pherson on 11 May, 2009</div><div class="doc_author">Author: Sh. Rajneesh Gupta</div>
+
+<pre id="pre_1">                                 1
+
+IN THE COURT OF SHRI RAJNEESH KUMAR GUPTA,
+ADDITIONAL DISTRICT JUDGE-08 (CENTRAL), TIS HAZARI,
+                      DELHI.
+
+
+                                         Suit No. 139/06
+
+Shri S.S. Bakshi
+Prop.
+M/s Bakshi Caterers
+Pocket L-7, 2nd floor,
+Sarita Vihar
+New Delhi-110 044
+                                         ...........Plaintiff
+          Vs.
+
+B.B.C. World Service Trust
+Through its Director
+E-21, Hauz Khas Market,
+New Delhi-110016.
+
+Ms. Yvonne Mac Pherson
+Project Manager
+BBC World Service Trust
+E-21, Hauz Khas Market,
+New Delhi.
+
+                                         ...........Defendants
+
+
+                Date of institution of the suit      : 29.8.06
+                Date of arguments                    : 28.04.09
+                Date of the Judgment                 : 11.05.09
+                                  2
+
+SUIT FOR RECOVERY OF DAMAGES OF RS. 12,26,000/-.
+
+JUDGMENT
+</pre>
+
+<p id="p_1">1.         The present suit is for recovery of Damages of Rs.
+
+12,26,000/-.
+</p>
+<p id="p_2">2.         In brief the case of the plaintiff as pleaded in the
+
+plaint is that he is the proprietor of M/s Bakshi Caterers and is
+
+carrying    on   business   of   providing   catering   services.
+
+Defendant No. 1 is a limited company and is engaged in the
+
+business of making serials for Doordarshan. Defendant No. 2
+
+is the Project Manager of the defendant No. 1 and is caring
+
+on day to day affairs of defendant No. 1. Plaintiff entered into
+
+an agreement with defendant No. 1 vide an agreement dt.
+
+25.2.05 for providing catering services for 13 stories of the
+
+serial namely "Vijay Jasoos". This agreement would be in
+
+operation in between 17.2.05 to 31.8.06.            The stories
+
+covered during this period were from serial no. 22 to 34 of
+
+T.V. Serial "Vijay Jasoos". In accordance with this agreement
+<span class="hidden_text" id="span_1">                                3</span>
+
+the plaintiff had been providing excellent services to the entire
+
+unit of the defendant No. 1 engaged in the production of the
+
+stories. Defendant company had awarded only 10 stories to
+
+the plaintiff. Defendant has not awarded three stories no. 8,
+
+11, and 13 corresponding to serial no. 29, 32 and 34
+
+respectively for providing his catering services in violation of
+
+the agreement. Serial No. 29 and serial no. 32 were shot at
+
+Mumbai and Manali during the period 12.12.05 to 26.12.05
+
+and from 6.4.06 to 24.4.06 respectively. Defendants have not
+
+informed the plaintiff regarding the shooting of serial no. 29
+
+and 32. Defendant had not complied with the terms of the
+
+agreement and instead engaged somebody else for providing
+
+catering services without informing the plaintiff. For serial No.
+
+34, services for catering have been allotted to some third
+
+party without giving any prior notice to the plaintiff and that
+
+serial no. 34 had commenced w.e.f. 29.6.06. On account of
+
+the breach of contract by the defendants, plaintiff had suffered
+
+a loss and suffered a mental agony and thereby entitled to
+<span class="hidden_text" id="span_2">                                  4</span>
+
+following amounts:-
+</p>
+<pre id="pre_2">I)       For loss of profit, staff salary,
+
+         Interest on loans and other
+
+         associates expenditures on             Rs. 9,00,000/-
+
+         3 stories for each story to be Rs. 3 lacs.
+
+ii)      For mental agony, distress and
+
+         hardships faced by the plaintiff.      Rs. 3,00,000/-
+
+III)     Outstanding against bill no. 1392      Rs.   26,000/-
+
+         dated 27.5.06.
+
+
+
+                                                ___________
+
+                                        Total   Rs. 12,26,000/-
+
+                                                ____________
+
+</pre><p id="p_3">         Plaintiff had prayed that he is entitled for the
+
+recovery of Rs. 12,26,000/- along with the interest @ 18% per
+
+annum.
+</p>
+<p id="p_4">         In written statement, defendant has pleaded that the
+
+suit is bad for misjoinder of necessary parties as there was no
+<span class="hidden_text" id="span_3">                                5</span>
+
+personal privity of contract between the plaintiff and
+
+defendant No. 2. Defendants had admitted the agreement dt.
+
+25.2.05 as entered into with the plaintiff. The defendants has
+
+alleged that they have never committed any breach of
+
+contract and it was the plaintiff who had violated the terms
+
+and conditions of the agreement. Plaintiff had refused to
+
+provide the catering services at places like Mumbai and
+
+Manali. Plaintiff had adopted the policy of pick and choose,
+
+as he used to provide catering services only for those serials
+
+which were profitable to him and opted out of catering for the
+
+serials which were shot on distant places. Plaintiff had also
+
+refused to provide the catering services for the serial no. 34.
+
+It is the plaintiff who had violated the terms and conditions of
+
+the agreement as is evident from his letter dt. 26.6.06
+
+whereby he wants to have increase in the rate by 25% for
+
+doing story no. 34. On account of the refusal by the plaintiff
+
+for providing catering services the defendants had to incur the
+
+additional sum of Rs. 3.5 lacs to Rs. 3.75 lacs per story.
+<span class="hidden_text" id="span_4">                                 6</span>
+
+Defendants had prayed that the suit be dismissed.
+
+</p><p id="p_5">          Plaintiff had filed the replication, and reiterated his
+
+stand as taken in the plaint.
+</p>
+<p id="p_6">3.        From the pleadings of the parties following issues
+
+were framed:-
+</p>
+<p id="p_7">1.        Whether the suit is bad for mis-joinder of necessary
+
+parties i.e. the defendant No. 2 as alleged in preliminary
+
+objection No. 3? (OPD).
+</p>
+<p id="p_8">2.        Whether the plaintiff is entitled to recover Rs.
+
+9,00,000/- for loss of profit, staff salary etc. as claimed in para
+
+16 of the plaint? (OPP)
+
+</p><p id="p_9">3.        Whether the plaintiff is entitled to recover a sum of
+
+Rs. 3,00,000/- for mental agony, distress and hardships as
+
+alleged in para 16 of the plaint? (OPP)
+
+</p><p id="p_10">4.        Whether the plaintiff is entitled to recover Rs.
+
+26,000/- in respect of the bill no. 1392 dt. 27.5.06? (OPP)
+
+</p><p id="p_11">5.        Whether the plaintiff is entitled to claim interest
+
+pendente lite and future? If yes, then at what rate. (OPP)
+<span class="hidden_text" id="span_5">                               7</span>
+
+</p><p id="p_12">6.       Relief
+
+
+
+</p><p id="p_13">4.       I have heard Ld. counsel for the plaintiff and the Ld.
+
+counsel for the defendants and also perused the written
+
+arguments. I have also perused the file.
+</p>
+<p id="p_14">         In order to prove its case, plaintiff has examined
+
+himself as PW1 and had examined Sanjay Benerjee as PW2
+
+and Avinash Mehta as PW3. Defendant has examined Ms.
+
+Jaspreet Kaur as DW1.
+</p>
+<p id="p_15">         PW1 has tendered his evidence by way of affidavit
+
+which is Ex. P1. In his affidavit he has supported his case as
+
+made in the plaint. He has proved the agreement dt. 25.2.05
+
+as Ex. PW1/1. Letter dt. 26.6.06 as Ex.PW1/2 whereby he
+
+has stated that it was not advisable to serve packed meals on
+
+account of hot and humid weather. He proved vouchers as
+
+Ex.PW1/3 to PW1/17 and legal notice sent to the defendant
+
+as Ex. PW1/18 and reply of the defendant is Ex. PW1/24. He
+
+has also proved certificate of the catering services provided
+<span class="hidden_text" id="span_6">                               8</span>
+
+by him at various places in India and abroad as Ex. PW1/25
+
+to Ex. PW1/29 and letter dt. 10.11.03 as Ex. PW1/30. The
+
+TDS certificate w.e.f. 1.4.05 to 31.3.06 as Ex. PW1/31.
+
+</p><p id="p_16">         PW2 Sanjay Banerjee has tendered his evidence
+
+by way of affidavit which is Ex. P2. In his affidavit, PW2 has
+
+deposed that he had worked with defendant No. 1 as
+
+Production-cum-Location Manager till 31.5.06. He know the
+
+plaintiff who was their official caterer for the serial "Vijay
+
+Jasoos". He had worked for serial as Production Coordinator-
+
+cum-Location Manager.      It was his duty on behalf of the
+
+company to locate site or space to plaintiff for cooking and
+
+dinning area. Plaintiff has provided excellent services and he
+
+was fully equipped for the services rendered by him.
+
+</p><p id="p_17">         PW3 Avinash Mehta has tendered his evidence by
+
+way of affidavit which is Ex. P3. In his affidavit PW3 has
+
+deposed that he was engaged by the plaintiff for providing
+
+cooks, Halwai, helpers etc. for the period 25.2.05 to 31.8.06.
+
+Plaintiff had paid him a sum of Rs. 4,28,000/- against the
+<span class="hidden_text" id="span_7">                                 9</span>
+
+vouchers Ex. PW1/3 to Ex.PW1/17.
+</p>
+<p id="p_18">         In cross examination he has deposed that plaintiff
+
+did not have its personal catering staff.
+</p>
+<p id="p_19">         DW1 Ms. Jaspreet Kaur has tendered his evidence
+
+by way of affidavit which is Ex. D1. In his affidavit DW1 has
+
+deposed that she is working with the defendant as Head of
+
+Operations since the year 2002. She was aware about the
+
+agreement dt. 25.2.05 because the same was drafted under
+
+his supervision.     Defendant No. 2 had not signed the
+
+agreement under her personal capacity. Plaintiff had violated
+
+the terms and conditions of the agreement and had refused to
+
+cater at places like Mumbai, Manali which is evident from the
+
+letter of the plaintiff dt. 26.6.06 which is Ex. PW1/2. Plaintiff
+
+was duly intimated about the shooting in the serials at
+
+Mumbai and Manali much in advance. Plaintiff had not
+
+suffered any loss and had not suffered any mental agony and
+
+there is no outstanding bill amounting to Rs. 26,000/- against
+
+defendant.
+</p><span class="hidden_text" id="span_8">                                10</span><p id="p_20">
+
+</p><p id="p_21">            In cross examination she had deposed that plaintiff
+
+had refused to provide catering services at Mumbai and
+
+Manali. He cannot produce any document in writing to that
+
+effect. The agreement was not terminated by defendant No. 1
+
+by sending any notice in writing despite the refusal of the
+
+plaintiff to provide catering services for the stories No. 8,11
+
+and 13. Plaintiff has not refused to provide catering services
+
+of story No. 13 vide letter Ex. PW1/2. She is not sure whether
+
+there is any document available with the defendant No. 1
+
+regarding the payment of bill dt. 27.5.06 amounting to Rs.
+
+26,000/-.
+</p>
+<p id="p_22"><span class="hidden_text" id="span_9">ISSUE NO. 1</span>
+
+The onus to prove this issue was upon the defendants. Ld.
+
+counsel for the defendants has argued that the suit is bad for
+
+misjoinder of necessary parties as the defendant No. 2 was
+
+just a Project Manager and there was no personal privity of
+
+contract between the plaintiff and the defendant No. 2.
+
+Agreement Ex.PW1/1 shows that this has been signed by the
+<span class="hidden_text" id="span_10">                                11</span>
+
+defendant No. 2 for and on behalf of the defendant No. 1. In
+
+my view as the defendant No. 2 has signed the agreement on
+
+behalf of the defendant No. 1, so his presence is necessary in
+
+this case to decide the matter in controversy between the the
+
+parties. In my view the suit of the plaintiff is not bad for mis
+
+joinder of the necessary parties. Accordingly, this issue is
+
+decided against the defendants and in favour of the plaintiff.
+
+<span class="hidden_text" id="span_11">ISSUE NO. 2,3 AND 4</span>
+
+</p><p id="p_23">         These issues are taken together as they have to be
+
+decided on the basis of same evidence. The onus to prove
+
+these issues was upon the plaintiff.
+</p>
+<p id="p_24">         It is the case of the plaintiff that he was not informed
+
+about the shotting of the Serial No. 29 and 32. In affidavit
+
+Ex.P1, plaintiff has deposed that defendant had not informed
+
+him regarding the shooting of serial No. 29 and 32 as to when
+
+and where they are to be shoot and later on he came to know
+
+that the said shooting were held at Mumbai and Manali. This
+
+deposition of PW1 is not supported by PW2. PW2 is the
+<span class="hidden_text" id="span_12">                               12</span>
+
+material witness as he had worked with the defendant No. 1
+
+and it was his duty to locate site or space to the plaintiff for
+
+cooking and dining area.      In cross examination, he had
+
+deposed that plaintiff had not rendered the catering services
+
+in Mumbai and Himachal despite information given by him.
+
+He has also deposed that the plaintiff was given advance
+
+information regarding the Mumbai and Himachal stories.
+
+PW2 has supported the case of the defendant that the plaintiff
+
+was informed about the dates of shooting of serial No. 29 and
+
+32 at Mumbai and Manali. In view of the evidence of PW2 the
+
+plaintiff has failed to prove his case that he was not informed
+
+about the shooting of serial No. 29 and 32 well in advance.
+
+</p><p id="p_25">         Plaintiff has claimed Rs. 9,00,000/- as damages for
+
+loss of profits, Staff salary, interest on loan and other
+
+associated expenditures on the stories No. 29 and 32 and 34.
+
+</p><p id="p_26">         PW1 in his cross examination has deposed that he
+
+has no permanent staff. He do not maintain regular books of
+
+account. He cannot tell how much profit he makes for the first
+<span class="hidden_text" id="span_13">                                   13</span>
+
+serial. He had not filed any income tax return for the period
+
+200506, 2006-07. He had not arrangement with any of the
+
+caterer in Manali and in Mumbai. He had taken a loan in the
+
+year 2004-05 which was his personal loan and not in
+
+connection with the agreement with the defendants.
+
+</p><p id="p_27">          Plaintiff has not placed on record any documents to
+
+prove the salary of the staff and for other associated
+
+expenditures incurred by him for the serial No. 29, 32 and 34.
+
+</p><p id="p_28">          The evidence of PW1 in his cross examination
+
+proves that the loan was his personal loan and it has nothing
+
+to do with the agreement with the defendants.
+
+</p><p id="p_29">          In view of the facts that plaintiff do not maintain
+
+regular books of account and he cannot tell how much profit
+
+he makes for the first serial and in the absence of income tax
+
+return, I am of the opinion that the plaintiff has failed to prove
+
+the fact of his loss of profit.
+</p>
+<p id="p_30">          In view of the above discussions, plaintiff has failed
+
+to prove that he has suffered a loss of Rs. 3,00,000/- per story
+<span class="hidden_text" id="span_14">                                14</span>
+
+and thereby plaintiff is not entitled to recover Rs. 9,00,000/-
+
+as damages from the defendant.
+</p>
+<p id="p_31">         Plaintiff has also claimed Rs. 3,00,000/- as damages
+
+for mental agony and hardship faced by the plaintiff. The
+
+plaintiff has deposed in cross examination that he has not
+
+lodged any written complaint with the defendant about being
+
+not awarded serial No. 29 and 32. The letter Ex.PW1/2 which
+
+is sent to the defendants after the shooting of the serial No.
+
+29 and 32 did not contain any averments which would show
+
+that he has suffered hardship and mental agony due to the
+
+non-awarding of serial No. 29 and 32 for catering to him. It is
+
+admitted fact that plaintiff has provided the services of
+
+catering to the defendants for serial No. 30, 31 and 33, which
+
+also supports the case of the defendants that the plaintiff has
+
+adopted the policy of pick and choose for providing the
+
+catering services.
+</p>
+<p id="p_32">         In view of these facts I am of the opinion that plaintiff
+
+has failed to prove that he has suffered mental agony,
+<span class="hidden_text" id="span_15">                                  15</span>
+
+hardship, so in my view plaintiff is not entitled for Rs.
+
+3,00,000/- as claimed by him.
+</p>
+<p id="p_33">           Plaintiff has also demanded Rs. 26,000/- as
+
+outstanding against the bill No. 1392 dt. 27.5.06. This bill has
+
+not been proved on record by the plaintiff and plaintiff has
+
+also failed to produce any evidence on record to show that to
+
+which of the transaction this bill relates to.     In my view,
+
+plaintiff has also failed to prove that he is entitled for the
+
+recovery of Rs. 26,000/- from the defendant.
+
+</p><p id="p_34">         In view of the above discussions, issues No. 2,3 and
+
+4 are decided against the plaintiff and in favour of the
+
+defendants.
+</p>
+<p id="p_35"><span class="hidden_text" id="span_16">ISSUE NO. 5</span>
+
+</p><p id="p_36">         In view of the aforesaid findings on the issues No. 2,
+
+3 and 4, as the plaintiff is not entitled for the recovery of
+
+damages of Rs. 12,26,000/-, so the plaintiff is also not entitled
+
+to any interest as claimed by him. This issue accordingly
+
+decided against the plaintiff.
+</p><span class="hidden_text" id="span_17">                               16</span><p id="p_37">
+
+RELIEF
+
+         In view of the findings on the aforesaid issues, suit
+
+of the plaintiff is dismissed. No orders as to cost. Decree
+
+sheet be prepared. File be consigned to Record Room.
+
+
+
+Announced in the open court     (RAJNEESH KUMAR GUPTA)
+today i.e. on 11.05.09        Additional District Judge-8/Central
+                                     Tis Hazari Courts, Delhi
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

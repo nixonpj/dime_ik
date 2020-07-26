@@ -1,0 +1,425 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>E.Seshan vs Union Of India on 25 September, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/131263644/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:131263644">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1725193/">T.N. Godavarman Thirumulpad vs Union Of India &amp; Ors on 6 July, 2011</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/162712998/">Section 3 in The Environment (Protection) Act, 1986</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1783355/">Section 9 in The Wild Life (Protection) Act, 1972</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/191236316/">Section 5 in The Environment (Protection) Act, 1986</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/131263644/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/131263644/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/131263644/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=elephant">elephant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wildlife">wildlife</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=animal">animal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conflict">conflict</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=environment">environment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22tigers%22">"tigers"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=t.n.godavarman">t.n.godavarman</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tiger%20reserves">tiger reserves</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=endangered%20species">endangered species</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=additional%20counter%20affidavit%20">additional counter affidavit </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mudumalai">mudumalai</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=t%20n%20godavarman">t n godavarman</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=godavarman%20thirumulpad">godavarman thirumulpad</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=godavarman">godavarman</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=man%20animal%20conflict">man animal conflict</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chief%20conservator%20of%20forest">chief conservator of forest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=additional%20affidavit">additional affidavit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sandalwood%20">sandalwood </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=livestock%20">livestock </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wildlife%20protection%20act">wildlife protection act</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">E.Seshan vs Union Of India on 25 September, 2013</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED    25.09.2013
+CORAM
+THE HON'BLE MR.R.K.AGRAWAL, THE ACTING CHIEF JUSTICE
+AND
+THE HON'BLE MR. JUSTICE M.SATHYANARAYANAN
+W.P.No.24189 of 2013
+and M.P.Nos.1 &amp; 2 of 2013
+				
+E.Seshan						 	..      Petitioner 
+
+Vs.
+
+1.Union of India,
+   Rep. By its Secretary,
+   Department of Environment and Forest,
+   Paryavaran Buildings,
+   C.G.O. Complex,
+   New Delhi.
+
+2.The Chief Secretary to Govt. of Tamil Nadu,
+   Secretariat, Fort St.George,
+   Chennai-600 009.
+
+3.The Principal Secretary to Govt.,
+   Environment and Forest Department,
+   Secretariat, Fort St.George,
+   Chennai-600 009.
+
+4.The Principal Chief Conservator of Forests and
+     Chief Wildlife Warden,
+   Panagal Maligai,
+   Saidapet, Chennai-600 015.
+
+
+
+5.The Additional Principal Chief Conservator 
+      of Forest (Project Tiger),
+   Coimbatore Division,
+   Coimbatore 641 011.	 			..	Respondents 
+
+Prayer:- Writ Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India praying for issuance of a Writ of Certiorarified Mandamus calling for the records of the 4th respondent herein dated 19.8.2013 in Ref No.WLI/7826/2012 and to quash the same insofar as the same relates to permanently confining the wild elephants in captivity and to direct the respondents herein to translocate and release the six elephants in any other suitable wild area.
+
+	For Petitioner	: Mr.R.Srinivas
+
+	For Respondents	: Mr.G.Masilamani,
+					Additional Solicitor General
+				 	for Mr.K.Mohanamurali for R1
+
+				  Mr.M.K.Subramanian,
+				Special Govt. Pleader (Forest) for R2 to R5
+					
+	 
+O R D E R
+</pre><p id="p_1">	This writ petition is filed as a Public Interest Litigation praying for issuance of a Writ of Certiorarifed Mandamus calling for the records relating to the proceedings dated 19.08.2013 on the file of the fourth respondent and quash the same, insofar as it relates to permanently confining the wild elephants in captivity and to direct the respondents herein to translocate and release the said elephants in any other suitable wild area.
+</p>
+<p id="p_2">	2. The petitioner claims that he worked as a Wildlife Photographer in Zoological Survey of India for about 36 years and retired from service and at present, indulging in the work of conserving wildlife, nature and environment.  It is stated by the petitioner that he came to know that the respondents 4 and 5 are contemplating to capture six wildlife elephants from the Javadhu Hills lying in Tiruvannamalai and Vellore Districts and deployed a team to capture all six elephants from the Tiruvannamalai District, where their movements have been reported and to separate it and transfer them to Mudumali Tiger Reserve in Nilgiris District and Anamalai Tiger Reserve in Pollachi Taluk of Coimbatore District, from where it is proposed to cage each of the six elephants individually and such cage is technically called 'Kraal' and its size will be little more than the size of the elephants which will be trapped until it is tamed and obeys the commands of the mahouts and thereafter, the elephants will be kept in captivity throughout its lifetime.  The petitioner would further state that these six elephants, forming a part of a bigger herd, have lost its home range due to human intervention and out of six elephants, four elephants are male and two elephants are females.  It is further stated by the petitioner that the elephants are endangered species included in Schedule I of Wildlife Protection Act, 1972 and the first respondent has been spending huge amounts for protecting wild animals in India in association with international organizations like International Union for Conservation of Nature (IUCN) and as a signatory to various international treaties to protect Asian elephants.  
+</p>
+<p id="p_3">	3. The petitioner also took a stand that it is the Forest Department which is duty bound to take effective steps to prevent man animal conflict and in the present case, the petitioner came to know on enquiry that the fourth respondent has already taken a hasty decision, without any transparent scientific basis to capture all the six elephants and put into Kraals and also passed an order dated 19.08.2013 to that effect and such a kind of maintenance, would cost several crores of public money.  
+</p>
+<p id="p_4">	4. According to the petitioner, when there is a viable solution and a possible alternative of translocation of six elements and releasing it in the wild where there is no possibility of conflict with humans, the authorities should resort to such a method before resorting to the extreme step and separating the herd together and tranquilizing the same to the new location which is about 500 kms away from their present habitat and the possibility of death of the elephants is also not ruled out and therefore, the petitioner came forward to file the above said writ petition. 
+</p>
+<p id="p_5">	5. Mr.R.Srinivas, learned counsel appearing for the petitioner has invited the attention of this Court to the typed set of documents and would submit that due to construction of Chennai to Bangalore Highways -NH46, the movements of wildlife elephants have been restricted and proposed to translocate all the six captured wild elephants to various forests even in the State of Tamil Nadu, where there are wild elephant population.  The learned counsel appearing for the petitioner has drawn the attention of this Court to the letter dated 18.07.2012 of the Ministry of Environment and Forests (Wildlife Division), Government of India, wherein the said Department has responded to the request made by the Forest Department of Government of Tamil Nadu and it is stated in the said letter among other things that, in principle, they granted approval for capture and relocation of seven identified elephants and one male elephant from Vellore Circle area to Sathyamangalam and nearby area of the State and arrangement for upkeep of animals in captivity at the place of capture and that of release have also to be made out and the locations are also identified to capture, route of transport including the time schedule and release of the animals and in this regard, the consultations should be made with the local communities also.  The learned counsel appearing for the petitioner, by placing reliance upon the said letter for capture and relocation of elephants, various departments of State Government has to seek permission under <a href="/doc/51001/" id="a_2">Section 12(bb)</a> and <a href="/doc/1783355/" id="a_3">9(i)(a)</a> of Wild Life (Protection) Act, 1972 and accordingly, they sent a letter to the above said department, who in their reply dated 18.07.2012 makes it very clear that after capture and upkeep, several efforts is to be made for releasing, but on the contrary, the fourth respondent has passed an order dated 19.08.2013 by invoking Section 11 of the Wildlife (Protection) Act, 1972 and ordered tranquilizing the wild elephants and translocate them to existing elephant camps in the State.  
+</p>
+<p id="p_6">	6. It is the primordial submission of the learned counsel appearing for the petitioner that inspite of the directions of the Minsitry of Environment and Forest, Government of India to capture and release the elephants, the fourth respondent has passed an order for confining them in elephant camps which is against the well established scientific method of translocation.  It is also the submission of the learned counsel appearing for the petitioner that even as per the own admission of the fourth respondent, the wild elephants are moving as a group for some time and though it is alleged that they even started riding into the human habitats, causing havoc to the agricultural crops and also damage to properties and further, caused death of some human lives, the fact remains that capturing and relocating the elephants in Mudumalai Tiger Reserve and Anamalai Tiger reserve would cause much stress, which may ultimately lead to the death of the elephants also and the said vital aspect has been completely overlooked by the fourth respondent.  The learned counsel appearing for the petitioner, in support of his submissions, placed reliance upon the decision in <a href="/doc/1725193/" id="a_4">T.N.Godavarman Thirumulpad v. Union of India and Others</a> [(2012) 3 SCC 277] and  <a href="/doc/1725193/" id="a_5">T.N.Godavarman Thirumulpad v. Union of India and Others</a> [(2012) 4 SCC 362]. 
+</p>
+<p id="p_7">	7. Per contra, Mr.M.K.Subramanian, learned Special Government Pleader (Forest) has invited the attention of this Court to the counter affidavit and additional counter affidavit filed by the fourth respondent and would submit that the behaviour of the six elephants were tracked for quite some time and since they started raiding human habitats and also caused huge loss to the crops raised by the farmers and causing death of human lives and further started venturing into the nearby towns also, a decision has been taken to capture and relocate them.  The fourth respondent after obtaining permission from the Central Government and after consulting with the experts, took a decision to tranquilize the elephants and transport them to elephant camps located in Mudumalai as well as in Anamalai and while taking such a decision, the fourth respondent has also taken note of the fact that since the food habits of the six elephants has changed as they started raiding agricultural crops, it may be difficult for them to provide same kind of food if it is transported to any other wild area and further, the wild elephants already there, may not also accept their company and it may lead to fight between them resulting in loss of lives of elephants also.  The people of nearby locality of the forest where the captured wild elephants are to be relocated also raised their objection with regard to herd attack by the said elephants on their habitats.  It is further submitted by the learned Special Government Pleader that the elephants used to cover lot of distance for food and water and even if it is relocated in any other forest area, the possibility of coming to the same area from which they were in habitat cannot be ruled out for the reason that distance will be very short and the fourth respondent has taken into consideration all relevant aspects on scientific analysis and took a conscious decision to keep them in the elephant camps wherein it will be provided with necessary food and medical treatment.  It is further contended by the learned Special Government Pleader that the captured wild elephants will be trained as 'Kumkis' and most of the captured elephants live long and therefore, it cannot be said that they will be put to stress. Lastly it is submitted by the learned Special Government Pleader that the fourth respondent, after obtaining the opinion of the experts in that field only took a decision and this Court, in exercise of its jurisdiction under <a href="/doc/1712542/" id="a_6">Article 226</a> of the Constitution of the India, will not normally interfere with the decision of the experts and would further submit that the health and well being of the captured elephants will be taken care of by the Forest Department and hence, prays for dismissal of this writ petition. 
+</p>
+<p id="p_8">	8. This Court paid its anxious consideration and best attention to the rival submissions and also perused the entire materials placed before it. 
+</p>
+<p id="p_9">	9. It is not in dispute that the six elephants started venturing into human habitats, riding of agricultural field for their food and in the process, caused damage to the properties and lives of some human beings were also lost.  The fourth respondent has filed a exhaustive counter affidavit and additional counter affidavit and the perusal of the same would discloses the fact that on account of repeated riding by the said elephants, 18 human beings had lost their life as well as caused damage to plantations and crops over the years. The fourth respondent has fairly stated that the herd of six elephants initially seemed to move into the forests of Chittoor, Andhra Pradesh, maintaining contact with the groups there, but the completion of the four lane national highway in 2002, blocked any such excursion and therefore, the herd become isolated and started roaming in the forest of Vellore, Tiruvannamalai, Kallakurichi, Salem, Attur, Harur, Tirupattur and Dharmapuri Forest Divisions of Tamil Nadu.  It is further stated by the fourth respondent that since the range of habitat got shrink/reduced on account of the four lane national highways, the food and water supply started shrinking and the herd started riding the nearby villages.  
+</p>
+<p id="p_10">	10. The fourth respondent also lays stress on the fact that there is one solitary adult about 40 years and a female elephant acting as matriarch and it died due to natural cause in May 2012 and thereafter, the behaviour of the herd has become uncertain and unpredictable and only single adult male has been the breeder of the population and on account of the same, there is bound to be inbred population and it may not be good for the herd genetically.  Numerous steps were taken including the engagement of Kumki elephants to drive out the said wild elephants from patta lands and human habitat to the forest area on number of times and such efforts proved to be futile as the herd kept continuously invading the patta lands, causing human deaths and the situation has become grim and grave.  In that regard, the fourth respondent had a detailed discussion on 10.03.2013 along with the experts and forest officers including Thiru.R.Sukumar, Professor, Centre for Ecological Science, Indian Institute of Science, Bangalore, who has given a detailed recommendation for the management of herds, which includes transportation of the herds to the elephant camp at Anamalai Tiger Reserve and Mudulamai Tiger Reserve and in tune with his opinion, the fourth respondent sent a letter dated 25.04.2012 to the Central Government seeking their permission and accordingly, it was granted on 18.07.2012 and steps to be taken after the re-capture of the wild elephants had also been discussed and a conscious decision was taken to locate them in Mudumalai and Anamalai Tiger Reserve where there are elephant camps.  
+</p>
+<p id="p_11">	11. The fourth respondent would further state that six wild elephants had grown up in an area without any other elephants and hence their understanding of the social organization and hierarchies may be very poor and the sub-adult female and the four juveniles are not suitable for translocation, given the fact that there is no large female (even a large sub-adult) to help and guide them and taking into consideration the said vital aspect and further that the food habitats of the elephants had changed, had decided to locate them in the above said camps. Accordingly, the services of 100 forest officials of various category including anti-poaching mahouts, 20 police officials, 50 staffs of other departments and 8 veterinary doctors and their assistance had also sought and obtained and the operation to capture the elephants was successful and it has been now located in the two camps and looked after well and they are also healthy. 
+</p>
+<p id="p_12">	12. Insofar as the submissions of the learned counsel appearing for the petitioner that the captured elephants will be kept in Kraal, in which they cannot lie down and have to stand, the learned Special Government Pleader has drawn the attention of this Court to the counter affidavit and would submit that it is an age old and time tested practice/procedure to keep wild elephants in Kraals so that they will be tamed and thereafter, it will be taken out and kept in elephant camps during night hours and it will be released in the forest in the morning and further, invited the attention of this Court to the time schedule of the camps given in the additional counter. 
+</p>
+<p id="p_13">	13. <a href="/doc/1725193/" id="a_7">In T.N.Godavarman Thirumulpad v. Union of India and Others</a> [(2012) 3 SCC 277], interlocutory applications were moved in Writ Petition (C)No.202/1995, which pertains to rescue plan to save the wild buffalo, an endangered species from extinction.  The Hon'ble Supreme Court of India had an indepth analysis of the various provisions of the relevant statute and more particularly, the vital and important aspect of human and wildlife conflict, has observed that the Central Government, State Governments and Union Territories should evolve better preservation strategies, in consultation with Wildlife Boards so that such conflicts can be avoided to a larger extent and therefore, directed the State of Chattisgarh to give effect fully to the Centrally Sponsored Integrated Development of Wildlife Habitats Scheme, 2009, so as to save wild buffalo from extinction and further directed to take immediate steps to ensure that interbreeding between wild and domestic buffaloes does not take place and genetic purity of the wild species is maintained. 
+</p>
+<p id="p_14">	14. <a href="/doc/1725193/" id="a_8">In T.N.Godavarman Thirumulpad v. Union of India and Others</a> [(2012) 4 SCC 362], interlocutory applications were filed for protection of Red Sandalwood as well as Sandalwood which are stated to be a 'specified plant' and gave a direction to the Central Government to formulate a policy for conservation of sandalwood including provision for financial reserves for such conservation and scientific research for sustainable use of biological diversity in sandalwood and further direction was given to formulate rules and regulations under <a href="/doc/162712998/" id="a_9">Sections 3</a> and <a href="/doc/191236316/" id="a_10">5</a> of the Environment (Protection) Act, 1986 for effective monitoring.  The Hon'ble Supreme Court of India further opined that time has also come to think of a legislation similar to the Endangered Species Act, which protects both "endangered species" and "threatened species". 
+</p>
+<p id="p_15">	15. This Court can take judicial notice of the fact that wild elephants have habitats spreading over 1000 of kms and will be lead by female matriarch, who teaches the elephants as to the locations in which, food and water is available. On account of increase in population, the forest lands were erased and human habitats have come and to cater their needs, roads and railway lines were also built, curtailing the movement of elephants from one place to another.  This Court can also take judicial notice of the fact that in Assam as well as in Kerala, railway lines have been put across the elephants corridor and the elephants, used to a certain movement pattern, were hit by trains and died and it is very saddening to note that such kind of tragic things often happen in Assam as well as in Kerala. 
+</p>
+<p id="p_16">	16. The Hon'ble Supreme Court of India in <a href="/doc/1725193/" id="a_11">T.N.Godavarman Thirumulpad v. Union of India and Others</a> [(2012) 3 SCC 277] has expressed anguish with regard to such a kind of development and observed as follows:
+</p><p id="p_17">	"11. Human-wildlife conflict is fast becoming a critical threat to the survival of many endangered species, like wild buffalo, elephants, tiger, lion, etc. Such conflicts affect not only its population but also has broadened environmental impacts on ecosystem equilibrium and biodiversity conservation. Laws are man-made, hence there is likelihood of anthropocentric bias towards man, and rights of wild animals often tend to be of secondary importance but in the universe man and animal are equally placed, but human rights approach to environmental protection in case of conflict, is often based on anthropocentricity.
+</p><p id="p_18">	12. Man-animal conflict often results not because animals encroach human territories but vice versa. Often, man thinks otherwise, because mans thinking is rooted in anthropocentrism. Remember, we are talking about the conflict between man and endangered species, endangered not because of natural causes alone but because man failed to preserve and protect them, the attitude was destructive, for pleasure and gain. Often, it is said that such conflicts are due to human population growth, land use transformation, species habitat loss, degradation and fragmentation, increase in eco-tourism, access to natural reserves, increase in livestock population, etc.
+</p><p id="p_19">	13. Proper management practices have to be accepted, like conservation education for local population, resettlement of villages, curbing grazing by livestock and domestic animals in forest, etc., including prey-preservation for the wild animals. Provision for availability of natural water, less or no disturbance from the tourists has to be assured. The State also has to take steps to remove encroachments and, if necessary, can also cancel the patta already granted and initiate acquisition proceedings to preserve and protect wildlife and its corridors. Areas outside PAs is reported to have the maximum number of man-animal conflict, they fall prey to poachers easily, and often invite ire of the cultivators when they cause damage to their crops. These issues have to be scientifically managed so as to preserve and protect the endangered species, like wild buffalo and other species included in Schedule I Part I of the Wildlife (Protection) Act, as well as other species which face extinction.
+</p><p id="p_20">.....
+</p><p id="p_21">	16. The Report clearly states that development activities cause more interference in forest and also the privacy of wildlife and these ultimately cause conflict with wildlife. Man-animal conflict often takes place when wild animals cause damage to agricultural crop and property, killing of livestock and human beings. Human population growth, land use transformation, species loss of habitat, ecotourism, too much access to reserves, increase in livestock population bordering the forest, depletion of natural prey base, etc., are often stated to be reasons for such conflict. The Central Government, the State Governments, and the Union Territories should evolve better preservation strategies, in consultation with Wildlife Boards so that such conflicts can be avoided to a large extent. Participation of people who are staying in the community reserves is also of extreme importance. The necessity of implementing proper management measures for preserving the wild buffalo has also been elaborately stated in the Report.
+</p><p id="p_22">	17. Environmental justice could be achieved only if we drift away from the principle of anthropocentric to ecocentric. Many of our principles like sustainable development, polluter-pays principle, intergenerational equity have their roots in anthropocentric principles. Anthropocentrism is always human interest focussed and that non-human has only instrumental value to humans. In other words, humans take precedence and human responsibilities to non-human based benefits to humans. Ecocentrism is nature-centred where humans are part of nature and non-humans have intrinsic value. In other words, human interest does not take automatic precedence and humans have obligations to non-humans independently of human interest. Ecocentrism is therefore life-centred, nature-centred where nature includes both humans and non-humans. The National Wildlife Action Plan 2002-2012 and the Centrally Sponsored Integrated Development of Wildlife Habitats Scheme, 2009 are centred on the principle of ecocentrism."
+</p>
+
+	
+<p id="p_23">	17. This Court hope and trust that while laying roads and railway lines in and around forest areas, the concerned departments of State and Central Governments have to take note of the pattern of movement of animals and avoid laying roads/railway lines in those areas, so that human and animal conflict may not happen in future.  In the case on hand, the counter affidavit and additional counter affidavit filed by the fourth respondent has disclosed the fact that inspite of best efforts taken to drive the six wild elephants into the forest area, their efforts failed and having tasted the agricultural produce in the name of sugarcane etc., repeatedly started riding the farm lands for their food and in the process, caused the loss of human lives and thus the fourth respondent, after obtaining necessary permission from the Central Government, had a consultation with the experts in the field which include Thiru.R.Sukumar, Professor, Centre for Ecological Science, Indian Institute of Science, Bangalore and took a conscious decision to capture, tranquilize and relocate the elephants in the elephant camps maintained in Mudumalai and Anamali and accordingly, they were captured and relocated. Though it is vehemently contended by the learned counsel appearing for the petitioner that the captured elephants are kept in individual Kraals and thereby putting them to physical agony, this Court is of the view that the same is an age old and time tested practice and it is the specific stand of the fourth respondent that the elephants will be kept in Kraals, but after taming it will be released, well fed and health and other essential parameters were also observed periodically and also given a time schedule of the camps in which the elephants are kept, which has been extracted in the earlier paragraphs. 
+</p>
+<p id="p_24">	18. The Ministry of Environment and Forests (Project Elephant Division), Government of India, in their letter in F.No.2-22/2013-PE dated 29.08.2013, addressed to the fourth respondent, made a request as follows:
+</p><p id="p_25">"To
+The Principal Chief Conservator of Forests &amp;
+Chief Wildlife Warden (i/c),
+Government of Tamil Nadu,
+Panagal Maaligai, Saidapet,
+Chennai-600015.
+</p>
+<p id="p_26">Subject: Translocation of 6 wild elephants from Trandrampattu near 
+	     Tiruvannamalai to Topslip and Mudumalai  regarding.
+</p>
+<p id="p_27">Sir,
+	The undersigned is directed to refer to the subject cited above and to say that it is learnt that the Tamil Nadu Forest Deptt. is in the process of capturing and translocating 6 wild elephants from Thanarampattu near Tiruvannamalai to elephant camps at Topslips and Mudumalai.  While we are sure that all appropriate measures are being taken by the Department for capture and translocation of these animals, as per provisions of the <a href="/doc/1781078/" id="a_12">Wild Life Protection Act</a>, 1972 and other guidelines of this Ministry in this regard, it is requested that the following may kindly be ensured:
+</p>
+<p id="p_28">i.that most humane treatment is given to the animals in the process of their capture, translocation and upkeep.
+</p><p id="p_29">ii.proper security and nutrition is provided to the animals at the camps.
+</p><p id="p_30">iii.efforts may be made to release these animals in suitable wild habitat, in the first place.  Any departure from this course of action may be considered only in consultation with this Ministry, and
+iv.Adequate measures may be kept in place for emergency response in case of any exigency related to captivity of elephants and or handling thereof.	
+</p>
+<p id="p_31">This Ministry is also requesting Professor Raman Sukumar, Chairman, Centre for Ecological Sciences, Indian Institute of Science, Bangalore and member of the Steering Committee for Project Elephant to visit the sites of the elephant camps and see their condition, and advice the Forest Deptt. in capture and translocation of the animals. It is requested that full cooperation may kindly be extended to Professor Sukumar, in this regard. 	
+</p>
+
+<p id="p_32">Yours faithfully,
+
+
+(C.Murti)
+Asst. Inspector General of Forests,
+(Project Elephant)"
+</p>
+<p id="p_33">In the said letter, it has been clearly stated that efforts will be made to release the captured wild elephants in suitable wild habitats, in the first place and any departure in the course of action will be considered only in consultation with the Ministry of Environment of Forests.  
+</p>
+<p id="p_34">	19. As on date, the captured wild elephants are kept in Mudumalai and Anamalai Tiger Reserve and the fourth respondent, in terms of the above said letter dated 29.08.2013, shall have a regular consultation in correspondence with the above said department and take suitable decision in terms of the suggestions given in the said letter.  The fourth respondent took a decision to locate the captured 6 elephants in the above said reserves and the typed set of documents, counter affidavit and additional counter affidavit would disclose the fact that the said decision has been taken based upon expert opinion and other vital and important aspects. 
+</p>
+<p id="p_35">	20. It is trite law that this Court, in exercise of its jurisdiction under <a href="/doc/1712542/" id="a_13">Article 226</a> of the Constitution of India, will not normally interfere or analyze the opinion given by the experts. The fourth respondent shall make periodical assessment as to the need of keeping the elephants in the above said camps and as and when the concerned authorities feel that the captured elephants may be successfully relocated in any other forest areas, the same should be done without any loss of time in accordance with the relevant statutes, rules and regulations. 
+</p>
+<p id="p_36">	21. This Writ Petition is disposed of accordingly.  However, in the circumstances of the case, there shall be no order as to costs.  Consequently, the connected miscellaneous petitions are closed.	
+</p>
+
+
+<p id="p_37">[R.K.A. ACJ.]  [M.S.N, J.]
+									  25.09.2013
+Index		: No
+Internet	: Yes
+jvm
+
+
+
+To
+</p><p id="p_38">1.The Secretary,
+   Union of India,
+   Department of Environment and Forest,
+   Paryavaran Buildings,
+   C.G.O. Complex, New Delhi.
+</p>
+<p id="p_39">2.The Chief Secretary to Govt. of Tamil Nadu,
+   Secretariat, Fort St.George,
+   Chennai-600 009.
+</p>
+<p id="p_40">3.The Principal Secretary to Govt.,
+   Environment and Forest Department,
+   Secretariat, Fort St.George,
+   Chennai-600 009.
+</p>
+<p id="p_41">4.The Principal Chief Conservator of Forests and
+     Chief Wildlife Warden,
+   Panagal Maligai,
+   Saidapet, Chennai-600 015.
+</p>
+<p id="p_42">5.The Additional Principal Chief Conservator 
+      of Forest (Projects Tiger),
+   Coimbatore Division,
+   Coimbatore 641 011.
+</p>
+<p id="p_43">6.Ministry of Environment and Forests,
+   (Wildlife Division)
+   Government of India,
+   Paryavaran Bhawan,
+   CGO Complex, Lodhi Road,
+   New Delhi-110 003.
+</p>
+<p id="p_44">7.Ministry of Environment and Forests,
+   (Project Elephant Division)
+   Government of India,
+   Paryavaran Bhawan,
+   CGO Complex, Lodhi Road,
+   New Delhi-110 003.
+</p><p id="p_45">THE HON'BLE THE ACTING CHIEF JUSTICE, J.,
+AND
+M.SATHYANARAYANAN, J.
+</p>
+<p id="p_46">jvm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pre-Delivery Order in 
+W.P.No.24189 of 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   25.09.2013</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

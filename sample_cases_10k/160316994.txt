@@ -1,0 +1,749 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Govindappa vs The Manager on 27 April, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/160316994/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/136948773/">Section 166 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1402213/">Section 337 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/409589/">Section 304 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/160316994/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/160316994/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/160316994/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bangalore District Court</div>
+<div class="doc_title">Govindappa vs The Manager on 27 April, 2019</div><pre id="pre_1">SCCH - 11                       1                    MVC 584/2018
+
+      BEFORE THE MOTOR ACCIDENT CLAIMS TRIBUNAL,
+                 BANGALORE. (SCCH­11)
+
+            DATED THIS 27nd DAY OF APRIL, 2019
+
+            PRESENT: SMT. B.S. RAYANNAWAR, B.A., L.L.B.
+                I ADDL.SMALL CAUSES JUDGE &amp; MACT
+
+                       M.V.C No.584/2018
+
+PETITIONERS:       1. Govindappa,
+                   S/o. Muniswamappa,
+                   Aged about 70 years.
+
+                   2. Lakshmamma,
+                   W/o. Govindappa,
+                   Aged about 62 years.
+
+                   3. Muthuraja,
+                   S/o. Govindappa,
+                   Aged about 28 years.
+
+                   All are R/at No.391,
+                   Vinayakanagar,
+                   Kachanayakanahalli,
+                   Hennagara Post, Jigani Hobli,
+                   Anekal Taluk,
+                   Bangalore Rural District.
+
+                   (Sri.B.K.K ­­­­­­­­­­ Advocate)
+
+                              ­ VS ­
+
+RESPONDENTS:       1. The Manager,
+                   Tata AIG Gen. Insu. Co. Ltd.,
+                   No.69, 2nd Floor, JP &amp; Devi
+                   Jambukeshwar Arcade,
+ SCCH - 11                                  2                 MVC 584/2018
+
+                         Mission Road,
+                         Bangalore - 52.
+
+                         (Sri.R.S.S ­­­­­­­­­­ Advocate)
+
+                         2. Mr. Ravindra Reddy.R,
+                         S/o. Ramachandra Reddy,
+                         R/at No.114, Yarandanahalli Village,
+                         Jigani Link Road, Hennagara Post,
+                         Anekal Taluk, Bangalore Rural District.
+
+                         (Exparte)
+
+                                     ***
+
+                                JUDGMENT
+</pre>
+<p id="p_1">      This petition is filed by the petitioners under <a href="/doc/136948773/" id="a_1">Section 166</a> of M.V.
+
+Act     against    the     respondents         claiming    compensation   of
+
+Rs.30,00,000/­ for the death of the son of petitioner No.1 and 2 and
+
+brother of Petitioner No.3 in the accident that occurred on
+
+15.01.2018.
+</p>
+<p id="p_2">
+</p><p id="p_3">      2) The brief facts of the petitioner case as averred in the petition
+
+are as under:
+</p>
+<p id="p_4">             That on 15.01.2018 at about 7.00 pm., the deceased was
+
+proceeding on a motor bike bearing No.KA­51­EM­1851 as a pillion
+ SCCH - 11                         3                    MVC 584/2018
+
+rider. At that time his friend namely Mahesha was riding the above
+
+said motor bike, on Hosur - Bangalore NH­7 road beside Kirthana
+
+hotel, Opposite to Apartment road, Chandapura, while returning
+
+back to deceased home. From the starting point of the journey the
+
+rider ridden the said bike at a very high speed in a rash and
+
+negligent manner so as to endangering to human life.         Inspite of
+
+repeated request made by the deceased to go slow. But the rider did
+
+not listen to him. Due to over speed the rider lost control of the said
+
+motor bike and hit against one pedestrian namely Shriranga who
+
+was crossing a road and sustained injuries. Resulting in which the
+
+deceased and rider are fell down along with motor bike and
+
+sustained injuries.   The deceased sustained severe head injury,
+
+injuries over face and other injuries all over the body. Immediately
+
+after the accident deceased was shifted to Sparsh Hospital by the
+
+ambulance, when he was treated and necessary examination was
+
+done. But inspite of best efforts made by the doctor, the deceased
+
+was died on the same day at about 8.55 pm., during the course of
+
+treatment.   Thereafter the body was sent to attibele government
+
+Hospital to conduct the post mortem, after post mortem the body
+ SCCH - 11                           4                          MVC 584/2018
+
+was handed over to the Petitioners family members.                    They have
+
+performed    his   funeral   and   last   rites    and    incurred      sum    of
+
+Rs.80,000/­ and also incurred another sum of Rs.60,000/­ for his
+
+treatment, transportation of dead body and other expenses. Prior to
+
+accident the deceased was hale and healthy and he was working at
+
+Ostrich Mobility Instruments Pvt Ltd., as a technician and earning
+
+sum of Rs.15,000/­ per month and he was contributing same for the
+
+family maintenance. Due to this accidental injuries the deceased
+
+died and left behind his legal heirs as his parents and brother. Due
+
+to sudden and tragic death of deceased and Petitioners are lost
+
+beloved son and brother respectively and earning member of the
+
+family hence the Petitioners are put to great hardship and mental
+
+agony. It is very difficult to come out from this shock through their
+
+life. At the time of his death he was aged about 36 years. It is true
+
+that the deceased got married with one Saritha in the year 2009 after
+
+marriage    of   1½   year   the   deceased       and    his   wife    got    mis
+
+understanding and they do not have children and the deceased wife
+
+filed a case in the court of Anekal to take divorce from the deceased,
+
+as per the court order they became separate and deceased wife is no
+ SCCH - 11                          5                   MVC 584/2018
+
+where concern to deceased and deceased was not having any
+
+relationship with his wife after the court order. Hence, they have not
+
+made a party in this case, only deceased parents and brother are
+
+legal heirs of deceased. The Suryanagar police have registered a case
+
+against the rider of motor bike bearing No.KA­51­EM­1851, offences
+
+under <a href="/doc/1270101/" id="a_2">section 279</a>, <a href="/doc/1402213/" id="a_3">337</a>, <a href="/doc/409589/" id="a_4">304(A)</a> of IPC. The first respondent being the
+
+insurer and second respondent being the RC owner are jointly and
+
+severally liable to pay the compensation to the petitioners. Therefore,
+
+they prayed for allowing the petition.
+</p>
+<p id="p_5">
+
+</p><p id="p_6">    3) After service of notice, Respondent No.2 not appeared before
+
+the court hence placed exparte and respondent No.1 have appeared
+
+through their advocate and contested the claim of the petitioners by
+
+filing objection statement wherein, they denied the allegations made
+
+in the petitions as false and frivolous. They have further disputed
+
+the manner of the accident, age of the deceased and quantum of the
+
+compensation claimed under different heads. They have further
+
+contended that, the rider of motorcycle was not holding a valid and
+
+effective driving license at the time of accident. The respondent no.2
+ SCCH - 11                           6                   MVC 584/2018
+
+handed over the possession of the vehicle to the said driver and
+
+therefore, has contravened the proviso of <a href="/doc/785258/" id="a_5">MV Act</a>. Further contended
+
+that, it is learnt that the motorcycle in question was ridden by the
+
+deceased at the time of accident and sustained injuries and died due
+
+to his own negligent act of the deceased himself. Hence, they prayed
+
+for dismissal of the petition.
+</p>
+<p id="p_7">
+</p><p id="p_8">      4)     On the basis of the above rival pleadings, the following
+
+issues have been framed:
+</p>
+<blockquote id="blockquote_1">                   1. Whether petitioners prove that the son of
+           1st and 2nd petitioner brother of 3rd petitioner
+           namely Srinivasa G. succumbed to the injuries
+           sustained in the accident that took place on
+           15.01.2018 at about 7.00 pm Opp Kirthana
+           Apartments, NH­7 Road, Chandapura, Attibele
+           Hobli, Anekal Taluk, when he was proceeding in a
+           motor cycle bearing registration No.KA­51­EM­1851
+           as a pillion rider, due to the rash and negligent
+           riding of the above said motorcycle by its rider?
+</blockquote>
+<blockquote id="blockquote_2">               2. Whether the petitioners are entitled for
+           compensation ? If so, how much and from whom ?
+</blockquote>
+                3. What order or award?<p id="p_9">
+
+
+
+</p><p id="p_10">       5) To prove the petitioners case, petitioner No.3 filed affidavit
+
+in lieu of examination in chief and examined as PW.1. Besides his
+ SCCH - 11                           7                     MVC 584/2018
+
+evidence, he has produced 17 documents and got them marked as
+
+Ex.P.1 to 17.     Accountant, Ostrich Mobility Instrument Pvt. Ltd.,
+
+Bengaluru has examined as PW.2 and got marked Ex.P.19 and 20
+
+and closed their side evidence. Respondent No.1 not lead any
+
+evidence.
+</p>
+<p id="p_11">
+</p><p id="p_12">      6)     I have heard the arguments of learned counsel appearing
+
+for the Petitioners and respondent No.1.
+</p>
+<p id="p_13">
+</p><p id="p_14">      Learned Counsel for Petitioner has relied upon citation reported
+
+in:
+</p>
+<blockquote id="blockquote_3">      AIR 2017 SC 5157 and 2018 ACJ 5.
+</blockquote>
+
+
+<blockquote id="blockquote_4">      7)    My answers to the above said issues are as follows:
+</blockquote>
+<pre id="pre_2">       Issue No.1       In the Affirmative;
+       Issue No.2       Partly Affirmative;
+       Issue No.3       As per final order, for the following :
+
+
+                              ­:REASONS:­
+
+
+       8)    ISSUE No.1: As this claim petition has been filed by the
+
+</pre><blockquote id="blockquote_5">petitioners under <a href="/doc/136948773/" id="a_6">Section 166</a> of the M.V.Act, 1989, the burden is on
+
+them to prove that the deceased Srinivasa.G died because of the
+ SCCH - 11                         8                    MVC 584/2018
+
+accident which place, as a result of rash and negligent riding by the
+
+rider of the motor bike bearing Reg.No.KA­51­EM­1851.</blockquote><p id="p_15">
+
+
+</p><p id="p_16">      9) In order to prove the same, petitioner No.3, Muthuraja @
+
+Muthu examined himself as PW.1 filed his chief affidavit in lieu of his
+
+examination in chief reiterating the contents of petition. PW.1 got
+
+marked documents as Ex.P.1 to Ex.P.17 out of which Ex.P.1 is FIR,
+
+Ex.P.2 is complaint lodged by Petitioner No.3 on the basis of which
+
+Suryanagar Police have registered case in crime No.20/2018, police
+
+have drawn spot mahazar as per Ex.P.3, drawn sketch as per Ex.P.4,
+
+IMV report is Ex.P.5, Ex.P.6 is the Inquest, Ex.P.7 is P.M. Report. By
+
+above oral and documentary evidence petitioners proves that there is
+
+an accident in which Srinivasa.G died. Respondent no.1 not denied
+
+the accident, but it is the contention of first respondent that, the
+
+motorcyle in question was ridden by the deceased at the time of
+
+accident ans sustained injuries and died due to own negligence.
+
+
+</p><p id="p_17">       10)   During cross examination PW.1 deposed that the said
+
+vehicle belongs to one Mahesh. Admitted that he has not seen the
+
+accident. The public who have seen the accident have given
+ SCCH - 11                             9                   MVC 584/2018
+
+statement, he and the public who gathered shifted his brother and
+
+rider of motor cycle to sparsha hospital. It is denied suggestion that,
+
+on the date of accident his brother was riding the motor cycle and
+
+accident occurred due to negligence. Further deposed that, ten lakh
+
+compensation    amount    was    paid     by   company.   During   cross
+
+examination nothing is elicited to disbelieve the case of the
+
+petitioner. Ex.P.1 the filing of FIR No.20/2018 and the subsequent
+
+filing of the Ex.P.8 charge sheet corroborated the with evidence of
+
+PW.1. the material on record was sufficient to establish that the rider
+
+of offending vehicle was negligent.
+</p>
+<p id="p_18">
+
+</p><p id="p_19">     11) To counter the evidence of PW.1, the Respondent no.1 and
+
+2 have not adduced any evidence on its behalf. The respondent no.1
+
+has filed application U/s 170 B of M.V.Act.
+</p>
+<p id="p_20">
+
+</p><p id="p_21">     12) PW.1 has also been cross - examined in all aspects, but
+
+since he is not an eyewitness to this accident, his evidence is not
+
+helpful regarding proof of negligence is concerned. But the contents
+
+of Police records clearly indicates that, this accident was due to
+ SCCH - 11                        10                  MVC 584/2018
+
+negligent riding   by the rider of the offending motor cycle bearing
+
+reg.No.KA­51­EM­1851. Hence Issue No.1 answered in Affirmative.
+
+
+
+</p><p id="p_22">     13) ISSUE No.2 ; In order to prove that, petitioners are the
+
+legal representatives of the deceased Srinivasa.G they have produced
+
+Ex.P.9 - ration card, Ex.P.10 Aadhar card of Petitioner No.1, Ex.P.11
+
+Aadhar card of Petitioner No.2, Ex.P.12 Aadhar card of Petitioner
+
+No.3 and Ex.P.13 - Aadhar card of deceased which clearly discloses
+
+the relationship of petitioners with deceased Srinivasa.G and
+
+moreover the respondent also not disputed the relationship hence
+
+relationship between petitioners and deceased not much disputed.
+
+
+</p><p id="p_23">        14)   Next remains the question regarding quantum of
+
+compensation that has to be awarded. Since this is a case of death,
+
+the age, income of deceased, number of dependents needs to be
+
+considered. As admitted by PW.1 deceased Srinivasa.G was aged 36
+
+years at the time of his death. As per Ex.P.7 - PM report deceased
+
+was aged about 36 years. Hence, without any other go, this court
+
+has to consider the age of the deceased as 36 years, which shows
+
+that at the time of accident deceased was 36 years old. It has come
+ SCCH - 11                          11                 MVC 584/2018
+
+in the evidence of PW.1 that, the deceased was working as Ostrich
+
+Mobility Instruments Pvt Ltd., as a technician and earning
+
+Rs.16,459/­ per month. In this regard Petitioners have produced
+
+Ex.P.14 - employment I.D card of deceased, Ex.P.15 - 2 pay slips.
+
+Moreover Petitioners have also examined Accountant, Ostrich
+
+Mobility Instrument Pvt. Ltd., Bengaluru as PW.2. During cross
+
+examination by the Learned Counsel for respondent No.2 PW.2
+
+admitted that, their company having accidental insurance policy in
+
+Star health insurance and they have paid compensation of
+
+Rs.10,50,000/­ to the deceased's family.      Further admitted that,
+
+premium amount for the policy was paid by the company and was
+
+not deducted in the salary of employee. It shows that, the petitioners
+
+have received Rs.10,50,000/­ from Ostrich Mobility Instrument Pvt,
+
+Ltd.,
+
+</p><p id="p_24">        15)   However, considering the nature of avocation and age of
+
+the deceased, I constrain to assess the income of the deceased at
+
+Rs.16,459/­ per month. Hence, considering the date of accident, to
+
+assess the loss of dependency this court is taken income of the
+
+deceased at Rs.16,459/­ per month.
+</p><pre id="pre_3"> SCCH - 11                         12                   MVC 584/2018
+
+    16)      As per Post Mortem Report at Ex.P.7 the age of the
+
+</pre><p id="p_25">deceased was 36 years. Hence, the age of deceased is considered as
+
+36 years to assess loss of dependency, the proper multiplier would
+
+be 15 as per Sarla Verma Case. Petitioner No.1 and 2 have lost their
+
+son at their old age, Petitioner No.3 has lost their brother. Under the
+
+circumstances as per the Decision reported in Supreme court of
+
+India in Special Leave Petition (Civil) No.25590 of 2014, (National
+
+Insurance Company Limited V/s Pranay Sethi and Others), it is just
+
+and reasonable to award Rs.15,000/­ each under the heads of loss
+
+of estate and funeral expenses respectively.
+</p>
+<p id="p_26">
+</p><p id="p_27">       17)      Income of the deceased is already considered as
+
+Rs.16,459/­ per month. If 40% is added towards future prospectus
+
+to the income of the deceased it would comes at Rs.23,043/­
+
+(Rs.16,459/­ + Rs.6,584/­). Petitioner No.3 is major hence, Petitioner
+
+No.3 is not considered as dependant, only the Petitioner No.1 and 2
+
+being the parents of deceased Srinivasa.G is considered as the
+
+dependants. Hence, if 1/3rd is deducted out of Rs.23,043/­ then it
+
+would comes to Rs.15,362/­ per month (Rs.23,043/­ - Rs.7,681/­).
+</p><p id="p_28"> SCCH - 11                          13                  MVC 584/2018
+
+Since the deceased was aged about 36 years, the proper multiplier
+
+would be 15 as per the ruling reported in: 2009 ACJ 1298 Sarala
+
+Varma Vs. Delhi Transport Corporation. So, the loss of dependency
+
+would be Rs.15,362 x 12 X 15 = Rs.27,65,160/­.</p><pre id="pre_4">
+
+
+     18)     Hence, the petitioners are entitled for total compensation
+
+under different heads as below:­
+
+     1      For loss of Estate               Rs.    15,000/­
+     2      For funeral Expenses             Rs.    15,000/­
+     3      For Loss of Dependency           Rs.27,65,160/­
+                  Total                      Rs.27,95,160/­
+
+
+
+     19)      Coming to the question of fixing the liability to pay the
+
+</pre><p id="p_29">compensation to the petitioner, Petitioner proves that the accident
+
+occurred due to negligent riding of the rider of offending motor cycle.
+
+When the accident occurred due the rash and negligent riding of the
+
+offending vehicle which belongs to second respondent and first
+
+respondent being the insurer are both jointly and severally liable to
+
+pay the compensation of Rs.27,95,160/­ to the petitioners with
+
+interest at the rate of 9% per annum from the date of petition till its
+ SCCH - 11                            14                  MVC 584/2018
+
+realization. But as admitted by petitioner already they have received
+
+Rs.10,50,000/­ from Ostrich Mobility Instrument Pvt. Ltd., Hence,
+
+the petitioners are entitled for compensation of Rs.17,45,160/­.
+
+Accordingly Issue no.2 is answered in partly affirmative.
+
+
+</p><p id="p_30">     20)    ISSUE No.3: On the basis of discussions made on issue
+
+no.1 and 2, I proceed to pass the following:
+</p>
+<p id="p_31">
+</p><p id="p_32">                                ORDER
+
+        Petition filed by the petitioners u/s 166 of <a href="/doc/785258/" id="a_7">Motor Vehicles Act</a> is
+   hereby partly allowed with costs.
+</p>
+<p id="p_33">       Accordingly, a sum of Rs.27,95,160/­ is awarded to the
+   petitioners as compensation with interest at the rate of 9% p.a from
+   the date of petition till the date of realization.
+
+       Respondent No.1 and 2 are jointly and severally liable to pay
+   the compensation to the petitioners.
+</p>
+<p id="p_34">        The Respondent No.1 shall deposit the compensation amount
+   within 30 days from the date of this order.
+</p>
+<p id="p_35">
+</p><p id="p_36">        In the event of deposit of the said compensation amount,
+   Rs.27,95,160/­ shall be apportioned in favour of petitioner No.1
+ SCCH - 11                           15                   MVC 584/2018
+
+   and 2 in the ratio of 40:60 respectively.
+</p>
+<p id="p_37">         Out of compensation amount apportioned in favour of petitioner
+   No.1 and 2, 50% shall be deposited in the name of petitioner No.1
+   and 2 for a period of 3 years in any nationalized bank or
+   scheduled bank and the remaining 50% shall be released in favour
+   of petitioner No.1 and 2 on their proper identification.
+
+</p><p id="p_38">         Advocate fee is fixed at Rs.1,000/­.
+</p>
+<p id="p_39">         Office to draw award accordingly.
+</p>
+<p id="p_40">(Dictated to the stenographer directly on computer, corrected and
+pronounced by me in open court on this 27th day of April, 2019.)
+
+
+                                  (B.S.RAYANNAWAR)
+                  I ADDL.SMALL CAUSES JUDGE &amp; XXVII ACMM
+
+                            ANNEXURE
+WITNESSES EXAMINED FOR PETITIONERS:
+</p>
+<pre id="pre_5">PW.1 ­      Muthuraja @ Muthu
+PW.2 ­      Naveen
+
+DOCUMENTS MARKED FOR PETITIONERS:
+
+Ex.P1         FIR
+Ex.P2         Complaint
+Ex.P3         Mahazar
+Ex.P4         Sketch
+Ex.P5         IMV report
+Ex.P6         Inquest
+Ex.P7         PM report
+ SCCH - 11                       16                  MVC 584/2018
+
+Ex.P8       Charge sheet
+Ex.P9       Notarised copy of Ration card
+Ex.P10      Notarised copy of Aadhar card of Petitioner No.1
+Ex.P11      Notarised copy of Aadhar card of Petitioner No.2
+Ex.P12      Notarised copy of my Aadhar card
+Ex.P13      Notarised copy of Aadhar card of deceased
+Ex.P14      Notarised copy of Employment I.D. card of deceased
+Ex.P15      2 Pay slips
+Ex.P16      Paper publication bill for Rs.1500/­
+Ex.P17      Notarised copy of Order in MC 14/2012.
+Ex.P18      Attendance register extract
+Ex.P19      5 pay slips
+Ex.P20      Appointment letter with wages extract
+
+
+WITNESSES EXAMINED FOR RESPONDENTS:
+
+NIL
+
+DOCUMENTS MARKED FOR RESPONDENTS:
+NIL
+
+
+
+                                     I ADDL. SCJ. &amp; MACT.
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

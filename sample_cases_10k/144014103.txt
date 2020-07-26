@@ -1,0 +1,333 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . on 2 September, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/144014103/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/144014103/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/144014103/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20376/511%20ipc">section 376/511 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=376%20%2C511%20ipc">376 ,511 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=376/511%20indian%20penal%20code">376/511 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=376/511%20of%20i.p.c">376/511 of i.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20511">ipc 511</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=511%20of%20indian%20penal%20code">511 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=376/511">376/511</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tilak">tilak</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=urmila">urmila</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhatnagar">bhatnagar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=511">511</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=376">376</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . on 2 September, 2008</div><div class="doc_author">Author: Sh. Rajnish Bhatnagar</div>
+
+<pre id="pre_1">                                     1
+
+             IN THE COURT OF SH. RAJNISH BHATNAGAR
+        ADDL. SESSIONS JUDGE : ROHINI COURTS : DELHI
+
+
+IN RE :                     Sessions Case No. : 334/2007
+                            FIR No. : 214/2007
+                            P.S.     : Tilak Nagar
+                            U/s : 376/511 <a href="/doc/1569253/" id="a_1">IPC</a>
+                            Date of registration : 31-8-2007
+                            Reserved for Judgment on : 2-9-2008
+                            Judgment Announced on : 2-9-2008
+
+            State
+
+
+             Vs.
+
+
+Ashok Kumar S/o Jhangir
+R/o House No. A-398,
+IInd Floor, Chaukhandi,
+Tilak Nagar, New Delhi.
+
+
+JUDGMENT
+</pre>
+<p id="p_1">1.            As per the case of the prosecution on 25-3-2007, at
+
+     about 2:00 p.m the complainant who is the mother of the
+
+     prosecutrix went to take her daughter (prosecutrix) aged
+
+     around 6 years who was playing at the third floor of the
+
+     house where they used to live as a tenant.     The prosecutrix
+
+     was playing with a boy named Nikhil who used to live in their
+
+     adjacent room.   When the complainant        reached the third
+
+                                                            Contd....
+</p><span class="hidden_text" id="span_1">                                      2</span><p id="p_2">
+
+     floor, she heard the cries of her daughter (prosecutrix)
+
+     coming from the room of accused Ashok.           Complainant
+
+     opened the door and found that accused had removed the
+
+     panty of her daughter (prosecutrix)      and was trying      to
+
+     commit rape upon her daughter (prosecutrix). Complainant
+
+     raised an alarm. Many persons from the neighbourhood
+
+     gathered there, accused Ashok was overpowered and police
+
+     was informed accordingly.
+</p>
+<p id="p_3">2.           FIR bearing No. 214/2007 was registered at P.S. Tilak
+
+     Nagar    and investigation went underway. After completion
+
+     of investigation final report U/s 173 <a href="/doc/445276/" id="a_2">Cr.P.C</a> was prepared and
+
+     was filed in the court of Metropolitan Magistrate who after
+
+     completing all the formalities committed the case to the court
+
+     of sessions for trial.
+</p>
+<p id="p_4">3.             After hearing the arguments on charge a primafacie
+
+     case was made out to try the accused for the offence U/s
+
+     376/511 <a href="/doc/1569253/" id="a_3">IPC</a>. Accordingly, charge U/s 376/511 <a href="/doc/1569253/" id="a_4">IPC</a>          was
+
+     framed against the accused to which he pleaded not guilty
+
+     and claimed trial.
+</p>
+<p id="p_5">                                                            Contd....
+</p><span class="hidden_text" id="span_2">                                       3</span><p id="p_6">
+
+</p><p id="p_7">4.             In the instant case, in order to prove its case, the
+
+     prosecution examined only one witness Kiran as (PW 1) who
+
+     was the neighbour of the complainant. She has not supported
+
+     the case of the prosecution and turned hostile and nothing
+
+     material could be extracted from her cross examination by
+
+     the Ld. APP.
+</p>
+<p id="p_8">5.              The material witnesses in this case are the
+
+     prosecutrix and her mother Urmila, but the prosecution
+
+     has failed to examine both these material witnesses as
+
+     they were untraceable.
+</p>
+<p id="p_9">6.             Various opportunities were given to the prosecution
+
+     to produce the prosecutrix and her mother Urmila but to no
+
+     effect. Statement of ASI Satpal (IO) has been recorded to
+
+     this effect, who deposed that despite his best efforts both
+
+     the said material witnesses could not be traced.
+
+</p><p id="p_10">7.             As the prosecution has failed to produce the said
+
+     material witnesses, the prosecution evidence was closed. As
+
+     nothing     incriminating has come on record against the
+
+     accused, his statement U/s 313 <a href="/doc/445276/" id="a_5">Cr.P.C</a>. was also dispensed
+
+                                                            Contd....
+</p><span class="hidden_text" id="span_3">                                       4</span><p id="p_11">
+
+     with.
+</p>
+<p id="p_12">8.           I have heard the Ld.      APP for the state and the
+
+     counsel for the accused.
+</p>
+<p id="p_13">9.           The prosecution has failed to examine the material
+
+     witnesses i.e. prosecutrix and her mother Urmila as a result
+
+     of which the prosecution has failed to prove its case.
+
+</p><p id="p_14">10.          In view of the discussions herein above and in view of
+
+     the fact that the the prosecution has failed to examine the
+
+     material witnesses as a result of which nothing incriminating
+
+     came on record against the accused, so the prosecution has
+
+     failed to prove the charge against the accused. The accused is,
+
+     therefore, acquitted.   File be consigned to Record Room.
+
+     (Announced in the open Court on 2-9-2008)
+
+                                 RAJNISH BHATNAGAR
+                       ADDL. SESSIONS JUDGE : ROHINI: DELHI
+
+
+
+
+                                                              Contd....
+</p><span class="hidden_text" id="span_4"> 5</span><p id="p_15">
+
+
+
+
+    Contd....
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

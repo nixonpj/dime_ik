@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In The Matter Of Validation Of A ... vs Unknown on 28 March, 1955</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/758890/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:758890">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/74910796/">The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/30073236/">Section 2 in The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/29392070/">Section 41 in The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/51264169/">Section 31 in The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/41042021/">Section 32 in The Indian Stamp Act, 1899</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/758890/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/758890/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=stamp%20act">stamp act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chettiar">chettiar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=impound">impound</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2041">section 41</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2042">section 42</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%2032">sec 32</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=produce%20some%20document">produce some document</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2040%20">section 40 </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">In The Matter Of Validation Of A ... vs Unknown on 28 March, 1955</div><div class="doc_citations">Equivalent citations: AIR 1955 Mad 652</div>
+
+<div class="doc_author">Author: Rajamannar</div>
+
+<div class="doc_bench">Bench: Rajamannar, Rajagopalan, R Ayyangar</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ Rajamannar, C.J. 
+</p>
+ 
+
+<p id="p_2"> 1. The questions referred to us under Section 57, <a href="/doc/74910796/" id="a_1">Stamp Act</a> by the Board of Revenue in this case are : 
+</p>   
+
+<p id="p_3"> 1. Whether the document in question is a promissory note or a bond within the meaning of <a href="/doc/30073236/" id="a_2">Section 2</a> (5) (b), <a href="/doc/74910796/" id="a_3">Stamp Act</a> ? 
+</p> 
+
+<p id="p_4"> 2. If the document is a bond, it not having been produced within one year from the date of its execution as required by <a href="/doc/29392070/" id="a_4">Section 41</a>, <a href="/doc/74910796/" id="a_5">Stamp Act</a>, whether the Collector has jurisdiction to proceed under Ss. 41 and 42, <a href="/doc/74910796/" id="a_6">Stamp Act</a> and issue a certificate.  
+</p> 
+
+<p id="p_5"> 2. The document in   question dated 14-6-1947 runs as follows ; 
+</p>
+   
+
+<p id="p_6"> "Promissory note executed on 14-6-1947 in favour of Arunachala Chettiar, son of Kolakkara Chettiar, residing at Palappudi Village, hamlet of Sathyamangammal, Gingi taluk by Kuppuswami Chettiar, son of Venkatachala Chettiar, residing at the aforesaid village. In respect of the sum received from you at Tiruvannamalai by me in the year 1943 and given for opening a javuli shop by T. Arunachala Iyer the sum found due to you is Rs. 3000. As this sum of rupees three thousand had to be paid to you, I shall pay the same together with interest at Re. 0-4-0 per month per Rs. 100 in six equal instalments, and discharge the same. To this effect is the promissory note executed by me with my consent. 
+</p> 
+
+<p id="p_7"> V. Kuppuswami Chettiar",  
+ 
+
+ The document is attested by one witness and bears six one anna revenue stamps. 
+</p> 
+
+<p id="p_8"> 3. The first question turns on the application of the defiditions of "promissory note" and "bond" under <a href="/doc/30073236/" id="a_7">Section 2</a> (22) and (5), <a href="/doc/74910796/" id="a_8">Stamp Act</a>. <a href="/doc/30073236/" id="a_9">Section 2</a> (22) says "Promissory note means a promissory note as defined by the <a href="/doc/1132672/" id="a_10">Negotiable Instruments Act</a>, 1881 (26 of 1881)." <a href="/doc/32197386/" id="a_11">Section 4</a>, <a href="/doc/1132672/" id="a_12">Negotiable Instruments Act</a> defines a promissory note , thus : 
+</p><p id="p_9">  "A 'promissory note' is an instrument in writing (not being a bank note or a currency note) containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the Order of, a certain person, or to the bearer of the Instrument." 
+</p> 
+
+<p id="p_10"> 4. The learned Government Pleader adverted to the omission in the document of the expression "to the order of". We do not think that mere omission of any such expression would render the document any the less a promissory note, if otherwise it fulfilled the terms of the definition. Actually a promissory note need not contain this expression. It is sufficient if there is an unconditional undertaking to pay a certain sum of money to a certain person. On a reading of the document it is clear that there is an undertaking to pay to a certain person. 
+</p> 
+
+<p id="p_11"> 5. We, however, are of opinion that the document in question is not a promissory note, because there is no unconditional undertaking to pay a certain sum of money. The document provides that the sum of Rs. 3000 had to be paid together with interest at 4 annas per month per Rs. 100 in six equal instalments. There is no mention or indication of the date on which the instalments fall due. The result is that on any given date it is impossible to say that a certain sum of money is payable. The document does not even specify when the first instalment falls due. We therefore hold that the document in question is not a promissory note as defined in <a href="/doc/32197386/" id="a_13">Section 4</a>, <a href="/doc/1132672/" id="a_14">Negotiable Instruments Act</a>, and, therefore, not a promissory note within the meaning of <a href="/doc/30073236/" id="a_15">Section 2</a> (22), <a href="/doc/74910796/" id="a_16">Stamp Act</a>. We are further of opinion that the document in question clearly falls within the definition of "bond" in <a href="/doc/30073236/" id="a_17">Section 2</a> (5) (b), <a href="/doc/74910796/" id="a_18">Stamp Act</a>, namely, an instrument attested by a witness and not payable to order or hearer, whereby a person obliges himself to pay money to another. The instrument is attested by a witness. It is not payable to order or bearer and by the instrument a person has obliged himself to pay money to another. The Board of Revenue took the same view, namely, that the instrument was a bond. 
+</p> 
+
+<p id="p_12"> 6. For a disposal of the second question it is necessary to state a few facts. Arunachalam Chettiar in whose favour the document was executed produced the document before the Sub-Collector, Tindivanam, On 27-10-1950, along with a petition purporting to be under Ss. 31 and 32, <a href="/doc/74910796/" id="a_19">Stamp Act</a>. The Sub-Collector impounded the document holding that the document was a bond within the meaning of <a href="/doc/30073236/" id="a_20">Section 2</a> (5), <a href="/doc/74910796/" id="a_21">Stamp Act</a>, collected the stamp duty of Rs. 5 and penalty of Rs. 45 and issued a certificate under <a href="/doc/19487988/" id="a_22">Section 42</a>, <a href="/doc/74910796/" id="a_23">Stamp Act</a>. It was contended on behalf of the executant of the document that the Collector had no jurisdiction to act under <a href="/doc/19487988/" id="a_24">Section 42</a> of the Act. That section runs as follows : 
+</p>   
+
+<p id="p_13"> 1. "When the duty and penalty (if any) leviable in respect of an instrument have been paid under <a href="/doc/176042882/" id="a_25">Section 35</a>, <a href="/doc/20856670/" id="a_26">Section 40</a> or <a href="/doc/29392070/" id="a_27">Section 41</a>, the person admitting such instrument in evidence of the Collector, as tile case may be, shall certify by endorsement thereon that the' proper duty or, as the case may be, the proper duty and penalty (stating the amount of each) have been levied in respect there of and the name and residence of the person paying them. 
+</p> 
+
+<p id="p_14"> 2. Every instrument so endorsed shall thereupon be admissible in evidence, and may he registered and acted upon and authenticated as if it had been duly stamped, and shall be delivered on his application in this behalf to the person from whose possession it came into the hands of the officer impounding it, or as such person may direct....."  
+</p> 
+
+<p id="p_15"> As the Collector acted under <a href="/doc/61287904/" id="a_28">Section 33</a> read with <a href="/doc/20856670/" id="a_29">Section 40</a> of the Act, the case clearly fell within <a href="/doc/19487988/" id="a_30">Section 42</a>. The contention, however, on behalf of the executant was two-fold : (1) that the instrument was produced before the Collector after the lapse of one year from the date of its execution and therefore the Collector could not take any action under <a href="/doc/29392070/" id="a_31">Section 41</a> of the Act, and (2) that the document was produced along with an application under <a href="/doc/51264169/" id="a_32">Sections 31</a> and <a href="/doc/41042021/" id="a_33">32</a> of the Act and when a document is so produced, the Collector has no jurisdiction to impound it and proceed under Ss. 33 and 40 of the Act, We see no substance in either contention. <a href="/doc/29392070/" id="a_34">Section 41</a> no doubt provides for the production of a document by a party of his own motion within one year of the date of its execution and such person bringing to the notice of the Collector tile fact that this instrument is not duly stamped and offering to pay the proper amount of duty. There was no scope for the application of this section in this case. For one thing the production was long after one year from the date of the execution of the instrument and further there was no-attempt, to satisfy the Collector that the omission to duly stamp it was occasioned by accident, mistake or urgent necessity. The time limit of one year laid down by this section only applies when a party of his own motion produces the document and wants to escape liability for any penalty. It has no application to the present case. 
+</p> 
+
+<p id="p_16"> 7. From the facts set out in the reference by the Board of Revenue it no doubt appears that the document was produced along with an application under Ss. 31 and 32, <a href="/doc/74910796/" id="a_35">Stamp Act</a>.   Obviously, the application was not maintainable under those sections, because the instrument was produced after the expiration of one  month from the date of   its   execution (vide <a href="/doc/41042021/" id="a_36">Section 32</a> (3)).   Be that as  it  may,  the document  was produced before the Collector, who was certainly a person in charge of a public office within the meaning of <a href="/doc/61287904/" id="a_37">Section 33</a> (1) of the Act.  Once it is produced before him, or comes  to  him in the performance of his functions,  then  he  is  not only  empowered, but is under a duty to impound the document, if it appears to him that it has not been duly stamped and that is what the Collector did in this case.   Learned counsel relied upon the decision of the Allahabad High Court in <a href="/doc/1617004/" id="a_38">Chunni Lal v. Board of Revenue, U. P.,  (A</a>), as supporting his  second contention. There the learned Judges held that when an instrument is presented to the  Collector under  <a href="/doc/51264169/" id="a_39">Sections  31</a> and <a href="/doc/41042021/" id="a_40">32</a> for his opinion as to the duty chargeable upon it, he   is  not  authorised  to impound the document forthwith, if he comes to the decision that the instrument is not sufficiently stamped.   He has to act in accordance with the provisions of <a href="/doc/41042021/" id="a_41">Section 32</a>. The application  made under <a href="/doc/51264169/" id="a_42">Section 31</a>  of the Act was within the prescribed time and was a valid application under that section.   As  <a href="/doc/41042021/" id="a_43">Section   32</a> clearly  lays  down   what is incumbent on the Collector when  an   application under <a href="/doc/51264169/" id="a_44">Section 31</a> is presented to him, it is obvious that the Collector cannot Omit to carry out the duties therein specified and proceed to act under <a href="/doc/61287904/" id="a_45">Section 33</a>. We do not understand this decision to be an authority for the position that when an obviously belated-and unsustainable application under <a href="/doc/51264169/" id="a_46">Section 31</a>, <a href="/doc/74910796/" id="a_47">Stamp Act</a> is made to the Collector, he has no jurisdiction to impound the document under <a href="/doc/61287904/" id="a_48">Section 33</a> of the Act. If the learned Judges meant to lay down this proposition, with great respect to them we are unable to agree with them. 
+</p> 
+
+<p id="p_17"> 8. Our answer to the second question is that <a href="/doc/29392070/" id="a_49">Section 41</a>, <a href="/doc/74910796/" id="a_50">Stamp Act</a> has no application to this case, and the Collector had ample jurisdiction to act under <a href="/doc/19487988/" id="a_51">Section 42</a>, <a href="/doc/74910796/" id="a_52">Stamp Act</a> read with <a href="/doc/61287904/" id="a_53">Sections 33</a> and <a href="/doc/20856670/" id="a_54">40</a> of the same. 
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

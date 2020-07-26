@@ -1,0 +1,437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Damodar Ganesh And Ors. vs State on 15 February, 1951</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1066157/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 24 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1066157">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/258943/">The Criminal Law Amendment Act,   1961</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1218090/">Article 19 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1597624/">Section 1 in The Criminal Law Amendment Act,   1961</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1596533/">The Amending Act,   1897</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1217564/">1340 Shri Chintaman Rao &amp; Another vs The State Of Madhya Pradesh on 18 February, 1958</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 6 docs
+      
+        - [<A HREF="/search/?formInput=citedby:1066157">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/741017/">Kerala Vyapari Vavasayi Ekopana ... vs State Of Kerala And Ors. on 1 June, 2000</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1390407/">Central Bureau Of Investigation vs Unknown on 30 September, 2009</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/332698/">Raj Narain vs State on 16 August, 1960</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1517403/">Harihar Das And Ors. vs State on 21 January, 1966</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1768044/">Ankil Behera And Ors. vs State on 21 January, 1966</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1066157/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1066157/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=picketing">picketing</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=the%20criminal%20law%20%28amendment%29%20act">the criminal law (amendment) act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law%20amendment%20act">criminal law amendment act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law%20amendment">criminal law amendment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law">criminal law</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reasonable%20restriction">reasonable restriction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law%20act">criminal law act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2019%20%281%29%20%28a%29%20citedby%3A1378441">article 19 (1) (a) citedby:1378441</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2019%201%20a%20%20%20%20filter%3A%20%20%20%20indian%20law%20%20">article 19 1 a    filter:    indian law  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=right%20to%20freedom">right to freedom</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20act">criminal act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=illegal%20strike">illegal strike</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20amendment%20act%20section%207">criminal amendment act section 7</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=freedom%20of%20movement">freedom of movement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=repealing%20of%20an%20act">repealing of an act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=police%20power">police power</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=freedom%20of%20speech">freedom of speech</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=right%20to%20move%20freely">right to move freely</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2019%286%29">article 19(6)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=out%20of%20territory%20of%20india">out of territory of india</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Damodar Ganesh And Ors. vs State on 15 February, 1951</div><div class="doc_citations">Equivalent citations: AIR 1951 Bom 459, (1951) 53 BOMLR 739, 1953 CriLJ 37</div>
+
+<div class="doc_author">Author: Rajadhyaksha</div>
+
+<div class="doc_bench">Bench: Rajadhyaksha, Vyas</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+Rajadhyaksha, J.  
+</p> 
+
+<p id="p_2"> 1. These applications and appeal No. 704 of 1950 have been made by petitioners who have been convicted under Section 7 of the Criminal Law Amendment Act XXIII [23] of 1932.  
+</p> 
+
+<p id="p_3"> 2. The facts in all cases are almost identical, and there is no dispute about them. In August 1950, there was a dispute between the Bombay Millowners Association on the one hand and the employees of the various member mills on the other, with respect to the bonus for the year
+1949. The  matter was   taken   to  the Industrial Court, Bombay, and it gave an award on 7th July
+1950. Against that award the Millowners Association filed an appeal to the Appellate Tribunal on 9th August 1950. This Tribunal was constituted under the Industrial Disputes (Appellate Tribunal) Act of 1950. During the pendency of the appeal before the Appellate Tribunal, the employees of the various mills commenced a strike on 14th August 1950. On 16th August the petitioners went near the mills, and having posted themselves near the gates of the mills, distributed leaflets to the workers. It has been found as a matter of fact that the petitioners did not intimidate any workers, but were merely distributing leaflets and loitering near the mills. It has further been found that they were behaving in such a manner that their acts were sufficient to deter the workers from going to work. Thereupon, all these petitioners were arrested for having committed an offence under <a href="/doc/258943/" id="a_1">Section 7</a> of the Criminal Law Amendment Act of 1932. All of them were put up for trial before the learned Presidency Magistrate, 4th Court, Girgaum. Several legal contentions were raised particularly with regard to the validity of the <a href="/doc/258943/" id="a_2">Criminal Law Amendment Act</a> of 1932 and also as to whether on the facts found, they could properly be convicted under <a href="/doc/258943/" id="a_3">Section 7</a> of that Act. The learned Presidency Magistrate rejected all the contentions and convicted the petitioners under <a href="/doc/258943/" id="a_4">Section 7</a> of the Act and sentenced them to undergo rigorous imprisonment for three months. The appellant in criminal Appeal No. 704 of 1950 was sentenced to pay a fine of Rs. 500. Against those orders this appeal and these applications in revision have been filed.  
+</p> 
+
+<p id="p_4"> 3. Mr. Vyas has raised four contentions in support of the petitioners' case. His first contention is that the <a href="/doc/258943/" id="a_5">Criminal Law Amendment Act</a> was not in force at the time when this offence was committed. Secondly, it is argued that the Act is not a valid piece of legislation. Thirdly, it is contended that the provisions contained in <a href="/doc/258943/" id="a_6">Section 7</a> of the Act are contrary to <a href="/doc/1378441/" id="a_7">Article 19(1)(a)</a> and <a href="/doc/768566/" id="a_8">(1) (d)</a> of the Constitution and therefore void under <a href="/doc/1010805/" id="a_9">Article 13(1)</a> of the Constitution. And, lastly, it is submitted that the section
+
+under which the petitioners have been convicted viz. <a href="/doc/258943/" id="a_10">Section 7(b)</a> of the Act, does not apply to the facts of these cases.  
+</p> 
+
+<p id="p_5"> 4. So far as the first contention is concerned, the argument is this. <a href="/doc/258943/" id="a_11">When the Criminal Law Amendment Act</a> (XXIII [23] of 1932) was passed in the year 1932, it contained Sub-section (3) to <a href="/doc/1597624/" id="a_12">Section 1</a> to the effect that the Act would remain in force for three years from its commencement. <a href="/doc/258943/" id="a_13">The Act</a> received the assent of the Governor-General on 19th December 1932, and would therefore have remained in force till 18th December 1935. A bill to amend that Act, one of the provisions of which would have had the effect of deleting Sub-section (3) of <a href="/doc/1597624/" id="a_14">Section 1</a> of the Act and thus placing the enactment permanently on the statute book, was rejected by the then Legislative Assembly on 12th September 1935. It was sent back to the Assembly on 16th September 1935, with a recommendation of the Governor General. The Bill was again rejected by the Assembly on the same day. The Bill was, however, certified by the Governor-General on 4th October 1935 and became a Governor-General's Act on 17th December 1935, i.e. one day prior to the date on which the Act would otherwise have expired. Then this Governor-General's Act was itself repealed by the Eepealing and <a href="/doc/1596533/" id="a_15">Amending Act</a> xx [20] of 1937. It is therefore argued that the repeal by Act xx [20] of 1937 of the <a href="/doc/1596533/" id="a_16">Amending Act</a> of 1935 had the effect of reviving sub Section (3) of <a href="/doc/1597624/" id="a_17">Section 1</a> of the 1932 Act, with the result that the life of the original Act was again restricted to three years and that therefore the Act was not in force in 1948. Mr. Vyas has cited several English and American authorities in support of this contention. The English authorities cited by him were of the years 1829 and 1830 and were prior to the Interpretation Act of 1850. Under Section 11 of the Interpretation Act of 1889, when an Act repealing, in whole or in part, a former Act, is itself repealed, the last repeal does not revive the Act or provisions before repealed unless words be added reviving them. See Maxwell's "Interpretation of Statutes" (Ninth Edition), p. 403. But we do not think it necessary to go to English or American authorities for ascertaining the real effect of the <a href="/doc/1170410/" id="a_18">Repealing Act</a> of 1937. <a href="/doc/72873/" id="a_19">Section 6-A</a> of the General Clauses Act, X [10] of 1897, clearly lays down that:  
+</p><p id="p_6">  "Where any <a href="/doc/110162683/" id="a_20">Central Act</a> or Regulation made after the commencement of this Act, repeals any enactment by which the text of any <a href="/doc/110162683/" id="a_21">Central Act</a> or Regulation was amended by the express omission, insertion or substitution of any matter, then unless a different intention appears, the repeal shall not affect the continuance of any such amendment made by the enactment so repealed and in operation at the time of such repeal."  
+</p> 
+
+<p id="p_7"> This <a href="/doc/258943/" id="a_22">Section 6A</a> was inserted in the <a href="/doc/905940/" id="a_23">General Clauses Act</a> X [10] of 1897 by an <a href="/doc/1596533/" id="a_24">Amending Act</a> XIX [19] of 1936. That section therefore was in operation when the Eepealing Act of 1937 was passed. According to that section, therefore, the repeal of 1935 Act shall not affect the continuance of any amendment made by that Act and in operation at the time of the repeal of that Act. The amendment by the deletion of Sub-section (3) of <a href="/doc/1597624/" id="a_25">Section 1</a> was in operation when the 1935 Act was repealed in 1937, and unless a different intention appeared in the Eepealing Act, the amendment made in the original Act continues to have operation. This was the view taken by the Madras High Court in In re Arunagirinatha I. L. B. (1939) Mad. 87 where this very contention was raised. It was held by the learned Judges that the Act of 1932 had not been repealed in its entirety. Section 4 of the Eepealing and <a href="/doc/1596533/" id="a_26">Amending Act</a> (xx [20] of 1937), and <a href="/doc/258943/" id="a_27">Section 6A</a> inserted in the <a href="/doc/905940/" id="a_28">General Clauses Act</a> by Act XIX [19] of 1935 left the <a href="/doc/258943/" id="a_29">Criminal Law Amendment Act</a> of 1932, so far as <a href="/doc/258943/" id="a_30">Section 7</a> was concerned, intact. We do not, therefore, think that there is any force in the first submission made by Mr. Vyas.  
+</p> 
+
+<p id="p_8"> 5. The second submission made by Mr. Vyas is based on Sub-section (2) of Section 67B of the Government of India Act. Under that sub-section, 
+  "Every such Act shall be expressed to be made by the Governor-General, and shall, as soon as practicable after being made, be laid before both Houses of Parliament, and shall not have effect until it has received His Majesty's assent, and shall not be presented for His Majesty's assent until copies thereof have been laid before each House of Parliament for not less than eight days on which that House sat; and upon the signification of such assent by His Majesty in Council, and the notification thereof by the Governor-General, the Act shall have the same force and effect as an Act passed by the Indian legislature and duly assented to." 
+</p> 
+
+<p id="p_9"> It has been argued by Mr. Vyas that the Governor-General's Act of 1935 was not laid before each House of Parliament and there had been no signification of the assent of His Majesty in Council. But this argument overlooks the proviso to that section which enacts :  
+</p><p id="p_10">  "Provided that where in the opinion of the Governor-General a state of emergency exists which justifies such action, the Governor- General may direct that any such Act shall come into operation forthwith, and thereupon the Act shall have such force and effect as aforesaid, subject, however, to disallowance by His Majesty-in Council."  
+</p> 
+
+<p id="p_11"> On 17th December 1935, the Governor-General directed that owing to the existence of a state of emergency, the Act shall come into operation forthwith. Further, it has not been suggested that there has been any disallowance of the Act by His Majesty in Council. <a href="/doc/258943/" id="a_31">The Act</a>, therefore, had full force and effect as from 17th December 1935, as if it had been laid before each House of Parliament, and had received the assent of His Majesty in Council. This contention, which Mr. Vyas has submitted, was also raised in the Madras case referred to above and was rejected by the learned Judges. They held that the Act was not invalid on the ground Suggested. We therefore, see on force in this argument of the learned advocate also.  
+</p> 
+
+<pre id="pre_1"> 6. The   third   argument    advanced    by   the learned advocate is based on <a href="/doc/1218090/" id="a_32">Article 19</a>, Clauses (1) (a) and
+
+(i) (d) of the Constitution. Clause (1) (a) says "that all citizens shall have the right to freedom of speech and expression" and clause (1) (d) enacts that "all citizens shall have the right to move freely throughout the territory of 
+India". Clause (2) says that:  
+  'Nothing in Sub-clause (a) of Clause (1) shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to, libel, slander, defamation, contempt oi court or any matter which offends against decency or morality or which undermines the security of, or tends to overthrow, the State,"  
+ 
+
+ Clause (5) of the article is to the following effect:  
+  "Nothing in Sub-clauses (d), (e) and (f) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the Slate from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe."  
+ 
+
+</pre><p id="p_12"> The argument of the learned advocate is this. The action of the petitioners amounted to what he described as peaceful picketing and was merely the exercise of the fundamental rights of freedom of speech and expression and of right to move freely throughout the territory of India, and in so far as <a href="/doc/258943/" id="a_33">Section 7</a>, <a href="/doc/258943/" id="a_34">Criminal Law Amendment Act</a>, placed any restriction thereon, it was not covered by the provisions of Clause (a) and was not a reasonable restriction within the meaning of Clause (5) of <a href="/doc/1218090/" id="a_35">Article 19.</a>  
+</p> 
+
+<p id="p_13"> 7. The first point, therefore, to consider is whether peaceful picketing is made an offence by <a href="/doc/258943/" id="a_36">Section 7</a>, <a href="/doc/258943/" id="a_37">Criminal Law Amendment Act</a>. Picketing has been described as "the marching to and fro before the premises of an establishment involved in a dispute, generally accompanied by the carrying and display of a sign, placard or banner bearing statements in connection with the dispute". (See <a href="/doc/258943/" id="a_38">Section 109</a>, Labor Disputes and Collective Bargaining" Vol. 1 by Ludwig Teller). Such marching to and fro may sometimes be accompanied by a polite request asking persons in the employ of an establishment not to assist in the running of that establishment, or customers not to patronize that establishment. Such action would be covered by <a href="/doc/258943/" id="a_39">Section 7</a>, <a href="/doc/258943/" id="a_40">Criminal Law Amendment Act</a>. Leaving aside the words which import some idea of obstruction, violence or intimidation which are undoubtedly alien to any idea of peaceful picketing, but are also covered by <a href="/doc/258943/" id="a_41">Section 7</a>, the section would read as under :   
+</p>  
+
+<p id="p_14"> "(1) Whoever- 
+</p> 
+
+<p id="p_15"> (a) with intent to cause any person to abstain from doing or to do any act which such person has a right to do or to abstain from doing ..... loiters at or near a place where such parson or member of his family or a person in his employ resides or works or carries on business or happens to be, ..... or,  
+ 
+
+</p><p id="p_16"> (b) loiters or does any similar act at or near the place where a person carries on business, in such a way and with intent that any person may thereby be deterred from entering or approaching or dealing at such place,  
+ 
+
+ shall be punished with imprisonment for a term, etc."  
+</p>
+ 
+
+<p id="p_17"> The word "loiter", according to the Oxford Dictionary,  means  "moving about  with frequent pauses,  hanging about doing nothing" etc. Stationing  oneself at or  near the  gate of an establishment  and  doing  nothing  connected  with one's occupation  would,  we  think,  amount to hanging about  and thus constitute  "loitering" within the meaning of Clauses (a) and (b) of <a href="/doc/258943/" id="a_42">Section 7(1)</a> of the   Act.   Clause (b) of   <a href="/doc/258943/" id="a_43">Section 7(1)</a>  desaribes the intention  as that of  "deterring a person from entering or approaching or  dealing  at the place where a person carries on business." The use of the word "deter" suggests engendering some kind of  feeling  of fear  or fright in the person who wishes to enter or approach or deal at the place, and it is, therefore, possible to argue that peaceful picketing would not strictly be  covered by cl. (b) of <a href="/doc/258943/" id="a_44">Section 7(1)</a>. Even peaceful picketing,  as generally understood,  may engender a feeling  of fear or fright and thus deter a person from  entering or approaching any place of business, if it is carried on in a particular  way or  by  persons  of particular status, type, persuasion or  antecedents. In that  case such peaceful picketing  may also be covered   by   Clause (b) of   <a href="/doc/258943/" id="a_45">Section 7(1)</a>. But Clause (a) of  <a href="/doc/258943/" id="a_46">Section 7(1)</a> has a wider  import  and  merely  says that a person who  loiters  at or  near a place where a person resides, works or carries on business with intent to cause any person to abstain from doing or to do any  act  which a person has a right to do or to abstain from doing, commits an offence. In either case,  the  offence   consists of loitering] at specified   places with a particular intent--under Clause (a) the intention is to cause person to abstain! from doing a thing which such person is entitled to do, and under Clause (b) the intention is to deter a person from entering, approaching and dealing at such places.  It  will be  noticed that in both cases, no overt act other than that of loitering is necessary to constitute an offence.   It would be a matter   of evidence  whether the   "loitering" is with  specified intention  or  not. It  affects the proof of intention and such  intention may have to be  proved   either by  words  uttered,  leaflets distributed or gestures adopted., It may  also be proved, not by anything done or said at the time of loitering, but by speeches made or exhortations given long before such loitering. But the section, as it stands, requires, apart from the mental state signified by the word "intention",  nothing   more than "loitering" so far as Clause (a) is concerned, and "loitering in a particular way" so far  as   Clause   (b goes. Therefore  in  the  light most favourable to the petitioners,  mere  exercise   of  the  right  of freedom of movement is made penal under certain circumstances. Mr. Vyas on behalf of the petitioners also has not  disputed this interpretation. He does not say that peaceful  picketing is not an offence under <a href="/doc/258943/" id="a_47">Section 7</a> of the Criminal Law  Amendment Act. But his submission is that in so far as such peaceful  picketing is made an offence, it is void, as <a href="/doc/258943/" id="a_48">Section 7</a>(l ) is contrary to the rights  given
+
+to all citizens under Clause  (1) of <a href="/doc/1218090/" id="a_49">Article  19</a> of the Constitution.  
+</p> 
+
+<p id="p_18"> 8. Peaceful picketing, as indulged in  by the petitioners before  us, can affect only two rights which have been given by the Constitution,  viz. the right of freedom, of expression and the right to move freely throughout the territory of India. A restriction has been imposed only on the latter right by <a href="/doc/258943/" id="a_50">Section 7(1)</a> of the Criminal Law Amendment Act whether it is accompanied by the exercise of the former  right  or not. If the section had imposed restrictions on both the rights, then it would have been necessary to justify both the restrictions  in the  light  of  the  other  clauses of <a href="/doc/1218090/" id="a_51">Article 19</a> of the Constitution. But in this ease, restriction id placed only on the right of freedom of movement of the petitioners without any abridgment of their exercise of any other fundamental right. In  testing, therefore, the validity of <a href="/doc/258943/" id="a_52">Section 7</a> of the Criminal Law Amendment  Act,  we  have to  see whether this restriction on freedom of movement, viz.,  loitering under certain circumstances accompanied by the  requisite  intention  is  justified by Clause (5) of <a href="/doc/1218090/" id="a_53">Article 19</a> of the Constitution. If even in this extreme form -- -without  curtailment  of  any  other fundamental right--the section is good as contended by the learned Advocate-General,  it  cannot be  bad  if   the  act prohibited is accompanied by certain other  aggravating  circumstances  which bring into play other fundamental rights  which the  section   is   not   designed   to   restrict.   If "loitering"  simpliciter  (under certain  circumstances) can validly be made an offenee, then such loitering accompanied  by  verbal utterances or distribution   of   pamphlets   cannot  be any the less  an  offence,  merely because  the offender is exercising other  fundamental rights and uttering slogans.  
+</p> 
+
+<p id="p_19"> 9. It has been argued by the learned Advocate General that in conjunction with the right of freedom of speech and expression and the right of freedom of movement given to the citizens by the Constitution on which the petitioners base their case, we should also consider the right to carry on any occupation, trade or business which 13 also given by the Constitution to all the citizens by Sub-clause (g) of ol. (1) of <a href="/doc/1218090/" id="a_54">Article 19.</a> He contends that just as the petitioners have a right of freedom of movement and freedom of speech, the employees who wish to go to the mills and pursue their occupations have also the right to move freely and to carry on their occupation, trade or business. He, therefore, submits that in considering the reasonableness or otherwise of the restriction imposed by <a href="/doc/258943/" id="a_55">Section 7</a> of the Criminal Law Amendment Act, the Court should, in pronouncing upon the reasonableness or otherwise of that restriction, attempt to reconcile these conflicting rights. We see great force in this argument. The right to carry on any occupation, trade or business has been granted by Sub-clause (g) of Clause (1) of <a href="/doc/1218090/" id="a_56">Article 19</a> of the. Constitution. We have not been referred to 
+
+any legislation which is of relevance in the present context which imposes restriction on the right of the mill workers to carry on their occupation and to move freely so as to reach the mill premises. That right, therefore, is free from any restrictions. The right of freedom of speech and the right to move freely throughout the territory of India on which the petitioners base their contention must be exercised without detriment to the right of others who have also got the right to move freely and to carry on any occupation. In this connection we should like to quote the very pertinent observations of Mukherjea J. in the case of <a href="/doc/1857950/" id="a_57">A. K. Gopalan v. The State of Madras</a>, (1950) S. C. R. 88, (p. 253):  
+</p>  
+
+<p id="p_20">  "There cannot be any such thing as absolute or uncontrolled liberty wholly freed from restraint, for that would lead to anarchy and disorder. The possession and enjoyment of all rights, as was observed by the Supreme Court of America in Jacobson v. Massachusetts, (1904)197 U.<a href="/doc/258943/" id="a_58"> S. 643</a> are subject to such reasonable conditions as may be deemed by the governing authority of the country essential to the safety, health, peace, general order and morals of the community. The question, therefore, arises in each case of adjusting the conflicting interests of the individual and of the society. In some cases, restrictions have to be placed upon free exercise of individual rights to safeguard the interests of the society; on the other hand, social control which exists for public good has got to be restrained, lest it should be misused to the detriment of individual rights and liberties. Ordinarily, every man has the liberty to order his life as he pleases, to say what he will, to go where he will, to follow any trade, occupation or calling at his pleasure and to do any other thing which he can lawfully do without let or hindrance by any other person. On the other hand, for the very protection of these liberties the society must arm itself with certain powers. No man's liberty would be worth its name if it can be violated with impunity by any wrong-doer and if his property or possessions could be preyed upon by a thief or a marauder. The society, therefore, has got to exercise certain powers for the protection of these liberties and to arrest, search,, imprison anJ punish those who break the law. If these powers are properly exercised, they themselves are the safeguards of freedom, but they can certainly be abused. The police may arrest any man and throw him into prison without assigning any reasons; they may search his belongings on the slightest pretext; he may be subjected to a sham trial and even punished for crimes unknown to law. What the Constitution, therefore, attempts to do in declaring the rights of the people is to strike a balance between individual liberty and social control.  
+</p> 
+
+<p id="p_21"> To me it seems that <a href="/doc/1218090/" id="a_59">Article 19</a> of the Constitution gives a list of individual liberties and prescribes in the various clauses the restraints that may be placed upon them by law, so that they may not conflict with pnblic welfare or general morality."  
+</p> 
+
+<p id="p_22"> When the question of adjusting such mutually conflicting rights arises, it is obviously the duty of the State to adjust the rights under different heads, so far as possible to avoid conflicts between them and to reconcile those rights. Such police powers must be deemed to be implicit in the right of the State in enacting legislation to adjust and to reconcile such conflicting rights. To what extent these rights can be restricted has been laid down in Clauses (2) to (5) of <a href="/doc/1218090/" id="a_60">Article 19.</a> Under the American Constitution, the Courts 
+
+have had to resort to the doctrine of  "police powers" in order to bring about a regulation between conflicting fundamental rights. In the case of our  Constitution the  doctrine  of  police powers need not be invoked as an attempt has been made in the  Constitution   itself to define the extent to which and the purposes for  which the   fundamental  rights  enumerated  in  Clause (1) may be restricted. The question  as  to  whether the restriction placed on any  fundamental right is a reasonable restriction or not must  be determined with reference  to  Clauses.   (3) to   (6) of  that article   so   far   as  the    rights    enumerated  in Sub-clauses (b) to (g) of Clause (1)   of <a href="/doc/1218090/" id="a_61">Article   19</a>  are  concerned. With reference to the restriction on the freedom  of  speech  and expression mentioned in Clause (a) of <a href="/doc/1142233/" id="a_62">Article  19(1</a>), the validity of that restriction has to be tested with reference to  certain matters with respect to  which laws may be made in abridgment of the  right to freedom of  speech  and  expression.   It  is  open  to the Court in any particular case to  pronounce  whether under Clauses (3)  to  (6) of <a href="/doc/1218090/" id="a_63">Article 19</a>,  any  particular  restriction  embodied   in any   law is a reasonable restriction or not. In the cases  before us the question is whether  the  restriction  contemplated in <a href="/doc/258943/" id="a_64">Section 7</a> of the  Criminal Law  Amendment Act is a reasonable restriction  within the meaning of Clause (5) of that article."  
+</p> 
+
+<p id="p_23"> 10. It would be noticed that the restrictions placed on the right to assemble peaceably and without arms envisaged in <a href="/doc/1248826/" id="a_65">Article 19(1)(b)</a> or on the right to form associations envisaged in <a href="/doc/445304/" id="a_66">Article 19(1)(c)</a> must be "in the interests of public order" [Sea Clauses. (3) and (4) of the article]; whereas the restriction on the right envisaged under Clauses (d), (e) and (f) of <a href="/doc/1142233/" id="a_67">Article 19(1)</a> of thjs Constitution may be in the interests not only of the public order, but "in the interest of the general public." [See Clause (5) of the article]. The words "in the interests of the general public" are of much wider import than the words "in the interests of public order." The restriction, therefore, on the right to move freely throughout the territory of India may be not merely for the purpose of maintaining public order but may be in the interests of the general public. It seems to us that the words "in the interest of the general public" used in Clause (5) of <a href="/doc/1218090/" id="a_68">Article 19</a> have been advisedly used and in contradistinction with the words "in the interests of public order" used in the earlier clauses, must be given their full meaning. It is probable that the Constitution used these particular words in order to enable the State to adjust the rights given by the Constitution and to reconcile them in the interest of the general public, whether the interests of the public order were immediately affected or not by such restrictions.  
+</p> 
+
+<p id="p_24"> 11. In construing the words "reasonable restrictions" occurring in <a href="/doc/626103/" id="a_69">Article 19(6)</a> of the Constitution the Supreme Court has said the words
+
+'reasonable restriction'  in <a href="/doc/626103/" id="a_70">Article   19(6)</a>   of   the Constitution connote that the limitation  imposed on a person in enjoyment of his right  conferred by <a href="/doc/935769/" id="a_71">Article 19(1)(g)</a> should not be arbitrary or of an excessive nature beyond what is required  in  the interests of the public. The word  'reasonable' implies intelligent care and deliberation, that in the choice of a course which reason dictates. Legislation which arbitrarily  or  excessively  invades  the   right   cannot  be  said to contain the quality of reasonableness, and unless it strikes a proper balance between the freedom guaranteed in <a href="/doc/935769/" id="a_72">Article 19(1)(g)</a> and the social control permitted by Clause (6) of <a href="/doc/1218090/" id="a_73">Article 19</a> it must be held to be wanting in that quality. <a href="/doc/1217564/" id="a_74">See Chintaman Rao v. The State of Madhya Pradesh</a>, 1950 S. C. R. 759. The question, therefore, arises whether the restriction envisaged in <a href="/doc/258943/" id="a_75">Section 7</a> of the Criminal Law Amendment Act can be regarded as an unreasonable restriction in the interests of the general public in the light of the above observations. In the first place, it seems to us that such a restriction would not be unreasonable,  having regard to the right given by the Constitution to the mill workers to carry on their occupation and to move freely for that purpose. They can carry on the occupation only in this particular way, viz. by going to the mills whereas the applicants can exercise their right o£ freedom of movement anywhere else except in the particular locality and there  also only with particular intention. The conflict in this case, therefore, is  between the only way in which one section of the public can exercise its right of pursuing its occupation and one of the numerous  ways in which the other section of the public can exercise its right of freedom of movement, but which interferes or is likely to interfere even in a small number of cases with the former. In such a ease, in our opinion, the latter must necessarily give way to the former, A  restriction  which fractionally interferes with the right of freedom of movement of one section of the public in the interest of the only  way  in which another section of the public can exercise its right of pursuing  its  occupation, cannot be said to be unreasonable.  
+</p> 
+
+<p id="p_25"> 12. Secondly, the restriction contemplated by <a href="/doc/258943/" id="a_76">Section 7</a> (considered by itself and not in its relation to the interference with the rights of others) is not an absolute restriction preventing the petitioners from exercising the right of freedom of speech and movement. It does not prevent the petitioners from going to and assembling at other places and giving free expression to their views in order to persuade the mill workers to abstain from going to the mills. The prohibition imposed by <a href="/doc/258943/" id="a_77">Section 7</a> of the Act is hedged round by many qualifying clauses. It is with reference to the locality, viz. at or near the place where a person carries on business. It is also a restriction with reference to a particular purpose, viz. to induce a person to abstain from doing a thing which he has a right to do. A restriction which aims at regulating the right
+
+to the freedom of movement for a limited purpose and with reference to the place, manner and extent of the exercise of that right cannot be said to be an unreasonable or excessive restriction. The right to use a highway as a part of the right to move freely throughout the territory of India came up for consideration before a Pull Bench of the Allahabad High Court in <a href="/doc/278332/" id="a_78">Moti Lal v. Uttar Pradesh Govt</a>., . In considering that question, Malik C. J. observed as follows (p. 268):  
+</p>  
+
+<p id="p_26">  "I may, however, point out that the right to use a highway is a right which a person possesses as a member o{ the public along with other members of the public and whatever personal rights he has of using it are merely as such a member. That being so, the right has always been held to be exercisable subject to such reasonable restrictions or regulations, which, at times, might even amount to prohibition, as might be necessary to be imposed in public interest. Prom the earliest times the right has been subject to regulation. In the United States of America they had to invent the doctrine of police powers to effect such a regulation. In our country, an attempt has been made to obviate the necessity of inventing the doctrine of police powers by defining the limitations in the various Sub-clauses of <a href="/doc/1218090/" id="a_79">Article 19.</a> <a href="/doc/1218090/" id="a_80">Article 19</a> purports to guarantee certain fundamental rights and the fundamental right with which we are concerned is the right to carry on any trade or business. .... Clause (6) of <a href="/doc/1218090/" id="a_81">Article 19</a> provides that the existing or future law enacted in the interest of the general public and placing reasonable restrictions on the exercise of such right will be valid.  
+</p> 
+
+<p id="p_27"> The first is the argument that 'reasonable restriction" cannot mean a total stoppage, I do not think this argument is sound. The words in <a href="/doc/1218090/" id="a_82">Article 19</a> are not 'regulation' but are "reasonable restriction and I do not see why, if by reason of the nature of the trade carried on, which might be against public morality or if, for any other reason, it is deemed necessary in the general interest, to stop totally any trade or business, it cannot be included in the word 'restriction.' "  
+</p> 
+
+<p id="p_28">  It would thus appear that in the opinion of the learned Chief Justice, even a total stoppage may in certain circumstances amount to a reasonable restriction. At page 269, the learned Chief Justice observed:  
+</p><p id="p_29">  "The decision of the question, what is a reasonable restriction in public interest will have to depend upon the nature of the business, the place and time where it is intended to be carried on, its effect on others, the stage of social development and on many other factors which might change with the passing of time and with the development of society. The Judges, on whom lies the duty of deciding this question will have to consider it divorced as far as they can, from their own personal, political or economic views. The decision might also well differ not only with the type of legislation which comes under review but also with the nature of the activity that that legislation was intended to regulate or to stop, due regard being given to the view expressed by the citizens through their legislatures."  
+</p> 
+
+<p id="p_30"> These observations which have been made with reference to Sub-clause (g) of Clause (1) of <a href="/doc/1218090/" id="a_83">Article 19</a> apply with equal force to a restriction, which has got to be construed, on the right given under Sub-clause (d) of <a href="/doc/1142233/" id="a_84">Article 19(1).</a> Having regard to the limited extent to which the fundamental right to move freely throughout the territory of India has been restricted under Sub-section (7) of the <a href="/doc/258943/" id="a_85">Criminal Law Amendment Act</a>, we do not think that it
+
+could be held that the restriction is an unreasonable one.  
+</p> 
+
+<p id="p_31"> 13. Thirdly, it has to be remembered that peaceful picketing by its nature should, in all probability, not result in any violence. But we have seen frequent instances where peaceful picketing may degenerate or has degenerated into violence. It may be that having regard to the development of the society in which we live the standard of education among the masses and the sense of civic duty among the persons on whom these restrictions are sought to be imposed the Legislature may well have thought fit to enact restrictions in the terms of <a href="/doc/258943/" id="a_86">Section 7</a> of the Criminal Law Amendment Act. In all such cases, the presumption should be in favour of the reasonableness of the restriction, although the final decision as to whether it is reasonable or not must, under the Constitution, remain with the Court. In considering whether a particular legislation is or is not in contravention of <a href="/doc/1218090/" id="a_87">Article 19</a>, it would be relevant to quote the observations of Holmes J. in Otis &amp; Gassman v. Parker, 1902) 187 U.<a href="/doc/258943/" id="a_88"> S. 323</a> (p. 327):  
+</p>  
+
+<p id="p_32">  " . . . . While the Courts must exercise a judgment of their own, it by no means is true that every law is void which may seem to the judges who pass upon it excessive, unsuited to its ostensible end, or based upon conceptions of morality with which ihey disagree. Considerable latitude must be allowed for differences of view, as well as for possible peculiar conditions which, this Court can know but imperfectly, if at all. Otherwise a constitution, instead of embodying only relatively fundamental rules of right, as generally understood by all English speaking communities, would become the partisan of a particular set of ethical or economical opinions, which by no means are held semper ubig,ue-et-abomnibus.  
+</p> 
+
+<p id="p_33"> Even if the provision before us should seem to us not to have been justified by the circumstances locally existing in California at the time when it was passed, it is shown by its adoption to have expressed a deep-seated conviction on the part of the people concerned as to what that policy required. Such a deep-seated conviction is entitled to great respect. If the State thinks that an admitted evil cannot be prevented except by prohibiting a calling or transaction not in itself necessarily objectionable the Courts cannot interfere, unless, in looking at the substance of the matter, they can see that it 'is a clear, unmistakable infringement of rights secured by the fundamental law'."  
+</p> 
+
+<p id="p_34"> Sapru J. observed in the above-quoted Full Bench-decision of the Allahabad High Court as follows (p. 300):  
+</p><p id="p_35">  "Keeping in view this fundamental view point I have, been led to ask whether the words 'reasonable restrictions' can in the context in which they have been used include 'prohibition'. Do they permit a business or an occupation or a profession to be nationalised if it ia in the public interest to do so ? Does the section allow the Courts to constitute themselves into a third chamber and exercise a sort of supervisory control over the declared will of the legislature by imposing its own ideas of what is reasonable and what is not reasonable, or what is in the public interest and what is not in the public interest? I think that Courts should accept what the legislature thinks as reflecting a true criterion of what is in the public interest and the test in this sense would be a subjective one."  
+</p> 
+
+ 
+<p id="p_36">In the next paragraph the learned Judge observed ;(p. 301):  
+</p><p id="p_37">  "I personally think that interference of Courts 'with statutes passed by the legislature on the ground that they are unreasonable should be exercised only in such exceptional cases as where, for example, in the guise of a general law, an Act constituting a denial of the freedom guaranteed under <a href="/doc/609295/" id="a_89">Article 15</a> or the equality clause under <a href="/doc/367586/" id="a_90">Article 14</a> is passed by the legislature. The Courts are in no better position than legislators to assess the social and economic necessity of any measure, viz., regulating, restricting or prohibiting any profession, calling or trade in the interest of the public."  
+</p> 
+
+<p id="p_38"> With respect we are in agreement with the observations of Sapru J. It is true as pointed out by
+the Supreme Court in <a href="/doc/1217564/" id="a_91">Chintaman Rao v. The State of Madhya Pradesh</a>, 1950 S. C. R. 759: "the determination by the Legislature of what constitutes a reasonable restriction is not final or conclusive; it is subject to the supervision by the
+Court." Bat unless we are in a position to pronounce that the restriction imposed upon the freedom of movement by <a href="/doc/258943/" id="a_92">Section 7</a>, <a href="/doc/258943/" id="a_93">Criminal Law Amendment Act</a>, is definitely unreasonable in the interests of the general public, then only will it be possible for us to hold that it is contrary to the fundamental rights guaranteed by the Constitution. In the present case, we are unable to make any such pronouncement.  
+</p> 
+
+<p id="p_39"> 14. We are aware that in the United States of America, the Supreme Court has in some cases pronounced against laws which make peaceful picketing illegal. For instance, in the case of Thornhill v. State Alabama, (1939) 310 U.<a href="/doc/138097064/" id="a_94"> S. 1093</a> the Court held the statute unconstitutional because, according to them, its vice appeared upon its face. In pointing out the broad sweep of the language of the statute, the Court stated (p. 1101):  
+</p><p id="p_40">  "The numerous forms of conduct proscribed by <a href="/doc/258943/" id="a_95">Section 3448</a> are subsumed under two offences : The first embrace the activities of all who 'without just cause or excuse' 'go near or loiter about the premises' of any person engaged in a lawful business for the purpose of influencing or inducing others to adopt any of certain enumerated courses of action; the second, all who 'picket' the place of business of any euoh person, 'for the purpose of hindering, delaying or interfering with or injuring any lawful business or enterprise of another'."  
+</p> 
+
+<p id="p_41"> As pointed out Ut page 440 of Volume I of Lud-wig Teller's "Labour Disputes and Collective Bargaining:  
+</p>  
+
+<p id="p_42">  "About the first class offences under the statute the Court had little to say other than to declare it a patent prohibition of free speech because comprehending courses of action 'which in many instances would normally result from merely publicizing, without annoyance or threat of any kind, the facts of a labor dispute.' The second class of offences were surrounded by 'vague contours," said the Court, because the word 'picket' was nowhere defined. Hence employees or others, accordingly, may be found to be within the purview of the term and convicted for engaging in activities identical with those proscribed by the first offence.  
+</p> 
+
+<p id="p_43"> Having thus revealed the statute as a dragnet designed to interfere in many instances with the exercise oi free speech, the Court disposed of the state's contentions that the statute could be saved because (1) its application was limited or restricted to such activity aa takes place at the scene of the labor dispute, and (2) it
+
+was designed to protect the community from asserted concomitants of picketing, to wit, violence and breaches of the peace. The Court, however, found neither contention persuasive, the first because there was no basis for the limitation or restriction, the second because 'The danger of breach of the peace or serious invasion of lights of property or privacy at the scene of a labour dispute is not sufficiently imminent in all cases to warrant the Legislature in determining that such place is not appropriate for the range ol activities outlawed, by <a href="/doc/258943/" id="a_96">Section 3448</a>'."   
+</p> 
+
+<p id="p_44"> Then the Court went on to say (p. 1103) :   
+</p><p id="p_45">  "It is true that the rights of employers and employees to conduct the economic affairs and to compete with others for a share in the products of industry are subject to modification or qualification in the interests of the society in which they exist."  
+</p> 
+
+<p id="p_46"> A similar view was taken in another case of Carlson v. State of California, (1939) 310 U.<a href="/doc/258943/" id="a_97"> S. 1104</a>. But there also the impugned legislation was treated as an abridgment of the right of free speech, and the ordinance was held to be unconstitutional because its "sweeping and inexact, terms" disclosed "the threat to freedom of speech inherent in its existence." But the Court added (p. 1108) :   
+</p><p id="p_47">  "The power and duty of the State to take adequate steps to preserve the peace and protect the privacy, the lives, and the property of its residents cannot be doubted."  
+</p> 
+
+<p id="p_48"> These decisions given with reference to American Constitution proceed upon the footing that the impugned legislation constituted an infringement of Amendment I to the Articles of the American Constitution which says that "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof, or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances." There is not, under that Constitution, a right of freedom of movement or the freedom to practise any profession or carry on any occupation, trade or business such as we have under <a href="/doc/1218090/" id="a_98">Article 19</a> of our Constitution. The decisions, therefore, in all those cases proceed upon the footing that the impugned legislation abridged the right of free speech. In none of those cases the question of reconciling the right of freedom of movement with the right to practise any profession or occupation has been considered. Secondly, we have pointed out that the American Constitution does not prescribe the limits within which restrictions may be imposed and the purposes for which they may be imposed, similar to the provisions that we have in Clauses (3) to (6) of <a href="/doc/1218090/" id="a_99">Article 19.</a> The matter is left to be decided by the Courts with reference to the vagus doctrine of "police powers of the State." Even in America, as pointed out in volume I of Ludwing Teller's "Labour Disputes and Collective Bargaining," at page 442, <a href="/doc/258943/" id="a_100">Section 140</a> : 
+</p><p id="p_49">  "The story which comprehends the nature and consequently the extent of legal protection afforded picketing is one which, like a serial, will be told in future instalments. It cannot be stated with certainty today that picketing is an instrument primarily in the nature of economic warfare nor can it be said that it is equivalent to the exercise of free speech. To the extent that its con-
+</p>
+<p id="p_50">sequences will the better be understood, picketing will become a weapon or method more clarified in nature. The Supreme Court's use of the word picketing in quotations both in the Thornliill case and the Carlson case, and its
+viewpoint that picketing may mean one of many things,
+is a large ingredient of the current uncertainty regarding picketing. The care with which the United States Supreme Court in both the Thornhill and Carlson cases
+emphasized the right oE the State to regulate the  means
+of exerting economic pressure is an indication of the numerous problems which future legislation will raise."   
+</p> 
+
+<p id="p_51"> Therefore, even in America it cannot be said that the legality of peaceful picketing has been finally determined. As pointed out by Ludwig Teller in <a href="/doc/258943/" id="a_101">Section 112</a> of his book :  
+</p><p id="p_52">  "Notwithstanding the general acceptance of the rule that peaceful picketing is legal and that its illegality depends upon a showing of unlawful purpose or unlawful means by which it is carried, on, there are several jurisdictions which still question the legality of peaceful picketing. The present state of the law in these jurisdictions is precarious, to be sure, in the light of emergence of the notion that picketing is the equivalent of free speech, and also in the light of United States Supreme
+Court decisions favouring the legality of peaceful picketing."  
+</p> 
+
+<p id="p_53"> 15. But even in United States of America where laws proscribing peaceful picketing have been held to 'be illegal, it haa always been recognised that picketing is illegal if it is carried on in connection with an unlawful strike. In Section 113 of Ludwig Teller's book the following observations occur :  
+</p><p id="p_54">  "Picketing has everywhere been held enjoinable where carried on in furtherance of an unlawful strike." In Lora Lee Dress Company Insurance v. I. L. G. W. U. the Court said, "A strike being for an illegal purpose all activities In furtherance thereof are illegal."  
+</p> 
+
+<p id="p_55">  In <a href="/doc/258943/" id="a_102">Section 114</a>, the learned author points out:  
+</p><p id="p_56">  "Like the strike, picketing is legal only to the extent that its purposes are within the allowable ambit of labor activity."   
+</p> 
+
+<p id="p_57"> And several authorities have been   quoted  where such view has been accepted. In our case, even if we are wrong in the view that <a href="/doc/258943/" id="a_103">Section 7</a> of the   Criminal Law Amendment Act is valid in so far   as  it makes peaceful picketing illegal even in connection  with  a  lawful  strike,  that section can, on the American authorities also, be deemed to be valid at least to the extent that it makes  illegal any picketing in connection with an illegal strike. The strike in  connection with  which  the  petitioners  before  us have been convicted has been held to be an illegal strike in  Bombay  State v. Raja Kulkarni, 53 Bom.  L.  R. 383. The strike has been declared to be an illegal one because it was started and continued while the proceedings before the  Appellate   Tribunal   were   pending. Under Section 27 of the Industrial  Disputes (Appellate Tribunal) Act, 1950, an incitement to strike which was illegal constitutes an offence, and  it was so declared by Bavdekar and Dixit JJ., in  Bombay State  v.   Raja Kulkarni,  referred to   above.. Therefore, even if we were to assume the correctness of the American view, picketing in connection with an illegal strike cannot be justified,   and  in so far as <a href="/doc/258943/" id="a_104">Section 7</a> of the Criminal Law Amendment Act makes such picketing  illegal, that section
+
+cannot be deemed to lay down  an unreasonable restriction on the right to freedom of movement.  
+</p> 
+
+<p id="p_58"> 16. The learned Advocate-General has asked us to hold that to this extent at least <a href="/doc/258943/" id="a_105">Section 7</a> of the Criminal Law Amendment Act should be held valid. But the difficulty is that <a href="/doc/258943/" id="a_106">Section 7</a> of the Criminal Law Amendment Act draws no distinction between picketing in connection with a lawful strike and that in connection with an illegal strike. In that sense, the section is not severable. Under <a href="/doc/74529/" id="a_107">Article 372</a> of the Constitution, the President has been given power to make such adaptations and modifications in the law in force in the territory of India immediately before the commencement of the Constitution--whether by way of repeal or amendment--as he may deem it necessary or expedient for the purpose of bringing the provisions of that law into accord with the provisions of this Constitution. No such adaptation has been made so far as we are aware, and <a href="/doc/258943/" id="a_108">Section 7</a> of the Criminal Law Amendment Act stands unadapted. Under the Adaptation of Laws Order of 1950, issued on 26th January 1950, it has been laid down in <a href="/doc/258943/" id="a_109">Section 28</a> thereof that:  
+</p>  
+
+<p id="p_59"> Any Court, Tribunal or authority required or empowered to enforce any law in force in the territory of India immediately before the appointed day shall, notwithstanding that this Order makes no provision or insufficient provision for the adaptation of the law for the purpose of bringing it into accord with the provisions of the Constitution, construe the law with all such adaptations as are necessary for the said purpose:  
+</p> 
+
+<p id="p_60"> Provided that, if any question arises regarding the adaptation with which such law should be construed for the said purpose, the question shall be referred to the Central Government if the law relates to a matter enumerated in List I or List III in the Seventh Schedule of the Constitution, and to the State Government concerned in any other case, and the decision of that Government oa any such reference shall be final."  
+</p> 
+
+<p id="p_61"> In view of this provision, we should have had to make a reference to the appropriate Government in order to construe <a href="/doc/258943/" id="a_110">Section 7</a> of the Criminal Law Amendment Act so as to limit its applicability to picketing in connection with an illegal strike. But in the view that we have taken, no such reference appears necessary. Moreover, it has been held by the Supreme Court in <a href="/doc/456839/" id="a_111">Romesh Thappar v. The State of Madras</a>, 1950 S. C. R. 594:  
+</p><p id="p_62">  "Where a law purports to authorise the imposition of restrictions on a fundamental right in language wide enough to cover restrictions both within and without the limits of constitutionally permissible legislative action affecting such right, it is not possible to uphold it even so far as it may be applied within constitutional limits, as it is not severafale. So long as the possibility of its being applied for purposes not sanctioned by the Constitution cannot be ruled out, it must be held to be wholly unconstitutional and void."  
+</p> 
+
+<p id="p_63"> See also <a href="/doc/1217564/" id="a_112">Chintaman Rao v. The State of Madhya Pradesh</a>: (1950 S. C. R. 759). The language of <a href="/doc/258943/" id="a_113">Section 7</a> of the Criminal Law Amendment Act is wide enough to cover picketing in support of both legal and illegal strikes; and if we had taken the view that restriction on picketing in support of legal strike is ultravires of the Constitution and that the restriction on picketing in support of an illegal strike is 
+
+not ultra vires (following the American view), we should have had to declare the whole of<a href="/doc/258943/" id="a_114"> s. 7</a> of the Act void in view of the decisions of the Supreme Court referred to above. But in the view we take it is not necessary for us to make any such declaration.  
+</p> 
+
+<p id="p_64"> 17. The last argument of Mr. Vyas in this connection was that the petitioners were charged under Clause (b) of <a href="/doc/258943/" id="a_115">Section 7(1)</a> of the Criminal Law Amendment Act and that Sub-clause (b) has no application to this case. His contention was that Clause (b) is intended to apply not to the employers and employees of a particular establishment, but to some third persons who wish to enter a business premises and are deterred from doing so. He has, therefore, argued that the case of the petitioners might fall under Clause (a) of <a href="/doc/258943/" id="a_116">Section 7(1)</a> which refers only to the employers and employees against whom the picketing is directed. We do not think that there is any such clear-cut division between Clauses (a) and (b). It is true that Clause (a) refers to loitering near residences, working places and business places, whereas Clause (b) refers only to the places where a person is carrying on business. Similarly, Clause (a) refers to the causing of obstruction, violence and intimidation or to loitering, etc.; while Clause (b) refers only to loitering. Further clause (a) of <a href="/doc/258943/" id="a_117">Section 7(1)</a> refers to causing people to abstain from doing any act which a person has a right to do; while Clause (b) of <a href="/doc/258943/" id="a_118">Section 7(1)</a> refers to deterring a person from entering or approaching a business premises. Although such distinctions as have been pointed out by Mr. Vyas do exist between the two clauses, there may be cases which fall under either or both the clauses. In the present case, although the petitioners were charged under Clause (b) of <a href="/doc/258943/" id="a_119">Section 7(1)</a>, the conviction has been recorded under both the clauses of <a href="/doc/258943/" id="a_120">Section 7(1)</a>. "We do not think that any prejudice has been caused on this account, although we think that the more appropriate clause under which the conviction should have been recorded is Clause (a) 
+Of <a href="/doc/258943/" id="a_121">Section 7(1)</a>.  
+</p> 
+
+<p id="p_65"> 18. For these reasons we think that there is not much substance in the arguments advanced by the learned advocate, and accordingly we are of the opinion that the conviction recorded against the petitioners is correct.  
+</p> 
+
+<p id="p_66"> 19. That leaves only the question of sentence. Most of the petitioners have been sentenced to undergo rigorous imprisonment for two months, while the appellant in criminal Appeal No. 704 of 1950, who is also the petitioner in Revision Application No. 1247 of 1950, has baen sentenced to one month's rigorous imprisonment in one case and a fine of Es. 500 in the other. Most of the petitioners have undergone a part of their substantive sentence of imprisonment. The strike came to an end a long time ago and most of the petitioners have rejoined their duties. The question of the legality of the strike has also been determined by this Court. We, therefore, do not think
+
+it now desirable to send the petitioners back to jail and revive the feelings of bitterness between the parties which, we hope, are a thing of the past. While confirming the conviction of the petitioners, we reduce the sentence passed upon them to the period already undergone. The fine in the case of the appellant in Appeal No. 704 of 1950 is reduced to a sum of Rs. 100. The excess fine, if paid, should be refunded. The bail bonds of the petitioners in all the cases are cancelled.  
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

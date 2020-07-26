@@ -1,0 +1,423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dr. Sudhir Ranade vs The State Of Maharashtra And Ors on 20 February, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/119395587/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/119395587/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/119395587/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/119395587/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Dr. Sudhir Ranade vs The State Of Maharashtra And Ors on 20 February, 2019</div><div class="doc_bench">Bench: Ranjit More</div>
+
+<pre id="pre_1"> IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+      APPELLATE SIDE CIVIL JURISDICTION
+
+     PUBLIC INTEREST LITIGATION NO. 175 OF 2018
+
+ Dr. Jishri Laxmanrao Patil, Member, The Indian    ....Petitioner
+ Constitutionalist Council
+              V/S
+ The Chief Minister Of State Of Maharashtra ,   ....Respondent</pre>
+<p id="p_1"> Mantralaya And Anr
+
+                             WITH
+                 WRIT PETITION NO. 284 OF 2019
+
+ Syed Imtiyaz Jaleel                                    ....Petitioner
+             V/S
+ The State Of Maharashtra Through Its Chief          ....Respondent
+ Secretary And Ors.
+</p>
+<p id="p_2">                        WITH
+     PUBLIC INTEREST LITIGATION NO. 185 OF 2014
+
+ Dr. Sudhir Ranade                                      ....Petitioner
+             V/S
+ The State Of Maharashtra And Ors                    ....Respondent
+
+                        WITH
+     PUBLIC INTEREST LITIGATION NO. 201 OF 2014
+
+ Save Democracy Foundation And Ors.                     ....Petitioner
+             V/S
+ State Of Maharashtra Through Its Chief              ....Respondent
+ Secretary And Ors.
+</p>
+<p id="p_3">                               WITH
+
+
+                                                                             Page 1/8
+
+<span class="hidden_text" id="span_1">::: Uploaded on - 20/02/2019                ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+      PUBLIC INTEREST LITIGATION NO. 105 OF 2015
+
+ Shri. Anil Shankar Thanekar                          ....Petitioner
+              V/S
+ The Chief Minister, State Of Maharashtra And      ....Respondent
+ Anr
+
+                        WITH
+     PUBLIC INTEREST LITIGATION NO. 140 OF 2014
+
+ Ketan Tirodkar                                       ....Petitioner
+            V/S
+ State Of Maharashtra, Through Chief Minister      ....Respondent
+
+                        WITH
+     PUBLIC INTEREST LITIGATION NO. 126 OF 2009
+
+ Rajaram Tukaram Kharat                               ....Petitioner
+             V/S
+ The State Of Maharashtra And Ors.                 ....Respondent
+
+                            WITH
+               WRIT PETITION NO. 11368 OF 2016
+
+ Jamiat Ulama-i-hind Through Its President Of         ....Petitioner
+ Maha. Unit Shri. Siddiqui Nadim Abdul
+ Mustaqim
+             V/S
+ The State Of Maharashtra Through Its Chief        ....Respondent
+ Secretary, General Admn. Dept. And Ors.
+</p>
+<p id="p_4">                        WITH
+     PUBLIC INTEREST LITIGATION NO. 209 OF 2014
+
+ Shri. Dilip Prabhakar Aloni                          ....Petitioner
+
+
+                                                                           Page 2/8
+
+<span class="hidden_text" id="span_2">::: Uploaded on - 20/02/2019              ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+             V/S
+ State Of Maharashtra, Through Chief Secrtary        ....Respondent
+ And Ors
+
+                        WITH
+        CIVIL APPLICATION IN PIL NO. 19 OF 2017
+                           In
+        PUBLIC INTEREST LITIGATION 105 OF 2015
+
+ Maratha-muslim Aarakshan Kruti Samiti,                 ....Applicant
+ Aurangabad Through Its Secretary And Ors
+             V/S
+ Shri Anil Shankar Thanekar                          ....Respondent
+
+                             WITH
+                 WRIT PETITION NO. 937 OF 2017
+
+ Syed Saleem Syed Ali                                   ....Petitioner
+             V/S
+ The State Of Maharashtra Through The                ....Respondent
+ Secretary And Ors.
+</p>
+<p id="p_5">                        WITH
+     PUBLIC INTEREST LITIGATION NO. 149 OF 2014
+
+ The Indian Constitutionlist Council, Through      ....Petitioner
+ Secretary, Dr. Laxmanrao Kisanrao Patil
+             V/S
+ The Chief Minister Of State Of Maharashtra And ....Respondent
+ Anr
+
+                         WITH
+         WRIT PETITION STAMP NO. 10755 OF 2017
+
+ Mrunal Dhole Patil And Anr.                            ....Petitioner
+
+
+                                                                             Page 3/8
+
+<span class="hidden_text" id="span_3">::: Uploaded on - 20/02/2019                ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+              V/S
+  State Of Maharashtra And Ors.                       ....Respondent
+
+                         WITH
+      PUBLIC INTEREST LITIGATION NO. 181 OF 2018
+
+  Dilip Madhukar Patil                              ....Petitioner
+              V/S
+  The State Of Maharashtra Thru Chief Secretary, ....Respondent
+  Mantralaya And Anr
+
+                      WITH
+PUBLIC INTEREST LITIGATION STAMP NO. 36115 OF 2018
+
+  Ajinath Tulsiram Kadam                            ....Petitioner
+              V/S
+  The State Of Maharashtra Thru Chief Secretary, ....Respondent
+  Mantralaya And Ors
+
+                             WITH
+                 WRIT PETITION NO. 1208 OF 2019
+
+  Syed Saleem Syed Ali                                   ....Petitioner
+              V/S
+  The State Of Maharashtra Through The                ....Respondent
+  Secretary And Ors.
+</p>
+<p id="p_6">                      WITH
+PUBLIC INTEREST LITIGATION STAMP NO. 1914 OF 2019
+
+  Mr. Mahadev R. Andhale And Anr                         ....Petitioner
+              V/S
+  The State Of Maharashtra Thru Chief Secretary       ....Respondent
+  And Ors
+
+
+
+                                                                              Page 4/8
+
+<span class="hidden_text" id="span_4"> ::: Uploaded on - 20/02/2019                ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+                          WITH
+          WRIT PETITION STAMP NO. 2668 OF 2019
+
+ Vaibhav Dhondiram Kadam                                ....Petitioner
+             V/S
+ The State Of Maharashtra, Through Its Chief         ....Respondent
+ Secretary
+
+                       WITH
+     PUBLIC INTEREST LITIGATION NO. 19 OF 2019
+
+ Kailas Khandbahale                                ....Petitioner
+             V/S
+ The State Of Maharashtra Thru Chief Secretary, ....Respondent
+ Mantralaya And Anr
+
+                         WITH
+          WRIT PETITION STAMP NO. 3846 OF 2019
+
+ Mohammad Sayeed Noori And Ors                     ....Petitioner
+             V/S
+ The State Of Maharashtra Thru Chief Secretary, ....Respondent
+ General Administration Dept. And Ors
+
+ Mr. Gunratan Sadavarte a/w. Mr.Arun D. Nagarjun,Mr.Anil
+ D.Sabale, Mr.Siddhart J.Bhosale and Mr. Ankush Govindrao
+ Gavale for petitioner in PIL No. 175 of 2018 and PIL
+ No.149/2014
+ Ms.Aparna D. Vhatkar for the Petitioner in PIL.No.140/2014
+ Mr. J.G.Ardwad(Reddy a/w.Mr.Arvind Aswani for the
+ Petitioner in PIL NO. 201/2014 and WPST.No.10755/2017.
+ Mr.Ashish Mehta for the Petitioner in PIL.No.105/2015.
+ Mr.Santosh Parad for the Petitioner in PIL.No.126/2009
+ Mr.S.B.Talekar I/by. M/s.Talekar and Associates for the
+ Petitioners in W.P.No. 11368/2016 and WPST.No.3846/2019.
+</p>
+
+<p id="p_7">                                                                             Page 5/8
+
+<span class="hidden_text" id="span_5">::: Uploaded on - 20/02/2019                ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+  Mr.Firoz Bharucha I/by.Mr. Rajesh A Tekale for the Petitioner
+ in WPST.No.2668/2019.
+</p><p id="p_8"> Mr. Ramesh Dube Patil a/w Ankur Pahade, Vivek Joshi,
+ Khushbu Marwadi and Prasad Dube Patil I/by Jay and Co. for
+ Petitioner in PIL.No.19/2019 and Respondent no.3 in
+ PIL/175/18.
+</p><p id="p_9"> Mr..Musaddique Momin, Tauseef Sayyed for the Petitioner in
+ W.P.No.937/2017 and W.P. No.1208/2019
+ Mr.Abhijit Patil for the Petitioner in PIL.No.181/2018 and
+ R.No.23 in PIL.No.175/2018.
+ Mr.Amol Mhatre i/by.Mr.Rahul Agrawal for the Petitioner in
+ PILST.No.1914/2019.
+</p><p id="p_10"> Mr. V. A. Thorat, Senior Counsel, Mr.A.A.Kumbhakoni-
+ AG.,Mr. A. Y. Sakhare, Senior Counsel, Mr. A. B. Vagyani,
+ Govt. Pleader, Smt. P. H. Kantharia, GP, Mr.Rakesh Rathod
+</p><p id="p_11"> -Special Counsel ,Smt. G. R. Shastri, Addl. G.P, Mr. P. P.
+ Kakade, AGP,Mr.Laxmikant Satelkar-AGP, Ms.Jyoti
+ Chavan-AGP, Mr.Rakesh Rathod,-Special Counsel,
+ Mr.R.J.Mane-AGP, Ms. Nisha Mehra, AGP, Ms.D.
+ Patankar-AGP, Mr. Vaibhav Sugdare, Ms. Prachi Tatake, Mr.
+ Akshay Shinde, B Panel AGP and Joel Carlos, Shriram
+ Pingle,Deepak Salvi,Mrs.M.P.Thakur-AGP, for
+ Respondent-State.
+</p><p id="p_12"> Mr.Ashish Gaikwad a/w. Bhavana R. Khichi for R.Nos.14 and
+<span class="hidden_text" id="span_6"> 25 in PIL No.175/2018 and for the Petitioner in</span>
+ WPST.No.2126/2019.
+</p><p id="p_13"> Mr.Yogesh P. Morbale a/w. Abhijit Tambe, Chalak for the
+ Applicant in CAI.Nos.06/2019 and 07/2019 in
+ PIL.No.175/2018.
+</p><p id="p_14"> Mr.Nasir Mohammed for the Applicant in CAI.No.08/2019 in
+ PIL.No.175/2018.
+</p><p id="p_15"> Mr.Yogesh P. Morbale for the Applicant in CAI.Nos.6/2019,
+ 07/2019.
+</p><p id="p_16"> Vijayalaxmi Khopade for the Applicant in CAI.No.17/2019.
+ Mr.A.A.Siddiqui for the Applicant in CAI No.16/2017 in
+
+
+                                                                            Page 6/8
+
+<span class="hidden_text" id="span_7">::: Uploaded on - 20/02/2019               ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+  PIL.No.105/2015.
+</p><p id="p_17"> Mr.V.M.Thorat a/w. P.V.Thorat, Anukul Seth, Aditya Bhagat
+ for Applicant /Poroposed Respondent in WPST.No.36115/2018.
+ Mr.Parag Vyas for UOI in PIL No.126/2009.
+ Mr. D. W. Bhosale for respondent no.5 in PIL/175/18.
+ Mr.A.R.Singh a/w. S.R.Singh for R.No.6 (UOI).
+ Mr. Rameshwar N. Gite a/w. Ms.Avanti Inamdar for
+ respondent no.7 in PIL/175/18.
+ Mr. V. P. Patil I/by Vaibhav Kadam for respondent no.9 in
+ PIL/175/18.
+</p><p id="p_18"> Mr. Gajanan Shinde a/w Sambhaji Kharatmol for R. No. 10 in
+ PIL/175/18.
+</p><p id="p_19"> Mr.Abhijeet A.Desai I/by.Ms. Divya Parab for respondent
+ No.11 in PIL/175/18.
+</p><p id="p_20"> Mr. Sandeep Dere a/w Sanjeev Kumar Bapu Deore, Suchita
+ Pawar for R.No.12 in PIL/175/18.
+ Mr.Sachin Pawar for R.No.13 in PIL.No.175/2018.
+ Mr. Rajiv Chavan,Sr.Adv. a/w Priyanka Chavan, Anupama
+ Pawar,Sumangala Yadav and Rajesh Tekale I/by.Sachin Pawar
+ for for respondent no.15 in PIL/175/18.
+ Mr.Jitendra P. Patil for R.No.18 in PIL.No.175/2018.
+ Mr. Sandeep Salunke for respondent no.21 in PIL/175/18.
+ Mr. Satish Mane Shinde a/w V. M. Thorat, Ms.Pooja Thorat and
+  Patil for Respondent no.23 in PIL/175/18.
+ Mr.Vitthal Ghumde I/by. Rajan Gaikwad for R.No.26 in
+ PIL.No.175/2018.
+</p><p id="p_21"> Mr.Sachin D. Kadam for R.No.29 in PIL No.175/2018.
+ Mr.S.D.Rupwate for R.No.30 in PIL.No.175/2018
+ Ms.Leena Patil a/w. Mr.Akshay R. Kapadia for R.No.31.
+ Mr.Sanjeev R.Singh a/w. Jyoti S. Agrawal for R.No.1 in
+ PIL.No.19/2019 and W.P.No.3846/2019.
+ (Appearance not supplied by the Advocates)
+
+
+
+        CORAM :                RANJIT MORE. &amp;
+
+
+                                                                                 Page 7/8
+
+<span class="hidden_text" id="span_8">::: Uploaded on - 20/02/2019                    ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+                                SMT. BHARATI HARISH DANGRE, JJ
+      DATE :                   20th February, 2019
+ P.C. :
+</p><p id="p_22">   Heard.   Stand over to 21/02/2019 at the bottom of
+   Supplementary Board. Ad-interim relief if any to continue till
+   then.
+</p>
+
+
+<p id="p_23">                                     ( FOR REGISTRAR JUDICIAL - I )
+
+
+
+
+                                                                                Page 8/8
+
+<span class="hidden_text" id="span_9">::: Uploaded on - 20/02/2019                   ::: Downloaded on - 20/03/2019 09:13:15 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

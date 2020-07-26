@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ranjit Sah vs State Of Bihar &amp; Anr on 21 October, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/140319681/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1011035/">Section 323 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/538436/">Section 498A in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/140319681/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/140319681/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Ranjit Sah vs State Of Bihar &amp; Anr on 21 October, 2008</div><pre id="pre_1">                    IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                 Cr.Misc. No.23870 of 2008
+                                          RANJIT SAH
+                                             Versus
+                                 1. STATE OF BIHAR
+                                   2. SUNITA DEVI
+                                           -----------
+</pre>
+<p id="p_1">3.    21.10.2008               Heard learned counsel for the petitioner and learned
+
+                   counsel for the State.
+</p>
+<p id="p_2">                               No one appears on behalf of Opposite party no.2, despite
+
+                   valid service of notice.
+</p>
+<p id="p_3">                               The petitioner, who is the husband, apprehends arrest in a
+
+                   complaint case under <a href="/doc/538436/" id="a_1">Sections 498A</a>, <a href="/doc/1011035/" id="a_2">323</a> of the Penal Code.
+
+</p><p id="p_4">                               For the very reason at paragraph 1 page 2 of the impugned
+
+                   order of rejection for which anticipatory bail has been rejected, this
+
+                   Court grants anticipatory bail.
+</p>
+<p id="p_5">                               Let the petitioner, abovenamed surrender in the court
+
+                   below within a period of six weeks from today, when he shall be
+
+                   enlarged on bail on furnishing bail bonds of Rs. 10,000/-(Rupees ten
+
+                   thousand) with two sureties of the like amount each to the satisfaction
+
+                   of S.D..J.M., Chapra in Complaint case No. 3581 of 2007.
+
+
+
+
+</p><pre id="pre_2">     AKS/                                     (Navin Sinha, J.)
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

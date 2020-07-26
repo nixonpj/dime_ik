@@ -1,0 +1,1106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Reliance Infratel Limited &amp; Ors vs The State Of Bihar &amp; Anr on 28 September, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/172941473/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 24 docs 
+      
+        - [<A HREF="/search/?formInput=cites:172941473">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1436241/">Section 420 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/903398/">Section 482 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1149595/">Section 202 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1306824/">Section 415 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/172941473/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/172941473/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20420%20indian%20penal%20code">section 420 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20420%20ipc">section 420 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20code%20section%20420%20IPC">indian penal code section 420 IPC</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.420%20ipc%20">sec.420 ipc </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20420">ipc 420</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.420%20of%20ipc">s.420 of ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=420%20ipc%20citedby%3A1436241">420 ipc citedby:1436241</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=420%20of%20indian%20penal%20code">420 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20420%20ipc">ipc 420 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dishonest%20intention">dishonest intention</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dhirubhai%20ambani">dhirubhai ambani</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20offence%20of%20cheating">no offence of cheating</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tower">tower</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ambani">ambani</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dishonestly%20induced">dishonestly induced</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complaint%20case">complaint case</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20intentional%20inducement"> intentional inducement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=work%20order">work order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20valuable%20security">what is valuable security</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mens%20rea">mens rea</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court</div>
+<div class="doc_title">Reliance Infratel Limited &amp; Ors vs The State Of Bihar &amp; Anr on 28 September, 2015</div><pre id="pre_1">      IN THE HIGH COURT OF JUDICATURE AT PATNA
+
+                    Criminal Miscellaneous No.10884 of 2012
+            Arising Out of Complaint Case No. -2658(C) Year- 2012 Thana -null District- PATNA
+===========================================================
+</pre><p id="p_1">1. Reliance Infratel Limited, Having Its Registered Office at Reliance
+Communication Limited Dhirubhai Ambani Knowledge City, Thane Belapur Road,
+Navi Mumbai- 400709
+</p><p id="p_2">2. Anil Dhirubhai Ambani S/O Late Dhirubhani Hirachand Ambani Dhirubhai
+Ambani Knowledge City, Thane Belapur Road, Kopar Khairane, Navi Mumbai-
+400709 (Maharashtra)
+</p><p id="p_3">3. Sunil Mundra S/O Late Onkarlal Mundra 5th Floor, A Wing, Reliance Adag
+House, Besides Reliance Petrol Pump, 100 Ft Road, Shyamal Karnawad Road,
+Stalitic, Near Prahalad Nagar, Ahmedabad- 380015 (Gujarat)
+</p><p id="p_4">4. Satish Seth S/O Late Parshuram Seth Dhirubhai Ambani Knowledge City,
+Thane Belapur Road, Kopar Kahirane, Navi Mumbai- 400709 (Maharashtra)
+</p><p id="p_5">5. Shailendra S Jain S/O Shobha Chandra Jain 5th Floor, A Wing, Reliance Adag
+House, Besides Reliance Petrol Pump, 100 Ft Road, Shyamal Karnawad Road,
+Stalitic, Near Prahalad Nagar, Ahmedabad- 380015 (Gujarat)
+</p><p id="p_6">6. Prakash Bumb S/O Late Gyanchand Bumb Dhirubhai Ambani Knowledge City,
+Thane Belapur Road, Kopar Kahirane, Navi Mumbai- 400709 (Maharashtra)
+</p><p id="p_7">7. Raj Kishore Prusty S/O Sudam Prusty Biscomaun Tower, 14th and 15th Floor,
+West Gandhi Maidan, Patna- 800001
+</p><p id="p_8">8. Kunwar Kanhaiya S/O Dharnidhar Singh Biscomaun Tower, 14th and 15th
+Floor, West Gandhi Maidan, Patna- 800001
+</p><p id="p_9">9. Binod Agrawal S/O Ghisaram Agarwal 5th Floor, A Wing, Reliance Adag
+House, Besides Reliance Petrol Pump, 100 Ft Road, Shyamal Karnawad Road,
+Stalitic, Near Prahalad Nagar, Ahmedabad- 380015 (Gujarat)
+                                                              .... .... Petitioner/s
+                                      Versus
+</p><p id="p_10">1. The State Of Bihar
+</p><p id="p_11">2. M/S Jai Maa Parmar Engineers Private Limited Through Its Director Chunnu
+Singh Resident Of Ny/148-D, New Yarpur, Janta Road, Devi Asthan, Gardanibagh,
+Patna- 800001.
+</p><p id="p_12">                                                         .... .... Opposite Party/s
+===========================================================
+Appearance :
+</p><p id="p_13">For the Petitioner/s     :     Mr. Vindhya Keshri Kumar, Sr. Adv.
+</p><p id="p_14">                               Mr. Rakesh Kumar Sinha, Adv.
+</p><p id="p_15">                               Mr. Anuj Prakash, Adv.
+</p><p id="p_16">For Opposite Party No.2 :      Mr. Ramakant Sharma, Sr. Adv.
+</p><p id="p_17">                               Mr. Sanjeev Kumar, Adv.
+</p><p id="p_18">For the State              :   Mr. Madhura Nand Jha, APP
+===========================================================
+CORAM: HONOURABLE MR. JUSTICE ASHWANI KUMAR SINGH
+CAV JUDGMENT
+Date: 28-09-2015
+
+
+                  By way of the present application under <a href="/doc/1679850/" id="a_1">Section 482</a> of
+
+   the Code of Criminal Procedure (for short „<a href="/doc/445276/" id="a_2">Cr.P.C</a>.‟), the petitioners
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_1">                                          2/18</span>
+
+
+
+
+        seek quashing of the entire proceeding including the order dated
+
+        25.01.2012 passed by the learned Judicial Magistrate 1st Class, Patna
+
+        in Complaint Case No. 2658(C) of 2011 whereby the petitioners have
+
+        been summoned to face trial under <a href="/doc/1436241/" id="a_3">section 420</a> of the Indian Penal
+
+        Code (for short „<a href="/doc/1569253/" id="a_4">IPC</a>‟).
+</p>
+<p id="p_19">        2.               The relevant averments made in the Complaint instituted
+
+        by the Complainant (Opposite Party No.2) read as under :-
+
+</p><blockquote id="blockquote_1">                 (a)      The Opposite Party No.2 was working as a Civil
+
+                         Contractor and General Supplier/Service Provider of the
+
+                         petitioners. The Petitioner No.1 is a private mobile
+
+                         telephone network company and Petitioners No. 2 to 9
+
+                         are its officers and looking after the business activities of
+
+                         the Petitioner No.1 and they are also responsible for day-
+</blockquote>
+<blockquote id="blockquote_2">                         to-day activities of the Petitioner No.1.
+</blockquote>
+<blockquote id="blockquote_3">                 (b)     In the month of March, 2007, the Petitioners No. 3, 4, 8
+
+                         and 9 visited the office of the Opposite Party No.2 and
+
+                         introduced themselves as officers of the Petitioner No.1.</blockquote><p id="p_20">
+
+</p><p id="p_21">                         They represented that they are in search of good civil
+
+                         work contractor and general item/goods provider for the
+
+                         construction and maintenance of mobile tower of
+
+                         Petitioner No.1 for providing best mobile services to
+
+                         their customers. The Petitioners No. 3, 4, 8 and 9 assured
+
+                         the Opposite Party No.2 that it would make good income
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_2">                                          3/18</span>
+
+
+
+
+                         and profit if it would make mobile towers for the
+
+                         Petitioner No.1.
+</p>
+<p id="p_22">                 (c)     Believing the representation/assurance given by the
+
+                         Petitioners No. 3, 4, 8 and 9 to be true, the Opposite
+
+                         Party No.2 visited the office of the Petitioner No.1 and
+
+                         met the Petitioners No. 5 and 7, who introduced
+
+                         themselves to be senior officers of the Petitioner No.1
+
+                         and in presence of the Petitioners No. 3, 4, 8 and 9
+
+                         confirmed the representations made by the Petitioners
+
+                         No.3, 4, 8 and 9. Believing the representations/
+
+                         assurances to be true, the Opposite Party No.2 started the
+
+                         work assigned by the Petitioners.
+</p>
+<p id="p_23">                 (d)     After seeing the conduct of the Petitioners, the Opposite
+
+                         Party No.2 asked for final settlement of account. After
+
+                         final settlement of account, a sum of Rs.36,99,819.84
+
+                         was alleged to be due and inspite of several verbal/
+
+                         written request the Petitioners did not pay the said
+
+                         amount.
+</p>
+<p id="p_24">                 (e)     The Opposite Party No.2 thereafter sent a legal notice
+
+                         dated 18.07.2011 to the petitioners to which the
+
+                         Petitioner No.1 replied on 04.08.2011 denying the claim
+
+                         of the Opposite Party No.2.
+</p>
+<p id="p_25">        3.               One Chunnu Singh, one of the Directors of the
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_3">                                          4/18</span>
+
+
+
+
+        complainant Company was examined on solemn affirmation and in
+
+        course of enquiry conducted under <a href="/doc/1149595/" id="a_5">section 202</a> Cr.P.C. two witnesses,
+
+        namely, Brahma Nand Singh and Ashok Kumar Singh were
+
+        examined in support of the complaint. After examining the Director
+
+        of the complainant company and its witnesses, the Magistrate
+
+        summoned the Petitioners under <a href="/doc/1827798/" id="a_6">section 204</a> Cr.P.C. finding a prima
+
+        facie case to be made out under <a href="/doc/1436241/" id="a_7">section 420</a> IPC.
+</p>
+<p id="p_26">        4.               Mr. Vindhya Keshri Kumar, learned Senior Counsel
+
+        appearing on behalf of the Petitioners submitted that the Petitioner
+
+        No.1 a Company incorporated under the <a href="/doc/257409/" id="a_8">Indian Companies Act</a>, 1956
+
+        builds, owns and operates telecommunication towers, optic fiber
+
+        cable network and related assets; and provides these passive
+
+        infrastructure assets on a shared basis to wireless and other
+
+        communications service providers, as well as to non-communications
+
+        customers under long term contracts. The Petitioner No.2 at the
+
+        relevant time was a Director of the Petitioner No.1 and the Petitioners
+
+        No.3 to 10 were not the employees of the Petitioner No.1 at the
+
+        relevant point in time. He has submitted that the correct fact is that
+
+        even though the Opposite Party No.2 had been issued various work
+
+        orders, it had not satisfactorily completed them. The Opposite Party
+
+        No.2 was informed of the various shortcomings of the works being
+
+        performed by it vide letters dated 21.03.2009, 13.11.2009,
+
+        04.01.2010, 11.02.2010, 26.02.2010 and 25.03.2010. However, the
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_4">                                          5/18</span>
+
+
+
+
+        Opposite Party No.2 did not take corrective actions required as per
+
+        the letters. He has further contended that on account of sheer
+
+        negligence towards its work and also the slow pace, the Petitioner
+
+        No.1 was suffering major losses and therefore the Opposite Party
+
+        No.2 was responsible for the losses suffered by it. The Opposite Party
+
+        No.2 with a view to conceal its own misdeeds during the business
+
+        relationship sent a legal notice dated 18.07.2011 to the Petitioners
+
+        demanding a sum of Rs.36,99,819.84 without any basis which it
+
+        alleges to be due. The Petitioner No.1 had written several times and
+
+        spoken over the phone to either return the materials given to the
+
+        Opposite Party No.2 for the works allotted or account for it, in the
+
+        absence of which the Petitioner No.1 would be constrained to deduct
+
+        the amount of the materials from the bills of the Opposite Party No.2.
+
+        He further submits that the material worth Rs.28,63,855/- had not
+
+        been accounted for by the Opposite Party No.2. Hence, the Petitioner
+
+        No.1 deducted Rs.28,63,855/- from the amount payable by the
+
+        Petitioner No.1 and arrived at the balance amount of Rs.17,80,845/-
+
+        which is payable and due by the Opposite Party No.2. The Petitioner
+
+        No.1 in its reply dated 04.08.2011 claimed Rs.17,80,845/- as an
+
+        amount due and payable by the Opposite Party No.2. The Petitioner
+
+        No.1 subsequently sent reminder to the Opposite Party No.2 for
+
+        payment of Rs,17,80,845/- on 5th October, 2011. On receipt of the
+
+        reply to the legal notice dated 04.08.2011 and the reminder for
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_5">                                          6/18</span>
+
+
+
+
+        payment dated 05.10.2011, the Opposite Party No.2 replied the same
+
+        by letter dated 27.10.2011. The Petitioner No.2 thereafter sent
+
+        reminders for payment vide letters dated 22.11.2011 and 21.12.2011,
+
+        however, the Opposite Party No.2 chose not to pay the amount due
+
+        and with malicious intent initiated criminal proceeding which is
+
+        nothing but an abuse of the process of law.
+</p>
+<p id="p_27">        5.               He has further submitted that the Director of the
+
+        complainant company in his solemn affirmation stated that he had
+
+        received Rs.40-50 lakhs from the Petitioner No.1. He has further
+
+        submitted that similar is the statement of the two witnesses, who were
+
+        examined in course of enquiry under <a href="/doc/1149595/" id="a_9">Section 202</a> Cr.P.C. The case of
+
+        the complainant is that even though it completed the works as per the
+
+        work orders, all payments were not released and Rs.36,99,819.84 is
+
+        the balance outstanding. He has submitted that even if the entire
+
+        allegations made in the complaint are taken to be true at its face
+
+        value, at best, it would be a case of a civil dispute arising from the
+
+        breach of contract.
+</p>
+<p id="p_28">        6.               He has submitted that neither the Petitioner No.1 nor any
+
+        of its officers, at any point of time, ever had any dishonest intention
+
+        nor did they make any false promises or offer any inducement to the
+
+        Opposite Party No.2. He has submitted that the entire complaint is
+
+        false, unfounded, concocted and vexatious based on extraneous,
+
+        irrelevant and collateral considerations, manifestly attended with
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_6">                                          7/18</span>
+
+
+
+
+        malafides and proceedings maliciously instituted with ulterior motive
+
+        to vent and wreak vengeance, coerce, intimidate and pressurize the
+
+        Petitioners to make good the alleged loss the complainant claims to
+
+        have suffered due to its own poor business standards.
+
+</p><p id="p_29">        7.               On the other hand, Mr. Ramakant Sharma, learned
+
+        Senior Counsel appearing on behalf of the Opposite Party No.2 has
+
+        submitted that a sum of Rs.36,99819.84 was due on the Petitioners
+
+        and inspite of several verbal/written request, the Petitioners failed to
+
+        pay the said final settlement amount. He submits that the officers of
+
+        the Petitioner No.1 visited the office of the Complainant-Opposite
+
+        Party No.2 and induced the complainant to do civil contract work for
+
+        the accused Company. They also assured the complainant that there is
+
+        a very good margin and profit possibility if the complainant would
+
+        start the work of making mobile tower and believing the
+
+        representations/assurance given                by   the accused   persons   the
+
+        complainant started the work assigned by the accused persons. He has
+
+        submitted that necessary factual foundation constituting an offence
+
+        under <a href="/doc/1436241/" id="a_10">section 420</a> IPC has been made in the complaint and simply
+
+        because of existence of civil remedy in respect of the dispute arising
+
+        from the breach of contract, the proceeding should not be quashed.
+
+        He has further contended that a given set of facts may make out a
+
+        purely civil wrong or a purely criminal offence or a civil wrong as
+
+        also a criminal offence. According to him, in the present case the
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_7">                                          8/18</span>
+
+
+
+
+        allegations made make out a civil wrong as also a criminal offence.
+
+        He has submitted that the crux of constituting an offence under
+
+        <a href="/doc/1436241/" id="a_11">Section 420</a> IPC is the intention of the person who induces the victim
+
+        and not the nature of the transaction which would become decisive in
+
+        inferring whether there was an offence or not. In the present case, the
+
+        complainant has stated that he was induced to believe that the accused
+
+        persons would make payments after the execution of work, but the
+
+        complainant realized latter that the accused after taking the works
+
+        from it, failed to make full and final payment. He submits that the
+
+        intention of the accused was not honest right from the beginning and
+
+        hence the ingredient of the offence punishable under <a href="/doc/1436241/" id="a_12">Section 420</a> IPC
+
+        is clearly attracted.
+</p>
+<p id="p_30">        8.               I have heard the respective counsel for the parties and
+
+        perused the materials available on record.
+</p>
+<p id="p_31">        9.               It is true that as per the complaint, the Complainant
+
+        Company M/s Jai Maa Parmar Engineers Private Limited was
+
+        engaged by the Petitioner No.1 (Reliance Infratel Limited) to carry
+
+        out civil engineering works for it on being induced by the officers of
+
+        the Company. The work orders were issued by the accused Company
+
+        and work was done by the complainant Company. However, the case
+
+        of the complainant is that even though it completed the works as per
+
+        the work orders, all payments were not released and Rs.36,99,819.84
+
+        is the balance outstanding. The complainant in his solemn affirmation
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_8">                                          9/18</span>
+
+
+
+
+        and the two witnesses examined on his behalf stated that the
+
+        complainant was paid Rs.40-50 lakhs by the Petitioner No.1 but the
+
+        balance amount was not paid despite requests having been made by
+
+        the complainant.
+</p>
+<p id="p_32">        10.                  As noted hereinabove, cognizance has been taken by the
+
+        learned Magistrate under <a href="/doc/1436241/" id="a_13">Section 420</a> IPC. The offence punishable
+
+        under <a href="/doc/1436241/" id="a_14">section 420</a> IPC reads as under:-
+</p>
+<blockquote id="blockquote_4">                         "420. Cheating and dishonestly inducing delivery
+                          of property.-
+</blockquote><blockquote id="blockquote_5">                             Whoever cheats and thereby dishonestly induces
+                          the person deceived to deliver any property to any
+                          person, or to make, alter or destroy the whole or any
+                          part of a valuable security, or anything which is
+                          signed or sealed, and which is capable of being
+                          converted into a valuable security, shall be punished
+                          with imprisonment of either description for a term
+                          which may extend to seven years, and shall also be
+                          liable to fine."
+</blockquote>
+<p id="p_33">        11.              The essential ingredients of <a href="/doc/1436241/" id="a_15">Section 420</a> IPC are:
+
+</p><pre id="pre_2">                       (i)      cheating;
+                       (ii)     dishonest inducement to deliver property or to
+</pre><p id="p_34">                                make, alter or destroy any valuable security or
+                                anything which is sealed or signed or is capable of
+                                being converted into a valuable security, and
+</p><p id="p_35">                       (iii)    mens rea of the accused at the time of making the
+                                inducement.
+</p><p id="p_36">        12.                     <a href="/doc/1436241/" id="a_16">Section 420</a> IPC does not define cheating. It only
+
+        provides punishment for cheating. The offence of cheating is defined
+
+        under <a href="/doc/1306824/" id="a_17">section 415</a> IPC, which reads as under :-
+</p>
+<p id="p_37">                             "415. Cheating --
+</p><p id="p_38">                              Whoever, by deceiving any person, fraudulently or
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_9">                                         10/18</span>
+
+
+
+
+                           dishonestly induces the person so deceived to
+                           deliver any property to any person, or to consent
+                           that any person shall retain any property, or
+                           intentionally induces the person so deceived to do
+                           or omit to do anything which he would not do or
+                           omit if he were not so deceived, and which act or
+                           omission causes or is likely to cause damage or
+                           harm to that person in body, mind, reputation or
+                           property, is said to "cheat"."
+</p>
+<p id="p_39">        13.           The Section consists of two distinct parts, each part dealing
+
+        with one way of cheating, (i) the first part contemplates where by
+
+        deception practiced upon a person the accused dishonestly or
+
+        fraudulently induces that person to deliver a property to any person or
+
+        to consent that any person shall retain any property, (ii) the second
+
+        part envisages where by deception practiced upon a person the
+
+        accused intentionally induces that person to do or omit to do so, if he
+
+        were not so deceived, and which act or omission causes or is likely to
+
+        cause damage or harm to that person in body, mind, reputation or
+
+        property.
+</p>
+<p id="p_40">        14.              There are catena of judgments of the Supreme Court
+
+        which clearly state that for an act to attract the essential ingredients of
+
+        <a href="/doc/1436241/" id="a_18">Section 420</a> IPC, it is pertinent that the intent to cheat must have been
+
+        in existence at the time of inducement to the complainant. The
+
+        Director of the complainant Company, whose statement was recorded
+
+        under <a href="/doc/444619/" id="a_19">Section 200</a> Cr.P.C. and the witnesses to the complaint whose
+
+        statements were recorded under <a href="/doc/1149595/" id="a_20">Section 202</a> Cr.P.C. have clearly
+
+        stated that the Petitioner No.1 has paid Rs.40-50 lakhs towards the
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_10">                                         11/18</span>
+
+
+
+
+        work completed and, therefore, it cannot be said that the accused
+
+        persons had any intention to cheat the complainant at the time of
+
+        inducement to the complainant. In view of the said circumstances, no
+
+        criminal element can be fastened on the accused persons.
+
+</p><p id="p_41">        15.              <a href="/doc/853800/" id="a_21">In Hridaya Ranjan Prasad Verma v. State of
+        Bihar</a>,[(2000) 4 SCC 168], in paragraph 15, the Supreme Court has
+        held as under :-
+</p><blockquote id="blockquote_6">                           "15. In determining the question it has to be kept in
+                            mind that the distinction between mere breach of
+                            contract and the offence of cheating is a fine one.
+                            It depends upon the intention of the accused at the
+                            time of inducement which may be judged by his
+                            subsequent conduct but for this subsequent
+                            conduct is not the sole test. Mere breach of
+                            contract cannot give rise to criminal prosecution
+                            for cheating unless fraudulent or dishonest
+                            intention is shown right at the beginning of the
+                            transaction, that is the time when the offence is
+                            said to have been committed. Therefore it is the
+                            intention which is the gist of the offence. To hold a
+                            person guilty of cheating it is necessary to show
+                            that he had fraudulent or dishonest intention at the
+                            time of making the promise. From his mere failure
+                            to keep up promise subsequently such a culpable
+                            intention right at the beginning, that is, when he
+                            made the promise cannot be presumed."
+</blockquote>
+<p id="p_42">        16.              <a href="/doc/174882335/" id="a_22">In Hira Lal Hari Lal Bhagwati v. CBI</a>,[ (2003) 5 SCC
+
+        257], in paragraph 40, the Supreme Court held as under :-
+
+</p><blockquote id="blockquote_7">                            "40. It is settled law, by a catena of decisions, that
+                            for establishing the offence of cheating, the
+                            complainant is required to show that the accused
+                            had fraudulent or dishonest intention at the time of
+                            making promise or representation. From his
+                            making failure to keep promise subsequently, such
+                            a culpable intention right at the beginning that is at
+                            the time when the promise was made cannot be
+                            presumed. It is seen from the records that the
+                            exemption        certificate  contained     necessary
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_11">                                         12/18</span>
+
+
+
+
+                             conditions which were required to be complied
+                             with after importation of the machine. Since the
+                             GCS could not comply with it, therefore, it rightly
+                             paid the necessary duties without taking advantage
+                             of the exemption certificate. The conduct of the
+                             GCS clearly indicates that there was no fraudulent
+                             or dishonest intention of either the GCS or the
+                             appellants in their capacities as office-bearers right
+                             at the time of making application for exemption.
+                             As there was absence of dishonest and fraudulent
+                             intention, the question of committing offence
+                             under <a href="/doc/1436241/" id="a_23">Section 420</a> of the Indian Penal Code does
+                             not arise. We have read the charge-sheet as a
+                             whole. There is no allegation in the first
+                             information report or the charge-sheet indicating
+                             expressly or impliedly any intentional deception or
+                             fraudulent/dishonest intention on the part of the
+                             appellants right from the time of making the
+                             promise or misrepresentation. Nothing has been
+                             said on what those misrepresentations were and
+                             how the Ministry of Health was duped and what
+                             were the roles played by the appellants in the
+                             alleged offence. The appellants, in our view, could
+                             not be attributed any mens rea of evasion of
+                             customs duty or cheating the Government of India
+                             as the Cancer Society is a non-profit organisation
+                             and, therefore, the allegations against the
+                             appellants levelled by the prosecution are
+                             unsustainable. The Kar Vivad Samadhan Scheme
+                             certificate along with Duncan [(1996)5 SCC 591]
+                             and Sushila Rani [(2002)2 SCC 697] judgments
+                             clearly absolve the appellants herein from all
+                             charges and allegations under any other law once
+                             the duty so demanded has been paid and the
+                             alleged offence has been compounded. It is also
+                             settled law that once a civil case has been
+                             compromised and the alleged offence has been
+                             compounded, to continue the criminal proceedings
+                             thereafter would be an abuse of the judicial
+                             process."
+</blockquote>
+<p id="p_43">        17.              <a href="/doc/1441058/" id="a_24">In Vir Prakash Sharma v. Anil Kumar Agarwal</a>,
+
+        [(2007)7 SCC 373], the Supreme Court observed that non-payment or
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_12">                                         13/18</span>
+
+
+
+
+        under-payment of the price of the goods by itself does not amount to
+
+        commission of an offence of cheating or criminal breach of trust.
+
+</p><p id="p_44">        18.              <a href="/doc/130470/" id="a_25">In Ajay Mitra v. State of M.P</a>, [(2003) 3 SCC 11], the
+
+        Supreme Court observed that a guilty intention is an essential
+
+        ingredient of the offence of cheating. In other words "mens rea" on
+
+        the part of the accused must be established before he can be convicted
+
+        of an offence of cheating.
+</p>
+<p id="p_45">        19.              <a href="/doc/39679/" id="a_26">In Indian Oil Corporation v. NEPC India Ltd. and
+
+        Others</a> [(2006) 6 SCC 736], noticing the growing tendency in
+
+        business circles to convert purely civil disputes into criminal cases,
+
+        the Supreme Court observed as under :-
+</p>
+<blockquote id="blockquote_8">                             ".......This is obviously on account of a prevalent
+                             impression that civil law remedies are time
+                             consuming and do not adequately protect the
+                             interests of lenders/creditors. Such a tendency is
+                             seen in several family disputes also, leading to
+                             irretrievable break down of marriages/families.
+                             There is also an impression that if a person could
+                             somehow be entangled in a criminal prosecution,
+                             there is a likelihood of imminent settlement. Any
+                             effort to settle civil disputes and claims, which do
+                             not involve any criminal offence, by applying
+                             pressure through criminal prosecution should be
+                             deprecated and discouraged......"
+</blockquote>
+<p id="p_46">        20.              In Indian Oil Corporation (Supra), the Supreme Court
+
+        further observed that "while no one with a legitimate cause or
+
+        grievance should be prevented from seeking remedies available in
+
+        criminal law, a complainant who initiates or persists with a
+
+        prosecution, being fully aware that the criminal proceedings are
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_13">                                         14/18</span>
+
+
+
+
+        unwarranted and his remedy lies only in civil law, should himself be
+
+        made accountable, at the end of such misconceived criminal
+
+        proceedings, in accordance with law. One positive step that can be
+
+        taken by the courts, to curb unnecessary prosecutions and harassment
+
+        of innocent parties, is to exercise their power under <a href="/doc/173363/" id="a_27">section 250</a>
+
+        Cr.P.C. more frequently, where they discern malice or frivolousness
+
+        or ulterior motives on the part of the complainant. Be that as it may."
+
+</p><p id="p_47">        21.              On the same line the Supreme Court in <a href="/doc/1699144/" id="a_28">G. Sagar Suri v.
+
+        State of U.P</a>.,[(2000) 2 SCC 636] observed in paragraph 8 as under :-
+
+</p><blockquote id="blockquote_9">                             "8. Jurisdiction under <a href="/doc/903398/" id="a_29">Section 482</a> of the Code has
+                             to be exercised with great care. In exercise of its
+                             jurisdiction the High Court is not to examine the
+                             matter superficially. It is to be seen if a matter,
+                             which is essentially of a civil nature, has been
+                             given a cloak of criminal offence. Criminal
+                             proceedings are not a short cut of other remedies
+                             available in law. Before issuing process a criminal
+                             court has to exercise a great deal of caution. For
+                             the accused it is a serious matter. This Court has
+                             laid certain principles on the basis of which the
+                             High Court is to exercise its jurisdiction under
+                             <a href="/doc/903398/" id="a_30">Section 482</a> of the Code. Jurisdiction under this
+                             section has to be exercised to prevent abuse of the
+                             process of any court or otherwise to secure the
+                             ends of justice."
+</blockquote>
+<p id="p_48">        22.              <a href="/doc/169522737/" id="a_31">In G.V. Rao v. L.H.V. Prasad</a>,[ (2000) 3 SCC 693], the
+
+        Supreme Court, in paragraph 7, held as under :-
+</p>
+<blockquote id="blockquote_10">                             "7. As mentioned above, <a href="/doc/1306824/" id="a_32">Section 415</a> has two
+                             parts. While in the first part, the person must
+                             "dishonestly" or "fraudulently" induce the
+                             complainant to deliver any property; in the second
+                             part, the person should intentionally induce the
+                             complainant to do or omit to do a thing. That is to
+                             say, in the first part, inducement must be dishonest
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_14">                                         15/18</span>
+
+
+
+
+                             or fraudulent. In the second part, the inducement
+                             should be intentional. As observed by this Court in
+                             <a href="/doc/1273982/" id="a_33">Jaswantrai Manilal Akhaney v. State of Bombay</a> a
+                             guilty intention is an essential ingredient of the
+                             offence of cheating. In order, therefore, to secure
+                             conviction of a person for the offence of cheating,
+                             "mens rea" on the part of that person, must be
+                             established. It was also observed in <a href="/doc/1597482/" id="a_34">Mahadeo
+                             Prasad v. State of W.B</a> that in order to constitute
+                             the offence of cheating, the intention to deceive
+                             should be in existence at the time when the
+                             inducement was offered."
+</blockquote>
+<p id="p_49">        23.              <a href="/doc/891864/" id="a_35">In S.W. Palanitkar v. State of Bihar</a>, [(2002) 1 SCC
+
+        241], the Supreme Court, in paragraph 21, laid down as under :-
+
+</p><blockquote id="blockquote_11">                             "21. .......... In order to constitute an offence of
+                             cheating, the intention to deceive should be in
+                             existence at the time when the inducement was
+                             made. It is necessary to show that a person had
+                             fraudulent or dishonest intention at the time of
+                             making the promise, to say that he committed an
+                             act of cheating. A mere failure to keep up promise
+                             subsequently cannot be presumed as an act leading
+                             to cheating."
+</blockquote>
+<p id="p_50">        24.              Coming back to the facts of the present case, on a plain
+
+        reading of the complaint, it would be clear that the entire prosecution
+
+        is in normal course of business and bereft of any ingredients of
+
+        <a href="/doc/1436241/" id="a_36">Section 420</a> IPC. Even if, for the sake of argument, it is assumed that
+
+        there is an outstanding amount payable by the Petitioner No.1, it
+
+        would, at best, constitute a civil dispute. In my opinion, in absence of
+
+        any ingredients constituting an offence under <a href="/doc/1436241/" id="a_37">Section 420</a> IPC, the
+
+        present complaint is clearly an abuse of the process of the court and
+
+        the complainant by launching the present criminal complaint intends
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_15">                                         16/18</span>
+
+
+
+
+        to arm-twist the Petitioners to pay an amount for which a civil
+
+        remedy is available to it.
+</p>
+<p id="p_51">        25.              The principles relating to exercise of jurisdiction under
+
+        <a href="/doc/903398/" id="a_38">section 482</a> of the Code to quash the complaint and criminal
+
+        proceedings have been considered by the Supreme Court in several
+
+        decisions. In State of Haryana &amp; Others Vs. Bhajan Lal and Others
+
+        [1992 Supp (1) SCC 335], certain parameters have been pointed out
+
+        in paragraph 102 by the Supreme Court under which prosecution
+
+        launched in a complaint or FIR may be quashed in exercise of
+
+        jurisdiction under <a href="/doc/903398/" id="a_39">Section 482</a> of the Code. It reads as under:-
+
+</p><blockquote id="blockquote_12">                             "102. In the backdrop of the interpretation of the
+                             various relevant provisions<a href="/doc/1569253/" id="a_40"> of the Code</a> under
+                             Chapter XIV and of the principles of law
+                             enunciated by this Court in a series of decisions
+                             relating to the exercise of the extra-ordinary power
+                             under <a href="/doc/1712542/" id="a_41">Article 226</a> or the inherent powers Under
+                             <a href="/doc/903398/" id="a_42">Section 482</a> of the Code which we have extracted
+                             and reproduced above, we give the following
+                             categories of cases by way of illustration wherein
+                             such power could be exercised either to prevent
+                             abuse of the process of any Court or otherwise to
+                             secure the ends of justice, though it may not be
+                             possible to lay down any precise, clearly defined
+                             and sufficiently channelised and inflexible
+                             guidelines or rigid formulae and to give an
+                             exhaustive list of myriad kinds of cases wherein
+                             such power should be exercised.
+</blockquote>
+<blockquote id="blockquote_13">                                 (1) Where the allegations made in the First
+                                 Information Report or the complaint, even if
+                                 they are taken at their face value and accepted
+                                 in their entirety do not prima-facie constitute
+                                 any offence or make out a case against the
+                                 accused.
+</blockquote>
+<blockquote id="blockquote_14">                                 (2)    Where       the    allegations   in   the   First
+ Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_16">                                         17/18</span>
+
+
+
+
+                                 Information Report and other materials, if any,
+                                 accompanying the F.I.R. do not disclose a
+                                 cognizable offence, justifying an investigation
+                                 by police officers Under <a href="/doc/833310/" id="a_43">Section 156(1)</a> of the
+                                 Code except under an order of a Magistrate
+                                 within the purview of <a href="/doc/1062869/" id="a_44">Section 155(2)</a> of the
+                                 Code.
+</blockquote>
+<blockquote id="blockquote_15">                                 (3) Where the uncontroverted allegations made
+                                 in the FIR or complaint and the evidence
+                                 collected in support of the same do not disclose
+                                 the commission of any offence and make out a
+                                 case against the accused.
+</blockquote>
+<blockquote id="blockquote_16">                                 (4) Where, the allegations in the F.I.R. do not
+                                 constitute a cognizable offence but constitute
+                                 only a non-cognizable offence, no investigation
+                                 is permitted by a police officer without an order
+                                 of a Magistrate as contemplated under <a href="/doc/1062869/" id="a_45">Section
+                                 155(2)</a> of the Code.
+</blockquote>
+<blockquote id="blockquote_17">                                 (5) Where the allegations made in the FIR or
+                                 complaint are so absurd and inherently
+                                 improbable on the basis of which no prudent
+                                 person can ever reach a just conclusion that
+                                 there is sufficient ground for proceeding against
+                                 the accused.
+</blockquote>
+<blockquote id="blockquote_18">                                 (6) Where there is an express legal bar
+                                 engrafted in any of the provisions<a href="/doc/1569253/" id="a_46"> of the Code</a>
+                                 or the concerned Act (under which a criminal
+                                 proceeding is instituted) to the institution and
+                                 continuance of the proceedings and/or where
+                                 there is a specific provision in<a href="/doc/1569253/" id="a_47"> the Code</a> or the
+                                 concerned Act, providing efficacious redress
+                                 for the grievance of the aggrieved party.
+</blockquote>
+<blockquote id="blockquote_19">                                 (7) Where a criminal proceeding is manifestly
+                                 attended with mala fide and/or where the
+                                 proceeding is maliciously instituted with an
+                                 ulterior motive for wreaking vengeance on the
+                                 accused and with a view to spite him due to
+                                 private and personal grudge."
+</blockquote>
+<p id="p_52">        26.              Judged on the touchstone of the principles noted above
+             Patna High Court Cr.Misc. No.10884 of 2012 dt.28-09-2015
+
+<span class="hidden_text" id="span_17">                                                     18/18</span>
+
+
+
+
+                    in State of Haryana Vs. Bhajan Lal (Supra), the present case would
+
+                    fall within the category nos. (1), (3) and (7).
+</p>
+<p id="p_53">                    27.              Having regard to the facts and circumstances of the case
+
+                    and taking into consideration the law laid down by the Supreme Court
+
+                    in the decisions discussed hereinabove, the present application
+
+                    deserves to be allowed. Accordingly, the application is allowed. The
+
+                    impugned order dated 25.01.2012 passed by the learned Judicial
+
+                    Magistrate 1st Class, Patna in Complaint Case No. 2658(C) of 2011 is
+
+                    set aside. Complaint Case No. 2658(C) of 2011 and all proceedings
+
+                    emanating therefrom are also quashed.
+</p>
+<p id="p_54">
+
+
+</p><p id="p_55">                                                  (Ashwani Kumar Singh, J)
+
+Pradeep/-
+</p>
+<pre id="pre_3">  U            T
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

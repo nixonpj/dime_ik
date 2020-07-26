@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Present: None For The vs Unknown on 14 March, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/34467826/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/34467826/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/34467826/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Present: None For The vs Unknown on 14 March, 2014</div><pre id="pre_1">                                     FAO No. 1658 of 2000
+
+
+
+            Chet Ram v. Rakesh
+
+            Present:           None for the appellant
+
+
+                                     ......
+</pre>
+<p id="p_1">                               Present case was burnt in the fire which broke out on
+            30.1.2011.The matter was widely reported in the press and appeals had been
+            issued through general notice to the bar to supply copies of case papers to
+            help the court to reconstruct files. Several counsel have cooperated in the
+            exercise and supplied copies. Cases which are reconstructed are being
+            posted for hearing but there are also many instances where paper books
+            have not been supplied inspite of notices to counsel.
+</p><p id="p_2">                               It has also been reported that the status of the case as to
+            whether the case is pending or decided is also not available in computer as
+            the same is not entered in the Mozilla. The case is brought for hearing with
+            such limited information as it available. The cause list contains the case
+            number, names of the parties/ counsel but none has appeared at the time of
+            calling.
+</p><p id="p_3">                               Dismissed in default with liberty to revive petition as and when
+            an application for restoration of the case alongwith paper book of the main
+            case is filed. A copy of the order be sent to appellant as well as counsel for
+            the parties. The Court Master to ensure that disposal of the case is entered in
+            the ISHICO (Mozilla). Case be consigned to record.
+</p><p id="p_4">                               Copy of this order be sent to the appellant.
+</p>
+
+<pre id="pre_2">            14.3.2014                                          (JITENDRA CHAUHAN)
+            MS                                                      JUDGE
+
+
+
+
+Sharma Manju
+2014.03.19 11:22
+I attest to the accuracy and
+integrity of this document
+High Court Chandigarh
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

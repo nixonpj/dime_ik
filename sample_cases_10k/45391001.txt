@@ -1,0 +1,1241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Vijay @ Ajay S/O Bhika Ram on 15 November, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/45391001/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:45391001">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/961083/">Section 50 in The Narcotic Drugs and Psychotropic Substances Act, 1985</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1841395/">Section 42 in The Narcotic Drugs and Psychotropic Substances Act, 1985</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/669884/">Section 57 in The Narcotic Drugs and Psychotropic Substances Act, 1985</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1727139/">The Narcotic Drugs and Psychotropic Substances Act, 1985</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/919170/">Section 20 in The Narcotic Drugs and Psychotropic Substances Act, 1985</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/45391001/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/45391001/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=man%20singh">man singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Chandni%20Chowk">Chandni Chowk</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=charas">charas</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ndps%20act">ndps act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2050%20">section 50 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arvind%20kumar">arvind kumar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kuldeep%20singh">kuldeep singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=uday%20">uday </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20all%20section%20of%20ndps%20act"> all section of ndps act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=acp">acp</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2042">section 42</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=secrete%20information">secrete information</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=narcotics">narcotics</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fir%20number">fir number</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2050%20of%20ndps%20act">section 50 of ndps act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=search%20and%20seizure">search and seizure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2057">section 57</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%2050%20of%20ndps">sec 50 of ndps</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ndps%2050%20act">ndps 50 act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=drugs%20cases">drugs cases</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Vijay @ Ajay S/O Bhika Ram on 15 November, 2010</div><div class="doc_author">Author: Ms. Santosh Mann</div>
+
+<pre id="pre_1">                                       1
+
+        IN THE COURT OF MS. SANTOSH SNEHI MANN
+             SPECIAL JUDGE, NDPS(CENTRAL)
+                TIS HAZARI COURTS, DELHI
+
+SC No. : 57/08
+FIR No. : 106/08
+U/s     : 20/61/85 <a href="/doc/1727139/" id="a_1">NDPS Act</a>
+PS      : Chandni Chowk
+
+State        Versus       Vijay @ Ajay S/o Bhika Ram
+                          R/o B-245, Gali No. 1,
+                          Police Station Vyas Colony
+                          District Bikaner, Rajasthan
+
+Date of filing of Charge Sheet              : 11.10.2008
+Date of taking up matter for the first time : 19.01.2010
+Date of conclusion of arguments             : 21.10.2010
+Date of Judgment                            : 15.11.2010
+
+Mr. Rajiv Mohan, Addl. PP for the State.
+
+Mr. Dushyant Choudhary, Advocate, Amicus Curie for the
+accused.
+
+JUDGMENT :
+</pre><p id="p_1">             Accused was charge-sheeted and faced trial on the
+allegations that on 13.08.2008 at about 5.50 pm he was found
+in possession of two packets of Charas weighing 425 Grams
+and 475 Grams in contraventions to the provisions of the
+Narcotic Drugs &amp; <a href="/doc/1727139/" id="a_2">Psychotropic Substances Act</a>, 1985
+
+
+FIR No. 106/2008; PS : Chandni Chowk             State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_1">                                        2</span>
+
+(hereinafter referred as "<a href="/doc/1727139/" id="a_3">NDPS Act</a>") and thus committed the
+offence punishable under <a href="/doc/919170/" id="a_4">Section 20</a> of the NDPS Act.
+</p><p id="p_2">2.           Prosecution story unfolds as under:
+</p><p id="p_3">             SI Man Singh was patrolling in the area of police
+station Chandni Chowk on 13.08.2008 and at about 5.30 pm
+when he was present at Company Bagh Chowk, HC Kuldeep
+Singh and Ct. Ram Kumar met him and joined him. In the
+meantime one informer came and informed SI Man Singh that
+one young boy aged about 22-23 years was sitting on a
+bench near the gate of chota park adjoining Company Bagh
+and is carrying Charas in a thaila to supply to some customer.
+This information was written by SI Man Singh on a paper and
+he informed SHO on the wireless. He also requested SHO to
+reach at the spot and constituted a raiding party with the
+accompanying police staff. He requested 3-4 public persons
+to join the raiding party and one Arvind @ Guarantee S/o
+Ram Snehi agreed to join.
+</p><p id="p_4">             The raiding party proceeded to the spot and on the
+pointing of the secret informer apprehended the accused at
+about 5.50 pm who was sitting on a bench in the Chota park.
+Accused was told about the information with the police and
+about his legal right to get himself searched by a Gazetted
+Officer or a Magistrate. A written Notice under Section 50 of
+
+FIR No. 106/2008; PS : Chandni Chowk               State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_2">                                        3</span>
+
+the <a href="/doc/1727139/" id="a_5">NDPS Act</a> was given to him, but accused refused to avail
+this offer.
+</p><p id="p_5">              On search of the bag in possession of the accused
+two packets of Charas wrapped in brown tape were
+recovered. 100 Grams Charas was taken as sample from
+each packet. Both the samples were given identification
+marks S-1 and S-2 and were made into separate pulandas.
+Packets of recovered Charas were given identification marks
+S-3 and S-4 and both these packets were converted into
+another pulanda. Pulandas were sealed and form FSL was
+filled at the spot. Necessary proceedings about the seizure
+were conducted.
+</p><p id="p_6">              On the basis of rukka prepared by SI Man Singh
+FIR was registered and further investigation was assigned to
+SI Jagdish Yadav who reached at the spot and completed the
+proceedings. Samples of Charas were sent for analysis to
+FSL and after completion of investigation charge-sheet was
+filed in the Court.
+</p><p id="p_7">3.            Prima facie offence punishable under <a href="/doc/919170/" id="a_6">Section 20</a> of
+the NDPS Act was found to be made out against the accused
+by the ld. Predecessor. Charge was framed accordingly to
+which accused           pleaded not        guilty   and    claimed        trial.
+Prosecution was then directed to lead evidence to prove its
+
+FIR No. 106/2008; PS : Chandni Chowk                      State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_3">                                        4</span>
+
+case.
+</p><p id="p_8">4.           Prosecution has examined 10 witnesses in all:
+</p><p id="p_9">             PW-3 HC Lovkesh Kumar was working at PS
+Chandni Chowk as duty officer on 13.08.2008 who registered
+FIR No. 106/08 vide Ex. PW-3/A on the basis of rukka sent by
+SI Man Singh and made endorsement on the rukka vide
+Ex. PW-3/B.
+</p><p id="p_10">             PW-5 Dr. Rajiv Sharma was ACP of the area on the
+date of incident who reached at the spot at about 8.00 pm
+after receiving wireless information from SHO PS Chandni
+Chowk where he made enquiries from the accused about
+recovery of Charas in the presence of SHO and staff.
+</p><p id="p_11">             PW-6 Ct. Uday Veer Singh received two sealed
+parcels bearing seals of 'SD' and 'MS' alongwith form FSL
+from Malkhana vide RC No. 65/21 on 04.09.2008 and
+deposited them at FSL.
+</p><p id="p_12">             PW-10 HC Sohan Pal was working as MHC(M) at
+PS Chandni Chowk on 13.03.2008 who received sealed
+pulandas of the case property alongwith form FSL from
+Inspector Shiv Dayal for depositing in the Malkhana and made
+entry to this effect at Serial No. 2371 in the Register No. 19
+vide Ex. PW-10/A. Witness stated that on 03.09.2008 two
+sealed parcels alongwith form FSL were given to Ct. Uday
+
+FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_4">                                        5</span>
+
+Veer Singh (PW-6) vide RC No. 64/21 for depositing at FSL.
+However the parcels were brought back by Ct. Uday Veer
+Singh on the same date and were deposited in the Malkhana.
+Endorsements in this regard were made by this witness at
+point P and Q on Ex. PW-10/A. Witness further stated that on
+04.09.2008 two sealed parcels were handed over to Ct. Uday
+Veer Singh vide RC No. 65/21 (Ex. PW-10/B) which he
+deposited at FSL against the receipt Ex. PW-10/C.
+</p><p id="p_13">             PW-1 SI Man Singh, PW-2 HC Kuldeep Singh,
+PW-4 Arvind Kumar and PW-9 HC Ram Kumar are the
+witnesses of search, seizure and recovery. PW-4 Arvind
+Kumar is the public witness.
+</p><p id="p_14">             PW-7 Inspector Shiv Dayal was the SHO of the
+police station on the date of incident and PW-8 SI Jagdish
+Yadav is the investigating officer (IO).
+</p><p id="p_15">5.           All the incriminating evidence on record was put to
+the accused. He denied that he was apprehended from the
+park and claimed that he was passing through the labour
+chowk area of Company Bagh to go to the railway station
+when police caught him. He has denied that any contraband
+was recovered from his possession. He denied that SHO
+came to the spot and claimed to be falsely implicated.
+However he did not wish to lead evidence in defence.
+</p>
+<p id="p_16">FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_5">                                        6</span>
+
+</p><p id="p_17">6.           I have heard Mr. Rajiv Mohan, Ld. Addl. PP for the
+State and Mr. Dushyant Choudhary, Advocate, Amicus Curie
+for the accused. I have carefully perused the record.
+</p><p id="p_18">7.           PW-1 SI Man Singh has testified that on 13.08.2008
+while patrolling he reached at the Company Bagh Chowk,
+where he met HC Kuldeep and Ct. Ram Kumar who also
+joined him. Witness stated that at about 5.30 pm he received
+a secret information that a person was sitting on a bench near
+children park with a bag containing Charas. He wrote this
+information vide Ex. PW-1/A and informed SHO with request
+to reach at the spot. He asked 3-4 public persons to join the
+raiding party and one Arvind @ guarantee agreed. The raiding
+party reached at the park and on the pointing of the secret
+informer accused was apprehended who was sitting on a
+bench. Witness stated that accused was carrying a dull blue
+colour bag in his hand and was told about the secret
+information with the police and the need for search of his bag.
+Accused was informed that it was his legal right to give his
+search in the presence of a Gazetted Officer or a Magistrate.
+A written Notice under <a href="/doc/961083/" id="a_7">Section 50</a> of the NDPS Act was given
+vide Ex. PW-1/B, but accused refused to avail this offer which
+was recorded vide Ex. PW-1/C. Witness stated that he offered
+search of the members of the raiding party to the accused
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_6">                                        7</span>
+
+which he refused. He took search of the public witness and
+nothing incriminating was recovered from him. Witness further
+stated that accused was searched by the public witness
+Arvind and two packets wrapped in khakhi tape were
+recovered from his bag. The packets contained black
+substance which was found to be Charas by smell. Weight of
+Charas in one packet was found to be 425 Grams and in the
+other bag was found to be 475 Grams. 100 Grams of Charas
+was taken as sample from each packet and converted two
+separate pulandas. Remaining Charas was kept in the two
+packets and then put in the bag and converted into one
+pulanda. FSL form was filled at the spot and all the three
+pulandas alongwith form FSL were sealed by this witness with
+his seal of 'MS' and were seized vide Ex. PW-1/D. Seal was
+handed over to public witness Arvind. Witness stated that he
+prepared the tehrir Ex. PW-1/E and in the meantime SHO
+Inspector Shiv Dayal reached at the spot to whom he handed
+over all the three pulandas, form FSL and carbon copy of the
+seizure memo. SHO affixed his seal of 'SD' on the pulandas
+and form FSL. Witness stated that ACP Kotwali also reached
+at the spot and interrogated the accused. He handed over the
+tehrir to Ct. Ram Kumar for registration of FIR. Witness stated
+that SI Jagdish Yadav along with Ct. Ram Kumar came to the
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_7">                                        8</span>
+
+spot to whom he handed over all the documents and custody
+of the accused. SI Jagdish Yadav inspected the spot and
+prepared the site plan at the instance of this witness and
+relieved him from the spot after recording of his statement.
+Witness identified the samples of Charas S-1 and S-2 as
+Ex. P-4 and Ex. P-1 respectively and the recovered Charas in
+the packets S-3 and S-4 as Ex. P-2 and Ex. P-3.
+</p><p id="p_19">8.           PW-4 Arvind Kumar has testified that on 13.08.2008
+at about 5.45 pm he was returning from the Chandni Chowk to
+his shop outside Old Delhi Railway Station via Company Bagh
+and when he reached near Company Bagh Chowk, SI Man
+Singh (PW-1) met him alongwith a Head Constable, a
+Constable and one person in civil cloths and told him that a
+person sitting on the bench in the park was having some
+objectionable object was to be apprehended and requested
+him to join. He accompanied the police officials and went to
+the park. Witness stated that on the pointing of the person in
+civil cloths, accused was apprehended who was sitting on a
+bench with a thaila. Witness stated that SI Man Singh
+informed the accused that his search was to be taken and
+gave him in writing that he could give his search to senior
+officer or a Judge. Witness stated that accused refused to call
+any of them and in his search conducted by SI Man Singh,
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_8">                                        9</span>
+
+Rs. 600/- and a letter was recovered from him. Witness further
+stated that two packets of Charas wrapped in brown colour
+tape were recovered from his thaila. Witness deposed on the
+lines of PW-1 SI Man Singh about the weights of the Charas
+packets, taking of samples and making of pulandas of the
+samples and remaining Charas. Witness stated that one
+police officer with three stars came and checked the packets.
+Witness further stated that another officer wearing a blue cap
+also came and made the enquiries from the accused and all
+other persons. Witness stated that he signed the documents
+prepared by SI Man Singh and one document was given to
+Constable who was sent to the police station. Witness stated
+that later on a police officer with two stars came to the spot
+and made inquiries from all of them. He identified the case
+property on the lines of PW-1 SI Man Singh. This witness was
+cross-examined by Addl. PP and in the cross-examination he
+admitted that he signed the Notice under <a href="/doc/961083/" id="a_8">Section 50</a> of the
+NDPS Act and the seizure memo at point-X. He admitted that
+pulanda and form FSL were sealed by SI Man Singh with the
+seal of 'MS' and by SHO with the seal of 'SD'. He admitted
+that pulandas of Charas, form FSL and copy of seizure memo
+were taken by SHO. Witness admitted that he signed the
+arrest and personal search memo of the accused.
+</p>
+<p id="p_20">FIR No. 106/2008; PS : Chandni Chowk          State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_9">                                        10</span>
+
+</p><p id="p_21">9.           PW-2 HC Kuldeep Singh and PW-9 HC Ram Kumar
+have deposed on the lines of PW-1 SI Man Singh about
+patrolling in the area, receipt of secret information, constitution
+of the raiding party, public person Arvind (PW-4) joining the
+raiding party, apprehension of the accused on the pointing of
+the secret informer and recovery of two packets of Charas
+from the thaila in possession of the accused. Both the
+witnesses have also deposed on the lines of PW-1 SI Man
+Singh about proceedings conducted at the spot with respect
+to taking samples, making of pulandas, sealing of the case
+property, filling of FSL form, seizure of the case property,
+preparation of the rukka, arrival of SHO and ACP at the spot
+and handing over of the pulandas of the case property to
+SHO. Both the witnesses have identified the case property on
+the lines of PW-1 SI Man Singh. In addition PW-9 HC Ram
+Kumar has deposed that he took the rukka prepared by SI
+Man Singh to the police station and got the FIR registered. He
+stated that after registration of the case investigation was
+assigned to SI Jagdish Yadav and returned to the spot where
+SI Jagdish Yadav met him and conducted the proceedings
+about the arrest, formal search and interrogation of the
+accused.
+</p><p id="p_22">10.          PW-7 Inspector Shiv Dayal has testified that on
+
+FIR No. 106/2008; PS : Chandni Chowk              State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_10">                                        11</span>
+
+13.08.2008 he was posted as SHO at PS Chandni Chowk and
+at about 5.30 pm when he was patrolling in the area with staff,
+he received a message on his wireless from SI Man Singh
+(PW-1) about an information that a person was sitting in the
+park with Charas in his possession. Witness stated that he
+directed appropriate action against him and at about 7.45 pm
+he reached at the spot where he met SI Man Singh alongwith
+staff and the accused. Three sealed parcels bearing seals of
+'MS' containing Charas were handed over to him by SI Man
+Singh. Witness stated that he made inquiries from the
+accused and satisfied himself. He stated that ACP Dr. Rajiv
+Sharma also reached at the spot, whom he had informed, and
+satisfied himself about the recovery of Charas. Witness stated
+that he affixed his seal of 'SD' on all the pulandas and form
+FSL and took the pulandas alongwith copy of seizure memo
+alongwith him which he deposited in the Malkhana of the
+police station. Witness stated that he had put the FIR No. on
+sealed parcels, FSL form and copy of seizure memo. He
+identified his signatures at point X on composite parcel
+Ex. P-X, which contained Ex. P-2 and Ex. P-3. He also
+identified his signatures at point X on the cloth pulandas of
+parcels Ex. P-1 and Ex. P-4.
+</p><p id="p_23">11.          PW-8 SI Jagdish Yadav has testified that on
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_11">                                        12</span>
+
+13.08.2008 he was posted as Incharge, PP Ballimaran and at
+about 8.00-8.15 pm when he was patrolling in the area, duty
+officer informed him to reach at Chota park near Company
+Bagh as a boy named Vijay was apprehended by SI Man
+Singh with Charas. Witness stated that he reached at the spot
+where he met SI Man Singh alongwith staff and the accused.
+He received the documents from SI Man Singh and prepared
+the site plan vide Ex. PW-8/A. Witness further stated that in
+the mean time constable Ram Kumar returned to the spot and
+handed over to him the original tehrir and copy of FIR. He
+arrested the accused vide Ex. PW-2/A and conducted his
+personal search vide Ex. PW-2/B wherein Rs. 600/- and
+original    Notice under          Section   50   of the   NDPS Act
+(Ex. PW-8/B) was recovered. Witness further stated that
+disclosure of accused was written as Ex. PW-8/C and he was
+taken to the police station after medical examination. He
+further stated that he deposited the personal search articles of
+the accused with the MHC(M). On 14.08.2008 he prepared
+the information under <a href="/doc/669884/" id="a_9">Section 57</a> of the NDPS Act vide
+Ex. PW-8/D which was sent to ACP through SHO. On
+04.09.2008 he sent the exhibits (samples) to FSL through
+Ct. Uday Veer Singh. The CRO report with respect to accused
+is Ex. PW-8/E. Witness filed the FSL result as Ex. P-X.
+</p>
+<p id="p_24">FIR No. 106/2008; PS : Chandni Chowk                 State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_12">                                        13</span>
+
+</p><p id="p_25">12.          It is submitted by Ld. Addl. PP for the State that
+recovery of two packets of Charas of 425 Grams and 475
+Grams has been duly proved by the testimony of the police
+witnesses, corroborated by a public witness Arvind (PW-4)
+and the documentary evidence. It is submitted that minor
+discrepancies in the statements of the witnesses did not effect
+the merit of the case because of the positive evidence about
+the search, recovery and seizure of the Charas from the
+possession of the accused. It is further submitted that
+procedural requirements about the search, seizure and
+recovery of the Charas have been duly followed and proved
+through the documents. It is thus submitted that accused be
+convicted for committing the offence punishable under <a href="/doc/919170/" id="a_10">Section
+20</a> of the NDPS Act for being found in possession of Charas.
+</p><p id="p_26">13.          It is argued by Ld. Amicus Curie on behalf of the
+accused in his defence that prosecution story is doubtful and
+does not inspire confidence on the following grounds:
+</p><pre id="pre_2">             (1)    Statutory procedure under <a href="/doc/1841395/" id="a_11">Section 42</a>
+             of the NDPS Act has not been followed.
+             (2)    Search       has    been   conducted    in
+             violation of <a href="/doc/961083/" id="a_12">Section 50</a> of the NDPS Act.
+             (3)    Compliance of <a href="/doc/1363838/" id="a_13">Section 55</a> and <a href="/doc/669884/" id="a_14">57</a> of
+             the NDPS Act is highly doubtful.
+
+FIR No. 106/2008; PS : Chandni Chowk                 State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_13">                                        14</span>
+
+             (4)    Deposition of sample pulandas at FSL
+             Rohini is doubtful as testimony of PW-6
+             Ct. Uday Veer Singh is not trustworthy.
+             (5)    There are material contradictions in
+             the statements of the witnesses.
+             (6)    There is delay in sending the sample
+             to FSL.
+</pre><p id="p_27">14.          With respect to non-compliance of mandatory
+requirement of <a href="/doc/1841395/" id="a_15">Section 42</a> of NDPS Act, it is submitted by
+Ld. Amicus Curie that as per deposition of PW-1 SI Man
+Singh he wrote the secret information vide Ex. PW-1/A, which
+bears FIR Number and other particulars of the case on the top
+at Portion-A. It is submitted that PW-2 HC Kuldeep Singh and
+PW-9 HC Ram Kumar, who are the witnesses of this
+recording have contradicted each other about the time when
+Portion-A of this document was written and about the person,
+who wrote this. It is further submitted that confusion about the
+time and author of Portion-A of this document has been
+further complicated by the IO SI Jagdish Yadav (PW-8), who
+stated that he only mentioned the FIR Number in Portion-A.
+</p><p id="p_28">15.          It has come in the cross-examination of PW-2 HC
+Kuldeep Singh that Portion-A was not mentioned on
+Ex. PW-1/A when he signed this document. PW-9 HC Ram
+
+FIR No. 106/2008; PS : Chandni Chowk             State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_14">                                        15</span>
+
+Kumar has corroborated PW-2 HC Kuldeep Singh that when
+he signed Ex. PW-1/A, Portion-A was not written. He further
+stated that this portion was written after registration of the FIR
+by SI Man Singh (PW-1) at about 10.30 pm at the spot. PW-8
+SI Jagdish Yadav has stated in his cross-examination that he
+had only mentioned the FIR Number in Portion-A and except
+that he had not written any other words. It is on the basis of
+above responses of these witnesses that Ld. Amicus Curie
+has submitted that recording of secret information vide
+Ex. PW-1/A is doubtful because the particulars in Portion-A
+were not in existence when this document is projected to have
+been written. I have carefully gone through the testimony of
+the witnesses of Ex. PW-1/A on record. The secret
+information was recorded by PW-1 SI Man Singh vide
+Ex. PW-1/A. PW-2 HC Kuldeep Singh and PW-9 HC Ram
+Kumar are the witnesses of this recording. It is correct that
+FIR Number and case particulars could not have been written
+when this information was recorded because FIR was not
+registered by them. But nothing has come in the testimony of
+either the author of this document i.e. PW-1 HC Man Singh or
+the witnesses of this document i.e. PW-2 HC Kuldeep Singh
+and PW-9 HC Ram Kumar to suggest or indicate that FIR
+Number and case particulars were written when the secret
+
+FIR No. 106/2008; PS : Chandni Chowk             State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_15">                                         16</span>
+
+information was recorded. Though, nothing has been put to
+PW-1 SI Man Singh on this aspect, it has specifically come in
+the cross-examination of PW-2 HC Kuldeep Singh and PW-9
+HC Ram Kumar that when they signed this document,
+Portion-A, which contains FIR Number and case particulars,
+was not written on it. Rather PW-9 HC Ram Kumar has
+clarified    further     that    this   Portion-A   was      written     after
+registration of the FIR. Further, different versions of PW-8 SI
+Jagdish Yadav and PW-9 HC Ram Kumar as to who recorded
+this Portion-A will not demolish the authenticity of this
+document because it is the time of recording of Portion-A
+which is material and not the person. Testimony of all the
+witnesses of this document is consistent on the fact that
+Portion-A was not written when secret information was
+recorded by PW-1 SI Man Singh vide Ex. PW-1/A. Moreover,
+this aspect could have been explained only by SI Man Singh
+(PW-1), who has not been cross-examined on this fact and
+testimony of the witnesses of Ex. PW-1/A does not leave any
+doubt that it was recorded prior to registration of the FIR.
+</p><p id="p_29">16.          Though writing of document Ex. PW-1/A is not
+found doubtful in the present case, nevertheless it is deemed
+necessary to consider whether compliance of <a href="/doc/1841395/" id="a_16">Section 42</a> of
+the NDPS Act was registered in this case.
+</p>
+<p id="p_30">FIR No. 106/2008; PS : Chandni Chowk                      State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_16">                                        17</span>
+
+</p><p id="p_31">17.          Application of <a href="/doc/1841395/" id="a_17">Section 42</a> of the NDPS came up for
+consideration before the Apex Court in "Narayanaswami
+Ravishankar         V/s     Assistant       Directorate     of    Revenue
+Intelligence, 2002 Drugs Cases (Narcotics) 606" where the
+search and seizure took place at the Airport, a public place. It
+was held by the Supreme Court that when the search, arrest
+and seizure takes place in public places, provisions of <a href="/doc/1374738/" id="a_18">Section
+43</a> of NDPS Act would be applicable and further that since
+<a href="/doc/1841395/" id="a_19">Section 42</a> of NDPS Act was not applicable in that case, the
+question of non-compliance of provisions of <a href="/doc/1841395/" id="a_20">Section 42</a> of
+NDPS Act is wholly irrelevant. This issue was also considered
+by the by the Apex Court in "Abdul Rashid Ibrahim Mansuri
+V/s State of Gujarat Drugs Cases (Narcotics) 1 JT 2000(1)
+SC 471", wherein it was held that mandatory requirement of
+reducing the information into writing applied when the
+information is that the narcotic substance is kept or concealed
+in any building, conveyance or enclosed place. The above
+legal position has been followed by High Court of Delhi
+recently, in "Ramesh Kumar Rajput V/s State of NCT of
+Delhi, 2009 Drugs Cases (Narcotics) 289", where the
+arrest, search and seizure took place on the roof of the Palika
+Car Parking and it was held that requirement of <a href="/doc/1841395/" id="a_21">Section 42</a> of
+NDPS Act did not apply in that case as the Palika Car Parking
+
+FIR No. 106/2008; PS : Chandni Chowk                      State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_17">                                        18</span>
+
+is undoubtedly a public place.
+</p><p id="p_32">18.          In view of the above settled legal position with
+respect to search, seizure and arrest, <a href="/doc/1841395/" id="a_22">Section 42</a> of the NDPS
+Act would not be applicable in the present case because the
+search, seizure and arrest has taken place in a public place
+i.e. a park. Therefore, contention raised on behalf of the
+accused about non-compliance of <a href="/doc/1841395/" id="a_23">Section 42</a> of NDPS Act is
+rejected.
+</p><p id="p_33">19.          Another contention raised by the Ld. Amicus Curie
+is that statutory procedure under <a href="/doc/961083/" id="a_24">Section 50</a> of the NDPS Act
+has not been followed by the police while conducting search
+of the accused. It is submitted that though as per the
+prosecution story, a Notice under <a href="/doc/961083/" id="a_25">Section 50</a> of the NDPS Act
+was served to the accused, but the contradictions in the
+testimony of the witnesses to this Notice makes the service of
+Notice highly doubtful. It is pointed out that while PW-1 SI
+Man Singh has claimed during his examination-in-chief that
+the Notice under <a href="/doc/961083/" id="a_26">Section 50</a> of the NDPS Act was given to the
+accused by him vide Ex. PW-1/B, a similar claim has been
+made by PW-2 HC Kuldeep Singh in his examination-in-chief.
+</p><p id="p_34">20.          As per the prosecution case and as deposed by
+PW-1 SI Man Singh, Notice under Section 50 of the NDPS Act
+(Ex. PW-1/B) was given to the accused by SI Man Singh
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_18">                                        19</span>
+
+(PW-1) on which HC Kuldeep Singh (PW-2), public witness
+Arvind (PW-4) and HC Ram Kumar (PW-9) have signed as
+witnesses. Nothing has come in the cross-examination of
+PW-1 SI Man Singh to create any doubt about his deposition.
+Though it has come in the examination-in-chief of HC Kuldeep
+Singh (PW-2) that he served a Notice under <a href="/doc/961083/" id="a_27">Section 50</a> of the
+NDPS Act, but he has specifically stated in his cross-
+examination that he did not serve any Notice under <a href="/doc/961083/" id="a_28">Section 50</a>
+of the NDPS Act and clarified further that he never stated
+before the Court that the Notice under <a href="/doc/961083/" id="a_29">Section 50</a> of the
+NDPS Act was served by him to the accused. In view of the
+specific statement and clarification given by this witness in his
+cross-examination, his statement in examination-in-chief on
+this fact seems to be an error, which can not discredit the
+documentary evidence i.e. Ex. PW-1/B and specific deposition
+of witnesses of this document.
+</p><p id="p_35">21.          Though, the raiding party followed the procedure
+before searching the accused in compliance of <a href="/doc/961083/" id="a_30">Section 50</a> of
+the NDPS Act it is deemed necessary to record that in the
+facts and circumstances of this case requirement of <a href="/doc/961083/" id="a_31">Section
+50</a> of NDPS Act was not applicable, because the Charas was
+recovered not from the person of the accused, but from a
+thaila carried by him in his hand {Reference to "State of
+
+FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_19">                                        20</span>
+
+Punjab V/s Balbir Singh, AIR 1999 SC 2378", "State of
+Rajasthan V/s Daulat Ram, AIR 2005 SC 3186" and "State
+of Himachal Pradesh V/s Pawan Kumar, 2005 IV SCC
+350"}. Thus, in view of the settled legal position statutory
+procedure of <a href="/doc/961083/" id="a_32">Section 50</a> of the NDPS Act was not required to
+be followed in this case.
+</p><p id="p_36">22.          With respect to violation of <a href="/doc/1363838/" id="a_33">Section 55</a> of the NDPS
+Act contention of Ld. Amicus Curie is two folds; one that there
+is contradiction in the statements of PW-10 SI Sohan Pal,
+MHC(M) and Inspector Shiv Dayal (PW-7) with respect to the
+time of deposit of pulandas of the case property in the
+Malkhana, and second that there is contradiction in the
+statements of PW-10 SI Sohan Pal, MHC(M) on one hand and
+SI Man Singh (PW-1) and Inspector Shiv Dayal (PW-7) on the
+other hand about number of pulandas deposited and the seals
+on them.
+</p><p id="p_37">23.          PW-10 HC Sohan Pal, MHC(M) has stated in the
+cross-examination that Inspector Shiv Dayal (PW-7) had
+deposited the case property in the Malkhana on 13.08.2008 at
+about 12.00 Noon. It is argued by Ld. Amicus Curie that this
+statement of MHC(M) about time of deposition of case
+property demolishes the entire prosecution case because as
+per the rukka and the FIR, Charas was recovered on
+
+FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_20">                                        21</span>
+
+13.08.2008 at about 05.50 pm and so how could the pulandas
+of the case property be deposited by the SHO (PW-7
+Inspector Shiv Dayal) in the Malkhana through HC Sohan Pal
+(PW-10) at 12.00 Noon. It is true that statement of PW-10 HC
+Sohan Pal in the cross-examination about time of deposition
+of the pulandas of the case property is contrary to the
+prosecution case. Therefore, it is essential to analyze the
+impact of this contradiction in the light of other evidence on
+record.
+</p><p id="p_38">24.          According to rukka Ex. PW-1/E prepared by SI Man
+Singh (PW-1), Charas was recovered from the possession of
+the accused at 05.50 pm. On the basis of this rukka, FIR was
+registered by PW-3 HC Lovkesh Kumar on 13.08.2008 at
+about 08.10 pm vide Ex. PW-3/A. It has come in the testimony
+of PW-7 Inspector Shiv Dayal, SHO that before handing over
+of the pulandas of the case property to MHC(M) PW-10 SI
+Sohan Pal he mentioned the FIR Number on them. His
+testimony on this fact has gone unassailed. Therefore, in any
+circumstances, pulandas of the case property could not be
+deposited before 08.10 pm. Since there is positive evidence
+on record in the form of testimony of the witnesses i.e. PW-1
+SI Man Singh, PW-7 Inspector Shiv Dayal and documents i.e.
+rukka Ex. PW-1/E and FIR Ex. PW-3/A indicating about time
+
+FIR No. 106/2008; PS : Chandni Chowk          State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_21">                                        22</span>
+
+of deposition of case property, the error committed by PW-10
+SI Sohan Pal could be attributed to failure of human memory,
+which is inconsequential. {Reference to "Dalel Singh V/s
+State of Haryana, 2009(2) Drugs Cases (Narcotics) 289"}.
+</p><p id="p_39">25.          The     other     contradiction     pointed      out    in   the
+statements of witnesses about number of pulandas and seal
+impressions is that while PW-10 SI Sohan Pal has stated that
+two pulandas sealed with the seals of "MS" alongwith Form
+FSL were deposited by Inspector Shiv Dayal on 13.03.2008,
+whereas according to the prosecution case and deposition of
+Inspector Shiv Dayal (PW-7) three pulandas bearing the seals
+of "MS" &amp; "SD" were deposited by him in the Malkhana. on
+13.08.2008.
+</p><p id="p_40">26.          In    order     to    analyze     the   impact     of    above
+contradictions, it is necessary to examine the relevant material
+on record. After recovery of Charas from the possession of
+accused, two samples were taken by SI Man Singh (PW-1),
+which were converted into two pulandas S-1 &amp; S-2. The two
+packets of recovered Charas were converted into separate
+pulandas with mark S-3 &amp; S-4, which were kept in a third
+pulanda. Testimony of PW-1 SI Man Singh is specific on the
+fact that he affixed his seal of "MS" on the three pulandas
+besides affixing his seal on FSL Form. Nothing has come in
+
+FIR No. 106/2008; PS : Chandni Chowk                    State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_22">                                        23</span>
+
+his cross-examination to create any doubt about these facts.
+He is duly corroborated on these facts by PW-1 SI Man Singh,
+PW-9 HC Ram Kumar and public witness Arvind Kumar
+(PW-4). Testimony of all the witnesses of recovery and
+seizure is specific that the three pulandas of the case property
+were handed over to Inspector Shiv Dayal (PW-7) at the spot,
+who after satisfying himself affixed his seal of "SD" on those
+pulandas at the spot and thereafter carried them with him
+while leaving the spot. Testimony of Inspector Shiv Dayal
+(PW-7) has gone unassailed on the above facts about number
+of pulandas and seal impressions on them. Testimonies of
+PW-7 Inspector Shiv Dayal is specific and has gone
+unassailed on the fact that he handed over three sealed
+pulandas bearing the seals of "MS" &amp; "SD" alongwith FSL
+Form and carbon copy of seizure memo to HC Sohan Pal,
+MHC(M) for depositing in the Malkhana on 13.08.2008. The
+factual description of the pulandas of the case property has
+come on record on their production in the Court during trial for
+the first time in the testimony of PW-1 SI Man Singh. Total
+three pulandas were produced. Pulandas marked S-1 &amp; S-2
+containing remnant samples were produced with the seal of
+"MS FSL DELHI" and the third pulanda containing recovered
+Charas packets marked S-3 &amp; S-4 was produced with the
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_23">                                        24</span>
+
+seals of "MS" &amp; "SD". Since the sample pulandas were sent to
+FSL Rohini for analysis, the remnant samples were returned
+with the seal of "MS FSL DELHI" and FSL Result Ex. P-X
+clearly shows that parcel S-1 &amp; S-2 were received in the
+laboratory with the seals of "MS" &amp; "SD", which were intact
+and tallied with the specimen seals as per forwarding letter
+(Form FSL). Therefore, the positive evidence on record in the
+form of statements of witnesses of recovery and seizure, the
+documentary evidence in the form of seizure memo and the
+actual production of case property in the Court during trial
+clearly establishes that three pulandas of the case property
+were deposited in the Malkhana on 13.08.2008, which were
+marked as S-1, S-2 &amp; S-3, all sealed with the seals of "MS" &amp;
+"SD". Therefore, no doubt is created about statutory
+compliance of <a href="/doc/1363838/" id="a_34">Section 55</a> of the NDPS Act. Inconsistency in
+the statement of PW-10 HC Sohan Pal, MHC(M) is
+inconsequential and could be possible due to failure of
+memory over a period of time. {Reference to Dalel Singh's
+case (Supra)}.
+</p><p id="p_41">27.          One of the contentions raised by Ld. Amicus Curie
+is that information of arrest and seizure was not sent to the
+Senior Officer, as required under <a href="/doc/669884/" id="a_35">Section 57</a> of NDPS Act. It is
+argued that though PW-7 Inspector Shiv Dayal and PW-8 SI
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_24">                                        25</span>
+
+Jagdish Yadav have deposed that information under <a href="/doc/669884/" id="a_36">section
+57</a> of the NDPS Act was sent to ACP Kotwali, but the ACP
+Dr. Rajiv Sharma himself is silent about this fact when he
+appeared in the Court and deposed as PW-5.
+</p><p id="p_42">28.          To my mind, there is no discrepancy or lacuna
+about compliance of <a href="/doc/669884/" id="a_37">Section 57</a> of NDPS Act because
+purpose of this provision is to inform the Senior Officer to rule
+out any malicious or false implication. In the present case the
+concerned Senior Officer i.e. Dr. Rajiv Sharma, ACP himself
+arrived at the spot after apprehension and seizure and has
+deposed as PW-5 on these facts. In view of the testimony of
+this witness on record and the document Ex. PW-8/D,
+compliance of <a href="/doc/669884/" id="a_38">Section 57</a> of NDPS Act is duly proved.
+</p><p id="p_43">29.          A contention has been raised by Ld. Amicus Curie
+that according to deposition of PW-10 SI Sohan Pal, two
+sealed sample parcels were handed over to Ct. Uday Veer
+Singh (PW-6) on 03.09.2008 for depositing at FSL Rohini,
+which were brought back on the same day by Ct. Uday Veer
+Singh (PW-6) due to objections from FSL Rohini. It is pointed
+out that according to PW-10 SI Sohan Pal the two sealed
+sample parcels bearing the seals of "MS" &amp; "SD" were sent
+again through Ct. Uday Veer Singh (PW-6) on 04.09.2008, but
+Ct. Uday Veer Singh while deposing as a witness in the Court
+
+FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_25">                                        26</span>
+
+as PW-6 is totally silent about carrying the sample pulandas to
+FSL Rohini at all on 03.09.2009. It is argued that silence of
+PW-6 Ct. Uday Veer Singh about taking of sample pulandas
+to FSL Rohini on 03.09.2009 and testimony of PW-10 HC
+Sohan Pal that the samples were returned from FSL Rohini
+with certain objections on 03.09.2009 create serious doubt
+whether the report received from FSL Rohini is about the
+samples of the Charas, which was allegedly recovered from
+the possession of the accused.
+</p><p id="p_44">30.          In order to appreciate the above arguments put-
+forth, it was deemed necessary to peruse the record of
+movement of the sample pulandas form Malkhana to FSL
+Rohini. The requisite record was produced by IO SI Jagdish
+Yadav, who was examined as a Court Witness and due
+opportunity was given to the defence for cross-examination.
+IO placed on record the certified copy of the letter dated
+03.09.2008 (date of letter is wrongly typed in the deposition of
+this witness as 03.02.2008) as Ex. CW-1/A by which sample
+pulandas were returned to the police station. The Court
+witness stated that objections have been indicated at Serial
+No. 6, 11, and 12 of this letter by tick-mark and that he
+removed the objections by attaching attested and legible
+copies of the documents and about the quota and made
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_26">                                        27</span>
+
+endorsement in this regard on the back of this letter at point P
+to P-1 bearing his signature at point-X. The witness further
+stated that sample was again sent on 04.09.2008 for
+examination.
+</p><p id="p_45">31.          Though, PW-6 Ct. Uday Veer Singh is silent about
+taking the sealed sample pulandas to the FSL on 03.09.2008
+but testimony of PW-10 HC Sohan Pal and the record i.e.
+Register No. 19, Ex. PW-10/A clearly establish that the
+sample pulandas were taken from MHC(M) (PW-10 HC
+Sohan Pal) by Ct. Uday Veer Singh (PW-6) on 03.09.2008 for
+depositing at FSL, which were returned on the same day by
+FSL with certain objections. Ex. CW-1/A is the letter of FSL
+dated 03.09.2008 vide which sample pulandas were returned.
+This document of FSL indicates that objections raised were
+with respect to attested and legible copies of the FIR, seizure
+memo, quota for receiving the case property for the month of
+September, 2008 and proper, complete and current Road
+Certificate. There is no reason to disbelieve the testimony of
+IO SI Jagdish Yadav as Court witness that the sample
+pulandas were sent again on 04.09.2008 after removing the
+objections. The three objections indicated in the letter of FSL
+(Ex. CW-1/A) are related to the procedural formalities about
+deposition of the samples at FSL and do not relate to the seal
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_27">                                          28</span>
+
+on the pulanda, description or contents of the pulanda so as
+to create any doubt about the case property. Return of the
+sample pulandas by FSL on 03.09.2008 and its re-deposition
+on 04.09.2008 is duly explained by the IO SI Jagdish Yadav,
+who was recalled as a Court witness and there is no doubt
+that the sample pulandas marked S-1 and S-2 were received
+intact in FSL Rohini and are the true representatives of the
+two packets of Charas recovered from the possession of the
+accused.
+</p><p id="p_46">32.                  Different   contradictions   pointed     out     by     the
+Ld. Amicus Curie in the testimony of the witnesses are that :
+</p><blockquote id="blockquote_1">                          PW-1 SI Man Singh and PW-2 HC Kuldeep
+             Singh have stated that search of the accused was
+             conducted by public witness PW-4 Arvind Kumar,
+             but the public witness (PW-4) stated that accused
+             was searched by SI Man Singh (PW-1).
+</blockquote><blockquote id="blockquote_2">                          PW-9 HC Ram Kumar has stated in the cross-</blockquote>
+                  
+
+
+
+
+<p id="p_47">             examination that rukka was given to him at about
+             10.00 pm, but the time of registration of the FIR is
+             08.10 pm.
+                          Public witness Arvind Kumar (PW-4) has
+              
+
+
+
+
+             stated in the cross-examination that taraju was
+             called through PW-9 HC Ram Kumar, but PW-9 HC
+
+FIR No. 106/2008; PS : Chandni Chowk                        State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_28">                                         29</span>
+
+             Ram Kumar has stated in the cross-examination
+             that they were in the IO Kit.
+</p><p id="p_48">                          PW-4 Arvind Kumar has stated in the cross-
+</p>              
+
+
+
+
+<p id="p_49">             examination that the informer left the spot after
+             pointing towards the accused but PW-9 HC Ram
+             Kumar has stated that informer remained at the spot
+             for about 15 minutes.
+</p><p id="p_50">                          PW-4 Arvind Kumar at one stage stated in the
+                  
+
+
+
+
+             cross-examination that no seals were handed over
+             to him, and immediately in the next moment stated
+             that two seals were handed over to him, but
+             according to the prosecution story only seal of SI
+             Man Singh (PW-1) was handed over to him.
+</p><p id="p_51">                          Witnesses of search, recovery and seizure
+                  
+
+
+
+
+             have given different versions about the time of
+             recording of their statements and about the time till
+             they remained at the spot.
+</p><p id="p_52">33.                  The impact of discrepancies and inconsistencies in
+the statements of the recovery witnesses was considered by
+the Apex Court in "State of Punjab V/s Lakhwinder Singh &amp;
+Another, 2010(1) Drugs Cases (Narcotics) 192" where one
+witness stated that the seal was handed over to "X" and the
+other stated that it was handed over to "Y". The Apex Court
+
+FIR No. 106/2008; PS : Chandni Chowk                   State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_29">                                        30</span>
+
+held that such contradictions are very minor discrepancies,
+which do not in any manner affect the substratum of the case
+and the offence alleged against the accused.
+</p><p id="p_53">34.          In Dalel Singh's case (Supra) the witnesses of
+recovery and seizure of contraband had given different
+versions in their depositions about weight of the seized
+contraband and the Apex Court held that since the documents
+clearly brought out the weight of the contraband, the error
+committed by the witnesses can be attributed to failure of
+human memory, which is inconsequential.
+</p><p id="p_54">35.          On careful perusal of deposition of public witness
+Arvind Kumar (PW-4), it is found that he has spoken about
+personal search of the accused in which Rs. 600/- &amp; original
+Notice under <a href="/doc/961083/" id="a_39">Section 50</a> of the NDPS Act were recovered and
+search of thaila in possession of accused from which two
+packets of Charas were recovered. Though, he has stated
+specifically that personal search of the accused was
+conducted by SI Man Singh (PW-1), which is not in tune with
+the prosecution story, but with respect to search of thaila, he
+does not say that it was conducted by SI Man Singh (PW-1).
+Therefore, there is nothing contrary in the statement of public
+witness Arvind Kumar (PW-4) viz-a-viz statement of other
+witnesses on this aspect. However, contradiction in his
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_30">                                        31</span>
+
+statement about the person who conducted personal search
+of the accused can be ignored as it does not go to the
+substratum of the case affecting recovery.
+</p><p id="p_55">36.          Coming to the contradiction pointed out in the
+statement of PW-9 HC Ram Kumar about time of registration
+of the FIR viz-a-viz other evidence on record, testimony of
+PW-3 HC Lovkesh Kumar, Duty Officer and the documents
+i.e. rukka (Ex. PW-1/E), endorsement of Duty Officer on the
+rukka vide Ex. PW-3/B and FIR Ex. PW-3/A, clearly establish
+that FIR was registered at 08.10 pm. Therefore, in no
+circumstances the rukka could have been taken by PW-9 HC
+Ram Kumar at the police station at 10.00 pm i.e. after
+registration of the FIR. Error committed by PW-9 HC Ram
+Kumar is inconsequential because the documentary evidence
+and testimony of other witnesses has gone unassailed about
+the time of FIR and does not leave any scope of doubt.
+</p><p id="p_56">37.          Contradictions pointed out by Ld. Amicus Curie in
+the statement of witnesses about who brought the taraju baat,
+the time when the secret informer left the spot, the number of
+seals handed over to the public witness, the place and time of
+recording the statement of the witnesses and the time till the
+witnesses remained at the spot do not affect the substratum of
+the case and the recovery of Charas from the accused. In
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_31">                                        32</span>
+
+view of above referred decisions of the Supreme Court they
+are    minor      inconsistencies       and   deviations   which       are
+inconsequential in nature.
+</p><p id="p_57">38.          At one stage, during arguments it was submitted by
+Ld. Amicus Curie that testimony of public witness Arvind
+Kumar (PW-4) cannot be looked into as he has been declared
+hostile.
+</p><p id="p_58">39.          I have gone through the testimony of public witness
+Arvind Kumar (PW-4). He has been cross-examined by Addl.
+PP for the State. In the cross-examination by the Addl. PP,
+the witness his signatures on the Notice under <a href="/doc/961083/" id="a_40">Section 50</a> of
+the NDPS Act and the seizure memo at point-X. He had also
+admitted that all the pulandas alongwith Form FSL were
+sealed by SI Man Singh with his seal of "MS" and by SHO
+with the seal of "SD". He admitted that the pulandas alongwith
+Form FSL and carbon copy of the seizure memo were taken
+by SHO. I see no reason why this witness was cross-
+examined by Addl. PP for the State. This witness has stated in
+his examination-in-chief that he had signed the documents.
+Being a public witness his incapacity to identity the documents
+by name is understood. Due to passage of time, the witness
+might have forgotten to depose about sealing of the case
+property. It is a settled legal principle that if a witness has not
+
+FIR No. 106/2008; PS : Chandni Chowk                  State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_32">                                        33</span>
+
+deposed on the line of the prosecution case on certain facts or
+has turned hostile, his testimony cannot be rejected entirely.
+In the present case though the public witness Arvind Kumar
+(PW-4) has been cross-examined by Addl. PP for the State
+but it has no impact on his deposition which is otherwise on
+the lines of the prosecution story on material facts relating to
+identification of the accused, circumstances of the incident,
+search, recovery and seizure of the contraband from the
+possession of the accused. Testimony of the public witness
+Arvind Kumar          (PW-4) is found trustworthy and nothing has
+come in the cross-examination to create any doubt about his
+credibility.
+</p><p id="p_59">40.            The last contention raised by Ld. Amicus Curie is
+that there is delay in sending the sample pulandas to the FSL.
+I have gone through the material on record about keeping of
+the pulandas and their movement from one hand to another till
+they were deposited at FSL Rohini. The delay has no
+consequence on the fact that the samples were taken from
+the Charas packets recovered form the possession of the
+accused, which has been proved and established by the
+cogent and reliable evidence. It has been established on
+record that the sample pulandas alongwith pulanda of the
+recovered Charas were handed over to SHO at the spot, who
+
+FIR No. 106/2008; PS : Chandni Chowk              State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_33">                                        34</span>
+
+deposited them intact in the Malkhana. Testimony of
+witnesses on record is cogent on the fact that the sample
+pulandas were deposited intact at FSL. Therefore, delay in
+sending the sample pulandas did not and could not have
+caused any prejudice to the accused. {Reference to "Hardip
+Singh V/s State of Punjab, 2008 Drugs Cases (Narcotics)
+409"}.
+</p><p id="p_60">41.          It is established by the testimony of the witnesses
+examined in the Court that PW-1 SI Man Singh constituted a
+raiding party comprising of himself, PW-2 HC Kuldeep Singh,
+PW-9 HC Ram Kumar and a public witness PW-4 Arvind
+Kumar on the directions of PW-7 Inspector Shiv Dayal, SHO
+pursuant to a secret information Ex. PW-1/A. Testimony of all
+the witnesses of raiding party is consistent on the fact that
+accused was apprehended on the pointing of the informer and
+two packets of Charas were recovered from a thaila in his
+possession. Testimony of the recovery witnesses is consistent
+on the fact that prior to search, accused was duly informed
+about the secret information with the police and about his
+legal right to give his search in the presence of a Gazetted
+Officer or a Magistrate vide Ex. PW-1/B, but the accused
+refused to avail and his refusal was recorded vide
+Ex. PW-1/C.
+</p>
+<p id="p_61">FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_34">                                        35</span>
+
+</p><p id="p_62">42.          Testimony of search and recovery witnesses on
+record is consistent on the fact that the packets of Charas
+were wrapped in brown tape. It is established that weight of
+one packet was 425 Grams and other was 475 Grams. 100
+Grams of Charas was taken out as sample from each packet
+and were converted to pulandas with mark S-1 &amp; S-2 and the
+packets of Charas were kept as it is and then put in a
+separate pulanda. It is proved that all the three pulandas were
+sealed by PW-1 SI Man Singh with his seal of "MS", who also
+filled the FSL Form at the spot.
+</p><p id="p_63">43.          Testimony of PW-7 Inspector Shiv Dayal, SHO is
+cogent on the fact that he reached at the spot, where SI Man
+Singh met him alongwith the accused and the staff and
+handed over to him three sealed parcels. He has been
+corroborated on these facts by all the recovery witnesses
+including the public witness. Deposition of PW-5 Dr. Rajiv
+Sharma, ACP about his arrival at the spot has gone
+unassailed and he is also corroborated on the fact by the
+other witnesses. Testimony of PW-7 Inspector Shiv Dayal,
+SHO has gone unassailed on the fact that he affixed his seal
+of "SD" on the three pulandas of the case property and FSL
+Form. Testimony of PW-7 Inspector Shiv Dayal, SHO and
+PW-5 Dr. Rajiv Sharma, ACP has gone unassailed on the fact
+
+FIR No. 106/2008; PS : Chandni Chowk           State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_35">                                        36</span>
+
+that they satisfied themselves about arrest and recovery of
+Charas at the spot. It is proved by the testimony of PW-1 SI
+Man Singh, other recovery witnesses and PW-7 Inspector
+Shiv Dayal, SHO that pulandas of the case property were
+handed over to SHO at the spot alongwith Form FSL and
+carbon copy of the seizure memo.
+</p><p id="p_64">44.          Registration of the FIR Ex. PW-3/A on the basis of
+rukka (Ex. PW-1/E) is proved by PW-3 HC Lovkesh Kumar. It
+is proved by the testimony of PW-7 Inspector Shiv Dayal,
+SHO, PW-10 HC Sohan Pal and Malkhana Register
+Ex. PW-10/A that sealed pulandas of the case property were
+deposited by the SHO in the Malkhana.
+</p><p id="p_65">45.          Testimony of PW-8 SI Jagdish Yadav is cogent and
+trustworthy on the fact that investigation of this case was
+assigned to him after registration of the FIR and he conducted
+the proceedings at the spot including preparation of Site Plan
+(Ex. PW-8/A), arrest of the accused (Ex. PW-2/A), personal
+search of the accused (Ex. PW-2/B) and interrogation of the
+accused (Ex. PW-8/C). It is also proved by the testimony of IO
+SI Jagdish Yadav that information of arrest and recovery was
+duly communicated to the Senior Officer i.e. ACP under
+<a href="/doc/669884/" id="a_41">Section 57</a> of the NDPS Act vide Ex. PW-8/D.
+</p>
+
+
+<p id="p_66">FIR No. 106/2008; PS : Chandni Chowk            State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_36">                                         37</span>
+
+
+
+</p><p id="p_67">46.          Testimony of PW-6 Ct. Uday Veer Singh and
+PW-10 HC Sohan Pal is consistent on the fact that two sealed
+pulandas bearing the seals of "SD" &amp; "MS" were deposited
+intact at FSL Rohini. They are supported on this fact by the
+documents         i.e.    RC     No.     65/21      (Ex.   PW-10/B)        and
+acknowledgment receipt (Ex. PW-10/C). The result given by
+FSL with respect to two samples marked S-1 &amp; S-2 is proved
+as Ex. P-X, which is the report of Dr. Madhulika Sharma,
+Assistant Director (Chemistry), Forensic Science Laboratory,
+Delhi and is admissible in evidence under <a href="/doc/692331/" id="a_42">Section 293</a> of
+Cr. P. C. According to this report, two sample pulandas
+marked S-1 &amp; S-2 bearing the seals of "MS" &amp; "SD", weighing
+approximately 100 Grams each were received in the
+Laboratory for examination. On Microscopic, Chemical, TLC,
+GC-MS, LC-MS &amp; HPTLC examination the substance in the
+samples was found to be Charas.
+</p><p id="p_68">47.          In    view     of    the    material     on   record,      above
+observations, discussions and findings, it is proved beyond
+reasonable doubt that on 13.08.2008 at about 05.50 pm in the
+park adjacent to Company Bagh, Chandni Chowk, Delhi
+accused was in possession of 900 Grams of Charas in
+contravention to the provisions of <a href="/doc/1727139/" id="a_43">NDPS Act</a>. Accused Vijay
+
+FIR No. 106/2008; PS : Chandni Chowk                       State V/s.Vijay @ Ajay
+<span class="hidden_text" id="span_37">                                        38</span>
+
+@ Ajay is thus held guilty and is convicted for committing
+the offence punishable under <a href="/doc/1557102/" id="a_44">Section 20(b)</a> of the NDPS
+Act.
+</p>
+
+
+<p id="p_69">Announced in the open Court          (Santosh Snehi Mann)
+on 15.11.2010               Special Judge, NDPS (Central)
+                                   Tis Hazari Courts, Delhi
+
+
+
+
+FIR No. 106/2008; PS : Chandni Chowk        State V/s.Vijay @ Ajay
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

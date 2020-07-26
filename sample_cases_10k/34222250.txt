@@ -1,0 +1,735 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sri. K.V.Narayanaswamy vs M/S.Sri.Lakshmi Industries on 17 July, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/34222250/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/34222250/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/34222250/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/34222250/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bangalore District Court</div>
+<div class="doc_title">Sri. K.V.Narayanaswamy vs M/S.Sri.Lakshmi Industries on 17 July, 2015</div><pre id="pre_1">IN THE COURT OF III ADDL.SENIOR CIVIL JUDGE AND MOTOR
+    ACCIDENT CLAIMS TRIBUNAL, BENGALURU. (SCCH-18)
+
+                 Dated : this 17th day of July 2015.
+
+                   Present: SRI.VEERANNA SOMASEKHARA
+                                         B.Com, LL.B.,
+                         III ADDL. SENIOR CIVIL JUDGE.
+                         COURT OF SMALL CAUSES,
+                             BANGALORE.
+
+                       M.V.C.No.2740/2014
+
+   PETITIONER:          Sri. K.V.Narayanaswamy
+                        S/o.Obegowda,
+                        Aged about 65 years,
+                        R/at No.14-4, 4th Cross,
+                        Near Raghavendra Temple,
+                        Manjunath Nagar,
+                        Bangalore-560023.
+                                    (By Pleader Sri.SP)
+
+                                /Vs./
+
+   RESPONDENTS:         1. M/s.Sri.Lakshmi Industries,
+                           No.21, 100 Feet Road,
+                          Opp. KeonicsBhavan,
+                          Chokkasandra,
+                          T.Dasrahallil
+                          Bengaluru-560057.
+                                                 (Exparte)
+
+                        2.The Manager,
+                        ICICI Lombard Gen. Ins. Co.Ltd.,
+                                    2              MVC.No.2740/2014
+                                                          SCCH-18
+
+
+
+
+                             No.89, SVR Complex,
+                             Madivala, Koramangala,
+                             Hosur Road,
+                             Bangalore-560 068.
+                                            (By Pleader Smt.SR)
+
+                            J U D G M E N T
+</pre>
+<p id="p_1">         The petitioner has filed this petition against the
+
+respondents U/Sec.166 of M.V. Act seeking compensation of
+
+Rs.1,00,000/- with interest for the injuries sustained by him
+
+in a motor vehicle accident.
+</p>
+<p id="p_2">        2.    The brief contents of the petition averments are as
+
+under:
+</p>
+<p id="p_3">             On 21-5-2013 at about 3.10 p.m., the petitioner was
+
+standing infront of Madduramma temple, Maddur, at that
+
+time,        the   driver   of   the   car   bearing   registration
+
+No.KA-02-MB-2243 drove the same in a rash and negligent
+
+manner and dashed against the petitioner. As a result of the
+
+said accident, the petitioner has fell-down and sustained
+
+grievous injuries to his right leg.      At that time, the public
+<span class="hidden_text" id="span_1">                                3              MVC.No.2740/2014</span>
+                                                      SCCH-18
+
+
+
+
+gathered at the spot have shifted the injured to the General
+
+hospital, Maddur, wherein, he has taken first aid and
+
+thereafter he was shifted to Hosmat Hospital, Bengaluru,
+
+wherein, he has taken treatment as an inpatient for a period
+
+of 2 days.   Further, the contention of the petitioner is that,
+
+he has spent an amount of Rs.20,000/- towards medical,
+
+conveyance and other incidental expenses.
+
+</p><p id="p_4">      The contention of the petitioner is that, he was hale and
+
+healthy at the time of accident, aged about 65 years, working
+
+as a Supervisor at Hindusthan Petroleum Ltd., and drawing
+
+salary of Rs.8,000/-p.m.    Due to the accidental injuries, he
+
+has suffered lot and he is not in a position to work as he was
+
+doing earlier to the accident. Further, the contention of the
+
+petitioner is that, the accident has occurred due to rash and
+
+negligent driving of the driver of the car.
+
+</p><p id="p_5">      The first respondent is the owner of the offending car
+
+and the second respondent is the insurer of the said vehicle
+<span class="hidden_text" id="span_2">                                  4               MVC.No.2740/2014</span>
+                                                         SCCH-18
+
+
+
+
+and the policy was in force as on the date of accident. Hence,
+
+both the respondents are jointly and severally liable to pay
+
+the compensation to the petitioner.         Contending the above
+
+facts, the petitioner has filed this petition against the
+
+respondents seeking compensation of Rs.1,00,000/- with
+
+interest and cost.
+</p>
+<p id="p_6">      3. In response to the petition notice, the respondent
+
+No.2 has appeared before the court through its counsel and
+
+filed the objection statement. On the other hand, the
+
+respondent   No.1    has   not   appeared    before   the   court.
+
+Accordingly, it was placed exparte.
+</p>
+<p id="p_7">      4. The brief contents of objection statement of
+
+respondent No2 are as under:
+</p>
+<p id="p_8">      The respondent No.2 has contended in the objection
+
+statement that, the petition filed by the petitioner is
+
+vexatious and frivolous.    Further the respondent No.2 has
+
+denied the entire contents of petition averments in toto. The
+<span class="hidden_text" id="span_3">                               5               MVC.No.2740/2014</span>
+                                                      SCCH-18
+
+
+
+
+respondent No.2 has denied the issuance of policy to the
+
+offending car. On the other hand, the said policy was issued
+
+to one Ford Fiesta bearing Engine No.JB8522 and Chasis
+
+No.JB8522 and the policy was in force as on the date of
+
+accident.   Hence, this respondent is not liable to indemnify
+
+the first respondent.     Further the respondent No.2 has
+
+denied the age, occupation and income of the petitioner and
+
+also injuries sustained by him. Contending the above facts, he
+
+prays to dismiss the petition against the respondent No.2.
+
+</p><p id="p_9">     5. On the basis of above pleadings, the following issues
+
+were framed:
+</p>
+<p id="p_10">
+</p><blockquote id="blockquote_1">    1. Whether the petitioner proves that he had
+       sustained grevious injuries in an accident that
+       was occurred due to rash and negligent driving of
+       the driver of the CAR bearing Reg. No.KA-02-
+       MB-2243 on 21-5-2013           at about 3.10p.m.,
+       near Madduramma Temple, Maddur, Mandya
+       District?
+</blockquote><span class="hidden_text" id="span_4">                                6               MVC.No.2740/2014</span><blockquote id="blockquote_2">
+</blockquote><blockquote id="blockquote_3">                                                       SCCH-18
+
+
+
+
+</blockquote><blockquote id="blockquote_4">    2.       Whether the petitioner is entitled for
+           compensation as prayed? If so, at what rate and
+           from whom?
+</blockquote>
+<blockquote id="blockquote_5">    3. What order or award?</blockquote><p id="p_11">
+
+
+</p><p id="p_12">      6.    In order to prove the case, the petitioner has
+
+examined himself as PW-1 and got marked the documents as
+
+Ex-P-1 to 7.
+</p>
+<p id="p_13">      7. The respondent no.2 has not produced any oral and
+
+documentary evidence.
+</p>
+<p id="p_14">      8. Heard the arguments and perused the records.
+
+</p><p id="p_15">      9. My findings to the aforesaid issues are as follows:
+
+</p><blockquote id="blockquote_6">                   Issue No.1: In the affirmative
+                   Issue No.2: In the partly affirmative
+                   Issue No.3: As per final order
+                                 for the following:
+</blockquote>
+<blockquote id="blockquote_7">                     R E A S O N S
+
+</blockquote><p id="p_16">      10. ISSUE NO.1:- During the course of argument, the
+
+learned counsel for the petitioner argued by reiterating the
+
+contents of petition averments and also evidence put forth by
+
+PW-1. Further he argued that, the petitioner has proved his
+<span class="hidden_text" id="span_5">                                     7               MVC.No.2740/2014</span>
+                                                            SCCH-18
+
+
+
+
+case by producing oral and documentary evidence. On the
+
+other hand, the respondent No.2 has not produced any
+
+rebuttal documents to disbelieve the case of the petitioner.
+
+Accordingly, he prays to allow the petition.
+
+</p><p id="p_17">      11. On the other hand, the learned counsel for the
+
+respondent No.2 argued by reiterating the contents of
+
+objection statement filed by the respondent no.2.            Further
+
+the counsel for the respondent No.2 argued that, the
+
+petitioner has failed to prove his case as contended in the
+
+petition    by   producing   oral       and   documentary   evidence.
+
+Accordingly, she prays to dismiss the petition against the R-2.
+
+</p><p id="p_18">      12.    On rival contention urged by both the counsel,
+
+I intend to discuss the merits of the case.
+
+</p><p id="p_19">      On perusal of the evidence on record, it reveals that,
+
+the petitioner has examined himself as PW-1 and he has
+
+stated in his evidence by reiterating the contents of petition
+<span class="hidden_text" id="span_6">                                         8                     MVC.No.2740/2014</span>
+                                                                      SCCH-18
+
+
+
+
+averments.     In support of his evidence, the petitioner has
+
+produced the documents which are marked as Ex-P-1 to 7.
+
+</p><p id="p_20">     Thereafter the counsel for the respondent No.2 has
+
+cross-examined           the       PW-1         at      length.          In       the
+
+cross-examination, the PW-1 has clearly stated that:
+
+</p><blockquote id="blockquote_8">              "C¥ÀWÁvÀ     ªÀiÁrvÉAzÀÄ        ºÉÃ½zÀ    PÁgï£ÀÄß   C¥ÀWÁvÀPÀÆÌ
+     ªÉÆzÀ®Ä £Á£ÀÄ £ÉÆÃqÀ°®è, PÁgÀt            PÁgï £À£Àß »A§¢¬ÄAzÀ §AzÀÄ
+     £À£ÀUÉ C¥ÀWÁvÀ ªÀiÁrgÀÄvÀÛzÉ.          PÁgï C¥ÀWÁvÀ ªÀiÁqÀzÉÃ EzÀÝgÀÆ
+     PÀÆqÀ,    £Á£ÀÄ     PÁgï      ZÁ®PÀ£ÀÄ     DgÀ£ï     ªÀiÁrzÀÝ£ÀÄß     £ÉÆÃr
+     UÀr©rUÉÆAqÀÄ        ©zÀÄÝ     UÁAiÀÄªÀiÁrPÉÆArgÀÄªÉ£ÉAzÀgÉ          ¸ÀjAiÀÄ®è.
+     C¥ÀWÁvÀªÀÅ PÁgï ZÁ®PÀ£À vÀ¦à¤AzÀ DUÀzÉÃ, £À£Àß ¤®ðPÀëvÀ£À¢AzÀ
+     DVgÀÄªÀÅzÉAzÀgÉ ¸ÀjAiÀÄ®è."</blockquote><p id="p_21">
+
+
+
+</p><p id="p_22">     13. On perusal of the above evidence, it appears that,
+
+the defence of the respondent No.2 is that, the accident has
+
+occurred due to negligent act of the petitioner. But to prove
+
+the said defence, the respondent No.2 has not produced any
+
+rebuttal documents. On the other hand, on perusal of entire
+
+evidence of PW-1 it appears that, though the counsel for the
+
+respondent No.2 has cross-examined the PW-1 at length, but
+<span class="hidden_text" id="span_7">                                9               MVC.No.2740/2014</span>
+                                                       SCCH-18
+
+
+
+
+nothing has been elicited from him to disbelieve his version
+
+regarding rash and negligent driving of the driver of the car.
+
+</p><p id="p_23">      14. Further on perusal of Ex-P-1 and 5 i.e. true copy of
+
+FIR with complaint and the charge sheet, it appears that, the
+
+Maddur Traffic Police have registered a case against the
+
+driver of the car and after completion of investigation, the
+
+concerned police have filed the charge sheet against the
+
+driver of the car .
+</p>
+<p id="p_24">      15. On appreciation of evidence of PW-1 coupled with
+
+documents and for the above reason, I am of the opinion that
+
+the petitioner has proved that, the accident has occurred due
+
+to rash and negligent driving of the driver of the car.
+
+</p><p id="p_25">      16. On perusal of the evidence of PW-1 coupled with
+
+the Ex-P-4 i.e. true copy of wound certificate, it reveals that,
+
+the petitioner has sustained simple injury in the above said
+
+accident.
+</p><span class="hidden_text" id="span_8">                               10               MVC.No.2740/2014</span><p id="p_26">
+</p><p id="p_27">                                                       SCCH-18
+
+
+
+
+</p><p id="p_28">      17. On appreciation of evidence of PW-1 coupled with
+
+documents and for the above reason, I am of the opinion that
+
+the petitioner has proved this issue by producing oral and
+
+documentary evidence. Accordingly, I answer this issue is in
+
+affirmative.
+</p>
+<p id="p_29">      18.    ISSUE NO.2:- The specific contention of the
+
+petitioner is that, prior to the accident, he was hale and
+
+healthy, aged about 65 years, working as a Supervisor at
+
+Hindusthan     Petroleum   Ltd.,   and     drawing   salary   of
+
+Rs.8,000/- p.m.        Due to the accidental injuries, the
+
+petitioner has suffered lot and he is not in a position to work
+
+as he was doing earlier to the accident.
+
+</p><p id="p_30">      19. On perusal of the evidence of PW-1, it appears that,
+
+after the accident also the petitioner has continued the same
+
+work in the same company. Hence, I am of the opinion that,
+
+the petitioner has not entitled for compensation under the
+
+head of loss of future income.
+</p><span class="hidden_text" id="span_9">                               11               MVC.No.2740/2014</span><p id="p_31">
+</p><p id="p_32">                                                       SCCH-18
+
+
+
+
+</p><p id="p_33">      20.   Further on perusal of Ex-P-4 i.e. copy of wound
+
+certificate, it shows that, the petitioner has sustained
+
+lacerated wound over right leg 9 cm x ½ cm exposing and the
+
+said injury is in simple in nature. Further on perusal of Ex.P.7
+
+i.e. discharge summary, it appears that, the petitioner has
+
+taken treatment as an inpatient for a period 2 days at Hosmat
+
+hospital, Bengaluru.   Considering the above facts and also
+
+looking to the nature of the injuries and period of
+
+hospitalisation, I deem it just and reasonable to award an
+
+amount of Rs.6,000/- under the head of pain and suffering
+
+and Rs.3,000/- under the head of attendance, nourishment
+
+and conveyance charges.
+</p>
+<p id="p_34">      21.   The petitioner has contended in the petition and
+
+stated in his evidence that, he has spent an amount of
+
+Rs.20,000/- towards medical and other incidental expenses.
+
+</p><p id="p_35">      But to prove the said fact, he has not produced any
+
+supportive document.      Further as stated above that, the
+<span class="hidden_text" id="span_10">                                 12             MVC.No.2740/2014</span>
+                                                       SCCH-18
+
+
+
+
+petitioner has sustained cut lacerated wound to the right leg
+
+and he has taken treatment as an inpatient for a period of 2
+
+days at Hosmat hospital, Bengaluru.       Considering the above
+
+facts, I deem it just and reasonable to grant a compensation
+
+of Rs.5,000/-under the head of medical expenses.
+
+</p><p id="p_36">     22.   To   prove     the   occupation   and   income,   the
+
+petitioner has not produced any supportive documents.
+
+Further due to the accidental injury, he might not have
+
+attended his regular work atleast for a period of 15 days, as
+
+he was in the hospital for a period of 2 days. Under these
+
+circumstances, the petitioner is entitled for compensation of
+
+Rs.4,000/- under the head of loss of income during laid up
+
+period and rest period.
+</p>
+<p id="p_37">      Considering the above facts and circumstances of the
+
+case and for the above reason, I am of the opinion that the
+
+petitioner is entitled for total compensation of Rs.18,000/-
+
+under all the above conventional heads.
+<span class="hidden_text" id="span_11">                                13             MVC.No.2740/2014</span>
+</p><p id="p_38">                                                      SCCH-18
+
+
+
+
+</p><p id="p_39">      23. LIABILITY: On perusal of the petition, it appears
+
+that, the respondent No.1 is the owner of the offending car
+
+and the respondent no.2 is the insurer of the said vehicle. But
+
+the specific contention of the respondent No.2 is that, the
+
+respondent No.2 insurance company has not issued the policy
+
+to the offending    vehicle.   On the other hand, the policy
+
+Number shown in the petition was issued to one ford fiesta
+
+vehicle.   But to prove the said fact and to disprove the
+
+version of the petitioner, the respondent No.2 has not
+
+produced any rebuttal document. Further, as stated above
+
+that, the accident has occurred due to rash and negligent
+
+driving of the driver of the car. Considering the above facts
+
+and circumstances of the case       and for the above reason,
+
+I am of the opinion that, the respondent No.1 and 2 are jointly
+
+and severally liable to pay compensation to the petitioner.
+
+However, the respondent No.2 being the insurer is liable to
+
+pay compensation of Rs.18,000/- with interest @ 9% p.a. from
+<span class="hidden_text" id="span_12">                                14                MVC.No.2740/2014</span>
+                                                         SCCH-18
+
+
+
+
+the date of the petition till the date of realization.
+
+Accordingly, I answer issue No.2 is in the partly affirmative.
+
+</p><p id="p_40">      24.   ISSUE NO.3: In view of findings on issue
+
+No.1 and 2, I proceed to pass the following;
+
+</p><blockquote id="blockquote_9">                           O R D E R
+
+            The petition filed by the petitioner is partly
+
+      allowed with cost.
+</blockquote>
+<blockquote id="blockquote_10">            The petitioner is entitled for compensation
+
+      of Rs.18,000/- with interest @9% p.a. from the
+
+      date of petition till the date of realization.
+
+</blockquote><blockquote id="blockquote_11">            The respondent No.1 and 2 are jointly and
+
+      severally liable to pay compensation to the
+
+      petitioner.    However, the respondent No.2 i.e.
+
+      insurance company is directed to deposit the
+
+      compensation    amount    in   this   tribunal   within
+
+      a month from the date of this order.
+<span class="hidden_text" id="span_13">                                  15              MVC.No.2740/2014</span>
+</blockquote><blockquote id="blockquote_12">                                                         SCCH-18
+
+
+
+
+               After deposit of compensation amount, the
+
+         entire compensation amount with accrued interest
+
+         shall be released in the name of petitioner
+
+         through    account   payee   cheque    on    proper
+
+         identification.
+</blockquote>
+<blockquote id="blockquote_13">               Advocate fee is fixed at Rs.1,000/-.
+
+               Draw award accordingly.
+</blockquote>
+<p id="p_41">(Dictated to the stenographer, transcribed by her, corrected,
+signed and then pronounced by me in open court on this 17th
+day of July 2015).
+</p>
+<p id="p_42">
+
+
+</p><p id="p_43">                             (VEERANNA SOMASEKHARA)
+                           III ADDL.SMALL CAUSES JUDGE
+                               &amp; XXIX ACMM, BANGALORE.
+</p>
+<p id="p_44">                   ANNEXURES
+
+List of witnesses examined on petitioner's side:
+
+P.W.1.         K.V.Narayanaswamy
+
+
+List of documents exhibited on petitioner`s side:
+
+</p><pre id="pre_2">Ex-P1        True copy of FIR with complaint
+Ex-P2        True copy of spot mahazar
+<span class="hidden_text" id="span_14">                             16              MVC.No.2740/2014</span>
+                                                    SCCH-18
+
+
+
+
+Ex-P3    True copy of MVA report
+Ex-P4    True copy of Wound certificate
+Ex-P5    True copy of charge sheet
+Ex-P6    True copy of accident register extract
+Ex-P7    Discharge summary
+
+</pre><p id="p_45">List of witnesses examined on respondents side:
+</p><p id="p_46">-Nil-
+</p>
+<p id="p_47">List of documents exhibited on respondents side:
+</p><p id="p_48">-Nil-
+</p>
+<p id="p_49">
+
+</p><blockquote id="blockquote_14">                 III ADDL.SMALL CAUSES JUDGE
+                           &amp; XXIX ACMM.
+</blockquote>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

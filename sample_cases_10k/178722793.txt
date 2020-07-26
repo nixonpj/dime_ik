@@ -1,0 +1,263 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>K.Vasanthakumari vs The State Of Tamil Nadu on 19 January, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/178722793/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/178722793/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/178722793/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/178722793/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=KRISHNAGIRI">KRISHNAGIRI</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=higher%20education">higher education</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamilnadu">tamilnadu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamil">tamil</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=school%20education">school education</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=educational">educational</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=district%20educational%20officer">district educational officer</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">K.Vasanthakumari vs The State Of Tamil Nadu on 19 January, 2015</div><pre id="pre_1">       
+
+  
+
+   
+
+ 
+ 
+ 		IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED: 19.01.2015
+CORAM:
+THE HONOURABLE MR.JUSTICE K.K.SASIDHARAN
+W.P.No.18024 of 2012
+and
+M.P.No.1 of 2012
+
+K.Vasanthakumari						.. Petitioner						vs.
+
+1.	The  State of Tamil Nadu
+  	rep.by Secretary to Government
+	Education Department (Higher Secondary)
+	Fort St.George, Chennai 600 009.
+
+2.	The Director of School Education
+	(Higher Secondary), Chennai 600 006.
+
+3.	The Joint Director of School Education
+	(Higher Secondary), Chennai 600 006.
+
+4.  	The Chief Educational Officer
+	Krishnagiri, Krishnagiri District.
+
+5.	The District Educational Officer
+	Krishnagiri, Krishnagiri District.			.. Respondents
+
+
+	Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India, praying for the issuance of a Writ of mandamus to direct the respondents to appoint the petitioner as P.G.Assistant Commerce in any of the Government Higher Secondary Schools in Tamil Nadu by recruitment by transfer against 2% of the post reserved for ministerial staff.
+
+
+		For Petitioner	  :  Mr.V.Selvaraj
+
+		For Respondents 	  :  Mr.M.S.Ramesh
+					     Additional Government Pleader 
+
+
+O R D E R
+</pre><p id="p_1">	The petitioner seeks a direction to the respondents to promote him as Post Graduate Assistant in Commerce in any one of the  Government Higher Secondary Schools in Tamil Nadu by recruitment by transfer against 2% of the posts reserved for ministerial staff.
+</p>
+<p id="p_2">	2.  Learned counsel for the petitioner fairly submitted that during the currency of the writ petition, the petitioner retired from service on attaining the age of superannuation.
+</p>
+<p id="p_3">	3.  In view of the subsequent development, culminating in the retirement of the petitioner, nothing survives in this writ petition.
+</p>
+<p id="p_4">	4.  The writ petition is disposed of with the above observation.  No costs.  Consequently, the connected miscellaneous petition is closed.
+</p>
+<p id="p_5">									19.01.2015
+vj2
+Index : Yes/No
+
+
+To
+
+</p><p id="p_6">1.	The  Secretary to Government
+		of Tamil Nadu
+	Education Department (Higher Secondary)
+	Fort St.George, Chennai 600 009.
+</p>
+<p id="p_7">2.	The Director of School Education
+	(Higher Secondary), Chennai 600 006.
+</p>
+<p id="p_8">3.	The Joint Director of School Education
+	(Higher Secondary), Chennai 600 006.
+</p>
+<p id="p_9">4.  	The Chief Educational Officer
+	Krishnagiri, Krishnagiri District.
+</p>
+<p id="p_10">5.	The District Educational Officer
+	Krishnagiri, Krishnagiri District.
+</p>
+
+
+<p id="p_11">K.K.SASIDHARAN, J.
+</p><p id="p_12">vj2
+
+
+
+
+
+
+
+
+
+
+
+W.P.No.18024 of 2012
+
+
+
+
+
+
+
+
+
+
+
+
+19.01.2015</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

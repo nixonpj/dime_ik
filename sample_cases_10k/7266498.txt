@@ -1,0 +1,1183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Arun K. Maitra &amp; Ors vs Enforcement Directorate on 9 March, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/7266498/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 28 docs 
+      
+        - [<A HREF="/search/?formInput=cites:7266498">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/366712/">Article 20(3) in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1639853/">Section 6 in The Foreign Exchange Regulation Act, 1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/27905/">The Foreign Exchange Regulation Act, 1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/181136/">Section 141 in The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/7266498/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/7266498/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/7266498/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fera">fera</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bank%20of%20india%20%20filter%3A%20%20service%20matters">bank of india  filter:  service matters</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sbi">sbi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20bank%20of%20india">state bank of india</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=EXECUTIVE%20DIRECTORS">EXECUTIVE DIRECTORS</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2068">section 68</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rbi">rbi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=krishnan">krishnan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chargesheet%20when">chargesheet when</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2068%20of%20fera">section 68 of fera</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2056">section 56</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cbi%20cases">cbi cases</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2020">article 20</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2020%20%283%29">article 20 (3)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=connived%20">connived </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=directorate%20of%20enforcement">directorate of enforcement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=executive%20functions">executive functions</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chargesheet%20has%20been%20filed">chargesheet has been filed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2079">article 79</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20141">section 141</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Arun K. Maitra &amp; Ors vs Enforcement Directorate on 9 March, 2016</div><div class="doc_author">Author: Suresh Kait</div>
+
+<pre id="pre_1">$~
+*     IN THE HIGH COURT OF DELHI AT NEW DELHI
+                               Judgment delivered on: 09 March, 2016
+
++                            CRL.M.C. 3003/2002
+
+M/S NATIONAL FERTILISERS LTD.                       ..... Petitioner
+              Represented by: Mr. Dinesh Mathur, Senior
+                              Advocate with Mr. Ghanshyam
+                              Joshi and Mr. Chirag Joshi,
+                              Advocates.
+
+                     Versus
+
+ENFORCEMENT DIRECTORATE                       ..... Respondent
+            Represented by: Mr. Rajesh Manchanda and
+                            Mr. Rajat Manchanda, Advocates.
+                        AND
+
++                            CRL.M.C. 5093/2003
+
+ARUN K. MAITRA &amp; ORS.                                        ..... Petitioners
+             Represented by:            Mr. Rajiv Khosla, Advocate.
+
+                     Versus
+
+ENFORCEMENT DIRECTORATE                        ..... Respondent
+             Represented by: Mr. Rajesh Manchanda and
+                             Mr. Rajat Manchanda, Advocates.
+CORAM:
+HON'BLE MR. JUSTICE SURESH KAIT
+
+SURESH KAIT, J.
+</pre>
+<p id="p_1">1.     By way of the present petitions filed under <a href="/doc/1679850/" id="a_1">Section 482</a> Cr.P.C.
+petitioners seek directions thereby quashing of criminal complaint filed by
+
+
+<span class="hidden_text" id="span_1">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 1 of 29</span>
+ respondent Enforcement Directorate against the petitioners. The petitioners
+also seek directions to quash the order dated 30.05.2002, whereby they
+have been summoned.
+</p>
+<p id="p_2">2.       Since both the petitions have arisen from the impugned order dated
+30.05.2002 and issues are same, therefore, these petitions are being
+decided by this common judgment.
+</p>
+<p id="p_3">3.       Crl. M.C. 3003/2002 has been preferred by a Company, i.e., M/s.
+National Fertilizers, a Public Sector Undertaking of the Government of
+India (hereinafter referred to as the petitioner company), whereas Crl. M.C.
+5093/2003 has been preferred by employees of above named Company.
+</p>
+<p id="p_4">4.       It is important to note that vide orders dated 03.10.2002 and
+16.12.2003 proceedings against the petitioners have been stayed by this
+Court.
+</p>
+<p id="p_5">5.       The facts of the cases in brief are that petitioners company deals in
+fertilizers, heavy chemicals and their by-products including manufacturing
+and distribution and in case of necessity arises for the country, the
+Company was authorized to import such items from any country outside
+India.
+</p>
+<p id="p_6">6.       Mr. Dinesh Mathur, ld. Sr. Counsel appearing on behalf of the
+petitioners company and Mr. Rajeev Khosla, ld. Counsel appearing for the
+petitioners employees submitted that the complaint in question was filed
+during the sunset period, i.e., in the year 2002 alleging therein that in the
+year 1995, the petitioners employees along with other co-accused persons
+
+
+
+<span class="hidden_text" id="span_2">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 2 of 29</span>
+ while working in State Bank of India ('SBI') violated the provisions of
+<a href="/doc/27905/" id="a_2">Foreign Exchange Regulation Act</a>, 1973 (hereinafter referred to as
+'FERA') as the petitioners company while acting as a canalizing agency
+for import of fertilizers entered into a contract with one Turkish Company
+namely M/s. Karsan Ltd. for supply of 200000 Metric Tons of Urea and
+made full advance payment to them to the tune of US$ 38 million without
+either obtaining any prior permission of the Reserve Bank of India ('RBI')
+or any guarantee from an International Bank of repute situated outside
+India to safeguard their money. The said Company was obliged to comply
+with these requirements for any payments exceeding US$ 5000. Similar
+allegations are against the SBI. Accordingly, the petitioners company as
+well as SBI Officers allegedly were made liable under Section 56 of FERA
+and its employees become vicariously liable for the alleged acts of the said
+Company under <a href="/doc/1523435/" id="a_3">Section 56</a> read with Section 68 of FERA. The petitioners
+were also sought to be made liable under <a href="/doc/1639853/" id="a_4">Sections 6</a> (4) &amp; (5), 8 (1),(3) &amp;
+(4), 9(1)(f)(i) and (3), 49, 64(2) and 73 (3) read with Section 68 of FERA.
+</p>
+<p id="p_7">7.     Ld. Sr. Counsel further submitted that the complaint is contrary to
+the investigation and chargesheet filed by the CBI in case bearing No.RC-
+3A/96-ACU-1. The CBI, in fact, found that the petitioners company was
+the victim of the conspiracy of the accused therein punishable under
+<a href="/doc/1897847/" id="a_5">sections 120B</a>/<a href="/doc/386021/" id="a_6">201</a>/<a href="/doc/1326844/" id="a_7">409</a> and <a href="/doc/1436241/" id="a_8">420</a> of IPC and <a href="/doc/1484602/" id="a_9">Section 13</a> (2) read with
+<a href="/doc/1484602/" id="a_10">Section 13</a> (1) (c) and (d) of <a href="/doc/1331755/" id="a_11">Prevention of Corruption Act</a>. Some of the
+petitioners employees therein were placed in column no. 2 of the
+chargesheet filed by CBI in above-mentioned FIR and have been cited as
+witnesses while remaining petitioners employees found no mention at all
+
+
+
+<span class="hidden_text" id="span_3">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 3 of 29</span>
+ in the chargesheet.     Thus, the present case is completely opposed to the
+findings reached by the CBI. It cannot, therefore, be comprehended, how
+when one investigation agency had already investigated the facts and
+circumstances which amounts to the allegations in the instant case, that too
+in the year 1996 itself. Hence, the institution of the complaint in question
+is nothing but an attempt to abuse the process of law and appears to be
+based on frivolous charges and is an afterthought complaint.
+</p>
+<p id="p_8">8.     Ld. Sr. Counsel further submitted that the petitioners employees
+have been arrayed as witnesses in CBI case mentioned above.        Some of
+them have already been testified while others are now reluctant to do so,
+although their testimonies in that matter are of critical importance as they
+feared that the same would most certainly be used in some manner against
+them in the impugned case. Thus, CBI case shall be prejudiced and its
+progress may be hampered and hence, the prosecution of the petitioners
+employees would not be in the interest of justice.
+</p>
+<p id="p_9">9.     Ld. Sr. Counsel further submitted that the effect of instance of
+prosecution would also prejudicially exposed the petitioners employees to
+testimonial compulsions which is prohibited by virtue of <a href="/doc/366712/" id="a_12">Article 20 (3)</a> of
+the Constitution of India, 1950, which gives protection against self-
+incrimination, as upheld by the Supreme Court in the case of M.P. Sharma
+Vs. Satish Chandra, [1954] 1 SCR 1077.
+</p>
+<p id="p_10">10.    Further submitted that ld. Trial Court was mislead by the respondent
+as they suppressed the material fact that the petitioners company had
+initiated Arbitration proceedings for recovery of cheated/defrauded money
+
+
+
+<span class="hidden_text" id="span_4">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 4 of 29</span>
+ from M/s. Karsan and its Banks. The petitioners company has kept the
+Reserve Bank apprised of its steps to recover its amount of money from the
+aforesaid Company and its Banks. The proceedings contemplated in the
+instant case would also possibly have adverse consequences on the
+execution proceedings initiated by the petitioners company in different
+countries for bringing back the amounts paid in respect to contracts for the
+import of urea, and in fact negates the efforts of the petitioners Company
+and its Officers in recovering the money siphoned out by the actual
+culprits, i.e., the accused in the CBI case.
+</p>
+<p id="p_11">11.    Ld. Sr. Counsel further submitted that as regards the petitioner
+company, a bare reading of the allegations shows that the Provisions of
+Section 56 of FERA along with alleged offences/violations are not even
+protected as none of the violations are alleged out against the petitioners
+company.       Perusal of aforesaid Section shows that it is the duty of
+authorized agent that before engaging/undertaking in any transaction
+involving in foreign exchange, it has to take care of the directions and
+instructions issued by the RBI from time to time and in necessary cases it
+has to obtain previous permission of the Reserve Bank of India. Thus, in
+all the cases, it is the liability, responsibility and duty of the authorized
+dealer that he should be satisfied as to the genuineness of the dealings in
+foreign exchange and if not so satisfied, report to the RBI for its necessary
+directions. The authorized dealer in the instant case was the SBI and the
+petitioners company and its employees had neither any role to play nor any
+duty to perform in the light of the provisions of the aforesaid Sections.
+Furthermore, there is no question of attaching vicarious liability on the
+
+
+
+<span class="hidden_text" id="span_5">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 5 of 29</span>
+ petitioners for the actions of any entity of the Government including SBI.
+</p>
+<p id="p_12">12.    Further there are no specific allegations in the complaint against the
+petitioners employees, except vague and general allegations that the
+petitioners were liable and responsible for the work of the petitioners
+company. Thus, the complainant failed to demonstrate the existence of
+nexus between the petitioners employees and commission of alleged
+offence under <a href="/doc/1523435/" id="a_13">Section 56</a> read with Section 68 of FERA.
+</p>
+<p id="p_13">13.    Ld. Sr. Counsel further submitted that the respondent Enforcement
+Directorate has filed the present complaint after a long delay of 7 years and
+that too in a matter which has already been investigated thoroughly by
+another Central Investigating Agency and after investigation chargesheet
+has been filed and the case is pending for trial.
+</p>
+<p id="p_14">14.    It is pertinent to mention here that in affidavit dated 20.02.2010 filed
+by Sh. K.C. Abraham, officer of respondent / Department in Crl. M.C.
+5093/03, there is one letter dated 12.06.1996 of Reserve Bank of India
+requesting the respondent / Department to coordinate with CBI in respect
+of the investigation in the afore-noted matter. The said fact has been
+concealed by the respondent in the complaint in question. Moreover, in
+Snap Inspection Report of RBI annexed with the said affidavit it is
+mentioned that Assistant General Manager / In-charge of concerned
+Branch with Manager (IP) are squarely responsible for the remittance.
+Therefore, on concealment of facts itself, the complaint and impugned
+order deserve to be quashed. To strengthen his arguments ld. Counsel
+have relied upon a case of MCD Vs. State of Delhi and Anr. 2005 SCC
+
+
+
+<span class="hidden_text" id="span_6">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                               Page 6 of 29</span>
+ (Cri.) 1322, wherein it is held as under:
+</p>
+<blockquote id="blockquote_1">           "21. This apart, the respondent did not also disclose the fact
+           in the criminal revision filed before the High Court that he
+           has also been convicted in another Criminal Case No. 202
+           of 1997 by the Court of Metropolitan Magistrate, Patiala
+           House, New Delhi. Thus, the contesting respondent has
+           come to the High Court with unclean hands and withholds a
+           vital document in order to gain advantage on the other side.
+           In our opinion, he would be guilty of playing fraud on the
+           Court as well as on the opposite party. A person whose
+           case is based on falsehood can be summarily thrown out at
+           any stage of the litigation. We have no hesitation to say that
+           a person whose case is based on falsehood has no right to
+           approach the court and he can be summarily thrown out at
+           any stage of the litigation. In the instant case, non-
+           production of the order and even non-mentioning of the
+           conviction and sentence in Criminal Case No. 202 of 1997
+           tantamounts to playing fraud on the Court. A litigant who
+           approaches the Court is bound to produce all documents
+           which are relevant to the litigation. If he withholds a vital
+           document in order to gain advantage on the other side then
+           he would be guilty of playing fraud on the Court as well as
+           on the opposite party. The second respondent, in our
+           opinion, was not justified in suppressing the material fact
+           that he was convicted by the Magistrate on an earlier
+           occasion. Since the second respondent deliberately
+           suppressed the crucial and important fact, we disapprove
+           strongly and particularly, the conduct of the second
+           respondent and by reason of such conduct, the second
+           respondent disentitled himself from getting any relief or
+           assistance from this Court. We, however, part with this
+           case with a heavy heart expressing our strong disapproval
+           of the conduct and behavior but direct that the second
+           respondent to pay a sum of Rs.10,000 by way of cost to the
+           appellant herein."
+</blockquote>
+<p id="p_15">15.    Ld. Counsel further submitted that petitioner nos. 4 &amp; 5 in Crl. M.C.
+</p>
+
+<span class="hidden_text" id="span_7">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 7 of 29</span>
+<p id="p_16"> 5093/2003 have died; and petitioner nos. 1, 3, 6 &amp; 7 have retired in the
+year February, 2009, 2002, April, 2011 and March, 2010 respectively.
+However, their retirement benefits, i.e., gratuity, encashment of earned
+leave etc. have been withheld by the Company due to the pendency of the
+complaint before the Trial Court. Rest of the petitioners, i.e., petitioner
+nos. 2, 8 and 9 are serving and now they are at the fag end of their service.
+They have been denied of their promotions due to the pendency of the
+complaint whereas their juniors have been promoted.           As such, the
+petitioners are facing day-to-day humiliation due to their non-promotion
+and being made accountable to their junior officers.
+</p>
+<p id="p_17">16.    To strengthen his arguments, ld. Senior Counsel for the petitioner
+has relied upon a case of G. Sagar Suri Vs. State of Uttar Pradesh &amp; Ors.,
+2000 (2) SCC 636, wherein it is held as under:
+</p>
+<blockquote id="blockquote_2">          "7. It was submitted by Mr. Lalit, learned Counsel for the
+          second respondent, that the appellants have already filed an
+          application in the Court of Additional Judicial Magistrate
+          for their discharge and that this Court should not interfere
+          in the criminal proceedings which are at the threshold. We
+          do not think that on filing of any application for discharge.
+          High Court cannot exercise its jurisdiction under Section
+          482 of the Code. In this connection, reference may be made
+          to two decisions of this Court in <a href="/doc/574884/" id="a_14">Pepsi Foods Ltd. v. Special
+          Judicial Magistrate</a> : 1998 Cri LJ 1 and <a href="/doc/1770765/" id="a_15">Ashok Chaturvedi v.
+          Shitul H. Chanchani</a>: 1998 Cri LJ 4091 , wherein it has been
+          specifically held that though the Magistrate trying a case
+          has jurisdiction to discharge the accused at any stage of the
+          trial if he considers the charge to be groundless but that
+          does not mean that the accused cannot approach the High
+          Court under Section 482 of the Code or <a href="/doc/1331149/" id="a_16">Article 227</a> of the
+          Constitution to have the proceeding quashed against them
+          when no offence has been made out against them and still
+
+<span class="hidden_text" id="span_8">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 8 of 29</span>
+           why must they undergo the agony of a criminal trial."
+</blockquote>
+<p id="p_18">17.    On the other hand, Mr. Rajesh Manchanda, ld. Counsel appearing on
+behalf of the respondent submitted that the petitioners have violated the
+Procedures and Rules while signing the contract and accepting the terms of
+payment and delivery of the Urea and by paying the entire amount of US$
+3.80 Lakh and US$ 37.62 million respectively in advance through SBI,
+New Delhi, to Pamuk Bank Ankara, Turkey and Pictet Bank, Geneva,
+without prior approval bereft bank guarantee and insurance policy. The
+aforesaid remittance was made by the authorized dealer, i.e, SBI, who
+failed to comply with the conditions of RBI as prescribed in Paragraph 7A
+(1) (d) of the Exchange Control Manual, 1993.           According to said
+provisions, if any amount of advance remittance exceeds US$ 5000, a
+guarantee from the International Bank of repute situated outside India
+should be obtained.       Thus, the petitioners have violated the aforesaid
+provisions as the specific import to India should be made within 3 months
+from the date of remittance. Moreover, the importer ought to have given
+an undertaking to furnish documentary evidence of import within 15 days
+from the close of relevant period. The contract in question was signed in
+violation of the aforesaid provisions. In addition, special permission was
+also required from RBI before acquisition of payment of aforesaid foreign
+exchange of US$ 3.80 Lakh and US$ 37.62 million without the same being
+backed by the requisite International Bank of repute guarantee.          The
+petitioners company did not obtain any permission from RBI and even the
+SBI did not obtain any permission.          In this manner, the aforesaid
+remittance was issued in violation of relevant provisions of FERA.
+</p>
+
+
+<span class="hidden_text" id="span_9">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 9 of 29</span>
+<p id="p_19"> 18.    Ld. Counsel further submitted that the respondent made a relevant
+enquiry and investigation, and collected evidence, related documents and
+statements under Section 39 and 40 of FERA and on the basis of aforesaid,
+a complaint was filed against the accused persons including the petitioners.
+</p>
+<p id="p_20">19.    As per <a href="/doc/1019339/" id="a_17">Section 68</a> (1) of FERA, in an offence committed by a
+Company, every person in-charge and responsible to the Company for the
+conduct of its shall be deemed to be guilty.
+</p>
+<p id="p_21">20.    Ld. Counsel submitted that the petitioners have committed an
+offence in collusion with other co-accused persons in a very calculative
+manner which has caused loss of foreign exchange amounting to US$ 38
+million to the Country. The aforesaid amount was remitted in advance in
+violation of the procedure, provisions and rules by the accused persons as
+the alleged Urea was not received against the said amount. Thus, the Trial
+Court has legally and justifiably passed the order dated 30.05.2002 and
+summoned the accused persons on the basis of violations made by them.
+The investigation conducted by CBI is independent for the offences other
+than the offences committed by the accused persons in the present
+complaint and as such there is no binding effect in the conclusion of
+investigation conducted by CBI and respondent. <a href="/doc/27905/" id="a_18">The Foreign Exchange
+Regulation Act</a>, 1973, being a special Act containing comprehensive
+provisions of investigation, enquiry and trial for offences under the Act
+and the provisions of <a href="/doc/445276/" id="a_19">Cr.P.C</a>. will not be applicable to the extent of
+provisions of FERA. The officers of the respondent are empowered to
+conduct the investigation pertaining to offence under FERA.
+</p>
+
+
+
+<span class="hidden_text" id="span_10">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 10 of 29</span>
+<p id="p_22"> 21.    Ld. Counsel further submitted that alleged Arbitration proceedings
+and trial of CBI, case wherein the petitioners are stated to be the witnesses,
+creates no bar to prosecute them by filing complaint under Section 56 of
+FERA. No adverse inference can be drawn against the respondent for
+prosecuting the petitioners and other co-accused persons, who have
+committed offence in the present case.      As per law, the Company is a
+juristic person and can act upon for officers responsible and liable for the
+work and as such the company as well as its officers are liable to be
+prosecuted.
+</p>
+<p id="p_23">22.    The CBI investigated the matter and filed the chargesheet under
+<a href="/doc/27905/" id="a_20">Section 120B</a> read with <a href="/doc/1326844/" id="a_21">Section 409</a> IPC against the petitioners, whereas in
+the instant case, the petitioners have violated <a href="/doc/1639853/" id="a_22">Sections 6</a> (4) &amp; (5), 8
+(1)(3)&amp;(4), 9(1)(f)(i) &amp;(3), 49, 64 (2) &amp; (3) read with Section 68 of FERA
+punishable under Section 56 of FERA.
+</p>
+<p id="p_24">23.    Ld. Counsel further submitted that only summons have been issued,
+charges are yet to be framed. Therefore, the petitioners have surpassed the
+procedure and the present petition is liable to be dismissed being
+premature. Moreover, the petitioners having violated the due procedure
+are liable for penal action under FERA.
+</p>
+<p id="p_25">24.    To strengthen his arguments, ld. Counsel for the respondent has
+relied upon a case of Balasaheb @ Ramesh Laxman Deshmukh Vs. State
+of Maharasahtra and Anr. 2010 XII AD (S.C.) 372 wherein it is observed
+as under:
+</p>
+<blockquote id="blockquote_3">            "6. We are of the opinion that for invoking the
+
+
+<span class="hidden_text" id="span_11">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 11 of 29</span>
+           constitutional right under <a href="/doc/366712/" id="a_23">Article 20(3)</a> a formal
+          accusation against the person claiming the protection
+          must exist. Simply because the Appellant figures as
+          the accused in the complaint case, a blanket
+          protection as claimed by him cannot be granted.
+          Reference in this connection can be made to a
+          decision of this Court in the case of <a href="/doc/693505/" id="a_24">Raja Narayanlal
+          Bansilal v. Maneck Phiroz Mistry and Anr</a>. : AIR
+          1961 SC 29, wherein it has been held as follows:
+</blockquote>
+<blockquote id="blockquote_4">              "The effect of this decision thus appears to be that
+              one of the essential conditions for invoking the
+              constitutional guarantee enshrined in <a href="/doc/366712/" id="a_25">Article 20(3)</a>
+              is that a formal accusation relating to the
+              commission of an offence, which would normally
+              lead to his prosecution, must have been levelled
+              against the party who is being compelled to give
+              evidence against himself; and this conclusion, in
+              our opinion, is fully consistent with the two other
+              decisions of this Court to which we have already
+              referred."
+</blockquote>
+<blockquote id="blockquote_5">          xxxx                  xxxx                       xxxx
+</blockquote><blockquote id="blockquote_6">          9. As observed earlier the Appellant is not an accused
+          in the Police case and in fact a witness whose
+          statement was recorded during the course of
+          investigation under <a href="/doc/447673/" id="a_26">Section 161</a> of the Code of
+          Criminal Procedure. In the Police case he utmost can
+          be asked to support the case of the prosecution but no
+          question intended to incriminate him can be asked
+          and in case it is done the protection under <a href="/doc/366712/" id="a_27">Article
+          20(3)</a> of the Constitution shall spring into action.
+</blockquote><blockquote id="blockquote_7">          What question shall be put to this Appellant when he
+          appears as a witness is a matter of guess and on that
+          basis he does not deserve the blanket protection under
+          <a href="/doc/366712/" id="a_28">Article 20(3)</a> of the Constitution. Even at the cost of
+          the repetition we may observe that in the Police case
+          when he appears and asked to answer question, the
+
+
+<span class="hidden_text" id="span_12">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                               Page 12 of 29</span>
+           answer whereof tends to incriminate him, he can
+          refuse to answer the same pleading protection under
+          <a href="/doc/366712/" id="a_29">Article 20(3)</a> of the Constitution. In such eventuality
+          the Court would decide the same. Therefore, at this
+          stage the blanket protection sought by the Appellant is
+          not fit to be granted."
+</blockquote>
+<p id="p_26">25.    Further relied upon case of M. Prabhulal Vs. Assistant. Director,
+Directorate of Revenue Intelligence, AIR 2003, SC 4311, wherein it is
+observed as under:
+</p>
+<blockquote id="blockquote_8">          "4. Assailing, therefore, the statements made by each of the
+          appellant under Section 67, it was vehemently contended by
+          Mr. R.K.Jain, Senior Advocate that the statements on basis
+          whereof the appellants have been found guilty are not
+          voluntary and thus their conviction cannot be sustained. The
+          statements of the appellants have been recorded by officers
+          of Department of Revenue Intelligence who are not police
+          officers within the meaning of <a href="/doc/494844/" id="a_30">Section 25</a> of the Evidence
+          Act, 1872. The confessional statements recorded by such
+          officers are admissible in evidence. Learned counsel though
+          not questioning the admissibility of the said statements
+          contends that the same were obtained by torture and
+          harassment and are involuntary and, therefore, the
+          conviction of the appellants cannot be sustained. The delay
+          in recording of the statements of the appellants is put forth
+          as one of the reasons to support the contention that the
+          statements were involuntary. Learned counsel submits that
+          after apprehending truck and the car on the road at about
+          noon time on 15th May, 1993, the seizure of the narcotics
+          had taken place between 6 to 9 p.m. at the Customs House
+          and the statements of accused Nos.2, 3 and 6 were recorded
+          on the next day i.e. on 16th May, 1993 and the statement of
+          accused No. 1 was recorded on 17th May, 1993. It may be
+          noted that accused Nos.2, 3 and 6 were apprehended on the
+          spot on 15th May, 1993 whereas accused No. 1 was arrested
+          on 16th May, 1993. The courts below on appreciation of
+          evidence have neither doubted the recovery nor has found
+
+<span class="hidden_text" id="span_13">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 13 of 29</span>
+           the statements to be involuntary."
+</blockquote>
+<p id="p_27">26.    Also relied upon case of Mohit @ Sonu and Anr. Vs. State of U.P.
+and Anr. AIR 2013 SC 2248, wherein it is observed as under:
+</p>
+<blockquote id="blockquote_9">          "23. So far as the inherent power of the High Court as
+          contained in <a href="/doc/1679850/" id="a_31">Section 482</a> of Code of Criminal Procedure
+          is concerned, the law in this regard is set at rest by this
+          Court in a catena of decisions. However, we would like
+          to reiterate that when an order, not interlocutory in
+          nature, can be assailed in the High Court in revisional
+          jurisdiction, then there should be a bar in invoking the
+          inherent jurisdiction of the High Court. In other words,
+          inherent power of the Court can be exercised when there
+          is no remedy provided in<a href="/doc/445276/" id="a_32"> the Code</a> of Criminal Procedure
+          for redressal of the grievance. It is well settled that
+          inherent power of the court can ordinarily be exercised
+          when there is no express provision in<a href="/doc/445276/" id="a_33"> the Code</a> under
+          which order impugned can be challenged."
+</blockquote><p id="p_28">27.    Further relied upon case of <a href="/doc/548497/" id="a_34">State of Karnataka v. L. Muniswamy
+and Ors</a>. (1977) 2 SCC 699, wherein it is observed as under:
+</p>
+<blockquote id="blockquote_10">          "7. The second limb of Mr. Mookerjee's argument is that in
+          any event the High Court could not take upon itself the task
+          of assessing or appreciating the weight of material on the
+          record in order to find whether any charges could be
+          legitimately framed against the respondents. So long as
+          there is some material on the record to connect the accused
+          with the crime, says the learned Counsel, the case must go
+          on and the High Court has no jurisdiction to put a
+          precipitate or premature end to the proceedings on the belief
+          that the prosecution is not likely to succeed. This, in our
+          opinion, is too broad a proposition to accept. <a href="/doc/445276/" id="a_35">Section 227of</a>
+          the CrPC, 2 of 1974, provides that:
+</blockquote>
+<blockquote id="blockquote_11">              If, upon consideration of the record of the case and
+              the documents submitted therewith, and after
+
+
+<span class="hidden_text" id="span_14">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 14 of 29</span>
+               hearing the submissions of the accused and the
+              prosecution in this behalf, the Judge considers that
+              there is not sufficient ground for proceeding
+              against the accused, he shall discharge the
+              accused and record his reasons for so doing.
+</blockquote><blockquote id="blockquote_12">          This section is contained in Chap. XVIII called "Trial before
+          a Court of Sessions." It is clear from the provision that the
+          Sessions Court has the power to discharge an accused if
+          after perusing the record and hearing the parties he comes
+          to the conclusion, for reasons to be recorded, that there is
+          not sufficient ground for proceeding against the accused The
+          object of the provision which requires the Sessions Judge to
+          record his reasons is to enable the superior court to examine
+          the correctness of the reasons for which the Sessions Judge
+          has held that there is or is not sufficient ground for
+          proceeding against the accused. The High Court therefore is
+          entitled to go into the reasons given by the Sessions Judge in
+          support of his order and to determine for itself whether the
+          order is justified by the facts and circumstances of the case.
+          <a href="/doc/1953529/" id="a_36">Section 482</a> of the new Code, which corresponds to <a href="/doc/445276/" id="a_37">Section
+          561-A</a> of the Code of 1898, provides that:
+</blockquote><blockquote id="blockquote_13">          Nothing in this Code shall be deemed to limit, or affect the
+          inherent powers of the High Court to make such orders as
+          may be necessary to give effect to any order under this Code
+          or to prevent abuse of the process of any Court or otherwise
+          to secure the ends of justice.
+</blockquote>
+<blockquote id="blockquote_14">          In the exercise of this wholesome power, the High Court is
+          entitled to quash a proceeding if it comes to the conclusion
+          that allowing the proceeding to continue would be an abuse
+          of the process of the Court or that the ends of justice require
+          that the proceeding ought to be quashed. The saving of the
+          High Court's inherent powers, both in civil and criminal
+          matters is designed to achieve a salutary public purpose
+          which is that a court proceeding ought not to be permitted to
+          degenerate into a weapon of harassment or persecution. In a
+          criminal case, the veiled object behind a lame prosecution,
+
+
+<span class="hidden_text" id="span_15">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                              Page 15 of 29</span>
+               the very nature of the material on which the structure of the
+              prosecution rests and the like would justify the High Court
+              in quashing the proceeding in the interest of justice. The
+              ends of justice are higher than the ends of mere law though
+              justice has got to be administered according to laws made
+              by the legislature. The compelling necessity for making these
+              observations is that without a proper realisation of the
+              object and purpose of the provision which seeks to save the
+              inherent powers of the High Court to do justice between the
+              State and its subjects it would be impossible to appreciate
+              the width and contours of that salient jurisdiction."
+</blockquote>
+<p id="p_29">28.    I have heard ld. Counsel for the parties and perused the record.
+</p>
+<p id="p_30">29.    The issues arising for consideration in the present petition are that:
+</p>
+<blockquote id="blockquote_15">       I.        Whether on the basis of the facts stated in the complaint
+                 and the documents annexed thereto the petitioners can be
+                 held responsible for the contravention of the provisions
+                 of FERA alleged to have been committed by the
+                 Company and the accused persons merely being officers
+                 of the Company can be said to be in-charge and
+                 responsible for the conduct of the business of the
+                 Company as provided under Section 68 of FERA?
+</blockquote>
+<blockquote id="blockquote_16">       II.       Whether petitioners can be held liable for the act of
+                 remittance of Foreign Exchange which has been made by
+                 the State Bank of India in the capacity of the Authorized
+                 dealer appointed by the Reserve Bank of India under
+                 Section 6 of FERA, 1973?
+</blockquote>
+<blockquote id="blockquote_17">       III.      Whether there is any material on record suggesting that
+                 the petitioners connived with and abated the officials of
+                 State Bank of India in the said transaction and took / or
+                 obtained any monetary or other benefits?
+</blockquote>
+<p id="p_31">30.    There is no material on record or any specific allegation made
+against any of the petitioners in the complaint to suggest that even any of
+
+
+<span class="hidden_text" id="span_16">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                                Page 16 of 29</span>
+ these petitioners were involved remotely in the said offence being in-
+charge or responsible for the affairs of the Company and in that capacity
+conspired or abetted the offence. The allegations made by the respondent
+are vague and general and do not bring the petitioners under the ambit of
+Section 68 of FERA, which is evident from the contents of the complaint
+in Para 4 (xiv), which reads as under:
+</p>
+<blockquote id="blockquote_18">              "......Accused no. 4-13 were the officers working in
+              Corporate office and Marketing Division looking after
+              imports with NFL. All the aforesaid accused persons
+              were liable and responsible for the work of M/s. NFL".
+              The same Para further state that "as these officers were
+              working the Corporate office and Marketing Division
+              looking after imports with the Company and all were
+              liable and responsible for the work of the said Company
+              and therefore were well conversant with the procedures
+              and documentations for import and finance".
+</blockquote>
+<p id="p_32">31.    After going through the complaint, it is established that except the
+allegations noted above, no averment is made in whole of the complaint
+against the petitioners.      The only allegation made against one of the
+petitioners, namely, P.K. Kataria is in respect of directions being given by
+D.S. Kanwar ED(M) of petitioners company regarding sending letter to
+SBI to remit advance of US$ 3.80 Lakh to M/s. Karsan Ltd. for obtaining
+Lloyds Insurance Cover, which was merely 1% of the contract value.
+However, the said amount has been returned back and could not be
+remitted and is lying with the SBI as Fixed Deposit.
+</p>
+<p id="p_33">32.    The aforesaid allegations are general in nature and under no
+circumstances can bring the petitioners under the ambit of Section 68 of
+FERA, which prescribed that "where a person committing contravention
+
+
+<span class="hidden_text" id="span_17">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 17 of 29</span>
+ of any of the provisions of the Act or any rule, direction or order made
+thereunder in a company, every person who at the time when the
+contravention was committed was in-charge and was responsible to, the
+company for the conduct of business of the Company as well as the
+company, shall be deemed to be guilty of the contravention and shall be
+liable to be proceeded against and punished accordingly." The
+respondent, however, without ascertaining the facts about the same,
+without any documentary or other proof stated in the complaint that
+accused nos. 1 to 21 be prosecuted and punished under the law being
+officials of the Company and authorized agent, i.e., SBI for the offence
+committed by authorized agent as they were in-charge and responsible for
+the conduct of business of the petitioners company and SBI at that time.
+</p>
+<p id="p_34">33.      For the sake of convenience, Section 68 of FERA is reproduced as
+under:
+</p><blockquote id="blockquote_19">           "68. Offences by companies.--
+</blockquote><blockquote id="blockquote_20">           (1) Where a person committing a contravention of any of
+           the provisions of this Act or of any rule, direction or order
+           made thereunder is a company, every person who, at the
+           time of the contravention was committed, was in charge of,
+           and was responsible to, the company for the conduct of
+           business of the company as well as the company, shall be
+           deemed to be guilty of the contravention and shall be liable
+           to be proceeded against and punished accordingly:
+              Provided that nothing contained in this sub-section
+              shall render any such person liable to punishment if he
+              proves that the contravention took place without his
+              knowledge or that he exercised all due diligence to
+              prevent such contravention.
+</blockquote>
+<blockquote id="blockquote_21">              (2) Notwithstanding anything contained in sub-section
+
+
+<span class="hidden_text" id="span_18">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                               Page 18 of 29</span>
+               (1), where a contravention of any of the provisions of
+              this Act or of any rule, direction or order made
+              thereunder has been committed by a company and it is
+              proved that the contravention has taken place with the
+              consent or connivance of, or is attributable to any
+              neglect on the part of, any director, manager, secretary
+              or other officer of the company, such director,
+              manager, secretary or other officer shall also be
+              deemed to be guilty of the contravention and shall be
+              liable to be proceeded against and punished
+              accordingly.
+</blockquote>
+<blockquote id="blockquote_22">              Explanation.--For the purposes of this section--
+</blockquote><blockquote id="blockquote_23">              (i) "company" means anybody corporate and includes
+              a firm or other association of individuals; and
+</blockquote><blockquote id="blockquote_24">              (ii) "director", in relation to a firm, means a partner in
+              the firm."
+</blockquote>
+<p id="p_35">34.    On perusal of the aforesaid provisions, it is established that
+respondent failed to consider the important aspects of Section 68 of FERA
+while naming the petitioners as accused without considering three
+important ingredients as prescribed under Section 68 of FERA. Further
+failed to bring or produce any document on record to show that all the
+petitioners were in-charge and responsible for day-to-day affairs of the
+Company at the time when offence was committed. Also failed to consider
+the fact that the petitioners company who was made accused no. 1 in the
+complaint is a Company registered under the <a href="/doc/1353758/" id="a_38">Companies Act</a>, 1956, and is
+governed by Memorandum and Articles of Association of the Company,
+which are statutory and public documents and the powers and duties of
+officials flow from the Articles of Association.             The respondent
+deliberately did not file the said documents as the same would have
+
+
+<span class="hidden_text" id="span_19">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                               Page 19 of 29</span>
+ absolved all the petitioners from the offences covered under Section 68 of
+FERA. The respondent also failed to produce any document on record
+showing delegated powers to any of the petitioners as in-charge and
+responsible for the day-to-day affairs of the Company. Had the respondent
+placed the Memorandum and Articles of Association of the Company
+before the Court of ACMM, New Delhi, then the proceedings as provided
+under Articles 79 and 82 of the Memorandum and Article of Association
+of the Company would have pinpointed as to who were the officers in-
+charge and responsible for the day-to-day affairs of the company at the
+time of commission of the said offence. These facts along with documents
+filed and investigation made would have made it clear that only the
+Managing Director and Executive Director, namely, C.K. Ramakrishnan
+and D.S. Kanwar respectively, were in-charge and responsible for the
+affairs of the Company. This may be corroborated from their statements
+made under Sections 39 and 40 of FERA, which are admissible in law and
+the same also gets corroboration from the contents of the complaint as well
+as from the investigation conducted by CBI in case No. RC-3A/96-ACU-1,
+which after thorough investigation made said C.K. Ramakrishnan and D.S.
+Kanwar as the accused and absolved the petitioners from any
+connivance/conspiracy or abetment, however, made them as State
+witnesses.
+</p>
+<p id="p_36">35.    The provisions of Articles 79 and 82 of the Memorandum and
+Article of Association of Petitioners Company will make it explicitly clear
+that only the Managing Director or the Executive Director/Functional
+Directors are responsible for the conduct and management of business of
+
+
+
+<span class="hidden_text" id="span_20">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                           Page 20 of 29</span>
+ the Company. The said Articles are being reproduced as under:
+</p>
+<blockquote id="blockquote_25">              <a href="/doc/1119830/" id="a_39">Article 79:</a> Appointment of Managing Director.
+              "For the conduct and Management of the business of the
+              Company in general and subject to the control and
+              supervision of the Board of Directors, the President may
+              empower the Chairman nominated under <a href="/doc/504161/" id="a_40">Article 92</a> to
+              exercise the functions of the Managing Director or
+              appoint one of the Directors to be the Managing Director
+              who will be the Chief Executive Officer of the Company.
+              The President may also appoint one or more of the
+              Directors to be the Executive Director / Functional
+              Director or Executive Directors / Functional Directors.
+              The functions, duties and responsibilities of an Executive
+              Director / Functional Director shall be such as may be
+              determined by the President from time to time on the
+              recommendations of the board of Directors."
+              The Chairman so empowered or the Managing Director
+              or an Executive Director / Functional Director or
+              Executive Directors / Functional Directors so appointed
+              shall be whole time employees of the Company and shall
+              be whole time employees of the Company and shall be
+              paid such salary and Allowances as may be fixed by the
+              President.
+</blockquote>
+<blockquote id="blockquote_26">              <a href="/doc/1682669/" id="a_41">Article: 82</a> which deals with Delegation of Powers.
+              "The Board may, from time to time, delegate such of its
+              powers as it may think fit and as are not required to be
+              exercised by the Board at a meeting to the Standing /
+              Executive Committee of Directors, Chairman, the
+              Managing Director, an executive Director, a Functional
+              Director, subject to such terms, conditions and
+              restrictions as the Board may think fit to impose and the
+              Board may, from time to time, revoke, amend or vary all
+              or any of the powers as delegated.
+</blockquote>
+<blockquote id="blockquote_27">              "To Managing Director as Chief Executive of the
+              Company may from time to time sub-delegate his powers
+
+<span class="hidden_text" id="span_21">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 21 of 29</span>
+                to the Functional Directors and /or General Managers
+               and / or to any other officers of the Company as he may
+               deem it fit".
+</blockquote><p id="p_37">36.      It is evident from the above that the said powers under <a href="/doc/1119830/" id="a_42">Article 79</a>
+were vested only with above two persons and were not delegated to anyone
+under <a href="/doc/1682669/" id="a_43">Article 82</a> as no documents in this respect has been filed in the
+Court.     Moreover, the respondent has admitted in Para XIV of the
+complaint that accused nos. 2 and 3 were the CMD and AD (M). The said
+fact has been confirmed by CBI in the chargesheet filed by it in case RC-
+3A/96-ACU-1. As per the chargesheet, the investigation has revealed that
+C.K. Ramakrishnan was functioning as Managing Director and D.S.
+Kanwar was functioning as Executive Director (Marketing, Personnel and
+Administration) in the petitioners company during the period 1995-1996.
+</p>
+<p id="p_38">37.      It is not in dispute that Petitioners Company is the complainant in
+the aforesaid case, whereas petitioners employees were witnesses therein.
+</p>
+<p id="p_39">38.      The CBI after its depth investigation, filed the chargesheet against
+the aforesaid officers that they are responsible for contravention of rules
+and procedure, conspiracy and misappropriation of their funds as they were
+having domain over the funds of the petitioners company. Therefore, by
+no stretch of imagination, it can be construed that the petitioners
+committed any act making them liable under Section 68 of FERA.
+</p>
+<p id="p_40">39.      As per the investigation of CBI, the contract was recommended by
+D.S. Kanwar on 31.10.1995 and approved by C.K. Ramakrishnan on
+01.11.1995 and in terms of approved proposed contract, D.S. Kanwar gave
+instructions to remit 1% of the contract value in 'Insurance Cover' which
+
+
+<span class="hidden_text" id="span_22">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 22 of 29</span>
+ would show that it was only these persons who were at the helm of affairs
+of the petitioners company. This fact is further proved from the contents of
+Para X of the complaint that D.S. Kanwar sent a letter in the shape of
+directions on 13.11.1995 to SBI for releasing 99% of the contract value to
+M/s. Karsan by 14.11.1995 "positively" while the letter of petitioners
+company dated 10.11.1995 signed by Deepak Lal, accused no.4 in the
+complaint (since died) seeking the permission of RBI as required under the
+law, to remit the contract value was still under consideration. The said fact
+establishes that D.S. Kanwar, who had domain over the fund of the
+company, was interested to get the remittance made under all
+circumstances even without following due process as required by law.
+Accordingly, the officials of SBI, the authorized agent for dealing of
+remittance of foreign exchange, followed the directions of D.S. Kanwar
+and effected the remittance on 14.11.1995.
+</p>
+<p id="p_41">40.    It is pertinent to mention here that as per the CBI, no role has been
+assigned to any of the petitioners. However, by the depth investigation it is
+established that the offence was committed by aforesaid two officers of the
+petitioners company in connivance with other co-accused. Even otherwise,
+the petitioners could not play any role in remittance and functioning of
+approval of foreign exchange which was done by authorized agent, i.e.,
+SBI, as appointed by the RBI. However, in case of any conspiracy in
+remittance of amount, the offence may be looked into under the provisions
+of Section 68 of FERA only in respect of those persons who were in-
+charge and running the affairs of the Company at that time and had
+colluded with certain officials of the authorized banks which were
+
+
+
+<span class="hidden_text" id="span_23">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 23 of 29</span>
+ responsible for remittance of the foreign exchange.
+</p>
+<p id="p_42">41.    As per the complaint, the respondent had failed to show any
+abetment on the part of the petitioners who were neither Managing
+Directors, Directors, Executive Directors nor having any power or domain
+over the funds nor instructed the SBI to remit the foreign exchange.
+</p>
+<p id="p_43">42.    On the other hand, one of the subordinate officers, namely, Deepak
+Lal (since died) having equivalent position with petitioner nos. 1, 6 and 7
+and was also made one of the accused by respondents, though requested
+the SBI to seek permission from RBI vide his letter dated 10.11.1995 for
+remittance of funds as per law, but the said request was deliberately
+ignored by SBI under the directions of D.S. Kanwar, AD (Marketing), who
+vide his subsequent letter dated 13.11.1995 directed the SBI to remit the
+amount positively by 14.11.1995.
+</p>
+<p id="p_44">43.    From the facts recorded above, it is clear that petitioners are not
+covered under Sub-section (ii) of Section 49 of FERA for abetting or not
+complying with all or any such conditions.
+</p>
+<p id="p_45">44.    It is important to note that summoning order dated 30.05.2002 was
+issued just two days prior to the repealing of the FERA Act as on that day
+hundreds of such complaints were filed and process was to be issued in all
+those complaints before 01.06.2002 when new Act in the shape of <a href="/doc/27905/" id="a_44">Foreign
+Exchange Amendment Act</a>, 1999 (FEMA) was to come into force in place
+of FERA, 1973. The said summoning order itself shows that the Trial
+Court has not considered the aspect of criminal liability of the petitioners
+under Section 68 of FERA having position of subordinate officers other
+
+
+<span class="hidden_text" id="span_24">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 24 of 29</span>
+ than Managing Directors, Directors and Executive Directors as per the
+provisions of Section 68 of FERA.
+</p>
+<p id="p_46">45.    Ld. ACMM failed to consider that vicarious liability is an exception
+to the normal rule of criminal jurisprudence and no person can be held
+criminally liable for the actions of another.
+</p>
+<p id="p_47">46.    The Supreme Court in the case of Monaben Ketanbhai Shah &amp;
+Anr. Vs. State of Gujarat and Ors. (2004) 7 SCC 15 observed as under:
+</p>
+<blockquote id="blockquote_28">          "7............The primary responsibility is on the
+          complainant to make necessary averments in the
+          complaint so as to make the accused vicariously
+          liable. For fastening the criminal liability, there is no
+          presumption that every partner knows about the
+          transaction. The obligation of the appellants to prove
+          that at the time the offence was committed they were
+          not in charge of and were not responsible to the firm
+          for the conduct of the business of the firm, would arise
+          only when first the complainant makes necessary
+          averments in the complaint and establishes that fact.
+          The present case is of total absence of requisite
+          averments in the complaint."
+</blockquote>
+<p id="p_48">47.    Further in the case of <a href="/doc/1957018/" id="a_45">K.K. Ahuja Vs. V.K. Vora and Anr</a>. (2009) 10
+SCC 48, the Supreme Court observed as under:
+</p><blockquote id="blockquote_29">          "17.........the averment in a complaint that an
+          accused is a director and that he is in charge of and is
+          responsible to the company for the conduct of the
+          business of the company, duly affirmed in the sworn
+          statement, may be sufficient for the purpose of issuing
+          summons to him. But if the accused is not one of the
+          persons who falls under the category of 'persons who
+          are responsible to the company for the conduct of the
+          business of the company' (listed in para 14 above),
+
+
+<span class="hidden_text" id="span_25">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                               Page 25 of 29</span>
+           then merely by stating that 'he was in charge of the
+          business of the company' or by stating that 'he was in-
+          charge of the day to day management of the company'
+          or by stating that he was in charge of, and was
+          responsible to the company for the conduct of the
+          business of the company', he cannot be made
+          vicariously liable under <a href="/doc/181136/" id="a_46">Section 141(1)</a> of the Act.
+</blockquote>
+<blockquote id="blockquote_30">          xxxx                        xxxx                xxxx
+
+          20 (iv) Other officers of a company cannot be made
+          liable under sub-section (1) of <a href="/doc/181136/" id="a_47">Section 141</a>. Other
+          officers of a company can be made liable only under
+          sub-section (2) of <a href="/doc/181136/" id="a_48">Section 141</a>, be averring in the
+          complaint their position and duties in the company
+          and their role in regard to the issue and dishonour of
+          the cheque, disclosing consent, connivance or
+          negligence.
+</blockquote>
+<blockquote id="blockquote_31">          21...............the trauma, harassment and hardship of
+          a criminal proceeding in such cases, may be more
+          serious than the ultimate punishment, it is not proper
+          to subject all and sundry to be impleaded as accused
+          in a complaint against a company, even when the
+          requirements of <a href="/doc/937129/" id="a_49">Section 138</a> read and <a href="/doc/181136/" id="a_50">Section 141</a> of
+          the Act are not fulfilled."
+</blockquote>
+<p id="p_49">48.    It is pertinent to mention here that in Para 4 (xiv) of the complaint, it
+is stated that while effecting the advance remittance, the SBI failed to
+comply with the conditions prescribed by RBI as laid down in Para 7A
+(10)(d) of the Exchange Control Manual, 1993, wherein if any amount of
+advance remittance exceeds US$ 5000, a guarantee from the International
+Bank of repute situated outside India should be obtained. Further stated,
+special permission was required to be obtained from RBI before
+acquisition and payment of the above said foreign exchange. Therefore,
+major role has been attributed to SBI and the only role attributed to the
+
+<span class="hidden_text" id="span_26">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                                Page 26 of 29</span>
+ petitioners employees is under the provisions of FERA for which all the
+documents and investigations lead to the conclusion pointing out the role
+of C.K. Ramakrishnan and D.S. Kanwar who acted upon without having
+any resolution, passed by the Board of Directors of petitioner company, in
+their favour.
+</p>
+<p id="p_50">49.    It is not out of place to mention here that RBI in its letter dated
+12.06.1996 requested the respondent on the lines that "since the matter is
+already under investigation of CBI, we request you to kindly coordinate
+with them." Further, vide its letter dated 13.06.1996, RBI handed over the
+Snap Inspection Report dated 27.05.1996 and also other relevant papers to
+CBI in this regard. The Snap Inspection Report held the SBI responsible
+for remittance. However, it is nowhere mentioned therein that any of the
+petitioners had played any role in the remittance.
+</p>
+<p id="p_51">50.    As per Section 2(b) of FERA, SBI is the 'authorized' dealer to deal
+in all foreign currencies as provided under <a href="/doc/1639853/" id="a_51">Section 6</a> (2) (ii) of FERA. As
+provided under <a href="/doc/1639853/" id="a_52">Section 6</a> (4) of FERA, the SBI in all its dealings in foreign
+exchange and in the exercise and discharge of powers and of the functions
+delegated to it under Section 74 of FERA complied with such general or
+special directions or instructions as the RBI made from time to time.
+Moreover, without the permission of the Reserve Bank, an authorized
+dealer shall not engage in any transaction involving any foreign exchange
+which is not in conformity with the terms of the authorization under this
+Section.
+</p>
+<p id="p_52">51.    It is important to note that the respondent had admitted in Para 4 of
+
+
+
+<span class="hidden_text" id="span_27">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                            Page 27 of 29</span>
+ the complaint that instructions were given by PMO to accused C.K.
+Ramakrishnan, Managing Director of the petitioners company by calling
+him in the PMO to help accused Sanjeeva Rao, the relative of the then
+Prime Minister. The said averments of the complaint shows that the said
+contract was being dealt with at the highest level, i.e., at the level of the
+then Prime Minister as his relative Sanjeeva Rao kept on meeting accused
+C.K. Ramakrishnan between April to October, 1995 due to same, a
+contract was signed in July, 1995, which was not acted upon in its place.
+Therefore, another contract was signed on 09.11.1995. This fact has been
+corroborated with the statements of C.K. Ramakrishnan and D.S. Kanwar
+recorded under Section 40 of FERA.
+</p>
+<p id="p_53">52.    In view of the facts recorded above, it is apparently clear that the
+respondents deliberately and willfully ignored the investigation conducted
+by CBI whereby, chargesheet at Para 2 confirmed that C.K. Ramakrishnan
+and D.S. Kanwar who were functioning as Managing Director and
+Executive Director respectively in the petitioners company were
+responsible having domain over the funds of the company during the year
+1995-96 and they dishonestly in connivance with officials of M/s. Karsan
+Limited, a Turkish Company and other accused persons, directed the bank
+officers to remit US$ 38 million to the account of M/s. Karsan Limited.
+Moreover, the facts of the investigation have been concealed by the
+respondent before the Trial Court and since the sunset period was expired,
+therefore, hurriedly without going through the material on record, the Trial
+Court had issued the summons against the petitioners.
+</p>
+<p id="p_54">53.    It is further important to note that vide order dated 03.10.2002 and
+
+
+<span class="hidden_text" id="span_28">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                             Page 28 of 29</span>
+ 16.12.2003, this Court stayed the proceedings against the petitioners
+company and the petitioners employees respectively.
+</p>
+<p id="p_55">54.    In view of the facts and law discussed above, I hereby quash the
+summoning order dated 30.05.2002 and consequently, the complaints filed
+against the petitioners are also quashed.
+</p>
+<p id="p_56">55.    Accordingly, these petitions are allowed.
+</p>
+<p id="p_57">56.    TCR be sent back.
+</p>
+
+
+
+<p id="p_58">                                                       SURESH KAIT
+                                                        (JUDGE)
+
+MARCH 09, 2016
+jg/sb
+
+
+
+
+<span class="hidden_text" id="span_29">Crl. M.C. Nos.3003/2002 &amp; 5093/2003                        Page 29 of 29</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

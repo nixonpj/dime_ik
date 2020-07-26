@@ -1,0 +1,479 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re : vs Ajai Kumar Bhardwaj (Advocate) on 24 September, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/36464029/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:36464029">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1915023/">Section 6 in the Contempt of Courts Act, 1971</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/419856/">Section 5 in the Contempt of Courts Act, 1971</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1222272/">Section 4 in the Contempt of Courts Act, 1971</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1478730/">Section 13 in the Contempt of Courts Act, 1971</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/231480/">Section 2(c) in the Contempt of Courts Act, 1971</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/36464029/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/36464029/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/36464029/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=judicial%20officer">judicial officer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20%22hathras%22"> "hathras"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20contempt">criminal contempt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bar%20association">bar association</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cjm">cjm</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contempt%20of%20court%20">contempt of court </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complaint%20when%20made">complaint when made</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=judicial%20proceeding%20">judicial proceeding </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sudhir%20">sudhir </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=judicial%20proceedings%20">judicial proceedings </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=administration%20of%20justice%20is%20a">administration of justice is a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bonafide%20">bonafide </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20fair%20comments"> fair comments</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lady%20officer">lady officer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fair%20criticism">fair criticism</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=senior%20civil%20judge">senior civil judge</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=modesty">modesty</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=allegation%20against%20judicial%20officer">allegation against judicial officer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contempt%20act%20">contempt act </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complaint%20letters">complaint letters</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">In Re : vs Ajai Kumar Bhardwaj (Advocate) on 24 September, 2015</div><div class="doc_bench">Bench: Sudhir Agarwal, Ranjana Pandya</div>
+
+<pre id="pre_1">
+
+
+
+
+HIGH COURT OF JUDICATURE AT ALLAHABAD
+ 
+ 
+
+(AFR)					RESERVED ON  20.07.2015
+ 
+						DELIVERED ON  24.09.2015
+ 
+
+ 
+Court No. - 34
+ 
+
+ 
+Case :- CONTEMPT APPLICATION (CRIMINAL) No. - 14 of 2015
+ 
+
+ 
+Applicant :- In Re :
+ 
+Opposite Party :- Ajai Kumar Bhardwaj (Advocate)
+ 
+Counsel for Applicant :- A.G.A., Sudhir Mehrotra
+ 
+Counsel for Opposite Party :- A.B.L. Gaur,Hari Om Khare, P.K. Singh, Vishal Agarwal
+ 
+
+ 
+Hon'ble Sudhir Agarwal,J.
+</pre> 
+<p id="p_1">Hon'ble Mrs. Ranjana Pandya,J.
+</p> 
+<p id="p_2">		      (Delivered by Hon. Sudhir Agarwal, J.)
+ 
+</p><p id="p_3">1.  This criminal contempt application has been registered pursuant to a reference dated 27.09.2014 made by Smt. Chitra Sharma, Civil Judge, (SD), Hathras (hereinafterto referred as CJ(SD)) which has been forwarded by District Judge, Hathras vide his endorsement dated 29.09.2014.
+</p> 
+<p id="p_4">2.	CJ (SD) Hathras is posted as such at Hathras since 2012. Sri Ajai Kumar Bhardwaj, Advocate (hereinafterto referred the 'Contemner') is practising in Hathras, Civil Court and at present  Secretary of Bar Association,  Hathras. The Contemner along with his colleagues misbehaves with the Judicial Officers since he has taken charge as Secretary of  Bar Association, Hathras and mounts multi-corner pressure upon  Courts for getting  orders passed in his favour. An original suit No. 313/88, Dilip Poddar Vs. Ex-Officio President is pending in her Court in which the Contemner had given application for appointing him as Receiver of  Annual Fair that is being held at the Court premises every year.  The application given for appointment as Receiver was dismissed by her for the Fair is  held  every year and nearly thousands of  people gather.  The Fair lasts for 20-25 days and responsibility for looking after the said fair was entrusted to District Magistrate for many years.  District Magistrate is working as Receiver of the said Fair. On seeing the order of dismissal,  the Contemner got irritated and threatened to see her in future but the concerned officer did not comment although behaviour of  Contemner was not good. From the date of passing the said order,  the Contemner  has started making  scurrilous complaints vide letter dt.11.09.2014   and 18.9.2014.  The complaint dt. 11.9.2014 was  received by steno in the office  and  photocopy  was given to her by 'Ardali' at her residence. Further, the complaint  dt. 18.9.2014 was not provided to her but photocopy was given to her by C.J.M., Hathras.  She was on Child Care Leave from 04.9.2014 to 30.9.2014, therefore, immediate action could not be taken. Both the complaints were made by Contemner on letterhead of  Bar Association and language in the complaint letter is contemptuous. In complaint dated 11.09.2014 addressed to District Judge, Hathras, the contemner has commented upon her  **lhfoy tt ofj"B izHkkx gkFkjl Jherh fp=k 'kekZ ,d cnfetkt vkSj vk/kqfud [;kyksa dh efgyk gS tks vius lj ds ckyksa dks fc[ksjdj HkM+dkÅW Msªl o igukok igudj Mk;l ij cSB tkrh gSA** 
+ 
+	"Civil Judge (SD), Hathras, Smt. Chitra Sharma is a woman of ill-tempered and modernity, who sits on dais with untied hair and gaudy clothing." 
+</p> 
+<p id="p_5">			            (English translation by Court)
+ 
+</p><p id="p_6">3.	In another complaint  against C.J.M, A.C.J.M. and the CJ (SD), the Contemner has alleged that judicial officers are conspiring through the Judicial Magistrate Chitra Sharma to get him implicated in some case and get him killed; if he is killed, the responsibility of it be fixed upon all the above mentioned Judicial Officers. Several other instances have been given by CJ (SD) showing that Contemner was in the habit of making false complaints against conduct and character of Judicial Officers as also the Court Staff, in one or the other way. In the letter dated 18th of September, 2014 the Contemner has said:-
+</p> 
+<p id="p_7">^^1-	mDr lh0ts0,e0 }kjk vk;s fnu izkFkhZ dks FkzsfVax o rjg rjg ls Mjk;k /kedk;k tk jgk gS vkSj dgk tk jgk gS fd rwus viuh f'kdk;rsa okfil ugha yh rks fdlh u fdlh Fkkus ls rq&gt;s &gt;wBk QWlok nwWaxk ;k vius ckWMhxkMksZ ls ;k vius Fkkus ds ljfQjs iqfyl okyksa ls ,udkmUVj djok nwWaxkA
+ 
+2-	mijksDr lh0ts0,e0 ls izkFkhZ dks tku eky dk iwjk [krjk cuk gqvk gS vkSj mDr lh0ts0,e0 Jh eujkt flag vius v/khuLFk Jh vkseohj flag ,0lh0ts0,e0 o flfoy tt o0iz0 Jherh fp=k 'kekZ ds ek/;e ls vekuoh; d`R; djkrs gq;s izkFkhZ dh gR;k Hkh djk ldrs gS ;fn izkFkhZ dh gR;k gks tkrh gS rks bu rhuksa dks gh ftEesnkj le&gt;k tkosA
+ 
+3-	vr% Jheku~ th ls izkFkZuk gS fd esjs }kjk dh x;h f'kdk;rksa ij ;fn 'kh?kz vfr'kh?kz dk;Zokgh vey esa ugha yk;h x;h rks izkFkhZ etcwju dzfed vu'ku] vu'ku o vkej.k vu'ku djus dks etcwj gksxkA**
+ 
+" 1. The applicant is being threatened and intimidated every now and then in several ways by the aforesaid C.J.M. by way of holding out a warning that if he did not withdraw his complaints, he would be falsely implicated by any police station or be killed by orchestrating an encounter through his bodyguards or demented policemen. 
+</p> 
+<p id="p_8">2.  The applicant is under persistent life threats and the said learned C.J.M. Sri Manraj Singh may orchestrate even his murder by occasioning the commission of inhuman activities through his subordinates Sri Omvir Singh, ACJM and Smt Chitra Sharma, Civil Judge ( Senior Division). If he is murdered, the threesome of them may be held responsible.
+</p> 
+<p id="p_9">3. Sir, it is, therefore, requested that if earliest action is not taken over the complaints, the applicant will be forced to undertake successive fasts and fast unto death." (English translation by Court)
+ 
+</p><p id="p_10">4.	The CJ (SD) has said that the aforesaid allegations and scurrilous statements made against Judicial Officers of the Court  amount to 'criminal contempt'.   
+</p> 
+<p id="p_11">5.	As per Rules, the matter was examined by a Committee consisting of two Hon'ble Judges and taking the view that various documents contain allegations which prima facie constitute 'criminal contempt', made recommendation dt. 23.02.2015 for placing the matter before the Court having determination of Criminal Contempt. The aforesaid recommendation  was approved by  Hon'ble the Chief Justice on 17th of March, 2015.  The matter came up before Division Bench on 9th of April, 2015 and after being satisfied that there is a prima facie case of "Criminal Contempt" on the part of  Contemner, the Court issued notice.
+</p> 
+<p id="p_12">6.	The Contemner appeared and filed affidavit sworn on 12th May, 2015 stating that the letters etc. which he has sent,  were in his capacity as 'Secretary of Bar Association' and he was simply conveying the resolution passed by Association, therefore is not himself guilty of committing any contempt.  In brief, the contents of his affidavit are that he is a practising Advocate, elected Secretary of Bar Association and held the said office up to 6th of April, 2015.  There was a complaint by number of lawyers of Bar Association that Smt. Chitra Sharma, Civil Judge (Senior Division), Hathras was not sitting in the Court properly dressed, a proudy lady and not adopting proper procedure in Court,  passes order on first call in absence of lawyer and fixes long dates even in urgent matters. In the meeting dated 20th June, 2014, Bar Association passed a resolution, which reads as under:-
+</p> 
+<p id="p_13">^^izLrko%&amp;
+ 
+1-	fMlfVd ckj ,'kksf'k,'ku gkFkjl dh ,d ehfVax fnukad 20-06-2014 vke lHkk dh tujy ehfVax ckj gky esa lh0ts0,e0 Jh eujkt flag o ,0lh0ts0,e0 Jh vkseohj flag o flfoy tt ¼o0iz0½ Jherh fp=k 'kekZ }kjk fd, tk jgs euekus ,oa xSj dkuwuh dk;Z rFkk fcjknjh okn rFkk xyr igukos ij fopkj gsrq gqbZ ftlesa lh0ts0,e0 Jh eujkt flag }kjk fcjknjh okn QSykus rFkk viuh tkfr ds 70 odhyksa dk ?ke.M fn[kkus rFkk mUgha ds T;knkrj dke djus o vU; odhyksa ds lkFk HksnHkko djus ds lEcU/k esa fopkj&amp;foe'kZ fd;k x;kA
+ 
+2-	,0lh0ts0,e0 Jh vkseohj flag }kjk eqdneksa dk dksVk QthZ :i ls izkIr djus rFkk vfHk;qDrksa ds U;k;ky; esa vk;s fcuk eqdnesa 1050 tqekZuk vius ikl ls tek djds rFkk voS/k d`R; dj lHkh fu;eksa o dkuwu dks ckyk,rkd ij j[kus ds lEcU/k esa fopkj gqvkA
+ 
+3-	flfoy tt ¼o0iz0½ Jherh fp=k 'kekZ }kjk cn fetkth o ?ke.Mh rFkk cky fo[ksj dj HkM+dkÅ Msªl igudj Mk;l ij cSB tkus rFkk vk/kqfud QS'kusfcy efgyk gksus dk :rck xkfyc djus rFkk ftlesa fgr gks mlesa LVs okyk gh ckyk ikfjr djus vkSj ftlesa LVs gksuk pkfg, mlesa Qkby yVdk, j[kus rFkk vf/koDrkvksa dh cgqr lh Qkbyksa esa cgl u lqudj rkjh[k yxk nsus rFkk ,d i{kh; i=kofy;ksa esa Hkh vkns'k ikfjr u djs rFkk vf/koDrkvksa ls lEokn u djus o ijgst djus ij fopkj gqvkA^^				           (Emphasis Added)     	
+ 
+</p><p id="p_14">1. 	"A general body meeting of the District Bar Association, Hathras was held at the Bar Hall on 20.06.2014 to discuss on the arbitrary and unlawful activities, casteist approach and inappropriate clothing of CJM Shri Manraj Singh, ACJM Shri Omvir Singh and Civil Judge Smt. Chitra Sharma. In the said meeting, deliberations were also held about the promotion of casteism by CJM Shri Manraj Singh, his boating of there being 70 advocates of his community, his over indulgence in activities favouring them and extending discriminatory treatment to other counsels.
+</p> 
+<p id="p_15">2.	Discussion was also held about the attempts of ACJM Shri Omvir Singh to achieve the quota of case disposal in a bogus manner, about his hearing the cases without the appearance of the accused persons in the court and about depositing Rs. 1050 as fine from his pocket, thus indulging in illegal activities by grossly violating all rules and regulations.
+</p> 
+<p id="p_16">3.	Discussions were also held about the arrogance and bad temper of Civil Judge (Senior Division) Smt. Chitra Sharma, about her sitting at the dais with untied hair and gaudy clothing, about her flaunting to be a modern fashionable lady, about her passing stay orders in the matters she is interested in, about keeping the files pending where there should be stay orders, about her posting several cases without hearing the counsels, about her not passing orders in ex-parte cases and about her not having or refraining from having any communication with advocates."
+</p> 
+<p id="p_17">					(English translation by Court)
+ 
+</p><p id="p_18">7.	The aforesaid resolution further says that Contemner  being Secretary of Bar Association is authorized to get the aforesaid resolution typed out and send to higher authorities and in case, the said resolution is not conveyed to higher authorities, he himself shall be debarred from  Association.  
+</p> 
+<p id="p_19">8.	Another letter dated 18th of September, 2014 was addressed to the Chief Justice of  India, Supreme Court  in which reference was made to the complaint letters dated 21.08.2014 made against Shri Manraj Singh, CJM, Hathras, 06.09.2014 made against Shri Om Veer Singh, Additional CJM and 11.09.2014  made against Smt. Chitra Sharma, Civil Judge (Senior Division) stating that no action has been taken on the said complaints and on the contrary, CJM, Hathras has got three Security Guards misusing his powers. It further says that CJM was so much annoyed that he has managed through his subordinate judges harassment to the Contemner and has allotted resourceful police station to his favourite Additional Chief Judicial Magistrate Om Veer Singh who  enjoy police station Hathras Gate. CJM is continuously threatening the Contemner asking to withdraw complaints else he would be implicated in a  false case or would be encountered through his body-guards or police personnels.  The contemner expressed his apprehension of murder by the CJM, ACJM and CJ (SD) namely Shri Manraj Singh,  Om Veer Singh and Smt. Chitra Sharma and said that in case, he is murdered, the three officers should be held responsible. He lastly said that,  in case, no further action is taken, Contemner would be compelled to proceed on hunger strike. It is said that these complaints were made by the Contemner on being asked by members of Bar Association.  When these facts came to the notice of   CJ (SD), she has referred it as a criminal contempt.  Relying on <a href="/doc/1915023/" id="a_1">Section 6</a> of the Contempt of Court Act, 1971 (hereinafterto referred as "Act, 1971"), it is contended that complaint made against  officers of Subordinate Court would not amount to "criminal contempt".  Taking notice of  complaint made by Contemner,  this Court through Registrar (Confidential) sent a letter dated 09th of December, 2014 (Annexure No. CA 8) asking the Contemner to submit a duly sworn affidavit with verifiable materials in support of his grievance/allegations made in the complaint. Pursuant thereto the Contemner has filed an affidavit dated 16.01.2015 to this Court which is annexed as Annexure No. CA 9.  Since the complaints have been made by Contemner before notice was issued completing all the formalities, contempt proceedings should not be continued against him and in this regard he also relied  on <a href="/doc/1478730/" id="a_2">Section 13</a> of the Act, 1971. Allegation that on account of pending cases, Contemner was pressurizing the CJM is denied. It is further said that reference made by Smt. Chitra Sharma, CJ (SD) is malafide and with ulterior motive.  In  past also, the Contemner made a complaint against Sri Mridanshu Kumar, Additional Civil Judge, Court No. 3, Hathras but when complaint was pending, the said officer was transferred from Hathras, hence the Contemner did not pursue the matter further.  Lastly,  in usual way it is said that the Contemner has highest regard and respect to the authority of Court and tenders unconditional apology. 
+</p> 
+<p id="p_20">9.	This Court, on 18.05.2015, did not find itself satisfied with the explanation and finding a prima facie case of contempt  on the part of Contemner, proceeded further, and charged the Contemner as under:- 
+</p> 
+<p id="p_21">"That you Ajay Kumar Bhardwaj, Advocate, on account of rejection of your application for appointment of receiver in the annual fair held in the Civil Court premises in Original Suit No. 313 of 1988, Dilip Poddar Vs. Ex Officio President, after reading the order, got annoyed and under the garb of post held by you as Secretary, Bar Association vkns'k i&lt;+rs gh Hkfo"; esa ns[k ysus dh /kedh ns Mkyh  as also in your complaints dated 11.09.2014 and 18.09.2014 used indecent words by writing ^^flfoy tt ofj"B iz0 gkFkjl Jh  fp=k 'kekZ ,d cnfetkt  ?ke.Mh vkSj vk/kqfud [;kyksa dh efgyk gS tks vius lj ds ckyksa dks fc[ksj dj HkMdkÅ M~sl o igukok igu dj Mk;l ij cSB tkrh gSaA**  You further wrote, ^^ ftyk fof/kd lsok izkf/kdj.k dk dk;Z crkSj flfoy tt ugha dj jgh gwWa D;ksa viuh rkdr o izHkko ls ftyk tt ij xgjh ?kqliSB cuk fy;k gSA** By acts aforesaid you have raised fingers upon the integrity of the judicial officer and also circulated copy of complaint in premises among the Advocates and the clients and in this way you have damaged the reputation of the court in minds of public at large, thus you have committed criminal contempt defined under <a href="/doc/231480/" id="a_3">Section 2(c)</a> of Contempt of Courts Act, 1971 punishable under <a href="/doc/269047/" id="a_4">Section 12</a> of the Act."  
+</p> 
+<p id="p_22">10.	The Contemner was given opportunity to submit reply to the aforesaid charge.  Reply has been submitted vide supplementary affidavit 20.07.2015  and the basic contents in reply are the same as he  has stated in earlier affidavit.  Paragraphs -  3, 4 and 5 of supplementary affidavit read as under:-
+</p> 
+<p id="p_23">"3.	That 435 Member (including male and female) of District Bar Association, Hathras in general house meeting of Bar Association has passed the resolution dated 21.8.2014 and resolution dated 15.9.2014  (Annexure CA-1) of reply to the charges, which has already been filed. 
+</p> 
+<p id="p_24">	4.	That the Court Dress for the officer and lawyers has been mentioned in Chapter XXVii Rule 615 of  General Rules (Civil) (for Courts Subordinates to the High Court of  Judicature at Allahabad) which is quoted herein below;
+</p> 
+<p id="p_25">"615; Court dress for Officers and Lawyers;
+</p> 
+<p id="p_26">(1)All Presiding Officers of Sessions and Civil Courts and  Pleaders appearing before them shall wear a buttoned up coat,  Achkan or Sherwani of  a Black Colour.  They may wear an open neck coat of the same colour instead,  but if they are not entitled to use bands they shall wear a black tie with it.  During  the summer,  the colour need not be a black and coat,  achkan or sherwani of  a light colour may be worn .  With the coat trousers and with achkan or sherwani,  chhooridar paijama or shall wear a black or a white sari and blouse. 
+</p> 
+<p id="p_27">	They shall also wear distinctive costumes as indicated below:
+</p> 
+<p id="p_28">(i)Presiding  Officer;  a gown made after the pattern of 	Queen's Counsel' gown of black silk or stuff with band.
+</p> 
+<p id="p_29">(ii)	Advocates;  a gown similar to a barrister's gown with bands and 
+ 
+</p><p id="p_30">(iii)	Pleaders and Vakil; a gown similar to the gown worn by Presiding Officers, but without  sleeves and bands. 
+</p> 
+<p id="p_31">If  it is desired to wear a head dress,  turban may be worn. 
+</p> 
+<p id="p_32">(2)The Readers / Peshkars, Executive Assistants / Stenographers  and employee of class IV Cadre in the courts subordinates to the High Court of  Judicature at Allahabad shall wear Uniforms/Costumes  as indicated below;
+</p> 
+<p id="p_33">(i)  Readers / Peshkars and Executive Assistants / Stenographers shall wear black coat with black necktie or a buttoned up coat,  Sherwani or Achkan with shirt and trousers or Paijama of  sobre colours.  The ladies can wear traditional white Sari and Blouse or  Salwar Suit etc.  in place of  shirt/trousers along with coat. 
+</p> 
+<p id="p_34">(ii) All the class IV employees in the Courts shall wear white buttoned up coat,  Sherwani  or Achkan with white trouser or Paijama in summer and woolen buttoned up coat of  Navy Blue colour in winter.  The ladies can wear traditional white Sari with Blouse or  Shalwar Suits along with coat. 
+</p> 
+<p id="p_35">Provided that the orderlies with the Presiding Officers of the Courts shall in addition wear up cap or turban along with belt Monogram of  judgeship. 
+</p> 
+<p id="p_36">Provided further that the drivers shall wear white coat in summer and woolen navy blue colour coat in winter with Badge/Monogram of the judgeship and a felt cap.)"
+</p> 
+<p id="p_37">	5.	That the concerned Judicial Officer of District Court Hathras prior to filing the instant complaint mostly sitting in court bearing coloured dress without wearing the coat, gown only with band, which is in violation of the Rule 615 of General Rules (Civil) for Civil Court Subordinate to the High Court of Judicature at Allahabad."
+</p> 
+<p id="p_38">11.	We have heard Shri Sudhir Mehrotra, learned Special Counsel nominated by this Court to assist in this matter and Shri Hari Om Khare, Advocate, who has appeared on behalf of the Contemner.  Shri Mehrotra has pointed out that the allegations by Contemner are not only against the honesty, integrity of CJ (SD) but even  her modesty as a woman Judicial Officer has been, commented in very vulgar manner. 
+</p> 
+<p id="p_39">12.	Per contra, Shri Khare submitted that no criminal contempt is made out and the term of 'criminal contempt' as defined under <a href="/doc/231480/" id="a_5">Section 2(c)</a> is not satisfied.  He also placed reliance on <a href="/doc/1222272/" id="a_6">Sections 4</a>, <a href="/doc/419856/" id="a_7">5</a>, <a href="/doc/1915023/" id="a_8">6</a> and <a href="/doc/1478730/" id="a_9">13</a> of the Act, 1971.  He reiterated that Contemner only in discharge of his duties as an office-bearer of Bar Association, has conveyed  decision of members of  Association, hence he alone cannot be held responsible. He was only a medium to communicate sentiments, decisions and resolutions taken in the collective meeting of Bar Association.  
+</p> 
+<p id="p_40">13.	Sri Khare further submitted that Contemner cannot be punished for committing contempt of Court as he has not committed any contempt to Court concerned and also in view of the fact that he is tendering unconditional/unqualified apology before this Court, if Court finds that he has committed any contempt. In support of his contention Sri Khare, learned counsel for contemner has placed reliance on the Apex Court's decision in  <a href="/doc/421059/" id="a_10">Afzal v. State of Haryana</a>: AIR 1996 SC 2326 and a Constitution Bench judgment in Bharad Kant Mishra  Vs.  Registrar of Orissa High Court, AIR 1974 SC 710. 
+</p> 
+<p id="p_41">14.	We have considered the entire arguments and also perused the record. 
+</p> 
+<p id="p_42">15.	The Contemner has admitted that he sent letter dated 11.09.2014.  Now, his explanation is that the said letter was sent by him in the capacity of Secretary of Association for redressal of his  grievance as well as the grievance of advocates/members of the Bar Association.  We already quoted the extract of the said letter and do not find that it can be said to have been sent by Contemner in his capacity as Secretary of the Association except that the letter was written on the letterhead of Association. 
+</p> 
+<p id="p_43">16.	We may put on record that we specifically asked learned counsel for Contemner as also the Contemner who was present in the Court to tell us as to what was wrong with dress of lady Judicial Officer concerned which prompted the Contemner and other advocates to make such a  abhorring  comments upon her.  None of them gave any reply whatsoever and kept silence.  We asked whether the officer concerned was not wearing prescribed uniform, to which they did not give any reply.  We further asked to explain as to what the Contemner intended and meant by alleging that judicial officer concerned used to sit at dais with untied hair, gaudy clothing and in what manner they could use the advantages of saying that she is a modern fashionable lady. Here also came no reply. Apparently, we are clearly of the view that the language used by Contemner in respect to the lady judicial officer making comments on the respect, modesty and honour, is nothing but contemptuous. These comments undermine authority of the lady judicial officer as also the Court. Contemner has not kept his behaviour within limits to maintain  respect and honour of women in general and the lady Judicial Officer in particular.  On the contrary, highly objectionable comments have been made.  In absence of any justification for such comments and also in absence of anything to explain those comments, ex-facie we are clearly of the view that this part of charge stands proved against Contemner.  With respect  to remaining aspects we would look into the same in the light of defence taken by Contemner by referring to various provisions of Act, 1971. 
+</p> 
+<p id="p_44">17.	His defence that the letter was in the capacity of Secretary is clearly belied from a bare reading of letter dated 18th September, 2014 wherein,  in last paragraph, it is  said that the complaint being made by Contemner should be taken note of and action should be taken immediately, otherwise he will be compelled to observe hunger strike till death. The language of letter dated 18th September, 2014 shows that the complainant made serious allegations against the conduct of CJ (SD). He branded CJ (SD) as if the Judicial Officer was a habitual criminal and can commit offence of even murder, by her or through her agents.  If these allegations are not to be said as causing serious aspersion on the conduct of a Judicial Officer bringing down her authority in the eyes of public in general and simultaneous lowering the authority of Court, what else can be. Contemner has levelled allegation of threat and that too of something which constitutes heinous crime but it is not his case that any first information report has been lodged by him.  Moreover, no date, time etc. has been given as to when the alleged threat was given.  Allegations are extremely vague and unjust, had been made apparently to malign authority of the CJ (SD). 
+</p> 
+<p id="p_45">18.	Shri Khare sought to  defend the conduct of Contemner in making aforesaid allegations by referring to <a href="/doc/1222272/" id="a_11">Sections 4</a>, <a href="/doc/419856/" id="a_12">5</a>, <a href="/doc/1915023/" id="a_13">6</a> and <a href="/doc/1478730/" id="a_14">13</a> of Act, 1971. We proceed to examine the defence taken by the counsel for contemner referring to the aforesaid provisions. 
+</p> 
+<p id="p_46">19.	<a href="/doc/1222272/" id="a_15">Section 4</a> reads as under:-
+</p> 
+<p id="p_47"> 4. Fair and accurate report of judicial proceeding not contempt.― "Subject to the provisions contained in <a href="/doc/520823/" id="a_16">Section 7</a>, a person shall not be guilty of contempt of court for publishing a fair and accurate report of a judicial proceeding or any stage thereof."
+</p> 
+<p id="p_48">20.	A perusal of the above provision shows that it only reiterates well settled exposition in law that a fair and accurate report of judicial proceeding is not contempt. We can quote  the observations of Lord Campbell CJ in  Dairson Vs. Duncan (1857) 26 L.J.Q.B. 104  where His Lordship has said, "A fair statement of what takes place in a Court of Justice is privileged and it is a most beneficial law that it should be so, as the public have a great interest in knowing what occurs there and the inconveniences which can arise from such a publication are infinitesimally small in comparison with the benefits which result from it."
+</p> 
+<p id="p_49">21.	Again, Lord Atkin in Ambard Vs. Attorney General of Trinidad, 1936 AC 322, said, "No wrong is done by any member of the public who exercises the ordinary right of criticising in good faith, in public or private, the public act done in a seat of justice. The path of criticism is a public way, the wrong headed or permitted to err therein; 
+</p> 
+<p id="p_50">	Provided that the members of the public abstain from imputing improper motives to those taking part in the administration of justice............ . One has also to take care that he is genuinely exercising a right of criticism and not acting in malice or attempting to impair the administration of justice. Justice is not a cloistered virtue;  she must be allowed to suffer the scrutiny and respectful even though out-spoken comments of ordinary men."
+</p> 
+<p id="p_51">22.	<a href="/doc/1222272/" id="a_17">Section 4</a> of Act, 1971 only protects a fair and accurate report of judicial proceeding or any stage thereof and not the allegations and aspersions cast upon a Presiding Officer of the Court. The term 'judicial proceedings' also came up for consideration in Subhash Chand Vs. S.M. Aggrawal, 1984 Cr.LJ 481 before the Punjab and Haryana High Court and it was held that the "judicial proceedings" mean day to day proceedings of the Court including the proceedings in appeal. The judicial proceedings would not include within its ambit the Presiding Officer and the Court itself.  What actually in our view,  contemplated in <a href="/doc/1222272/" id="a_18">Section 4</a> is, that in respect to the judicial proceedings in a Court, any person is free to make a fair and accurate report and publish it.  It should be the report in respect to the proceedings and not to the conduct of  Presiding Officer. When a judgment is given or some interim order is passed or transcribed in the Court, during the course of hearing, can be a part of such publication provided it is fair and accurate report. 
+</p> 
+<p id="p_52">23.	In a Rajasthan matter in Meghraj Taword  Vs. Karpoor Chandra Kulish,  1987 (1) Raj LR 204  the Court said that a news item regarding any decision or proceeding of the Court when published it should be kept in mind that contentions of both the parties should be fairly described to give balanced view points of each of the parties as placed before the Court by them in their petitions and the replies; arguments advanced by learned counsel appearing for both the parties should also be properly described so that reader is in a position to understand the view points placed before the Court by both the counsels;  and the facts and material on which the Court basis its decision in the matter should also be described in the news item so that the readers are in a position to understand why the Court took a particular view while deciding the matter. <a href="/doc/1222272/" id="a_19">Section 4</a>, therefore, has no application in the case in hand and reliance placed thereon is totally misplaced and misconceived. 
+</p> 
+<p id="p_53">24.	No person gets a licence to criticise, condemn and make allegations and aspersions upon the conduct, character and function of Presiding Officer of Court. Such an attempt made is not protected under <a href="/doc/1222272/" id="a_20">Section 4</a> of Act, 1971 and reliance placed thereon by learned counsel for Contemner is apparently unsustainable, hence rejected.  
+</p> 
+<p id="p_54">25.	Then, we come to <a href="/doc/419856/" id="a_21">Section 5</a> of the Act, 1971. It reads as under:-
+</p> 
+<p id="p_55"> 5. Fair criticism of judicial act not contempt.―  "A person shall not be guilty of contempt of court for publishing any fair comment on the merits of any case which has been heard and finally decided."
+</p> 
+<p id="p_56">26.	In respect to a case which has been heard and finally decided by the Court, if any person makes any fair comment on the merits of such case it shall not amount to contempt. This is the precise intent of <a href="/doc/419856/" id="a_22">Section 5</a>.  A judgment once delivered becomes a public document.  If on the merits of such judgment a reader thereof makes his comments fairly and in a bonafide manner that would not constitute contempt but such a comment would have to be confined to the merit of such case and not to the conduct of an authority of the Court.  It is also to be seen that fair comments on the merits of the case must be based on facts and honest. In Perspective Publications Private Limited Vs. State of Maharashtra, AIR 1971 SC 221 and  C.K. Daphtary Vs. O.P. Gupta, 1971 (1) SCC 626  the Court held that attributed impropriety or lack of integrity to the Presiding Officer of the Court would exceed the bounds of  fair criticism and shall not be protected by <a href="/doc/419856/" id="a_23">Section 5</a> of  Act,1971.  This Court in Manik Chand Gupta Vs. Virendra Kumar, 1979 Cr.LJ 412  held that the allegations of partiality levelled on the Presiding Officer of the Court would  not be protected by <a href="/doc/419856/" id="a_24">Section 5</a> of Act, 1971.  In Ashwani Kumar Ghose Vs. Arvinda Bose, AIR 1953 SC 75 it was held that the allegations of extraneous consideration levelled upon the Presiding Officer of the Court in rendering a judgment would be beyond the permissible limit of <a href="/doc/419856/" id="a_25">Section 5</a> of the Act, 1971 and shall not be protected by the said provision. 
+</p> 
+<p id="p_57">27.	In the present case, we do not find as to how <a href="/doc/419856/" id="a_26">Section 5</a> is attracted and reliance thereon, on the part of Contemner shows a total misconception and misunderstanding of legal provision on his part. 
+</p> 
+<p id="p_58">28.	 <a href="/doc/1915023/" id="a_27">Section 6</a>  has been very heavily relied by Shri Khare to protect Contemner from the aforesaid charge. It reads as under:-
+</p> 
+<p id="p_59">6. Complaint against presiding officers of subordinate Courts when not contempt.―  "A person shall not be guilty of contempt of court in respect of any statement made by him in good faith concerning the presiding officer of any subordinate court to―
+ 
+</p><p id="p_60">	(a) any other subordinate court, or
+ 
+</p><p id="p_61">	(b) the High Court,  to which it is subordinate."
+</p> 
+<p id="p_62">	Explanation.―  In this section subordinate court  means any court subordinate to a High Court.
+</p> 
+<p id="p_63">29.	It is contended that the Judicial Officer was not honest and working in a very indiscreet manner.  A true complaint was made against her conduct by the Contemner, hence, it would not amount to contempt and Contemner is protected by <a href="/doc/1915023/" id="a_28">Section 6</a> of  Act, 1971.  
+</p> 
+<p id="p_64">30.	In State Vs. Brahma Prakash, AIR 1950 Alld. 556  this Court said that no Judge is immune from criticism but the criticism must take form of reasonable argument or ex- postulation.  It must be made in good faith.  It must be free from imputation of improper motives. Criticism of a judicial act which cannot reasonably be said to be within the limits will be contempt. In Rex Vs. B.S. Nayyar, AIR 1950 Alld. 549 this Court  said that the complaints must be genuine, made in a proper manner with the object of obtaining redress and not made malafide, with a view to exert pressure upon the Court in exercise of its judicial function or to diminish authority of the Court by vilifying it. It should not be in furtherance of justice to stifle them by means of summary action for contempt. 
+</p> 
+<p id="p_65">31.	The essential requisite for invoking <a href="/doc/1915023/" id="a_29">Section 6</a> is good faith. We have no manner of doubt,  if a judge of subordinate Court is taking bribe (s), or is impartial or is otherwise influencing judicial proceedings in an improper way, information may be given to the superior authorities on administrative side.  However, if the allegations  are made in respect to the judicial duty,  that the same are dishonest and corrupt, one will have to face contempt unless it can be shown that the allegations are correct and made bonafide.  Anybody who makes a reflection on the dealing of Court in judicial matters, is bound to shake confidence of general public in the seat of justice.  No Judge or Magistrate is immune if he takes recourse to corrupt practice and sells justice for his own benefit. But, then, such a complaint must come bonafide and not in a reckless casual manner showing individual motive of the complainant.  As we have said,  bonafide of the complainant is the foundation.  A tangible test to apply is whether the complainant has acted with due care and attention.  It is not open to a person to take precipitous action only on vague information in an irresponsible manner. 
+</p> 
+<p id="p_66">32.	We, now, propose to examine whether <a href="/doc/1915023/" id="a_30">Section 6</a> of Act, 1971 can help contemner in the case in hand. He has levelled allegation against a lady judicial officer that she in collusion with CJM and ACJM is conspiring to murder him.  Besides, allegations have also been levelled against dress and mannerism of lady judicial officer. These allegations are personal, against character, integrity and conduct of the officer concerned.  They are very serious in nature.  The allegations are also vague and general.  No date, time etc. has been specified while making the aforesaid complaint.  It is not that the contemner has lodged any first information report if any such threat was given to him.  With respect to motive for making allegation against the judicial officer concerned which has been explained in the addressed letter, nothing has been explained whatsoever.  The allegation, therefore, cannot be said to be bonafide and protection of <a href="/doc/1915023/" id="a_31">Section 6</a> is not available to Contemner. 
+</p> 
+<p id="p_67">33.	We cannot restrain ourselves  from condemning such attempt on the part of Contemner particularly when he has made such attempt upon the  pious institution of justice. 
+</p> 
+<p id="p_68">34.	Now, we come to <a href="/doc/1478730/" id="a_32">Section 13</a> of Act, 1971. It reads as under:-
+</p> 
+<p id="p_69">13. Contempts not punishable in certain cases.― Notwithstanding anything contained in any law for the time being in force, ―
+ 
+</p><p id="p_70">	(a) no court shall impose a sentence under this Act for a contempt of court unless it is satisfied that the contempt is of such a nature that it substantially interferes, or tends substantially to interfere with the due course of justice;
+</p> 
+<p id="p_71">	(b) the court may permit, in any proceeding for contempt of court, justification by truth as a valid defence if it is satisfied that it is in public interest and the request for invoking the said defence is bona fide.
+</p> 
+<p id="p_72">35.	<a href="/doc/1478730/" id="a_33">Section 13</a> as amended now permits truth as a defence. It could have been available provided the Contemner has requested and offered to prove the allegations. No such attempt has been made.  Now, the kind of allegations he has levelled against the Judicial Officer, it cannot be doubted that they are so serious in nature that in case, they are allowed to remain, bound to influence the public at large to loose confidence in  impartiality and objectivity in the institution of justice.  
+</p> 
+<p id="p_73">36.	We do not find as to how this provision will help him. The CJ (SD) has explained the background facts and motive of Contemner.  On this aspect, no explanation has been given. Moreover, the Contemner has not requested to prove that the allegations made by him were 'truth'. In fact he has cast aspersions on the integrity, efficiency, conduct and even modesty of  a lady Judicial Officer in a reckless, but vulgar manner.  These are the allegations made by a litigant against a Presiding Officer, who has failed to get an order in his own terms. The allegations levelled, therefore, are apparently motivated and biased. The allegations that action of Presiding Officer is corrupt, result of some conspiracy, the Judicial Officers have coordinated and cooperated to enter into a conspiracy against Contemner, all constitute serious aspersions and scurrilous allegations against Presiding Officer of the Court below. No litigant has any legal or otherwise right to obtain an order from Court of law in a particular manner which he desires.  The only right of litigant  is to place his case, facts and law, before the Court and thereafter what would be the result, is not his right. No litigant can claim, if an order favourable to him is not passed, then it would mean that the Judicial Officer has committed all kind of misconduct and illegalities. This cannot give  a licence to the litigant to castigate Presiding Officer in any manner.  If the order is not correct, litigant has a remedy to approach higher Courts, but cannot castigate the conduct, character etc. of the Presiding Officer, who has passed the order. In any case, the Contemner has no business to comment upon the mannerism and modesty of lady Judicial Officer. 
+</p> 
+<p id="p_74">37.	There are cases where a person has made a fair criticism of the orders passed by Court below, but here the conduct, integrity, and efficiency of Judicial Officers has been abusively commented and indicted by using impertinent language.  If an order is passed wrongly, in an appropriate manner, with civilized words and manner, it is always open to the litigant or his Advocate or even a common man  to criticise such order.  We do not initiate contempt proceedings on just fall of a hat as we are not so sensitive, but then it cannot be extended to the extent of permitting a litigant or an Advocate or any person to virtually abuse the Presiding Officers of the Court, which would include the Court itself.   A fair criticism does not constitute to scandalize or lower the authority of Court or Judicial Institutions or an attempt to interfere with administration of justice, but ill-motive, intentional and deliberate castigation going to the extent virtual abuse is not protected and that has a different impact. It is criminal contempt.
+</p> 
+<p id="p_75">38.	In P.N. Duda Vs. P. Shiv Shankar and others 1988 3 SCC 167 the Court said that justice is  not  a  cloistered  virtue.  she  must  be allowed to suffer the scrutiny and respectful, even though outspoken, comments  of ordinary  men. Administration of  justice and Judges are open to public criticism  and public  scrutiny. Judges have their accountability to the society and their accountability must be judged by their conscience and oath of their office, that is,  to defend and uphold the Constitution and the laws without fear  and favour, but Any  criticism	about  the  judicial system or  the Judges  which hampers  the administration  of justice or  which erodes the faith in the objective approach of Judges and brings administration of justice into ridicule must be prevented.  The Courts cannot ignore attempts made to decry  or denigrate the  judicial process, when it is done with quite seriousness. 
+</p> 
+<p id="p_76">39.	The definition of Criminal Contempt under <a href="/doc/231480/" id="a_34">Section 2(c)</a> reads as under:
+</p> 
+<p id="p_77">"2(c). Criminal contempt means the publication (whether by words, spoken or written, or by signs, or by visible representation, or otherwise) of any matter or the doing of any other act whatsoever which
+ 
+</p><p id="p_78">(i) scandalises or tends to scandalise, or lowers or tends to lower the authority of, any court; or
+ 
+</p><p id="p_79">(ii) prejudices, or interferes or tends to interfere with, the due course of any judicial proceeding; or
+ 
+</p><p id="p_80">(iii)interferes or tends to interfere with, or obstructs or tends to obstruct, the administration of justice in any other manner;
+</p> 
+
+ 
+<p id="p_81">44.	Publication whether by words spoken or written etc. on any matter or doing of any other act, which scandalizes or tends to scandalize or lowers or tends to lower the authority of any Court constitutes 'criminal contempt'.  Such act, as aforesaid, if prejudices or interferes or tends to interfere with due course of any judicial proceeding also amounts to 'criminal contempt'. Thirdly, if such an act interferes or tends to interfere with or obstructs or tends to obstruct the administration of justice in any other manner, again it would constitute 'criminal contempt'. The word 'scandalize' has not been defined in Act, 1971.  In Black's Law Dictionary word 'scandal' has been described as under: 
+</p> 
+<p id="p_82">"Scandal consists in the allegation of anything which is unbecoming the dignity of the court to hear, or is contrary to decency or good manners, or which charges some person with a crime not necessary to be shown in the cause, to which may be added that any unnecessary allegation, bearing cruelly upon the moral character of an individual, is also scandalous.  The matter alleged, however, must be not only offensive, but also irrelevant to the cause, for however, offensive it be, if it is pertinent and material to the cause the party has a right to plead it. It may often be necessary to charge false representations, fraud and immorality, and the pleading will not be open to the objection of scandal, if the facts justified the charge.                    (emphasis added) 					 
+ 
+</p><p id="p_83">41.	In Aiyer's Law Lexicon, second edition, Page 1727, reference has been made to Millington Vs. Loring (1880) 6 QBD 190, where the word 'scandalous' has been explained as under:
+</p> 
+<p id="p_84">	" A pleading is said to be 'scandalous' if it alleges anything unbecoming the dignity of the court to hear or is contrary to good manners or which charges a crime immaterial to the issue. But the statement of a scandalous fact that is material to the issue is not a scandalous pleading."
+</p> 
+
+ 
+<p id="p_85">42.	In Narmada Bachao Andolan Vs. Union of India, (1999) 8 SCC 308, in para 7 of the judgment the Court said:
+</p> 
+<p id="p_86">	"7.	We wish to emphasise that under the cover of freedom of speech and expression no party can be given a licence to misrepresent the proceedings and orders of the court and deliberately paint an absolutelty wrong and incomplete picture which has the tendency to scandalise the court and bring it into disrepute or ridicule.
+</p> 
+
+ 
+<p id="p_87">43.	Recently, the aforesaid definitions of the term 'scandalise' has been quoted with approval in Indirect Tax Practitioners' Association Vs. R.K. Jain  2010 8 SCC 281.
+</p> 
+<p id="p_88">44.	In Subramanian Swamy Vs. Arun Shourie (2014) 12 SCC 344, the court had occasion to examine <a href="/doc/108629041/" id="a_35">Section 13(b)</a> as came to be amended by Act 6 of 2006.  The court observed that the amended provision enables the court to permit justification by truth as a valid defence in any contempt proceeding if it is satisfied that such defence is in public interest and the request for invoking the defence is bona fide, unless the court finds that it is only a camouflage to escape the consequences of deliberate or malicious attempt to scandalise the court or is an interference with the administration of justice.
+</p> 
+<p id="p_89">45.	In the present case, the Contemner has not only castigated the CJ (SD) personally, but also made                     allegation against CJM and ACJM. Where is the basis for this statement, we are at loss to understand since none has been disclosed.  Details and facts are not stated as to when, how and where any such threat was administered by any Judicial Officer and whether the Contemner lodged any report in this regard with police or not.  The attitude of the Contemner for petty gains,  in our view, must be deprecated in the strongest words.  His conduct also justifies a severe punishment. 
+</p> 
+<p id="p_90">46.	 At this stage, Shri Khare, learned counsel for the Contemner submitted that since the contemner was an office-bearer of Bar Association, therefore, in the matter of punishment due consideration should be showed.  In our view, the submission is thoroughly misconceived.  The mere fact that the Contemner was an office-bearer of Association cannot authorize him to go on making wild scurrilous allegations against the Judicial Officer including a woman Judicial Officer.  He has not kept his conduct within the prescribed limits, what to say of limits of morality and ethics.
+</p> 
+<p id="p_91">47.	Even if an Advocate has held any other office, his responsibility as an officer of court being an Advocate does not cease. He is bound to maintain decorum of the court. 
+</p> 
+<p id="p_92">48.	An Advocate's duty is as important as that of a Judge. He has a large responsibility towards society. He is expected to act with utmost sincerity and respect. In all professional functions, an Advocate should be diligent and his conduct should also be diligent. He should conform to the requirements of law. He plays a vital role in preservation of society and justice system. He is under an obligation to uphold the rule of law. He must ensure that the public justice system is enabled to function at its full potential. He, who practices law, is not merely a lawyer, but acts as moral agent. This character, he cannot shake off, by any other character on any professional character. He derives from the belief that he shares sentiment of all mankind. This influence of his morality is one of his possession, which, like all his possession, he is bound to use for moral ends. Members of the Bar, like Judges, are the officers of the Court. Advocacy is a respectable noble profession on the principles. An Advocate owes duty not only to his client, but to the Court, to the society and, not the least, to his profession. 
+</p> 
+<p id="p_93">49.	We do not intend to lay down any code of conduct for the class of the peoples known as "Advocates", but certainly we have no hesitation in observing that no Advocate has any business to condemn a Judge for an order passed by him/her but not to the liking of a party. If there is something lacking on the part of a Judicial Officer touching his/her integrity, Advocates, being Officers of the Court, may not remain a silent spectator, but should come forward, raising their voice in appropriate manner before the proper authority, but there cannot be a licence to any member of Bar to raise his finger over the competency and integrity etc. of a Judicial Officer, casually or negligently, or on other irrelevant grounds. Here the competence and capacity of the concerned Judicial Officer has been attempted to be maligned commenting upon her integrity and honesty. It deserves to be condemned in the strongest words. No one can justify it in any manner. Thinking of intrusion of such thought itself sounds alert. It is a siren of something which is not only very serious, but imminent. It is a concept or an idea which should not have cropped up in anybody's mind, connected with the system of justice, and if has cropped up, deserves to be nipped at earliest, else, it may spread its tentacles to cover others and that would be a dooms day for the very institution.
+</p> 
+<p id="p_94">50.	Wild imaginary allegations against conduct of Judicial Officer without having any material to substantiate the same cannot be tolerated, inasmuch as, it not only brings into disrepute the entire justice system but is likely to cause serious erosion in the confidence of public in case such tendency is not snuffed at the earliest. The Judicial Officer/Judges had no platform to stand and clarify their conduct. They had no platform to defend themselves. The strength of judiciary comes from the strong public opinion which it has in the system. If unsubstantiated flimsy imaginary fanciful allegations made by a party are allowed, it will demolish the  system of justice. 
+</p> 
+<p id="p_95">51.	Every order passed by the Court will be in favour of one of the party and against another. The losing party cannot be allowed to challenge  very integrity of Judicial Officer in passing an order and that too without any material to support such a allegation. If we allow such a trend to remain unnoticed, or condone the same without any appropriate action, it will not only encourage such tendency amongst others but also the resultant situation may cause a serious blow to the system of administration of justice, which is one of the founding pillars of constitutional scheme and has to be protected by all legal and reasonable means. 
+</p> 
+<p id="p_96">52.	We are, therefore, satisfied that the contemner has failed to maintain the good conduct and behaviour which can be said to be orderly, good and disciplined.
+</p> 
+<p id="p_97">53.	In the entirety of circumstances and in the facts of this case, having given our anxious consideration, we are satisfied that the charge of "criminal contempt" levelled against Contemner is proved  and he is guilty of 'criminal contempt' as defined under <a href="/doc/1737746/" id="a_36">Section 2</a> (c) of Act, 1971. 
+</p> 
+<p id="p_98">54.	Now, coming to sentence, we find that criminal contempt on the part of Contemner is quite serious and grave. It would have a demoralizing effect on  Presiding Officer of subordinate Court if contemner is not awarded appropriate punishment.  It demands severe punishment. 
+</p> 
+<p id="p_99">55.	We, therefore, impose punishment of simple imprisonment of six months and fine of Rs.2,000/-. In case of non deposit of fine,  the Contemner shall undergo further simple imprisonment of three months. 
+</p> 
+<p id="p_100">56.	Further, in order to maintain discipline and smooth functioning of District Judgeship, we restrain the Contemner from entering  premises of Judgeship at Hathras to practice as an advocate, for a period of one year. This period shall commence w.e.f. 05th of October, 2015.
+</p> 
+<p id="p_101">57.	We also direct the District Judge, Hathras to keep close watch over the conduct of Contemner, whenever he commences his entry in Court premises to practice law, for a period of two years, and if found any thing otherwise,  report to the Court suo motu without any delay. 
+</p> 
+<p id="p_102">58.	Registry is directed to certify copy of judgment to the District Judge and CJM, Hathras, forthwith, for communication and compliance. 
+</p> 
+<p id="p_103">59.	Reference is allowed in the manner aforesaid. 
+</p> 
+
+ 
+<p id="p_104">	 (Hon. Mrs. Ranjana Pandya, J)  (Hon. Sudhir Agarwal, J)
+ 
+Order Date :- 24.09.2015
+ 
+LBY 
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+    
+      
+  
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

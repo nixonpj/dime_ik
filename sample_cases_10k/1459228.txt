@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Commissioner Of Income-Tax vs Durga Prasad Gupta on 19 November, 2004</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1459228/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/300641/">Section 80T in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/733695/">Section 80AB in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/319514/">V.M. Salgaocar And Bros. Pvt. Ltd. ... vs Commissioner Of Income Tax Etc on 10 April, 2000</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1940213/">Section 256(1) in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/601887/">N.N. Bhagwati vs Commissioner Of Income-Tax on 20 July, 2000</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1459228/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1459228/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=capital%20gains">capital gains</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=terms%20">terms </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=any%20other%20relief">any other relief</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=long%20terms%20capital%20gains">long terms capital gains</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cit%20">cit </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=admissibility%20">admissibility </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20share">what is share</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Commissioner Of Income-Tax vs Durga Prasad Gupta on 19 November, 2004</div><div class="doc_citations">Equivalent citations: 2005 277 ITR 495 All</div>
+
+<div class="doc_bench">Bench: R Agrawal, P Krishna</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+</p><p id="p_2">1. The Income-tax Appellate Tribunal, Allahabad, has referred the following question under <a href="/doc/1940213/" id="a_1">Section 256(1)</a> of the Income-tax Act, 1961 (hereinafter referred to as "the Act"), for opinion to this court :
+</p><p id="p_3"> "Whether, on the facts and in the circumstances of the case, the Income-tax Appellate Tribunal was correct in law in holding that the assessee is entitled to the relief under <a href="/doc/300641/" id="a_2">Section 80T</a> on the entire amount of long-term capital gains arising from the sale of building and not on the net amount of long-term capital gains, arrived at after setting off the long-term capital loss on the shares arising during the same previous year ?"
+</p> 
+
+<p id="p_4">2. The reference relates to the assessment year 1982-83. Briefly stated, the facts are that the assessee had earned capital gains on the sale of immovable property of Rs. 5,15,125. He also suffered capital loss on the sale of shares at Rs. 92,640. The net capital gains thus after adding the income from property amounted to Rs. 4,28,085. The Income-tax Officer allowed the relief under <a href="/doc/300641/" id="a_3">Section 80T</a> of the Act on the net income. However, in further appeal, the Tribunal has accepted the claim of the respondents and it held that relief under <a href="/doc/300641/" id="a_4">Section 80T</a> of the Act is admissible on the entire amount of capital gain arising from the sale of building after allowing long-term capital loss on the shares, which arose during the same year.
+</p> 
+
+<p id="p_5">3. Heard Sri Shambu Chopra, learned counsel for the Revenue and Sri V.K. Rastogi, learned counsel for the assessee.
+</p> 
+
+<p id="p_6">4. In view of the insertion of <a href="/doc/733695/" id="a_5">Section 80AB</a> of the Act, deduction under Chapter VI-A is admissible on the net income only. <a href="/doc/733695/" id="a_6">Section 80AB</a> has been held to be retrospective in operation by the Supreme Court in the cases of H.H. Sir Rama Varma (decd. by legal representatives) v. CIT  ; Motilal Pesticides (I.) <a href="/doc/319514/" id="a_7">Pvt. Ltd. v. CIT</a>  and <a href="/doc/601887/" id="a_8">N.N. Bhagwati v. CIT</a> . In this view of the matter the Tribunal has committed an error in holding that the relief under <a href="/doc/300641/" id="a_9">Section 80T</a> is admissible on the entire long-term capital gains.
+</p> 
+
+<p id="p_7">5. In view of the foregoing discussions, we answer the aforesaid questions referred to us in the negative, i.e., in favour of the Revenue and against the assessee. There will be however, no order as to costs.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

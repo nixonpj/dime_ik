@@ -1,0 +1,3019 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Friday vs N.Ramachandran on 7 July, 2006</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/93021142/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:93021142">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1320680/">Sant Ram Sharma vs State Of Rajasthan &amp; Anr on 7 August, 1967</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1789036/">State Of Madhya Pradesh And Anr vs G.S. Dall And Flour Mills on 19 September, 1990</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/753100/">N.K. Pankajakshan Nair vs P.V. Jayaraj And Ors. on 23 February, 2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1601359/">Jainamma K.Joseph vs State Of Kerala on 3 March, 2010</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/374386/">Tarulata Syam And Ors vs Commissioner Of Income-Tax, West ... on 28 April, 1977</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/93021142/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/93021142/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/93021142/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=inter%20district%20transfer">inter district transfer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lien">lien</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%5B2006%5D%20p">[2006] p</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=palakkad">palakkad</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20of%20transfer">order of transfer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=special%20rules">special rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=against%20%20statutory%20rules">against  statutory rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=executive%20instructions">executive instructions</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ks">ks</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=executive%20order">executive order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=public%20service%20commission">public service commission</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=seniority%20list">seniority list</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=psc">psc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chandran">chandran</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%5C%22ramachandran%5C%22">\"ramachandran\"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Rule%20proviso">Rule proviso</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=inter%20departmental%20transfer">inter departmental transfer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20by%20transfer">appointment by transfer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20and%20seniority">appointment and seniority</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=not%20joining%20duty">not joining duty</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Friday vs N.Ramachandran on 7 July, 2006</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+                IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                PRESENT:
+
+         THE HON'BLE ACTING CHIEF JUSTICE MRS.MANJULA CHELLUR
+            THE HONOURABLE MR.JUSTICE T.R.RAMACHANDRAN NAIR
+                                   &amp;
+            THE HONOURABLE MR.JUSTICE P.R.RAMACHANDRA MENON
+
+         FRIDAY, THE 16TH DAY OF MARCH 2012/26TH PHALGUNA 1933
+
+                        WA.No. 1466 of 2006 (B)
+                        -----------------------
+     AGAINST THE ORDER/JUDGMENT IN WPC.11178/2005 DATED 07-07-2006
+
+APPELLANT(S):
+------------
+
+     1.  N.RAMACHANDRAN
+         EXCISE SPECIAL SQUAD, PALAKKAD.
+
+     2.  K. MUHAMMED, EXCISE SQUAD,
+         EXCISE RANGE OFFICE, MANNARKAD.
+
+     3.  K. KRISHNANKUTTY, EXCISE GUARD,
+         EXCISE RANGE OFFICE, ALATHUR.
+
+     4.  C. MOHANAN, EXCISE GUARD,
+         EXCISE RANGE OFFICE PALAKKAD.
+
+     5.  CHANDRAN T., EXCISE GUARD,
+         EXCISE RANGE OFFICE, PALAKKAD.
+
+     6.  N. RAJAN BABU, EXCISE GUARD,
+         EMBAY DISTILERY, PALAKKAD.
+
+     7.  M.M. CHENTHAMARAKSHAN,
+         EXCISE GUARD, EXCISE RANGE OFFICE, PARALI.
+
+     8.  V.P. SABU, EXCISE GUARD,
+         EXICSE CHEQUE POST, MEENAKSHIPURAM.
+
+         BY ADVS.SRI.P.RAVINDRAN (SR.)
+                 SMT.CHINCY GOPAKUMAR
+                 SRI.B.GOPAKUMAR
+
+RESPONDENT(S):
+--------------
+
+     1.  S.MADHU
+         EXCISE GUARD, EXCISE RANGE OFFICE, CHITTOOR
+         SATHYANIVAS, MANIKATH KALAM P.O., NALLEPILLY
+         PALAKKAD.
+
+     2.  S. KARTHIKEYA PRASAD, AGED 38 YEARS,
+         S/O. LATE P. MAYAJAN, EXCISE GUARD, CIRCLE OFFICE
+         ALATHUR, PARASADHAAM, NADUVANGODU VILLANGI
+         NENMARA, PALAKKAD.
+
+W.A.1466/2006
+     3.  S. GOPALAKRISHNAN, AGED 42 YEARS,
+         S/O. RAMACHANDRAN, EXCISE GUARD, EXCISE CIRCLE
+         PALAKKAD.
+
+     4.  C.P. MADHU, AGED 32 YEARS,
+         EXCISE GUARD, EXCISE CIRCLE OFFICE, ALATHUR
+         PALAKKAD, CHADAYANAN, KUZHALMANNAM
+         PALAKKAD.
+
+     5.  P.S. JANARDHANAN, AGED 52 YEARS,
+         S/O. SANKARA NARAYANAN, EXCISE GUARD
+         EXCISE SPECIAL SQUAQD, PALAKKAD.
+
+     6.  K.P. SUDHEER, AGED 30 YEARS,
+         S/O.K.P. UMMARKUTTY, EXCISE GUARD
+         EXCISE RANGE OFFICE, KUZHALMANNAM.
+
+     7.  S. BALAGOPALAN, AGED 32 YEARS,
+         EXCISE GUARD, EXCISE CHECK POST, VELANTHAVALAM
+         PALAKKAD.
+
+     8.  A. BALAN, AGED 47 YEARS,
+         S/O APPU, EXCISE GUARD, EXCISE RANGE OFFICE
+         NENMARA, BANDIPURA HOUSE, AYANAMPADAM
+         NENMARA.
+
+     9.  K.A. ABDUL ASHRAF, AGED 32 YEARS,
+         S/O. SAIDALAVI, EXCISE GUARD
+         EXCISE ENFORCEMENT AND ANTI NARCOTIC SPECIAL SQUAD
+         PALAKKAD, KOLKATTIL HOUSE, NO.E7
+         M.G.O.QUARTERS, NEAR C.J.M. COURT, KOCHATHIPADI
+         MANNARKADU.
+
+     10.  P. ARUMUGHAN, EXCISE GUARD,
+         EXCISE RANGE OFFICE, CHITTOOR.
+
+     11.  C. KAMUPPAN, AGED 50 YEARS,
+         S/O. KUNJAN, EXCISE GUARD, EXCISE CIRCLE OFFICE
+         MANNARCADU.
+
+     12.  M.E. RAJAN, AGED 49, S/O. ITTATHI,
+         EXCISE GUARD, EXCISE OFFICE, CHEMMANNAMPATHY
+         MALAKUDIYIL KOLLAMGOD, POST CHITTOOR, PALAKKAD.
+
+     13.  P.G. RAMACHANRAN, AGED 52 YEARS,
+         S/O.GANGADHARAN, EXCISE GUARD EXCISE RANGE, OFFICE
+         PALAKKAD, PALAYITHAYIL VEEDU
+         CHERUMUGHAMUNI CHEDIRANIKUDY, NORANADU VILLAGE
+         PANDALAM.
+
+     14.  G. DWARAKAVASAN, AGED 50 YEARS,
+         S/O. GANGADHARAN, EXCIE GUARD, EXCISE RANGE
+         PARALI.
+
+     15.  A. SHOWKATH ALI, AGED 30 YEARS,
+         S/O. ABDUL RAHIMAN, EXCISE GUARD
+         EXCISE CIRCLE OFFICE, ALATHUR, RAHIMAN MANZIL
+         PALAKKAD.
+
+     16.  G. SANTHOSH KUMAR, AGED 27 YEARS,
+
+W.A.1466/2006
+         EXCISE GUARD, EXCISE CIRCLE OFFICE, PALAKKAD.
+
+     17.  O. MUHAMMED ABDUL SALAM,
+         AGED 35 YEARS, S/O. O. MUHAMMED, EXCISE GUARD
+         KERALA DISTILERY, KANJIKODU.
+
+     18.  P. SURESH, AGED 33 YEARS,
+         S/O. P.N. KESAVAN DAS, EXCISE GUARD
+         EXCISE RANGE OFFICE, KOLLNGODE.
+
+     19.  N PREMANANDA KUMAR, AGED 31 YEARS,
+         EXCISE GUARD AMRUTHA CHISTILARY KOYIL KODU
+         PALAKKAD.
+
+     20.  P. HARISH, AGED 33 YEARS,
+         S/O. RAMAKRISHNAN, EXCISE GUARD
+         EXCISE CIRCLE OFFICE, OTTAPALAM.
+
+     21.  H. VINU, AGED 28 YEARS,
+         EXCISE GUARD, EXCISE CIRCLE OFFICE, PALAKKAD.
+
+     22.  K.R. AJITH, AGED 25 YEARS,
+         S/O.P. RAMACHANDRAN (LATE) EXCISE GUARD
+         EXCISE CIRCLE OFFICE, ALATHUR.
+
+     23.  P.N. RAJESH KUMAR, AGED 30 YEARS,
+         S/O. M. RADHAKRISHNAN (LATE) EXCISE GUARD
+         EXCISE CIRCLE POST, NADAKANNU.
+
+     24.  LOTHER L. PERARA, AGED 25 YEARS,
+         S/O. LORRANCE PERERA, EXCISE GUARD
+         EXCISE RANGE OFFICE, OTTAPALAM.
+
+     25.  G.M. MANOJ KUMAR, AGED 30 YEARS,
+         S/O. U.P. MOHAN DAS (LATE) EXCISE GUARD
+         UNITED DEVARAGE LIMITED, KANJIKODE.
+
+     26.  P. SANTHOSHKUMAR, AGED 34 YEARS,
+         S/O. LATE PAZHANIMALA, EXCISE GUARD
+         EXCISE SPECIAL SQUAD, PALAKKAD.
+
+     27.  S. VINOD, AGED 25 YEARS,
+         S/O.P. SUBRAMANYAN, EXCISE GUARD
+         EXCISE SPECIAL SQUAD, PALAKKAD.
+
+     28.  S. SURESH, AGED 28 YEARS,
+         S/O. SWAMINATHAN, EXCISE RANGE OFFICE, CHITTOOR.
+
+     29.  K.T. SHANOJ, AGED 27 YEARS,
+         S/O. SIDHIQUE, EXCISE GUARD, EXCISE CHEQUE POST
+         GOPALAPURAM.
+
+     30.  V. SURESH, AGED 28 YEARS,
+         EXCISE GUARD, EXCISE CHEQUE POST, GOVINDAPURAM.
+
+     31.  THE EXCISE COMMISSIONER,
+         COMMISSIONERATE OF EXCISE, TRIVANDRUM.
+
+     32.  THE ASSISTANT EXCISE COMMISSIONER,
+         PALAKKAD.
+
+W.A.1466/2006
+     33.  THE KERALA PUBLIC SERVICE COMMISSION
+         REP. BY SECRETARY, KERALA PUBLIC SERVICE, COMMISSION
+         TRIVANDRUM.
+
+     34.  SECRETARY, BOARD OF REVENUE,
+         TRIVANDRUM.
+
+     35.  T. SEBASTIAN, EXCISE GUARD,
+         EXCISE RANGE OFFICE, KUZHALMANNAM.
+
+     36.  C.M. CLEMENT, EXCISE GUARD,
+         EXCISE RANGE OFFICE, KUZHALMANNAM.
+
+     37.  G. AUGUSTINE RAJ, EXCISE GUARD,
+         EXCISE RANGE OFFICE, OTTAPALAM.
+
+         R1 TO R31 &amp; R35 TO R37 BY ADVOCATES, SHRI T.P. KELU NAMBIER
+     (SR), SHRI P.V. MOHANAN, SHRI BIJU P.N. &amp; SMT. ROSAMMA JOSEPH
+      R31, R32 &amp; R34 BY SR.GOVERNMENT PLEADER SMT. GIRIJA GOPAL
+
+
+       THIS WRIT APPEAL  HAVING BEEN FINALLY HEARD  ON  24/1/2012,
+ALONG WITH  WPC. 26361/2006, WA. 802/2007, THE COURT ON 16/3/2012
+DELIVERED THE FOLLOWING:
+
+W.A. 1466/2006
+
+
+                 ORDER ON IA NO.877/2006
+
+                             DISMISSED.
+
+
+16/3/2012                          SD/- MANJULA CHELLUR, AC. C.J.
+
+                                   SD/- T.R. RAMACHANDRAN NAIR, JUDGE.
+
+                                   SD/- P.R. RAMACHANDRAN MENON, JUDGE.
+
+
+
+                       APPENDIX
+
+
+ANNEXURE A1-TRUE COPY OF GO (P) NO.4/91/P&amp; ARD DT.17.1.1991
+
+CERTIFIED COPY OF JUDGMENT IN WPC 11178/2005 DT.7.7.2006
+
+TRUE COPY OF WRIT PETITION ) NO.11178/2005 OF THIS COURT.
+
+
+AFFIDAVIT WITH STAY PETITION.
+
+
+
+                       // TRUE COPY //
+
+
+
+                                               P.S. TO JUDGE
+
+
+
+    Manjula Chellur, Ac. C.J. , T.R. Ramachandran Nair &amp;
+                    P.R. Ramachandra Menon, JJ.
+                   - - - - - - - - - - - - - - - - - - - - - - - -
+   W.A.Nos.1466/2006 &amp; 802/2007 &amp;W.P.(C) No.26361/2006
+                   - - - - -- - - - - - - - - - - - - - - - - - - - -
+               Dated this the 16th day of March, 2012
+
+                                 JUDGMENT
+</pre>
+<p id="p_1">T.R. Ramachandran Nair, J.
+</p>
+<p id="p_2">        The question referred for         decision of the         Full Bench is the
+
+following:
+</p>
+<blockquote id="blockquote_1">              "Whether      an employee who has secured a district-wise
+
+       appointment when transferred on request to another district before
+
+       completing five years will have to surrender his entire five years of
+
+       service, so as to claim seniority in the transferred unit even if the
+
+       transfer is after one year of his appointment?</blockquote><p id="p_3">
+
+</p><p id="p_4">      2. W.A. No.1466/2006 is filed against the judgment in W.P.(C)
+
+No.11178/2005, W.A. No.802/2007 is filed against the                      order in
+
+R.P.No.731/2006      filed   against     the    same judgment         and  W.P.(C)
+
+No.26361/2006 is filed, challenging the order Ext.P4 by which revised
+
+seniority list of Excise Guards for the period from 1.1.1989 to 30.6.2000
+
+was published      in    implementation        of the      judgment    in  W.P.(C)
+
+No.11178/2005.
+</p>
+<p id="p_5">      3. W.P.(C) No.11178/2005 was disposed of along with the connected
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_1">&amp; W.P.(C) No.26361/2006             2</span>
+
+writ petitions, viz. 16863/2003, 29059/2004, 11178/2005, 11242/2005,
+
+12802/2005 and 16332/2005 by a common judgment. W.A.No.1505/2006
+
+filed against the judgment in W.P.(C) No.29059/2004 was dismissed by a
+
+Division Bench       consisting of K.A. Abdul Gafoor and Justice K.P.
+
+Balachandran, JJ. on 19.9.2006, confirming the judgment of the learned
+
+Single Judge (K. Balakrishnan Nair, J.) (as he then was). When W.A.
+
+No.1466/2006 came up for hearing before another Division Bench,
+
+consisting of Chief Justice S.R. Bannurmath and Kurian Joseph, J. (as he
+
+then was), the matter was referred to the Full Bench doubting the
+
+correctness of the judgment in W.A. No.1505/2006.
+</p>
+<p id="p_6">      4. We heard learned Senior Counsel Shri P. Ravindran and learned
+
+Counsel Shri B. Gopakumar, appearing for the appellants/petitioners, Shri
+
+P.V. Mohanan, learned counsel appearing for the contesting respondents
+
+and Smt. Girija Gopal, learned Senior Government Pleader appearing for
+
+the official respondents.
+</p>
+<p id="p_7">      5. The dispute, shortly stated, is one concerning the principles for
+
+fixing the seniority. As far as the petitioners in W.P.(C) No.11178/2005
+
+are concerned, they were appointed as Excise Guards in the Excise
+
+Division, Palakkad. The contesting respondents 5 to 15 therein, who are
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_2">&amp; W.P.(C) No.26361/2006                 3</span>
+
+appellants in W.A. Nos.1466/2006 and 802/2007, were appointed in the
+
+Excise Divisions Ernakulam, Kannur and Kasaragod. They were appointed
+
+through the Public Service Commission and were transferred to Palakkad
+
+Division as per various orders produced as Exts.P3 to P5, before completing
+
+less than one year of service in the respective Excise Divisions. The
+
+present dispute arose when the final seniority list of Excise Guards of
+
+Palakkad Division was published as per Ext.P13. The petitioners were
+
+included in the provisional seniority list of Excise Guards in Palakkad
+
+Division, Ext.P7, and respondents 5 to 15 were not included therein, but
+
+were included in the seniority lists published in their respective district of
+
+appointment. But later, respondents 5 to 15 were put enblock as seniors to
+
+the petitioners in Ext.P13. The learned Single Judge allowed the writ
+
+petitions accepting the contentions of the writ petitioners that the
+
+transferees will get seniority in the new unit only after completion of five
+
+years from the date of their initial appointment, as they were eligible for
+
+transfer only in terms of Exts.P1 and P2 Government Orders which have put
+
+a restriction on inter district transfer before completion of five years. The
+
+said view has been upheld by the Division Bench in W.A.No.1505/2006.
+
+</p><p id="p_8">      6. Shri P. Ravindran, learned Senior Counsel contended that as far as
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_3">&amp; W.P.(C) No.26361/2006                4</span>
+
+the appointment of Excise Guards are concerned, they were appointed in
+
+particular divisions and the appointment is not district-wise.           The
+
+Government Orders like Exts.P1 and P2 providing for inter district transfer
+
+and the restrictions therein will not, therefore, apply to them. As far as the
+
+appointment and transfer of Excise Guards are concerned, they are governed
+
+by Rules 10 and 11 of the Kerala Excise and Prohibition Subordinate
+
+Service Special Rules, 1974 and as empowered by Rule 11, the competent
+
+authority transferred the appellants as per Exts.P3 to P5 orders. Therefore,
+
+as far as such transferees are concerned their seniority will have to be
+
+reckoned in terms of the first proviso to Rule 27(a) of Kerala State and
+
+Subordinate Service Rules (for short KS &amp; SSR) and therefore they will get
+
+seniority from the date of their joining in the transferee division. It is
+
+pointed out that in the Government             Orders Exts.P1 and P2, no
+
+consequences have been provided, if the inter-unit transfer is effected
+
+before completion     of five years. Elaborating his contentions, learned
+
+Senior Counsel also submitted that the executive orders which go against
+
+the provisions of the statutory rules, cannot have effect in deciding the
+
+issue. It is also submitted that as far as inter division transfer of Excise
+
+Guards are concerned, the orders Exts.P1 and P2 will not apply, meaning
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_4">&amp; W.P.(C) No.26361/2006               5</span>
+
+thereby that they will govern only persons who are not covered by the
+
+Special Rules. It is submitted that the court cannot supply words to a statute
+
+which principle is well settled. Reliance is also placed on the decision of
+
+the Apex Court in <a href="/doc/358939/" id="a_1">Sudhakaran v. State of Kerala</a> (2006 (2) KLT 817 -
+
+SC), interpreting Rule 27(a) and the proviso thereto of KS &amp; SSR.
+
+</p><p id="p_9">       7. Learned Senior Government Pleader, Smt. Girija Gopal, who
+
+appeared for the official respondents, submitted that the scheme for inter
+
+district transfer is governed by various Government Orders issued from
+
+1960 onwards. After the Public Service Commission started recruitment on
+
+district-wise basis, these Government Orders have been re-issued with
+
+modified terms to protect the Public Service Commission hands who are
+
+awaiting appointments.        The Government have prescribed various
+
+stipulations from time to time as far as inter district transfer is concerned
+
+and the important one is that a transfer will be allowed only after
+
+completion of five years in the district of recruitment and the exception, if
+
+any, will require the approval of the Council of Ministers. Our attention
+
+was invited to various Government Orders in the matter. It is further
+
+submitted that as far as Excise Guards are concerned, their appointments are
+
+also district-wise, as the division, going by various circulars in the Excise
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_5">&amp; W.P.(C) No.26361/2006                6</span>
+
+Department, is the Revenue District itself. It is submitted that the Special
+
+Rules relied upon by the learned Senior Counsel for the appellants only
+
+provide for the specified authority for issuing the order of transfer (Rule 11)
+
+and therefore their transfers are also governed by the stipulations contained
+
+in Exts.P1 and P2 orders. It is pointed out that in various Government
+
+Orders the Government have stipulated that the adherence of five years rule
+
+should be there and the exceptions are minimum, which are also governed
+
+by the various Government Orders. It is pointed out that the appellants
+
+cannot get the benefit of relaxation        and they were transferred after
+
+specifying a condition in the orders of transfer itself that for the purpose of
+
+appointment, seniority, etc. the Division in which they were appointed will
+
+be the unit.
+</p>
+<p id="p_10">       8.   These contentions were supported by the learned counsel
+
+appearing for the contesting respondents in the appeals,             Shri P.V.
+
+Mohanan. It is argued that the proviso to Rule 27(a) is only the one
+
+prescribing a principle for fixing the seniority and it is not the provision
+
+under which inter district/inter-unit-wise transfers are being made. Various
+
+Government Orders in the matter from 1960 onwards provide for inter
+
+district transfer and from 1971 onwards the district has been made as the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_6">&amp; W.P.(C) No.26361/2006                7</span>
+
+unit of appointment. In respect of Excise Guards also, the revenue district
+
+is the unit. Therefore, the Government Orders Exts.P1 and P2 will apply.
+
+The decentralisation was made in 1971 making recruitment district-wise in
+
+various categories of posts and the district is the unit for appointment, for
+
+promotion, discharge as well as seniority. The specific conditions under
+
+which the appellants were transferred, are clear from Exts.P3 and P4
+
+transfer orders, whereby for the purpose of their appointment, discharge
+
+and seniority, the parent unit itself will have to be considered. It is pointed
+
+out that only when a transfer is made on a substantive basis along with the
+
+transfer of lien alone, they will get any such rights in the transferred unit.
+
+Therefore, as far as the appellants are concerned, their lien was retained in
+
+the parent unit. Our attention was invited to definition of 'cadre' under Rule
+
+12(4) of Part I of Kerala Service Rules (for short 'K.S.R.') and the definition
+
+of "member of service" in the KS &amp; SSR and the provisions relating
+
+transfer and termination of lien. It is therefore submitted that the reliance
+
+placed on the decision of the Apex Court in Sudhakran's case (2006 (2)
+
+KLT 817 - SC) cannot help the appellants. It is also submitted that the
+
+Special Rules herein, viz. Kerala Excise and Prohibition Subordinate
+
+Service Special Rules, 1974 itself was adopted only in 1974, whereas the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_7">&amp; W.P.(C) No.26361/2006              8</span>
+
+inter-district/inter-departmental transfers were governed by various
+
+Government Orders issued from 1960 onwards. It is thus submitted that
+
+there is no conflict between the provisions of the executive orders and that
+
+of the Special Rules and the proviso to Rule 27(a) of KS &amp; SSR. Learned
+
+counsel also submitted that the transfer made herein is by invoking the
+
+general power of transfer and it is not one made under Rule 11 of the
+
+Special Rules.
+</p>
+<p id="p_11">      9. The condition under which the appellants were transferred, as
+
+evident from Exts.P4 and P5, reads as follows:
+</p>
+<blockquote id="blockquote_2">        "For the purpose of appointment, re-appointment to the service
+
+        whether as full member or not discharge from service and seniority
+
+        among members of the service that the excise divisions in which
+
+        they were originally appointed shall be the unit of those Excise
+
+        Guards as per Rule 10 of the Special Rules."
+</blockquote>
+<p id="p_12">It was ordered for administrative convenience and in public interest. The
+
+impact of the same will have to be considered, to analyse the contentions of
+
+the appellants.
+</p>
+<p id="p_13">      10. A survey of the various Government Orders will throw light on
+
+the various aspects including the insistence for adhering to the conditions
+
+for inter-district and inter-departmental transfers.  The first among the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_8">&amp; W.P.(C) No.26361/2006              9</span>
+
+Government Orders to be considered is G.O.(Ms) 4/61/PD dated 2.1.1961.
+
+The same was issued in consultation with the Public Service Commission.
+
+It provides that "mutual or inter-departmental transfers of Government
+
+servants from one unit to another within the same Department, or from one
+
+Department to another within the same Subordinate service may be ordered
+
+by the Appointing Authority concerned" on request, subject to certain
+
+conditions. The important conditions were the following:
+
+</p><blockquote id="blockquote_3">        (i) A person transferred to a new unit will take rank below the
+
+        juniormost in the category in the new Unit or Department. He will
+
+        not be allowed to count his previous service towards seniority, but
+
+        it will be counted towards increment, leave, pension, gratuity, etc.;
+
+
+</blockquote><blockquote id="blockquote_4">        (ii) A permanent person need to be required to relinquish the
+
+        permanency. He can retain his permanent lien in the old post until
+
+        he is confirmed in the new unit or department; and
+
+
+</blockquote><blockquote id="blockquote_5">         (iii) Persons transferred from one department to another or from
+
+         one unit to another in the same department due to proved
+
+         administrative reasons will retain all their rights in the old unit or
+
+         department, as the case may be."</blockquote><p id="p_14">
+
+</p><p id="p_15">     11. As per a memorandum dated 9.1.1960, the district-wise recruitees
+
+who have been recruited on the basis of their option to a district, cannot be
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_9">&amp; W.P.(C) No.26361/2006                 10</span>
+
+transferred to other district except on administrative grounds. By
+
+Memorandum No.52251/S(B)4/61.PD dated 24.10.1961 it was clarified that
+
+"the restrictions in the said memorandum of 1960 are still in force and the
+
+concession granted in G.O.(MS) No.4/1961", will be subject to the
+
+restrictions.  The subsequent Government Orders will show that               the
+
+insistence on the observance of the conditions was scrupulously being
+
+maintained. The next important Government Order is G.O.(Ms)154/71/PD
+
+dated 27.5.1971. The same was issued in the light of decentralisation of
+
+the functions of recruitment to the District Recruitment Boards, in respect of
+
+recruitment to the Lower Ministerial Cadres at district level. Importantly, it
+
+was provided that recruitment at district level through such Recruitment
+
+Boards will be subject to various conditions including the following:
+
+</p><blockquote id="blockquote_6">         (i) No transfers will be allowed from one District to another within
+
+         a period of five years from the date of commencement of
+
+         continuous service;
+</blockquote>
+<blockquote id="blockquote_7">         (ii) Such inter-district transfers will be allowed only after five years
+
+         and subject to the conditions laid down in G.O.(Ms) No.4/PD dated
+
+         2.1.1961."
+</blockquote>
+<p id="p_16">Subsequent additions have been made for appointment to various posts by
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_10">&amp; W.P.(C) No.26361/2006                11</span>
+
+issuing separate orders.
+</p>
+<p id="p_17">      12.    We will now refer to the Government Orders providing for
+
+relaxation of the conditions in certain specific circumstances. In G.O.(Ms)
+
+No.331/76/PD dated 27.9.1976, relaxation was made in respect of
+
+relatives/dependents of serving soldiers and relatives, dependents of
+
+defence personnel killed in action, with regard to the stipulations in G.O.
+
+(Ms) No.154/71/PD dated 27.5.1971.            This relaxation was made after
+
+consultation with the Public Service Commission. It was ordered thus:
+
+</p><blockquote id="blockquote_8">       "Government are pleased to order in relaxation of the five year rule
+
+       referred to in para 3(i) and 3(ii) of G.O.(Ms) No.154/71/PD. dated
+
+       27.5.1971 that requests for inter-district transfer of Government
+
+       servants who are dependents relatives of serving soldiers/soldiers
+
+       killed in action or died while on duty in the field/forward areas,
+
+       would be sanctioned in deserving cases, and that the conditions in
+
+       G.O.(Ms) No.4/PD. dated 2.1.1961 regarding seniority will not be
+
+       insisted on in the case of the transferees so that they may be allowed
+
+       to retain their original seniority in the new District."
+
+</blockquote><p id="p_18">The Government by G.O.(Ms) 340/76/PD. dated 29.9.1976 granted the
+
+relaxation in favour of lower ministerial cadres at district level of persons
+
+who have entered into inter caste marriage and this order was also issued in
+
+consultation with the Public Service Commission. It was stipulated that the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_11">&amp; W.P.(C) No.26361/2006                12</span>
+
+five year rule stipulated in G.O.(Ms) No.154/71/PD dated 27.5.1971 will
+
+not apply to persons who have entered into inter-caste marriage.
+
+</p><p id="p_19">      13. By G.O.(Ms) 442/80/GAD dated 26.9.1980 it was made clear
+
+that the condition of five year service laid down in the Government Order
+
+dated 27.5.1971 will not be applicable to the candidates who are advised for
+
+appointment in the headquarters vacancies, so that a candidate could get
+
+transfer to the district of his choice without insisting on the period of limit
+
+of five years.    It was also ordered that transfers within the districts
+
+comprised in the erstwhile Malabar and Travancore-Cochin areas will be
+
+allowed within five years subject to other conditions specified. By G.O.(P)
+
+3/82/GAD dated 2.1.1982 a proviso was inserted to Rule 27(a) of KS &amp;
+
+SSR    to protect the seniority of persons advised for appointment in
+
+headquarters vacancies.      In G.O.(Ms) 50/85/GAD dated 25.1.1985 the
+
+Government ordered that          "dependents of Ex-servicemen who were
+
+permanently disabled due to disease or accidents while in active service and
+
+discharged on pension on that account will also be eligible for the
+
+concession of inter-district transfers contemplated        as per   G.O.(Ms)
+
+No.331/76/PD dated 27.9.1976."
+</p>
+<p id="p_20">      14.    In Circular No.92546/SDI/83/GAD dated             20.5.1985 the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_12">&amp; W.P.(C) No.26361/2006                13</span>
+
+Government relaxed the five year rule for inter-district/inter-departmental
+
+transfers, in respect of the members of Last Grade Service, by making it
+
+clear that "the orders are not applicable to them and that they will be
+
+governed by the provisions in Rule 17(d) of the said rules for inter-district
+
+transfer, mutual transfer, etc." Therefore, that is a case where one of the
+
+services itself was excluded from the purview of the Government Order
+
+insisting for five year rule.
+</p>
+<p id="p_21">       15. The next important circular with regard to the grant of concession
+
+is one issued as per Circular No.476/Adv.C3/88/P&amp;ARD dated 22.2.1988
+
+which granted a further concession to        relatives/dependents of serving
+
+soldiers and relatives/dependents of defence personnel killed in action. It
+
+was made clear that the applications of those seeking inter-district transfer
+
+need not be placed before the Council of Ministers for relaxation of the five
+
+year rule. The dependency of the applicant with the soldier will have to be
+
+verified by the District Collector in such cases.
+</p>
+<p id="p_22">       16. By G.O.(Ms)12/96/P&amp;ARD dated 16.3.1996 the relaxation of
+
+five year rule was made in the case of transfers to Idukki, Wayanad and
+
+Kasaragod districts.      It was specified     by the said order that the
+
+"Government servants (including Teachers) recruited in other districts will
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_13">&amp; W.P.(C) No.26361/2006                14</span>
+
+be permitted to be transferred to the Districts of Idukki, Wayanad and
+
+Kasaragod without insisting on completion of five years service in the
+
+original districts of recruitment. This concession will be available only for
+
+getting transfer into these districts, but not for getting transfer out of these
+
+districts and will be granted only once in the career of a Government
+
+servant." As per G.O.(P) No.30/98/P&amp;ARD dated 15.9.1998 it was further
+
+ordered that "inter-district transfers without insisting on completion of five
+
+years service in the original districts of appointments will be permitted
+
+among the Districts of Idukki, Wayanad and Kasaragod. In G.O.(P)
+
+37/96/P&amp;ARD dated 7.11.1996, certain doubts were raised regarding the
+
+question whether the five years spent by a person in the same district in
+
+different departments in the same category of posts could be reckoned for
+
+the purpose of inter-district transfer and whether the stipulation regarding
+
+loss of seniority will be applicable where the seniority is maintained on a
+
+state-wise basis. In paragraph 3, it was clarified as follows:
+
+</p><blockquote id="blockquote_9">         "3. Government have examined the matter in detail and are pleased
+
+         to clarify as follows:
+</blockquote>
+<blockquote id="blockquote_10">                (i) A district-wise recruit shall complete five years service
+
+                in the district of recruitment as well as in the department
+
+                where he is working so as to become eligible to get an inter-
+
+</blockquote><blockquote id="blockquote_11">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_14">&amp; W.P.(C) No.26361/2006                  15</span>
+
+                 district transfer to another district.
+</blockquote>
+<blockquote id="blockquote_12">                 (ii) Inter-district transfer of district-wise recruits will result
+
+                 in loss of seniority even in cases where state-wise seniority
+
+                 list is maintained for promotion."</blockquote><p id="p_23">
+
+</p><p id="p_24">      17. The comprehensive Government Order issued with regard to
+
+inter-district transfers of employees by modifying certain conditions in the
+
+various Government Orders, is available in G.O.(P) No.36/91/P&amp;ARD
+
+dated 2.12.1991 (produced as Ext.P1 in writ petition No.11178/2005 and
+
+relied on by the petitioners therein) which was issued in supersession of the
+
+existing orders. It is noted therein that the condition regarding completion
+
+of five years which was imposed from 1971 onwards, was relaxed and
+
+transfers from one district to another within the erstwhile Malabar and
+
+Travancore-Cochin areas were permitted and the five year ban exists at that
+
+point of time only in respect of transfers from a district in Malabar to
+
+Travancore-Cochin area and vice versa. For issuing the above order, the
+
+Government insisted to have modified guidelines, in the light of the fact that
+
+the interest of the rank holders in the PSC lists awaiting advice, will have
+
+to be safeguarded and to avoid any indiscriminate transfers ordered by the
+
+appointing authorities. It was noticed that under the District Recruitment
+
+Scheme, a candidate can choose any one district for the purpose of making
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_15">&amp; W.P.(C) No.26361/2006                 16</span>
+
+an application and after weighing the interests of the candidates in PSC
+
+rank lists and those who have already secured appointment and seeking
+
+transfer to other districts than those opted by them, in paragraphs 4 to 6 of
+
+the said Government Order the entire scheme was specified with stringent
+
+conditions, as reproduced below:-
+</p>
+<blockquote id="blockquote_13">         "4. Government have weighted the interests of the candidates in
+
+         PSC rank lists and those who have already secured appointment
+
+         seeking transfers to districts other than those opted by them. They
+
+         are of the view that the sanctity of PSC lists have to be protected
+
+         against distortion by indiscriminate transfers of those who have
+
+         already secured appointments, to the detriment of those in PSC
+
+         rank lists. They, therefore, order in supersession of the existing
+
+         orders, that thereafter inter-district transfers will be allowed only
+
+         on the following conditions:--
+</blockquote>
+<blockquote id="blockquote_14">                (i) Such transfers will be allowed only after completion of
+
+         five years' service in the district of recruitment.          The only
+
+         exceptions to this rule will be the cases of transfer to the district of
+
+         choice, of candidates advised from district rank lists to
+
+         headquarters vacancies and that of near relatives/dependents of
+
+         service soldiers/soldiers killed in action or died while on duty in
+
+         field/forward areas. Periods of service spent on deputation in a
+
+         different district will not be reckoned as service for this purpose.</blockquote><p id="p_25">
+
+</p><p id="p_26">                (ii) Any inter-district transfer except the one, of candidates
+
+         advised to headquarters vacancies to the district of his choice will
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_16">&amp; W.P.(C) No.26361/2006              17</span>
+
+        entail loss of seniority. Service prior to the transfer will count
+
+        towards increment, leave and pension benefits.
+</p>
+<p id="p_27">        5. Relaxation of the five year rule in very exceptional cases that
+
+        need sympathetic consideration will require the approval of the
+
+        Council of Ministers. Cases should not be proposed for relaxation
+
+        in a routine manner. There should be clear justifying grounds
+
+        supported by the report of the District Collector of the district to
+
+        which transfer is sought for. Proposal for relaxation in such cases
+
+        shall be routed through Chief Secretary
+
+</p><p id="p_28">        6. Only 10% of the vacancies arising in the district in an year in a
+
+        category in a department shall be filled up by inter-district transfer,
+
+        including relaxation cases and cases of near relatives/dependents of
+
+        soldiers."
+</p>
+<p id="p_29">An analysis of the various Government Orders issued from time to time will
+
+show that relaxations have been permitted only in exceptional cases, as
+
+noticed already, in the case of Army personnel, inter caste marriage people,
+
+etc. The above Government Order insists for approval of the Council of
+
+Ministers when relaxation is granted of the five year rule, in a specific
+
+case, and justifiable grounds had also to be shown and the application will
+
+have to be routed through the Chief Secretary.
+</p>
+<p id="p_30">      18. The Government had instructed, by issuing various Government
+
+Orders from time to time that the five year rule should be strictly adhered to,
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_17">&amp; W.P.(C) No.26361/2006                 18</span>
+
+e.g. in Circular No.123746/SD5/73/PD dated 26.5.1976 after noticing that
+
+certain inter-district transfers have been ordered before completing the
+
+prescribed period of five years, the Government directed as follows so as
+
+to strictly observe the five year rule:
+</p>
+<blockquote id="blockquote_15">          "All Heads of Departments and other Appointing Authorities are
+
+          therefore requested to see that the five year rule prescribed in the
+
+          G.O. first cited for the inter-district/inter-departmental transfer of
+
+          district-wise recruitment is strictly followed in future."
+
+</blockquote><p id="p_31">Again the position was reiterated rather emphatically by issuing Circular
+
+No.112960/SDI/82/GAD dated 18.12.1982 and paragraph 2 therein reads
+
+thus:
+</p>
+<blockquote id="blockquote_16">          "2. It is observed that representations/proposals for relaxation of
+
+          the five year rule for transfers are on the increase. The grounds put
+
+          forward are almost identical--family problems, inability to
+
+          maintain two establishments, illness of aged parents etc. If every
+
+          such case is to be treated as 'exception' and inter-district transfers
+
+          allowed in relaxation of the rules, the rules themselves will
+
+          become meaningless and redundant. Government therefore direct
+
+          that such routine representations should not be entertained. Only
+
+          cases which are supported by really exceptional and compelling
+
+          circumstances should be considered for relaxation of rules e.g.
+
+          inter-caste marriages, Harijan employees, near relatives of soldiers
+
+          killed in action/serving soldiers, physically handicapped persons
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_18">&amp; W.P.(C) No.26361/2006                 19</span>
+
+          etc. All Heads of Departments and Offices and the Departments of
+
+          the Secretariat are requested to bear these aspects in mind while
+
+          forwarding proposals/considering requests, for such transfers."
+
+</blockquote><p id="p_32">Circular No.9036/H2/90/Home dated 7.9.1991 directed the Heads of
+
+Departments to strictly adhere to the above instructions and to avoid any
+
+lapse on this aspect. It was ordered that the responsibility in this regard
+
+will be that of the Head of the Department. Another circular is Circular
+
+No.23033/Adv.C3/91/P&amp;ARD dated 19.12.1991 wherein it was directed
+
+that the instructions in G.O.(P) No.36/91/P&amp;ARD dated 2.12.1991 should
+
+be strictly adhered to and "violation if any shall be viewed seriously and
+
+action taken against the officer ordering the transfer."
+
+</p><p id="p_33">      19. In fact, in the general order containing the guidelines for transfer
+
+of Government employees issued as per G.P.(P) No.15/89/P&amp;ARD dated
+
+22.5.1989, condition No.2(a) incorporates the condition regarding five years
+
+service for inter-district transfer and we extract the same as under:
+
+</p><blockquote id="blockquote_17">        "2(a) Subject to the condition regarding 5 years service for inter-
+
+        district transfer applicable to D.R.B. recruits, employees who have
+
+        not completed 3 years of duty/service in a station/district, shall not
+
+        ordinarily be transferred."
+</blockquote>
+<p id="p_34">The same is also therefore material. The said condition has been retained
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_19">&amp; W.P.(C) No.26361/2006               20</span>
+
+in all the subsequent orders, revising the guidelines issued as per G.O.(P)
+
+No.13/2000 dated 27.4.2000 and G.P.(P) No.12/04/P&amp;ARD dated
+
+10.9.2004, etc.
+
+</p><p id="p_35">       20. A review of the principles under which these orders are issued,
+
+will show that the prime concern        with regard to the restrictions for
+
+indiscriminate inter-district transfers was to safeguard the interest of the
+
+candidates included in the rank lists of the P.S.C. The availability of
+
+regular employees in various districts       was the other consideration.
+
+Exceptions have been specified in the cases of near relatives/dependents of
+
+serving soldiers/ soldiers killed in action or died while on duty in
+
+field/forward areas. Candidates selected against headquarters vacancies,
+
+were also given the concession, apart from inter-caste married people.
+
+Even though initially certain       posts only were included for district
+
+recruitment, from time to time other posts were added. The order Ext.P1
+
+herein reiterates these principles when the various circulars were
+
+consolidated. It is apposite herein to extract from it the basis for issuance
+
+of the revised order, which are clear from paragraphs 1 to 3. The same are
+
+extracted below:
+</p>
+<p id="p_36">          "1. While introducing the system of district-wise recruitment to
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_20">&amp; W.P.(C) No.26361/2006               21</span>
+
+          common category/lower category posts in various departments in
+
+          1971, Government had stipulated that a person recruited from a
+
+          district-wise rank list will not be transferred to another district
+
+          before completion of five years in the district of recruitment and
+
+          that on transfer to the district of his choice, after five years, he
+
+          will take rank as the junior most in the new district. In course of
+
+          time this condition was relaxed and transfers from one district
+
+          to another within the erstwhile Malabar and Travancore-Cochin
+
+          areas were permitted.     The five year ban now exists only in
+
+          respect of transfers from a district in Malabar to Travancore -
+
+          Cochin area and vice versa.
+</p>
+<p id="p_37">          2.    Government have been receiving many complaints of
+
+          indiscriminate transfers ordered by many appointing authorities to
+
+          the detriment of those in PSC rank lists. It has, therefore become
+
+          necessary to review the existing system with            a view to
+
+          safeguarding the interest of rank holders in PSC lists awaiting
+
+          PSC advice.
+</p>
+<p id="p_38">          3.   Under the District Recruitment      Scheme a candidate can
+
+          choose any one district for the purpose of making an application.
+
+          A candidate choosing a particular district should therefore, make
+
+          his option carefully and he should be prepared to work in the
+
+          district. Normally, any candidate will choose the district, most
+
+          convenient to him.
+</p>
+<p id="p_39">
+
+It will show that the Government have been receiving many complaints of
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_21">&amp; W.P.(C) No.26361/2006               22</span>
+
+indiscriminate transfers ordered by many appointing authorities to the
+
+detriment of those candidates included in the PSC rank lists. As far as the
+
+candidates are concerned, even while applying for the post, they had to
+
+choose the district in the application. Therefore, when such persons who
+
+have opted a particular district are seeking transfers, the restrictions were
+
+thought of, as otherwise it will ruin the sanctity of the list published by the
+
+P.S.C. Such indiscriminate transfers while helping the persons who have
+
+secured appointment, will cause detriment to those included in the rank list.
+
+Such was the concern and anxiety expressed by the Government while
+
+issuing the orders and circulars. Relaxations were also made only in very
+
+exceptional cases for which approval of the Council of Ministers will have
+
+to be obtained.
+</p>
+<p id="p_40">      21.   In fact, the attempts to make indiscriminate transfers, were
+
+adversely commended upon by this Court in various judgments. We will
+
+now refer to the judgment of a learned Single Judge of this Court (V.
+
+Sivaraman Nair, J.) in K.S. Mini v. Deputy Director of Education,
+
+Ernakulam and others (1984 KLJ 457). The learned Judge was of the
+
+view that inter-district transfers by issuing special orders in total violation
+
+of the guidelines, cannot be accepted. The transfer involved therein relates
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_22">&amp; W.P.(C) No.26361/2006                 23</span>
+
+to Government school teachers who are also governed by the very same
+
+Government Orders and circulars. After referring to various aspects, the
+
+principles were laid down thus in paragraphs 6, 8 and 9:
+
+</p><blockquote id="blockquote_18">         "6. .....Obviously, the Government was issuing orders to all who
+
+         went to it without any reference to the number of vacancies
+
+         available and without any regard to the principles of general
+
+         application evolved by itself to channelise the exercise of power
+
+         relating to inter-district transfer of teachers.
+
+</blockquote><blockquote id="blockquote_19">         8. The Government is of course the ultimate repository of control
+
+         of the teaching staff of the Government Schools and therefore, the
+
+         Government is entitled to oversee the implementation of directions
+
+         relating to inter-district transfers also. But when once instructions
+
+         were issued specifying the guidelines which should govern such
+
+         transfers, it is essential that the Government confines itself to the
+
+         duty of overseeing implementation of such directions instead of
+
+         meddling with each individual case of transfer...............</blockquote><p id="p_41">
+
+</p><p id="p_42">         9. In the present case, it is evident that the three petitioners have
+
+         tried    to  over-reach      the  ordinary    instrumentality in   an
+
+         understandable anxiety to get priority in their favour. They should
+
+         ordinarily have applied to the first respondent for inter district
+
+         transfer. He is expected to order such transfers on the basis of the
+
+         rank among the registered applicants determined with reference to
+
+         orders of uniform application. Obviously, each of the petitioners
+
+         tried to get better of the other applicants and therefore went
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_23">&amp; W.P.(C) No.26361/2006               24</span>
+
+         straight to the Government to obtain orders of transfer.          The
+
+         Government appears to have willingly obliged, of course without
+
+         considering the relevant facts and        without even pausing to
+
+         consider for a moment the effect of the issue of such orders in
+
+         favour of all persons who approached them................"
+
+</p><p id="p_43">      22. A Division Bench of this Court in <a href="/doc/1601359/" id="a_2">Annamma Joseph v. State
+
+of Kerala</a> (1989 (1) KLT 1), which was heavily relied upon by the learned
+
+Senior Government Pleader, expressed strong reservation with regard to the
+
+attempt to violate the five year rule. The Division Bench consisting of
+
+Malimath C.J. and Bhaskaran Nambiar, J. speaking through Malimath C.J.
+
+(as he then was), held as follows in paragraph 1:
+</p>
+<blockquote id="blockquote_20">          " The learned single Judge has declined to interfere on the ground
+
+          that the appellant having applied for appointment as Lower
+
+          Division Clerk in Palghat District and having secured
+
+          appointment in that district is ineligible for seeking transfer for a
+
+          period of five years. The learned single Judge took the view that
+
+          the Government order Ext.P2 cannot be understood as having an
+
+          over-riding effect over the relevant order which precludes transfer
+
+          of those appointed on district-wise basis for a period of five years
+
+          to another district. We are inclined to agree with this view of the
+
+          learned single Judge. The rule that those who have been
+
+          appointed on district-wise basis should not be permitted to be
+
+          transferred to another district for a period of five years has a
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_24">&amp; W.P.(C) No.26361/2006                25</span>
+
+          salutary object to serve for the purpose of ensuring equity in
+
+          the matter of appointment of persons hailing from different
+
+          districts. Appointments are made on district-wise basis where
+
+          selection is confined to those who apply for appointment in that
+
+          particular district. It is a matter of common knowledge that there
+
+          are better prospects for securing selection in certain districts, and
+
+          for this reason persons belonging to another district claim that
+
+          they belong to that district and secure appointment and after
+
+          securing appointment they make every effort to get transfer to the
+
+          district from which they hail. With a view to avoid, such
+
+          unhealthy practice and exploitation the Government have
+
+          imposed restrictions that for a period of five years such persons
+
+          should not ordinarily be transferred. Ext.P2 order which grants
+
+          certain facilities in the matter of transfer of those who undergo
+
+          inter-caste marriages, provides that the employees will invariably
+
+          be accommodated in the same station or near by station
+
+          transferring out other personnel, if necessary, and only where for
+
+          reasons to be recorded such arrangements are impracticable the
+
+          concession will not be applicable. In other words, if there are
+
+          other compelling reasons the facility provided in Ext. P2 need not
+
+          be extended. If, as in this case, applications were called for
+
+          and selection and appointments were made on district-wise
+
+          basis with the further stipulation that they will not ordinarily
+
+          be transferred for a period of five years, the transfer of such
+
+          persons before the expiry of five years must be regarded as
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_25">&amp; W.P.(C) No.26361/2006                 26</span>
+
+           impracticable or impermissible as the non-transferability of
+
+           such appointees for a period of five years is one of the
+
+           conditions of appointment. We have therefore no hesitation in
+
+           agreeing with the view taken by the learned single Judge that as
+
+           in the case in question, the appointment of the appellant was
+
+           made on a district-wise basis with the stipulation that the
+
+           appointee should not normally be transferred for a period of five
+
+           years the question of claiming the benefit of Ext. P2 as a matter of
+
+           right does not arise. The learned single Judge was therefore
+
+           justified in declining to interfere." (Emphasis supplied)
+
+
+
+The Division Bench was of the view that transfer of persons before the
+
+expiry of five years, must be regarded as impermissible. We have already
+
+noticed the various orders issued by the Government insisting for adherence
+
+of the rules.</blockquote><p id="p_44">
+
+</p><p id="p_45">      23. Thus, judged in the light of these principles it can be seen that it
+
+is impermissible to grant inter district transfer within a period of five years
+
+and only in exceptional cases it can be relaxed.
+</p>
+<p id="p_46">      24. In the light of the scheme available under various Government
+
+Orders which have obtained judicial recognition, we will have to address
+
+the contentions raised by the learned Senior Counsel for the
+
+appellants/petitioners.
+</p>
+<p id="p_47">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_26">&amp; W.P.(C) No.26361/2006                27</span>
+
+</p><p id="p_48">      25. Learned Senior Counsel, as already noticed, relies upon the first
+
+proviso to Rule 27(a) which reads as follows:
+</p>
+<blockquote id="blockquote_21">          "Provided that the seniority of persons on mutual or inter-unit or
+
+          inter-departmental transfer from one Unit to another within the
+
+          same Department or from one Department to another, as the case
+
+          may be, on requests from such persons shall be determined with
+
+          reference to the dates of their joining duty in the new Unit or
+
+          Department. In the case of more than one person joining duty
+
+          in the same grade in the same Unit or Department on the same
+
+          date, seniority shall be determined:
+</blockquote>
+<blockquote id="blockquote_22">          (a) If the persons who join duty belong to different units or
+
+          different departments, with reference to their age, the older being
+
+          considered as senior; and
+
+</blockquote><blockquote id="blockquote_23">          (b) If the persons who join duty belong to the same category of
+
+          post in the same Department, in accordance with their seniority in
+
+          the Unit or Department from which they were transferred."
+
+</blockquote><p id="p_49">The rule as above provides the method of fixing seniority of persons on
+
+mutual or inter-unit or      inter-departmental    transfer within the same
+
+department or from one department to another made on request, and it must
+
+be determined with reference to the dates of their joining duty in the new
+
+unit or department. Plainly, it can be seen that what is envisaged therein is
+
+the principle in fixing the seniority. The proviso does not concern itself with
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_27">&amp; W.P.(C) No.26361/2006              28</span>
+
+the mode and conditions for inter-unit/inter-district or inter-departmental
+
+transfer. The attempt made by the appellants is to show that the said rule
+
+does not insist for a five year rule so far as the grant of inter-unit/inter-
+
+district transfers are concerned and by relying upon the said rule, the
+
+contention raised is that read along with the Special Rules, they are entitled
+
+to count seniority from the date of joining duty in the new unit or
+
+department. Non-completion of five years in the parent unit is immaterial,
+
+it is contended.
+</p>
+<p id="p_50">       26. We shall now refer to the relevant provisions of the Special
+
+Rules, viz. Kerala Excise and Prohibition Subordinate Service Rules, 1974.
+
+Rule 7 provides for the "appointing authority" for various categories and
+
+sub-rule (2) provides as follows:
+</p>
+<blockquote id="blockquote_24">          "7. Appointing authority.-- (1) xxxxxxx
+
+          (2) The appointing authority for categories (2), (3) and (4) shall
+
+          be the Assistant Excise Commissioner in charge of the Divisions
+
+          concerned."
+</blockquote>
+<p id="p_51">Category 3 is Excise Guards. The appointing authority is the Assistant
+
+Excise Commissioner in charge of the division concerned. Rules 10 and 11
+
+were heavily relied upon by the learned Senior Counsel for the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_28">&amp; W.P.(C) No.26361/2006              29</span>
+
+appellants/petitioners which are also extracted below:
+
+</p><blockquote id="blockquote_25">           "10.   Unit of appointment, discharge and reappointment,
+
+           Seniority and appointment as full member-- For the purposes
+
+           of appointment or reappointment to the service, whether as a full
+
+           member or not, discharge from the service and seniority among
+
+           the members of the service, the State shall be the unit in the case
+
+           of Excise Inspectors and the Excise Divisions shall be units in the
+
+           cases of Excise Preventive Officers, Excise Guards and Drivers.
+
+              Proviso - omitted.
+</blockquote>
+<blockquote id="blockquote_26">           11. Postings and transfers.-- (1) Postings and transfers of all
+
+           persons appointed to service from one unit to another within an
+
+           Excise Zone shall be made by the Deputy Commissioner of
+
+           Excise concerned.
+</blockquote>
+<blockquote id="blockquote_27">                 (2)   Postings and transfers    from one Excise Zone to
+
+           another Excise Zone and to and from the special unit shall be
+
+           made by the Additional Secretary (Excise), Board of Revenue."
+
+
+
+</blockquote><p id="p_52">Rule 10 is important to consider the case of the appellants and heavy
+
+reliance is placed on the same by the learned counsel for the respondents
+
+also. The same provides for a "unit for the purpose of appointment,
+
+discharge and re-appointment and seniority and appointment as full
+
+member" . As far as Excise Guards are concerned, "Excise Divisions" shall
+
+be the unit." Even though it is vehemently contended by the learned Senior
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_29">&amp; W.P.(C) No.26361/2006               30</span>
+
+Counsel for the appellants that Rule 11 is the one governing the postings
+
+and transfers under which the orders Exts.P3 to P5 were issued, evidently
+
+the same confers power on a specified officer to issue the orders of posting
+
+and transfer and the scope of the provision is not the one concerning the
+
+principles governing transfer itself.     The argument therefore that the
+
+transfers made herein are under the mode prescribed as per Rule 11 and the
+
+same alone will govern the matter, cannot be accepted.
+
+</p><p id="p_53">       27. The reliance placed on the decision of the Apex Court in
+
+Sudhakaran's case (2006 (2) KLT 817 - SC) also cannot help the
+
+appellants. Rule 27(a) and (c) of KS &amp; SSR came up for interpretation
+
+therein. The facts of the case     will show that the post involved is LDC
+
+(Lower Division Clerk) in different districts. The unit of recruitment was
+
+the district therein.   After recruitment some of the appointees were
+
+transferred to other districts on request.  Later, the question of fixing the
+
+seniority arose. When the seniority list was published, the seniority of
+
+transferred LDCs were shown        in the list with reference to the dates of
+
+their first appointment and not with reference to the dates of their joining in
+
+the district to which they were transferred on their own request. The
+
+Division Bench, while disposing of the matter, took the view that the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_30">&amp; W.P.(C) No.26361/2006              31</span>
+
+Government Order dated 2.1.1961 and Rule 27 provides for fixing the
+
+seniority only from the date of their joining duty at the District to which,
+
+they were transferred on their own request, but it was held that as the
+
+seniority list was finalised in 1984, the position of the transferred LDCs
+
+should not be disturbed and it was further held that the provisions of the
+
+Government Order dated 2.1.1961 and the proviso to Rule 27(a) should be
+
+given effect only prospectively. The Apex Court did not agree with the
+
+above view. In para 14, the legal position was explained thus:
+
+</p><blockquote id="blockquote_28">         "14. The transferred LDCs. (contesting private respondents)
+
+         contended that the GO dated 27.5.1971 stated that it will not affect
+
+         the existing procedure where State-wise promotions are involved.
+
+         They point out that though the posts of LDCs. are District-wise, as
+
+         the promotion of LDCs to UDCs is State-wise, the provisions of
+
+         G.O. dated 2.1.1961 will not apply, in view of clause (iv) of G.O.
+
+         dated 27.5.1971. It is unnecessary to examine whether clause (iv)
+
+         of G.O. dated 27.5.1971 excludes the applicability of G.O. dated
+
+         2.1.1961, as neither the G.O. dated 27.5.1971 nor the G.O. dated
+
+         2.1.1961 governed the effect of 'own request' transfers, after Rule
+
+         27(a) of the Service Rules was amended by introducing a proviso
+
+         providing for the consequences of 'own request' transfers. Where
+
+         Statutory Rules govern the field, prior executive instructions cease
+
+         to apply."
+</blockquote>
+<p id="p_54">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_31">&amp; W.P.(C) No.26361/2006              32</span>
+
+Shri P. Ravindran, learned Senior Counsel for the appellants placed heavy
+
+reliance on the said paragraph to contend that after the proviso to Rule 27
+
+was amended, the executive instructions will not apply.
+
+</p><p id="p_55">      28. A reading of the principles therein only show that the Apex Court
+
+held that the principle under Rule 27(a) proviso will apply in fixing the
+
+seniority of the transferred LDCs. Evidently, in the said case it can be seen
+
+that persons concerned were transferred after their appointment under the
+
+relevant orders. Therefore, their position in the seniority list after such
+
+transfer was the matter which arose for consideration and it was held that
+
+the proviso to Rule 27(a) will apply. We do not agree with the contention
+
+of the learned Senior Counsel for the appellants that whatever may be the
+
+mode of transfer, the dictum laid down therein should be understood as one
+
+laying down that the seniority will have to be fixed from the date of joining
+
+the new unit. Evidently it was a case of regular inter-district transfer, and
+
+no contest was there with regard to the transfers made and the principle for
+
+fixing seniority was thus laid down.        The facts emerging herein are
+
+altogether different.
+</p>
+<p id="p_56">      29. One of the points raised by the learned Senior Counsel for the
+
+appellants is that the appointment in the Excise Department is on division
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_32">&amp; W.P.(C) No.26361/2006               33</span>
+
+basis and therefore the orders/circulars regarding inter-district transfer will
+
+not apply. This is answered by the learned Senior Government Pleader and
+
+learned counsel appearing for the contesting respondents by pointing out
+
+that as far as Excise Department also is concerned, the recruitment is
+
+district-wise and a division is equivalent to a Revenue district. Learned
+
+Senior Government Pleader          made available the Government Order
+
+showing the details of the divisions and contended that as far as the State is
+
+concerned, there are 14 divisions equalling the total number of 14 Revenue
+
+districts. Apart from that, the notification issued by the Public Service
+
+Commission     which was published in the        Gazette dated 20.12.1983,
+
+inviting applications for the post of Excise Guards, has also been placed for
+
+perusal. Therein, column No.4 gives the number of vacancies district-wise
+
+and Notes (1) (2) and (3) are also important. We extract column No.4
+
+along with the Notes hereunder:
+</p>
+<blockquote id="blockquote_29">          "4. Number of vacancies
+
+                (District-wise):--
+</blockquote>
+<pre id="pre_2">               1. Trivandrum           }
+                2. Quilon              }
+                3. Pathanamthitta      }    Not estimated.
+                4. Kottayam            }
+                5. Idukki              }
+                 6. Ernakulam          }
+                7. Cannanore           }
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_33">&amp; W.P.(C) No.26361/2006               34</span>
+
+</pre><blockquote id="blockquote_30">          Note:--(1) Separate ranked lists will be prepared for each District
+
+                   in pursuance of this Notification. The ranked list thus
+
+                   prepared and published by the Commission shall remain
+
+                   in force for a minimum period of one year, subject to the
+
+                   condition that the said list will continue to be in force till
+
+                   the publication of new list after the expiry of the
+
+                   minimum period of one year or till the expiry of two
+
+                   years, whichever is earlier. Candidates will be advised
+
+                   for appointment against the aforesaid vacancies and also
+
+                   against the vacancies, if any, reported during the
+
+                   currency of the list.
+</blockquote>
+<blockquote id="blockquote_31">             (2)   Applications should not be sent to more than one District
+
+                   in response to this notification. If applications        are
+
+                   sent contrary to the above direction, and if a candidate
+
+                   happens to be selected his name will be removed from
+
+                   the ranked lists and disciplinary action will be taken
+
+                   against him. Candidates should submit applications for
+
+                   this post to the concerned District Officer of the
+
+                   Commission noting the name of the District against the
+
+                   relevant column of the application. The address of the
+
+                   District Officer to whom applications are to be sent is
+
+                   furnished in column (10) of the notification.</blockquote><p id="p_57">
+
+</p><p id="p_58">            (3)    The selection in pursuance of this notification will be
+
+                   made on a Revenue District basis, subject to the Special
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_34">&amp; W.P.(C) No.26361/2006               35</span>
+
+                  conditions laid down in G.O.(Ms) No.154/71/PD dated
+
+                   27.5.1971. A candidate advised for appointment in one
+
+                   Revenue District from the ranked list prepared is not
+
+                   eligible for transfer to another District unless he
+
+                   completes 5 years continuous service from the date of
+
+                   commencement of service in the former District. Even if,
+
+                   transfer is allowed after 5 years, it will be subject to the
+
+                   rules in G.O.MS. No.4/PD dated 2.1.1961. Candidates
+
+                   already in Government Service, holding this post in any
+
+                   one District are prohibited from applying to higher posts
+
+                   when notified."
+</p>
+<p id="p_59">      30. Therefore, it can be seen that the recruitment is district-wise and
+
+Note (1) shows that separate ranked lists will be prepared for each district.
+
+Note (2) provides for a caution to the candidates that applications should
+
+not be sent to more than one District and Note (3) is important for
+
+considering the contentions herein also. It is clearly specified therein that
+
+selections made are on a Revenue District basis. Note (3) shows that a
+
+candidate advised for appointment in one         Revenue District from the
+
+ranked list prepared is not eligible for transfer to another District unless he
+
+completes 5 years continuous service from the date of commencement of
+
+service in the former District. Such transfer, even if allowed after five
+
+years, will be subject to the rules in G.O.(Ms) No.4/PD dated 2.1.1961.
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_35">&amp; W.P.(C) No.26361/2006                36</span>
+
+Therefore, it is now beyond the point to contend that as far as Excise
+
+Department is concerned, a division is different from a district and the
+
+appointment is not district-wise and therefore the Government Orders like
+
+Ext.P1 and the earlier Government Orders prescribing the guidelines for
+
+inter-district transfer and the principles thereon will not apply to the Excise
+
+Department. In fact, the Division Bench in W.A. No.1505/2006             in the
+
+judgment, noticed the fact that the appointment is district-wise as far as
+
+Excise Department is concerned, in paragraph 5. The relevant portion is
+
+extracted below:
+</p>
+<blockquote id="blockquote_32">         "Of course, in Excise department, division is the unit unlike other
+
+         departments. But the divisions are for each district. Recruitment to
+
+         the category of Excise Guard is on district basis as conducted by
+
+         the Kerala Public Service Commission. Necessarily, the division
+
+         for the purpose of excise department is confined to each revenue
+
+         districts. Therefore, going by Ext.P1, one can be transferred from
+
+         the district in which he has been recruited to another district of his
+
+         choice only after completion of five years. Before that he does not
+
+         have any entitlement for such transfer with lien to the district of
+
+         choice."
+</blockquote>
+<p id="p_60">Thus, evidently for the purpose of applying Rule 10 of the Special Rules,
+
+the unit of appointment will be district itself. Hence, it can be safely
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_36">&amp; W.P.(C) No.26361/2006               37</span>
+
+concluded that as far as Excise Department also is concerned, inter-district
+
+transfer will be governed by the provisions of various orders including
+
+Ext.P1 Government Order of the year 1991 and thus all the conditions
+
+prescribed will apply.
+</p>
+<p id="p_61">      31. The next aspect is whether the Government Order runs contrary
+
+to the proviso to Rule 27(a). Evidently, the proviso to Rule 27(a) concerns
+
+the principle for fixing the seniority alone and it does not govern the
+
+conditions for grant of inter-district/inter-unit transfer. Matters which are
+
+not covered by the rules can         clearly    be brought in by executive
+
+instructions, which legal position is well settled.
+
+</p><p id="p_62">      32. The Apex Court had occasion to reiterate the said principle in
+
+<a href="/doc/753100/" id="a_3">Pankajakshan Nair v. Jayaraj</a> (2001 (2) KLT 141 - SC), when a similar
+
+argument was raised. The facts of the case show that before the statutory
+
+recruitment rules came into force, an administrative order was in force and
+
+it provided that in the category of DYSP in the local police, not more than
+
+one out of eight vacancies should be filled up by transfer from amongst
+
+Assistant Commandants of District Armed Reserve and Armed Police
+
+Battalion. The statutory rules provides the method of appointment from
+
+three different sources, viz. (a) by direct recruitment; or (b) by promotion
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_37">&amp; W.P.(C) No.26361/2006                 38</span>
+
+from amongst Circle Inspectors; or (c) appointment from amongst Second
+
+Commandants, Adjutants and Assistant Commandant, M.S.P. and Special
+
+Armed Police Battalions and Assistant District Armed Reserve.              The
+
+appellant before the Apex Court was an Assistant Commandant in the
+
+District Armed Service Force under category (c). The argument was based
+
+on the executive instructions earmarking not more than one out of eight
+
+vacancies to be filled up by transfer from Assistant Commandants, etc. and
+
+that it still governs the field, being not inconsistent with the rule. The Apex
+
+Court Court answered the question in paragraph 8 thus:
+
+</p><blockquote id="blockquote_33">             " 8. It is undisputed that the executive order issued in the year
+
+             1962, still continues to remain in force, being amended from time
+
+             to time but the relevant Clause of that executive order contained
+
+             in Clause (d) has not been touched. The statutory Rules which
+
+             came into force on 14th of June, 1966, no doubt stipulates that it
+
+             is in supersession of the Rules and orders on the subject.
+
+             Necessarily therefore, if the statutory Rules provide any
+
+             provision corresponding to Clause (d) of the executive
+
+             instructions, then the said executive instruction must give way.</blockquote><p id="p_63">
+
+</p><p id="p_64">             But if the statutory Rules are silent on the same and there is
+
+             no provision which can be held to be contrary to the executive
+
+             instructions, then the executive instructions will continue to
+
+             operate in the field for which there is no provision in the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_38">&amp; W.P.(C) No.26361/2006                39</span>
+
+           statutory Rules. The executive instructions must be held to
+
+           be supplemental to the statutory Rules." (Emphasis supplied)
+
+
+
+It was noted that the statutory rules are silent on clause (d) of the executive
+
+instructions and therefore there is nothing in the statutory rules which is
+
+contrary to the executive instructions and the executive instructions will
+
+continue to operate in the field for which there is no provision in the
+
+statutory rules. In paragraph 9 it was further held thus:
+
+</p><blockquote id="blockquote_34">           "9. Having examined the provisions of the recruitment Rules of
+
+           1966 as well as the executive instructions of the year 1962, we
+
+           are unable to find any provision in the statutory Rules which can
+
+           be said to be repugnant to the earlier executive order. That
+
+           apart, the said executive order continues to remain in force by
+
+           various amendments, though the very Clause has not been
+
+           amended. In this view of the matter, the executive order of 1962
+
+           must be held to be continuing in force and remains
+
+           operative. ........."</blockquote><p id="p_65">
+
+</p><p id="p_66">      33. Similar is the position herein also. When proviso was added to
+
+Rule 27(a), what is taken care of is only the principle regarding seniority.
+
+The same was added by G.O.(P) 11/76/PD dated 13.1.1976. It is not as if
+
+as far as inter-district transfer and its principles are concerned, the proviso
+
+will govern. We cannot agree with the submission that the introduction of
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_39">&amp; W.P.(C) No.26361/2006                  40</span>
+
+the proviso nullifies all that is covered by the executive orders                and
+
+circulars. There is no provision therein contrary to what is provided under
+
+the proviso to Rule 27(a). Therefore, it cannot be said that Ext.P1 order
+
+runs contrary to the plain terms of the proviso to Rule 27(a).
+
+</p><p id="p_67">      34. In fact, another vehement contention raised by the learned Senior
+
+Counsel for the appellants/petitioners is that as far as Excise Department is
+
+concerned, the Special Rules alone will govern and therefore the executive
+
+orders including Ext.P1 will govern persons who are not covered by the
+
+Special Rules. We have noted Rule 11 of the Special Rules already. It only
+
+specifies the authority who is empowered to issue posting and transfer
+
+orders. The orders of transfer, therefore will have to be issued under the
+
+general guidelines of transfer prescribed by the Government from time to
+
+time and the inter-district/inter-unit       transfers will be governed by the
+
+principles and conditions provided in Ext.P1 and other relevant orders and
+
+circulars. It is not as if an inter-district transfer like the one herein, is issued
+
+under Rule 11. The said argument is therefore rejected.
+
+</p><p id="p_68">      35. In this context, learned Government Pleader relied upon the
+
+principles stated by the Apex Court in <a href="/doc/627069/" id="a_4">Dhananjay Malik v. State of
+
+Uttaranchal</a> (2008 (2) KLT 969 - SC) to show that the Government can
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_40">&amp; W.P.(C) No.26361/2006               41</span>
+
+maintain administrative instructions when the rules are silent on           any
+
+particular point. In paragraph 14, it is held as follows:
+
+</p><blockquote id="blockquote_35">         "Government cannot amend or supersede statutory rules by
+
+         administrative instructions, but if the rules are silent on any
+
+         particular point Government can fill up the gaps and supplement
+
+         the rules and issue instructions not inconsistent with the rules
+
+         already framed."
+</blockquote>
+<p id="p_69">Learned Government Pleader further relied upon the principles stated by a
+
+Division Bench of this Court in <a href="/doc/1905142/" id="a_5">Regi v. State of Kerala</a> (2010 (2) KLT
+
+</p><p id="p_70">265) to contend for the position that the power for issuing various orders
+
+governing inter-district transfer can be traced to Rule 39 of the general
+
+rules of KS &amp; SSR and therefore they are having statutory recognition. In
+
+fact, the Division Bench (consisting of K. Balakrishnan Nair (as he then
+
+was) and P. N. Ravindran, JJ.) in the said decision, has clearly held that the
+
+orders permitting inter-district transfers are issued under Rule 39. K.
+
+Balakrishnan Nair, J. (as he then was) speaking for the Bench in Regi's case
+
+(supra) in paragraph 5 held as follows:
+</p>
+<blockquote id="blockquote_36">         "5.   The next contention raised is that the only method of
+
+         appointment available for appointment to the District Armed
+
+         Reserve is through transfer from the members of the Armed Police
+
+         Battalion. But the orders permitting inter-district transfer are orders
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_41">&amp; W.P.(C) No.26361/2006              42</span>
+
+         issued under R.39 of the General Rules of the K.S. &amp; S.S.R. The
+
+         said Rule confers power on the Government to issue appropriate
+
+         orders, notwithstanding anything contained in the Special Rules or
+
+         the General Rules. Inter-unit and inter-district transfers have been
+
+         permitted since 1961 under the order of the Government G.O.(MS)
+
+         No.4/61/PD     dated   02.01.1961.    It  appears,    recently,  the
+
+         Government have imposed a restriction on the percentage of
+
+         vacancies to which inter-district transfers can be ordered. That is,
+
+         orders have been issued to safe-guard the interests of the
+
+         candidates included in the PSC list, awaiting appointment. We are
+
+         of the view that the Government have power to permit inter-district
+
+         transfer and the general orders governing the same are valid,
+
+         notwithstanding anything contained in the Special Rules. So, the
+
+         contention of the petitioners that inter-district transfer is
+
+         impermissible in the light of the provisions of the Special Rules,
+
+         cannot be accepted."
+</blockquote>
+<p id="p_71">The said discussion will show that the power conferred under Rule 39 is
+
+notwithstanding anything contained in the Special Rules or the general
+
+rules and therefore the Government have got power to permit inter-district
+
+transfer invoking the provisions of the Government Orders in the matter.
+
+In fact, the Bench was also of the view that these orders are issued to
+
+safeguard the interests of the candidates included in the PSC list, awaiting
+
+appointment. The same is also significant. Hence, for all these reasons, the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_42">&amp; W.P.(C) No.26361/2006                43</span>
+
+Special Rules herein cannot advance the case of the appellants.
+
+</p><p id="p_72">       36. We are therefore of the view that the contention that the circulars
+
+and executive orders will go against Rule 27(a) and the proviso, cannot hold
+
+good. The transfer orders issued herein, as already noticed, are with a
+
+condition that for the purpose of appointment, re-appointment, seniority etc.
+
+the unit to which they were appointed originally, shall continue. This is
+
+significant. The appellants therefore retained their lien in the parent units.
+
+Therefore, it cannot be treated as a transfer inter-district or inter-unit in the
+
+exact terms. The argument that violation, if any, of the condition provided
+
+under Ext.P1, of the five year rule will not be material as no consequences
+
+are provided therein, also therefore cannot hold good.           The principles
+
+governing the grant of inter-district transfer will show that the general norm
+
+is that it can be granted only after completion of five years of service in the
+
+district opted by the appointee. Exceptional cases we have already noticed.
+
+The appellants/petitioners do not come within any of the exceptional cases.
+
+Even with regard to transfer in exceptional cases, the same also shall be
+
+done by the approval of the Council of Ministers, which is also not
+
+available here. Therefore, going by the dictum laid down in Annamma
+
+Joseph,s case (1989 (1) KLT 1) such transfers can only be held to be
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_43">&amp; W.P.(C) No.26361/2006                44</span>
+
+impermissible.     Learned Government Pleader submitted that when the
+
+petitioners are beneficiaries of such an illegal order, they cannot claim
+
+seniority over the appointees in the new unit which goes against the
+
+conditions provided in Ext.P1 and other Government Orders.
+
+</p><p id="p_73">      37. In our considered view, the absence of any consequences in the
+
+executive orders cannot be a guiding factor to find out whether the orders
+
+could be supported for giving seniority to the petitioners, even if the five
+
+year rule is violated. That five year rule is the important aspect as far as
+
+inter-district transfer is concerned, cannot admit of any doubt. Violations of
+
+the same cannot get any justification or legal foundation. As we have
+
+already discussed, all the Government Orders and general directions issued
+
+by the Government from time to time, wanted to have strict adherence to the
+
+five year rule. Therefore, the said contention also can only be rejected.
+
+Apart from that, the conditions in the Gazette notification under which the
+
+appellants/petitioners could submit applications for appointment, clearly
+
+provided under Note (3) that "inter-district transfer can be obtained only
+
+after putting five years service in the unit". The same also will go against
+
+the contentions of the appellants/petitioners as non-transferability is a
+
+condition for appointment.
+</p>
+<p id="p_74">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_44">&amp; W.P.(C) No.26361/2006               45</span>
+
+</p><p id="p_75">       38. The next aspect is whether the appellants/petitioners are retaining
+
+their lien in the unit to which they were appointed or in the unit to which
+
+they are transferred the moment the transfers were effected. In fact, the
+
+contention raised by the learned Senior Counsel, Shri P. Ravindran is that
+
+the transfer of the lien is automatic. Shri P.V. Mohanan, learned counsel
+
+appearing for the party respondents contended otherwise, by relying upon
+
+the decision of a Full Bench of this Court in Balakrishnan Nair v. Ram
+
+Mohan Nair (1998 (1) KLT 766 - FB (consisting of Mrs. K.K. Usha, K.S.
+
+Radhakrishnan and S. Sankarasubban, JJ.). That was also a case where the
+
+effect of the various rules under Part I K.S.R. relating to acquisition of lien,
+
+suspension and cancellation were considered.          The Full Bench, after
+
+considering various aspects including Rule 8 of KS &amp; SSR,             speaking
+
+through S. Sankarasubban, J., laid down the principle thus in para 26:
+
+</p><blockquote id="blockquote_37">           "26. Thus, on the basis of the above decisions and the relevant
+
+           Rules in the KSR and K.S.S.R., we are of the view that the lien of
+
+           a member of a service to a post in the parent Department is not
+
+           lost automatically when he joins another Department. The lien can
+
+           be terminated only after hearing the concerned person. By mere
+
+           completion of probation it cannot be said that a person has been
+
+           substantively appointed to a permanent post. Unless a person is
+
+           confirmed under R. 24 of K.S.S.R., it cannot be said that the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_45">&amp; W.P.(C) No.26361/2006              46</span>
+
+          person has been substantively appointed to a permanent post. In
+
+          the present case, we find that the appellants have not been
+
+          confirmed in the Co-operative Department. Hence they have no
+
+          lien in the Co-operative Department. Their lien in the Rural
+
+          Development Department has not been terminated. In that view of
+
+          the matter, sending them back to the parent Department is legal."
+
+</blockquote><p id="p_76">The same principles will apply herein. Therefore, merely because a person
+
+joins another unit or another department, the lien in the unit of appointment
+
+is not lost automatically. In fact, the relevant rules of Part I of K.S.R.
+
+which have been referred to by the learned counsel for the party
+
+respondents, throw light on this aspect. Under Rule 12(18), 'lien' is defined
+
+as follows:
+</p>
+<blockquote id="blockquote_38">         "(18) Lien-- Means the title of an Officer to hold substantively,
+
+         either immediately or on termination of a period or periods of
+
+         absence, a permanent post to which he has been appointed
+
+         substantively."
+</blockquote>
+<p id="p_77">Rules   16 to 19 are relevant for the purpose of this case, which are
+
+reproduced below:
+</p>
+<blockquote id="blockquote_39">         "16. Unless in any case it be otherwise provided in these rules, an
+
+         officer on substantive appointment         to any permanent post
+
+         acquires a lien on that post and ceases to hold any lien previously
+
+         acquired on any other post.
+</blockquote>
+<p id="p_78">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_46">&amp; W.P.(C) No.26361/2006                47</span>
+
+</p><p id="p_79">         17. Unless his lien is suspended under Rule 18 or transferred
+
+         under Rule 20 an officer holding substantively a permanent post
+
+         retains a lien on that post--
+</p>
+<p id="p_80">                (a) while performing the duties of that post;
+</p>
+<p id="p_81">                (b) while on foreign service or holding a temporary post, or
+
+         officiating in another post;
+</p>
+<p id="p_82">                (c) during joining time on transfer to another post, unless he
+
+         is transferred substantively to a post on lower pay, in which case
+
+         his lien is transferred to the new post from the date on which he is
+
+         relieved of his duties in the old post;
+</p>
+<blockquote id="blockquote_40">                (d) while on leave;
+</blockquote>
+<blockquote id="blockquote_41">                (e) while under suspension; and
+
+</blockquote><blockquote id="blockquote_42">                (f) while under training.
+</blockquote>
+<p id="p_83">         18. (a) The Government shall suspend the lien of an officer on a
+
+         permanent post which he holds substantively if he is appointed in
+
+         a substantive capacity --
+</p>
+<p id="p_84">                (1) to a permanent post outside the cadre on which he is
+
+         born, or
+
+                (2) provisionally to a post on which another officer would
+
+         hold a lien had his lien not been suspended under this rule.
+
+</p><p id="p_85">                (b) The Government may, at their option, suspend the lien
+
+         of an Officer on a permanent post which he holds substantively, if
+
+         he is transferred to foreign service or in circumstances not covered
+
+         by clause (a) of this rule, is transferred, whether in a substantive or
+
+         officiating capacity to a post in another cadre, and if in any of
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_47">&amp; W.P.(C) No.26361/2006               48</span>
+
+           these cases, there is reason to believe that he will remain absent
+
+           from the post on which he holds a lien for a period of not less than
+
+           three years.
+</p>
+<p id="p_86">           19. (a) An Officer's lien on a post may in no circumstances be
+
+           terminated, even with his consent, if the result will be to leave him
+
+           without a lien or a suspended lien upon a permanent post.
+
+</p><p id="p_87">                 (b) In a case covered by sub-clause (2) of clause (a) of Rule
+
+           18, the suspended lien may not except on the written request of the
+
+           Officer concerned, be terminated while the officer remains in
+
+           Government service: provided that it shall be open to the
+
+           Competent Authority to refuse consent for the confirmation or
+
+           retention of an Officer in a permanent post outside the cadre on
+
+           which he is borne unless he makes a written request that his lien
+
+           on the permanent post in his parent office should be terminated.
+
+</p><p id="p_88">       39. Rule 17 deals with the circumstances wherein an officer holding
+
+substantively a permanent post retains his lien. It is provided that unless
+
+his lien is suspended under Rule 18 or transferred under Rule 20 an officer
+
+holding substantively a permanent post retains a lien on that post. Rule 18
+
+confers power on the Government to suspend the lien and Rule 19(a)
+
+provides that "an Officer's lien on a post may in no circumstances be
+
+terminated, even with his consent, if the result will be to leave him without
+
+a lien or a suspended lien upon a permanent post" and finally, Rule 20
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_48">&amp; W.P.(C) No.26361/2006                  49</span>
+
+provides as follows:
+</p>
+<blockquote id="blockquote_43">         "20. Subject to the provisions of Rule 21 the Government may
+
+         transfer to another permanent post in the same cadre the lien of an
+
+         Officer who is not performing the duties of the post to which the
+
+         lien relates, even if that lien has been suspended."
+
+</blockquote><p id="p_89">Therefore,     there is no automatic transfer of lien as contended by the
+
+appellants herein. In this context, the condition provided in the various
+
+orders, Exts.P4 and P5 that they will retain their position in the parent unit
+
+for the purpose of appointment, discharge and reappointment, seniority, etc.
+
+is therefore important and thus they retained their lien in the parent division
+
+itself even after the transfer.
+</p>
+<p id="p_90">       40. The learned Senior Counsel for the appellants, Shri P. Ravindran
+
+relied upon the principles stated by the Apex Court in <a href="/doc/374386/" id="a_6">Smt. Tarulata Syam
+
+and others v. The Commissioner of Income Tax, West Bengal</a> (AIR
+
+1977 SC 1802), <a href="/doc/520092/" id="a_7">DDA and others v. Joginder S. Monga and others</a>
+
+{(2004) 2 SCC 297} and           <a href="/doc/1260341/" id="a_8">Union of India and another v. Central
+
+Electrical &amp; Mechanical Engineering Service (CE&amp; MES) Group 'A'
+
+(Director Recruitments) Assn. CPWD and others</a> {(2008) 1 SCC 354} in
+
+support of his pleas.    The argument in a nutshell is that the Court cannot
+
+supply words to a statute and executive instructions cannot go against the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_49">&amp; W.P.(C) No.26361/2006               50</span>
+
+statutory rules.
+</p>
+<p id="p_91">       41. In Tarulata's case (AIR 1977 SC 1802) in paragraph 33, it was
+
+held that "even if there be a causus omissus, the defect can be remedied
+
+only by legislation and not by judicial interpretation." This principle is thus
+
+well settled. But as far as the present situation is concerned, as we have
+
+already noticed, this is a case wherein the executive orders like Ext.P1 and
+
+the proviso to Rule 27(a) operate in different fields, and therefore the
+
+situation is dissimilar. Therefore, it is not a case where the question of
+
+importing into the statute, words which are not there, arises and the said
+
+principle cannot have any application herein.
+</p>
+<p id="p_92">       42. In DDA's case {(2004) 2 SCC 297}, in paragraphs 35 and 36 the
+
+Apex Court referred to the principles laid down in two earlier decisions of
+
+the Court in <a href="/doc/1320680/" id="a_9">Sant Ram Sharma v. State of Rajasthan</a> (AIR 1967 SC 1910)
+
+and <a href="/doc/1789036/" id="a_10">State of M.P. v. G.S. Dall &amp; Flour Mills</a> (1992 Supp.(1) SCC 150),
+
+which are reproduced hereunder:-
+</p>
+<blockquote id="blockquote_44">         "35. In Sant Ram (AIR 1967 SC 1910), this Court has categorically
+
+         stated: (AIR p.1914 para 7)
+
+               "It is true that Government cannot amend or supersede
+               statutory rules by administrative instructions, but if the rules
+               are silent on any particular point, Government can fill up the
+               gaps and supplement the rules and issue instructions not
+               inconsistent with the rules already framed."
+</blockquote>
+<p id="p_93">W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_50">&amp; W.P.(C) No.26361/2006               51</span>
+
+</p><p id="p_94">          36. Yet again in G.S. Dall &amp; Flour Mills ((1992 Supp.(1) SCC
+
+</p><p id="p_95">          150) this Court observed as under (SCC p. 174. para 19)
+
+               "Executive instructions can supplement a statute or cover
+               areas to which the statute does not extend. But they cannot
+               run contrary to statutory provisions or whittle down their
+               effect."
+</p>
+<p id="p_96">In fact, we have already referred to the similar principles stated in
+
+Pankajakshan Nair's case (2001 (2) KLT 141 - SC). The principles stated
+
+in all these decisions will show that executive instructions will govern
+
+wherever statutory rules are silent. To the same effect is the dictum laid
+
+down in paragraph 10 of Central Electrical &amp; Mechanical Engineering
+
+Service (CE&amp; MES) Group 'A' (Director Recruitments) Assn.'s case
+
+{(2008) 1 SCC 354}, that the power of the State Government to issue
+
+executive instructions, is confined to filling up of the gaps or covering the
+
+area which otherwise has not been covered by the existing rules. Learned
+
+Senior Counsel for the appellants/petitioners also relied upon various
+
+decisions    in support of the plea that a literal interpretation is required.
+
+There cannot be any application of those principles herein, as we have
+
+already held that the orders herein operate in different fields not covered by
+
+the statutory rules and as held by the Division Bench of this Court in Regi's
+
+case (2010 (2) KLT 265),         Rule 39 of KS &amp; SSR            empowers the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_51">&amp; W.P.(C) No.26361/2006               52</span>
+
+Government to issue such orders notwithstanding anything contained in the
+
+Special Rules or the general rules.
+</p>
+<p id="p_97">      43. Therefore, going by the stipulations in various executive orders
+
+including Ext.P1 any transfer, inter-unit or inter-district-wise, will have to
+
+be substantively with the lien after a period of five years. The instances of
+
+relaxation are minimum and even in the case of relaxation it will have to be
+
+done by the Council of Ministers. Rule 27(a) of KS &amp; SSR prescribes the
+
+principle wherein seniority can be reckoned when appointments are made
+
+otherwise than on the advice by the Public Service Commission. The first
+
+proviso provides for fixation of seniority of persons on mutual or inter-unit
+
+or inter-departmental transfer from one unit to another, etc. The provisions
+
+of KSR and that of KS &amp; SSR when considered together, will show that as
+
+far as determination of permanent cadre is concerned, it will have to be
+
+done by the Government in respect of each service, class, category and
+
+grade. (Rule 2(18) of KS &amp; SSR). In fact, the definition of 'cadre' in Rule
+
+12(4) of Part I K.S.R. means "the strength of a service or part of the
+
+service sanctioned as a separate unit". A "member of service" means "a
+
+person who has been appointed to that service and who has not retired or
+
+resigned, been removed or dismissed, been substantively transferred or
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_52">&amp; W.P.(C) No.26361/2006                 53</span>
+
+reduced to another service, or been discharged otherwise than for want of a
+
+vacancy".     (Rule 2(9) of KS &amp; SSR).               The words "substantively
+
+transferred" are quite important. We have already discussed Rules 16 to 20
+
+of Part I K.S.R. providing for termination, transfer of lien, etc. Therefore,
+
+only if a person is substantively transferred with lien alone, he can be
+
+considered to have been transferred to the other unit. Unless and until the
+
+lien is transferred for various purposes including seniority, the transferees
+
+will have to be treated as borne       in the parent unit itself. They can get
+
+seniority in the transferred unit only if the lien gets transferred in terms of
+
+the rules and eligibility for inter-district transfer can be acquired only after
+
+five years service in the district of appointment, based on which they can
+
+get seniority in the transferred units. Therefore, clearly it is a case where
+
+the persons like the appellants will not get seniority based on the present
+
+orders of transfer on completion of five years in the unit of appointment
+
+without a substantive transfer with lien, which alone could have enabled
+
+them for assignment of seniority under the proviso to Rule 27(a) of KS &amp;
+
+SSR. The general power of transfer conferred under Rule 32 of KS &amp; SSR
+
+will also show that a "member of a service" or class of a service may be
+
+required to serve in a post borne on the cadre of such service or class. The
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_53">&amp; W.P.(C) No.26361/2006               54</span>
+
+provisions of Rule 8 of KS &amp; SSR are also important here and it will show
+
+that for all purposes of getting the service benefits to a person the parent
+
+cadre is important. Rule 8 enables a 'member of service' who is absent from
+
+duty in such service to return back to that service if he is not otherwise
+
+ineligible, as held by the Full Bench in Balakrishnan Nair's case (supra).
+
+Therefore, when the appellants were transferred without transfer of lien,
+
+their rights are retained in the parent unit itself which includes seniority.
+
+Rule 10 of the Special Rules herein, as already mentioned, states that for the
+
+purpose of appointment, discharge and reappointment, seniority and
+
+appointment as a full member, the Excise division shall be the unit. Herein,
+
+the Excise division is equivalent to a revenue district. In that view of the
+
+matter, the appellants cannot get seniority as claimed by them based on
+
+Exts.P3 to P5 in the new division.           Since the appellants were not
+
+transferred with their lien, it cannot be treated as an inter-unit transfer in
+
+strict sense and at any point of time they were liable to be transferred to the
+
+parent division.
+</p>
+<p id="p_98">       44. The learned Single Judge (K. Balakrishnan Nair, J. as he then
+
+was), in the common judgment, was of the explicit view that "Exts.P1 and
+
+P2 deal with inter-unit/district transfer, which is not covered by the
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_54">&amp; W.P.(C) No.26361/2006                 55</span>
+
+statutory Rules. Rule 27(a) deals with the reckoning of seniority of an
+
+incumbent on his regular appointment to that unit, otherwise than on the
+
+advice of the Public Service Commission. The first proviso thereof deals
+
+with regular inter-unit/district transfer. In this case, the inter-unit transfer
+
+ordered before completion of 5 years' service is illegal. So, the decision of
+
+the Apex Court relied on by the party respondents has no application to the
+
+facts of the case."
+</p>
+<p id="p_99">      45. The Division Bench of this Court, while dismissing Writ Appeal
+
+No.1505/2006 arising from the same common judgment, speaking through
+
+K.A. Abdul Gafoor, J. succinctly put the relevant principles in para 6 as
+
+hereunder:
+</p>
+<blockquote id="blockquote_45">          "True, as per proviso to Rule 27(a), a person transferred from the
+
+          one district to another district, on request, is entitled to reckon
+
+          seniority from the date of joining in the transferee district. That
+
+          can only when such transfer is ordered as per Ext.P1 with transfer
+
+          of lien for the purpose of seniority. But Exts.P4 and P5 transfer
+
+          containing the specific conditions as extracted supra does not give
+
+          them the benefit to reckon seniority in the transferee district.</blockquote><p id="p_100">
+
+</p><p id="p_101">          These transfers were not ordered as per Ext.P1. It cannot also be
+
+          considered as the inter unit transfer in terms of the proviso to Rule
+
+          27(a) because of the specific condition in Exts.P4 and P5 transfer
+
+          orders to the effect that, for the purpose of seniority they could be
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_55">&amp; W.P.(C) No.26361/2006                  56</span>
+
+          regarded as incumbents in the respective district of initial
+
+          recruitment.   Therefore it cannot be termed as a transfer for the
+
+          purpose of reckoning seniority as contemplated in the proviso to
+
+          Rule 27(a) or that to be ordered in terms of Ext.P1. Rule 27(a)
+
+          does not govern inter district/unit transferees, as         such, as
+
+          contended by the appellants. It governs only the seniority of the
+
+          incumbent so transferred."
+</p>
+<p id="p_102">We respectfully endorse the said view.
+</p>
+<p id="p_103">      46. We may add here, further that, they had no grievance about the
+
+crucial conditions in Exts.P4 and P5 at any point of time. They continued
+
+after such transfer by retaining their lien in the parent divisions. Eight of
+
+them were included in the provisional seniority list Ext.P8 in Kannur
+
+District itself being their district of recruitment. Thereafter, appellant No.5
+
+filed a representation to the first respondent claiming seniority in Excise
+
+Division, Palakkad and pursuant to the direction issued by this Court in
+
+O.P.No.34292/2001 to consider the representation, the Joint             Excise
+
+Commissioner, heard the matter and issued Ext.P10 proceedings to include
+
+his name in the seniority list of Excise Guards in Palakkad Division with
+
+effect from the date on which he joined at Palakkad Division and gave
+
+seniority from that date. He had completed only less than 3 months in
+
+Kannur Division, at the time of transfer. Again, by Ext.P11 direction was
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_56">&amp; W.P.(C) No.26361/2006               57</span>
+
+issued to the Assistant Excise Commissioner to obtain option from those
+
+Excise Guards who were transferred either to continue in Kannur or to
+
+remain in the District to which they wore transferred, within three days.
+
+Finally, by Ext.P12 directions were issued to include the remaining of them
+
+in the final seniority list in the transferred district. Thus, options were
+
+called for after a long number of years and this exercise is unknown to the
+
+scheme of inter-district transfer. They were never given any relaxation by
+
+a decision of the Council of Ministers also. Therefore, the exercise done is
+
+clearly one in perpetuation of an illegality. If that be so, they cannot get
+
+seniority before five years which is the rule as far as regular inter-district
+
+transfers are concerned. If the transfer is effected before five years, and
+
+without getting an order of relaxation from the five year rule the seniority
+
+claimed in the transferred unit/district based on the order of transfer, cannot
+
+be granted.
+</p>
+<p id="p_104">      47. In that view of the matter and on the facts as explained above, it
+
+can be seen that the appellants cannot get any right at all.    Therefore, we
+
+respectfully agree with the view taken by the           Division     Bench in
+
+W.A. No.1505/2006 and reaffirm the same.         The reference is answered
+
+W.A.Nos.1466/2006 &amp; 802/2007
+<span class="hidden_text" id="span_57">&amp; W.P.(C) No.26361/2006            58</span>
+
+accordingly.
+</p>
+<p id="p_105">     For all these reasons, the  Writ Appeals and the Writ Petition are
+
+dismissed. No costs.
+</p>
+<p id="p_106">                                 (Manjula Chellur, Ac.C.J.)
+
+
+
+
+                              (T.R. Ramachandran Nair, Judge.)
+
+
+
+                              (P.R. Ramachandra Menon, Judge.)
+
+kav/
+
+
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

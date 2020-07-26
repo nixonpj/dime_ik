@@ -1,0 +1,332 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sushila Industries And Ors. vs Deputy Commissioner Of ... on 5 April, 1990</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1300256/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 19 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1300256">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1417100/">Section 278B in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/850282/">Section 277 in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/27905/">The Foreign Exchange Regulation Act, 1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1954990/">Section 10 in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/789969/">The Income- Tax Act,   1995</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 3 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/827795/">M.A. Unneerikutty And Ors. vs Deputy Commissioner Of ... on 18 March, 1994</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/212323/">Patiram Jain And Ors. vs Union Of India (Uoi) And Ors. on 28 August, 1995</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1203185/">Patiram Jain &amp; Ors. vs Union Of India &amp; Ors. on 28 August, 1995</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1300256/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1300256/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=278B%20">278B </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20278B%20">section 278B </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20277%20">section 277 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=framing%20of%20charges">framing of charges</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=foreign%20exchange%20regulation%20act%20">foreign exchange regulation act </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=essential%20commodities%20act">essential commodities act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=essential%20commodities">essential commodities</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20foreign%20exchange%20act"> foreign exchange act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=food%20adulteration%20act">food adulteration act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=girdhari%20lal%20gupta">girdhari lal gupta</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sham%20sunder">sham sunder</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=girdhari%20lal">girdhari lal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=due%20diligence">due diligence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adulteration">adulteration</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sham">sham</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Orissa High Court</div>
+<div class="doc_title">Sushila Industries And Ors. vs Deputy Commissioner Of ... on 5 April, 1990</div><div class="doc_citations">Equivalent citations: 1992 75 CompCas 704 Orissa, 1992 198 ITR 332 Orissa</div>
+
+<div class="doc_author">Author: V Gopalaswamy</div>
+
+<div class="doc_bench">Bench: V Gopalaswamy</div>
+
+<p id="p_1">JUDGMENT
+
+
+ 
+
+  V. Gopalaswamy, J.  
+</p> 
+
+<p id="p_2"> 1. This revision is preferred for setting aside the order dated October 30, 1989, of the learned Additional Chief Judicial Magistrate, Cuttack, Camp at Rourkela, in Case II(c) C. C. No. 17 of 1989, framing charges against the petitioners under <a href="/doc/850282/" id="a_1">Sections 277</a> and <a href="/doc/1417100/" id="a_2">278B</a> of the Income-tax Act, 1961 (hereinafter referred to as "the Act"). 
+</p> 
+
+<p id="p_3"> 2. The firm, Sushila Industries (petitioner No. 1), is a registered firm of which petitioners Nos. 2 to 7 and the deceased, Mahabir Prasad Agarwala (who died on November 12, 1987), are the partners. The registered firm was situated at Rajgangpur within the revenue district of Sundargarh, Orissa, and it is an income-tax assessee. The Deputy Commissioner of Income-tax (Assessment), Special Range, Sambalpur (the present opposite party), filed the complaint Case II(c) C. C. No. 17 of 1989 against all the petitioners alleging that the assessee-firm (petitioner No. 1) for the assessment year 1976-77 has filed a return with false particulars and with false verification by one of its partners on behalf of the firm before the Income-tax Officer, Ward-A, Rourkela, in August, 1976, and thereby all the petitioners rendered themselves liable under <a href="/doc/850282/" id="a_3">Section 277</a> read with <a href="/doc/1417100/" id="a_4">Section 278B</a> of the Act. 
+</p> 
+
+<p id="p_4"> 3. The complainant has examined some witnesses in support of the allegations in the complaint petition. On a consideration of the evidence and after hearing counsel for both the parties, the learned Additional Chief Judicial Magistrate by his impugned order dated October 30, 1989, framed charges under <a href="/doc/850282/" id="a_5">Sections 277</a> and <a href="/doc/1417100/" id="a_6">278B</a> of the Act against all the accused persons (the present petitioners). Hence, this revision. 
+</p> 
+
+<p id="p_5"> 4. Learned counsel for the petitioners, Mr. A. Patnaik, contended that even if all the allegations in the complaint petition were to be accepted as true, they do not disclose a case under <a href="/doc/850282/" id="a_7">Sections 277</a> and <a href="/doc/1417100/" id="a_8">278B</a> of the Act against all the petitioners and, therefore, the learned Additional Chief Judicial Magistrate acted illegally in framing charges under <a href="/doc/850282/" id="a_9">Sections 277</a> and <a href="/doc/1417100/" id="a_10">278B</a> of the Act against all the petitioners. 
+</p> 
+
+<p id="p_6"> 5. <a href="/doc/1417100/" id="a_11">Section 278B</a> of the Act deals with the topic of "Offences by companies". It contains provisions answering the question as to the person/ persons who shall be deemed to be guilty of the offence when an offence under the Act is committed by a company or a firm. <a href="/doc/1417100/" id="a_12">Section 278B</a> was inserted by the <a href="/doc/1868683/" id="a_13">Taxation Laws (Amendment) Act</a>, 1975, and came into force on October 1, 1975. The present case is filed in relation to the return for the assessment year 1976-77 filed in August, 1976. So in the facts of the present case <a href="/doc/1417100/" id="a_14">Section 278B</a> is applicable. For convenience of ready reference, <a href="/doc/1417100/" id="a_15">Section 278B</a> of the Act is quoted below : 
+</p>  
+
+<p id="p_7">  "278B. Offences by companies.--(1) Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly : 
+</p> 
+
+<p id="p_8"> Provided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence. 
+</p> 
+
+<p id="p_9"> (2) Notwithstanding anything contained in Sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly. 
+</p> 
+
+<p id="p_10"> Explanation.-- For the purpose of this section,-- 
+</p> 
+
+<p id="p_11"> (a) 'company' means a body corporate, and includes--(i) a firm ; and
+ 
+ 
+
+</p><p id="p_12">    (ii) an association of persons or a body of individuals whether incorporated or not ; and  
+ 
+
+</p><p id="p_13"> (b) 'director', in relation to --(i) a firm, means a partner in the firm ;  
+</p> 
+
+<p id="p_14"> (ii) any association of persons or a body of individuals, means any member controlling the affairs thereof."   
+</p> 
+
+<p id="p_15"> 6. So by virtue of the Explanation to <a href="/doc/1417100/" id="a_16">Section 278B</a> of the Act, where an offence under the Act has been committed by a firm, every person who, at the time the offence was committed, was in charge of and was responsible to the firm for the conduct of the business of the firm as well as the firm shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly. 
+</p> 
+
+<p id="p_16"> 7. Admittedly, the return of the firm in question for the assessment, year 1976-77 was duly signed and verified by the managing partner, Jagabandhu Behura (petitioner No. 2), on behalf of the firm. The statement on oath of M. P. Agarwala (since deceased) before the Income-tax Officer, marked as exhibit 15 in the case, discloses that he and the accountant were looking after the accounting work of the firm. Learned counsel for the petitioners submitted that as there is nothing in the complaint petition or the evidence placed on record to show that any of petitioners Nos. 3 to 7 were in charge of and responsible to the firm for the conduct of the business of the firm at the time of commission of the alleged offence, the trial court ought to have discharged them. On a careful reading of the complaint petition, it is seen that the complainant wants the court to hold petitioners Nos. 3 to 7 liable under <a href="/doc/850282/" id="a_17">Section 277</a> of the Act only on the ground that all of them are also partners of the firm. The impugned order discloses that the fact that petitioners Nos. 3 to 7 were also partners of the firm by the relevant date weighed with the learned Additional Chief Judicial Magistrate in framing charges against petitioners Nos. 3 to 7 as well. From the impugned order it is seen that no material was placed before the learned Additional Chief Judicial Magistrate indicating that any of petitioners Nos. 3 to 7 were in charge of, and responsible to, the firm for the conduct of the business of the firm at the relevant time. Learned counsel for the petitioners contended that the impugned order was not passed on the basis that there was some material placed before the court suggesting that petitioners Nos. 3 to 7 were also in charge of the firm for conducting its business in any manner and the same is, therefore, not sustainable in law. 
+</p>
+ 
+
+<p id="p_17"> 8. In this context, in support of his contention, learned counsel for the petitioners relied on the decision in <a href="/doc/1552499/" id="a_18">Jasbir Singh v. ITO</a> [1987] 168 ITR 770 (P &amp; H). 
+</p> 
+
+<p id="p_18"> 9. In this case, four petitioners who happened to be partners of the firm were sought to be prosecuted under <a href="/doc/850282/" id="a_19">Section 277</a> of the Income-tax Act, 1961. for false verification of the returns of the firm. They filed a petition impugning these proceedings and praying for the quashing of the same qua them, because it had nowhere been alleged in the complaint that any of the petitioners was either in charge of, or was responsible to, the firm for the conduct of its business. On the contrary, the precise case of the complainant was that it was another partner of the firm who had signed and verified the return and had also filed the requisite supporting material along with the return. On these facts, the Punjab and Haryana court held that as there was no allegation to the effect that the petitioners were in charge of the affairs of the firm or that they were conducting any business in any manner and that the returns or the verification therein had not been signed by the petitioners, they were not liable to be prosecuted under <a href="/doc/850282/" id="a_20">Section 277</a> of the Act. 
+</p> 
+
+<p id="p_19"> 10. <a href="/doc/50504/" id="a_21">Girdhari Lal Gupta v. D. N. Mehta</a>, AIR 1971 SC 2162, deals with the scope of <a href="/doc/27905/" id="a_22">Section 23C</a> of the Foreign Exchange Regulation Act, 1947 (since repealed by the <a href="/doc/27905/" id="a_23">Foreign Exchange Regulation Act</a>, 1973). <a href="/doc/789969/" id="a_24">Section 23C(1)</a> and <a href="/doc/789969/" id="a_25">Section 23C(2)</a> read as follows : 
+</p>  
+
+<p id="p_20">  "23C. (1) If the person committing a contravention is a company every person who, at the time the contravention was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly : 
+</p> 
+
+<p id="p_21"> Provided that nothing contained in this sub-section shall render any such person liable to punishment if he proves that the contravention took place without his knowledge or that he exercised all due diligence to prevent such contravention. 
+</p> 
+
+<p id="p_22"> 12. 23C. (2) Notwithstanding anything contained in Sub-section (1), where a contravention under this Act has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of
+
+that offence and shall be liable to be proceeded against and punished accordingly. 
+</p> 
+
+<p id="p_23"> Explanation.--For the purposes of this section,-- 
+</p> 
+
+<p id="p_24"> (a) 'company' means any body corporate and includes a firm or . other association of individuals ; and  
+ 
+
+</p><p id="p_25"> (b) 'director', in relation to a firm, means a partner in the firm."  
+</p> 
+
+<p id="p_26"> 11. Hence, it is seen that the above provisions are similar to the provisions confained in <a href="/doc/1417100/" id="a_26">Section 278B</a> of the Income-tax Act.  
+</p> 
+
+<p id="p_27"> 12. While dealing with the scope of <a href="/doc/27905/" id="a_27">Sections 23C(1)</a> and <a href="/doc/27905/" id="a_28">23C(2)</a> of the Foreign Exchange Regulation Act, the Supreme Court in Girdhari Lal Gupta's case, AIR 1971 SC 2162, 2163, observed thus : 
+</p>   
+
+<p id="p_28"> "It seems to us quite clear that <a href="/doc/27905/" id="a_29">Section 23C(1)</a> is a highly penal section as it makes a person who was in charge of and responsible to the company for the conduct of its business vicariously liable for an offence committed by the company. Therefore, in accordance with, well-settled principles this section should be construed strictly. 
+</p> 
+
+<p id="p_29"> What then does the expression 'a person in charge of and responsible for the conduct of the affairs of a company' mean ? It will be noticed that the word 'company' includes a firm or other association (of persons) and the same test must apply to a director-in-charge and a partner of a firm in charge of a business. It seems to us that in the context a person 'in charge' must mean that the person should be in overall control of the day-to-day business of the company or firm. This inference follows from the wording of <a href="/doc/27905/" id="a_30">Section 23C(2)</a>."  
+</p> 
+
+<p id="p_30"> 13. <a href="/doc/1943863/" id="a_31">Section 10</a> of the Essential Commodities Act, 1955, also contains provisions similar to <a href="/doc/1417100/" id="a_32">Section 278B</a> of the Income-tax Act. While construing these provisions, the Supreme Court in the case of <a href="/doc/522408/" id="a_33">Sham Sunder v. State of Haryana</a> [1990] 67 Comp Cas 1 ; AIR 1989 SC 1982, observed thus (at page 4 of 67 Comp Cas) : 
+</p>   
+
+<p id="p_31"> "From the Explanation to <a href="/doc/1954990/" id="a_34">Section 10</a>, it will be seen that the company includes a firm and other association of persons. <a href="/doc/1954990/" id="a_35">Section 10</a> provides that the person shall be deemed to be guilty of contravention of an order made under <a href="/doc/694023/" id="a_36">Section 3</a> if he was in charge of and was responsible to the firm for the conduct of the business of the firm. What is of importance to note is that the person who was entrusted with the business of the firm and was responsible to the firm for the conduct of the business could alone be prosecuted for the offence complained of. ... 
+</p>
+ 
+
+<p id="p_32"> But we are concerned with a criminal liability under a penal provision and not a civil liability. The penal provision must be strictly construed in the first place. Secondly, there is no vicarious liability in criminal law unless the statute takes that also within its fold. <a href="/doc/1954990/" id="a_37">Section 10</a> does not provide for such liability. It does not make all the partners liable for the offence whether they do business or not."  
+</p> 
+
+<p id="p_33"> 14. The wording in the proviso to <a href="/doc/426357/" id="a_38">Section 10(1)</a> of the Essential Commodities Act is similar to the wording in the proviso to <a href="/doc/65219/" id="a_39">Section 278B(1)</a> of
+the Income-tax Act. Mr. M. R. Patnaik, learned counsel for the opposite party, contended that because of the proviso to <a href="/doc/65219/" id="a_40">Section 278B(1)</a> of the Act, the learned Additional Chief Judicial Magistrate was justified in framing the charges against all the petitioners as it was open to petitioners Nos. 3 to 7 to show that the offence was committed without their knowledge so that they will be ultimately acquitted. That such a contention is without substance is evident from the following observations of the Supreme Court in Sham Sunder's case [1990] 67 Comp Cas 1, while dealing with the proviso to Sub-section (1) of <a href="/doc/1943863/" id="a_41">Section 10</a> of the Essential Commodities Act (at page 4) : 
+</p><p id="p_34">  "It is, therefore, necessary to add an emphatic note of caution in this regard. More often, it is common that some of the partners of a firm may not even be knowing of what is going on day-to-day in the firm. There may be partners, better known as sleeping partners, who are not required to take part in the business of the firm. There may be ladies and minors who were admitted only to the benefits of partnership. They may not know anything about the business of the firm. It would be a travesty of justice to prosecute all the partners and ask them to prove under the proviso to Sub-section (1) that the offence was committed without their knowledge. It is significant to note that the obligation of the accused to prove under the proviso that the offence took place without his knowledge or that he exercised all due diligence to prevent such offence arises only when the prosecution establishes that the requisite condition mentioned in Sub-section (1) is established. The requisite condition is that the partner was responsible for carrying on the business and was, during the relevant time, in charge of the business. In the absence of any such proof, no partner could be convicted. We, therefore, reject the contention urged by counsel for the State." 
+</p> 
+
+<p id="p_35"> 15. <a href="/doc/157838917/" id="a_42">Section 17</a> of the Prevention of Food Adulteration Act contains provisions similar to <a href="/doc/1417100/" id="a_43">Section 278B</a> of the Income-tax Act. <a href="/doc/974294/" id="a_44">In Smt. Manibai v. State of Maharashtra</a>, AIR 1974 SC 434, it was held by the Supreme
+
+Court that if the business is owned by a firm and the accused is a partner, he would be liable under <a href="/doc/110136011/" id="a_45">Section 17(1)</a> of the Prevention of Food Adulteration Act for the sale which was made by another partner of the firm, only if he is shown to be in charge of and responsible for the conduct of the business which was carried on at the shop and simply because he is a licensee of the shop, his conviction cannot be justified. 
+</p> 
+
+<p id="p_36"> 16. In the present case, learned counsel for the opposite party relied on exhibits 14 and 15 and urged that in view of the recitals therein, the trial court was justified in framing charges against petitioners Nos. 3 to 7 as well. Exhibit 14 is a declaration under <a href="/doc/1379720/" id="a_46">Section 184(7)</a> of the Act. It merely discloses that petitioners Nos. 3 to 7 are also partners of the firm. Exhibit 15 is the statement on oath of the deceased, M. P. Agarwal, and it shows that the said M. P. Agarwal and the accountant were looking after the accounts work. So it does not support the case of the prosecution that petitioners Nos. 3 to 7 were also in charge of the affairs of the firm. 
+</p> 
+
+<p id="p_37"> 17. While dealing with the question as to when proceedings can be quashed against an accused, their Lordships of the Supreme Court in <a href="/doc/1860679/" id="a_47">Municipal Corporation of Delhi v. Ram Kishan Rohtagi</a>, AIR 1983 SC 67, observed thus (at page 70) : 
+</p><p id="p_38">  "It is, therefore, manifestly clear that proceedings against an accused in the initial stages can be quashed only if on the face of the complaint or the papers accompanying the same, no offence is constituted. In other words, the test is that taking the allegations and the complaint as they are, without adding or subtracting anything, if no offence is made out then the High Court will be justified in quashing the proceedings in exercise of its powers under <a href="/doc/789969/" id="a_48">Section 482</a> of the present Code." 
+</p> 
+
+<p id="p_39"> 18. As pointed out earlier, <a href="/doc/1417100/" id="a_49">Section 278B</a> of the Income-tax Act, <a href="/doc/1019339/" id="a_50">section 68</a> of the Foreign Exchange Regulation Act, 1973 (which corresponds to <a href="/doc/27905/" id="a_51">Section 23C</a> of the Foreign Exchange Regulation Act, 1947), <a href="/doc/1943863/" id="a_52">Section 10</a> of the Essential Commodities Act, 1955 and <a href="/doc/157838917/" id="a_53">Section 17</a> of the Prevention of Food Adulteration Act, 1954, all contain provisions indicating the circumstances under which natural persons can be made vicariously liable for an offence committed under these Acts by a firm or company. While construing such provisions, the Supreme Court held that for making a partner liable for the offence committed by a firm, the requisite condition is that the partner was responsible for carrying on the business of the firm and was during the relevant time in charge of the business. 
+</p> 
+
+<p id="p_40"> 19. In the present case, neither the complaint petition nor the material placed on record shows that apart from petitioner No. 2 and the deceased,
+
+M. P. Agarwal, any of the petitioners Nos. 3 to 7 was in charge of and responsible to the firm in the conduct of the business of the firm at the time of the commission of the alleged offence. Hence, in view of the above-referred decisions of the Supreme Court in Girdhari Lal Gupta's case, AIR 1971 SC 2162, Sham Sunder's case [1990] 67 Comp Cas 1 and Smt. Manibai's case, AIR 1974 SC 434 and the decision of the Punjab and Haryana High Court in Jasbir Singh's case [1987] 168 ITR 770, no criminal liability can be fixed on them. Hence, continuing the prosecution against petitioners Nos. 3 to 7, namely, Sarbasri Khageswar Behura, Babooram Sahoo, Sanjib Kumar Behura, Ramavatar Agarwala and Sanwarmal Agar-wala under <a href="/doc/850282/" id="a_54">Sections 277</a> and <a href="/doc/1417100/" id="a_55">278B</a> of the Act would amount to an abuse of the process of the court and, therefore, the charges framed against them under <a href="/doc/850282/" id="a_56">Sections 277</a> and <a href="/doc/1417100/" id="a_57">278B</a> of the Act by the trial court are hereby quashed. However, the prosecution should continue against petitioner No. 1 firm and petitioner No. 2, Sri Jagabandhu Behura. 
+</p> 
+
+<p id="p_41"> 20. In the result, while the revision petition preferred on behalf of petitioners No's. 3 to 7 is allowed, the revision petition filed on behalf of petitioners Nos. 1 and 2 is dismissed. 
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

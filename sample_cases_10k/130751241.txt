@@ -1,0 +1,532 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In The Court Of Ms. Poonam ... vs Mr. Mahender Aggarwal on 30 October, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/130751241/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:130751241">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/515323/">The Transfer of Property Act, 1882</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1489134/">The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/679372/">The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1134872/">Section 111 in The Transfer of Property Act, 1882</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/756924/">Section 113 in The Transfer of Property Act, 1882</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/130751241/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/130751241/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=waiver">waiver</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=monthly%20rent%20">monthly rent </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2012%20rule%206%2C%20civil%20procedure%20code">order 12 rule 6, civil procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2012%20rule%206%20cpc%20%20filter%3A%20%20civil%20procedure%20code">order 12 rule 6 cpc  filter:  civil procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2012%20rule%206%20cpc">order 12 rule 6 cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rule%206%20of%20cpc">rule 6 of cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%2012%20rule%206">order 12 rule 6</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=who%20is%20a%20land%20lord">who is a land lord</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=waiver%20of%20notice">waiver of notice</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lease%20not%20registered">lease not registered</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lease%20and%20agreement%20for%20lease">lease and agreement for lease</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lease%20agreement%20">lease agreement </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=poonam">poonam</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lease%20deed%20if%20not%20registered">lease deed if not registered</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=land%20lord%20tenant">land lord tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%206%20rule%206">order 6 rule 6</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=12%286%29%20of%20code%20of%20civil%20procedure">12(6) of code of civil procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20107">section 107</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=implied%20consent">implied consent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20land%20lord%20and%20tenant%20relationship">no land lord and tenant relationship</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">In The Court Of Ms. Poonam ... vs Mr. Mahender Aggarwal on 30 October, 2013</div><div class="doc_author">Author: Ms. Poonam Chaudhary</div>
+
+<pre id="pre_1">                                      1
+
+ IN THE COURT OF MS. POONAM CHAUDHARY, ADJ­03, SAKET COURT, 
+                             NEW DELHI 
+CS No. 17/2013
+Unique I.D. No.02406C0007812013
+Mrs.  Nirmal Gupta,
+W/o  Sh.Gulab Chand Gupta
+R/o F­25, Ground Floor, 
+Lajpat Nagar­I, New Delhi­110024                 ...Plaintiff
+
+                                   Versus
+  1. Mr. Mahender Aggarwal
+     S/o Sh. Babu Lal, R/o F­25, 2nd Floor,
+     Lajpat Nagar­I, New Delhi­110024
+     Also at:
+     M/s  Hardware Solutions
+     Shop No. 1865/1, Ravidas Mandir Market,
+     Gurudwara Road,  Kotla Mubarakpur,
+     New Delhi­110003
+  2. Mrs. Shweta Aggarwal.
+     W/o Mr. Mahender Aggarwal
+     R/o F­25, 2nd Floor, Lajpat Nagar­I,
+     New Delhi ­110024                                  ...Defendants
+
+DATE OF INSTITUTION                                     : 11.01.2013
+DATE OF RESERVING FOR  JUDGMENT/ORDER                   :  26.10.2013
+DATE OF PRONOUNCEMENT                                   :  30.10.2013 
+                        J U D G E M E N T 
+</pre>
+<p id="p_1">  1. Plaintiff  has filed the present suit  against the defendant for recovery 
+     of possession, mesne profits and damages for  unauthorized use and 
+     occupations of the  suit property  bearing No.  F ­25, Lajpat Nagar­I, 
+     New Delhi 110024.  The defendants contested the suit by  filing WS, 
+     which was followed by replication. 
+</p><p id="p_2">  2. The plaintiff filed an application under order 12 Rule 6 CPC  under 
+     consideration on the averrments that there are admissions made by 
+     the defendants  in the WS as such the plaintiff is entitled to a decree 
+     of possession and mesne profits on such admissions.   In order to 
+     adjudicate upon the application filed by the plaintiff it is necessary 
+     to  elucidate the pleadings of the parties. 
+</p><p id="p_3">  3.  The plaintiff has filed the present suit on the averrments that he is 
+     the owner /landlord of the property   No. F25, Laj Pat Nagar­ I New 
+<span class="hidden_text" id="span_1">                                           2</span>
+
+   Delhi. It is alleged that defendants who are  husband and wife were 
+   jointly inducted as tenants in the entire second floor of the above 
+   property,   comprising   drawing   cum   dinning   room,   one   bed   room, 
+   toilets &amp;  kitchen and Balcony on both sides and a varrendah (herein 
+   after referred to as suit property).  It is further averred that  initially 
+   the   suit   premises   was   let   out   for   11   months   commencing   from 
+   01.08.2011 vide rent agreement dated 03.08.2011 at a monthly rent of 
+   Rs.   22,000/­.   After   expiry   of   the   tenancy   on   30.06.2012     it   was 
+   extended for another 11 months  commencing from 01.07.2012 vide 
+   registered   lease   deed   dated   26.06.2012   at   a   monthly   rent   of   Rs.
+   25,000/­ per month inclusive of water and electricity charges.   
+</p><p id="p_4">4. It is also alleged that  despite repeated requests the defendant failed 
+   to pay the agreed rent   as such the   lease   stood         automatically 
+   determined as per  clause 15 of  terms  and conditions of the lease 
+   agreement  which  provides  that  if defendant failed to pay monthly 
+   rent regularly for 2 months, the tenancy would automatically stood 
+   terminated.   However,   by   way   of     abandoned   precaution,   plaintiff 
+   terminated   the   tenancy   of   defendant   vide   legal     notice   dated 
+   05.10.2012   calling   upon   the   defendants   to     hand   over   the   vacant 
+   possession of   suit   premises by the end of   October 2012 and pay 
+   arrears  of   rent  @   Rs.  25,000/­  per   month.     It   is  also     alleged  that 
+   defendants are liable to  pay  damages @ Rs.45,000/­ per month  i.e. 
+   from     01.11.2012   after the expiry of the period of legal notice, as 
+   they have failed to  vacate the suit premises though defendants paid 
+   rent of Rs.   75,000/­ for the period   August to October 2012 @ Rs.
+   25,000/­ per month. 
+</p><p id="p_5">5. It   is   further   alleged   that   defendants   filed     separate   written 
+   statements and made following admissions:­
+   The   defendant No. 1, admitted that the plaintiff is the owner and 
+   landlord   of   the   premises.   It   has   also   been     admitted   that   the 
+   defendants  being  husband &amp; wife, they were jointly inducted as a 
+   tenant in the suit premises.  The defendant No. 1 also admitted that 
+<span class="hidden_text" id="span_2">                                            3</span>
+
+   the said premises was leased out under Lease Deed dated 26.06.2012 
+   at the monthly rent of Rs. 25,000/­ per month.  The defendant No. 1 
+   has further admitted the receipt of the legal notice dated 05.10.2012 
+   sent   by   the   Plaintiff     and   he   replied     to   same   vide   reply   dated 
+   27.10.12 admitting that the rent  for 3 months was due and paid the 
+   same vide Cheque No. 057421 of Rs.  75,000/­ dated 27.10.2012.  
+     Similarly, the Defendant No. 2 in her written statement admitted 
+   that the Plaintiff is the owner and landlord of the premises. The lease 
+   deed dated 26.06.2012 is also admitted. It is also admitted that she 
+   received the notice of termination dated 05.10.2012. 
+</p><p id="p_6">6.   It is stated that the suit   in recovery of possession, plaintiff has to 
+   prove   that he is land lord/ owner of the premises which was let out. 
+   The tenancy has been terminated by   notice under <a href="/doc/80042/" id="a_1">section 106</a>   of 
+   Transfer   of   Property   Act   and     the   rate   of   rent   is     more   than   Rs. 
+   3,500/­ per month. 
+</p><p id="p_7">7.  It is stated that it is an  admitted case  of parties  that the plaintiff is 
+   the owner/ land lord of the suit premises.   The agreement is also 
+   admitted and it is   also admitted that the defendants   received the 
+   legal notice, rate of rent is also admitted, as such the parties need 
+   not to go  to trial.
+</p><p id="p_8">8.  It is further alleged that plaintiff is claiming damages @  Rs. 25,000/­ 
+   per   month   which   is     an   admitted   fact,   as   such     no   evidence     is 
+   required even on the quantum of damages being Rs. 25,000/­  with 
+   effect from 01.11.2012.  It is prayed that judgments on admissions be 
+   passed as prayed for . 
+</p><p id="p_9">9.   Defendant   No.   1   did   not   file   reply   to   the   application.   It   was 
+   submitted on behalf of the defendant No. 1 that he had vacated the 
+   suit premises on 01.07.2012 and  defendant No. 2 was occupying the 
+   same.
+</p><p id="p_10">10.  Reply   to   the     application     has   been   filed   by   defendant   No.   2 
+   opposing  it on the ground that  it is an abuse of process of law. It is 
+   also stated that plaintiff has no cause of action. It is further stated 
+<span class="hidden_text" id="span_3">                                              4</span>
+
+   that   the plaintiff and defendant No.1 have filed a collusive suit to 
+   evict   defendant   No.2   as   there   is   matrimonial   dispute   between 
+   defendant   No.1   &amp;   2.     It   is   further     stated   that   the   lease     dated 
+   26.06.2012 was for  eleven months  with effect from 01.07.2012, but 
+   suit was filed before the expiry of the lease   as such the suit is pre 
+   mature. It is also   stated that   the lease deed is   a sham document 
+   and is   forged and fabricated. It is not   denied that the defendants 
+   are   husband   and   wife     but   it   was     denied   that   defendants   were 
+   jointly   inducted as tenant.   It is stated that defendant  No.2   was 
+   made to  sign certain documents by defendant No. 1 in the fiduciary 
+   capacity.   It   is   further   alleged   that   defendant   No.   1     obtained   the 
+   signatures of defendant No.2 on the pretext that they   were for the 
+   benefit of  herself and their child and  she  (defendant No. 2) signed 
+   the same being the wife of defendant No.1. The rent agreement   was 
+   denied   so   was   the   rate   of   rent.     It   is   also   stated   that   as   plaintiff 
+   received rent after  the  issuance of   legal notice,  it amounts to  the 
+   waiver of the legal notice.   It was denied that there are  unequivocal 
+   admissions by defendant No.2 which entitle the plaintiff to a decree. 
+</p><p id="p_11">11. I have heard Ld. Counsel for  parties and perused the record. 
+</p><p id="p_12">12.   Order 12 rule 6 CPC which relates to judgment on admission, is as 
+   follows:­
+   R.6.   Judgment   on   admissions.­­(1)  Where   admissions   of   fact   have  
+   been made either in the pleading or otherwise, whether orally or in  
+   writing   the   Court   may   at   any   stage   of   the   suit,   either   on   the  
+   application of any party or of its own motion and without waiting for  
+   the determination of any other question between the parties, make 
+   such order or give such judgment as it may think fit, having regard to  
+   such admissions. 
+</p><p id="p_13">   (2) Whenever a judgment is pronounced under sub­rule (1) a decree  
+   shall be drawn up in accordance with the judgment and the decree 
+   shall bear the date on which the judgment was pronounced. 
+</p><p id="p_14">13. For passing of a judgment on admission, the admissions required to 
+<span class="hidden_text" id="span_4">                                           5</span>
+
+   have been made  by the defendant  should be  admitting :­
+</p><p id="p_15">   (i) Land Lord and Tenant Relationship.
+</p><p id="p_16">   (ii) Rent of property being above Rs. 3,500/­
+</p><p id="p_17">   (iii) Valid termination of tenancy. 
+</p><p id="p_18">14.     The object of order 12 rule 6 CPC is to give the plaintiff a right to 
+   the speedy judgment, under this rule a party on admission of  other 
+   party can  press for judgment.  Though Court retains its  discretion. 
+</p><p id="p_19">15. The contention of Ld. Counsel for defendant No. 2 is that  judgment 
+   on   admissions   cannot   be   made   in   the   absence   of   unequivocal 
+   admissions. 
+</p><p id="p_20">16.In this regard it has been held in    Charanjit Singh Vs. Kehar Singh, 
+   2006 V AD (Delhi) 66, by Hon'ble High Court of  Delhi that: 
+     "Written   statement   has   to   be   read   and   construed   as   composite  
+   document   and   court   cannot   pick   up   a   single   line   and   treat   it   as  
+   admission out of context in which it is written. The essential feature  
+   of admission is that it should be 'concise and deliberate act'. It must  
+   not be something which was not intended and was not the intention  
+   of   the   party.   Pre­requisites   to   admissions   are   unconditional,  
+   unambiguous and intend the same  to be read as admissions."
+</p><p id="p_21">17. Thus,  in view of the above judgment the whole Written Statement 
+   has to be perused to see whether there are admissions on part of the 
+   defendant.   
+</p><p id="p_22">18.  In  order to invoke the provisions of Order 12 Rule 6 CPC,  the Court 
+   has to scrutinize the pleadings in totality   and ignore evasive and 
+   unspecific denial either as to relationship or as to service of notice or 
+   as to the nature of tenancy, as held in Pooja Aggarwal Vs. Sakata Inx 
+   (India) Ltd., 2008 X 10 AD (Delhi) 846. 
+</p><p id="p_23">19.   The contention of defendant No. 1 is  that he had vacated the suit 
+   premises  on 01.07.2012. It is also  contended on  behalf of defendant 
+   No.1 that he   informed the plaintiff that he vacated the suit premises 
+   on 01.07.12  in his reply to the legal notice.  It was  also contended 
+   that   defendant   No.   1   had   cleared     the   outstanding     rent   w.e.f. 
+</p><span class="hidden_text" id="span_5">                                               6</span>
+
+<p id="p_24">      01.07.2011   to   30.10.2012   as   such   the   suit   was   not   maintainable 
+      against the defendant No.1. It was further alleged that the defendant 
+      No. 2 was in possession of the suit premises. 
+</p><p id="p_25">20. In  my view the contention of  defendant No. 2, that  she was made 
+      to  sign some blank papers   by defendant No. 1 on the pretext that 
+      they were for her  benefit as well as the  benefit of her child  is of no 
+      consequences as   she being   an educated lady ought to know   the 
+      consequences of signing   blank papers.   Moreover, she (defendant 
+      No.2)     has   not     filed   any   suit   for   cancellation   of   the   said   lease 
+      agreement   allegedly being forged and fabricated as   such the said 
+      contention  in my view are  without merits. 
+</p><p id="p_26">21. As regards the relationship of land lord and tenant , defendant No.1 
+      did  not     deny   the   same,          defendant       No. 2   stated       that     suit 
+      premises were taken on rent by  defendant No.1 for defendant No. 2 
+      his wife   and child and rent was being paid by defendant No.1 as 
+      such there is no   specific denial of land lord/ tenant relationship by 
+      defendant No. 2 also,  the rent deed is signed by  both the defendants 
+      as such the land lord/ tenant relationship between the parties   is 
+      admitted.   As   regard   the   rate   of   rent   also     being   Rs.     25,000/­ 
+      defendant   No.1     admitted   the   same   in   para   4   of  WS   on   merits. 
+      Defendant  No. 2 made evasive denial,   of the same, however, she 
+      admitted   her   signatures   on   the   lease   deed   which   is   a   registered 
+      documents,   as such the rate of rent being above Rs. 3,500/­ is not 
+      disputed, the suit premises thus, do not fall within the purview of 
+      <a href="/doc/679372/" id="a_2">Delhi Rent Control Act</a>. 
+</p><p id="p_27">22.            Ld.   Counsel   for   defendant   No.   2     stated   that     the   lease 
+      agreement was for a period of  11 months but the suit has been filed 
+      prior  to  the  expiry  of the  said  lease  deed  as  such  the  suit  is    pre 
+      mature.   In this regard it is pertinent to note that <a href="/doc/515323/" id="a_3">Section 107</a> of the 
+      Transfer of  Property Act  provides that lease of immovable property 
+      from   year   to   year   can   only   be   made   by   a   registered   instrument. 
+      <a href="/doc/1945567/" id="a_4">Section 71</a> (1) (d) of the   <a href="/doc/1489134/" id="a_5">Registration Act</a> makes  it is mandatory 
+<span class="hidden_text" id="span_6">                                               7</span>
+
+      that lease deed is to be   registered in case   of a lease   for   one 
+      year   or   more,    and   <a href="/doc/1768154/" id="a_6">Section   49</a>   of   the   Registration   Act   bars     the 
+      receiving in evidence of a document of transfer which is required to 
+      be   registered   U/s   17   of   the   <a href="/doc/1489134/" id="a_7">Registration   of     Act</a>   or     <a href="/doc/515323/" id="a_8">Transfer   of 
+      Property Act</a> but is not registered.
+</p><p id="p_28">23.            The   lease   agreement   between   the     parties     is     a   registered 
+      documents,    clause   15 of which   provides   termination of lease in 
+      case the rent is not paid  regularly for two months,  lease deed would 
+      stand     automatically   determined.   Ld.   Counsel   for     plaintiff 
+      contended that   in  view of   Clause   15,    as there    was   default in 
+      payment   of     rent,   the   lease         deed       stood     automatically 
+      determined,  as such the contentions of  defendant No. 2  is without 
+      any merits. 
+</p><p id="p_29">24.        As regards the service of legal notice, defendant No. 1 admitted 
+      the     receipt of notice,   the   defendant No. 2 did not         specifically 
+      deny the service of legal notice.  Even if, it is,  assumed  for the sake 
+      of   arguments     that   legal   notice   was     not   served   on 
+      defendant No.2,    although there is no  specific denial of the same, 
+      in that case the tenancy     stood   determined by filing of the suit as 
+      held       in  M/s     Jeewan   Diesels   &amp;     Electricals   Ltd. Vs.    Jasbir   Singh  
+      Chadha     (HUF)  &amp;    Another 183,   2011    DLT    712.  Thus    in  my 
+      view   the     tenancy   was     duly   terminated   vide   legal   notice   dated 
+      05.10.2013.
+</p><p id="p_30">25.      It is further contended by defendant No. 2 that there was  waiver 
+      of legal notice as the plaintiff has accepted the rent after the service 
+      of legal notice is without  any merits as waiver  can  be  considered 
+      only   if   some   act   is     done   by   the     person   giving   notice   showing 
+      intention to treat  lease as continued. 
+</p><p id="p_31">26.      <a href="/doc/756924/" id="a_9">Section 113</a> of Transfer Property  Act provides  "that  a notice 
+      given under <a href="/doc/1134872/" id="a_10">section 111</a>, clause (h), is waived, with the express or  
+      implied consent of the person to whom it is given, by any act on 
+<span class="hidden_text" id="span_7">                                        8</span>
+
+  the part of the person giving it showing an intention to treat the  
+  lease as subsisting".  
+</p><p id="p_32">27.  Thus, according to 113 of <a href="/doc/515323/" id="a_11">Transfer of Property Act</a>, notice given 
+  under <a href="/doc/1134872/" id="a_12">section 111</a> (h) of the Act may be treated as having been 
+  waived only if there is some act on part of the person giving the 
+  notice showing an intention to treat the lease as continuous.  
+</p><p id="p_33">28.In this regard it has been held in  case titled as under :­ "<a href="/doc/265203/" id="a_13">Sarup 
+  Singh Gupta vs. S Jagdish Singh</a> (2006) 4 Supreme Court Cases 
+  205". 
+</p><p id="p_34">    "Rent   Control   and   Eviction­­­   Notice­­­Waiver   of   notice   to 
+  quit­­­­­­ Acceptance of rent by landlord after services of notice  
+  to   quit   and   before   initiation   of   eviction   suit­­­   if   amounts   to  
+  waiver   of   notice­­­   Inference   of   such   waiver­­­   Nature   of 
+  question   as   to­­­   Held,  for   inference   of   such   waiver,  necessary 
+  condition is that there must be some act on the part of person  
+  giving   notice   which   evinces   an   intention   to   treat   the   lease   as  
+  subsisting­­­ Further, the express or implied consent of person to  
+  whom such notice is given must also be established­­­Whether 
+  such intention to waive the notice has been shown by the act  
+  concerned   is   essentially   a   question   of   act,   and   court   must  
+  consider all relevant facts and circumstances­­­ Mere fact that  
+  rent has been tendered and accepted  after service of such notice,  
+  cannot   be   determinative­­­   There   has   to   be   other   evidence   to  
+  prove or establish  that the landlord  intended such waiver­­­ In  
+  present case, no such intention had been evinced by   acceptance  
+  of such rent by the landlord, since even after accepting the rent  
+  tendered,  landlord  did   file   a  suit   for   eviction,  and  even   while  
+  prosecuting the suit accepted rent which was paid to him by the  
+  tenant­­­   In   any   case,   even   if   rent   was   neither   tendered   nor  
+<span class="hidden_text" id="span_8">                                            9</span>
+
+    accepted,   landlord   in   event   of   success   would   be   entitled   to 
+    payment of arrears of rents­­­ <a href="/doc/515323/" id="a_14">Transfer of Property Act</a>, 1882­­­ 
+    Ss. 113 and 111 (h)­­­ Applicability". 
+</p><p id="p_35">29.          In my view the contention of Ld. Counsel for defendant 
+    No.2  that as the plaintiff has  accepted the rent  after service of 
+    legal notice, as such, there was waiver of notice,  is meritless, as 
+    mere   acceptance   of   rent   after   the   notice     cannot   be   a 
+    determinative   factor.   The   landlord   is   entitled   to   use   and 
+    occupation charges of the premises from the tenant/defendant 
+    till he vacates the suit premises.  In this regard it has been held 
+    further  in  "Sarup Singh  (SUPRA) as follows: 
+</p><p id="p_36">     "that receipt of rent after termination of tenancy can be taken as 
+    charges towards use and occupation because after all a tenant is  
+    bound to pay charges till he vacates the tenanted premises."
+</p><p id="p_37">30.  Thus   as   there   is   no   written     notice   given   to   defendant     No.2   to 
+    plaintiff   to   renew   the   tenancy,   the   contention   of     defendant   that 
+    acceptance of rent after  the determination of tenancy was waiver of 
+    notice   is   rejected.  The   payment   made     by   defendants   to   plaintiff 
+    after   the   termination   of   tenancy   would   not   amount   to   waiver   of 
+    notice  as there  is    no  express or    implied  consent  by plaintiff   to 
+    waive the notice and in fact the filing of the present suit  shows the 
+    intention of plaintiff not to continue the  defendants as tenants.  
+</p><p id="p_38">31.  In  the   present   case   admittedly     there   is   a     registered   lease   deed 
+    executed between the parties and  after the expiry of the lease deed 
+    dated 26.06.2012 and notice sent for  termination of tenancy,  there 
+    exists  no subsisting tenancy. Thus, on the basis of pleadings of the 
+    parties   and     provisions   under   order   12   rule   6     CPC,   <a href="/doc/80042/" id="a_15">Section   106</a>, 
+    <a href="/doc/515323/" id="a_16">Section 107</a>, <a href="/doc/756924/" id="a_17">Section 113</a> of Transfer of Property Act, <a href="/doc/181916/" id="a_18">Section 17</a>   (1) 
+</p><p id="p_39">    (d) and 49 of the <a href="/doc/1489134/" id="a_19">Registration Act</a>,   as well as taking   stock of the 
+    submissions and  rival submission, defendants were inducted  in the 
+    suit   premises   by   the   plaintiff   vide   a   registered   lease     deed   dated 
+<span class="hidden_text" id="span_9">                                              10</span>
+
+     26.12.2012 which was terminated  vide legal notice dated 05.10.2012. 
+     Admittedly the monthly rent of the suit property was more than Rs. 
+     3,500/­   as such the   provisions of <a href="/doc/679372/" id="a_20">Delhi Rent Control Act</a> are not 
+     applicable. 
+</p><p id="p_40">  32.  Fore   the   foregoing   reasons   plaintiff   is   entitled   to   judgment   on 
+     admissions. The application under order 12 rule 6 CPC,   is   thus, 
+     allowed,   the   suit   of   plaintiff   for   possession   in   respect   of   the   suit 
+     property     is   decreed     in   favour   of   the   plaintiff   and   against   the 
+     defendant   comprising   of   entire   IInd   Floor   of   property   No.     F   25 
+     Lajpat  Nagar  I, New Delhi, drawing cum  dinning  room,   one  bed 
+     room, two toilets, Kitchen  &amp; balcony on both the sides. Decree sheet 
+     be prepared.   Defendants   are granted one months time from the 
+     date of order to hand over the vacant and peaceful possession of the 
+     suit premises to the plaintiff.   
+</p><p id="p_41">  33. As far as the prayer for recovery and  damages are concerned it is a 
+     matter   of   trial     as   there   are   no   admissions   in   this   regard     by   the 
+     defendants.   Defendant   No.  1  has   alleged   that   he   vacated   the  suit 
+     premises on 01.07.2012 as such he is not liable to  pay the damages. 
+     The   contention of plaintiff is that both the   defendants are joint 
+     tenants   and   thus   they   are   jointly   liable   to   pay   the   damages. 
+     Defendant No. 2 also not specifically admitted default in payments 
+     of rent. She has further stated that it was defendant No. 1 who shall 
+     be liable  to pay the rent. Thus, the proceedings would continue for 
+     the said purpose.
+</p><p id="p_42">  34. To come up now for admission /denial of documents and framing of 
+     issues on 10.02.2013.  </p><pre id="pre_2">
+Announced in the open Court            (POONAM CHAUDHARY)
+on 30.10.2103                ADJ­03, SAKET COURT COMPLEX,
+                                                NEW DELHI     
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

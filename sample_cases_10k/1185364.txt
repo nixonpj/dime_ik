@@ -1,0 +1,255 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>A.Sundaram vs The Chairman on 8 February, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1185364/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1185364/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1185364/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1185364/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Tamil%20Nadu%20Electricity%20Board">Tamil Nadu Electricity Board</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamilnadu%20electricity%20board%20">tamilnadu electricity board </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamil%20electricity%20board%20">tamil electricity board </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=karur">karur</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=junior%20engineer">junior engineer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=preceding%20year">preceding year</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=certiorari">certiorari</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=124">124</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=127">127</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">A.Sundaram vs The Chairman on 8 February, 2010</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED: 08.02.2010
+
+CORAM
+
+THE HONOURABLE MR.JUSTICE M.VENUGOPAL
+
+W.P.Nos.2176 to 2178 of 2003, 39364,39365, 45512, 45513, 38901, 38394 of 2002
+and
+W.P.M.P.Nos.66450 and 66451 of 2002
+in
+W.Ps.45512 and 45513 of 2002
+			 	
+
+A.Sundaram		   		   ...   Petitioner in 
+W.Ps.2176 to 2178/03
+R.Mariappan 							 ...   Petitioner in 
+								W.Ps.39364, 39365/02
+Nammalvar						         ...   Petitioner in 
+								W.Ps.45512, 45513/02
+K.Ammayappan						           ... Petitioner in
+								 W.Ps.38901,38394/02
+vs. 
+1.The Chairman
+   Tamil Nadu Electricity Board,
+   Anna Salai,
+   Chennai 600 002.
+
+2.The Assistant Engineer,
+   (Operation &amp; Maintenance)
+   Tamil Nadu Electricity Board,
+   Puliyur, Karur District.
+
+3.The Junior Engineer,
+   (Operation &amp; Maintenance)
+   Tamil Nadu Electricity Board,
+   Puliyur, Karur District.					....Respondents 							      		in all W.Ps.</pre>
+
+<p id="p_1">Prayer in W.Ps.2176 to 2178/03, 39364, 39365, 38901 and 38394/02:Writ Petitions filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of The Constitution of India praying for the issuance of a writ of Certiorari to call for the records in Letter No.c.kp./bgh-,/fh.-g[ypa{h;-nfh.t.gp.-vz; 122/2002. 127/2002, 125/2002, 123/2002, 121/2002, 124/2002 and 128/2002 respectively dated 29.8.2002 issued by the third respondent herein and quash the same.
+</p><p id="p_2">Prayer in W.Ps.45512, 45513/02:Writ Petitions filed under <a href="/doc/1712542/" id="a_2">Article 226</a> of The Constitution of India praying for the issuance of a writ of Certiorari to call for the records in Letter No.A.E./O&amp;M/Puliyur/Ko.Va.P/No.158/02 and 146/02 respectively dated 13.11.2002 issued by the second respondent and quash the same.
+</p>
+<pre id="pre_2">	For Petitioner	   :   Mr.A.S.Balaji
+	in all W.Ps.
+	For Respondents :   Mr.P.Srinivas (TNEB)
+	in all W.Ps.
+
+
+C O M M O N    O R D E R
+</pre><p id="p_3">	The petitioners have filed these writ petitions for issuance of a writ of Certiorari in calling for the records in Letter No.c.kp./bgh-,/fh.-g[ypa{h;-nfh.t.gp.-vz; 122/2002. 127/2002, 125/2002, 123/2002, 121/2002, 124/2002 and 128/2002 respectively dated 29.8.2002 issued by the third respondent herein and Letter No.A.E./O&amp;M/Puliyur/Ko.Va.P/No.158/02 and 146/02 respectively dated 13.11.2002 issued by the second respondent, praying for a direction to quash the same.	
+</p><p id="p_4">	2. The petitioners were issued with a demand notice towards payment of electricity charges as per the notice of demand in Letter Nos.c.kp./bgh-,/fh.-g[ypa{h;-nfh.t.gp.vz;122/2002,127/2002,125/2002, 123/2002, 121/2002, 124/2002 and 128/2002 respectively dated 29.8.2002 and Letter Nos.A.E./O&amp;M/Puliyur/Ko.Va.P/No.158/02 and 146/02 respectively dated 13.11.2002.  It appears that in the said notices, respective payments of  Rs.11,250/-, 11,250/-, 90,000/-, 18750/-, 11,250/-, 37,500/-, 7500/-, 18750/-, 18,750/- have been demanded towards Electricity charges calculated retrospectively or retroactively for three years at the rate of Rs.250/- per Horse Power and the said notices also specify that the respective sum of Rs.1,875/-, 1875/-, 15,000/-, 3,125/-, 1875/-, 250/-, 250/-, 3,125/-, 3125/- will have to be paid every six months in the month of August and February every year without fail and also speaks to the effect that in default of the said payment within 30 days from the date of the demand notices, the service connections will be disconnected forthwith.
+</p>
+<p id="p_5">	3. The core contention put forward on the side of the petitioners is that after the formation of T.N.Electricity Regulatory Commission held by a Chairman and two others, all the powers of fixation of tariffs, collection of tariffs and all other related power vests only with the Commission  and not with the respondents and in short, the Junior Engineer, (Operation &amp; Maintenance) and the Assistant Engineer, (Operation &amp; Maintenance), Tamil Nadu Electricity Board had issued the impugned demand notices in question without any jurisdiction  in an arbitrary fashion and the same are per se illegal in the eye of law and therefore prays for allowing these writ petitions to prevent an aberration of justice.
+</p>
+<p id="p_6">	4. At this juncture, the learned counsel for the petitioners brings it to the notice of this Court that in W.P.No.761 of 2003 this Court on 04.12.2008 in a similar matter has quashed the demand notice dated 13.11.2002 (concern in the writ petition) in so far as it relates to the demand of payment of  Rs.30,000/- towards electricity charges for three years preceding the date of the issuance of the said proceedings, etc., and hence that order will cover the present case equally on all force.  In this connection, it is not out of place for this Court to pertinently point out that a perusal of the order passed by this Court in W.P.No.761 of 2003 dated 04.12.2008 candidly points out that 'it is open to the appropriate authorities to fix the electricity tariff for the preceding years after issuing the necessary notices to the members of the petitioner Society and after giving them an opportunity to put forth their case in accordance with law and allowed the writ petition.'
+</p><p id="p_7">	5. It is to be borne in mind that the principles of natural justice are not a codified set of law.  But an Authority including a judicial or administrative or quasi judicial Authority will have to act with reasonableness, fairness and in short, should act according to conscience, i.e., to pass orders even administratively according to conscience by adhering to principles of hearing the other side after providing due opportunities to the parties.  In modern parlance the principles of Natural Justice means fairness or reasonableness. In natural sense it is not the edicts of statute but however it has found a place in our system of jurisprudence the justice delivery system. The term Natural justice has not been defined anywhere. Further, the Natural justice is natural sense of what is right and wrong.  The requirement of hearing both sides and arriving at a decision applies to the administrative orders also being passed by the departmental authorities concerned.  Significantly the term Natural Justice stands for Justice according to conscience.
+</p><p id="p_8">	6. It is worth to recall the 'from seneca (about 4 B.C. -A.D.56)  Philosopher who was tutor to Emperor Nero, mentions that 'both sides must be heard'  
+
+	'whoever should adjudge anything, the other party not having been heard:even though he should decide fairly, it would scarcely be fair'.   	
+</p><p id="p_9">	7. Be that as it may, taking note of the fact that the impugned demand notices dated 29.08.2002 and 13.11.2002 respectively have been issued without providing adequate opportunity to the petitioners or their members in regard to the demand of Electricity charges so made and hence this Court quashes the impugned demand notices mentioned supra and further this Court on the basis of Equity, Fair play justice and according to conscience directs the Authorities to determine the electricity tariff for the preceding years after serving necessary notices to the members of the Society and after hearing their objections in putting forth their case, then it is open to the Authorities to pass necessary orders on merits in the manner known to law and in accordance with law within a period of eight weeks.  However, the members of the petitioner Society are directed to pay the revised tariff applicable to them from the date of impugned proceedings.
+</p><p id="p_10">	8. With these directions, the writ petitions are disposed of.  No costs.  The connected miscellaneous petitions are closed.
+</p>
+
+
+
+
+
+
+
+
+
+<p id="p_11">vri
+
+
+To
+</p><p id="p_12">1.The Chairman
+   Tamil Nadu Electricity Board,
+   Anna Salai,
+   Chennai 600 002.
+</p>
+<p id="p_13">2.The Assistant Engineer,
+   (Operation &amp; Maintenance)
+   Tamil Nadu Electricity Board,
+   Puliyur, Karur District.
+</p>
+<p id="p_14">3.The Junior Engineer,
+   (Operation &amp; Maintenance)
+   Tamil Nadu Electricity Board,
+   Puliyur, 
+   Karur District
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

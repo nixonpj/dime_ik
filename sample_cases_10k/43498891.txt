@@ -1,0 +1,2071 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Last Seen Evidence vs Unknown on 20 July, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/43498891/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 63 docs 
+      
+        - [<A HREF="/search/?formInput=cites:43498891">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1560742/">Section 302 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/167068104/">Rohtash Kumar vs State Of Haryana on 29 May, 2013</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1515299/">Sidhartha Vashisht @ Manu Sharma vs State (Nct Of Delhi) on 19 April, 2010</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/43498891/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/43498891/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=last%20seen">last seen</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20hari%20singh"> hari singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=uma%20devi%20%3A%20judgment">uma devi : judgment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=302/34">302/34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ram%20prakash">ram prakash</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%2034%2C302">ipc 34,302</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=302/34%20ipc">302/34 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.302%20and%20s.34">s.302 and s.34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=couples">couples</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=last%20seen%20evidence">last seen evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=false%20information">false information</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=independent%20witness">independent witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20state">delhi state</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=evidance%20cases">evidance cases</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=circumstance%20evidence">circumstance evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=air%202010%20">air 2010 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=time%20of%20death">time of death</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=solitary%20circumstance">solitary circumstance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Gun%20shot">Gun shot</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=seen%20last%20with%20the%20deceased%20%20">seen last with the deceased  </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Last Seen Evidence vs Unknown on 20 July, 2013</div><div class="doc_author">Author: Sh. Vimal Yadav</div>
+
+<pre id="pre_1">     In the Court of Sh. Vimal Kumar Yadav, Additional Sessions 
+           Judge­II, South District, Saket Court, New Delhi.
+
+Session Case No. 50/2011.
+
+In the matter of :
+
+State 
+
+Versus
+
+1.  Vikas Tokas @ Vicky,
+S/o Amar Singh,
+R/o H. No. 157, Munirka, New Delhi.
+
+
+2.  Inderjeit,
+S/o Narayan Singh,
+VPO Farmana, PS Kherkhoda,
+District Sonepat, Haryan.
+
+
+FIR No.                   : 139/2011.
+Under section.            : 302/34 <a href="/doc/1569253/" id="a_1">IPC</a>.
+Police Station            : Vasant Vihar.
+
+Date of assignment       : 11.08.2011.
+Reserved for order on   : 05.06.2013.
+Date of decision         : 16.07.2013.
+
+
+                                  JUDGMENT
+</pre>
+<p id="p_1">1.       A leisurely evening stroll by Hari Singh placed him in a very 
+
+unusual   situation   where   he   became   a   witness   in   a   murder   case. 
+
+
+</p><p id="p_2">State v. Vikas Tokas and Anr.                                         Page No.1/43
+ While   walking   near   Baba   Gangnath   Mandir   at   about   8.00pm   on 
+
+08.5.2011,   he   heard   a   sound   of   tyre   burst   and   thereafter   heard   a 
+
+person pleading for help to save him.  Almost immediately two young 
+
+men were spotted by him, who came running from inside the park 
+
+from the direction from where the cry to save was heard.  Hari Singh 
+
+was   able   to   see   a   person   in   the   park   who   was   lying   in   injured 
+
+condition, apparently, being shot.  Trepidated by the said situation, he 
+
+straightaway   went   to   the   police   station   Vasant   Vihar   which   was 
+
+nearby and reported the matter.  Police personnels came at the spot 
+
+and   found   a   person   in   injured   condition   and   took   him   to   AIIMS 
+
+Trauma Centre (JPNATC).  However, the victim could not be saved 
+
+as he was declared brought dead by the doctors.   The information 
+
+provided by Hari Singh was reduced into writing which formed the 
+
+basis of FIR no.139/2011 under <a href="/doc/1560742/" id="a_2">sections 302</a>/<a href="/doc/37788/" id="a_3">34</a> IPC.  
+
+
+
+</p><p id="p_3">2.      The investigations carried out by the police led to the identity 
+
+of   the   deceased.     The   leads   available   to   the   police   pointed   out 
+
+towards the friends of the deceased i.e. accuseds Vikas Tokas and 
+
+Inderjeet.  Both of them were apprehended.  Based upon the material 
+
+gathered during the investigation, which included seizure of a cap, 
+
+blood stained earth, countrymade pistol, seizure of the clothes worn 
+
+by the accused persons etc., a final report under <a href="/doc/1412034/" id="a_4">section 173</a> Cr.P.C. 
+
+</p><pre id="pre_2">State v. Vikas Tokas and Anr.                                              Page No.2/43
+ was filed by the police.  
+
+
+
+</pre><p id="p_4">3.      After compliance of the requirement under <a href="/doc/1613898/" id="a_5">section 207</a> Cr.P.C. 
+
+the case was committed to the sessions.   Based upon the material 
+
+placed on record, a prima facie case under <a href="/doc/1560742/" id="a_6">section 302</a>/<a href="/doc/37788/" id="a_7">34</a> IPC was 
+
+found against both the accuseds and accordingly charge was framed. 
+
+Both the accused persons pleaded not guilty to the same when it was 
+
+read over and explained to them.  It is pertinent to mention here that 
+
+a supplementary chargesheet too was filed which was necessitated by 
+
+the receipt of the FSL result.
+</p>
+<p id="p_5">
+
+</p><p id="p_6">4.      In   order   to   substantiate   the   allegations   against   the   accused 
+
+persons  prosecution   intended to examine thirty  witnesses, as such 
+
+examined PW­1 Dr. Devendra Garg, PW­2 HC Ramesh, PW­3 Hari 
+
+Singh, PW­4 Dr. B.K. Mohanty, PW­5 Dr. R.K. Kapoor, PW­6 Smt. 
+
+Uma   Devi,   PW­7   Ram   Prakash,   PW­8   Smt.   Chanderwati   Tokas, 
+
+PW­9 SI Naresh Kumar, PW­10 HC Kapil, PW­11 Ct. Jaspal, PW­12 
+
+Ct.   Ajay   Kumar,   PW­13   Sh.   Sanjeev   Kumar,   Metropolitan 
+
+Magistrate, PW­14 Ct. Kuldeep, PW­15 Ct. Manoj Dahiya, PW­16 M 
+
+N   Vihayan,   PW­17   SI   Mahesh   Kumar,   PW­18   Ct.   Jagdish   Singh, 
+
+PW­19 SI Manoj Kumar, PW­20 Sh. Israr Babu, PW­21 Ct. Ashok, 
+
+PW­22   Inspector   Vijay   Pal,   PW­23   HC   Gulab   Singh,   PW­24   Dr. 
+
+State v. Vikas Tokas and Anr.                                           Page No.3/43
+ Raghvendra   Bagla,   PW­25   Sh.   Arvind,   PW­26   Dr.   Anil   Kumar, 
+
+PW­27 Sh. Puneet Puri, PW­28 Dr. Hari Shankar Niranjan, PW­29 
+
+HC Shriram and PW­30 Dr. Rajender Kumar.   The evidence coming 
+
+on   record   was   put   to   the   accused   persons   in   order   to   have   their 
+
+versions of the facts and that is how their statements under <a href="/doc/767287/" id="a_8">section 
+
+313</a>   Cr.P.C.   were   recorded.     Both   the   accused   persons   denied   the 
+
+allegations/   evidence   against   them   and   stated   that   they   have   been 
+
+falsely implicated in this case.  Vikas has gone to the extent of saying 
+
+that   he   does   not   even   know   anybody   by   the   name   of   Lalit,   the 
+
+deceased, and in any case he was not on visiting terms with Lalit 
+
+Kumar.  None of the accused persons opted to lead evidence in their 
+
+defence.
+</p>
+<p id="p_7">
+
+</p><p id="p_8">5.      Arguments   were   raised   by   the   learned   Additional   Public 
+
+Prosecutor for the State and counsels for the accused persons.  I have 
+
+considered   the   contentions   so   raised   and   have   gone   through   the 
+
+record.
+</p>
+<p id="p_9">
+
+</p><p id="p_10">6.      There is practically no eye witness to the incident and as such 
+
+prosecution has attempted to drive home its case against the accused 
+
+persons through circumstantial evidence and attending circumstances 
+
+to it.   The circumstantial evidence which has been relied upon and 
+
+State v. Vikas Tokas and Anr.                                              Page No.4/43
+ arrayed, revolve around the following factors i.e. last seen evidence; 
+
+seizure of blood stained earth, stone and clothes; motive of offence; 
+
+recovery of the weapon with which the offence was committed, the 
+
+pointing out memo qua the place of incident and the place where the 
+
+weapon of offence was hidden etc. 
+
+
+
+</p><p id="p_11">7.      The mother and uncle of the deceased i.e. PW­6 Uma Devi and 
+
+PW­7 Ram Prakash are the witnesses to the fact that deceased was 
+
+seen alive for the last time in the company of the accused persons. 
+
+Uma   Devi   has   stated   that   it   was   accused   Inderjeet   who   had 
+
+telephonically called her son (deceased) on the date of incident and 
+
+subsequently,   visited   in   the   evening   alongwith   co­accused   Vikas 
+
+Tokas whom she had seen standing in the alley outside her home, and 
+
+her son then accompanied both the accused persons in the evening of 
+
+07.05.2011.  
+</p>
+<p id="p_12">
+
+</p><p id="p_13">8.      Uncle of the deceased Ram Prakash, who was going to fetch 
+
+petrol   for   his   motorcycle   had   seen   three   persons   i.e.   deceased 
+
+alongwith accused persons standing and talking to each other on the 
+
+road near Baba Gangnath Mandir and had even instructed his nephew 
+
+to go back home early.  So far as this aspect of the testimony of the 
+
+last seen of these two witnesses is concerned, they have steadfastly 
+
+State v. Vikas Tokas and Anr.                                        Page No.5/43
+ maintained it in their examination in the court and have come out 
+
+unscathed   and   unruffled   from  the  onslaught  of  cross­examination. 
+
+Thus, the prosecution is able to establish that it was accused persons 
+
+with whom deceased was seen alive for the last time.   The time of 
+
+such spotting by Ram Prakash is very close to the time when the 
+
+murder took place.  Thus, probable inference which can be drawn is 
+
+that   the   victim   was   alive   when   seen   last   in   the   company   of   the 
+
+accuseds.
+</p>
+<p id="p_14">
+
+</p><p id="p_15">9.      The   motive   of   the   offence   seems   to   be   a   bit   hazy   but   the 
+
+explanations/ reasons, which may or may not be sound enough are 
+
+there.     The   evidence   regarding   the   existence   of   a   motive   which 
+
+operates in the mind of the accused is very often very limited, and 
+
+may   not   be   within   the   reach   of   others.     The   motive   driving   the 
+
+accused to commit an offence may be known only to him and to no 
+
+other.   In a case of circumstantial evidence, motive may be a very 
+
+relevant factor.  However, it is the perpetrator of the crime alone who 
+
+is aware of the circumstances that prompted him to adopt a certain 
+
+course of action, leading to the commission of the crime.  Therefore, 
+
+if the evidence on record suggests adequately the existence of the 
+
+necessary motive required to commit a crime, it may be conceived 
+
+that   the   accused   has   in   fact,   committed   the   same   (Vide:  Subedar 
+
+State v. Vikas Tokas and Anr.                                               Page No.6/<a href="/doc/1107450/" id="a_9">43
+ Tewari  v.  State of UP  &amp; Ors</a>., AIR 1989 SC 733;   <a href="/doc/3536064/" id="a_10">Suresh Chandra 
+
+Bahri  v.  State of Bihar</a>, AIR 1994 SC 2420; and  <a href="/doc/92638458/" id="a_11">Dr. Sunil Clifford 
+
+Daniel v. State of Punjab</a>, (2012) 11 SCC 205).  <a href="/doc/1844193/" id="a_12">In State of Himachal 
+
+Pradesh  v.  Jeet Singh</a>, (1999) 4 SCC 370, the court held that it is a 
+
+sound principle to remember that every criminal  act was done with a 
+
+motive, but its corollary is not that no criminal offence would have 
+
+been   committed   if   the   prosecution   has   filed   to   prove   the   precise 
+
+motive of the accused to commit it and the prosecution succeeded in 
+
+showing   the   possibility   of   some   ire   for   the   accused   towards   the 
+
+victim.  This court held that it is also impossible for the prosecution 
+
+to unravel the full dimension of the mental disposition of an offencer 
+
+towards the person whom he offended.   Refence in <a href="/doc/1928406/" id="a_13">Nathuni Yadav 
+
+and Anr. v. State of Bihar and Anr</a>., (1998) 2 SCC 238.  Nonetheless 
+
+it has been testified that accused Inderjeet intended to shift to the 
+
+house of the deceased for two weeks or so and had brought some of 
+
+his belongings to the place of the deceased inasmuch as the mother 
+
+of  the  deceased  had permitted him to stay with them.   When the 
+
+deceased, however, came to know about it, he opposed the proposal 
+
+and had an altercation with Inderjeet  which, in addition to the fact 
+
+that the deceased was unemployed and was eating out of the earnings 
+
+of the accused persons could be the two reasons/ motives which were 
+
+available with the accused persons to eliminate the deceased.   The 
+
+State v. Vikas Tokas and Anr.                                           Page No.7/43
+ third   could   be   the   fight   which   took   place   between   deceased   and 
+
+accused Inderjeet as the latter suspected that the former had stolen 
+
+his mobile phone.   And that  is how things went on complicating. 
+
+Apparently, the motives seem to be shaky, nevertheless, when it is 
+
+appreciated in the light of the fact that the deceased and his widowed 
+
+mother   were   living   in   a   single  room   accommodation   and  in   such 
+
+circumstances, having a third person in the same room may not be 
+
+appreciated   by   the   deceased.     The   opposition   from   the   deceased 
+
+could have acted as a catalyst. Thus, the motive does appear but then 
+
+it   does   not   appear   to   be  as  strong  as   that  it   may  result   in  to the 
+
+murder of the deceased, that too by his own friends.  The other limb 
+
+of the motive which is attributable   to the accused persons is the 
+
+unemployed status of the deceased and the fact that all three used to 
+
+consume alcohol and other drugs together.  The deceased, due to his 
+
+unemployment was unable to contribute in this context but persisted 
+
+to share  the  booty.    These two facts may or may not individually 
+
+constitute   the   motive   but   then   both   these   facts   coupled   with   the 
+
+incident   of   the   stolen   mobile,   if   taken   together   may   constitute   a 
+
+convincing motive for the elimination of the deceased.  This is era of 
+
+fast moving times, where everybody wants everything very quickly. 
+
+Patience is a rare attribute and getting rarer everyday.  The stress and 
+
+strains of the modern day life has driven the persons crazy, who tend 
+
+State v. Vikas Tokas and Anr.                                               Page No.8/43
+ to lose temper at the drop of the hat.  The rising incidents of the so 
+
+called road rage leading to fatalities is a testimony into itself.   An 
+
+empty pot is soon hot and given the socio­economic and educational 
+
+background of the accused, coupled with their history of substance 
+
+abuse, it can be presumed that the reasons given above must have 
+
+contributed to constitute a motive.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">10.     Hari Singh has since not come up to the expectations of the 
+
+prosecution as he has practically disowned the role attributed to him, 
+
+thus   a   vital   link   comes   down   cropping   bringing   the   inception   of 
+
+prosecution's case under clouds.  It was Hari Singh, who, according 
+
+to   the   police   and   his   statement   Ex.PW3/A,   had   set   the   police 
+
+machinery in action.  He had seen the two persons fleeing from the 
+
+scene and spotted the deceased in the pool of blood.   Nevertheless, 
+
+Hari Singh, apparently, seems to have been won over by the accused 
+
+persons inasmuch as the incident took place at about 8.23pm and by 
+
+8.46 or 8.50pm the victim was in the hospital.  This is not possible 
+
+unless somebody reports the matter to the police at once or almost 
+
+immediately.   Since Hari Singh has not denied his signature on his 
+
+purported statement Ex.PW3/A, which brings on record one fact that 
+
+he was associated with the investigation/ incident and most likely in 
+
+the manner in which it has been reflected by the prosecution.  There 
+
+State v. Vikas Tokas and Anr.                                          Page No.9/43
+ was no occasion otherwise to have a signed statement of Hari Singh 
+
+with the police.  He has attempted to wriggle out of the situation by 
+
+saying that he was made to sign on blank papers by the police.   If 
+
+police wanted to have a witness planted then they could have resorted 
+
+to rope in somebody  who could hold his ground then there is no 
+
+reason nor could any be even indicated as to why the police would do 
+
+this   kind   of   act.     Reference   in   this   context   can   be   made   to   the 
+
+judgment in  <a href="/doc/167068104/" id="a_14">Rohtash Kumar v. State of Haryana</a>, 2013 III AD (Cri) 
+
+(SC)   369,   where   it   is   observed   as   follows:   'It   is   settled   legal 
+
+proposition that evidence of a prosecution witness cannot be rejected 
+
+in toto, merely because the prosecution chose to treat him as hostile 
+
+and cross examined him.  The evidence of which witnesses cannot be 
+
+treated as effaced, or washed off the record altogether.  The same can 
+
+be accepted to the extent that their version is found to be dependable, 
+
+upon a careful scrutiny thereof.   <a href="/doc/1967037/" id="a_15">In  State of UP  v.  Ramesh Prasad 
+
+Misra &amp; Anr</a>., AIR 1996 SC 2766, this court held, that evidence of a 
+
+hostile witness would not be rejected in entirety, if the same has been 
+
+given   in   favour   of   either   the   prosecution,   of   the   accused,   but   is 
+
+required   to   be   subjected   to   careful   scrutiny,   and   thereafter,   that 
+
+portion of the evidence which is consistent with the either case of the 
+
+prosecution, or that of the defence, may be relied upon.  (See also: <a href="/doc/1438332/" id="a_16">C. 
+
+Maniappan  &amp;   Ors.   v.   State   of   Tamilnadu</a>,   AIR   2010   SC   3718, 
+
+State v. Vikas Tokas and Anr.                                             Page No.10/<a href="/doc/229664/" id="a_17">43
+ Himanshu @ Chintu v. State (NCT of Delhi</a>), (2011) 2 SCC 36;  and 
+
+<a href="/doc/104710706/" id="a_18">Ramesh Harijan  v.  State of UP</a>, AIR 2012 SC 1979.  Therefore, the 
+
+law permits the court to take into consideration the deposition of a 
+
+hostile witness, to the extent that the same is in consonance with the 
+
+case of the prosecution, and is found to be reliable in careful judicial 
+
+scrutiny.   Hari Singh is residing nearby is a fact and the possibility 
+
+that he was there near at the scene of crime is very probable and 
+
+possible.  Thus his testimony can be relied upon at least to this aspect 
+
+that  matter was reported  to police by him which in turn took the 
+
+victim to the hospital.  
+</p>
+<p id="p_18">
+
+</p><p id="p_19">11.      As stated earlier, there is no direct evidence to the offence of 
+
+murder.  The nearest to the definition of eye witness is Hari Singh, on 
+
+whose   complaint   the   FIR   was   registered   but   he   has   not   exactly 
+
+supported   the   prosecution's   case   in   the   manner   in   which   it   was 
+
+expected of him by the prosecution.  In any case the prosecution has 
+
+otherwise   based   the   case   on   circumstantial   evidence.     The 
+
+circumstances, which the prosecution has relied upon to drive home 
+
+its case as follows:
+</p>
+<blockquote id="blockquote_1">      1. Last seen evidence.
+
+</blockquote><blockquote id="blockquote_2">      2. Moving away from the scene of crime in an unusual manner.</blockquote><p id="p_20">
+
+</p><p id="p_21">      3. Recovery of the weapon of offence at the instance of accused 
+
+State v. Vikas Tokas and Anr.                                         Page No.11/43
+          Vikas Tokas.
+</p>
+<p id="p_22">      4. Residue of gun powder on the hands of Vikas as the entry exit 
+
+         wounds on the body of deceased reflect that he was shot at 
+
+         from point blank range.
+</p>
+<p id="p_23">      5. Pre and post murder conduct and location of the accuseds.
+
+</p><p id="p_24">      6. Pointing  out  memo  qua the place of  offence and where the 
+
+         weapon was hidden.
+</p>
+<p id="p_25">      7. Motive.
+</p>
+<p id="p_26">      8. False information to the mother of the deceased about accident 
+
+         of the deceased, which was not there by Inderjeet.
+
+</p><p id="p_27">      9. Refusal of Vikas to have any connection with deceased, which 
+
+         is contrary to evidence.
+</p>
+<p id="p_28">      10.False information/ suppressing the aspect of injury by Vikas, 
+
+         which he sustained.
+</p>
+<p id="p_29">
+
+</p><p id="p_30">12.      All these circumstances have been brought on record and it is 
+
+submitted   by   learned   Additional   Public   Prosecutor   that   the   same 
+
+unequivocally and unmistakenly indicate that the accuseds have, in 
+
+furtherance   of   their   common   intention,   committed   the   murder   of 
+
+deceased.   The circumstances are indeed loaded heavily against the 
+
+accuseds.     However,   it   is   to   be   ascertained   as   to   how   far   the 
+
+abovereferred   aspects   have   been  proved  and   whether   the   chain   of 
+
+State v. Vikas Tokas and Anr.                                          Page No.12/43
+ events reflect that the accuseds are the real culprits or not.
+
+
+
+</p><p id="p_31">13.     As there  can  be and there are numerous instances when no 
+
+direct ocular evidence is available.   However, a crime can still be 
+
+proved with the aid of available evidence.  The offence or the prime 
+
+fact can be established by and with the aid of secondary facts, that is, 
+
+a series of various facts closely related to the prime fact the natural 
+
+and   obvious   inference   of   which   points   out   towards   the   principal/ 
+
+prime fact constituting the gist of the offence.   Where a case rests 
+
+squarely   on   circumstantial  evidence,  the   inference   of  guilt   can  be 
+
+deduced   justifiably   only   when   all   the   incriminating   fact   and 
+
+circumstances   unequivocally   points   out   towards   the   accused 
+
+person(s) thereby excluding all or any other person(s), Reference in 
+
+this context may made to the judgments in <a href="/doc/102153/" id="a_19">Hukum Singh v. State of 
+
+Rajasthan</a>, (1977) 2 SCC 99, <a href="/doc/444871/" id="a_20">Eradu v. State of Hyderabad</a>, AIR 1956 
+
+SC  316,  <a href="/doc/1945016/" id="a_21">Earabhadrappa  v.  State of  Karnataka</a>, AIR  1983 SC 446, 
+
+<a href="/doc/1585519/" id="a_22">State of  UP  v.  Sukhbasi</a>,  AIR  1985 SC 1224,  <a href="/doc/1597551/" id="a_23">Balwinder Singh  v. 
+
+State of Punjab</a>, AIR 1987 SC 350 and  <a href="/doc/425869/" id="a_24">Ashok Kumar Chatterjee  v. 
+
+State of MP</a>, AIR 1989 SC 1890.
+</p>
+<p id="p_32">
+</p><p id="p_33">14.     <a href="/doc/601158/" id="a_25">In  Bantu  v.  State of Uttar Pradesh</a>, 2008 Suppl. I AD ()S.C.) 
+
+267, the Hon'ble Supreme Court held that 'for a crime to be proved it 
+
+State v. Vikas Tokas and Anr.                                        Page No.13/43
+ is not necessary that the crime must be seen to have been committed 
+
+and must in all circumstances to be prove by direct ocular evidence 
+
+by   examining   before   the   court   those   persons   who   had   seen   its 
+
+commission.  Offence can be proved by circumstantial evidence also. 
+
+Principle   fact   or   factum   probandum   may   be   proved   indirectly   by 
+
+measures of certain inferences drawn from factums probans, that is, 
+
+the evidentiary facts'.  
+</p>
+<p id="p_34">
+</p><p id="p_35">15.     A   reference   can   be   made   to   the   later   decision   in  <a href="/doc/1505859/" id="a_26">Sharad 
+
+Birdhichand   Sarda  v.  State   of   Maharashtra</a>,   1984   Cri   LJ   1738, 
+
+therein, while dealing with circumstantial evidence, it has been held 
+
+that 'onus was on the prosecution to prove that the chain is complete 
+
+and the infirmity of lacuna in prosecution cannot be cured by false 
+
+defence or plea.  The conditions precedent in the words of this Court, 
+
+before conviction could be based on circumstantial evidence, must be 
+
+fully established.   They are: (1) the circumstances from which the 
+
+conclusion of guilt is to be drawn should be fully established.  The 
+
+circumstances concerned must or should and not may be established; 
+
+(2)   the   facts   so   established   should   be   consistent   only   with   the 
+
+hypothesis of the guilt of the accused, that is to say, they should not 
+
+be  explainable   on   any   other hypothesis except  that  the accused is 
+
+guilty;   (3) the circumstances should be of a conclusive nature and 
+
+State v. Vikas Tokas and Anr.                                         Page No.14/43
+ tendency;  (3) the circumstances should be of a conclusive nature and 
+
+tendency;   (4) they should exclude every possible hypothesis except 
+
+the one to be proved;  and (5) there must be a chain of evidence so 
+
+complete as not to leave any reasonable ground for the conclusion 
+
+consistent with the innocence of the accused and must show that in 
+
+all human probability the act must have been done by the accused.'
+
+
+</p><p id="p_36">16.     In  Rishipal  v.  State   of   Uttrakhand,   (Criminal   Appeal   No.
+
+928/2009   decided   on   8th  January,   2013),   the   Supreme   Court   has 
+
+examined   the   law   of   last   seen   and   observed   that   'it   comes   into 
+
+operation   when   there   is   close   proximity   of   the   place   and   time 
+
+between the event when the accused was last seen with the deceased 
+
+and the time of death.  Rational mind should be persuaded to reach 
+
+an irresistible conclusion that once proximity is established, it is for 
+
+the accused to explain how and under what circumstances the victim 
+
+died the homicidal death.  As a matter of abundant caution, in most 
+
+cases,   this   solitary   circumstance   is   not   treated   as   completing   the 
+
+chain   and   to   sustain   conviction'.     In   many   circumstances,   courts 
+
+insists on support by other links.            "<a href="/doc/1445643/" id="a_27">In Mohibur Rahman and Anr. 
+
+v. State of Assam</a>, 2002 VII AD (SC) 94 = (2002) 6 SCC 715, it was 
+
+held that the circumstance of last seen does not by itself necessarily 
+
+lead   to   the   inference   that   it   was   the   accused   who   committed   the 
+
+State v. Vikas Tokas and Anr.                                           Page No.15/43
+ crime.   It depends upon the facts of each case.   Similarly in  <a href="/doc/632204/" id="a_28">Arjun 
+
+Marik  and   Ors.   v.  State   of   Bihar</a>,   1994   Supp   (2)   SCC   372,   the 
+
+Hon'ble   Court   reiterated   that   the   solitary   circumstance   of   the 
+
+accused and victim being last seen will not complete the chain of 
+
+circumstances for the Court to record a finding that it is consistent 
+
+only with the hypothesis of the guilt of the accused.  No conviction 
+
+on that basis alone can, therefore, be founded.  
+</p>
+<p id="p_37">
+</p><p id="p_38">17.     <a href="/doc/1217171/" id="a_29">In  Godabarish Mishra  v.  Kuntala Mishra  and Anr</a>. (1996) 11 
+
+SCC 264, Hon'ble Apex Court declared that the theory of last seen 
+
+together   is   not   of   universal   application   and   may   not   always   be 
+
+sufficient to sustain a conviction unless supported by other links in 
+
+the chain of circumstances.   <a href="/doc/1733815/" id="a_30">In  Bharat  v.  State of MP</a>, 2003 II AD 
+
+(SC)   122   =   (2003)   3   SCC   106;     two   circumstances   on   the   basis 
+
+whereof   the   appellant   had   been   convicted   were   (i)   the   appellant 
+
+having   been   last   seen   with   the   deceased   and   (ii)   Recovery   of 
+
+ornaments made at his instance.  The Court held: 
+</p>
+<p id="p_39">        "...   Mere   non­explanation   cannot   lead   to   the   proof   of   guilt 
+
+against the appellant.   The prosecution has to prove its case against 
+
+the appellant beyond reasonable doubt.  The chain of circumstances, 
+
+in our opinion, is not complete so as to sustain the conviction of the 
+
+appellant..."  
+</p>
+<p id="p_40">State v. Vikas Tokas and Anr.                                           Page No.16/43
+</p><p id="p_41"> 18.     <a href="/doc/585040/" id="a_31">In State of Goa v. Sanjay Thakran and Anr</a>., 2007 III AD (SC) 
+
+349 = (2007) 3 SCC 755 where the Supreme Court held that in the 
+
+absence of any other corroborative piece of evidence to complete the 
+
+chain of circumstances it is not possible to fasten the guilt on the 
+
+accused   on   solitary   circumstance   of   the   two   being   seen   together. 
+
+Reference may also be made to  Bodh Raj alias <a href="/doc/408848/" id="a_32">Bodha  and Ors. v. 
+
+State  of   Jammu   and   Kashmir</a>,  2002 VII  AD  (SC)  341,  where  the 
+
+Court held: "The last seen theory comes into play where the time­gap 
+
+between the point of time when the accused and the deceased were 
+
+seen last alive and when the deceased is found dead is so small that 
+
+possibility of any person other than the accused being the author of 
+
+the crime becomes impossible.  It would be difficult in some cases to 
+
+positively establish that the deceased was last seen with the accused 
+
+when there is a long gap and possibility of other persons coming in 
+
+between   exists.     In   the   absence   of   any   other   positive   evidence   to 
+
+conclude that the accused and the deceased were last seen together, it 
+
+would   be   hazardous   to   come   to   a   conclusion   of   guilt   in   those 
+
+cases...."  
+</p>
+<p id="p_42">In Jaswant Gir v. State of Punjab (2005) 12 SCC 438, it was held that 
+
+it  is not  possible  to  convict Appellant solely on the basis of  'last 
+
+seen'   evidence   in   the   absence   of   any   other   links   in   the   chain   of 
+
+State v. Vikas Tokas and Anr.                                             Page No.17/43
+ circumstantial evidence, the Court gave benefit of doubt to accused 
+
+persons.
+</p>
+<p id="p_43">
+</p><p id="p_44">19.     The parameters or requirements of the standard of evidence 
+
+qua   those   circumstances   would   remain   the   same   as   otherwise 
+
+normally is there in a criminal case.  It has been observed in <a href="/doc/9122/" id="a_33">Bhagat 
+
+Ram  v.  State of Punjab</a>, AIR 1954 SC 621 that 'the circumstances 
+
+with   the   aid   of   which   the   guilt   of   that   accused   is   sought   to   be 
+
+established are required to be proved beyond reasonable doubt.  The 
+
+total and cumulative effect of these circumstances should negate the 
+
+innocence of the accused rather bring home the case against him.'
+
+
+
+</p><p id="p_45">20.     In the case titled as <a href="/doc/1718159/" id="a_34">C. Shenga Reddy v. State of AP</a>, (1996) 10 
+
+SCC   193,   the   Hon'ble   Supreme   Court   of   India   observed   in   the 
+
+following   words   'In   a   case   based   on   circumstantial   evidence,   the 
+
+settled law is that the circumstances from which the conclusion of 
+
+guilt is drawn should be fully proved and such circumstances must be 
+
+conclusive   in   nature.     Moreover,   all   the   circumstances   should   be 
+
+complete and there should be no gap left in the chain of evidence. 
+
+Further the proved circumstances must be consistent only with the 
+
+hypothesis of the guilt of the accused and totally inconsistent with his 
+
+innocence.'
+
+State v. Vikas Tokas and Anr.                                              Page No.18/43
+</p><p id="p_46"> 21.     <a href="/doc/307495/" id="a_35">In Padal Veera Reddy v. State of AP</a>, 1991 SCC (Cri.) 407 SC, 
+
+laid down the test where a case rests on circumstantial evidence then 
+
+such evidence must satisfy the following test '(1) the circumstances 
+
+from   which   an   inference   of   guilt   is   sought   to  be   drawn,   must   be 
+
+cogently and firmly established; (2) those circumstances should be of 
+
+a definite tendency unerringly pointing towards guilt of the accused; 
+
+(3)   the   circumstances,   taken  cumulatively  should   form  a  chain  so 
+
+complete that there is no escape from the conclusion that within all 
+
+human probability the crime was committed by the accused and non 
+
+else;   and   (4)   the   circumstantial   evidence   in   order   to   sustain 
+
+conviction must complete and incapable of explanation of any other 
+
+hypothesis than that of the guilt of the accused and such evidence 
+
+should not only be consistent with the guilt of the accused but should 
+
+be inconsistent with his innocence.'  
+
+
+
+</p><p id="p_47">22.     In Hanumant Govind Nargundkar v. State of MP, AIR 1952 SC 
+
+343, it was observed thus: 10.... It is well to remember that in cases 
+
+where the evidence is of a circumstantial nature, the circumstances 
+
+from which the conclusion of guilt is to be drawn should in the first 
+
+instance be fully established, and all the facts so established should 
+
+be consistent only with the hypothesis of the guilt of the accused. 
+
+</p><p id="p_48">State v. Vikas Tokas and Anr.                                            Page No.19/43
+ Again,   the   circumstances   should   be   of   a   conclusive   nature   and 
+
+tendency and they should be such as to exclude every hypothesis but 
+
+the one proposed to be proved.  In other words, there must be a chain 
+
+of evidence so far complete as not to leave any reasonable ground for 
+
+a conclusion consistent with the innocence of the accused and it must 
+
+be such as to show that within all human probability the act must 
+
+have been done by the accused.'  
+
+
+</p><p id="p_49">23.     Reference in this context be made to recent judgment in <a href="/doc/166584093/" id="a_36">Guddu 
+
+Rathore v. State</a>, 2013 IV AD (Delhi) 109, <a href="/doc/167068104/" id="a_37">Rohtash Kumar v. State of 
+
+Haryana</a>, 2013 III AD (Cri) (SC) 369, where the aforesaid position 
+
+has been reaffirmed.
+</p>
+<p id="p_50">
+
+</p><p id="p_51">24.     Learned   Counsels   for   the   accuseds   have   contended   that   the 
+
+case   of   the   prosecution   is   full   of   unexplained   circumstances, 
+
+unnatural conduct and rife with discrepancies which breaks the chain 
+
+of events thus, the case against the accuseds could not be established, 
+
+therefore, they deserve to be acquitted and relied upon (1)  <a href="/doc/955616/" id="a_38">Kishore 
+
+Chand  v.  State   of   Himachal   Pradesh</a>,   AIR   1990   SC   2140,   in   this 
+
+context.  The proposition of law is well established and then cannot 
+
+be   any   two   opinions   but   whether   those   circumstance   exist   is   the 
+
+question, which is a question of fact and facts vary from case to case.
+
+</p><p id="p_52">State v. Vikas Tokas and Anr.                                         Page No.20/43
+</p><p id="p_53"> 25.     The  conduct   and   behaviour  of  the   mother  and  uncle   of  the 
+
+deceased  who  have  been examined as PW­6 and PW­7 have been 
+
+found to be unnatural and they being interested witnesses, closely 
+
+related   to   the   deceased   are   not   worthy  of   reliance,   contended   the 
+
+learned   counsel   for  the   accuseds.     It   is   contended   by  the   learned 
+
+counsel for the accuseds that no one especially the mother, would 
+
+wait   for   the   morning   to   find   out   about   her   injured   son   and   his 
+
+whereabouts, once she comes to know that some mishap has taken 
+
+place   with   her   son   and   drawn   the   attention   of   the   court   to   the 
+
+testimony of PW­6 Uma Devi, mother of the deceased and to the 
+
+testimony uncle of the deceased PW­7 Ram Prakash. 
+
+
+</p><p id="p_54">26.     The Apex Court in the case of  <a href="/doc/886863/" id="a_39">Varghese Thomas  v.  State of 
+
+Kerala</a>, 1977 SC 701 observed that where there is no previous enmity 
+
+between the deceased or his relatives on one side and the accused on 
+
+the other, the evidence given by the relatives of the deceased cannot 
+
+be   regarded   as   suspect   needing   corroboration   from   independent 
+
+witnesses.  
+</p>
+<p id="p_55">
+</p><p id="p_56">27.     As   regards   credibility   of   such   a   witness,   who   has   close 
+
+relationship with the deceased, it is relevant to note the observations 
+
+
+State v. Vikas Tokas and Anr.                                            Page No.21/43
+ of the Hon'ble Supreme Court made in  <a href="/doc/1154754/" id="a_40">Arumugam  v.  State</a> rep. by 
+
+Inspector   of   Police,   Tamilnadu,   (2009   I   MLJ)48   (SC)   are   worth 
+
+noting, which runs as under: "Relationship is not a factor to affect the 
+
+credibility   of   a  witness.    It  is more often than not  that  a relation 
+
+would   not   conceal   actual   culprit   and   make   allegations   against   an 
+
+innocent   person.     Foundation   has   to   be   laid   if   plea   of   false 
+
+implication   is   made.     In   such   case,   Court   has   to   adopt   a   careful 
+
+approach and analyse evidence to find out whether it is cogent and 
+
+credible.
+</p>
+<p id="p_57">
+</p><p id="p_58">28.     <a href="/doc/1064706/" id="a_41">In   State   of  Rajasthan  v.  Kalki  and   Anr</a>.,   (1981)   2   Supreme 
+
+Court Cases 752, it is observed that 'In the depositions of witnesses 
+
+there are always normal discrepancies however honest and truthful 
+
+they   may   be.     Those   discrepancies   are   due   to   normal   errors   of 
+
+memory due to lapse of time, due to mental deposition such as shock 
+
+and   horror   at   the   time   of   occurrence,   and   the   like.     Material 
+
+discrepancies are those which are not normal, and not expected of a 
+
+normal   person'.    Reference  can be  made  to the  judgment   in  Anil 
+
+Kumar v. State of Punjab, III (2000) CCR 54 (SC).
+</p>
+<p id="p_59">
+</p><p id="p_60">29.     Then   the   witness   and   his/her   various   attributes   of   the 
+
+personality are equally important.   The mother of the deceased is a 
+
+
+State v. Vikas Tokas and Anr.                                             Page No.22/43
+ widow, there is apparently, none other who can take cudgels for her. 
+
+Her brother­in­law PW­7 Ram Prakash lives at a different place and, 
+
+apparently, not felt the urgency, the way a poor widow mother felt. 
+
+Her helplessness is quite apparent.  She, being alone in the dead of 
+
+the   night,   not   knowing   as   to   in   which   hospital   his   son   has   been 
+
+admitted after the accident, as was informed to her by one of the 
+
+accuseds, could have done nothing expect pleading her brother­in­
+
+law, who somehow did not come up to the expectations of the mother 
+
+of the deceased.  Thus, an explanation, seemingly cogent one, is there 
+
+qua the so called questionable conduct of the mother of the deceased. 
+
+
+
+</p><p id="p_61">30.     It has been contended on behalf of accused persons that the 
+
+police  has   not   conducted   a  fair  investigation   so   much   so   that   the 
+
+mandatory rules i.e. Punjab Police Rules (PPR), which are applicable 
+
+to the Delhi Police qua the case diary have not been complied with 
+
+and as such the investigation stands vitiated to the point no return and 
+
+makes   the   whole   case   unbelievable.    Presuming  that   the  PPR  are 
+
+applicable, even after the enactment of <a href="/doc/190803/" id="a_42">Delhi Police Act</a>, the matter is 
+
+to   be   looked   in   to   as   to   whether   any   prejudice   was   caused.     To 
+
+elaborate further, it has been contended that the Investigating Officer 
+
+has not prepared the site plan qua the recovery of the alleged weapon 
+
+of offence, failed to give the time of arrival of the crime team has not 
+
+State v. Vikas Tokas and Anr.                                             Page No.23/43
+ clarified as to why no employee of the laboratory from where the 
+
+photos were got printed were examined, how can there be confusion 
+
+with Munirka Enclave and Munirka Vihar and for that matter Baba 
+
+Gang Nath Mandir park etc, in the description and site plan when PS 
+
+is   located   across   the   road.     Besides,   the   testimonies   are   full   of 
+
+unexplained contradictions and inconsistencies which further dents 
+
+the prosecution case.  It is pointed out that there is different versions 
+
+vis­a­vis the time of visit to the place of the deceased.   Smt. Uma 
+
+Devi, the mother of the deceased says that the police personnel came 
+
+to visit her at 6.00am in the morning whereas the police officials 
+
+have consistently maintained that they have gone to the place of the 
+
+deceased at about 1.15am or 2.00am.  The difference of about 4 hours 
+
+cannot be given any benefit of confusion or doubt.  
+
+
+
+</p><p id="p_62">31.     So far as the compliance of the procedural rules is concerned, 
+
+the procedural rules are to facilitate the process and further the cause 
+
+of justice and not to frustrate it.  The non­compliance, if any, should 
+
+be shown to be deliberate, conscious and in bad faith and must have 
+
+caused some prejudice to the accused and then probably, the same 
+
+may have the potential to upset the case of the prosecution.  Counsels 
+
+for the accused persons have failed to establish the aforesaid facts, 
+
+particularly any bias or prejudice to the cause to the accused persons. 
+
+</p><p id="p_63">State v. Vikas Tokas and Anr.                                            Page No.24/43
+ Thus,   the   contention   loses   its   sheen   and   strength   qua   the   non­
+
+compliance of the procedural rules.  
+</p>
+<p id="p_64">
+
+</p><p id="p_65">32.     As   regards   discrepancies,   the   same   are   bound   to   occur   for 
+
+various reasons, the first and the foremost is the limitation of the 
+
+human mind and memory.   <a href="/doc/167068104/" id="a_43">In  Rohtash Kumar  v.  State of Haryana</a> 
+
+2013 III AD (CRI.) (SC) 369, it is observed that "It is settled legal 
+
+proposition that while appreciating the evidence of a witness, minor 
+
+discrepancies on trivial matters which do not affect the core of the 
+
+case   of   the   prosecution,   must   not   prompt   the   court   to   reject   the 
+
+evidence in its entirety.  Therefore, unless irrelevant details which do 
+
+not in any way corrode the credibility of a witness should be ignored. 
+
+The court has to examine whether evidence read as a whole appears 
+
+to   have   a   ring   of   truth.     Once   that   impression   is   formed,   it   is 
+
+undoubtedly necessary for the Court to scrutinize the evidence more 
+
+particularly   keeping   in   view   the   deficiencies,   drawbacks   and 
+
+infirmities pointed out in the evidence as a whole and evaluate them 
+
+to find out whether it is against the general tenor of the evidence 
+
+given   by   the   witnesses   and   whether   the   earlier   evaluation   of   the 
+
+evidence is shaken,  as to render it unworthy of belief.   Thus, the 
+
+court   is   not   supposed   to   give   undue   importance   to   omissions, 
+
+contradictions and discrepancies which do not got to the heart of the 
+
+State v. Vikas Tokas and Anr.                                             Page No.25/43
+ matter, and shake the basic version of the prosecution witness.  Thus, 
+
+the   court   must   read   the   evidence   of   a   witness   as   a   whole,   and 
+
+consider   the   case   in   light   of   the   entirety   of   the   circumstances, 
+
+ignoring   the   minor   discrepancies   with   respect   to   trivial   matters, 
+
+which do not affect the core of the case of the prosecution.  The said 
+
+discrepancies   as   mentioned   above,   should   not   be   taken   into 
+
+consideration, as they cannot form grounds for rejecting the evidence 
+
+on record as a whole".   Reference can be made to the judgment in 
+
+<a href="/doc/1381651/" id="a_44">State   of   UP  v.  M.K.   Anthony</a>  AIR   1985   SC   48;  State   rep.   by 
+
+<a href="/doc/193188358/" id="a_45">Inspector of Police v. Saravanan &amp; Anr</a>. AIR 2009 SC 152; and <a href="/doc/1732998/" id="a_46">Vijay 
+
+@ Chinee v. State of M.P</a>. (2010) 8 SCC 191. 
+</p>
+<p id="p_66">
+</p><p id="p_67">33.       Policemen, while investigating the case, focus on the crime 
+
+and the criminal and in the process may not be able to meticulously 
+
+note down the time as to what happened at what time.  Expecting a 
+
+human being to precisely narrate the events and their respective times 
+
+and the steps taken in the investigation with specific details of the 
+
+times   is   seemingly   expecting   too   much.     Then   again,   the   fact   is 
+
+important and a slip here or there qua the time is not specially with 
+
+regard to the point raised by the Counsel for accused persons.  It is a 
+
+fact that the police persons visited the house of the deceased where 
+
+the mother of the deceased met them.  It was in the latter part of the 
+
+State v. Vikas Tokas and Anr.                                           Page No.26/43
+ night or early morning and may or may not be 2.00 or 6.00am.  Then 
+
+it is also to be kept in mind that the mother of the deceased Smt. 
+
+Uma Devi is barely literate and in any case she was in a state of 
+
+shock as she was informed by Inderjeet that her son Lalit had met 
+
+with an accident while getting away with his belongings for which he 
+
+went to the house of the deceased after the incident.   Incidentally, 
+
+here is a circumstance which has not been explained by the accused 
+
+Inderjeet where the PW­6 had deposed that on 08.05.2011 at about 1 
+
+AM, Inderjeet came to her house and informed about the accident of 
+
+Lalit.  Inderjeet informed that Vikas too had sustained injuries in his 
+
+hand.  Where was the occasion for accused Inderjeet to say that Lalit 
+
+had met with an accident and is in a hospital.   There could be two 
+
+situations, that Inderjeet wanted to have his belongings, then he could 
+
+waited till morning.  What was the urgency which brought him to the 
+
+house of  deceased  at  the dead of the night, unless he knew what 
+
+exactly had happened, which shows his involvement.   If he did not 
+
+know about the deceased, then where was the occasion with him to 
+
+say that Lalit had met with an accident.  Giving this false information 
+
+by Inderjeet shows his complicity and guilty mind as he somehow 
+
+wanted to take away his belongings from the house of the deceased.  
+
+
+
+</p><p id="p_68">34.     Nevertheless,   discrepancies   and   contradictions   and   non­
+
+State v. Vikas Tokas and Anr.                                 Page No.27/43
+ compliance of the rules are not very material and thus not fatal as it 
+
+does not affect the real facts of the case.   These are the attending 
+
+circumstances and a slip here or there that too in respect of specific 
+
+time etc. has no potential to dislodge the prosecution's case.  
+
+
+
+</p><p id="p_69">35.     It   is   contended   on   behalf   of   accused   persons   that   the   call 
+
+details   do   not   match   testimony   in   as   much   as   the   mother   of   the 
+
+deceased has testified that she had received a call from Inderjeet on 
+
+her mobile phone at about 5.30pm and after about an hour, both the 
+
+accused   Inderjeet   and   Vikas  came  to  her  house  and calling  Lalit. 
+
+Counsel for the accused stated that the CDR nowhere shows that a 
+
+call was received at 5.30 PM by PW­6 Uma Devi rather it was other 
+
+way round and a call was made on the number of accused Inderjeet 
+
+from the number of PW­6 Uma Devi.  PW6 Smt. Meena Devi is not a 
+
+qualified lady. She is barely literate. Then at times it is not known on 
+
+to whether someone near you made a call or received it. Thus, it 
+
+should not be shown out of proportions as to who called whom. The 
+
+fact is that deceased and Inderjeet spoke to each other on telephone at 
+
+about  05.30   pm  and   that  is borne out of records.   The document 
+
+Ex.PW20/A   to   F   cumulatively   show   that   calls   were   exchanged 
+
+amongst three numbers i.e. 9873980284 which was used by accused 
+
+Inderjeet, 9210095178 was used by Smt. Uma and 8447505560 was 
+
+State v. Vikas Tokas and Anr.                                            Page No.28/43
+ that of accused Vikas. On 08.05.2011 between 5.00pm to 8.30pm. 
+
+All these calls have a direct relation and connection with the instant 
+
+case as two of the numbers belong to the accused persons and one of 
+
+the   three   belongs   to   the   mother   of   the   deceased.     Thus,   the   call 
+
+details not only substantiate the prosecution's case that the persons 
+
+were   talking   to   each   other.     In   such   circumstances,   this   piece   of 
+
+evidence comes as a kind of confirmatory test of the   allegation as 
+
+this is technical evidence having no scope for any manipulation and 
+
+therefore reliable.  
+</p>
+<p id="p_70">
+
+</p><p id="p_71">36.        It is also argued that there are no independent witness to the 
+
+recovery of the firearm and to the other proceedings which make the 
+
+case   further   vulnerable   and   prone   to   doubt   and   suspicion.     It   is 
+
+asserted that the non­preparation of the site plan qua the recovery of 
+
+the firearm further gets a drubbing in view of two versions.   It has 
+
+come  in  evidence that  the weapon of offence was recovered from 
+
+underneath the small grass pile in the statement of PW22 and PW23 
+
+says that it was recovered from the 'Kure' heap of garbage.  In such 
+
+circumstances the recovery pursuant to disclosure becomes doubtful 
+
+and absence of the independent public witness sounds the death knell 
+
+to it.  
+</p>
+<p id="p_72">
+
+</p><p id="p_73">State v. Vikas Tokas and Anr.                                             Page No.29/43
+</p><p id="p_74"> 37.     <a href="/doc/280656/" id="a_47">In  Pradeep   Narayan   Madgaonkar  &amp;   Ors.   v.  State   of 
+
+Maharashtra</a>, AIR 1995 SC 1930, the court examined the issue of the 
+
+requirement   of   the   examination   of   an   independent   witness,   and 
+
+whether the evidence of a police witness requires corroboration.  The 
+
+court herein held, that the same must be subject to strict scrutiny. 
+
+However, the evidence of police officials cannot be discarded merely 
+
+on the ground that they belonged to the police force, and are either 
+
+interested in the investigating or the prosecuting agency.  However, as 
+
+far   as   possible   the   corroboration   of   their   evidence   on   material 
+
+particulars, should be sought.  Reference can also be made to <a href="/doc/1256540/" id="a_48">Paras 
+
+Ram v. State of Haryana</a>, AIR 1993 SC 1212;  <a href="/doc/94439675/" id="a_49">Balbir Singh v. State</a>, 
+
+(1996) 11 SCC 139;  <a href="/doc/162303/" id="a_50">Kalpnath Rai v. State</a> (through CBI), AIR 1998 
+
+SC 201;   <a href="/doc/854912/" id="a_51">M. Prabhulal v. Assistant Director, Directorate of Revenue 
+
+Intelligence</a>, AIR 2003 SC 4311;  and Ravinderan v. Superintendent 
+
+of Customs, AIR 2007 SC 2040).  
+</p>
+<p id="p_75">
+
+</p><p id="p_76">38.     <a href="/doc/1685066/" id="a_52">In  Rohtas   Kumar  v.  State   of   Haryana</a>  (supra),   it   has   been 
+
+observed : 'thus, a witness is normally considered to be independent, 
+
+unless he springs from sources which are likely to be tainted and this 
+
+usually means that the said witness has cause, to bear such enmity 
+
+against the accused, so as to implicate him falsely.   In view of the 
+
+above,   there   can   be   no   prohibition   to   the   effect   that   a   policeman 
+
+State v. Vikas Tokas and Anr.                                             Page No.30/43
+ cannot be a witness, or that his deposition cannot be relied upon'.
+
+
+</p><p id="p_77">39.     And   above   all,   the   contention   of   learned   counsel   for   the 
+
+accused Vikas seems to be contradictory to the record in as much two 
+
+site   plans   prepared   by   the   Investigating   Officer,   one   where   the 
+
+incident took place Ex.PW22/C and the other is Ex.PW23/DB which 
+
+shows the place from where the fire arm used in the offence was 
+
+recovered.  Thus the existence of the site plan and knocks the bottom 
+
+of the contentions raised in this context completely out.  
+
+
+</p><p id="p_78">40.     Thus even if there was no so called independent witness, still 
+
+recovery of the fire arm based upon the disclosure is admissible as 
+
+per <a href="/doc/1312051/" id="a_53">Section 27</a> of the Indian Evidence Act, the scope and ambit of 
+
+which   was   distinctively   clarified   in  <a href="/doc/254739/" id="a_54">Pulukuri   Kotayya  v.  King 
+
+Emperor</a>, AIR 1947 PC 67 wherein it has been observed as follows:­
+
+   ".......     It   is   fallacious   to   treat   the   'fact   discovered'   within   the 
+
+section   as   equivalent   to   the   object   produced,   the   fact   discovered 
+
+within   the   Section   as   equivalent   to   the   object   produced;   the   fact 
+
+discovered embraces the place from which the object is produced 
+
+and knowledge of the accused as to this, and the informations given 
+
+must relate distinctly to this fact.  Information as to past user, or the 
+
+past history, of the object produced is not related to its discovery in 
+
+
+State v. Vikas Tokas and Anr.                                                 Page No.31/43
+ the   setting   in   which   it   is   discovered.     Information   supplied   by   a 
+
+person in custody that "I will produce a knife concealed in the house 
+
+of the informant to his knowledge, and if the knife is proved to have 
+
+been used in the commission of the offence, the fact discovered is 
+
+very   relevant.     But   if   to   the   statement   the   words   be   added   'with 
+
+which I stabbed A', these words are inadmissible since they do not 
+
+relate to the discovery of the knife in the house of the informant."  
+
+
+
+</p><p id="p_79">41.     Reference in this context can be made to the later judgments 
+
+titled as  <a href="/doc/1294869/" id="a_55">Mustkeem Alias Sirajudeen  v.  State of Rajasthan</a>  (2011) 3 
+
+SCC (Cri) 473 and <a href="/doc/67441930/" id="a_56">Om @ Omprakash &amp; Anr. v. State of Tamil Nadu</a> 
+
+2012 XII AD (S.C.) 469, State of Maharashtra v. Damu S/o Gopinath 
+
+Shinde  and Ors. (2006) 6 SCC 269.   Same principle has been laid 
+
+down in  <a href="/doc/1037935/" id="a_57">State of Maharashtra  v.  Suresh</a>  (2000)1 SCC 471,  <a href="/doc/1627296/" id="a_58">State of 
+
+Punjab  v.  Gurnam Kaur  and Ors</a>. (2009)11 SCC 225,  Aftab Ahad 
+
+Anasari  v.  State of Uttranchal  (2010) 2 SCC 583,  <a href="/doc/1422914/" id="a_59">Bhagwan Dass  v. 
+
+State (NCT) of Delhi</a> AIR 2011 SC 1863, <a href="/doc/1515299/" id="a_60">Manu Sharma v. State</a> AIR 
+
+2010 <a href="/doc/1515299/" id="a_61">Manu Sharma v. State</a> AIR 2010 SC 2352 and <a href="/doc/22733264/" id="a_62">Rumi Bora Dutta 
+
+v. State of Assam Crl</a>. A. 737 of 2006 decided on 24.05.2013.
+
+
+
+</p><p id="p_80">42.     The weapon of offence was got recovered by the accused Vikas 
+
+which   is   Ex.PW19/S   and   as   such,   the   recovery   aspect   being 
+
+State v. Vikas Tokas and Anr.                                             Page No.32/43
+ admissible,   which   was   there   in   the   exclusive   knowledge   of   the 
+
+accused   Vikas   gives   it   further   credibility   to   the   case   of   the 
+
+prosecution.  The time gap between the murder and the recovery of 
+
+the weapon of offence is barely 24 hours therefore the element of 
+
+exclusive knowledge with the accused Vikas gets further crystallized 
+
+and   gives   credibility   to   the   recovery   of   the   fire   arm   used   in   the 
+
+offence.   Similarly, is the position with regard to the clothes of the 
+
+accused   persons   recovered   through   memo   Ex.PW19/K   and 
+
+Ex.PW19/M.   Pursuant to the disclosure, the weapon of offence i.e. 
+
+katta of .315 bore was recovered to the pointing as well as recovery 
+
+memo of the same which is Ex.PW19/G and the sketch of the said 
+
+katta is Ex.PW23/A.
+</p>
+<p id="p_81">
+
+</p><p id="p_82">43.     Counsel   for   the   accused   further   raised   certain   aspects   that 
+
+there being   discrepancies in time as to when the tehrir was sent to 
+
+police station for registration of FIR and stated that it was sent at 
+
+11.15pm which is not in consonance with the facts coming on record. 
+
+Similarly, it is further pointed out that the mandatory MLC of the 
+
+accused was either not got done or not filed.   The medical opinion 
+
+was obtained but same was not signed by anybody.  The site plan is 
+
+silent   qua   the   blood   and   blood   stained   stone   etc.       According   to 
+
+PW­24, the time of death appears before 12.00 O'clock in the night 
+
+State v. Vikas Tokas and Anr.                                              Page No.33/43
+ of   08.05.2011   then   how   the   tehrir   can   be   sent   at   11.15pm   pm 
+
+08.05.2011.   The sanction from the Deputy Commissioner of Police 
+
+(DCP) to send the articles to the FSL is not there and the sanction to 
+
+prosecute the accused Vikas under <a href="/doc/73862/" id="a_63">section 25</a> of the Arms Act was 
+
+given by the DCP concerned without application of mind.  
+
+
+
+</p><p id="p_83">44.     The   aspects   raised   by   the   learned   counsel   for   accuseds 
+
+hereinabove are not very important.  In any case, the site plan which 
+
+does not reflect the blood stained stone and blood spots that itself 
+
+would not render the site plan irrelevant and inadmissible.   These 
+
+aspects of the investigation could simultaneously be  there and may 
+
+be over­looked in respect of time and that seems to be explanation 
+
+with regard to the time of dispatch of tehrir and the time of death is 
+
+approximate and no hard and fast opinion about the time of death can 
+
+be given by any doctor especially at the time of initial examination of 
+
+the   deceased.     Thus,   the   approximation   is   to   be   there   on   certain 
+
+aspects   and   the   time   of   death   is   one   such   aspect.   Similarly,   a 
+
+seemingly typographical mistake of am/pm should also be ignored 
+
+and   read   in   correct   perspective   with   the   aid   of   the   overall 
+
+circumstances.  
+</p>
+<p id="p_84">
+
+</p><p id="p_85">45.     Learned counsel for the accused has not been able to show as 
+
+State v. Vikas Tokas and Anr.                                           Page No.34/43
+ to whether requirements to have the prior sanction of the DCP to 
+
+dispatch the objects collected during the investigation for dispatching 
+
+or   sending   them   for   Forensic   examination   is   required   under   law. 
+
+Though the sanction to prosecute the accused Vikas under <a href="/doc/73862/" id="a_64">section 25</a> 
+
+of the Arms Act is there and, apparently, seems to have been granted 
+
+after considering the relevant facts as can be seen from the language 
+
+of the sanction granted under <a href="/doc/534261/" id="a_65">section 39</a> of the Arms Act.  Thus, the 
+
+argument of non­application of mind while granting sanction stands 
+
+nullified.
+</p>
+<p id="p_86">
+
+</p><p id="p_87">46.     There are certain circumstances which remain unexplained and 
+
+point   towards   the   complicity   of   the   accused   person.     Test 
+
+Identification Parade refusal is one; the denial by accused Vikas that 
+
+he does not know deceased Lalit which stands negated in light of the 
+
+evidence.  The wrong statement of accused Inderjeet qua the accident 
+
+of deceased as was conveyed to the mother of deceased.  Where was 
+
+the occasion with the accused Inderjeet to say something which was 
+
+not correct except when he knew that what exactly had happened to 
+
+the deceased.  He has explained the absence of Vikas by saying that 
+
+he has also sustained injury, which indicates that he was a privy to 
+
+the acts of the accused Vikas.   The documents qua the injury were 
+
+collected through the seizure memos Ex.PW23/B and Ex.PW4/A and 
+
+State v. Vikas Tokas and Anr.                                        Page No.35/43
+ memo   Ex.PW23/A.     These   documents  indicate   that  Vikas  got   his 
+
+injury treated in a private hospital and furnished a false information 
+
+to the hospital staff about his injury.  Evidence has come to the effect 
+
+that both accused Inderjeet and Vikas got recovered clothes through 
+
+seizure memo Ex.PW19/J and Ex.PW19/K respectively.  There is no 
+
+explanation with the accused Vikas as to wherefrom the blood stains 
+
+come   on   his   clothes,   except   that   while   crossing   the   grill   on   the 
+
+central verge of the road he got injured.   And for that matter how 
+
+Vikas got blood stains on his T­shirt as the injury from the grill was 
+
+on   his   hips.     The   photographs,   especially   the   photographs   of   the 
+
+hands of Vikas having small reddish brown spots / gun powder injury 
+
+marks on  both  his hands which are Ex.PW22/X­1 to X­6 coupled 
+
+with the opinion of the doctor and the injury sustained by deceased 
+
+indicates that gun shot was fired from the point blank range, which 
+
+increases the possibility of having gun powder marks on the hand of 
+
+the  person   firing   the   gun  shot.    The  possibility becomes  stronger 
+
+when a crude/ countrymade firearm is used as it lacks sophistication 
+
+and precision of a good quality weapon as is the case here.   The 
+
+opinion Ex.PW24/B coupled with the above facts and the weapon 
+
+being countrymade comes up to support this aspect.
+
+
+
+</p><p id="p_88">47.     Small pieces of facts / evidence cumulatively indicate towards 
+
+State v. Vikas Tokas and Anr.                                            Page No.36/43
+ the   guilt   of   the   accused(s).     The   time   factor   and   proximity   with 
+
+different   events   further   cement   it.     According   to   PW­24   Dr. 
+
+Raghvendra Bagla the time of death of deceased Lalit was about a 
+
+day or half day.   He obviously spell about it from the day and time 
+
+when   the   post­mortem   examination   was   done.     This   matches   the 
+
+sequence of events unfolding in the evidence.  Similarly, his opinion 
+
+qua the injuries on the forearm of Vikas could be one day old and 
+
+possibility   of   firearm   injury   was   not   ruled   out   by   PW­24   Dr. 
+
+Raghvendra Bagla.  He also mentions about taking control swab and 
+
+swab from the injured forearm of Vikas for the traces of gun powder. 
+
+The opinion qua that from FSL further seals the fact of the accused, 
+
+which is Ex.PW22/L.
+</p>
+<p id="p_89">
+
+</p><p id="p_90">48.     Pointing out of the place of occurrence and the recovery of 
+
+firearm used in the offence both being in the exclusive knowledge of 
+
+the accused persons primarily Vikas and the element of exclusivity is 
+
+stronger in the instant case given the minimal time gap between the 
+
+time   of   occurrence   and   the   recovery   of   weapon   of   offence   and 
+
+preparation of the documents referred above.  The motive aspect has 
+
+been dealt with earlier as it has come in evidence that an altercation 
+
+had taken place between the deceased and accused Inderjeet as the 
+
+mother of deceased had agreed for the stay of Inderjeet in her house 
+
+State v. Vikas Tokas and Anr.                                           Page No.37/43
+ which was strongly opposed by deceased which led to the altercation. 
+
+This fact coupled with other aspects mentioned earlier gives motive 
+
+for the offence.
+</p>
+<p id="p_91">
+</p><p id="p_92">49.     The   opinion   of   doctor   with   regard   to   the   cause   of   death 
+
+expressed in Ex.PW24/A leaves no scope for any doubt as the death 
+
+was   due   to   respiratory   failure   resulting   from   gun   shot   injury 
+
+produced by a projectile fired by a firearm.  Post­mortem report also 
+
+indicates that bullet entered from one side of the body and made its 
+
+exit from the other side of the body and on the way punctured both 
+
+the lungs of the deceased.  All this go hand in hand with the facts of 
+
+the case.  This seals the fate of accused Vikas as the prime accused 
+
+responsible   for   murdering   the   deceased   Lalit.     The   conduct   of 
+
+Inderjeet makes him an active accomplice in the offence and thus, he 
+
+too  is  equally   liable  for  the offence of  murder in the light of the 
+
+evidence on record and in view of the provision under <a href="/doc/37788/" id="a_66">section 34</a> 
+
+IPC.
+</p>
+<p id="p_93">
+
+</p><p id="p_94">50.     As such both the accused persons namely Vikas and Inderjeet 
+
+are   held   guilty   under   <a href="/doc/1934415/" id="a_67">section   302</a>   read   with   <a href="/doc/37788/" id="a_68">section   34</a>   IPC   and 
+
+convicted thereof.  
+</p>
+<p id="p_95">
+
+</p><p id="p_96">State v. Vikas Tokas and Anr.                                          Page No.38/43
+</p><p id="p_97"> 51.     Accused Vikas has been charged under <a href="/doc/244673/" id="a_69">section 27</a> of the Arms 
+
+Act   also   and   the   evidence   in   this   context   has   also   come   that   the 
+
+countrymade   pistol   was   recovered   at   his   instance   reflecting   his 
+
+consciousness qua the possession/ owning it, which was used in the 
+
+offence of murder.  In such circumstances, he can be attributed with 
+
+the possession of the same as well inasmuch as the accused has been 
+
+convicted under <a href="/doc/1560742/" id="a_70">section 302</a> IPC, which by implication amounts to 
+
+the use of weapon in question.   Accordingly, accused Vikas is held 
+
+guilty under <a href="/doc/73862/" id="a_71">section 25</a> of the Arms Act and convicted thereof.  
+
+
+
+Announced in the open Court                       (Vimal Kumar Yadav)
+On 16.07.2013.                          Additional Sessions Judge­II,
+                                          South District, Saket Courts,
+                                                    New Delhi.
+</p>
+<p id="p_98">
+
+
+</p><p id="p_99">State v. Vikas Tokas and Anr.                                             Page No.39/43
+      In the Court of Sh. Vimal Kumar Yadav, Additional Sessions 
+           Judge­II, South District, Saket Court, New Delhi.
+
+Session Case No. 50/2011.
+</p>
+<p id="p_100">In the matter of :
+</p>
+<p id="p_101">State 
+
+Versus
+
+</p><p id="p_102">1.  Vikas Tokas @ Vicky,
+S/o Amar Singh,
+R/o H. No. 157, Munirka, New Delhi.
+</p>
+<p id="p_103">
+</p><p id="p_104">2.  Inderjeit,
+S/o Narayan Singh,
+VPO Farmana, PS Kherkhoda,
+District Sonepat, Haryan.
+</p>
+<p id="p_105">
+</p><pre id="pre_3">FIR No.                   : 139/2011.
+Under section.            : 302/34 <a href="/doc/1569253/" id="a_72">IPC</a>.
+Police Station            : Vasant Vihar.
+
+Order on Sentence
+
+</pre><p id="p_106">1.       It is contended on behalf of convicts that they are youngmen, 
+
+having  no   criminal  antecedent and the case does not fall  into the 
+
+scope and ambit of the rarest of the rare cases, therefore, appropriate 
+
+sentence may be awarded to them.  
+</p>
+<p id="p_107">
+
+
+</p><p id="p_108">State v. Vikas Tokas and Anr.                               Page No.40/43
+</p><p id="p_109"> 2.      On the other hand, learned Additional Public Prosecutor for 
+
+State submits that in view of the fact that the convicts have sniffed 
+
+out a life for seemingly no reason therefore, such an irresponsible 
+
+behaviour   does   not   call   for   any   leniency   or   consideration,   thus, 
+
+adequate punishment is called for in such circumstances.
+
+
+
+</p><p id="p_110">3.      The role of the judge as a sentencer is crucial, as a delicate 
+
+balance is to be struck juxtaposing the conflicting facts.  <a href="/doc/1513958/" id="a_73">In Goswami 
+
+B.C. v. Delhi Administration</a>, the Supreme Court observed: "Now the 
+
+question  of  sentence  is  always a difficult  question, requiring as it 
+
+does,   proper   adjustment   and   balancing   of   various   considerations 
+
+which   weigh   with   a   judicial   mind   in   determining   its   appropriate 
+
+quantum in a given case.  The main purpose of the sentence broadly 
+
+stated is that the accused must realize that he has committed an act 
+
+which   is   not   only   harmful   to   the   society   of   which   he   forms   an 
+
+integral   part   but   is   also   harmful   to   his   own   future,   both   as   an 
+
+individual and as a member of the society.  Punishment is designed to 
+
+protect society by deterring potential offenders as also by preventing 
+
+the guilty  party   from  repeating the offence;  it  is also designed to 
+
+reform the offender and re­claim him as a law abiding citizen for the 
+
+good of the society as a whole.  Reformatory, deterrent and punitive 
+
+aspect   of  punishment   thus play their due part in judicial thinking 
+
+State v. Vikas Tokas and Anr.                                             Page No.41/43
+ while   determining   this   question.     In   modern   civilized   societies, 
+
+however, reformative aspect is being somewhat greater importance. 
+
+Too  lenient   as   well   as   too   harsh   sentence   both   loose   their  
+
+efficaciousness.     One   does   not   deter   and   the   other   may   frustrate  
+
+thereby making the offender a hardened criminal"
+
+
+
+</p><p id="p_111">4.      In the instant matter, the convicts have taken a life, a life which 
+
+cannot be given back by them or by anybody.  There is seemingly no 
+
+justification as to why such an extreme step was taken by them.  On 
+
+the other hand, the convicts, their lives, their dependents and other 
+
+near and dears are there, who also have to be taken care of.
+
+
+
+</p><p id="p_112">5.      However, the convicts have since committed the murder and 
+
+there are only two punishments provided for under section <a href="/doc/1560742/" id="a_74">section 
+
+302</a> IPC.   It is indeed correct that the murder committed by them 
+
+does not fall into the category of rarest of the rare, therefore, there is 
+
+only one sentence which can be awarded to them which is that of 
+
+imprisonment for life.  Since both the convicts namely Vikas Tokas 
+
+and   Inderjeet   have   been   guilty   of   the   offence   punishable   under 
+
+<a href="/doc/1560742/" id="a_75">section 302</a>/<a href="/doc/37788/" id="a_76">34</a> IPC, hence both of them are sentenced to undergo 
+
+rigorous imprisonment for life and to pay a sum of Rs.25,000/­ each 
+
+
+
+State v. Vikas Tokas and Anr.                                          Page No.42/43
+ as fine.  
+</p>
+<p id="p_113">
+
+</p><p id="p_114">6.      Accused Vikas Tokas @ Vikky has since been held guilty for 
+
+the offence punishable under <a href="/doc/73862/" id="a_77">section 25</a> of the Arms Act, therefore, 
+
+he   is   further   sentenced   to   undergo   rigorous   imprisonment   for   a 
+
+period of two years for the said offence.  Both the sentences shall run 
+
+concurrently.   They shall be entitled to the benefit of set off under 
+
+<a href="/doc/914361/" id="a_78">section 428</a> Cr.P.C.
+</p>
+<p id="p_115">
+
+</p><p id="p_116">7.      Copy of the judgment and order on sentence be provided to 
+
+both the convicts free of cost.  File be consigned to record room after 
+
+necessary compliance.    
+</p>
+<p id="p_117">
+Announced in the open Court                       (Vimal Kumar Yadav)
+On 20.07.2013.                          Additional Sessions Judge­II,
+                                          South District, Saket Courts,
+                                                    New Delhi.
+</p>
+<p id="p_118">
+
+
+</p><pre id="pre_4">State v. Vikas Tokas and Anr.                                       Page No.43/43
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

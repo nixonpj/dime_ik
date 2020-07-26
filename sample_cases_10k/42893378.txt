@@ -1,0 +1,737 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sri. Govindaiah .N.T vs Sri. T. Srinivas on 11 July, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/42893378/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:42893378">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/181955/">THE BORDER SECURITY FORCE ACT, 1968</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/767287/">Section 313 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/42893378/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/42893378/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/42893378/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bangalore District Court</div>
+<div class="doc_title">Sri. Govindaiah .N.T vs Sri. T. Srinivas on 11 July, 2018</div><pre id="pre_1">  IN THE COURT OF THE XII ADDL. CHIEF METROPOLITAN
+             MAGISTRATE, AT BENGALURU
+
+               Dated this the 11th Day of July 2018
+
+     Present:      Sri. Rajkumar .S.Amminbhavi., B.Com., LLB (Spl)
+                   XII Addl. Chief Metropolitan Magistrate,
+                   Bengaluru.
+
+                       C.C.No. 16205/2017
+
+Complainant:                Sri. Govindaiah .N.T
+                            S/o. Thimappa
+                            Aged about 59 Years
+                            Occupation :- Lecturer
+                            R/at. No.52/9, 1st Cross
+                            SBM Colony, BSK 1st Stage
+                            Bengaluru-560 050.
+
+                            (By Amith Booreddy., Adv)
+
+                             - Vs -
+Accused:                    Sri. T. Srinivas
+                            S/o. Thimmaiah
+                            Aged about 40 Years
+                            Occupation : Printing Business
+                            R/at. No.1611, 19th Main,
+                            Muneshwara Block
+                            Bengaluru-560 026.
+
+                             (By. Srinivasagowda, Adv)
+
+Offence complained of:      U/s. 138 of the            <a href="/doc/1132672/" id="a_1">Negotiable
+                            Instruments Act</a>
+Plea of the accused:        Pleaded not guilty
+Final Order:                Accused is convicted
+Date of order:              11.07.2018
+
+
+                              ******
+                                 2                  CC No.16205/2017
+
+                        JUDGMENT
+</pre>
+<p id="p_1">     This is a complaint filed by the complainant under
+Sec.200 of <a href="/doc/445276/" id="a_2">Cr.PC</a> against the accused for the offence
+punishable under Sec.138 of the Negotiable Instruments Act.
+</p>
+<p id="p_2">2.   The facts of the complaint in brief are that, both the
+complainant and accused are known to each other since past
+seven years. On account of well acquaintance with the
+complainant, the accused has approached the complainant
+and requested hand loan an amount of Rs.5,00,000/- during
+the month of October 2016 in order to meet out his urgent
+need of money and certain financial commitments and
+accordingly, considering the request of the accused and on
+account of good faith and believe the words of the accused,
+the complainant has advanced an amount of Rs.5,00,000/- to
+the accused and on that day, the accused has agreed that, he
+would repay the said amount within a period of three months
+and after lapse of stipulated period on repeated request and
+demand made by the complainant to the accused for
+repayment of the borrowed loan amount and at that time, the
+accused for discharge the loan in question had issued Cheque
+bearing   No.517155,   dated:       04.03.2017   for    a   sum   of
+Rs.5,00,000/-   drawn     on        State   Bank       of   Mysore,
+Hanumanthanagar Branch, Bengaluru IN favour of the
+complainant and assured that, the said cheque would be
+honoured on its presentation and as per the assurance made
+by the accused, the complainant has presented the said
+cheque for encashment through his banker i.e., State Bank of
+<span class="hidden_text" id="span_1">                                    3               CC No.16205/2017</span>
+
+Mysore,     SBM     Colony    Branch,    Bengaluru,     but   it   was
+dishonoured with an endorsement as "Funds Insufficient"
+and thereafter, the complainant has informed the said fact to
+the accused, but the accused did not responded the same.
+Hence, the complainant had got issued the legal notice on
+26.04.2017 through his counsel by RPAD calling upon him to
+repay the said borrowed loan amount within 15 days from the
+date of receipt of this legal notice and it was duly served upon
+the accused.        Despite of service of the legal notice, the
+accused neither repaid the borrowed loan amount nor reply
+the legal notice. Hence, the complainant had constrained to
+file   a   complaint   against    the   accused   for   the   offence
+punishable under <a href="/doc/1823824/" id="a_3">Section 138</a> of N.I. Act., which is well
+within time and based on the records available on record
+cognizance has been taken and registered it PCR.
+</p>
+
+<p id="p_3">3.     After   recording     of   the   sworn   statement     of   the
+complainant and complaint is registered in criminal case
+register and after issuance of summons to the accused,
+pursuant to the summons the accused had appeared before
+this Court through his counsel and enlarged on bail.               The
+substance of accusation was recorded and read over to the
+accused in his vernacular.         He pleaded not guilty.     Hence,
+claims for trail.
+</p>
+<p id="p_4">4.     In order to prove the case of the complainant got himself
+examined as PW.1 &amp; got 6 documents marked as Ex.P.1 to
+Ex.P.6 and PW-1 has been fully cross-examined and the
+<span class="hidden_text" id="span_2">                                 4                CC No.16205/2017</span>
+
+statement of accused under <a href="/doc/767287/" id="a_4">Section 313</a> of Cr.P.C., was
+recorded and the accused has denied the incriminating
+statement against him and the accused himself examined as
+DW-1 and got marked 10 documents as per the Ex.D1 to
+Ex.D10 and after completion of the defence evidence the
+matter was posted for arguments.
+</p>
+<p id="p_5">5.   Heard arguments.
+</p>
+
+<p id="p_6">6.   The following points arise for my determination;
+</p><blockquote id="blockquote_1">     1.   Whether the complainant proves that the
+          accused had issued Cheque bearing
+          No.517155,        dated:04.03.2017         for
+          Rs.5,00,000/- drawn on State Bank of
+          Mysore,     Hanumanthanagar          Branch,
+          Bengaluru for discharge of the amount and
+          when the said cheque presented for
+          encashment, it was dishonoured with an
+          endorsement "Funds Insufficient" and
+          after issuance of the legal notice he fails to
+          repay the said amount and Thereby, the
+          accused have committed offence punishable
+          U/s. 138 N.I.Act?
+</blockquote>
+
+<blockquote id="blockquote_2">     2.   What order ?
+</blockquote>
+<p id="p_7">7.   My answer to the above points are;
+</p>
+
+<pre id="pre_2">          Point No.1        :       In the affirmative
+          Point No.2        :       As per final order for the
+                                    following;
+<span class="hidden_text" id="span_3">                               5               CC No.16205/2017</span>
+
+                         REASONS
+
+</pre><p id="p_8">8.   POINT NO.1: On perusal of the evidence of PW-1 he has
+reiterated as per the averments made in the complaint and he
+has got marked 6 documents namely, cheque which is
+marked as Ex.P1, the signature of the accused therein which
+are marked as Ex.P1(a), bank endorsement which is marked
+as Ex.P2, the office copy of the legal notice which is marked
+as Ex.P3, postal receipt which is marked as Ex.P4, postal
+acknowledgment which is marked as Ex.P5, statement of
+account which is marked as Ex.P6.
+</p>
+
+<p id="p_9">9.   During the course of cross of PW-1 he has deposed that,
+he know the accused for the last 8 years through his friend by
+name Neelakantagowda on account of well acquainted with
+him, the accused has approached him for advancement the
+loan in question an amount of Rs.5,00,000/- and believing
+the words of the accused and on account good faith, he was
+advanced the loan amount of Rs.5,00,00/- to the accused on
+25.10.2016 by way of cash and at that time, he was not
+obtained any documents from the accused.       He denied the
+suggestion that, there is no monetary transaction took place
+between themselves and thereby, he was not obtained any
+documents from the accused. He denied the suggestion that,
+the accused was not issued cheque in question in the year
+2017.   He was not doing money lending business.           He
+deposed that, he was working as Lecture in Pre-University,
+Bidadi and he was retired from his service on 31.08.2017. He
+<span class="hidden_text" id="span_4">                                 6                CC No.16205/2017</span>
+
+denied the suggestion that, he was advanced an amount of
+Rs.5,00,000/- to the accused on the basis of interest at the
+rate of 3% interest per month. He deposed that, his wife by
+name Bhagyamma.           He denied the suggestion that, the
+accused has paid interest an amount of Rs.15,000/- every
+month to his wife's account upon the principle an amount of
+Rs.5,00,000/- which was borrowed from him. It is true that,
+after commencement of the CTS cheques, he was returned the
+old cheque and thereafter obtained three CTS cheques from
+the accused. It is true that, he has returned one cheque to
+the accused on 30.01.2013 after the accused has paid an
+amount of Rs.1,00,000/- by way of cash so also after the
+accused has paid an amount of Rs.1,25,000/- by way of cash,
+he was returned back the another cheque to the accused. It
+is   true   that,   the   accused   has   paid   an   amount   of
+Rs.1,50,000/- on 28.03.2015 to his account through the
+cheque and same has been received by him. He denied the
+suggestion that, even after repayment of the borrowed the
+loan amount of Rs.5,00,000/-, he was failed to return the
+cheque in question to the accused and same has been
+misused and filed false complaint against the accused. It is
+true that, he was withdrawn an amount of Rs.5,00,000/-
+from this bank account through self cheque on 24.10.2016
+and same has been advanced to the accused on 25.10.2016
+and to that effect, he has produced his bank account
+statement which is marked as Ex.P6. It is true that, prior to
+advancement the loan in question, the accused used to
+borrowed the loan from him and same has been returned to
+<span class="hidden_text" id="span_5">                               7               CC No.16205/2017</span>
+
+him and the said fact, he has been not stated in his complaint
+and in his legal notice, but the witness voluntaries that, it
+relates to previous transaction and it is altogether different
+from the present case in hand as he was advanced the loan in
+the month of October 2016.
+</p>
+
+<p id="p_10">10.   After recording the statement of accused, the accused
+himself examined as DW-1 by way of filing an examination-in-
+chief affidavit, wherein, he has specifically contended that,
+he know the complainant, but he was never approached the
+complainant and borrowed the loan in question from him and
+he was not at all issued cheque in question for discharge the
+loan in question and no any other transaction held between
+himself and the complainant in the year 2016. He deposed
+that, he was borrowed the loan an amount of Rs.5,00,000/-
+from the complainant in the month of April 2012 at the rate
+of 3% per month interest and at that time, he was issued five
+MICR cheques to the complainant for the security purpose
+and subsequently, he was paid interest amount to his wife's
+bank account by way of cheques as well as cash. He deposed
+that, the in the year 2013 the complainant has return back
+old cheques and again he was issued CTS cheque drawn on
+State Bank of Mysore, Hanumanthanagar Branch, Bengaluru
+and subsequently, he has paid an amount of Rs.1,00,000/-
+on 30.04.2013, but the complainant has failed to return the
+cheque bearing No.304961 drawn on State Bank of Mysore,
+Hanumanthanagar Branch, Bengaluru and again he was paid
+an amount of Rs.1,50,000/- by way of cheque bearing
+<span class="hidden_text" id="span_6">                                8              CC No.16205/2017</span>
+
+No.145152 on 26.03.2015 and an amount of Rs.1,50,000/-
+on 06.05.2015 by way of cheque bearing No.151155 both the
+cheques drawn on Suvarna Co-Operative Bank Limited,
+Srinagar Branch, Bengaluru. He deposed that, he was paid
+an amount of Rs.1,25,000/- by way of cheque bearing
+No.304961 on 10.12.2015 drawn on State Bank of Mysore,
+Hanumanthanagar      Branch,   Bengaluru    towards   balance
+amount along with interest as full and final settlement, but
+the said cheque was dishonoured and then the complainant
+has return the cheque and collected the amount. He deposed
+that, the complainant has failed to return the cheque in
+question which was issued for the security purpose even after
+repayment of the entire borrowed loan amount and to with an
+intention to get wrong full gain, he has misused the cheque in
+question and filed the false complaint against the accused.
+Hence, he prays for dismissal of the present complaint.
+Further, with respect to the payment made by him by way of
+cheque, he was produced his bank passbook and same is
+marked as Ex.D1 and wherein relevant entry with respect to
+the payment made by him to the complainant which is
+marked as Ex.D1(a) to 1(j) respectively. He has produced two
+cheques which are issued to the complainant for the security
+purpose and same are marked as Ex.D2 and Ex.D3, he has
+produced the cheque bearing No.147080 which is marked as
+Ex.D4 and the said cheque presented for encashment and
+same was dishonoured with "Funds Insufficient" and the said
+endorsement which is marked as Ex.D5, he has produced the
+cheque bearing No.147096 and No.148875 which were issued
+<span class="hidden_text" id="span_7">                                   9                 CC No.16205/2017</span>
+
+to the wife of the complainant and same are marked as Ex.D6
+and   Ex.D8    and      the   Ex.D6   and   Ex.D5    presented    for
+encashment and they were dishonoured and the said
+endorsements which are marked as Ex.D7 and Ex.D9, he has
+produced his statement of account which is marked as
+Ex.D10 and therein relevant entries which are marked as
+Ex.D10(a) and Ex.D10(b). He deposed that, he was borrowed
+the loan amount of Rs.5,00,000/- and same has been repaid
+to the complainant and even after repayment of the borrowed
+loan amount, the complainant has failed to return the cheque
+in question which was issued for the security purpose and
+same has been misused and filed false complaint. Hence, for
+all other reasons he prays for dismissal of the present
+complaint.
+</p>
+
+<p id="p_11">11.   During the course of cross of DW-1 he has deposed
+that, he was running printing press for the last 10 years. He
+know the complainant and his family members for the last
+eight years.      He deposed that, he was not received any
+amount from the complainant or his family members for the
+purpose of his personal needs and his business purpose. He
+deposed   that,    he    was   borrowed     the   loan   amount    of
+Rs.5,00,000/- from the complainant in the month of April
+2012, but to that effect, he was not produced any documents.
+It is true that, apart for the present complainant, he was
+borrowed the loan amount from other persons for his
+personal needs and for his business purpose.             He do not
+know wife of the complainant. He deposed that, he was repaid
+<span class="hidden_text" id="span_8">                                10               CC No.16205/2017</span>
+
+the borrowed the loan amount by way of cheque as well as
+cash.   He denied the suggestion that, he was borrowed the
+loan amount of Rs.5,00,000/- from the complainant on the
+basis of the interest at the rate of 3% per month in the month
+of April 2012.     He denied the suggestion that, he was
+borrowed the loan amount of Rs.5,00,000/- from the
+complainant in the month of October 2016 and at that time,
+he was agreed that, he will repaid the said loan amount
+within three months. It is true that, Ex.P1 cheque belonging
+to his own bank account cheque and the signature found on
+the Ex.P1(a) is his own signature. He has admitted that, the
+signature found on the Ex.P5 is his own signature and same
+is marked as Ex.P5(a) and after receipt of the legal notice he
+was approached the complainant personally and thereby, he
+was not given reply notice      the complainant. He was not
+produced any documents that, he was repaid the borrowed
+the loan amount to the complainant. He deposed that, there
+is no any impediment to him for issuance of the legal notice
+to the complainant, but the witness voluntaries that, he was
+made telephonic call to the complainant and the complainant
+has stated that, he would return the cheque in question and
+thereby, he was not given the reply notice.      He denied the
+suggestion that, he was borrowed the loan in question from
+the complainant and for repayment of the borrowed the loan
+amount he was issued cheque in question and he was created
+the Ex.D1 to Ex.D10 with an intention to escape from his
+liability and to defeat the claim of the complainant.
+</p><span class="hidden_text" id="span_9">                                11              CC No.16205/2017</span>
+
+
+
+<p id="p_12">12. On perusal of the averments made in the complaint,
+evidence of the respective parties and the coupled with the
+documents produced by the respective parties. There is no
+dispute that, both of the them are known to each other.
+There is no dispute that, prior to filing of the present
+complaint, the complainant has complied all the necessary
+ingredients under <a href="/doc/1823824/" id="a_5">Section 138</a> of N.I.Act., There is no dispute
+that, Ex.P1 cheque belonging to his own bank account and
+the signature found on the Ex.P1(a) is his own signature.
+</p>
+<p id="p_13">13.   It is the case of the complainant that, on account of well
+acquainted with the accused, he was advanced the loan
+amount of Rs.5,00,000/- to the accused and the accused has
+issued cheque in question for repayment of the borrowed loan
+amount and when the said cheque presented for encashment
+and it was dishoured and subsequently, he was issued legal
+notice to the accused and after receipt of the legal notice the
+accused has failed to gave reply notice or repay the borrowed
+loan amount and thereby, he has filed the present complaint.
+</p>
+
+<p id="p_14">14.   On the other hand, it is specific defence of the accused
+is that, he was borrowed the loan an amount of Rs.5,00,000/-
+from the complainant in the month of April 2012 at the rate
+of 3% per month interest in the year 2012 and at that time,
+he was issued five MICR cheques to the complainant for the
+security purpose and subsequently, he was paid interest
+amount to his wife's bank account by way of cheques as well
+<span class="hidden_text" id="span_10">                                    12             CC No.16205/2017</span>
+
+as cash and in the year 2013, the complainant has return
+back old cheques and again he was issued CTS cheque drawn
+on   State   Bank   of    Mysore,       Hanumanthanagar   Branch,
+Bengaluru and subsequently, he has paid an amount of
+Rs.1,00,000/- on 30.04.2013, but the complainant has failed
+to return the cheque bearing No.304961 drawn on State Bank
+of Mysore, Hanumanthanagar Branch, Bengaluru and again
+he was paid an amount of Rs.1,50,000/- by way of cheque
+bearing No.145152 on 26.03.2015 and an amount of
+Rs.1,50,000/- on 06.05.2015 by way of cheque bearing
+No.151155 both the cheques drawn on Suvarna Co-Operative
+Bank Limited, Srinagar Branch, Bengaluru and he was paid
+an amount of Rs.1,25,000/- by way of cheque bearing
+No.304961 on 10.12.2015 drawn on State Bank of Mysore,
+Hanumanthanagar          Branch,    Bengaluru   towards   balance
+amount along with interest as full and final settlement, but
+the said cheque was dishonoured and then the complainant
+has return the cheque and collected the amount and the
+complainant has failed to return the cheque in question
+which was issued for the security purpose even after
+repayment of the entire borrowed loan amount and to with an
+intention to get wrong full gain, he has misused the cheque in
+question and filed the false complaint against the accused
+and to substantiate the same he was not produced any
+documents except his oral testimony. Therefore, the alleged
+defence taken by the accused during the course of his defence
+evidence is not sustainable.
+</p><span class="hidden_text" id="span_11">                                13                    CC No.16205/2017</span>
+
+<p id="p_15">15.   If really, he was not at all borrowed the loan in question
+from the complainant and he has not at all issued the Ex.P1
+for discharge of the loan in question to the complainant, he
+ought to have gave stop payment instruction to his banker,
+he ought to have gave reply notice to the legal notice issued
+by the complaint, he ought to have challenged the cognizance
+taken by this Court, he ought to have lodged private or police
+complaint   against    the   complainant.        Therefore,     non-
+performing the aforesaid legal proceedings that itself, it is very
+much fatal to the alleged defence set-up by the accused
+during the course of cross of his evidence and the cross of
+PW-1. There is no dispute that, Ex.P1 cheque is belonging to
+his own bank account cheque and signature found on the
+Ex.P1(a) is his own signature.      It can be presumed that, the
+accused has issued the Ex.P1 to the complainant knowing
+fully well without having sufficient funds in his bank account
+with an intention to defeat the claim of the complainant.
+Further, it can be presumed that, the documents which are
+produced by the accused and same are marked as Ex.D1 to
+Ex.D10    the   said   documents      relates   to    the   previous
+transaction and the said documents are not relevant case in
+hand.
+</p>
+
+<p id="p_16">16.   With respect to the source of income of the complainant,
+he being the lecture by profession and he was retired from his
+service and thereby, during the course of his service, he was
+getting handsome salary and after retirement he was received
+retirement benefit and he being the pensioner. Therefore, it
+<span class="hidden_text" id="span_12">                                  14               CC No.16205/2017</span>
+
+can be presumed that, he was having sufficient source of
+income for advancement the loan in question to the accused.
+Further, the complainant has stated that, he was withdrawn
+an amount of from his bank account through self cheque and
+same has been advanced to the accused and to substantiate
+the same, he was produced his statement of account as pr the
+Ex.P6. Therefore, an adverse inference is to be drawn that,
+the accused has borrowed the loan in question from him and
+for discharge the loan in question he was issued cheque in
+question without having sufficient funds in his bank account
+with an intention to defeat the claim of the complainant.
+</p>
+
+<p id="p_17">17.   Further, the complainant has proved his case by
+adducing cogent and corroborative evidence under <a href="/doc/1823824/" id="a_6">Section
+138</a> of N.I.Act., On the other hand, the accused has failed to
+rebut his case by adducing cogent and corroborative evidence
+under <a href="/doc/268919/" id="a_7">Section 139</a> of N.I.Act.,        It can be presumed that, no
+any ordinary prudent man will issue signed blank cheque to
+any other persons without having monetary transaction
+between themselves. It can be presumed that, the drawer of
+cheque has to take abundant precaution prior to issuance of
+the signed blank cheque to any other persons.          Hence, the
+probability of the preponderance is higher on the side of the
+complainant, rather than the accused.
+</p>
+
+<p id="p_18">18. Ordinarily    offence   under      <a href="/doc/1823824/" id="a_8">Section   138</a>   of   N.I.Act
+"mensrea" is not essential, under <a href="/doc/1823824/" id="a_9">Section 138</a> of N.I.Act , is
+bring into operation rule of strict liability, whereas, "mensrea"
+</p><span class="hidden_text" id="span_13">                                15               CC No.16205/2017</span>
+
+<p id="p_19">is essential ingredients in criminal offences. Therefore, The
+complainant has proved his case against the accused, since
+offence under <a href="/doc/1823824/" id="a_10">Section 138</a> of N.I.Act element of Mensrea has
+been excluded in general public interest to curb the instances
+of dishonouring of cheque and to lend the credibility to the
+commercial transaction.     Therefore, in this case also the
+accused knowing fully he was borrowed the loan in question
+from the complainant and for discharge the loan in question
+he has issued the Ex.P1 to the complainant.           Since the
+present complaint is summary trial and quasi-criminal in
+nature, it is like recovery proceedings and punishment is fine
+or in default of it simple imprisonment.
+</p>
+
+<p id="p_20">19.   Hence, in the light of the above observation, the
+complainant has successfully proved that, the accused has
+committed offence punishable under <a href="/doc/1823824/" id="a_11">Section 138</a> of N.I. Act
+with these reasons, I am the opinion that, the complainant
+successfully established before the Court, the accused has
+issued Ex.P1 to the complainant for the legally recoverably
+debt. Therefore, I answer the point No.1 in the affirmative.
+</p>
+
+<p id="p_21">20.   Point No.2 :-    In view of my findings on Point No.1
+Partly in the affirmative, I proceed to pas the following...
+</p>
+<p id="p_22">                                    <a href="/doc/181955/" id="a_12">ORDER
+
+                 Act</a>ing U/s 255(2) <a href="/doc/445276/" id="a_13">Cr.P.C</a>., the accused is
+           convicted for the offence punishable U/s. 138
+           of <a href="/doc/1132672/" id="a_14">N.I. Act</a>.
+</p><span class="hidden_text" id="span_14">                                             16                       CC No.16205/2017</span>
+
+
+
+<pre id="pre_3">                         The       accused          shall      pay       a     fine      of
+                Rs.5,00,000/-.             In default of payment of said
+</pre><p id="p_23">                fine amount, the accused shall undergo simple
+                imprisonment for three months.
+</p>
+
+<p id="p_24">                         Further, ordered that, out of the fine
+                amount of Rs.4,95,000/- shall be paid to the
+                complainant as compensation, as provided U/s
+                357 of <a href="/doc/445276/" id="a_15">Cr.P.C</a>., and remaining an amount of
+                Rs.5,000/- shall be remitted to the state as
+                fine.
+</p>
+<p id="p_25">                         The bail bond and surety bond of the
+                accused stands cancelled.
+</p><p id="p_26">                         Free copy issued to the accused.
+</p>
+<p id="p_27"> (Dictated to the Stenographer, transcript thereof is computerized and print out taken by her
+is verified, corrected and then pronounced by me in the open Court on this the 11th day of
+July 2018).
+</p>
+<p id="p_28">                                    (Rajkumar.S.Amminbhavi)
+                             XII Addl. Chief Metropolitan Magistrate,
+                                         Bengaluru City.
+</p>
+<p id="p_29">                                 ANNEXURE
+
+List of witnesses examined on behalf of the complainant:
+</p>
+<p id="p_30">PW.1                      Govindaiah .N.T
+List of documents exhibited on behalf of the complainant:
+</p>
+<pre id="pre_4">Ex.P.1                    Cheque
+Ex.P.1(a)                 Signature of the accused
+Ex.P.2                    Bank endorsement
+Ex.P.3                    Office copy of the legal Notice
+<span class="hidden_text" id="span_15">                                  17            CC No.16205/2017</span>
+
+Ex.P.4             Postal receipt
+Ex.P.5             Postal acknowledgment
+Ex.P.5(a)          Signature of the accused
+Ex.P.6             Statement of account
+
+</pre><p id="p_31">List of witnesses examined on behalf of the accused :
+</p><p id="p_32">DW-1               T. Srinivas
+
+List of documents exhibited on behalf of the accused :
+</p>
+<p id="p_33">Ex.D1              Bank passbook
+Ex.D1(a) to 1(j)   Relevant entries in Ex.D1
+Ex.D2 to 4         Three Cheques
+Ex.D5              Bank endorsement
+Ex.D6              Cheque
+Ex.D7              Bank endorsement
+Ex.D8              Cheque
+Ex.D9              Bank endorsement
+Ex.D10             Statement of Account
+Ex.D10(a)          Relevant entry in Ex.D10
+
+
+
+                    XII Addl. Chief Metropolitan Magistrate,
+                                Bengaluru City.
+</p><span class="hidden_text" id="span_16">                                18              CC No.16205/2017</span>
+
+
+
+<p id="p_34">11.07.2018.
+</p><p id="p_35">Complainant : AB
+Accused : SG
+Judgment.
+</p><p id="p_36">   (Vide separate judgment pronounced in the open Court)
+
+                            ORDER
+                   Acting U/s 255(2) <a href="/doc/445276/" id="a_16">Cr.P.C</a>., the accused is
+           convicted for the offence punishable U/s. 138
+           of <a href="/doc/1132672/" id="a_17">N.I. Act</a>.
+</p>
+<pre id="pre_5">                   The    accused   shall   pay   a   fine      of
+           Rs.5,00,000/-.     In default of payment of said
+</pre><p id="p_37">           fine amount, the accused shall undergo simple
+           imprisonment for three months.
+</p>
+<p id="p_38">                   Further, ordered that, out of the fine
+           amount of Rs.4,95,000/- shall be paid to the
+           complainant as compensation, as provided U/s
+           357 of <a href="/doc/445276/" id="a_18">Cr.P.C</a>., and remaining an amount of
+           Rs.5,000/- shall be remitted to the state as
+           fine.
+</p><p id="p_39">                   The bail bond and surety bond of the
+           accused stands cancelled.
+</p><p id="p_40">                   Free copy issued to the accused.
+</p>
+
+
+<p id="p_41">                     XII Addl. Chief Metropolitan Magistrate,
+                                 Bengaluru City.
+</p><span class="hidden_text" id="span_17"> 19   CC No.16205/2017</span>
+<span class="hidden_text" id="span_18">             20   CC No.16205/2017</span>
+
+
+
+
+<p id="p_42">Heard
+Inference
+<span class="hidden_text" id="span_19"> 21   CC No.16205/2017</span>
+<span class="hidden_text" id="span_20"> 22   CC No.16205/2017</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

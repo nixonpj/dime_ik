@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S.Sounder Textiles vs The Secretary on 20 May, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/612076/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/132967048/">The Electricity Rules, 2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/612076/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/612076/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/612076/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamilnadu%20electricity%20board%20">tamilnadu electricity board </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Tamil%20Nadu%20Electricity%20Board">Tamil Nadu Electricity Board</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20regulatory%20commission">electricity regulatory commission</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tamil%20electricity%20board%20">tamil electricity board </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20act%202003">electricity act 2003</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=electricity%20act%20">electricity act </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2056">section 56</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tneb">tneb</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">M/S.Sounder Textiles vs The Secretary on 20 May, 2010</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+Dated: 20.05.2010
+
+Coram :
+
+ Honourable Mr. JUSTICE V. DHANAPALAN 
+
+Writ Petition No.11045 of  2010
+
+
+M/s.Sounder Textiles,
+(HTCS No.231)
+represented by G.Soundararajan
+Partner,
+S.F.No.288, Kannampalayam Post,
+near Bharathi Puram, Sulur Via,
+Coimbatore 641 402.				... Petitioner 
+	
+-Vs.-
+
+1.	The Secretary,
+	Tamil Nadu Electricity Regulatory Commission
+   	19-A, Rukmini Lakshmipathy Salai,
+   	(Marshall's Road)
+	Egmore, Chennai  600 008.
+
+2.	The Chairman,
+   	Tamil Nadu Electricity Board,
+   	144, Anna Salai,
+   	Chennai 600 002.
+
+3.	The Superintending Engineer,
+   	Coimbatore Electricity Distribution Circle-Metro,
+          Tamil Nadu Electricity Board,
+   	Tatabad, 
+	Coimbatore-641 012.					... Respondents
+					
+ 	Writ Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India praying for the issuance of a writ of certiorarified mandamus calling for the records on the file of the third respondent in Lr.No.SE/CEDC/M/CBE/DFC/AO/RHT/F, peak excess charges/10, dated 07.05.2010 and quash the same in so far as it relates to levy of penalty for exceeding quota during evening peak hours as illegal, arbitrary, without authority of law and against the orders of the third respondent made in Miscellaneous Petition No.42 of 2008 dated 28.11.2008 and consequently direct the 2nd and 3rd respondents to give adjustments in their subsequent month bills in respect of the petitioner's Service Connection HTSC No.231, Tamil Nadu Electricity Board, Coimbatore Electricity Distribution Circle.
+
+		For Petitioner 	 :  	Mr.M.Kamalanathan
+		For Respondents  	:  	Mr.A.Selvendran		
+					
+O R D E R 
+</pre><p id="p_1">	The writ petition has been filed challenging the demand made by the third respondent dated 07.05.2010, so far as it relates to levy of penalty for exceeding quota during evening peak hours alleging that the same is illegal, arbitrary and without the authority of law.
+</p>
+<p id="p_2">	2. 	According to the petitioner, they are a partnership concern engaged in the manufacture of Yarn and other allied products and they have been consuming electricity as per the quota permitted and remitting the charges as claimed in the Bills every month then and there.  While so, the 3rd respondent raised demand notice against the petitioner for the alleged violation of excess usage of demand during peak hours for the period from November 2008 to July 2009.  Challenging the same, the  petitioner filed a writ petition before this Court and this Court, by its order had set aside the levy of penalty by the third respondent and directed the third respondent to pass orders afresh after due notice to the petitioner and after hearing the petitioner. While so, the present impugned order dated 07.05.2010 came to be passed and hence the petitioner has approached this Court by filing the present writ petition.
+</p>
+<p id="p_3">	3. 	In the mean while, the Tamil Nadu Electricity Regulatory Commission passed an order dated 04.05.2010 clarifying that the consumption of demand and energy quota in excess over the quota is liable to be charged at the rate mentioned in Para 29 of the earlier order made in M.P.No.42 of 2008 dated 28.11.2008, irrespective of the fact whether the excess is recorded during the non-peak hour or evening peak hour. This was pointed out by the learned counsel appearing for the Tamil Nadu Electricity Board. 
+</p>
+<p id="p_4">	4. 	The learned counsel appearing for the petitioner contended as follows:
+</p><p id="p_5">		(i) 	The petitioner was not a party to the proceedings before the  Tamil Nadu Electricity Regulatory Commission and hence the said order will not bind the petitioner.
+</p>
+<p id="p_6">		(ii) 	Even assuming that the said order is binding on the petitioner, an appeal remedy is provided for them before the Appellate Tribunal for Electricity and the petitioner will have a time of 45 days to prefer such an appeal. While so, the present impugned demand cannot be made by the third respondent.
+</p>
+<p id="p_7">			(iii) 	If the third respondent pursues the demand notice compelling the petitioner to pay the amount by threatening the petitioner with consequences of disconnection of service, the petitioner will be deprived of an opportunity of filing an appeal before the Appellate Tribunal for Electricity. 
+</p>
+<p id="p_8">	5. 	On the other hand, the learned counsel appearing for the respondents  submitted as follows :-
+</p>	
+<p id="p_9">	(i) 	Since an appeal remedy is available to the petitioner, it has to exhaust that remedy before the Appellate Tribunal for Electricity and the present writ petition is not sustainable.
+</p>
+<p id="p_10">	(ii) 	Even assuming that the petitioner is not party to the proceeding before the Tamil Nadu Electricity Regulatory Commission, the order dated 04.05.2010 is only a clarification issued by the Commission in pursuance to the orders of this Court in several earlier writ petitions and hence, it will govern the case of the petitioner herein also."
+</p>	
+<p id="p_11">	6. 	I have considered the submissions made by the learned counsel appearing for the petitioner as well as the learned counsel appearing for the Tamil Nadu Electricity Board. 
+</p>
+<p id="p_12">	7.	The contention that is raised in the writ petition is that there was no provision in the order made in M.P.No.42 of 2008 dated 28.11.2008 of the first respondent to levy penalty for exceeding the quota during the evening peak hours. Paragraph 33 of the order made thereunder, to which reliance was placed by the learned counsel appearing for the petitioner, is set out hereunder:
+</p><p id="p_13">	"33. The TNEB has proposed to restrict the demand of HT industrial and HT commercial consumers to 5% and 10% respectively during the evening peak hours from 6 PM to 10 PM. They have, further proposed that consumers violating the restrictions and the demand and energy quota should be liable to face the restricted demand of 5% or 10% as the case may be for the following 48 hours. The Commission accepts the above proposals in view of the acute shortage of power.
+
+	8.1. 	However, the Tamil Nadu Electricity Consumers Association filed M.P.No.4 of 2010 before the Tamil Nadu Electricity Regulatory Commission (hereinafter called the Commission) to punish the Tamil Nadu Electricity Board by imposing a maximum punishment by passing appropriate orders in exercise of powers conferred in <a href="/doc/132967048/" id="a_2">Sections 142</a> and <a href="/doc/132967048/" id="a_3">146</a> of the Electricity Act, 2003.
+</p>
+<p id="p_14">	8.2. 	Further, the Tamil Nadu Spinning Mills Association filed M.P.No.7 of 2010, contending that the Electricity Board has no power or authority to levy penalty in terms of money for the alleged excess use of demand and energy during evening peak hours except for the reduction of demand to the level of 5% for the following 48 hours as specifically stated in paragraph 33 of the order passed in M.P.No.42 of 2008 dated 28.11.2008. 
+</p>
+<p id="p_15">	8.3. 	The above applications came up before the Commission and the Commission has passed the following order:
+</p>
+<p id="p_16">	"11.5. Para 29 of the Order of the Commission in M.P.No.42 of 2008 stipulates that excess demand and excess energy shall be charged at thrice the normal rate for HT industrial and HT commercial consumers. This is a general stipulation and should be deemed to apply to all demand and energy consumption in excess of the quota determined by the licensee. This was designed as a monetary disincentive to discourage HT industrial and commercial consumers from exceeding the demand and energy quota. Para 33 should be read in conjunction with para 29. Para 33 deals with non-monetary measures for the specific period between 6.00 p.m. to 10.00 p.m. to dissuade HT industrial and HT commercial consumers from drawing power in excess of 5% and 10% respectively. In other words, the demand quota for HT industrial consumers would be 5% between 6.00 p.m. and 10.00 p.m. and the demand quota for HT commercial consumers would be 10% between 6.00 p.m. and 10.00 p.m. Consumption of demand and energy in excess over the quota is liable to be changed at the rate mentioned in para 29 irrespective of the fact whether the excess is recorded during non-peak hour or evening peak hour.
+</p> 	
+<p id="p_17">	11.6. Para 35 of the Order of the Commission in M.P.No.42 of 2008 talks of a third deterrent, the first being levy of excess demand / energy charges and the second being pruning of the quota for the following 48 hours. Para 30 of the Order in M.P.No.42 of 2008 envisages similar treatment for LT CT industrial and LT CT commercial consumers.
+</p><p id="p_18">	***
+
+	11.11. Therefore, it is clear that the Order of the Commission in M.P.No.42 of 2008 prescribed excess demand and excess energy charges for evening peak hour violation also."
+</p>
+<p id="p_19">	8.4. 	The Commission also discussed and held that a licensee is empowered to claim its demand upto a period of two years from the date when such sum became due, since a plea was taken by the consumers that excess demand charges and excess quota charges have been raised by the Tamil Nadu Electricity Board belatedly. Paragraphs 11.12, 11.13 and 11.14 of the said order is usefully extracted here under:		
+</p><p id="p_20">	"11.12. A plea has been raised by the Petitioners that excess demand charges and excess energy charges have been raised by the TNEB belatedly as late as one year after the Order. The excess demand charge and excess energy charge being in the nature of penalty, ought to have been levied promptly, in which case the Petitioners would have desisted from consuming excess power. The conduct of the TNEB, according to them, in raising the demand almost a year after the Order of the Commission amounts to waiver of claim for penal charges. 
+</p>
+<p id="p_21">	11.13. We wish to refer, in this context, to <a href="/doc/132967048/" id="a_4">Section 56</a> of the Electricity Act 2003 extracted below:
+</p>
+<p id="p_22">	"56. Disconnection of supply in default of payment  (1) Where any person neglects to pay any charge for electricity or any sum other than a charge for electricity due from him to a licensee or the generating company in respect of supply, transmission or distribution or wheeling of electricity to him, the licensee or the generating company may, after giving not less that fifteen clear days' notice in writing, to such person and without prejudice to his rights to recover such charge or other sum by suit, cut off the supply of electricity and for that purpose cut or disconnect any electric supply line or other works being the property of such licensee or the generating company through which electricity may have been supplied, transmitted, distributed or wheeled land may discontinue the supply until such charge or other sum, together with any expenses incurred by him in cutting off and reconnecting the supply, are paid, but no longer:
+</p>
+<p id="p_23">	Provided that the supply of electricity shall not be cut off if such person deposits, under protest,-	
+</p><p id="p_24">	a) an amount equal to the sum claimed from him, or
+		
+</p><p id="p_25">	b) the electricity charges due from him for each month calculated on the basis of average charge for electricity paid by him during the preceding six months, whichever is less, pending disposal of any dispute between him and the licensee. 
+</p>	
+<p id="p_26">	(2) Notwithstanding anything contained in any other law for the time being in force, no sum due from any consumer, under this section shall be recoverable after the period of two years from the date when such sum became first due unless such sum has been shown continuously as recoverable as arrear of charges for electricity supplied and the licensee shall not cut off the supply of the electricity."
+</p>
+<p id="p_27">	11.14. <a href="/doc/132967048/" id="a_5">Section 56</a> makes it clear that a licensee is empowered to claim its demand upto a period of two years from the date when such sum became due. The "charge for electricity" mentioned in <a href="/doc/132967048/" id="a_6">Section 56(1)</a> refers to the electricity tariff; "any some other than a charge for electricity" referred to in <a href="/doc/132967048/" id="a_7">Section 56(1)</a> means charges other than tariff charges such as capacitor compensation charge, excess demand charge, belated payment surcharge, additional security deposit, name transfer charge, re-connection charge, meter related charges etc., mentioned in Clause 4 of the Tamil Nadu Electricity Supply Code 2004 notified by the Commission. Therefore, we have to conclude that the TNEB is entitled to recover any sum due to them within a period of two years."
+</p>
+<p id="p_28">	9. 	Thus, the entire bone of contention raised by the petitioner is that the levy of penalty for exceeding evening peak hour quota as against the order made by the Commission in M.P.No.42 of 2008 dated 28.11.2008 has been watered down by the subsequent order of the Commission dated 04.05.2010. 
+</p>
+<p id="p_29">	10. 	The other contention raised by the learned counsel appearing for the petitioner, though not originally in the writ petition, since it was necessitated in view of the subsequent order of the Commission dated 04.05.2010, is that since the petitioner was not a party to the said order made on 04.05.2010, the same will not bind the petitioner. The said contention raised on behalf of the petitioner cannot be accepted since the Commission had only clarified its order made in M.P.No.42 of 2008 dated 28.11.2008 and it will be applicable to all the consumers irrespective of the fact whether they were before the Commission or not. Thus, I am unable to accept the said contention raised by the learned counsel appearing for the petitioner. 	
+</p>	
+<p id="p_30">	11. 	That apart, the petitioner admittedly has got a remedy of filing an appeal before the Appellate Tribunal for Electricity as per <a href="/doc/132967048/" id="a_8">Section 111</a> of the Electricity Act, 2003.  The petitioner can very well approach the appellate authority, if the demand is made by the third respondent towards the penalty for exceeding the peak hour quota.  Since, the Commission had clarified its position that demand can be made by the Electricity Board by levying penalty for exceeding the evening peak hour quota, the petitioner can very well approach the appellate authority referred to above. 
+</p>
+<p id="p_31">	12. 	Hence, the petitioner, as stated earlier, has to exhaust their remedy before the Appellate forum.  When a statutory remedy is available to the petitioner to approach the Appellate Tribunal, the present writ petition filed under <a href="/doc/1712542/" id="a_9">Article 226</a> of the Constitution of India may not be a proper remedy. 
+</p>
+<p id="p_32">	13. 	The next bone of contention raised by the learned counsel appearing for the petitioner is that when the petitioner could approach the Appellate Tribunal by filing an appeal and the said appeal could be filed within 45 days from the date of the order / demand, the respondent cannot hurriedly issue a demand asking the petitioner to pay the penalty, depriving the petitioner an opportunity of filing an appeal before the Appellate Tribunal. The demand was made by proceeding dated 08.05.2010 of the third respondent. The petitioner could have very well filed an appeal and could have moved the Appellate Tribunal instead of approaching this Court by filing the present writ petition. 
+</p>
+<p id="p_33">	14. 	In view of the above discussions made, the irresistible conclusion that could be arrived at, is :
+</p>
+<p id="p_34">		(i) The first respondent, the Tamil Nadu Electricity Regulatory Commission had clarified by an order dated 04.05.2010 that the Tamil Nadu Electricity Board has got the power to levy the penalty for exceeding evening peak hour quota and hence the remedy of the petitioner lies in filing an appeal before the Appellate Tribunal for Electricity as per <a href="/doc/132967048/" id="a_10">Section 111</a> of the Electricity Act, 2003.
+</p>	
+<p id="p_35">		(ii) 	When such an alternative remedy is available to the petitioner, the petitioner cannot approach this Court by filing the present writ petition under <a href="/doc/1712542/" id="a_11">Article 226</a> of the Constitution of India.
+</p>	
+<p id="p_36">		(iii) 	The order of the Commission will bind all the parties concerned, since it is only a clarification made by the Commission on its earlier order made in M.P.No.42 of 2008 at the instance of this Court.  Hence, the petitioner cannot be heard to say that it was not a party to the said order.
+</p>
+<p id="p_37">		(iv) 	Since the petitioner was prosecuting the matter before this Court against the order of demand made by the third respondent, the petitioner will have 15 days' time to approach the appellate authority challenging the said demand. 
+</p>
+<p id="p_38">		(v) 	However, since it has been submitted that a sum of Rupees Four Hundred Crores is due to the Electricity Board by the petitioner and the like, the petitioner is directed to deposit with the third respondent 30% of the amount demanded, within one (1) week from the date of receipt of this order.  If such amount is paid within the aforesaid period, the third respondent or other respondents shall not enforce the demand for a period of three weeks from the date of receipt of this order.	
+</p>		
+<p id="p_39">	The writ petition is ordered accordingly. However, there shall be no order as to costs. Consequently, M.P. No.1 of 2010 stands closed.  
+</p>
+
+
+
+
+
+
+
+
+
+
+<p id="p_40">abe
+
+To	
+
+</p><p id="p_41">1.	The Secretary,
+	Tamil Nadu Electricity Regulatory Commission
+   	19-A, Rukmini Lakshmipathy Salai,
+   	(Marshall's Road)
+	Egmore, Chennai  600 008.
+</p>
+<p id="p_42">2.	The Chairman,
+   	Tamil Nadu Electricity Board,
+   	144, Anna Salai,
+   	Chennai 600 002.
+</p>
+<p id="p_43">3.	The Superintending Engineer,
+   	Coimbatore Electricity Distribution Circle-Metro,
+          Tamil Nadu Electricity Board,
+   	Tatabad, 
+	Coimbatore 641 012
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

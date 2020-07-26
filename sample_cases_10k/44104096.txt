@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Geeta Rani @ Reena Rani vs Lt.Col.Surjit Singh on 15 May, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/44104096/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/44104096/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/44104096/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rani">rani</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jaswant%20singh">jaswant singh</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Geeta Rani @ Reena Rani vs Lt.Col.Surjit Singh on 15 May, 2014</div><pre id="pre_1">CR 3038/2002                                                                      374
+
+        IN THE HIGH COURT OF PUNJAB &amp; HARYANA
+                    AT CHANDIGARH
+
+                                           Date of decision:15/05/2014.
+
+Geeta Rani @ Reena Rani
+                                           .............Petitioner
+
+                        v.
+
+Lt.Col.Surjit Singh
+
+                                           .............Respondents</pre>
+
+
+<p id="p_1">CORAM: HON'BLE MR.JUSTICE JASWANT SINGH
+
+Present:-    None for the petitioner
+
+Jaswant Singh,J.(Oral)
+             Judgment Debtor is in revision under Section 115 CPC
+aggrieved against the order dated 6.5.2002 passed by the learned Civil
+Judge (Senior Division)Patiala, whereby mesne profit in respect of
+property in dispute has been assessed @ Rs.3500/- per month.
+</p><p id="p_2">             The present revision petition was "Admitted" vide order
+dated 16.7.2002.
+</p><p id="p_3">             Thereafter the case has been listed for hearing on 9.7.2013,
+24.4.2014 and 8.5.2014.          On these three dates none had put in
+appearance on behalf of the petitioner. Same is the position today.
+</p><p id="p_4">             It appears that the petitioner is not interested in pursuing
+the present revision petition.
+</p><p id="p_5">             Dismissed in default.
+</p>
+
+<pre id="pre_2">15.05.2014                                              (Jaswant Singh)
+joshi                                                       Judge
+
+
+
+
+                                                                      Joshi Rajinder Prashad
+                                                                      2014.05.15 15:59
+                                                                      I attest to the accuracy of this
+                                                                      Order.
+                                                                      High Court, Chandigarh.
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

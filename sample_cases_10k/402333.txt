@@ -1,0 +1,617 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M. F. C. Industries (P.) Ltd. vs Income-Tax Officer. on 24 February, 1984</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/402333/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 15 docs 
+      
+        - [<A HREF="/search/?formInput=cites:402333">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1032671/">Section 104 in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1353758/">The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1916655/">Section 143 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/957191/">The Commissioner Of Income-Tax, ... vs M/S. Vegetables Products Ltd on 29 January, 1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/789969/">The Income- Tax Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/402333/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/402333/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=104">104</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=General%20body%20of%20">General body of </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=declaration%20of%20dividend%20by%20whom">declaration of dividend by whom</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=any%20other%20sufficient%20reason">any other sufficient reason</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bad%20debts">bad debts</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">M. F. C. Industries (P.) Ltd. vs Income-Tax Officer. on 24 February, 1984</div><div class="doc_citations">Equivalent citations: 1986 17 ITD 951 Mad</div>
+
+<p id="p_1">ORDER
+ 
+
+Per Shri C. Kochunni Nair, Judicial Member - Both appeals are by the assessee. The assessment years 1977-78 and 1978-79, with calendar years as the accounting year. The appeals are against the orders of the ITO passed under <a href="/doc/1032671/" id="a_1">section 104</a> of the Income-tax Act, 1961 (the Act) and confirmed by the Commissioner (Appeals). The additional income-tax levied is Rs. 1,71,522 for the assessment year 1977-78 and Rs. 1,95,442 for the assessment year 1978-79.
+</p> 
+
+<p id="p_2">2. The assessee is a private limited company. It busy and sell fertilisers and also mixes those and sells. Its accounting years ended on December 1976 and December 1977 respectively for these two assessment years. The impugned orders were passed by the ITO on 30-3-1981 for the assessment year 1977-78 and on 30-3-1982 for the assessment year 1978-79. The assessee did not declare any dividend at all for any of these two years within the prescribed period of twelve months immediately following the relevant previous years, that is, within 31-12-1977 for the assessment year 1977-78 nd 31-12-1978 for the assessment year 1978-79. But he had declared dividend before the assessment orders were passed. For the assessment year 1977-78 it had declared and paid a dividend of Rs. 2,42,000 on 30-4-1979. For the assessment year 1978-79 it had declared and paid on 16-5-1980 a dividend of Rs. 2,26,875. The assessee argued in vain before the income-tax authorities that in a case where proper dividends were declared and paid before the date of order under <a href="/doc/1032671/" id="a_2">section 104</a>, which provision is penal in character, the ITO should desist from passing an order under that section, and argued similar to the finding of the Calcutta High Court in <a href="/doc/957191/" id="a_3">CIT v. Vegetable Products Ltd</a>. [1971] 80 ITR 14 to the effect that unless on the day penalty is being levied some amount of tax remains outstanding or payable by the assessee, no penalty can be imposed at all, and which judgment was later upheld by the Supreme Court in <a href="/doc/957191/" id="a_4">CIT v. Vegetable Products Ltd</a>. [1973] 88 ITR 192. The income-tax authorities held the view that dividend declared after the expiry of 12 months from the end of the accounting year has only to be ignored, particularly in view of the amendment by addition of the words within the said period of twelve months to the said <a href="/doc/1032671/" id="a_5">section 104</a>. Of course, the assessee had also disputed the computation of distributable income and pleaded that it is also an industrial company.
+</p> 
+
+<p id="p_3">3. The assessee argued before us, in addition to what it argued before the income-tax authorities, that if for reasonable and sufficient cause the assessee could not, within twelve months of the expiry of the accounting years hold its general body meeting, which only can declare the dividends, on account of difficulties in finalisation of accounts and that in a case where there is no negligence or indifference on the part of the management of the assessee either in finalisation of accounts or calling the general body meeting, then it is permissible to take into account the fact of declaration and payment of proper dividends, even though such declaration and payment is after twelve months, provided it is so done before the date of the order to be passed under <a href="/doc/1032671/" id="a_6">section 104</a>. The assessee for this proposition cited the case of <a href="/doc/1457553/" id="a_7">CIT v. Dedia Agency (P</a>.) Ltd. [1980] 122 ITR 110 (Bom) and also a Madras Bench C of the Tribunals decision in the case of <a href="/doc/863533/" id="a_8">ITO v. Sawhney Trading Co. (P</a>.) Ltd. [IT appeal No. 555 (Mad.) of 1980 decided on 21-4-1981], - assessment year 1975-76 to which one of us, the Accountant Member, was a party. The sum and substance of the submission of the assessee is that <a href="/doc/1032671/" id="a_9">section 104</a> is penal in nature, that as aforesaid, where in a case declaration of dividends within twelve months becomes an impossibility for good and sufficient reasons and then when proper dividend is declared after twelve months, that declaration and payment after twelve months should be treated as declaration and payment of dividend within twelve months, or in such appropriate cases, the period of twelve months provided in <a href="/doc/1032671/" id="a_10">section 104</a> can be extended for good and sufficient reasons.
+</p> 
+
+<p id="p_4">4. The assessee for the proposition in raised before the income-tax authorities cited the following passage from <a href="/doc/1336019/" id="a_11">CIT v. Abdul Rahim Osman &amp; Co. (India) (P</a>.) Ltd. [1972] 86 ITR 436 (SC) :
+</p> 
+
+<p id="p_5">"... As the company can only declare dividends in genera meeting from the profits earned by it, and when that is declared and paid the Income-tax Officer, though for the non-fulfilment of the conditions prescribed in the section he may seek to reopen it, cannot make an assessment in cases where the dividend has actually been declared and paid before the date of his order..." (p. 439)
+ 
+
+and argued that that proposition expounded by the Supreme Court about the jurisdiction of the ITO will hold the field and the Parliament in the subsequent statutory amendment has left that proposition untouched and undisturbed and that the amendment was only to provide a method for the computation of distributable income in case where a <a href="/doc/1032671/" id="a_12">section 104</a> order can be lawfully passed by the ITO. However, we are not going into this particular question because we thing that this case is governed by the Tribunal decision (supra), where there is reasonable cause for the failure within twelve months. The assessee has various branches and units. So consolidation of accounts has become a difficult task. The assessee has been expressing this great difficulty experienced in the finalisation of accounts even for the year 1972. The assessee had furnished in the paper book a chart about the dates of various events from 1972 onwards like general body meeting, date of directors report, etc. The assessee had also made available the annual report for years beginning from 1972. What we find is that dividends were declared on 30-6-1975 for the year ended 31-12-197 on 21-4-1976 for the year ended 31-12-1973, on 4-12-1976 for the year ended 31-12-1974, on 20-5-1978 for the year ended 31-12-1975, on 30-4-1979 for the year ended 31-12-1976 and on 16-5-1980 for the year ended 31-12-1977. In the annual report for all these years it is repeatedly stated that on account of the voluminous work involved in the numerous branches and due to unforeseen circumstances the balance sheet and statements could not be placed earlier and that, however, necessary administrative remedial steps are being taken to place the balance sheet promptly in future. All these show that there were genuine and bona fide difficulties in the finalisation of accounts. The audit report for each of these years were finalised only a few days before the general body meeting calling for declaration of dividends. After the audit report was prepared there was absolutely no delay in declaration of dividends. The twelve months for 1977-78 expired on 31-12-1977. But that date even the dividend for 1976-77 had not been declared. So we find that there was reasonable and sufficient cause for each of these two years in their failure to declare dividend within twelve months. It is not certainly due to any mala fides. It was for good reasons that it was not called within twelve months. There was also no motive to avoid distribution of dividends. It is to be noted that without accounts finalisation, general body cannot declare dividends. So, the assessee cannot do the impossible. Nor can it be asked to do it on paid of drastic punishment by way of imposition of additional income-tax. In every year the assessee was taking genuine and bona fide steps to get accounts finalised and to pay the dividend. The failure on account of a heritage of the past years for which years was no such levy of additional income-tax. Without finalising the accounts of one year it is not also possible to attend to the accounts of the next year. So we find that there are good and sufficient reasons for the failure within twelve months.
+</p> 
+
+<p id="p_6">5. So we have to go to the next question whether the assessee had declared the necessary dividend without any shortfall. As matters stand, if the distributable income as worked out by the ITO is accepted, then there is a shortfall. The dividend to be declared should be Rs. 2,74,436 for the assessment year 1977-78 and Rs. 3,12,707 for the assessment year 1978-79. Of course for the assessment year 1977-78 the protection provided under <a href="/doc/789969/" id="a_13">section 105</a> of the Act is available as the shortfall is within the permitted range of 10 per cent. But the assessee contested the correctness of the working of distributable income. The ITO for the assessment year 1977-78 worked it out as follows :
+</p> 
+
+<p id="p_7">Assessment year 1977-78 
+ 
+
+(Year ended 31-12-1976) 
+ 
+    
+  
+ 
+ 
+
+Rs. 
+</p>
+<p id="p_8">Rs.
+</p> 
+ 
+
+<p id="p_9">Rs. 
+</p>
+<p id="p_10">Rs.
+</p>
+  
+ 
+
+<p id="p_11">"1. 
+</p> 
+ 
+
+<p id="p_12">Gross total income as per assessment order 
+  
+ 
+ 
+
+16,20,225
+
+  
+ 
+
+</p><p id="p_13">2. 
+ 
+ 
+
+Deduction allowed by ITO Less: Income-tax 
+ 
+ 
+
+10,48,943 
+  
+
+   
+ 
+ 
+
+Disallowances made in the adjustment statement 
+ 
+ 
+
+20.000 
+  
+
+   
+ 
+ 
+
+Donations 
+ 
+ 
+
+45,000 
+  
+
+   
+ 
+ 
+
+Bad debts disallowed 
+ 
+ 
+
+34,558 
+  
+
+   
+ 
+ 
+
+Disallowance under <a href="/doc/1597024/" id="a_14">section 40A(8)</a> 
+ 
+ 
+
+<a href="/doc/588056/" id="a_15">14</a>,<a href="/doc/789969/" id="a_16">331</a> 
+  
+
+   
+ 
+ 
+
+Welfare expenses disallowed 
+ 
+ 
+
+</p><p id="p_14">- 
+</p> 
+ 
+
+<p id="p_15">11,62,832 
+
+   
+ 
+ 
+
+Distributable income as per ITOs order : 
+</p>  
+ 
+ 
+
+<p id="p_16">4,57,393" 
+</p>
+  
+ 
+
+<p id="p_17">6. 
+ 
+ 
+
+The assessee wants the following more deductions:
+</p>  
+  
+
+   
+ 
+ 
+
+<p id="p_18">"Less : Transferred to general reserve (statutory as per <a href="/doc/1360871/" id="a_17">section 205(2A)</a> of the Companies Act, 1956) 
+ 
+ 
+
+26,000 
+  
+
+   
+ 
+ 
+
+Reserve for bad and doubtful debts 
+ 
+ 
+
+44,710 
+  
+
+   
+ 
+ 
+
+Gratuity disallowed 
+ 
+ 
+
+3,68,604 
+ 
+ 
+
+4,39,414 
+
+   
+ 
+ 
+
+Distributable income 
+  
+ 
+ 
+
+18,079" 
+</p>
+
+
+ 
+
+<p id="p_19">7. For the assessment year 1978-79 the working of the ITO is as follows :
+</p> 
+
+<p id="p_20">Assessment year 1978-79 
+ 
+
+(Year ended 31-12-1978)
+ 
+    
+  
+ 
+ 
+
+Rs. 
+</p>
+<p id="p_21">Rs.
+</p> 
+ 
+
+<p id="p_22">Rs. 
+</p>
+<p id="p_23">Rs.
+</p>
+  
+ 
+
+<p id="p_24">"1. 
+</p> 
+ 
+
+<p id="p_25">Gross total income as per assessment Order
+  
+ 
+ 
+
+19,70,200 
+
+  
+ 
+
+</p><p id="p_26">2. 
+ 
+ 
+
+Deduction allowed by ITO Less : Income-tax 
+ 
+ 
+
+13,44,662
+  
+
+   
+ 
+ 
+
+Disallowances made in the adjustment Statement 
+ 
+ 
+
+26,105
+  
+
+   
+ 
+ 
+
+Donations 
+ 
+ 
+
+39,687
+  
+
+   
+ 
+ 
+
+Bad debts disallowed 
+ 
+ 
+
+18,567
+  
+
+   
+ 
+ 
+
+Disallowance under <a href="/doc/1353758/" id="a_18">section 40A(8)</a> 
+ 
+ 
+
+<a href="/doc/1673226/" id="a_19">20</a>,<a href="/doc/1353758/" id="a_20">000</a> 
+ 
+ 
+
+<a href="/doc/865734/" id="a_21">14</a>,<a href="/doc/41258/" id="a_22">49</a>,<a href="/doc/1353758/" id="a_23">021</a> 
+
+   
+ 
+ 
+
+Distributable income as per ITOs order 
+  
+ 
+ 
+
+5,21,179" 
+</p>
+
+
+ 
+
+<p id="p_27">8. The assessee wants the following more deductions :
+</p> 
+    
+ 
+ 
+
+<p id="p_28">Rs. 
+</p>
+<p id="p_29">Rs.
+</p> 
+ 
+
+<p id="p_30">Rs. 
+</p>
+<p id="p_31">Rs.
+</p> 
+ 
+
+<p id="p_32">Rs. 
+</p>
+<p id="p_33">Rs.
+</p>
+  
+ 
+
+<p id="p_34">"Less : Transferred to general reserve 
+  
+ 
+ 
+
+15,000
+  
+
+  
+ 
+
+Difference in taxation Taxation provided as per accounts (vide details) 
+ 
+ 
+
+15,05,356
+  
+  
+
+  
+ 
+
+Allowed by ITO 
+ 
+ 
+
+13,44,662 
+ 
+ 
+
+1,60,694 
+ 
+ 
+
+1,75,694 
+
+   
+  
+  
+ 
+ 
+
+3,45,485
+
+  
+ 
+
+Less : Interest on income-tax debited to prior period adjustment account 
+ 
+ 
+
+71,704
+  
+  
+
+  
+ 
+
+Inadmissible disallowed in the adjustment statement not taken into account by ITO 
+ 
+ 
+
+10,000 
+  
+ 
+ 
+
+81,704 
+
+  
+ 
+
+Distributable income : 
+</p>  
+  
+ 
+ 
+
+<p id="p_35">2,63,781" 
+</p>
+
+
+ 
+
+<p id="p_36">9. for the assessment year 1977-78 if the dividend declared should be equal to statutory percentage, the distributable income should be only Rs. 4,03,333 and not Rs. 4,57,393. The assessee wants three more deductions. The gratuity is made up of Rs. 3,52,770 being the gratuity liability to the employees up to 31-12-1976 at the rate of half months pay for the completed years of service and ground gratuity scheme insurance premium actually paid Rs. 15,834, aggregate being Rs. 3,68,604 which was disallowed in income-tax assessment. In our view, all these three deductions claimed are permissible. The first is a statutory obligation. It cannot be said to constitute any part of the income of the assessee. it is taken away by overriding title. It is not available to the assessee for any distribution or for any other use. Reserve for bad debt and doubtful debts and gratuity are certainly deductible. Those two will fall under <a href="/doc/1353758/" id="a_24">section 109(i)</a> (g) (4) of the Act of the definition of distributable income. [See also Chaturvedi and Pithisarias Income-tax Law. Third edn. Vol. 3, pages 2393 and 2394 and also 2431 - for gratuity see pages 2396 and 2431] So the distributable income is only Rs. 18,079 as worked out by the assessee. Therefore, this is a case where much more dividend in excess of the statutory percentage has been declared. In any even the additional income-tax that can be levied is only 37 1/2 per cent of this distributable income of Rs. 18,079.
+</p> 
+
+<p id="p_37">10. For the assessment year 1978-79 if the dividend declared should be equal to the statutory percentage, then the distributable income should be Rs. 3,78,108 instead of Rs. 5,21,579. The provision in the accounts for taxation was Rs. 15,05,356. The assessment under <a href="/doc/1916655/" id="a_25">section 143</a> of the Act was completed for the assessment year 1977-78 only 9-4-1980 and for the assessment year 1978-79 on 31-3-1981, whereas dividend was declared on 16-5-1980. The figure allowed by the ITO as deduction is the tax assessed on 31-3-1981. But that figure was not avilable on 16-5-1980. So the distributable income for purposes of dividend declaration has to be worked out on the basis of the provision in the accounts. The other items of general reserve are also deductible as stated for assessment year 1977-78. The other two items also fall under <a href="/doc/1353758/" id="a_26">section 109(i)</a> (g) (4) of the definition of distributable income. Interest payment, though it was for the previous periods, was paid only in August 1977 and it is, therefore, a revenue expenditure of the current year, though not allowable in income-tax assessment. So the distributable income is only Rs. 2,63,781. So this is a case where more dividends had been declared. Also in any event, the additional income-tax leviable is only 37 1/2 per cent of this distributable income of Rs. 2,63,781.
+</p> 
+
+<p id="p_38">11. However, we will take it that these are not deductible in the computation of distributable income. Even then we have to go into the question of smallness of profit -Chaturvedi and Pithisarias Income-tax Law. Third end. Vol. 3 page 2402. These items are certainly deductible in the computation of commercial profit. When dividend was proposed to be declared, only the audited accounts were available. The assessments for the years under <a href="/doc/1916655/" id="a_27">section 143(3)</a> were only made later. So with a commercial profit of Rs. 18,079 for the assessment year 1977-78, it is clear that no dividend need to be declared at all and that in any even payment of larger dividend than that declared would be quite unreasonable. Similarly for the assessment year 1978-79 with a commercial profit of Rs. 2,63,781 declaration of a larger dividend than that declared would be quite unreasonable. It is also not seen that the payment of a dividend or a larger dividend would have resulted in a benefit to the revenue. In other words, as the stated in the Tribunal order cited supra there is no detriment to revenue because of the postponement of the declaration of the dividend for this previous year. So the ITO as provided in <a href="/doc/1186758/" id="a_28">section 104(2)</a> should not have made an order under clause (i).
+</p> 
+
+<p id="p_39">12. The question whether the assessee is an industrial company or not, is left open for both assessment years. It is not necessary to decide it for the disposal of these appeals in the manner in which we are doing it.
+</p> 
+
+<p id="p_40">13. For these reasons stated above, these two appeals are allowed. The orders of the ITO for the two assessment years levying the income-tax on undistributed income are cancelled.
+</p> 
+
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

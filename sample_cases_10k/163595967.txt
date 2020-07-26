@@ -1,0 +1,470 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shri L V Padmanabha vs Karnataka State Financial ... on 31 October, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/163595967/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/922514/">Section 29 in The State Financial Corporations Act, 1951</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/389917/">Karnataka State Financial ... vs N. Narasimahaiah &amp; Ors on 13 March, 2008</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/163595967/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/163595967/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/163595967/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2029">section 29</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ksfc">ksfc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20financial%20corporation">state financial corporation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=guarantor">guarantor</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20of%20karnataka">state of karnataka</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ultra%20vires">ultra vires</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Shri L V Padmanabha vs Karnataka State Financial ... on 31 October, 2013</div><div class="doc_author">Author: A.S.Bopanna</div>
+
+<pre id="pre_1">                               1
+
+
+
+    IN THE HIGH COURT OF KARNATAKA AT BANGALORE
+
+     DATED THIS THE 31ST DAY OF OCTOBER 2013
+
+                         BEFORE
+
+       THE HON'BLE MR. JUSTICE A S BOPANNA
+
+      WRIT PETITION No.19608/2009 (GM-KSFC)
+
+BETWEEN:
+
+
+SHRI L V PADMANABHA
+S/O L.S.VASUDEVA MURTHY
+AGED ABOUT 57 YEARS,
+121, 8th MAIN, A.G's LAYOUT,
+BANGALORE-560 061
+
+                                   ...PETITIONER
+
+(BY SRI. L.V.PADMANABHA )
+
+
+AND :
+
+1      KARNATAKA STATE FINANCIAL CORPORATION LTD.,
+       NO.1/1, THIMMAIAH ROAD,
+       OPP. CANTONMENT RAILWAY STATION,
+       BANGALORE-560 001
+       REP BY ITS MANAGING DIRECTOR
+
+
+2      THE DEPUTY MANAGER, KSFC (RECOVERY-II)
+       NO.1/1 THIMMAIAH ROAD,
+       OPP. CANTONMENT RAILWAY STATION,
+       BANGALORE-560 001
+
+
+3      INDIAN IRRIGATION &amp; ENGINEERING CO. PVT LTD
+       NO.13/1, 3rd FLOOR, 1st MAIN,
+                             2
+
+     JAYAMAHAL EXTENSION,
+     BANGALORE-560 046
+     REP. BY R.K. TANDON (MANAGING DIRECTOR)
+
+
+4    SRI.K.C.SHIVARAM
+      S/O CHIKKATHIMAIAH
+     NO.616, II CROSS,
+     3rd BLOCK, 3rd STAGE,
+     BASAVESHWARA NAGAR,
+     BANGALORE-560 079
+
+                                     ...RESPONDENTS
+
+(BY SRI BIPIN HEGDE, ADV. FOR R1 &amp; 2
+    SRI V. PADMANABHA MAHALE, SR. COUNSEL
+     SRI M. SHIVAPRAKASH, ADV. FOR R-4
+     NOTICE TO R-3 HELD SUFFICIENT)
+
+
+     THIS PETITION IS FILED UNDER ARTICLES 226 AND
+227 OF THE CONSTITUTION OF INDIA, PRAYING TO;
+DECLARE THAT THE R1 KSFC HAS NO POWER UNDER
+SECTION 29 OF THE STATE FINANCIAL CORPORATIONS
+ACT 1951 TO SELL THE GUARANTOR'S/SURETY'S PROPERTY
+AND THE SAME IS ULTRA VIRES TO THE ACT; DECLARE
+THAT THE PROCEEDINGS INITIATED UNDER SECTION 29
+OF THE ACT UNDER THE ORIGINAL OF ANNEX-B DTD
+25.02.99 AND CONSEQUENTIAL ACTIONS ARE ILLEGAL
+AND ULTRA VIRES TO THE ACT AND QUASH THE SAME
+AND ETC.
+
+
+    THIS PETITION COMING ON FOR HEARING, THIS DAY,
+THE COURT MADE THE FOLLOWING :
+
+                    ORDER
+</pre>
+
+<p id="p_1">      The petitioner is before this Court assailing the
+
+proceedings initiated under <a href="/doc/922514/" id="a_1">Section 29</a> of the State
+
+Financial Corporation Act, 1951, (for short the 'Act') as
+<span class="hidden_text" id="span_1">                                  3</span>
+
+per Annexure-B dated 25.02.1999. The petitioner is also
+
+seeking that the order dated 13.06.2000 impugned at
+
+Annexure-G be declared to be illegal and ultra vires to the
+
+Act. The consequential relief of cancellation of the sale
+
+made by the respondent - KSFC is also sought.
+
+
+
+</p><p id="p_2">     2.     The brief facts are that the petitioner was the
+
+owner of the immovable property bearing No.46/1,
+
+Hesaraghatta Main Road, T. Dasarahalli, Bangalore. The
+
+petitioner who had acquired the said property under a
+
+registered Release Deed dated 07.04.1994 had offered the
+
+same as security as a guarantor in respect of the loan
+
+advanced by respondent No. 1 to respondent No. 3 herein.
+
+In that regard, respondent No.1 had initiated action for
+
+recovery for the loan amounts when respondent No. 3 has
+
+defaulted      in     payment.       While       addressing        the
+
+communication dated 25.02.1999, it was indicated that if
+
+respondent No.3 does not clear the loan, respondent No.1
+
+would     initiate   proceedings     for   selling   the    property
+
+belonging to the petitioner on recovering the said amount.
+
+Subsequent      thereto,   the     sale    has   taken     place   on
+<span class="hidden_text" id="span_2">                                  4</span>
+
+13.06.2000. The contention put forth by the petitioner in
+
+the instant petition is that the property belonging to the
+
+guarantor could not have been sold by respondent No.1 in
+
+exercise of the powers under <a href="/doc/922514/" id="a_2">Section 29</a> of the Act, more
+
+particularly in view of the law declared by the Hon'ble
+
+Supreme Court. It is in that circumstance, the petitioner
+
+is before this Court.
+</p>
+<p id="p_3">
+</p><p id="p_4">     3.    Insofar as the position of law as declared by the
+
+Hon'ble   Supreme       Court    by   the    order   passed     in
+
+<a href="/doc/389917/" id="a_3">Karnataka      State      Financial         Corporation       -vs-
+
+N. Narasimhaiah</a> [(2008) 5 SCC 176] is that the State
+
+Financial Corporation would not be entitled to invoke the
+
+provisions of <a href="/doc/922514/" id="a_4">Section 29</a> of the Act against the property
+
+belonging to the guarantor and offered as security, is the
+
+established   position.         However,     the   question    for
+
+consideration in the instant petition is as to whether
+
+though the said legal aspect has been raised in the instant
+
+petition, whether it is necessary for this Court to examine
+
+the same in the facts and circumstances arising in the
+
+instant case, more particularly when the petitioner has
+<span class="hidden_text" id="span_3">                                    5</span>
+
+approached this Court by filing the instant petition on
+
+10.07.2009 in respect of a sale that had been conducted in
+
+the year 2000.         To appreciate this aspect, what is also
+
+necessary to be noticed is that the petitioner in fact had
+
+filed an earlier petition in W.P.No.8686/2004.         The said
+
+petition had been withdrawn on 17.06.2004 reserving
+
+liberty to file a fresh petition, if the same became
+
+necessary.        Notwithstanding the liberty granted therein,
+
+the present petition has been filed only on 10.07.2009
+
+after five years.         Though the petitioner seeks to explain
+
+the same by stating that he has thought it fit to file the
+
+writ petition in view of the law declared by the Hon'ble
+
+Supreme Court, the said explanation also cannot be
+
+accepted keeping in view the explanation put forth in the
+
+petition, when the liberty granted had not been exercised
+
+from    2004,       the    subsequent   decision   being   taken
+
+advantage of cannot be an explanation.
+</p>
+<p id="p_5">
+</p><p id="p_6">       4.    It    cannot be lost sight that in between, the
+
+Hon'ble Division Bench of this Court had already taken a
+
+view with regard to the said position and that order in
+<span class="hidden_text" id="span_4">                               6</span>
+
+ILR 2003 Kar 3344 (DB) was already available when
+
+the earlier petition was filed and this question of power
+
+under <a href="/doc/922514/" id="a_5">Section 29</a> of the Act was already raised in that
+
+petition. Even otherwise, what is also to be kept in view
+
+in the present case is that the children of the petitioner
+
+have also approached this Court on the same ground. In
+
+that regard, a petition in W.P.No.19551/2005 was filed
+
+wherein the issue relating to exercise of the power by the
+
+respondent-KSFC by invoking <a href="/doc/922514/" id="a_6">Section 29</a> of the Act was
+
+also raised.    The said petition was disposed of on
+
+16.09.2008 wherein this Court had taken note of the fact
+
+that the children of the petitioner herein had already
+
+instituted a civil suit which was pending before the Court
+
+below and the law as declared by the Hon'ble Supreme
+
+Court in the case of N. Narasimhaiah, can also be urged
+
+in the said suit as the position of law could be brought to
+
+notice of the Court.     In such situation, when the said
+
+issue could still be urged by the persons who are claiming
+
+right to the property, viz., the children of the petitioner in
+
+the said suit and when the petitioner is also a party to the
+
+said suit, this issue in any event would be considered
+<span class="hidden_text" id="span_5">                               7</span>
+
+therein in view of the leave granted by this Court in the
+
+earlier writ petition.
+</p>
+<p id="p_7">
+
+</p><p id="p_8">     5.   If this aspect of the matter is kept in view, in any
+
+event, the instant petition which has been filed by the
+
+petitioner after long lapse of withdrawing the earlier writ
+
+petition does not merit further examination by this Court.
+
+In any event, liberty is reserved to the petitioner to put
+
+forth his contention in the suit wherein he is a defendant.
+
+
+
+</p><p id="p_9">     In terms of the above, the writ petition stands
+
+disposed of.
+</p>
+<p id="p_10">
+
+</p><p id="p_11">                                           Sd/-
+</p><p id="p_12">                                          JUDGE
+
+
+
+
+hrp/bms
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,712 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>At Present: H. No. 183 vs State on 2 June, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/32029049/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:32029049">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1402213/">Section 337 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/409589/">Section 304 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/32029049/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/32029049/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20279">sec 279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.279">sec.279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=satpal">satpal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=337">337</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%20indian%20penal%20code%20citedby%3A1270101">279 indian penal code citedby:1270101</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%20ipc">279 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%20indian%20penal%20code">279 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20sec.279">ipc sec.279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20279%20ipc%20citedby%3A1270101">section 279 ipc citedby:1270101</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20279%20of%20indian%20penal%20code">section 279 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20279%20ipc">section 279 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.279%20of%20the%20indian%20penal%20code">sec.279 of the indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.304a%20ipc">s.304a ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20ipc">304a ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20indian%20penal%20code">304a indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a">304a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20sec.%20279">indian penal sec. 279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20337">section 337</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20code%2C%20337">indian penal code, 337</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20337%20ipc">s 337 ipc</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">At Present: H. No. 183 vs State on 2 June, 2008</div><div class="doc_author">Author: Sh. S.K. Sarvaria</div>
+
+<pre id="pre_1">                                ­: 1 :­
+
+         IN THE COURT OF SHRI S. K. SARVARIA 
+               ADDITIONAL SESSIONS JUDGE
+                            NEW DELHI
+
+
+
+
+Criminal Appeal No.  18/2007
+
+
+
+Shri Subhash s/o Shri Ram Prasad
+r/o Vill. Badli, PS Sadar, 
+Bahadur Garh, Haryana
+
+At Present: H. No. 183,
+Nawada Bazar, Najafgarh,
+New Delhi 
+                                               ......       Appellant
+Versus
+ 
+State
+                                               ......       Respondent
+
+Date of institution              :  19.03.07
+Date when the arguments
+were heard                       :   27.05.08
+Date of judgment                :   02.06.08
+
+
+JUDGMENT
+</pre>
+<p id="p_1">       This   appeal   is   directed   against   the   judgment   dated
+
+19/2/2007  by which  the  appellant/convict  was convicted  by
+
+learned   Metropolitan   Magistrate,   New   Delhi   under   sections
+                                     ­: 2 :­
+
+279/337/304­A   <a href="/doc/1569253/" id="a_1">IPC</a>   and   was   sentenced   vide   order   dated
+
+24/2/2007 to undergo simple imprisonment for a term of two
+
+months   and   also   to   pay   fine   of   Rs  300/   ­­   for   the   offence
+
+punishable   under   <a href="/doc/1270101/" id="a_2">section   279</a>   IPC,   to   undergo   simple
+
+imprisonment for two months and also to pay a fine in the
+
+sum of 300/­ for the offence under <a href="/doc/1402213/" id="a_3">section 337</a> IPC and to
+
+undergo simple imprisonment for a term of one year and also
+
+to   pay   a   fine   of   rupees   500/   ­­   for   the   offence   punishable
+
+under <a href="/doc/409589/" id="a_4">section 304</a>­A <a href="/doc/1569253/" id="a_5">IPC</a>.  In default of the payment of fine of
+
+Rs 300/­­ each the appellant was directed to undergo simple
+
+imprisonment   for   five   days   each   for   the   offences   under
+
+<a href="/doc/1270101/" id="a_6">section 279</a>/<a href="/doc/1402213/" id="a_7">337</a> IPC.  In default of payment of fine of rupees
+
+500/ ­­ for the offence punishable under <a href="/doc/409589/" id="a_8">section 304</a>­A <a href="/doc/1569253/" id="a_9">IPC</a>
+
+the appellant was directed to undergo simple imprisonment
+
+for 15 days.
+</p>
+<p id="p_2">PROSECUTION CASE:
+</p>
+<p id="p_3">                     In short, the prosecution case before learned trial
+
+court was that on 12/12/1993 at about 3.15 p.m. at Bijwasan
+
+Road near MCD Primary School, village Chhawla, Delhi the
+
+accused was driving truck No.DIG­6502 in a manner so rash
+
+or negligent as to endanger human life and personal safety of
+
+others or to be likely to cause hurt or injury to other persons
+                                    ­: 3 :­
+
+and while driving so the  said vehicle he struck against the
+
+motorcycle and caused simple injuries on the person of one
+
+Satpal  the  pillion rider and  caused  death of one  Ajit Singh
+
+who was riding the motorcycle.  
+</p>
+<p id="p_4">CHARGE AND PLEA  OF THE ACCUSED:
+</p>
+<p id="p_5">            The Notice under <a href="/doc/429078/" id="a_10">section 251</a> CrPC for the offences
+
+under <a href="/doc/1270101/" id="a_11">section 279</a>/<a href="/doc/1402213/" id="a_12">337</a>/<a href="/doc/409589/" id="a_13">304</a>­A <a href="/doc/1569253/" id="a_14">IPC</a> was given to the accused
+
+to which he pleaded not guilty and claimed trial.
+
+EVIDENCE:
+</p>
+<p id="p_6">              In support of its case the prosecution has examined
+
+nine   witnesses   in   all   namely   PW1   Dr.   Archana   ,   PW2   HC
+
+Umed Singh, PW3 Satpal, PW4 Dr. B. Swain, PW5 Naresh,
+
+PW6 Ram Lal, PW7 SI Bhim Singh, PW8 SI Ram Dev and
+
+PW9 HC Kurban Ali.
+</p>
+<p id="p_7">ARGUMENTS:
+</p>
+<p id="p_8">        It   is   argued   on   behalf   of   the   appellant   that   the
+
+judgment of trial court is based on conjectures and surmises.
+
+The written arguments filed on behalf of the appellant before
+
+learned trial court were not considered in the judgment so it
+
+is   liable   to   be   set   aside.     It   is   argued   that   the   only
+
+eyewitness/injured in this case PW3 Satpal has stated in the
+
+cross­examination that the motorcycle was being driven at a
+                                    ­: 4 :­
+
+speed of 50 or 60 km per hour so the accident has occurred
+
+due   to   rash   driving   of   the   motorcyclist   and   not   of   the
+
+appellant truck driver.  It is argued that PW3 Satpal has not
+
+signed any memo like personal search memo, seizure memo
+
+of   motorcycle,   seizure   memo   the   truck,   seizure   memo   of
+
+driving  license,  and  site  plan  prepared  by the  investigating
+
+officer at the spot which shows that he was not present at the
+
+spot at the time of accident.  It is also argued that PW 3 could
+
+not   give   the   number   of   the   motorcycle   even   in   the   cross­
+
+examination   of   the   learned   Additional   Public   Prosecutor
+
+recorded before learned trial court.   The next argument on
+
+behalf  of the  appellant  is that  the  owner  of  the  truck PW5
+
+Naresh   has   admitted   in   the   cross­examination   that   he   has
+
+two drivers on the truck and has only one truck.  This witness
+
+did   not   support   the   prosecution   story   as   he   has   failed   to
+
+produce any record  showing that the appellant  was driving
+
+the vehicle on the date of the alleged accident.  Therefore, it
+
+is   very   much   doubtful   that   appellant   was   driving   the
+
+vehicle/truck at the time of alleged accident.  It is also argued
+
+that the test identification parade of the accused was not got
+
+conducted which shows that the appellant has not seen the
+
+accident and he has been falsely implicated in this case. It is
+                                     ­: 5 :­
+
+argued   that   in   a   statement   under   <a href="/doc/447673/" id="a_15">section   161</a>   CrPC   PW3
+
+Satpal has stated that accident occurred at 3.15 p.m. while in
+
+the statement before court he had given the time 2.30 or 2.45
+
+p.m..  There is no corroboration of the statement of PW3 by
+
+any independent witness.  Therefore, the appellant/convict is
+
+entitled to acquittal.
+</p>
+<p id="p_9">
+
+</p><p id="p_10">        The arguments of learned Additional Public Prosecutor
+
+are that the appellant was arrested at the spot and the fact
+
+that   he   was   driving   the   vehicle   in   question   in   a   rash   and
+
+negligent manner is proved by the statement of PW3 and the
+
+owner   of   the   truck   in   question   has   also   proved   that   the
+
+appellant   was   driving   the   truck   in   question   of   the   date   of
+
+accident.     The   prosecution,   therefore,   has   proved   its   case
+
+against the appellant/convict beyond reasonable doubt so the
+
+appeal is liable to be dismissed.
+</p>
+<p id="p_11">FINDINGS:
+</p>
+<p id="p_12">        It   is   true   that   in   the   cross­examination   PW5   Shri
+
+Naresh the owner of the truck in question has stated that he
+
+had   only   one   truck   and   two   drivers   but   in   the   cross­
+
+examination he has denied the suggestion that the accused
+
+was   not   the   driver   on   truck   No.     DIG­6502.     In   the
+                                    ­: 6 :­
+
+Examination­in­chief this witness has stated that on the day
+
+of   accident,   the   truck   was   being   driven   by   the   accused
+
+Subash   then   present   in   the   court   on   that   day.     PW3   the
+
+injured and eyewitness Shri Satpal has identified the accused
+
+as the person who was driving the truck in question at the
+
+time of accident.  PW8 SI Ram Dev Singh has stated that he
+
+found the truck and motorcycle in accident condition and the
+
+driver   of   the   truck   Subash   son   of   Ramprasad   was   also
+
+present   at   the   spot.     Therefore,   the   statements   of   the
+
+witnesses conclusively prove that the appellant was driving
+
+the truck in question at the time of accident and was arrested
+
+at the spot by the investigating officer.   If the appellant was
+
+arrested at the spot, the fact that test identification parade of
+
+the   appellant   was   not   conducted   loses   significance.
+
+Therefore, the accused does not derive any benefit out of the
+
+fact   that   no   test   identification   proceedings   of   the   accused
+
+were conducted on the request of the investigating officer.
+
+
+
+</p><p id="p_13">        The   fact   that   the   motorcycle   in   question   was   being
+
+driven at the speed of 50 or 60 km per hour by the deceased
+
+in   itself   does   not   show   that   the   accident   occurred   due   to
+
+mistake or rash  diving of the victim deceased.  The manner
+                                      ­: 7 :­
+
+in   which   the   accused   was   driving   the   truck   in   question   is
+
+reflected from the statement of the injured PW3 Shri Satpal
+
+who has stated that the truck came from the front side and
+
+the driver suddenly turned the truck on the left side without
+
+giving any signal due to which the motorcycle hit the truck
+
+and   they   both   felt   the   on   the   road.     Further,   in   the   cross­
+
+examination this witness PW3 has denied the suggestion that
+
+the accident occurred as the motorcycle was being driven at
+
+high   speed   and   they   lost   the   control   and   fell   down.     The
+
+testimony   of   the   injured   PW3   cannot   be   doubted   not   only
+
+because he being injured is the eyewitness of the accident in
+
+question but also that he has given the exact reason which
+
+led to the accident in question.  The mere fact that no public
+
+witnesses had come forward to support his evidence and his
+
+testimony   remained   uncorroborated   by   any   independent
+
+witness   does   not   discredit   his   testimony   as   no   particular
+
+number   of   witnesses   is   required   to   prove   a   fact   as   per
+
+<a href="/doc/838383/" id="a_16">section   134</a>   of   the   Indian   Evidence   Act.     Further   a   short
+
+difference  in the  time of accident  given in statement  under
+
+<a href="/doc/447673/" id="a_17">section   161</a>   CrPC   of   the   PW3   and     statement   before   the
+
+learned trial court is not material nor the fact that this witness
+
+did   not   sign   memos   prepared   by   IO   in   the   facts   and
+                                      ­: 8 :­
+
+circumstances of the case.
+</p>
+<p id="p_14">
+
+</p><p id="p_15">        The   death   of   the   motorcycle   rider   Ajit   Singh   in   the
+
+accident in question is proved by PW3 the injured Satpal and
+
+by the investigating officer of the case and also by PW4 Dr B.
+
+Swain who conducted post­mortem on the dead body of Ajit
+
+Singh.  The simple injuries on the person of the injured PW3
+
+Shri   Satpal   are   proved   by   PW6   the   record   clerk   who   has
+
+brought   the   MLC   registered   and   has   proved   the   MLC   Ex
+
+PW6/B  pertaining  to PW3 Shri  Satpal.    Therefore,  besides
+
+proving   rashness   and   negligence   on   the   part   of   the   truck
+
+driver/appellant at the time of the accident the simple injuries
+
+on  the  person  of PW3  Shri Satpal and  death  of the  victim
+
+Shri Ajit Singh are also proved by the prosecution attracting
+
+the   provisions   of   <a href="/doc/1270101/" id="a_18">section   279</a>/<a href="/doc/1402213/" id="a_19">337</a>/<a href="/doc/1371604/" id="a_20">304A</a>   IPC   against   the
+
+appellant/convict.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">          The   Metropolitan   Magistrate   in   his   judgment   under
+
+<a href="/doc/1684469/" id="a_21">section 355</a> CrPC is only required to give brief statement of
+
+the   reasons   for   the   decision   and   not   all   the   details   of   the
+
+arguments and the facts and the evidence on record.   The
+
+fact   that   the   learned   Metropolitan   Magistrate   has   briefly
+                                    ­: 9 :­
+
+referred to the statement of witnesses and his statement of
+
+reasons   is   sufficient   compliance   of   provisional   <a href="/doc/1684469/" id="a_22">section   355</a>
+
+CrPC and he has considered the facts and law properly to
+
+arrive at the correct conclusion with regard to the offences
+
+under <a href="/doc/1402213/" id="a_23">section 337</a> and <a href="/doc/409589/" id="a_24">304</a> IPC under which the appellant is
+
+convicted   by   him.     It   cannot   be   said   that   he   has   not
+
+considered   the   written   arguments   filed   on   behalf   of   the
+
+appellant.   Even otherwise, these argument are specifically
+
+dealt with in this appeal which is only extension of the case
+
+against the accused before learned Metropolitan Magistrate.
+
+</p><p id="p_18">        One   technical   question   that   arises   is   whether
+
+conviction and sentence both under <a href="/doc/1953529/" id="a_25">section 279</a> and <a href="/doc/409589/" id="a_26">section
+
+304</a> A IPC is permissible under the law as the latter section
+
+is the aggravated form of the former section. If a person is
+
+guilty   of   an   offence   under   s   279,   <a href="/doc/1569253/" id="a_27">IPC</a>,   and   death   is   also
+
+caused as a result of the negligent act, he will be guilty of
+
+the offence under s 304A, <a href="/doc/1569253/" id="a_28">IPC</a>, because an offence under th
+
+<a href="/doc/1953529/" id="a_29">section 279</a> is a minor offence which is included in <a href="/doc/1953529/" id="a_30">Section
+
+304A</a>, <a href="/doc/1569253/" id="a_31">IPC</a>. (See Esco Mathew v State of Kerala 1967 Ker
+
+LJ   227).   An   accused,   convicted   under   s   304A,   <a href="/doc/1569253/" id="a_32">IPC</a>,
+
+therefore,   cannot   be   convicted   under     <a href="/doc/1953529/" id="a_33">section   279</a>   as   the
+
+latter is a minor offence. (Shiva Ram v State 1965 All 196,
+                                 ­: 10 :­
+
+(1965) 1 Cr LJ 524; Ranjit Singh v State of Haryana 1988
+
+Chand Cr Cases 516 (P&amp;H)) <a href="/doc/1569253/" id="a_34">IPC</a>. Our Delhi High Court has
+
+also taken a similar view and it was held that there was no
+
+need to impose any separate sentence for minor sentence
+
+under   <a href="/doc/1953529/" id="a_35">sections   279</a>   because   the   offence   under   <a href="/doc/1953529/" id="a_36">sections
+
+304A</a> and <a href="/doc/1953529/" id="a_37">338</a>, <a href="/doc/1569253/" id="a_38">IPC</a>, are similar offence in aggravated forms.
+
+Thus   the   sentence   imposed   under   <a href="/doc/1953529/" id="a_39">section   279</a>   was   set
+
+aside   (See   Abdul   Hameed   v   State  (1990)   41   DLT   306,
+
+307;  Hamid   Khan   v   State  1996   (1)   Crimes   465   (Del).
+
+Therefore,   where   a   person   is   convicted   and   sentenced
+
+under <a href="/doc/1371604/" id="a_40">section 304A</a> IPC a separate conviction under <a href="/doc/1953529/" id="a_41">Section
+
+279</a>, for the minor offence which is included in the offence
+
+under   s   304­A,   is   not   justified.   (See,  Shiv   Ram   versus
+
+State AIR 1965 All 196). In the light of these authorities the
+
+conviction   and   the   sentence   imposed   upon   the
+
+appellant/convict/accused  by the  learned  trial court for the
+
+offence under <a href="/doc/1270101/" id="a_42">Section 279</a> IPC are liable to be set aside.
+
+</p><p id="p_19">       As   regards   the   sentence   awarded   by   learned   trial
+
+court for the offence under <a href="/doc/1402213/" id="a_43">section 337</a> IPC the same looks to
+
+be proper.  However, the sentence of imprisonment awarded
+
+under  <a href="/doc/409589/" id="a_44">section  304</a>  A IPC of one  year simple  imprisonment
+
+looks to be on higher side keeping in view the fact that the
+                                   ­: 11 :­
+
+accident  in  question  occurred  about  15  years  ago  and  the
+
+appellant/convict   has   faced   the   agony   of   trial   and
+
+proceedings in the  appeal for such a long  period  and also
+
+keeping in view the fact that the motorcycle was also on a
+
+high­speed   of   50/60   km   per   hour   as   stated   by   PW3   the
+
+injured   Shri Satpal  in  his  cross­examination.    Therefore,   in
+
+my   view   the   sentence   of   imprisonment   imposed   under
+
+<a href="/doc/1371604/" id="a_45">section 304A</a> IPC needs to be modified from one year simple
+
+imprisonment to six months simple imprisonment.  However,
+
+the sentence of fine imposed under <a href="/doc/1953529/" id="a_46">section 304</a>­A <a href="/doc/1569253/" id="a_47">IPC</a> needs
+
+to be maintained.
+</p>
+<p id="p_20">RESULT OF APPEAL:
+</p>
+<p id="p_21">               In view of the above discussion the conviction and
+
+sentence   passed   by   learned   trial   court   against   the
+
+appellant/convict for the offence under <a href="/doc/1270101/" id="a_48">section 279</a> IPC are
+
+set   aside.     The   conviction   of   the   appellant/convict   for   the
+
+offence under <a href="/doc/1402213/" id="a_49">section 337</a> IPC is maintained.  The conviction
+
+of   the   appellant/convict   under   <a href="/doc/1953529/" id="a_50">section   304</a>­A   <a href="/doc/1569253/" id="a_51">IPC</a>   and   also
+
+sentence of fine of rupees 500/ ­­ imposed by learned trial
+
+court   are   maintained   but   the   sentence   of   imprisonment
+
+awarded under <a href="/doc/1953529/" id="a_52">section 304</a>­A <a href="/doc/1569253/" id="a_53">IPC</a> is modified from one year
+
+simple   imprisonment   to   six   months   simple   imprisonment.
+</p><p id="p_22">                                  ­: 12 :­
+
+Both the substantive sentences under <a href="/doc/1402213/" id="a_54">sections 337</a>/<a href="/doc/1371604/" id="a_55">304A</a> IPC
+
+shall run concurrently. Fine deposited by the appellant under
+
+<a href="/doc/1270101/" id="a_56">section 279</a> IPC be refunded to the appellant by the learned
+
+trial court. The period of detention already undergone by the
+
+appellant during the investigation and trial of this case shall
+
+set off in term of imprisonment imposed against the appellant
+
+under <a href="/doc/914361/" id="a_57">section 428</a> CrPC.     The bail bonds furnished in the
+
+appeal   are   cancelled.     The   trial   court   record   be   returned
+
+along with the copy of this judgment. The judgment be sent
+
+to   the   server   (www.delhidistrictcourts.nic.in).       The   appeal
+
+filed be consigned to the record room.
+</p>
+<p id="p_23">
+
+Announced in the open court on
+ this 2nd  day of   June, 2008
+                                               ( S. K. SARVARIA )
+                                        Additional Sessions Judge
+                                                    New Delhi
+
+                 
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

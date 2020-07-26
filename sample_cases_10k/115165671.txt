@@ -1,0 +1,1629 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Joginder Babbar on 29 September, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/115165671/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/203036/">Section 354 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1682361/">Section 437 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/115165671/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/115165671/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=babbar">babbar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=da%20">da </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anita%20sharma">anita sharma</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=slapping">slapping</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gauri%20shankar">gauri shankar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=prescription">prescription</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=354%20ipc">354 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.354%20%20ipc">s.354  ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.354.ipc">s.354.ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=354%20indian%20penal%20code">354 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=noise">noise</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dental">dental</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=modesty">modesty</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20354%20ipc">section 354 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20code%20sec.354%20%3A%20">indian penal code sec.354 : </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.354%20ipc">sec.354 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20penal%20code%20section%20354">indian penal code section 354</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20354">section 354</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=defence%20witness">defence witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cases%20against%20false%20cases">cases against false cases</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Joginder Babbar on 29 September, 2012</div><div class="doc_author">Author: Ms.Vandana Jain</div>
+
+<pre id="pre_1">                                                    State Vs.  Joginder Babbar 
+
+IN THE COURT OF MS VANDANA JAIN, M.M., MAHILA COURT
+         (EAST), KARKARDOOMA COURTS, DELHI
+                    FIR NO.: 118/03
+                   P.S.: SHAKARPUR
+                     U/Sec. 354 <a href="/doc/1569253/" id="a_1">IPC</a>
+             STATE VS. JOGINDER BABBAR
+                   ID No. R0126132004
+
+JUDGMENT:
+</pre>
+<pre id="pre_2">1. Date of commission of              :   31.03.2003
+   offence
+
+2. Name of complainant                :   Smt. Anita Sharma,
+                                          W/o Shri Tej Narain Sharma
+                                          R/o H. No. B-4/48, Parayatan
+                                          Vihar, Vashundhara Enclave
+
+3. Name of the accused, his           :    Joginder Babbar
+   parentage and address                   S/o Shri Radha Krishan
+                                          R/o House No. 61, Vijay
+                                          Block, Laxmi Nagar, Delhi
+
+4.Offence complained of               :    u/s 354 <a href="/doc/1569253/" id="a_2">IPC</a>
+
+5. The date of order                  :    29.9.2012
+
+6. Plea of accused                    :     Pleaded not guilty
+
+7. The final order                    :     Convicted
+
+                                    Reserved for judgment : 24.9.2012
+                                         Date of judgment : 29.9.2012
+
+
+THE BRIEF REASONS FOR THE DECISION:
+
+</pre><p id="p_1">1.          In this case accused faced trial on the allegations that on
+
+     31.03.2003 at about 10:45 pm at F-14, Vikas Marg, Laxmi Nagar,
+
+     Delhi he assaulted and used criminal force against Anita
+
+     Sharma, W/o Shri Tej Narain Sharma with intention to outrage
+
+     her modesty and thereby committed offence punishable u/s 354
+
+     <a href="/doc/1569253/" id="a_3">IPC</a>.
+</p>
+<p id="p_2">2.          After completion of investigation, IO filed the charge sheet
+
+     before this court on 07.07.2003 upon which the cognizance was
+
+
+<span class="hidden_text" id="span_1">                                                                             1 </span>
+                                                      State Vs.  Joginder Babbar 
+
+     taken and accused was summoned. Vide order dated 09.03.2004
+
+     charges for the offence punishable u/s 354 <a href="/doc/1569253/" id="a_4">IPC</a>            was framed
+
+     against the accused to which he pleaded not guilty and claimed
+
+     trial.
+</p>
+<p id="p_3">3.            In order to prove its case, prosecution cited as many as
+
+     five witnesses out of which HC Shashi Kant, Smt. Anita Sharma
+
+     (complainant), Shri Gauri Shankar (nephew of complainant), HC
+
+     Raj Kumar and ASI Dhori Lal were examined as PW1 to PW5
+
+     respectively.
+</p>
+<p id="p_4">4.            PW1 HC Shashi Kant is the duty officer who proved on
+
+     record the rukka and FIR Ex. PW1/A and PW1/B respectively.
+
+</p><p id="p_5">5.            PW2    Smt.   Anita   Sharma    (complainant)          in    her
+
+     examination in chief deposed that she started taking treatment
+
+     from Dr. Jogender Babbar from 17.2.2003 as she was having
+
+     some problem in her teeth.        She further deposed that some
+
+     persons have told her about the accused that he was a good
+
+     dentist.       She further deposed that accused gave her the
+
+     medicine for 20 days and when she returned to his clinic after 20
+
+     days accused told her that a thick layer has grown up over her
+
+     teeth which needs to be cleaned. She further deposed that
+
+     accused got her teeth wash and called her again on the next day
+
+     and she could not go to the clinic of accused as she was having
+
+     pain in her teeth. She again said that on 31.03.2003, she went
+
+     to the clinic of accused in the day time at about 10:15 am/10:30
+
+     am and accused told her that he wants to see her stomach so
+
+     that the layer on teeth could not grow again.
+</p>
+<p id="p_6">6.            PW2 Smt. Anita Sharma was further examined in chief on
+
+<span class="hidden_text" id="span_2">                                                                              2 </span>
+                                                    State Vs.  Joginder Babbar 
+
+     08.02.2007 wherein she deposed that accused got her lay down
+
+     on stretcher and started asking her whether her clothes are tight
+
+     or loose thereupon she replied that she was wearing a sari as
+
+     usual and he asked her to loose her clothes.            She further
+
+     deposed that there was none inside the cabin and accused
+
+     pressed her breast and told that she should not keep physical
+
+     relations with her husband and should have relations with him
+
+     and wear loose clothes. She further deposed that she became
+
+     angry and got up from the stretcher and slapped the accused
+
+     three four time and on hearing the noise her nephew Gauri
+
+     Shankar came inside and told him the whole incident.               She
+
+     further deposed that consequently he became angry and called
+
+     the police and police came there and she gave her complaint in
+
+     her handwriting Ex. PW2/A. She further deposed that she had
+
+     shown the place of incident to the police.   At that stage, ld. APP
+
+     sought permission to cross-examine the witness as she was
+
+     suppressing one particular fact. Same was allowed and during
+
+     her cross-examination by ld. APP, she stated that she does not
+
+     remember if the accused had stated her that 'Terey Pass Bahut
+
+     Mal Hai'. She admitted that she has mentioned it in her written
+
+     complaint Ex. PW1/A portion B to B.
+</p>
+<p id="p_7">7.         PW2 Smt. Anita Sharma was cross-examined by ld.
+
+</p><p id="p_8">     Defence counsel and during cross-examination she admitted
+
+     that on 31.03.2003 geographical position of the clinic of accused
+
+     was same as shown in photographs Ex. PW2/DA (9 photographs
+
+     collectively).   She further stated that she cannot say whether
+
+     there was many other persons sitting there in the clinic at the
+
+<span class="hidden_text" id="span_3">                                                                            3 </span>
+                                              State Vs.  Joginder Babbar 
+
+relevant time. She further stated that she was a housewife at
+
+that time and her husband is in government job.        She further
+
+stated her present age is about 43 years and her husband was
+
+also patient of the accused and he also used to praise for
+
+professional skills of the accused. She further stated that she
+
+had been to the    clinic of the accused several times prior to
+
+31.03.2003 but she can not say whether it was 2/3/4 times. She
+
+admitted that she had gone clinic of the accused on 31.03.2003
+
+also as she was satisfied with his treatment in her earlier visit
+
+and on her first visit accused had charged Rs. 113/- thereafter
+
+she had paid around Rs. 500/- in her subsequent visit. She
+
+denied the suggestion that she was given prescription also by
+
+the accused on her first visit with the instruction to bring the
+
+same on all subsequent visit. She denied the suggestion that
+
+there was no stretcher in the clinic of the accused or that there
+
+was a char only for patients. She denied the suggestion that at
+
+the time of starting consultation with the accused, the accused
+
+demanded previous prescription for knowing the treatment
+
+earlier given to her or that when she had shown her inability to
+
+show the prescription or that on this accused refused to go
+
+ahead with the further treatment. She denied the suggestion
+
+that she had not gone to the clinic of the accused prior to
+
+31.03.2003 at any point of time except 17.03.2003. She further
+
+stated that she cannot show any cash receipt or prescription to
+
+prove that she had earlier visited the clinic of accused.         She
+
+further stated that Mala Sharma, a Kathak dancer is her niece.
+
+She denied the suggestion that she had also recommended
+
+<span class="hidden_text" id="span_4">                                                                      4 </span>
+                                                State Vs.  Joginder Babbar 
+
+accused to her as a good dentist.    She further stated that SHO
+
+and her other police officers came to the spot after police called.
+
+She further stated that statement Ex. PW2/A was written by her
+
+on the shop of the accused and encircled portion that on Ex.
+
+PW2/A at point X is in her handwriting. She denied the
+
+suggestion that point X is not in her handwriting or that it is in
+
+different ink. She further stated that she does not remember at
+
+how much time was consumed by her in writing Ex. PW1/A. She
+
+admitted that after arrival of police many public persons have
+
+gathered there and wife of the accused also reached there. She
+
+denied the suggestion that complainant point X is not in her
+
+handwriting or that it is in different ink. She further stated that
+
+she does not remember at how much time was consumed by her
+
+in writing Ex. PW2/A. She admitted that after arrival of police
+
+many public persons have gathered there and wife of the
+
+accused also reached there.     She denied the suggestion that
+
+complaint Ex. PW2/A was written by her at PS.            She further
+
+stated that she remained at the spot about half an hour after
+
+arrival of the police parties and IO had asked her to undergo
+
+medical examination but she denied. She denied the suggestion
+
+that she has denied for her medical examination as no such
+
+incident of molestation had even taken place with her on
+
+31.03.2003.   She further stated that she had never been a
+
+complainant in any other criminal case.           She denied the
+
+suggestion that she is a habitual complainant of case under
+
+<a href="/doc/203036/" id="a_5">section 354</a> IPC.    She further stated that no case registered
+
+against her. She admitted that she has read over her statement
+
+<span class="hidden_text" id="span_5">                                                                        5 </span>
+                                                     State Vs.  Joginder Babbar 
+
+     and on her previous dates also before coming to the witness
+
+     box. She denied the suggestion that she is a tutored witness or
+
+     that her statement in the court is parrot like statement which is
+
+     a result of tutoring. She denied the suggestion that Gauri
+
+     Shankar was not with her on that day or that she was
+
+     accompanied by 3-4 gunda type boys.              She denied the
+
+     suggestion that when accused refused to give her the treatment
+
+     without seeing the previous prescription, she raised a a quarrel
+
+     and got the accused badly assaulted with the help of those 3-4
+
+     gunda type boys.     She further denied the suggestion that on
+
+     seeing the blood oozing out from the person of the accused, he
+
+     got the accused falsely implicated in the present case so as to
+
+     save herself from any action for causing injuries to the accused.
+
+     She denied the suggestion that accused never treated her at any
+
+     point of time or that never asked her to lie down on the stretcher
+
+     or never asked her to loose her clothes or never pressed her
+
+     breast or that never asked her to not to keep physical relation
+
+     with her husband or never asked her to have relation with him
+
+     or wear loose clothes. She denied the suggestion that she is still
+
+     pursuing the present false case with the purpose to extort
+
+     money from him and deposing falsely. She further stated that no
+
+     knowledge whether Ex. PW1/DA was filed by the accused against
+
+     her. She further stated that she has no knowledge whether Ex.
+
+     PW1/DA was filed by the accused against her.
+</p>
+<p id="p_9">8.        PW3      Shri    Gauri    Shankar     (nephew           of      the
+
+     complainant) in his examination in chief deposed that he is
+
+     residing at B-4/48, Praitan Vihar, Vashundhara Enclave Delhi and
+
+<span class="hidden_text" id="span_6">                                                                             6 </span>
+                                                   State Vs.  Joginder Babbar 
+
+     on 31.03.2003, he along with her Mami Jee, Smt. Anit Sharma
+
+     went to Dr. Jogender Babbar Dental Clinic, Shakar Pur on
+
+     motorcycle and on the same day at about 10: 40 pm, his Mami
+
+     Jee Smt. Anita Sharma entered into the cabin of the accused Dr.
+
+     Jogender Babbar for checkup and after some time he heard
+
+     noise and entered into the cabin of the accused Dr. Joginder
+
+     Babbar where he saw that his Mami Jee was slapping the
+
+     accused. He further deposed that on asking about the incident,
+
+     his Mami Jee Smt. Anita Sharma told him that the accused
+
+     teased her and touched her private parts on the pretext of
+
+     checkup and thereafter, she started slapping the accused. He
+
+     further deposed that in the course of slapping the accused, his
+
+     Mami Jee received injury in the right hand due to the breaking of
+
+     the bangles of his Mami Jee and there was bleeding from the
+
+     hand and on hearing the same, he got angry and slapped on the
+
+     right cheek of the accused and the accused caught hold his
+
+     hand and after getting free he called at 100 number on which
+
+     the police came at the spot and the police enquired about the
+
+     incident from his Mami Jee and recorded her statement and
+
+     thereafter, he along with his Mami Jee returned back to home.
+
+</p><p id="p_10">9.        PW3 Gauri Shankar was cross-examined by ld. Counsel for
+
+     accused and during his cross-examination he stated that police
+
+     recorded his statement in this case Ex. PW-3/DA (earlier marked
+
+     Y) He further stated that he had stated to the police in his
+
+     statement the time as 10:40 am about entry of Anita Sharma in
+
+     cabin of accused or that he saw his Mamiji was slapping the
+
+     accused or that his Mamkji told her about teasing and touching
+
+<span class="hidden_text" id="span_7">                                                                           7 </span>
+                                               State Vs.  Joginder Babbar 
+
+of private parts by the accused or that during the course of
+
+slapping the accused his Mamiji received injury in her right hand
+
+due to breaking of bangles and was bleeding or that he became
+
+angry and gave slaps on the right cheek of the accused or that
+
+accused caught hold her hand or that he made call at 100
+
+number. (confronted with Ex. PW3-DA wherein it is not so
+
+recorded). He further stated that one or two patients were also
+
+sitting in the clinic of the accused and he did not notice whether
+
+compounder was there or not. He further stated that he was in
+
+private job and had been to the clinic of accused about 4-5 times
+
+earlier with his Mamiji.   He further stated that accused was
+
+arrested by the police in his presence and he had signed certain
+
+documents but he does not remember today as to what was the
+
+nature of those documents. He admitted that he is not a
+
+signatory to the Ex. PW4-A and Ex. PW4/B. He further stated that
+
+the noise was heard by him after about 5-7 minutes of entry of
+
+complainant in the cabin of accused and he made PCR call within
+
+a minute after entering the cabin and police came immediately.
+
+He further stated that he does not remember whether his Mamiji
+
+was asked by the police for medical check up or not. He further
+
+stated that complainant took 10-15 minutes in writing her
+
+statement.   He admitted he has not witnessed any act of
+
+outraging of modesty by the accused with Smt. Anita Sharma.
+
+He further stated that they were taken by the police to police
+
+station and after staying in the police station for about 30/45
+
+minutes they left for their house. He denied the suggestion that
+
+on the date of incident he along with 3-4 other persons and with
+
+<span class="hidden_text" id="span_8">                                                                       8 </span>
+                                                State Vs.  Joginder Babbar 
+
+  Smt. Anita Sharma went to the clinic of accused. He denied the
+
+  suggestion that as Smt. Anita Sharma did not take her previous
+
+  prescription the accused refused to attend Smt. Anita Sharma or
+
+  that on such refusal he along with other persons gave beatings
+
+  to the accused with helmet. He denied the suggestion that he
+
+  has made deliberate improvements in his statement before the
+
+  court than to his statement Ex. PW3/DA.          He denied the
+
+  suggestion that on seeing the blood oozing out from the face of
+
+  the accused, they got this false case registered against the
+
+  accused. He denied the suggestion that the accused had also
+
+  lodged a complaint against all of them about giving him
+
+  beatings. He denied the suggestion that he was never told by
+
+  Smt. Anita Sharma about any indecent act by the accused on the
+
+  pretext of her medical check up. He denied the suggestion that
+
+  no such noise was heard by him. He denied the suggestion that
+
+  he gave beatings to the accused without any cause and reason
+
+  or that no PCR call was made by him. He denied the suggestion
+
+  that he is deposing falsely as the instance of Smt. Anita Sharma
+
+  or that accused was falsely got involved in this case by them or
+
+  that he is deposing falsely.
+</p>
+<p id="p_11">10.     PW4 HC Raj Kumar in his examination in chief deposed
+
+  that on 31.03.2003, he was posted at PS Shakar Pur as Constable
+
+  and he was on emergency duty. He further deposed that on that
+
+  day on receiving DD No. 12-A, he along with IO ASI Dori Lal
+
+  reached at Babbar Dental Clinic, Vikas Marg, Shakarpur where
+
+  the complainant Smt. Anita Sharma made a complaint to the IO
+
+  and told that doctor Joginder Babbar outraged her modesty. He
+
+<span class="hidden_text" id="span_9">                                                                        9 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  further deposed that IO prepared rukka on the complaint made
+
+  by the complainant and handed over the same to him for
+
+  registration of the FIR and he went to the PS and got registered
+
+  the FIR and came back at the spot and handed over the copy of
+
+  the FIR and the original rukka to the IO. He further deposed that
+
+  the accused Dr. Joginder Babbar was arrested vide arrest memo
+
+  PW4/A and personal search was conducted vide Ex. PW4/B.
+
+</p><p id="p_12">11.    PW4 HC Raj Kumar was cross-examined on 17.8.2012
+
+  stated that his statement was recorded by the IO Ex. PW4/DA. He
+
+  further stated that Anita Sharma told the IO that Dr. Jogender
+
+  Babbar outraged her modesty (confronted with the statement
+
+  Ex. PW4/DA where is not so recorded). He further stated that
+
+  they left the police station at about 11:00/11:30 and reached the
+
+  spot within 15 minutes and IO took 30-40 minutes in recording
+
+  statement of the complainant and writing rukka. He further
+
+  stated that duty officer took 25 minutes in registering formal FIR
+
+  and the accused was formally arrested at about 01:00 pm. He
+
+  further stated that the arrest memo was signed by him after
+
+  reading the contents and the time of arrest was mentioned by
+
+  the IO in the arrest memo.    He further stated that no time is
+
+  mentioned at point BA is Ex. PW4/DA. He further stated that no
+
+  public person was present in the clinic of the accused when they
+
+  reached there.    He further stated that complainant and her
+
+  nephew were present during the arrest of the accused but he
+
+  does not remember whether they were made witness of
+
+  documents and FIR was recorded by duty officer in his own
+
+  handwriting. He denied the suggestion that he had not joined
+
+<span class="hidden_text" id="span_10">                                                                        10 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  investigation in this case at any point of time or his signatures
+
+  were obtained subsequently at the police station.         He further
+
+  stated that he does not know whether any local enquiry was
+
+  made by the IO from the adjoining shops or not. He denied the
+
+  suggestion that he is deposing falsely.
+</p>
+<p id="p_13">12.    PW5 ASI Dhori Lal in his examination in chief deposed
+
+  that on 31.03.2003 he was posted at PS Shakarpur as ASI and on
+
+  that day, he was on emergency duty from 08:00 A.M. to 08:00
+
+  P.M. And on that day, on receipt of DD No. 12A he along with Ct.
+
+  Raj Kumar reached at F-14, Vijay Block, Vikas Marg where they
+
+  met the complainant namely Anita Sharma and Gauri Shankar.
+
+  He further deposed that they inquired from them.          He further
+
+  stated that Anita Sharma gave written complaint already
+
+  exhibited PW2/A to him. He further deposed that he prepared
+
+  rukka Ex. PW5/A which bears his signature at point A and sent
+
+  Ct. Raj Kumar to the PS for registration of the FIR. He further
+
+  deposed that they went to PS Shakarpur and got the present
+
+  case FIR registered and he came back with the copy of FIR and
+
+  original rukka to the spot and handed over the same to him and
+
+  thereafter, he arrested the accused namely Joginder Babbar vide
+
+  arrest memo already exhibited Ex. PW4/A and his personal
+
+  search memo was carried out vide memo already exhibited Ex.
+
+  PW4/B. He further deposed that thereafter, he prepared site plan
+
+  Ex. PW5/B at the instance of complainant. He further stated that
+
+  the accused was released on bail at the spot.            He further
+
+  deposed that he recorded the statements of the witnesses
+
+  correctly and he prepared the challan and filed it in the court on
+
+<span class="hidden_text" id="span_11">                                                                        11 </span>
+                                                State Vs.  Joginder Babbar 
+
+  behalf of SHO.
+</p>
+<p id="p_14">13.    PW5 was cross-examined by ld. Defence counsel and
+
+  during his cross-examination he admitted that complaint Ex.
+
+  PW1/DA was received by him which was given by the accused.
+
+  He admitted that it bears his signature at point A and this
+
+  complaint was filed by the accused after his arrest and releasing
+
+  on bail. He further stated that he made enquiry about this
+
+  complaint and he had not mentioned anything above such
+
+  inquiry done on complaint Ex. PW1/DA in the challan. He
+
+  admitted that the copy of complaint Ex. PW1/DA was not filed by
+
+  him along with the challan. He denied the suggestion that he
+
+  had intentionally concealed the complaint of the accused on
+
+  record. He denied the suggestion that complaint Ex. PW1/DA was
+
+  given by the accused before giving of complaint by the
+
+  complainant Ex. PW2/A.     He further stated that he had not
+
+  mentioned endorsement Ex. PW5/A that one Gauri Shankar was
+
+  also present at the spot when he reached there. He voluntarily
+
+  stated that the PCR call was made by Gauri Shankar.                 He
+
+  admitted that copy of DD No. 12A dated 31.03.2003 has not
+
+  been filed by him along with the charge sheet. He denied the
+
+  suggestion that that no such DD No. 12A was ever received in
+
+  the police station on 31.03.2003 or that story of receiving PCR
+
+  call in the police station was concocted by them after receipt of
+
+  complaint Ex. PW1/DA. He further stated that the complainant
+
+  was not subjected to any medical examination and he did not
+
+  get her medically examined because the complainant refused to
+
+  under go such examination. He voluntarily stated that he asked
+
+<span class="hidden_text" id="span_12">                                                                       12 </span>
+                                               State Vs.  Joginder Babbar 
+
+her for medical examination. He further stated that he had not
+
+mentioned above any such offer of such medical examination
+
+given to the complainant in his report.    He further denied the
+
+suggestion that Gauri Shankar has been falsely introduced as a
+
+witness in this case being relative of the complainant.              He
+
+further stated that he received DD No. 12A about 10:45 A.M. on
+
+31.03.2003. He denied the suggestion that no such DD entry was
+
+received by him. He further stated that he         took about 15
+
+minutes in reaching the spot from the police station and
+
+complainant took about 45 minutes in writing her complaint Ex.
+
+PW2/A.    He admitted that that wife of the accused was also
+
+present at the spot. He admitted that Ex. PW5/DA is a copy of
+
+DD No. 12A. He admitted that that the name of Gauri Shankar is
+
+not mentioned in Ex. PW5/DA.       He admitted that the time is
+
+mentioned as 11:21 A.M. on Ex. PW5/DA. He admitted that on
+
+31.03.2003 was working day and adjoining shop of the shop of
+
+the accused were opened on that day and he made inquiry from
+
+the adjoining shop but none disclosed anything about the
+
+incident. He further stated that he cannot tell the names and
+
+particulars of those persons interrogated by him.         He further
+
+stated that he does not know whether accused was medically
+
+examined at LBS hospital on 31.03.2003 or that any intimation
+
+was received in this regard from the hospital in the PS.             He
+
+denied the suggestion that accused was having injury on his left
+
+side of face and swelling near left ear. He further stated that he
+
+has not mentioned anywhere in the arrest papers of the accused
+
+that slap impression were there on the face of the accused. He
+
+<span class="hidden_text" id="span_13">                                                                      13 </span>
+                                                State Vs.  Joginder Babbar 
+
+further stated that as far as he recollect accused was formally
+
+arrested at around 01:00 P.M and the time          was arrest was
+
+mentioned by him on the arrest memo of the accused.                   He
+
+admitted that that no time of arrest is mentioned as point DA on
+
+Ex. PW4/A.     He further stated that the statement of Ct. Raj
+
+Kumar was recorded by him as per his deposition and nothing
+
+was added or deleted by him.      He further stated that he had
+
+mentioned in the marginal note of site plan that it was prepared
+
+as pointing out of the complainant.( Confronted with Ex. PW5/B
+
+where it is not so recorded). He denied the suggestion that site
+
+plan was fabricated by him subsequently at PS. He denied the
+
+suggestion that site plan Ex. PW5/B is not in his handwriting. He
+
+further stated that statement of Gauri Shankar mark Y is in his
+
+handwriting. He further denied the suggestion that writing of
+
+Ex. PW5/A, Ex. PW5/A and mark Y are different. He admitted that
+
+his signature is appearing in different ink at point A on Ex. PW5/B
+
+as compared to the ink of writing of rest of the contents Ex.
+
+PW5/B.   Ex. PW4/DA is also in his handwriting. He denied the
+
+suggestion that that instead of registration of case against Anita
+
+and her associates a false case was registered against the
+
+accused at the instance of complainant. He further stated that
+
+complainant and her nephew were present at the time of arrest
+
+proceedings of accused and they were not made witness of
+
+arrest papers of the accused. He denied the suggestion that
+
+none of them were present at any point of time or at the time of
+
+arrest of accused at the spot. He denied the suggestion that that
+
+Ct. Raj Kumar was falsely cited as witness in this case or that he
+
+<span class="hidden_text" id="span_14">                                                                       14 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  had not conducted the investigation fairly and deposing falsely.
+
+</p><p id="p_15">14.     After recording of prosecution evidence, statement of
+
+  accused   was recorded     u/s 313 Cr. PC., wherein           all the
+
+  incriminating evidence was put to the accused which was denied
+
+  by him as wrong and incorrect.          However, documentary
+
+  evidence was not disputed being matter of record. He stated
+
+  that on the date of incident, he was given beatings by associate
+
+  of the complainant when he refused to treat her without
+
+  previous prescriptions. He further stated that he sustained
+
+  injuries on his face and jaw. He further stated that he was
+
+  medically examined at LBS Hospital and he lodged complaint
+
+  with the police Ex. PW1/DA but no action was taken by the police
+
+  under the influence of complainant. He further stated that the
+
+  companion of complainant gave him beatings with helmet also.
+
+  He further stated that he is innocent and this incident has
+
+  destroyed his reputation and he has been falsely implicated. He
+
+  has further stated that he was to lead defence evidence.
+
+</p><p id="p_16">15. DW1 Shri Ram Niwas in his examination in chief deposed that
+
+  he is working under kilometer scheme of UP Roadways and he
+
+  knew accused as he had worked in his clinic as attendant till
+
+  31.3.2003. He further deposed that he used to get Rs. 1500/-
+
+  per month and it was a part time job of three hours in the
+
+  morning and two hours in the evening and being Attendant his
+
+  duty was to manage to entry of patients and to maintain the
+
+  clinic and he used to stand on the inner cabin of the clinic. He
+
+  further deposed that the cabin of the accused was having one
+
+  dental chair for the patient, one table &amp; chair for accused and a
+
+<span class="hidden_text" id="span_15">                                                                        15 </span>
+                                                State Vs.  Joginder Babbar 
+
+  bench for the patient. He further deposed that on 31.3.2003, a
+
+  lady patient came to the clinic at about 10:30 am along with two
+
+  three young persons and went inside. He further deposed that
+
+  she started talking with the accused while standing in the cabin
+
+  and he has heard accused demanding previous paper of her
+
+  treatment from the said lady. He further deposed that the talks
+
+  got loud pitch and on hearing the said noise, those two three
+
+  persons entered inside the cabin and started giving beatings to
+
+  the accused. He further deposed that he tried to intervene but
+
+  he was rebuked and asked to leave the place and he became
+
+  afraid and thereafter left the clinic and job also.      He further
+
+  deposed that accused     paid him his salary in the morning of
+
+  31.3.2003 itself and thereafter, he started doing the private job
+
+  of driver and later joined UP Roadways. He further deposed that
+
+  he met the accused three four months back and then came to
+
+  know about lodging of this false case against him. He further
+
+  deposed that he offered himself to the accused to appear as a
+
+  defence witness and copy of his voter ID card is Ex. DW1/A
+
+  (OSR). He further deposed that he has seen photographs
+
+  collectively Ex. PW2/DA and the geographical position was as it
+
+  is as seen in the photographs.
+</p>
+<p id="p_17">16.    Witness was cross-examined by ld. APP and during his
+
+  cross-examination he stated that he was working as a sweeper
+
+  and my duty was also to stand on the gate of clinic and to send
+
+  patient one by one inside the clinic. He denied the suggestion
+
+  that patient cannot lay down on dental chair. He further stated
+
+  that he cannot tell the name of lady and cannot tell the name of
+
+<span class="hidden_text" id="span_16">                                                                       16 </span>
+                                                     State Vs.  Joginder Babbar 
+
+  persons who accompanied the lady. He further stated that he
+
+  not make any effort to save accused Joginder Babbar and he
+
+  used to reach at the clinic at about 10:00 am and used to remain
+
+  there for two hours. He further stated that he cannot tell when
+
+  police reached at the clinic.     He admitted that he used not to
+
+  stand    inside   the   cabin   when   patients   were     checked       by
+
+  accused/doctor. He further stated that he cannot show any
+
+  document regarding his employment with accused. He further
+
+  deposed that he did not lodge any complaint with the police
+
+  about the said incident. He further deposed that he did not see
+
+  injuries on the person of accused. He voluntarily stated that he
+
+  immediately left the spot when persons started manhandling
+
+  with accused. He denied the suggestion that accused molested
+
+  the said lady when she was sitting on the dental chair.                  He
+
+  denied the suggestion that he was not employed with the
+
+  accused or that he is deposing falsely at the instance of accused
+
+  for monetary consideration.
+</p>
+<p id="p_18">17.       DW2 Mrs. Nandani Pandey, record clerk LBS Hospital and
+
+  she proved on record the MLC No. 1732/03, dated 31.03.2003
+
+  Ex. DW2/A of accused Joginder Babbar.         During the course of
+
+  cross-examination by ld. Defence counsel she stated that MLC
+
+  Ex. DW2/A does not find mention of signatures of Dr. A.K. Verma.
+
+  She further stated that she cannot tell how injured sustained
+
+  injuries and she cannot tell for how many days she had worked
+
+  with Dr. Pankaj Kumar.
+</p>
+<p id="p_19">18.       Heard. Report perused.
+</p>
+<p id="p_20">19.       Ld. Counsel for accused has argued that the complaint
+
+<span class="hidden_text" id="span_17">                                                                            17 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  filed by the complainant is false. He has argued that accused
+
+  had also moved a complaint Ex. PW1/DA on the same date prior
+
+  to registration of FIR however the same was not investigated by
+
+  the police and he has further argued that the PW2 Anita Sharma
+
+  had stated that she was asked to lay on stretcher but there is no
+
+  stretcher in the clinic of the accused. He has annexed the
+
+  photographs of the clinic to show the same.   Factual truth of the
+
+  story made by the complainant is false as when the accused
+
+  called her inside she was asked about her previous prescription
+
+  slip to which she showed her inability to produce and when the
+
+  accused refused to go ahead with the further treatment, she
+
+  along with other 2/3 persons gave beatings to him severely. He
+
+  has produced two defence witness namely one Ram Niwas who
+
+  was working on that day in his clinic as an attendant. Another
+
+  witness is record clerk from the LBS for proving the MLC of the
+
+  accused for the injuries suffered by him on 31.3.2003. He has
+
+  further stated that PW3 is not reliable evidence as there are
+
+  many improvement in his testimony and he is a tutored witness.
+
+  He has relied upon following judgments:-
+</p>
+<p id="p_21">  i)    Lance Dafedar Laxman Singh, 1993 (1) CC Cases 316
+        (HC)
+
+</p><p id="p_22">  ii)   Ramvilas &amp; Ors. Vs. State of Madhya Pradesh 1985
+        CRI.L.J. 1773
+
+</p><p id="p_23">20.      He has further submitted that prosecution has to prove its
+
+  case beyond reasonable doubt and it can not derive strength
+
+  from the weakness of the defence.
+</p>
+<p id="p_24">21.      He has further stated that time of arrest of the accused is
+
+  not mentioned in Ex. PW4/A and this is a fatal to the case of the
+
+<span class="hidden_text" id="span_18">                                                                        18 </span>
+                                                State Vs.  Joginder Babbar 
+
+  prosecution. He has relied upon State Vs. Vicky &amp; Ors. 2012
+
+  (2) JCC 1147. He has further stated that IO has not conducted
+
+  investigation properly.
+</p>
+<p id="p_25">22.    He has relied upon State of Haryana Vs. Ram Singh,
+
+  2002 (1) JCC 385 wherein it is observed that equal treatment
+
+  has to be given to the defence witness.
+</p>
+<p id="p_26">23.    Before adverting to the contention of the ld. Defence
+
+  counsel, the case of the prosecution in brief is that this lady
+
+  Anita Sharma went to the clinic of the accused who is dentist on
+
+  31.03.2013 to the clinic of accused in the day time at about
+
+  10:15 am/10:30 am and accused told her that he wants to see
+
+  her stomach so that the layer on teeth could not grow again.
+
+  She laid down on the stretcher and he asked her whether her
+
+  clothes were tight or loose and she replied that she is wearing a
+
+  sari as usual. He asked her to loose her clothes and she should
+
+  not keep physical relations with her husband and have relations
+
+  with him and wear loose clothes and thereafter she became
+
+  angry and slapped the accused three or four times and on her
+
+  noise her nephew Gauri Shankar also came inside and she
+
+  narrated the whole story and he also became angry and called
+
+  the police. PW3 in his statement has also stated that at 10:40
+
+  am he along with his Mami i.e. PW2 went to the clinic of the
+
+  accused for check up and after some time he heard a noise and
+
+  he entered into the cabin and saw that PW2 was slapping the
+
+  accused and when he asked about incident, she told him that
+
+  accused teased her and touched her private parts and she
+
+  started slapping him and in the course of slapping, he received
+
+<span class="hidden_text" id="span_19">                                                                       19 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  injuries due to breaking of bangles. He also slapped on the right
+
+  cheek of the accused and when accused caught hold of his
+
+  hand, he called at 100 number. Both the witnesses were cross-
+
+  examined by ld. Defence counsel. Ld. Counsel for accused has
+
+  vehemently argued that there was no stretcher in the cabin of
+
+  the accused and for proving the same, he has annexed certain
+
+  photographs. In respect of these photographs, it is stated that
+
+  photographs have been taken by the accused as per his own
+
+  convenience and by different angles. All the corners of the cabin
+
+  have not been photographed. It is further stated that accused
+
+  was at liberty to take the photographs according to his own
+
+  choice and he could shift any of the articles to any place and
+
+  photographs simplicitor cannot be relied upon to prove that
+
+  there was no stretcher. Though the complainant has admitted
+
+  the geographical location as per the photographs however in my
+
+  opinion they are not very clear. In this regard it is important to
+
+  discuss the testimony of the defence evidence. DW1 Ram Niwas
+
+  who the attendant of the accused on the relevant date. Being
+
+  the defence witness, the accused has produced him and
+
+  therefore there is no doubt while taking his testimony into
+
+  consideration. Moreover, ld. Counsel has already relied upon
+
+  judgment State of Haryana Vs. Ram Singh (supra) wherein
+
+  it has been stated that equal treatment has to be given to the
+
+  defence witness.
+</p>
+<p id="p_27">24.    DW1 Ram Niwas has factually stated in his testimony that
+
+  the cabin of the accused was having one dental chair for the
+
+  patient, one table and chair for accused and a bench for the
+
+<span class="hidden_text" id="span_20">                                                                        20 </span>
+                                                  State Vs.  Joginder Babbar 
+
+  patient. In my considered opinion the bench for the patient
+
+  which find mention in the testimony of DW1 Ram Niwas has
+
+  been termed as Stretcher by the complainant herein in her
+
+  testimony. Ld. Counsel stated that there was anything else. He
+
+  has put a question to witness PW2 in her cross-examination
+
+  there was no stretcher in the clinic of the accused and there was
+
+  only a chair for patient. Further the story of the defence with
+
+  respect to the fact that there was no stretcher in the cabin of the
+
+  accused has become false by own evidence of DW1 produced by
+
+  the defence    who has stated that there was a bench for the
+
+  patient. PW2 has deposed in a very natural manner by stating
+
+  that first the accused checked her at his dental chair and
+
+  thereafter stated that he wants to see her stomach so that the
+
+  layer on teeth does not grow again, since there was a bench as
+
+  per the testimony of DW1 in the cabin, she laid down there and
+
+  thereafter, the entire incident occurred.
+</p>
+<p id="p_28">25.    The   whole    sequence    which   is   developed      from     the
+
+  combined testimony of PW1 and DW1 belies the contention of
+
+  counsel for accused with regard to absence of any stretcher in
+
+  cabin of accused.
+</p>
+<p id="p_29">26.    Ld. Counsel for accused has argued that PW3 Gauri
+
+  Shankar is a tutored witness as he was confronted with his
+
+  statement u/s 161 Cr. PC. Ex. PW3/DA wherein the factum of
+
+  slapping the accused were not recorded.           Ld. Counsel for
+
+  accused submitted that PW3 is a tutored witness therefore, his
+
+  testimony cannot be relied upon. In this regard it is stated that
+
+  PW2 and PW3 are the natural witness and have deposee in a
+
+<span class="hidden_text" id="span_21">                                                                         21 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  natural manner. One cannot expect a natural witness to depose
+
+  in the manner in which their statements u/s 161 Cr. PC. are
+
+  recorded by police officials. It is further pertinent to note here
+
+  that incident is of year 2003 whereas the witness PW3 had been
+
+  examined in the year 2009 and his cross-examination had been
+
+  conducted in June 2012 i.e. after a long gap between the date of
+
+  statement and recording his testimony. Same is testimony of
+
+  PW2 whose testimony was recorded for the first time in August
+
+  2006 and thereafter, February 2007 and thereafter, in 2009.
+
+  Herein in the present case, though there are certain minor
+
+  discrepancy in the testimony of both the witness in saying that it
+
+  was not mentioned in the statement before the police that the
+
+  bangles of PW3 were broken and she was bleeding and he has
+
+  received injuries or he gave slaps on the right cheeks of the
+
+  accused.      One should understand the mental faculty of the
+
+  witness or the person who was present at the time of
+
+  commission of the crime.       On the point of contradiction or
+
+  improvement it has to be seen whether the case of the
+
+  prosecution has been supported in totality by the witness or not
+
+  in the present case except for certain discrepancy the entire
+
+  case of the prosecution has been supported by both the witness.
+
+</p><p id="p_30">27.     Both the witnesses cannot be expected to depose more
+
+  effectively   than   they   have   deposed.   By   no    stretch      of
+
+  imagination, it can be stated that both the witnesses are tutored.
+
+  Minor discrepancy are bound to occur in the statement of
+
+  natural witnesses . We have to analysis whether the witness has
+
+  changed his statement entirely which leads to the         conclusion
+
+<span class="hidden_text" id="span_22">                                                                        22 </span>
+                                                              State Vs.  Joginder Babbar 
+
+  that the incident as alleged            did not take place. But here, the
+
+  testimony of witnesses clearly indicates that occused has
+
+  misbehaved with PW2 with the intention to outrage her modesty.
+
+  The testimony of PW2 and PW3 is trustworthy in view of the fact
+
+  that they have successfully passed the test of cross-examination
+
+  and their veracity could not be shaked.
+</p>
+<p id="p_31">28.    Reliance is placed on Takdir Samsuddin Sheikh Vs.
+
+  State of Gujarat &amp; Anr., 2012 (1) JCC 158 wherein it has
+
+  been held:-
+</p>
+<p id="p_32">                "We         are     of      the       view      that       all
+                omissions/contradictions pointed out by the
+                appellants counsel had been trivial in nature
+                which do not go to the root of the cause.
+</p><p id="p_33">                It   is   settled   legal    proposition       that     while
+                appreciating the evidence, the court has to take
+                into         consideration            whether            the
+                contradiction/omissions/improvements/embellis
+                hments etc. had been of such magnitude that
+                they may materially effect the trial. Minor
+                contradictions,     inconsistencies,         omissions     or
+                improvements         on     trivial    matters        without
+                affecting the case of the prosecution should not
+                be made the court to reject the evidence in its
+                entirely.     The court after going through the
+                entire evidence must form an opinion about the
+                credibility of the witnesses and the appellate
+                court in natural course would not be justified in
+                reviewing the same again without justifiable
+                reasons."
+</p>
+<p id="p_34">29.    Further mere          taking a plea in defence that the witness
+
+  were asked the previous prescription by the accused and she
+
+  showed her inability and when accused refused to go ahead,
+
+
+<span class="hidden_text" id="span_23">                                                                                     23 </span>
+                                                 State Vs.  Joginder Babbar 
+
+  they started beating him appears to be unrealistic as a patient
+
+  would not start manhandling a doctor just for being asked for
+
+  prescription slip. The defence put forth by the prosecution
+
+  appears to be very unrealistic. Hence, the judgment relied upon
+
+  by the defence counsel are not applicable and witnesses are not
+
+  at all tutored witnesses.
+</p>
+<p id="p_35">30.     Since the witnesses are not tutored witnesses it can be
+
+  said that judgments relied upon by ld. Defence counsel are not
+
+  applicable to the present case. As far as contention of not
+
+  mentioning of time of arrest has been raised by the defence
+
+  counsel, it is stated that though this can be termed irregularlity
+
+  in view of D.K. Basu Vs.      Vs. State of West Bengal, AIR
+
+  1997, SC 610 but we are all aware that the investigation has to
+
+  be conducted by the IO and any defective investigation cannot
+
+  allow the accused to derive any benefit therefrom.         He is not
+
+  entitled to acquittal for the reason that time of arrest was not
+
+  mentioned in the arrest memo. It is also pertinent to mention
+
+  here that ld. Counsel for accused has relied upon Ex. PW1/DA
+
+  which is a complaint moved by the accused to the police with
+
+  regard to the beatings given to him by the complainant and her
+
+  associates. He has himself relied upon Ex. PW5/DA wherein DD
+
+  No. 12-A, dated 31.03.2013. It has been recorded on 11:21 am
+
+  wherein, it has been stated that the accused had misbehaved
+
+  with lady and at this quarrel has occurred. Ld. Defence counsel
+
+  has failed to show at what time the complaint Ex. PW1/DA was
+
+  given by accused. The defence has also produced DW2, record
+
+  clerk from the LBS Hospital who has proved the MLC of the
+
+<span class="hidden_text" id="span_24">                                                                        24 </span>
+                                                     State Vs.  Joginder Babbar 
+
+     accused wherein, the injuries are shown that there was a
+
+     swelling and redness over left external ear. Swelling over left
+
+     pavital region of scalp, tenderness over left T.M.J and Bruise over
+
+     left shoulder.   The MLC prove on record by the accused further
+
+     support the case of prosecution as PW2 has factually stated that
+
+     when the accused was outraging her modesty, she got angry
+
+     and got from the stretcher and gave three/four slaps to accused.
+
+     PW3 Gauri Shankar also on hearing whole incident got angry and
+
+     he slapped on the right cheek of the accused.           The medical
+
+     evidence produced by the accused himself supports the ocular
+
+     evidence given by the witnesses PW2 and PW3. The MLC proved
+
+     on record clearly proves the previous sequence which has been
+
+     proved in the testimony of PW2 in which she had alleged that
+
+     the accused has outraged her modesty. Hence, I am of the
+
+     considered opinion that the testimony of PW2 and PW3 is
+
+     absolutely trustworthy.   By the testimony of PW2 it has been
+
+     established that the offence u/s 354 <a href="/doc/1569253/" id="a_6">IPC</a> was committed by the
+
+     accused as acts alleged to have been done by him clearly comes
+
+     within the purview of <a href="/doc/203036/" id="a_7">section 354</a> IPC.     Therefore, prosecution
+
+     has successfully proved the case. Hence, the accused is
+
+     convicted for the charge framed for the offence u/s 354 <a href="/doc/1569253/" id="a_8">IPC</a>. Let
+
+     he be heard on the point of sentence on 05.10.2012 at
+
+     02:00 pm.
+
+
+
+Announced in the open court                        (VANDANA JAIN)
+Dated:29.9.2012                                 M.M./Mahila Court (E)
+
+
+
+
+<span class="hidden_text" id="span_25">                                                                            25 </span>
+                                                       State Vs.  Joginder Babbar 
+
+
+
+
+                                                           FIR No. 297/99
+                                                       PS: Krishna Nagar
+
+30.8.2012
+
+Present:    Ld. APP for State.
+</p><p id="p_36">            Accused present on bail with counsel.
+</p><p id="p_37">            Vide separate judgment dictated and pronounced in the
+open court, the accused persons are acquitted in case FIR No. 297/99,
+PS Krishna Nagar. Provision of <a href="/doc/1682361/" id="a_9">section 437</a> (a) shall apply and previous
+surety shall remain as surety for next six months.               Let file be
+consigned to Record Room.
+</p>
+<p id="p_38">
+</p><p id="p_39">                                                         (VANDANA JAIN)
+                                                    M.M./Mahila Court (E)
+                                                         30.8.2012
+
+
+
+
+<span class="hidden_text" id="span_26">                                                                              26 </span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

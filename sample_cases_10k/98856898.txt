@@ -1,0 +1,815 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mukesh Upadhyaya &amp; Ors vs Dr.Naveen Jain &amp; Ors on 15 December, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/98856898/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/98856898/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/98856898/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/98856898/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court - Jodhpur</div>
+<div class="doc_title">Mukesh Upadhyaya &amp; Ors vs Dr.Naveen Jain &amp; Ors on 15 December, 2017</div><p id="p_1">     HIGH COURT OF JUDICATURE FOR RAJASTHAN AT
+                      JODHPUR
+               S.B. Writ Contempt No. 527 / 2017
+</p><p id="p_2">1. Mukesh Upadhyaya S/o Shyam Sunder, Aged About 28 Years,
+R/o Chopuniya Bass, Deshnok, District-Bikaner
+
+</p><p id="p_3">2. Shyam Sunder Tard S/o Jivan Ram Tard, R/o VPO Bisnoi Bass,
+Jasarasar, Tehsil Nokha, District-Bikaner Posted At PHC Jasrasar,
+District-Bikaner
+
+</p><p id="p_4">3. Subhash Kumar Pareek S/o Hanuman Prasad Pareek, R/o Near
+Chandak Bhawan Ward No. 29, Noka, Bikaner
+
+</p><p id="p_5">4. Nathumal Chauhan S/o Manak Chand, R/o Chopanio Ka Bass,
+Deshnok, District-Biakner
+
+</p><p id="p_6">5. Prem Sukh S/o Jaisa Ram, R/o VPO Mukam Tehsil Nokha,
+Bikaner
+
+</p><p id="p_7">6. Jaswant Daiya S/o Hanuman Prasad Daiya, R/o VPO Napasar,
+District-Bikaner
+
+</p><p id="p_8">7. Jaswant Sankhla D/o Shiv Kumar Sankhla, R/o VPO Napasar,
+District-Bikaner
+
+</p><p id="p_9">8. Manohar Lal S/o Gajan Bhati, R/o U.P. Suin Tehsil- Lunkaransar,
+Bikaner
+
+</p><p id="p_10">9. Jitendra Singh S/o Dashrath Singh, R/o C.H.C. Salawas,
+District-Jodhpur
+
+</p><p id="p_11">10. Roopnarayan Mali S/o Suwalal Mali, R/o P.H.C. Raholi, Tehsil-
+Newai, District-Tonk
+
+</p><p id="p_12">11. Hanumana Ram S/o Pema Ram, R/o P.H.C. Guda Vishnoiyan
+Block Luni, Jodhpur
+
+</p><p id="p_13">12. Praveen Kumar S/o Dinesh Kumar, R/o Badher Chowk, Khariya
+Mithapur, Tehsil-Bilara, Jodhpur
+
+</p><p id="p_14">13. Mehboob S/o Khwaja Hussain, R/o Village Post Bala, Tehsil-
+Bilara, District-Jodhpur
+
+</p><p id="p_15">14. Nathu Singh S/o Narpat Singh, R/o Post Bala, Tehsil-Bilara,
+District-Jodhpur
+
+</p><p id="p_16">15. Krishna Kumar S/o Meetha Lal, R/o Indra Colony, Bilara,
+District-Jodhpur
+
+</p><p id="p_17">16. Narendra S/o Swroop Chand, R/o Pipar City, District- Jodhpur
+
+
+</p><p id="p_18">17. Shankar Soni S/o Rameshwar Lal Soni, R/o Vaishnwas,
+                                (2 of 13)
+                                                         [WCP-527/2017]
+
+Lohawat, Jodhpur
+
+</p><p id="p_19">18. Sunderlal Chaudhary S/o Rameshwar Lal Choudhary, R/o
+Behind Karwasra Floor Mill, Near Gangaramji Taal, Banglanagar,
+Bikaner
+
+</p><p id="p_20">19. Magha Ram S/o Sanga Ram, R/o VPO Nathram, Tehsil-
+Balesar, District-Jodhpur
+
+</p><p id="p_21">20. Naresh Kumar Bhargav S/o Bhanwar Lal Bhargav, R/o Bilara,
+District-Jodhpur
+
+</p><p id="p_22">21. Jitendra Bhargav S/o Vasudev Bhargav, R/o PHC Jhak District-
+Jodhpur
+
+</p><p id="p_23">22. Rakesh Benda S/o Narpat Singh Benda, R/o PHC, Narva
+Bannar, Jodhpur
+
+</p><p id="p_24">23. Mahendra Kumar Karwasra S/o Hardinram Karwasra,
+Karwasaro Ki Dhani, Harsolav Nagar, PHC Dhawa, Luni, Jodhpur
+
+
+</p><p id="p_25">24. Suresh Chaudhary S/o Shiv Ram Chaudhary, R/o PHC Khari
+Mithapur, Tehsil-Bilara, Jodhpur
+
+</p><p id="p_26">25. Aashuram Gurjar S/o Ongar Ram Gujar, R/o P.H.C. Balumda,
+Jaitaram, District-Pali
+
+</p><p id="p_27">26. Chagganlal Hatila S/o Jeeva Ram Hatila, R/o P.H.C. Denda, Pali
+
+
+</p><p id="p_28">27. Mahendra Singh S/o Amba Lal, R/o C.H.C. Jaitaran, Pali
+
+</p><p id="p_29">28. Dinesh Singh Chauhan S/o Chaina Ram, R/o CHC Jaitaran
+District-Pali
+
+</p><p id="p_30">29. Iqbaludin Qureshi S/o Kamrudeen Qureshi, R/o C.H.C. Raas,
+Jaitaran, Pali
+
+</p><p id="p_31">30. Gajendar Singh S/o Narpat Singh, R/o CHC Jaitaran, Pali
+
+</p><p id="p_32">31. Roshan Kumar Joshi S/o Javari Lal Joshi, R/o P.H.C. Palva,
+Jaitaran, Pali
+
+</p><p id="p_33">32. Kailash Chandra Kumawat S/o Bagdaram Kumawat, R/o P.H.C.
+Nimbol, Jaitaran, Pali
+
+</p><p id="p_34">33. Raviraj Joshi S/o Pukhraj Joshi, R/o P.H.C. Lambiya, Pali
+
+</p><p id="p_35">34. Juber Ali S/o Basir Ahmed, R/o P.H.C. Balara, Jaitaran, Pali
+
+
+</p><p id="p_36">35. Manoj Kumar Trivedi S/o Satish Kumar Trivedi, P.H.C. Jojawar,
+District-Jodhpur
+                               (3 of 13)
+                                                        [WCP-527/2017]
+
+
+
+</p><p id="p_37">36. Deeparam Meena S/o Khinmaram Meena, R/o PHC Chanda
+(Rohat) Pali
+
+</p><p id="p_38">37. Amraram S/o Binjaram, R/o P.H.C. Jaitpur, Rohat, Pali
+
+</p><p id="p_39">38. Dharamveer Singh S/o Kalu Singh, R/o P.H.C. Karada, Rohat,
+Pali
+
+</p><p id="p_40">39. Bansi Lal S/o Toyaram, CHC Koselav, Sumerpur, District-Pali
+
+
+</p><p id="p_41">40. Phusa Ram S/o Binjaram, R/o PHC Banta (Kharchi) Pali
+
+</p><p id="p_42">41. Sanjay Mewara S/o Vaktaram, R/o PHC Auva (Kharchi) Pali
+
+</p><p id="p_43">42. Laxman Meena S/o Nimbaram, R/o CHC Kharchi, Pali
+
+</p><p id="p_44">43. Durgesh Kumar S/o Asaram Meena, R/o PHC Guda, Andla, Pali
+
+
+</p><p id="p_45">44. Abhishek Joshi S/o Naresh Kumar Joshi, R/o C.H.C. Beda, Bali,
+Pali
+
+</p><p id="p_46">45. Kailash Kumar S/o Naresh Kumar, R/o CHC Beda, Bali,
+District-Pali
+
+</p><p id="p_47">46. Rakesh Gehlot S/o Jassaram, R/o CHC Rohat District-Pali
+
+</p><p id="p_48">47. Jitendar Van S/o Bheru Van, R/o PHC Siriyari, Kharchi Pali
+
+</p><p id="p_49">48. Jhawari Devi W/o Late Ram Lal (Experied), R/o P.H.C. Babra,
+Raipur Block, Pali
+
+</p><p id="p_50">49. Ajay Sundiya S/o Nand Singh Sundiya, R/o PHC Ladpura,
+Bhilwara
+
+</p><p id="p_51">50. Vijay Sundiya S/o Nand Singh, R/o PHC Manpura, Bhilwara
+
+</p><p id="p_52">51. Richa Sharma S/o Raj Kumar Purohit, R/o Mandalgarh,
+Bhilwara
+
+</p><p id="p_53">52. Shyam Sunder Ojha S/o Shiv Narayan Ojha, R/o PHC Singou,
+Bhilwara
+
+</p><p id="p_54">53. Satyanarayan Meghwanshi S/o Ghishulal Meghwansi, R/o CHC
+Mahuwa, Bhilwara
+
+</p><p id="p_55">54. Babu Lal Meena S/o Mangi Lal Meena, R/o PHC Jalindri,
+Bhilwara
+
+</p><p id="p_56">55. Ankur Jain S/o Bhagchand Jain, R/o PHC Damaniya, Bhilwara
+
+</p><p id="p_57">56. Sunil Soni S/o Kailash Chavd Soni, R/o PHC Barundani,
+                               (4 of 13)
+                                                        [WCP-527/2017]
+
+Bhilwara
+
+</p><p id="p_58">57. Amit Sen S/o Pirulal Sen, R/o P.H.C. Salwathiya, Bhilwara
+
+</p><p id="p_59">58. Jas Raj Mewara S/o Ram Chandar Mewara, R/o PHC
+Shyampura, Bhilwara
+
+</p><p id="p_60">59. Paras Kala S/o Jagdish Kala, R/o CHC Bigod, Bhilwara
+
+</p><p id="p_61">60. Sunita Vyas D/o Gopal Vyas, R/o CHC Mandalgarh, Bhilwara
+
+</p><p id="p_62">61. Meena Bhandari D/o Kedar Lal Bhandari, R/o CHC Mandalgarh,
+Bhilwara
+
+</p><p id="p_63">62. Gayatri Sharma D/o Ladu Lal Sharma, R/o CHC Mandalgarh,
+Bhilwara
+
+</p><p id="p_64">63. Dheeraj Dave S/o Vijay Kumar Dave, R/o Near Bus Stand
+District-bikaner
+
+</p><p id="p_65">64. Anuradha Vaishnav D/o Babu Das, R/o PHC Akodara
+Tehsilnathdwara, Rajsamand
+
+</p><p id="p_66">65. Vinay Thanvi S/o Sri Niwas Thanvi, R/o Kesar Desar Sevgo Ki
+Gali, Inside Usta Baari, Bikaner
+
+</p><p id="p_67">66. Shashi Kant Vyas S/o Kewal Chand Vyas, R/o Bhanimali Ki
+Badi Kai Andar, Murlidhar Vyas Colony, Bikaner
+
+</p><p id="p_68">67. Deepak Joshi S/o Lamni Narayan Joshi,, R/o Bisso Ka Chowk,
+Bikaner
+
+</p><p id="p_69">68. Mohan Singh S/o Ajad Singh, R/o Behind Anathalya Ashram
+Nivedak Nagar, Bikaner
+
+</p><p id="p_70">69. Pinki Sharma D/o Surendra Sharma, R/o Inside Dharmnagar
+Dwar Neyashahar, District-bikaner
+
+</p><p id="p_71">70. Vandana Kumawat D/o Prakash Chandra, R/o 26-B, Kumbha
+Nagar, Chittorgarh
+
+</p><p id="p_72">71. Mamraj Dhakad S/o Babu Lal Dhakad, R/o Tehsil-bengu
+District-chittorgarh
+
+</p><p id="p_73">72. Mukesh Kumar Laad S/o Ramesh Kumar Laad, R/o Cilovariya
+Ki Bawari, Begun District-chittorgarh
+
+</p><p id="p_74">73. Babu Lal Dhakad S/o Hajari Lal Dhakad, R/o Mandwari Tehsil-
+bengu, District-chittorgarh
+
+</p><p id="p_75">74. Ali Mohammad S/o Hakam Khan, R/o Village Post-bhinde Ka
+Par, Ramasar, District-barmer
+
+</p><p id="p_76">75. Rekha Ram S/o Kumbha Ram, R/o VPO Peeparli
+                              (5 of 13)
+                                                      [WCP-527/2017]
+
+Tehsilgudamalani, District-barmer
+
+</p><p id="p_77">76. Balwant Rai Dhande S/o Tav Ram Dhande, R/o VPO Setrv Ram
+District-barmer
+
+</p><p id="p_78">77. Heera Ram S/o Ranan Ram, R/o Entada Chohtan
+Districtbarmer
+
+</p><p id="p_79">78. Rajendra Singh S/o Nena Ram, R/o VPO Alamsariya Via
+Dhorimana District-barmer
+
+</p><p id="p_80">79. Ashok Kumar S/o Biaja Ram, R/o VPO Dhorimana
+Tehsildhorimana District-barmer
+
+</p><p id="p_81">80. Heera Lal S/o Taga Ram, R/o VPO Khardar (ogala) Vaya
+Dhorimanna District-barmer
+
+</p><p id="p_82">81. Rasla Ram S/o Vahana Ram, R/o VPO Bhalgan, Bakhaser
+District-barmer
+
+</p><p id="p_83">82. Narpat Singh S/o Derawar Singh, R/o Kelnar Tehsil-chohtan
+District-barmer
+
+</p><p id="p_84">83. Tarun Singh S/o Padam Singh, R/o VPO Jai Singh Dhani Tehsil-
+shiv, District-barmer
+
+</p><p id="p_85">84. Bhawani Singh S/o Chandansingh, R/o VPO Jaisindher Tehsil-
+gadra District-barmer
+
+</p><p id="p_86">85. Hari Singh S/o Shankar Singh,, R/o VPO Khandap
+Tehsilsamdary District-barmer
+
+</p><p id="p_87">86. Chagan Raj Parihar S/o Mota Ram Parihar, R/o VPO Kitnod
+Tehsil Pachpadra, District-barmer
+
+</p><p id="p_88">87. Chokha Ram S/o Khiya Ram, R/o VPO Ekal Tehsil Sedwa
+District-barmer
+
+</p><p id="p_89">88. Pawan Kumar Nagar S/o Hira Lal, R/o 67, Dhakad Mohalla,
+Mothpur Tehsil-ataru District-baran
+
+</p><p id="p_90">89. Prem Narayan S/o Kanhya Lal, R/o Gaytri Nagar, Ataru Baran
+
+</p><p id="p_91">90. Devi Lal Parmar S/o Vela Ram Ji, R/o Balotra, Ward No.19,
+District-barmer
+
+</p><p id="p_92">91. Babu Lal S/o Padam Singh Ji Mali,, R/o Ward No. 31, Narendar
+Colony, Balotra District-barmer
+
+</p><p id="p_93">92. Mukesh Malviya S/o Shakha Ram, R/o Jeetimal Suthar Wali
+Gali, Balotra District-barmer
+
+</p><p id="p_94">93. Indra Das Vaishnav S/o Janki Das, R/o VPO Khana
+Tehsilpachpadra District-barmer
+                               (6 of 13)
+                                                       [WCP-527/2017]
+
+
+
+</p><p id="p_95">94. Mukesh Parihar S/o Champalal, R/o Balotra District Barmer
+
+</p><p id="p_96">95. Tarun Gehlot S/o Rameshar Lal Gehlot, R/o Pali Walo Ka Baas,
+Pachpadra Nagar District-barmer
+
+</p><p id="p_97">96. Mool Singh S/o Chain Singh, R/o Village-dharvi Khud
+Tehsilshiv District-barmer
+
+</p><p id="p_98">97. Manohar Dan S/o Savaidan, R/o VPO Ganga Tehsil-shiv,
+District-barmer
+
+</p><p id="p_99">98. Raghuveer Singh S/o Sang Singh, R/o Judiya Post Jhanketly
+Tehsil Shiv, District-barmer
+
+</p><p id="p_100">99. Dalip Singh S/o Bheru Singh, R/o Village Degad Ka Kheda
+Post-devgarh, Tehsil-gangadhar, District-jhalawar
+
+</p><p id="p_101">100. Ratan Lal Meghwal S/o Dula Ram, R/o VPO Dumplaiya Tehsil-
+nokha, District-bikaner
+
+</p><p id="p_102">101. Purshottam Sharma S/o Pukharaj Sharma, R/o Borunda,
+District-jodhpur
+
+</p><p id="p_103">102. Satya Narayan Darji S/o Shri Banwari Lal Tailor,, R/o Ward
+No.16, Udaipurwati, District-jhunjhunun.
+
+</p><p id="p_104">103. Fateh Singh S/o Shri Mahipal Singh, R/o Surya Vihar Colony,
+Ward No. 24, Near Panchdev Mandir, Jhunjhunun.
+
+</p><p id="p_105">104. Vikram Singh S/o Shri Bahadur Singh,, R/o VPO Nooa,
+District-jhunjhunun.
+</p>
+<p id="p_106">105. Rajesh Kumar S/o Shri Samudra Singh,, R/o VPO Bhadunda
+Khurd, District-jhunjhunun.
+</p>
+<p id="p_107">106. Yogendra Kumar Fulwariya S/o Shri Banwari Lal,, R/o Ward
+No., Jatavas, Bagar District-jhunjhunun
+
+</p><p id="p_108">107. Sita Ram Digarwal S/o Shri Laxman Ram Digarwal,, R/o
+Behind Prabhat Cinema, Ward No. 17, Jhunjhunun.
+
+</p><p id="p_109">108. Sampat Singh S/o Shri Banwari Singh, R/o VPO Kali Pahari
+Via Islampura District-jhunjhunun.
+
+</p><p id="p_110">109. Pradeep Kumar S/o Shri Murlidhar Jangir,, R/o VPO Siriyasar
+Kallan, District-jhunjhunun.
+</p>
+<p id="p_111">110. Narotam Lal S/o Goru Ram,, R/o VPO Dhigal,
+Districtjhunjhunun.
+</p>
+<p id="p_112">111. Sita Ram Swami S/o Shri Vijay Kumar,, R/o VPO Mandasi,
+District-jhunjhunun.
+</p><p id="p_113">                              (7 of 13)
+                                                       [WCP-527/2017]
+
+</p><p id="p_114">112. Ashok Kumar S/o Shri Balveer Singh,, R/o Village-dhayalo Ka
+Baas Via Jakhal, Tehsil-navalgarh District-jhunjhunun.
+
+</p><p id="p_115">113. Mukesh Kumar Gahan S/o Shri Nathu Lal Gahan,, R/o VPO
+Bada Gaon Tehsil Udaipurwati, District-jhunjhunun.
+
+</p><p id="p_116">114. Manoj Kumar S/o Shri Satyanarayan,, R/o VPO Bada Gaon
+Tehsil-udaipurwati, District-jhunjhunun.
+
+</p><p id="p_117">115. Raghuveer Singh Gurjar S/o Shri Mala Ram Gurjar,, R/o Bada
+Gaon Tehsil-udaipurwati, District-jhunjhunun.
+
+</p><p id="p_118">116. Poonam Chand S/o Shri Subhash Chand,, R/o VPO Haripura
+Via Alsisar Tehsil-malsisar, District-jhunjhunun.
+
+</p><p id="p_119">117. Mahipal S/o Shri Rameshwar Lal, R/o VPO Bass Haripura,
+District-jhunjhunun.
+</p>
+<p id="p_120">118. Rajendra Dholpuriya S/o Shri Chouthmal Dholpuriya,, R/o
+Ward No. 19, Ramgarh Shekhawati District-sikar.
+
+</p><p id="p_121">119. Anil Kumar S/o Shri Tara Chand,, R/o Quarter No. F-83 Is A,
+Khetari Nagar, District-jhunjhunun.
+
+</p><p id="p_122">120. Mukesh Kumar S/o Shri Gokul Chand,, R/o VPO Keharpura
+Kallan, Sudha Colony, Tehsil-chidava District-jhunjhunun.
+
+</p><p id="p_123">121. Kuldeep Singh Shekhawat S/o Shri Rajendra Singh
+Shekhawat,, R/o VPO Gudha Gourji, Tehsil-udaipurwati District-
+jhunjhunun.
+</p>
+<p id="p_124">122. Rakesh Kumar Sharma S/o Shri Matadeen Sharma,, R/o VPO
+Guda Poukh Tehsil-udaipurwati District-jhunjhunun.
+
+</p><p id="p_125">123. Vishnu Sharma S/o Shri Bajrang Lal,, R/o VPO Guda Poukh,
+Tehsil-udaipurwati, District-jhunjhunun.
+
+</p><p id="p_126">124. Krishna Kumari D/o Shri Shiv Kumar Sharma,, R/o Kajara
+Tehsil-chidava District-jhunjhunun.
+
+</p><p id="p_127">125. Mukesh Kumari D/o Shri Umrav Prasad, R/o VPO Buhana
+Tehsil-buhana, District-jhunjhunun.
+
+</p><p id="p_128">126. Renu D/o Shri Balveer Singh,, R/o VPO Jaitpura,
+Tehsilbuhana, District-jhunjhunun.
+
+</p><p id="p_129">127. Kuldeep S/o Shri Dharampal,, R/o Village-nijampura,
+Chanana, District-jhunjhunun.
+</p>
+<p id="p_130">128. Ramavtar Sharma S/o Shri Jagdish Prasad Sharma,, R/o
+Sihod, Tehsil-khetari, District-jhunjhunun.
+
+</p><p id="p_131">129. Sandeep Kumar S/o Shri Madan Lal Sharma,, R/o VPO Sihod
+Tehsil-khetari, District-jhunjhunun.
+</p><p id="p_132">                               (8 of 13)
+                                                        [WCP-527/2017]
+
+
+
+</p><p id="p_133">130. Rajendra Kumar S/o Shri Birbal Ram,, R/o VPO Ward No. 16,
+Jyoti Nagar, Surajgarh District-jhunjhunun.
+
+</p><p id="p_134">131. Sunita Kumari D/o Shri Birbal Ram,, R/o Ward No. 16, Jyoti
+Nagar, Surajgarh, District-jhunjhunun.
+
+</p><p id="p_135">132. Lalu Prasad Yadav S/o Shri Banwari Lal,, R/o VPO Kotdi Post
+Bhoja Ki Dhani, Tehsil-khandela, District-sikar.
+
+</p><p id="p_136">133. Mohammad Aslam S/o Abdul Jaffar, R/o Pipar City
+Districtjodhpur
+
+</p><p id="p_137">134. Bhanwar Lal Sharma S/o Bajrang Lal Sharma, R/o Pipar City,
+Jodhpur
+
+</p><p id="p_138">135. Roopnarayan Mali S/o Suwa Lal Mali,, R/o PHC Baholi Tehsil-
+newari, District-tonk
+
+</p><p id="p_139">136. Kishore Kumar S/o Rupa Ram Jatiya, R/o Pipar City, District-
+jodhpur
+
+</p><p id="p_140">137. Pushpendra Singh S/o Arjun Singh, R/o Village Postbarjasar
+Tehsil-pholdi, District-jodhpur
+
+</p><p id="p_141">138. Virendra S/o Jetha Ram, R/o Plot No. 357, Veer Durga Das
+Colony, Street No. 14, Baldev Nagar, Mansuriya, Jodhpur District-
+jodhpur
+
+</p><p id="p_142">139. Suresh S/o Dhanna Ram, R/o PHC Kudki Tehsil-jaitaran,
+District-pali
+
+</p><p id="p_143">140. Prem Sukh S/o Ghanshyam Ram, R/o PHC Lambiya, Jaitaran,
+District-pali
+
+</p><p id="p_144">141. Bhagga Ram S/o Jassa Ram, R/o PHC Dhamli (kharchi) Pali
+
+</p><p id="p_145">142. Karna Ram S/o Kheraj Ram, R/o VPO Siyalo Ka Der, Bamarla
+Via Dhorimanna, Barmer
+
+</p><p id="p_146">143. Jitendra Singh S/o Dashrath Singh,, Aged About 30 Years,
+R/o CHC Salawas District-jodhpur
+
+</p><p id="p_147">144. Ajay Acharya S/o Vijay Shakar Acharya, R/o Joshiwada
+Inside Kotgate, Bikaner
+
+</p><p id="p_148">145. Bhanwar Lal Karela S/o Ishar Ram, R/o VPO Girajsar
+Tehsilkolayat, District-bikaner
+
+</p><p id="p_149">146. Mangi Lal Megwal S/o Rajaram,, R/o VPO Kolayat
+Districtbikaner
+
+</p><p id="p_150">147. Aidan Singh S/o Mohan Singh, R/o VPO Pilwa Tehsil-phlodi,
+District-jodhpur
+                               (9 of 13)
+                                                        [WCP-527/2017]
+
+
+
+</p><p id="p_151">148. Mgha Ram Prajapat S/o Sanga Ram Prajapat, R/o Village
+Post-nathrau, Tehsil-balesar, District-jodhpur
+
+</p><p id="p_152">149. Salman S/o Barkat Shah, R/o VPO Gangani Tehsil-baori,
+District-jodhpur
+
+</p><p id="p_153">150. Dolaram S/o Roopa Ram, R/o Jhanwar Tehsil-luni
+Districtjodhpur
+
+</p><p id="p_154">151. Suraj Bhan Karan Singh S/o Mohan Singh, R/o VPO Jhnawar
+Tehsil-luni District-jodhpur
+
+</p><p id="p_155">152. Rajesh Suwalka S/o Himmat Lal Suwalka, R/o Village-ram
+Kheda Post-soniyana Tehsil-sahada, District-bhilwara
+
+</p><p id="p_156">153. Shiv Singh Daroga S/o Radhakishan Daroga, R/o
+Villagebhojpura Post-thunka Vaya Bagore Tehsil-mandal
+Districtbhilwara
+
+</p><p id="p_157">154. Naresh Suwalka S/o Himmat Lal Suwalka, R/o Village Ram
+Kheda Post-soniyana Tehsil-sahada, District-bhilwara
+
+</p><p id="p_158">155. Bhera Ram S/o Dev Ram, R/o VPO Sansari Tehsil-desuri,
+District-pali.
+</p>
+<p id="p_159">156. Jagdish Jogsan S/o Ram Lal, R/o VPO Sutharo Ka Guda Post-
+chuli Sheoganj District-sirohi
+
+</p><p id="p_160">157. Ashok Kumar S/o Heera Ram, R/o CHC Campus, Sheoganj,
+District-sirohi
+
+</p><p id="p_161">158. Mamraj Dhakad, S/o Babu Lal Dhakad, R/o Tehsil-bengu
+District-chittorgarh
+
+</p><p id="p_162">159. Mukesh Kumar Laad S/o Ramesh Kumar Laad,, R/o Cilovariya
+Ki Bawri, Tehsil-bengu, District-chittorgarh
+
+</p><p id="p_163">160. Babu Lal Dhakad S/o Hajarilal Dhakad, R/o Mandwari Tehsil-
+bengu, District-chittorgarh
+
+</p><p id="p_164">161. Rajendra Dhinwa S/o Dya Singh, R/o VPO Bhesli
+Tehsilrajgarh, District-churu Posted At PHC Bikampur
+Districtbikaner
+
+</p><p id="p_165">162. Santosh Kumar S/o Rati Ram, R/o VPO Bajju Tehsil-kolayat,
+District-bikaner
+
+</p><p id="p_166">163. Subash Kumar Pareek S/o Hanuman Prasad Pareek, R/o Near
+Chandak Bhwan Ward No. 29, Tehsil-nokha, Districtbikaner
+
+</p><p id="p_167">164. Raj Bala W/o Harish Kumar Purohit, R/o Phalodi Tehsil
+Phalodi, District-jodhpur
+                              (10 of 13)
+                                                       [WCP-527/2017]
+
+</p><p id="p_168">165. Shankar Lal Mali S/o Birdhi Chand Mali, PHC Channai, Nawai
+District-tonk
+
+</p><p id="p_169">166. Ram Raj Saini S/o Dhanna Lal Mali, R/o PHC Sodha Nawai
+District-tonk
+
+</p><p id="p_170">167. Bahadur Singh Jadeta S/o Durga Singh Jadeta, R/o PHC Diggi
+Tehsil-malpura, District-tonk
+
+</p><p id="p_171">168. Mukesh Saini S/o Madan Lal Saini, R/o PHC Lawa, Malpura
+Tonk.
+</p>
+<p id="p_172">169. Ramesh Kumar Sharma S/o Om Prakash Sharma, R/o VPO
+Momasar Tehsil-sri Dungargarh, District-bikaner Posted At PHC
+Momasar, Bikaner
+
+</p><p id="p_173">170. Teja Ram S/o Dula Ram, R/o Bhawad, Jodhpur
+
+</p><p id="p_174">171. Suresh Ram S/o Ganpat Ram, R/o Danwara, Jodhpur
+
+</p><p id="p_175">172. Sharwan Singh S/o Madan Singh, R/o Dhanari Kala, Jodhpur
+
+
+</p><p id="p_176">173. Om Prakash S/o Bhanwara Ram, R/o Thob Tehsil-jodhpur
+
+</p><p id="p_177">174. Sahdev Ram S/o Raju Ram, R/o PHC Dhanari Khurd, Jodhpur
+
+
+</p><p id="p_178">175. Narendra Singh S/o Manohar Singh, R/o Bhojasar, Jodhpur
+
+</p><p id="p_179">176. Swaroop Singh S/o Jabar Singh,, R/o Champasar, Jodhpur
+
+</p><p id="p_180">177. Beera Ram S/o Govind Ram, R/o Kelansar, Jodhpur
+
+</p><p id="p_181">178. Vikash Prajapat S/o Jugal Kishore Prajapat, R/o Manak Chok,
+Jodhpur
+
+</p><p id="p_182">179. Nar Singh S/o Dev Narayan Patel, R/o Luni Jodhpur
+
+</p><p id="p_183">180. Pratap Ram S/o Narayan Ram, R/o Banar Road, Jodhpur
+
+</p><p id="p_184">181. Dhanan Ram S/o Pukhraj Gehlot, R/o Keru, Jodhpur
+
+</p><p id="p_185">182. Ashok Sau S/o Hanuman Ram, R/o Salva Kalla Jodhpur
+
+</p><p id="p_186">183. Sundar Das S/o Seva Ram, R/o Bisalpur, Jodhpur
+
+</p><p id="p_187">184. Jitendra Singh S/o Dasrath Singh, R/o Salawas, Jodhpur
+
+</p><p id="p_188">185. Jitendra S/o Bhomraj, R/o Tinwari, Jodhpur
+
+</p><p id="p_189">186. Jitendra Chhangani S/o Achal Das, R/o Tinwari, Jodhpur
+
+</p><p id="p_190">187. Jitendra S/o Mag Singh, R/o Osian, Jodhpur
+                                (11 of 13)
+                                                          [WCP-527/2017]
+
+
+
+</p><p id="p_191">188. Mool Singh S/o Sawroop Singh, R/o Osian, Jodhpur
+
+</p><p id="p_192">189. Bhojraj S/o Arjun Ram, R/o Osian, Jodhpur
+
+</p><p id="p_193">190. Ravindra Kumar S/o Om Prakash Prajapat,, R/o Bhopalgarh,
+District-jodhpur
+
+</p><p id="p_194">191. Bhupendra S/o Om Prakash, R/o Ratkuriya, Jodhpur
+
+</p><p id="p_195">192. Allanoor Khan S/o Amdeen Khan, R/o Boyal Pipar, Jodhpur
+
+</p><p id="p_196">193. Kishan Kumar S/o Mitha Lal, R/o Indra Colony, Bilara, Tehsil-
+bilara, District-jodhpur
+
+</p><p id="p_197">194. Vandana Rajpurohit S/o Prem Singh Rajpurohit, R/o Karli
+Colony, Bilara, Jodhpur
+
+</p><p id="p_198">195. Sunil Kumar S/o Subash Chandar Singh, District-pali
+
+</p><p id="p_199">196. Manoj Kumar S/o Shiv Chand Godara, R/o PHC Shekhasar
+District-jodhpur
+
+</p><p id="p_200">197. Anil Kumar S/o Shree Ram Kumar Kurliya, R/o VPO
+Chhatargarh, District-bikaner
+</p><p id="p_201">                                                      ----Petitioners
+                               Versus
+</p><p id="p_202">1. Dr. Naveen Jain, Secretary, Medical and Health Department,
+Government of Rajasthan, Jaipur.
+
+</p><p id="p_203">2. Dr. V.K. Mathur, Director, Medical and Health Services,
+Rajasthan, Jaipur.
+</p>
+<p id="p_204">3. Dr. O.P. Thankan, Addl. Director, Medical and Health Services,
+Rajasthan, Jaipur.
+</p>
+<p id="p_205">4. Sh. Om Prakash Kasera, Rajasthan Medical Services
+Corporation Limited, Department of Medical and Health Services,
+Health Bhawan, Tilak Marg, C Scheme, Jaipur Through Its
+Managing Director.
+</p>
+<p id="p_206">5. Shri Prem Singh Mehra, Secretary Finance Department
+Government of Rajasthan, Jaipur.
+
+</p><p id="p_207">6. Dr Anil Kumar Mittal, Chief Medical and Health Officer, Jodhpur.
+
+
+</p><p id="p_208">7. Dr. S.K.S. Bisht, Chief Medical and Health Officer, Barmer.
+
+</p><p id="p_209">8. Dr. Devendra Choudhary, Chief Medical and Health Officer,
+Bikaner.
+</p><p id="p_210">                                (12 of 13)
+                                                          [WCP-527/2017]
+
+</p><p id="p_211">9. Dr. Brijesh Kumar Goyal, Chief Medical and Health Officer,
+Baran.
+</p>
+<p id="p_212">10. Dr. Sajid Khan, Chief Medical and Health Officer, Jhalawar.
+
+
+</p><p id="p_213">11. Dr. Rajkumar Dangi, Chief Medical and Health Officer,
+Jhunjunu.
+</p>
+<p id="p_214">12. Dr. Gokul Lal Meena, Chief Medical and Health Officer, Tonk.
+
+
+</p><p id="p_215">13. Dr. KC Meena, Chief Medical and Health Officer, Sikar.
+
+</p><p id="p_216">14. Dr. Surendra Singh Shekhawat, Chief Medical and Health
+Officer, Pali.
+</p>
+<p id="p_217">15. Dr. S.K. Parmar, Chief Medical and Health Officer, Sirohi.
+
+</p><p id="p_218">16. Dr Jagdish Chandra Jeengar, Chief Medical and Health Officer,
+Bhilwara.
+</p>
+<p id="p_219">17. Dr. G.L. Meena, Chief Medical and Health Officer, Rajsamand.
+
+
+</p><p id="p_220">18. Dr. Inder Jeet Singh, Chief Medical and Health Officer,
+Chittorgarh.
+</p>
+<p id="p_221">19. The State of Rajasthan Through Secretary, Medical and Health
+Department, Government of Rajasthan, Jaipur.
+</p><p id="p_222">                                                    ----Respondents
+_____________________________________________________
+For Petitioner(s)   : Mr. Shree Kant Verma
+For Respondent(s) : Mr. Rishabh Tayal
+_____________________________________________________
+           HON'BLE MS. JUSTICE NIRMALJIT KAUR
+                               Order
+14/12/2017
+
+     Reply has been filed. As per the reply, the amount due to the
+
+petitioners has since been sanctioned vide order dated 6.12.2017
+
+and has already been received by the concerned CMHO.
+
+</p><p id="p_223">     In view of the above, this Court finds no reason to continue
+
+with the present contempt petition.
+</p><p id="p_224">                                (13 of 13)
+                                                           [WCP-527/2017]
+
+       The contempt petition is accordingly dismissed. Rule is
+
+discharged. However, it is made clear that in case the said amount
+
+is not disbursed by the concerned CMHOs within four weeks, the
+
+petitioners will be at liberty to revive the contempt petition against
+
+the concerned CMHO.
+</p>
+<p id="p_225">                                             (NIRMALJIT KAUR), J.
+</p>
+<p id="p_226">
+
+
+Pdaiya/25
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

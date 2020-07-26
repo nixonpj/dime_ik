@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Rajbir @ Rajinder on 15 March, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/168045343/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1613898/">Section 207 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/329579/">Baldev Singh &amp; Anr vs State Of Punjab on 13 October, 1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/168045343/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/168045343/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=RCR%20%28Criminal%29">RCR (Criminal)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22begumpur%20%22">"begumpur "</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Rajbir @ Rajinder on 15 March, 2007</div><div class="doc_author">Author: Sh. S.S. Rathi</div>
+
+<pre id="pre_1">                         THE COURT OF SH. SURINDER S. RATHI : MM
+                                    ROHINI COURTS : DELHI
+                                                                           State vs. Rajbir @ Rajinder
+                                                                                    FIR NO : 149/94
+                                                                                      PS : Sultan Puri
+                                                                            U/s 61/1/14 Pb. Excise Act
+JUDGMENT
+</pre>
+<pre id="pre_2">1.Sl. No. of the case                                      :     115B/3 of 95
+2.Name of complainant                                      :     HC Devender Kumar
+3.Date of commission of offence                            :     17.3.94
+4.Name of accused, parentage                               :     Rajbir @ Rajender
+   and address                                                   S/o Ratiram
+                                                                 R/o Village Begumpur
+                                                                 Delhi
+
+5.Offence complained of or proved                          :     61/1/14 Pb Excise Act
+
+6.Plea of guilt                                            :     Pleaded not guilty
+
+7.Final order                                              :     Acquitted
+
+8.Date of such order                                       :     15.3.07
+
+
+
+BRIEF REASONS FOR THE DECISION OF THE CASE
+
+
+</pre><p id="p_1">1. The case of prosecution in brief is that on 17.3.94 at about 6.45 PM at Plot Adjacent house of
+   one Rati Ram at Begumpur Delhi within the jurisdiction of PS Sultanpuri accused was found in
+   possession of 12 bottles and 240 half bottles of rum in eleven boxes without having any permit
+   or license. Accused was booked for commission of offence punishable u/s 61/1/14 of Punjab
+   Excise Act. After the registration of the FIR, investigation was carried on.
+</p>
+
+<p id="p_2">2. After conclusion of investigation charge sheet              was   filed under even offence.   After
+   compliance of <a href="/doc/1613898/" id="a_1">section 207</a> Cr.P.C., charge was framed by Ld. Predecessor of this Court
+   against the accused to which accused pleaded not guilty and claimed to be tried. Accused
+   was declared PO on 22.9.01 and was arrested on 13.10.01 and remained in JC upto 8.11.01.
+</p>
+
+
+<span class="hidden_text" id="span_1">                                                  1</span>
+<p id="p_3"> 3. In support of its case prosecution examined 3 witnesses &amp; PE was ordered to be closed.
+</p>
+
+<p id="p_4">4. After conclusion of prosecution evidence statement of accused          was recorded in which
+  accused    claimed to be innocent and stated that he has been falsely implicated. Accused
+  however, expressed that he does not wish to lead evidence in defence.
+</p>
+
+<p id="p_5">5. I have heard the arguments of Ld. APP for the state and the accused and have perused
+  the case file carefully. I have also gone through the relevant law and the judgments on the
+  issue involved.
+</p>
+
+<p id="p_6">6. PW 1 is ASI Mahender Singh was the MHC(M) on 17.3.94 and he has proved the relevant
+  entry of register no. 19 Ex. PW1/A vide which case property was deposited in malkhana by HC
+  Davinder. He has also proved the RC no. 125/21/94 through which case property was sent to
+  Excise Lab.
+</p>
+
+<p id="p_7">7. Besides this formal witness prosecution also examined PW2 Ct. Virender Kumar and PW3 ASI
+  Devender Kumar, who are the witnesses to the recovery of illicit liquor from the possession of
+  the accused and PW3 was also the IO of the present case.
+</p>
+
+<p id="p_8">8. In the present case prosecution tried to bring home the guilt of the accused by relying upon the
+  version of PW2 &amp; PW3. PW2 &amp; PW3 narrated on the lines of the prosecution version and
+  corroborated the version of each other and specifically deposed that accused, who was
+  correctly identified by the PWs, was apprehended on the basis of secret information at Plot
+  Adjacent house of one Rati Ram at Begumpur Delhi accused was found in possession of 12
+  bottles and 240 half bottles of rum in eleven boxes and that case property was sealed with the
+  seal of DK and same was seized vide seizure memo Ex. PW2/A, Form M-29 Ex. PW3/A, rukka
+  Ex. PW3/B, site plan is Ex. PW3/C, personal search memo Ex. PW2/B.
+</p>
+
+<p id="p_9">9. Moreover, even     the version of PW2 &amp; PW3 remained uncorroborated by any other
+  independent public witness to the recovery despite the fact that recovery in question took place
+  in habited area. The non joining of public witness in such type of cases creates a doubt on the
+
+
+<span class="hidden_text" id="span_2">                                                2</span>
+   story of prosecution as held in the State of Rajasthan Vs. Teja Singh 2001 (II) AD (SC) 125,
+  by Hon'ble Supreme Court that :-
+</p><blockquote id="blockquote_1">                        "The failure of the prosecution to examine independent witnesses though
+                        available is fatal for their case."</blockquote>
+
+
+<p id="p_10">               Further in the case title State of Punjab Vs. Gurdyal Singh 1992 (1) RCR Crl. (DB)
+646, Roop Chand Vs. State of Haryana 1989 (2) RCR Crl. 504 and State of Punjab Vs. Sukhdev
+Singh 1992 (3) RCR Crl. 311, it was held by the Hon'ble Courts that :
+</p><blockquote id="blockquote_2">                       "where the IO has failed to even note down the names and addresses of
+                       the persons, who have refused to join as public witnesses, coupled with
+                       the fact that no action was taken against them the,case is rendered
+                       doubtful."
+</blockquote>
+
+<p id="p_11">12.Further   perusal of the seizure memo reflects that it bears the FIR no. of the present case
+  despite the fact that it has been deposed by the      PW3 on oath before the court that seizure
+  memo was prepared by him before registration of the case. This further creates doubt on the
+  story of the prosecution as observed in case title Pawan Kumar Vs. Delhi Administration, 1988
+  (2) RCR 421, wherein Hon'ble Court has observed that :
+</p><blockquote id="blockquote_3">                       "Where according to the prosecution the recovery memos was prepared
+                       before lodging of the FIR, the mention of FIR number in the memos creates
+                       doubt about the genuineness of the investigation."
+</blockquote>
+
+<p id="p_12">13.Even in the present case the entire investigation has been conducted by the IO who is also
+   complainant in the present case which is against the spirit of law as held in :-
+</p>
+
+<p id="p_13">    Megha Singh Vs. State of Haryana, 1995 Cr. L.J, 3988, Hon'ble Supreme Court has
+  observed :
+</p><blockquote id="blockquote_4">                          "we have also noted another disturbing feature in this case. PW 3 Siri
+                          Chand, HC arrested the accused and on search being conducted by him
+                          a pistol and the cartridges were recovered from the accused. It was on
+                          his complaint a formal first information report was lodged and the case
+                          was initiated. He being complainant should not have proceeded with the
+                          investigation of the case. But it appears to us that he was not only the
+                          complainant in the case but he carried on with the investigation and
+                          examined witnesses u/s161 Cr. PC. Such practice, to say the least,
+                          should not be resorted to so that there may not be any occasion to
+                          suspect fair and impartial investigation."
+</blockquote>
+
+
+<span class="hidden_text" id="span_3">                                                 3</span>
+<p id="p_14"> 14.Moreover, perusal of file also shows that back bone of this case i.e. seizure memo does not
+  even bear signature of the accused. In the absence of the signature of the accused on this
+  document it cannot be relied in any manner to connect him with this case.          Absence of
+  signature further signifies that it was prepared in the absence of the accused, else IO of this
+  case would have definitely obtained signatures.
+</p>
+
+<p id="p_15">15.In the present case, sample was deposited in the excise lab after the delay of 1 ½ month
+
+                             <a href="/doc/329579/" id="a_2">BALDEV SINGH vs. STATE OF PUNJAB</a> 1991 Sec (Cr.) 61 that :-
+</p>
+<p id="p_16">                             In a case where pistol and cartridges were sent after a delay of
+
+                             about 10 days, such delay in sending the crime articles to the
+
+                             lab creates doubt about their connection with the crime.
+</p>
+<p id="p_17">                             In Ten Singh Vs. State 1996(1) RCR 343 it has been held that
+                             Inordinate delay in sending sealed parcel to Forensic Science
+                             Lab creates suspicion and throw doubts on the bonafides of
+                             the investigation.
+</p>
+
+<p id="p_18">16.In view of the aforesaid discussion, I have no hesitation in concluding that prosecution has
+  failed to prove its case against the accused. Accused Rajbir @ Rajinder is accordingly stands
+  acquitted of the charge U/s 61/1/14 Ex. Act. His bail bond cancelled, surety discharged and
+  file be consigned to RR.
+</p>
+
+<p id="p_19">ANNOUNCED AND DICTATED
+IN THE OPEN COURT ON 15.3.07
+                                                                      (SURINDER S. RATHI)
+                                                                METROPOLITAN MAGISTRATE
+                                                                          ROHINI COURTS.
+</p>
+
+
+
+<span class="hidden_text" id="span_4">                                                  4</span>
+  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,751 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>D.A.Seenappa vs The State Of Karnataka on 10 September, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/127476535/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/127476535/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/127476535/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/127476535/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=election%20process">election process</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=managing%20committee">managing committee</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">D.A.Seenappa vs The State Of Karnataka on 10 September, 2013</div><div class="doc_author">Author: B.S.Patil</div>
+
+<pre id="pre_1">                                    WPs.32676-32688/2013
+                          1
+
+
+
+     IN THE HIGH COURT OF KARNATAKA AT BANGALORE
+
+      DATED THIS THE 10TH DAY OF SEPTEMBER 2013
+
+                       BEFORE
+
+           THE HON'BLE MR.JUSTICE B.S.PATIL
+
+           W.P.Nos.32676-32688/2013 (CS-RES)
+
+
+BETWEEN:
+
+1.    D.A.SEENAPPA
+      S/O AVALAPPA,
+      AGED ABOUT 45 YEARS,
+      DEVASTHANADA HOSAHALLI VILLAGE,
+      GUNDLAGURKI POST,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562 101
+
+2.    SRI.NARAYANAPPA
+      S/O HANUMANTHARAYAPPA,
+      AGED ABOUT 59 YEARS,
+      R/AT UNIGUL VILLAGE,
+      GUNDLAGURKI POST,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562 101
+
+3.    SRI.NARASHIMAMURTHY
+      S/O LAKSHMAIA,
+      AGED ABOUT 36 YEARS,
+      R/AT UNIGUL VILLAGE,
+      GUNDLAGURKI POST,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562101
+
+4.    SRI.C.NARAYANA SWAMY
+      S/O THAMANNA
+      AGED ABOUT 50 YEARS,
+      DEVASTHANADA HOSHALLI VILLAGE,
+      GUNDLAGURKI POST,
+                                     WPs.32676-32688/2013
+                        2
+
+
+
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562101
+
+5.   SRI.C.NAGARAJU
+     S/O KEMPANNA,
+     AGED ABOUT 36 YEARS,
+     AKALA THIMMANAHALLI VILLAGE,
+     GUNDLAGURKI POST,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562101
+
+6.   SRI.VENKATANARASHIMIAH
+     S/O NARASHIMAIA,
+     AGED 40 YEARS,
+     AKALA THIMMANAHALLI VILLAGE,
+     GUNDLAGURKI POST,
+     CHIKKABALLAPURA TALIUK
+     AND DISTRICT-562 101
+
+7.   SRI.M.RAMESH
+     S/O MUNIYAPPA,
+     AGED ABOUT 38 YEARS,
+     GUNDLAGURKI POST,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562 101
+
+8.   SRI.C.NARAYANA SWAMY
+     S/O MUNIYAPPA,
+     AGED ABOLUT 45 YEARS,
+     JADENAHALLI VILLAGE,
+     GUNDLAGURKI POST,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562 101
+
+9.   SRI.AKKALAPPA
+     S/O CHIKKA HANUMANTHAPPA,
+     AGED ABOUT 40 YEARS,
+     KACHUR VILLAGE,
+     YELGARE POST,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562 101
+                                       WPs.32676-32688/2013
+                            3
+
+
+
+10.   SRI JAYARAMAPPA
+      S/O MUNIVENKATAPPA,
+      AGED ABOUT 49 YEARS,
+      GANDLAHALLI VILLAGE,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562 101
+
+11.   SRI.VENKATESHAPPA
+      S/O GANTALAPPA,
+      AGED ABOUT 40 YEARS,
+      SOPPAHALLI VILLAGE,
+      DIBBUR POST,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562 101
+
+12.   SRI.D.S.NYATHAPPA
+      S/O SEETHAPPA,
+      AGED ABOUT 61 YEARS,
+      DEVASTHANADA HOSALLI
+      GUNDLAGURKI POST,
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562101
+
+13.   SRI.THAMMAREDDY
+      S/O NADAPIKATHAPPA
+      DEVASTHANADA HOSAHALLI VILLAGE,
+      GUNDLAGURKI
+      CHIKKABALLAPURA TALUK
+      AND DISTRICT-562 101
+                                     ... PETITIONERS
+
+(By Sri NARAYANA REDDY M)
+
+AND
+
+1.    THE STATE OF KARNATAKA
+      DEPARTMENT OF CO-OPERATION,
+      M.S.BUILDING, AMBEDKAR VEEDI,
+      BANGALORE-1
+      REPRESENTED BY ITS
+      PRINCIPAL SECRETARY.
+                                            WPs.32676-32688/2013
+                              4
+
+
+
+2.   THE ASSISTANT REGISTRAR
+     OF CO-OPERATIVE SOCIETIES
+     CHIKKABALLAPURA SUB DIVISION,
+     CHIKKABALLAPURA-562101
+
+3.   VYAVASAYA SEVA SAHAKARA
+     SANGHA NIYAMITHA,
+     DEVASTHANADA HOSAHALLI,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562101.
+     REPRESENTED BY ITS
+     CHIEF PROMOTER.
+
+4.   C.S. ARIF ULLA ASIF
+     CO-OPERATIVE DEVELOPMENT OFFICER,
+     CHINTAMANI TALUK AND ELECTION OFFICER,
+     DEVASTHANADA HOSAHALLI VYAVASAYA SEVA
+     SAHAKARA SANGHA NIYAMITHA,
+     DEVASTHANADA HOSAHALLI,
+     CHIKKABALLAPURA TALUK
+     AND DISTRICT-562 101
+                                   ... RESPONDENTS
+
+(By Sri K.A.ARIGA, AGA FOR R1, 2 &amp; 4)
+
+                           *********
+
+     THESE WRIT PETITIONS ARE FILED UNDER ARTICLES
+226 &amp; 227 OF THE CONSTITUTION OF INDIA, PRAYING TO
+QUASH THE CALENDAR OF EVENTS IN NO. SANI:48/REG:/
+CR:43/REG.NO.43514/2012-13. DT.29.6.2012 VIDE ANNX-R.
+
+     THESE PETITIONS COMING ON FOR ORDERS THIS
+DAY, THE COURT MADE THE FOLLOWING:
+
+                           ORDER
+</pre>
+<p id="p_1">1.   In this batch of writ petition, petitioners are challenging
+
+the calendar of events published on 06.07.2013 vide Annexure-
+
+R, thereby continuing the election process for electing the
+                                               WPs.32676-32688/2013
+<span class="hidden_text" id="span_1">                              5</span>
+
+
+
+members of the Managing Committee of Vyavasaya Seva
+
+Sahakara    Sangha     Niyamitha,     Devasthanada      Hosahalli,
+
+Chikkaballapur Taluk - respondent No.3 herein.
+
+
+</p><p id="p_2">2.    In fact, a perusal of Annexure-R - calendar of events
+
+would show that election for electing the Managing Committee
+
+of the Society for the period from 2012-13 to 2016-17 was
+
+scheduled to be held on 29.07.2013 and a calendar of events in
+
+this regard had been earlier issued on 22.10.2012. Some of the
+
+members of the Society had approached this Court by filing
+
+W.P.No.46350/2012 seeking a direction to the Society and to
+
+the Returning Officer to continue the election process from the
+
+stage where it had been interrupted as per the calendar of
+
+events   which   was   published    earlier   on   22.10.2012   by
+
+rescheduling the dates. The order dated 11.01.2013 passed by
+
+this Court in W.P.No.46350/2012 which is produced along with
+
+an application I.A.3/2013 filed seeking to vacate the interim
+
+order of stay by the counsel for the impleading applicants
+
+makes it clear that the Returning Officer was directed to
+
+continue the election process from the stage where it was
+
+interrupted by rescheduling the dates. Two months time was
+                                                        WPs.32676-32688/2013
+<span class="hidden_text" id="span_2">                                      6</span>
+
+
+
+granted to complete the said process from the date of
+
+receipt/production of the copy of the said order.
+
+
+</p><p id="p_3">3.    Thereafter, another writ petition came to be filed in
+
+W.P.Nos.2457-2470/2013 before this Court by the petitioners
+
+and some others seeking a direction to the Assistant Registrar
+
+of Co-operative Societies to accept the list of intending members
+
+including the petitioners who intended to become the members
+
+of the Society and thereafter, convene the General Body Meeting
+
+and hold the election to the Managing Committee of the Society.
+
+The said writ petition was disposed of on 25.02.2013.                        In
+
+paragraphs 7 &amp; 8 of the said order, this Court has observed as
+
+under:
+</p>
+<p id="p_4">
+</p><blockquote id="blockquote_1">      "7.      The Chief Promotor will continue to hold the
+      office    till   the    new     Managing         Committee        is
+      constituted.          Admittedly,     election     of   the    third
+      respondent - Society is not yet conducted. It is not
+      shown to me as to what in the legal impediment for
+      the Chief Promotor to accept the applications of the
+      petitioners and other farmers, if they are otherwise
+      qualified to be the members of the Society.                   In the
+      instant     case      neither   the    applications       of     the
+      petitioners and other farmers are accepted nor
+      rejected.        In    the    circumstances,        the       second
+                                              WPs.32676-32688/2013
+<span class="hidden_text" id="span_3">                                7</span>
+
+
+
+respondent      is   to   be    directed   to   consider   the
+applications of the petitioners and other farmers in
+accordance with law.
+</blockquote>
+
+<blockquote id="blockquote_2">8.     This     Court      in    W.P.No.46350/2012         and
+connected matters vide order dated 11.01.2013
+directed the third respondent Society and its Election
+Officer to hold election within a time frame of two
+months from the stage it was stopped.             Petitioners
+are not parties to W.P.No.46350/2012 and connected
+matters.      Therefore, the time is to be extended to
+hold   elections.         In    the   meanwhile   petitioners
+representations and others are to be considered in
+accordance with law.                Accordingly and for the
+reasons stated above the following:
+</blockquote>
+
+<blockquote id="blockquote_3">                                 ORDER
+</blockquote><blockquote id="blockquote_4">i)     Writ Petitions are hereby disposed of.
+</blockquote>
+<p id="p_5">ii)    The Chief Promoter of the third respondent Society
+       is hereby directed to consider the request of the
+       petitioners and other farmers as per Annexure-A
+       within a time frame of thirty days from the date of
+       receipt of copy of this order.
+</p>
+<p id="p_6">
+</p><p id="p_7">iii)   The time granted to hold election of the third
+       respondent Society in Writ Petition No.46350/2012
+       is extended by another ten weeks from the date of
+                                           WPs.32676-32688/2013
+<span class="hidden_text" id="span_4">                              8</span>
+
+
+
+            passing an order by the Chief Promotor on the
+            application Annexure-A."
+</p>
+<p id="p_8">
+
+</p><p id="p_9">4.    Thereafter, the Chief Promoter, to whom the direction has
+
+been issued, issued a communication as per Annexure-N on
+
+06.05.2013 in compliance with the direction issued by this
+
+Court on 25.02.2013 in W.P.Nos.2457-2470/2013. In the said
+
+communication, he has made it clear that the petitioners herein
+
+who intended to become the members of the Society could not
+
+be accepted as such members as they had not made any
+
+application along with relevant documents by paying the share
+
+amount. He has further stated in the said communication that
+
+as the High Court had already fixed the time frame to conduct
+
+the election that too from the stage where it was interrupted,
+
+the request made by them for enlisting them as members had
+
+been rejected.    In this background, the petitioners are
+
+challenging Annexure-N communication also.
+
+
+</p><p id="p_10">5.    The main contention of the learned counsel for the
+
+petitioners is that while enlisting the members for respondent
+
+No.3 - Society, the proper procedure was not followed by the
+
+Chief Promoter, inasmuch as publicity was not given to the
+
+intending members residing in as many as 14 villages.     As a
+                                              WPs.32676-32688/2013
+<span class="hidden_text" id="span_5">                                 9</span>
+
+
+
+result, the Chief Promoter had proceeded only to enlist his
+
+followers as members and therefore, the attempt made to
+
+conduct elections with the help of such members was rightly
+
+questioned by the petitioners before this Court and this Court
+
+had given an opportunity to the petitioners to get themselves
+
+enrolled as members making it clear that only thereafter,
+
+elections shall be conducted.        Despite such direction, the
+
+respondents have conducted election as per the calendar of
+
+events published vide Annexure-R and therefore, the entire
+
+process of election gets vitiated.
+</p>
+<p id="p_11">
+</p><p id="p_12">6.    It is the further contention of the learned counsel for the
+
+petitioners that it was made clear in the earlier order dated
+
+11.01.2013 passed in W.P.No.46350/2012 and connected cases
+
+by this Court that the election process shall be conducted from
+
+the stage where it was interrupted by rescheduling the dates
+
+and the same was clarified in the decision rendered on
+
+25.02.2013 in W.P.Nos.2457-2470/2013 making it clear that
+
+the Chief Promoter of the respondent - Society had to consider
+
+the request of the petitioners and the other farmers as per their
+
+application within a time frame of 30 days and hence, the time
+
+granted to hold election to the Managing Committee of the 3rd
+                                                   WPs.32676-32688/2013
+<span class="hidden_text" id="span_6">                                     10</span>
+
+
+
+respondent     -      Society   as    per   the   order   passed    in
+
+W.P.No.46350/2012 was extended by another ten weeks.                In
+
+sum and substance, his contention is that if both these orders
+
+passed by this Court are looked into, it becomes very clear that
+
+the Chief Promoter should first consider the applications filed
+
+by the petitioners and other similarly placed applicants and
+
+thereafter, elections shall be held.        Such a procedure is not
+
+followed and hence, the whole process is vitiated.
+
+
+</p><p id="p_13">7.    The    impleading     applicants in     I.A.2/2013,    who   are
+
+represented by the learned counsel Sri Jaiprakash Reddy, are
+
+the successful members who have been elected unopposed as
+
+members of the Managing Committee of the Society in the
+
+elections held pursuant to the calendar of events issued vide
+
+Annexure-R. Sri Jaiprakash Reddy, learned counsel appearing
+
+for them strongly resisted the claim made by the petitioners in
+
+the writ petitions.
+</p>
+<p id="p_14">
+</p><p id="p_15">8.    I.A.4/2013 is filed by the counsel for the petitioners to
+
+implead the remaining successful members who have been
+
+elected unopposed as members of the Managing Committee of
+
+the Society in the elections held pursuant to the calendar of
+
+events issued vide Annexure-R.
+</p><p id="p_16">                                                       WPs.32676-32688/2013
+<span class="hidden_text" id="span_7">                                      11</span>
+
+
+
+
+</p><p id="p_17">9.      Learned     Additional       Government       Advocate   has    filed
+
+statement of objections and has supported the action of the
+
+authorities in conducting the election. It is his submission that
+
+before the interim order of stay passed in this case was
+
+communicated, the elections had been held, as, after the
+
+withdrawal of the nominations filed by other candidates, only
+
+eight candidates had been left in the fray and these eight
+
+candidates have been declared elected unopposed.
+
+
+</p><p id="p_18">10.     Upon hearing the learned counsel for the parties and
+
+after considering the pleadings and the respective contentions,
+
+it is not in dispute that elections had been indeed notified to the
+
+respondent - Society earlier by issuing calendar of events on
+
+22.10.2012. The authorities did not hold elections as per the
+
+calendar of events published. This made some of the members
+
+of     the     Society      to   approach      this    Court     by     filing
+
+W.P.No.46350/2012 and other connected cases.                     They had
+
+sought for a direction to continue the election process to the
+
+respondent - Society from the stage where it was interrupted as
+
+per the calendar of events published on 22.10.2012.                    In the
+
+said    writ    petition,    after   hearing   the     learned   Additional
+
+Government Advocate and after noticing his submission, this
+                                                    WPs.32676-32688/2013
+<span class="hidden_text" id="span_8">                                    12</span>
+
+
+
+Court issued a direction to the Assistant Registrar of Co-
+
+operative       Societies,         Chikkaballapur          Sub-Division,
+
+Chikkaballapur, to continue the election process from the stage
+
+where it was interrupted by rescheduling the dates. After this
+
+order     was   passed,      the   petitioners    filed   W.P.Nos.2457-
+
+2470/2013.      They had made allegations against the Chief
+
+Promoter of the respondent - Society stating that without giving
+
+due publicity for enlisting the members by collecting the shares,
+
+the Chief Promoter had proceeded to collect the share amount
+
+from his followers only ignoring the legitimate aspirations of the
+
+other farmers/villagers. Taking note of this grievance, this
+
+Court issued a direction to the Chief Promoter to consider the
+
+request of the petitioners and the other farmers. It is also made
+
+clear that the time granted earlier to hold elections as per the
+
+order dated 11.01.2013 passed in W.P.No.46350/2012 was
+
+extended by another ten weeks.
+</p>
+<p id="p_19">
+</p><p id="p_20">11.     Thereafter, the Chief Promoter has issued Annexure-N -
+
+communication to petitioner No.1 herein rejecting his request
+
+assigning several reasons.         This is followed by the election
+
+process     being   conducted      from   the    stage    where   it   was
+
+interrupted by issuing calendar of events on 06.07.2013. The
+                                             WPs.32676-32688/2013
+<span class="hidden_text" id="span_9">                               13</span>
+
+
+
+remaining process in the unfinished election process has been
+
+completed and the elections have been declared.
+
+
+</p><p id="p_21">12.   It is also contended by the counsel for the petitioners that
+
+in view of the amendment to the Karnataka Co-operative
+
+Societies Act by incorporating Section 39AA, the election
+
+conducted by the 4th respondent was without authority of law.
+
+No opinion need be expressed on this legal contention at this
+
+stage as the same can be urged by raising appropriate dispute.
+
+
+</p><p id="p_22">13.   If the petitioners have any grievance with regard to the
+
+election conducted or with regard to the manner in which their
+
+applications were rejected, then the proper procedure to be
+
+adopted is to raise an election dispute. A writ petition cannot
+
+be a remedy in such a situation. Instead of raising an election
+
+dispute, the petitioners have approached this Court by filing
+
+these writ petitions.   Although these writ petitions are filed
+
+before the election was declared, the fact remains that even
+
+before the interim order of stay could be communicated to the
+
+respondent   - authorities,   the   election results had     been
+
+announced as only eight contestants had been left in the fray
+
+and the other contestants had withdrawn their nominations.
+
+Therefore, it will be futile for this Court to examine the various
+                                           WPs.32676-32688/2013
+<span class="hidden_text" id="span_10">                               14</span>
+
+
+
+contentions urged by the petitioners.   The contentions urged
+
+require examination of the disputed facts as well.   Therefore,
+
+these writ petitions are dismissed reserving liberty to the
+
+petitioners to raise appropriate dispute regarding the election
+
+conducted, if they are so aggrieved.
+</p>
+<p id="p_23">
+
+</p><p id="p_24">                                                      Sd/-
+</p><p id="p_25">                                                     JUDGE
+
+
+PKS
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

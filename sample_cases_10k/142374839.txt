@@ -1,0 +1,368 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dinesh Kumar vs State on 2 August, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/142374839/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/812083/">Section 411 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/142374839/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/142374839/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dinesh%20kumar%20">dinesh kumar </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411%20ipc">411 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411%20indian%20penal%20code">411 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411">411</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=identification">identification</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20411%20indian%20penal%20code">section 411 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20411%20ipc">section 411 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.411%20ipc">sec.411 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=380">380</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.380%20">s.380 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=seizure">seizure</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Dinesh Kumar vs State on 2 August, 2011</div><div class="doc_author">Author: Sh. S.S. Rathi</div>
+
+<pre id="pre_1">                                     1
+
+          IN THE COURT OF SHRI SURINDER S. RATHI:ASJ:02:
+                                                        
+     CENTRAL: ROOM NO.32:TIS HAZARI  COURTS :DELHI
+
+
+                                                    Crl. Appeal No. 35/11
+                                              DINESH KUMAR  vs  STATE 
+                                                          FIR NO: 152/98
+                                                          U/s 380/411 <a href="/doc/1569253/" id="a_1">IPC</a>
+                                                           PS IP ESTATE
+IN THE MATTER OF 
+Dinesh Kumar
+S/o Sh. Lal Dhari
+R/o Village Shahpur,
+Post Kririharapur,
+Thana: Bhimpura
+Distt:­ Balia­221716 (UP)        .....Appellant / Convict
+Vs
+State                            .....Respondent
+
+
+         APPEAL   AGAINST   THE   IMPUGNED   JUDGMENT
+         OF   CONVICTION   AND   ORDER   ON   SENTENCE
+         DATED 24.06.2011 &amp; 25.06.2011 RESPECTIVELY
+
+
+DATE OF  INSTITUTION             :           20/07/2011
+DATE OF FINAL HEARING            :           02/08/2011
+DATE OF FINAL ORDER              :           02/08/2011
+
+
+JUDGMENT ON APPEAL
+
+
+1. This appeal is preferred against the judgment of conviction dated
+
+  24.6.2011   and   order   on   sentence   dated   25.6.2011   whereby
+
+  appellant was convicted and sentenced to undergo SI for one year
+
+
+
+                                      Page No.1 of  Appeal Dinesh Kumar Vs. State of  5 pages
+                                         2
+
+  apart   from   fine   of   Rs.1000/­   I/D   2   months   SI   for   commissionof
+
+  offence punishable U/s 411 <a href="/doc/1569253/" id="a_2">IPC</a>.
+
+2. I have heard Ld. Counsel Ms. Kamini Srivastava for appellant /
+
+
+  convict and Ld. Addl. PP Sh. G.S.Guraya for State  . I have also
+
+
+  carefully perused the entire appeal file as well as TCR.
+
+3.  Facts</pre><p id="p_1"> of this case in brief necessary for disposal of this appeal  are
+
+  that   on   20.4.1998   DD   No.   11A   was   received   qua   theft   .     SI
+
+                                                              th
+  Ravinder Kumar reach Office of Sr.Addl. CP 5  Floor , PHQ , MSO
+
+  Building, ITO, Delhi.  Ct. Girish Chand gave a statement Ex.PW1/A
+
+  to the effect that he is Orderly of Sr. Addl. CP Sh. Ajay Aggarwal.
+
+  He  opens   and   closes   the   office   personally   and   deposits   the   key
+
+  with guardroom.   On 17.4.98   the office was closed and the key
+
+  was deposited with guardroom.  Next two days 18.4.98 and 19.4.98
+
+  were Saturday and Saunday and as such office remained close .
+
+  He opened  the  office  on  20.4.98  at 9.00am.    While cleaning  the
+
+  room he found that   BPL brand VCR and its remote were missing
+
+  from underneath the TV.    He reported the matter to PA Sh. Hukum
+
+
+
+                                        Page No.2 of  Appeal Dinesh Kumar Vs. State of  5 pages
+<span class="hidden_text" id="span_1">                                         3</span>
+
+  Chand.     On   this   statement   FIR   U/s   380   <a href="/doc/1569253/" id="a_3">IPC</a>   was   registered.
+
+  Investigation was carried on  during which site plan was prepared,
+
+  crime team was also summoned at the spot and finger prints were
+
+  lifted.   Vide DD No.4A one Juvenile Pradeep Kumar disclosed that
+
+  he committed  theft of VCR and a fax machine from PHQ.    He was
+
+  roped into the case in hand as well.  Vide his disclosure statement
+
+  Ex.PW3/A   and   Ex.PW3/C,   he   got   recovered   stolen   VCR   of   this
+
+  case from the house of convict / appellant Dinesh Kumar apart from
+
+  other   recovery.     Convict   was   arrested   in   this   matter   and   charge
+
+  sheet was prepared U/s 380/411 <a href="/doc/1569253/" id="a_4">IPC</a>.
+</p>
+<p id="p_2">4. Accused  was summoned  and charged  for commission  of offence
+
+  punishable U/s 411 <a href="/doc/1569253/" id="a_5">IPC</a>.   To prove its case prosecution examined
+
+  10 witnesses.  Statement of accused U/s 313 <a href="/doc/445276/" id="a_6">Cr.P.C</a>. was recorded
+
+  followed by hearing of both the sides and pass over of impugned
+
+  judgment of conviction and sentence.
+</p>
+<p id="p_3">5. While opening her arguments,  firstly it is stated by Ld. Counsel for
+
+  the convict / appellant is that the sole stolen property in this matter
+
+
+
+                                         Page No.3 of  Appeal Dinesh Kumar Vs. State of  5 pages
+<span class="hidden_text" id="span_2">                                           4</span>
+
+  i.e. BPL Sanyo VCR but neither in the FIR nor in the seizure memo
+
+  any   particular   of   it     like   model   no.   or   instrument     no.   stands
+
+  mentioned.   Also no bill qua purchase of the said VCR was seized
+
+  or   proved   in   the   Court.     The   record   also   reveals   that   no   Test
+
+  Identification   Parade   of   the   VCR   was   got   conducted   after   its
+
+  claimed seizure.  Even the seizure memo of the same was not duly
+
+  proved on record in so far as only an incomplete   photocopy was
+
+  exhibited as PW3/A   since it does not contain any date .   Even if
+
+  submission of Ld. Addl. PP is believed that property is identified in
+
+  the court, it does not absolve the prosecution of the duty to connect
+
+  the   same   with   the   stolen   VCR   during   the   investigation.     It   is   a
+
+  settled  legal proposition  that  identification  for the  first time in the
+
+  court has no value in the eyes of law . 
+</p>
+<p id="p_4">6. In case titled   State Vs. V.C. Shukla A 1980 SC 1382 it has been
+
+
+  observed by Hon'ble Supreme Court that:
+</p>
+<p id="p_5">
+</p><blockquote id="blockquote_1">                         "Identification   for   the   first   time   in   court
+                         without being tested  by a prior identification
+                         parade is valueless."
+</blockquote>
+<blockquote id="blockquote_2">
+
+</blockquote><blockquote id="blockquote_3">                                          Page No.4 of  Appeal Dinesh Kumar Vs. State of  5 pages
+<span class="hidden_text" id="span_3">                                         5</span>
+
+</blockquote><blockquote id="blockquote_4">7.  In this backdrop I have no hesitation in concluding that prosecution
+
+  has   totally   failed   to   connect     claimed   recovered   VCR   with   the
+
+  convict / appellant .    This anamoly in the prosecution story goes to
+
+  the   root   of   the   matter.   Once   the   recovery   has   come   under   the
+
+  serious   cloud,   no   conviction   under   <a href="/doc/812083/" id="a_7">Section   411</a>   IPC   can   be
+
+  sustained.   The impugned judgment and order on sentence dated
+
+  24/6/2011 and 25/6/2011 respectively, too  can not be sustained in
+
+  law.       Same   are   accordingly   set   aside,   appellant   /   convict   is
+
+  acquitted,   his   bail   bond   be   deemed   canceled,   surety   deemed
+
+  discharged   after   appeal   period.   Appeal   file   be   consigned   to   RR.
+
+</blockquote><p id="p_6">  TCR be sent back with the copy of order.
+</p>
+<p id="p_7">ANNOUNCED AND DICTATED 
+IN OPEN COURT ON: 2.8.2011
+
+                                                           (SURINDER S. RATHI)
+                                                      Addl. Sessions Judge­02
+                                                                      Central : Delhi  
+
+
+
+
+                                         Page No.5 of  Appeal Dinesh Kumar Vs. State of  5 pages
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

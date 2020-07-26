@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dalip vs Anita @ Neelu &amp; Anr on 15 May, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/82870623/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/812083/">Section 411 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/82870623/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/82870623/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=probation">probation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anita%20">anita </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=gold">gold</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411%20ipc">411 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411%20indian%20penal%20code">411 indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411">411</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Dalip vs Anita @ Neelu &amp; Anr on 15 May, 2008</div><div class="doc_author">Author: Sh. Parveen Kumar</div>
+
+<pre id="pre_1">                                    1
+
+  IN THE COURT OF PRAVEEN KUMAR, ADDITIONAL SESSIONS
+     JUDGE: KARKARDOOMA COURTS: DELHI.
+
+
+
+
+Case ID Number.                              02402R0369672008.
+Criminal Appeal No.                  52/2008.
+Assigned to Sessions on              15.05.2008.
+Arguments heard on                   15.05.2008.
+Date of judgment                     15.05.2008.
+
+
+
+Dalip.                              ......        Appellant.
+
+                  Versus
+
+Anita @ Neelu &amp; Anr.                ......        Respondent.</pre>
+
+
+<p id="p_1">JUDGMENT: (Oral)
+
+
+
+</p><p id="p_2">1. This is an appeal against the judgment dated 15.4.08        and order on
+
+  sentence dated 21.4.08 passed by Ld. M.M. Karkardooma Courts, Delhi
+
+  vide which appellant was convicted and sentenced to undergo R I for a
+
+  period of six months with a fine of Rs.2000/- for committing offence u/s
+
+  411 <a href="/doc/1569253/" id="a_1">IPC</a>. In default of payment of fine, appellant was ordered to further
+<span class="hidden_text" id="span_1">                                       2</span>
+
+  undergo R I for a period of one month.
+</p>
+<p id="p_3">
+
+</p><p id="p_4">2. In brief, facts relevant for the disposal of the present appeal are that on
+
+  21.06.2006 at about 2.30 p.m, accused Asif snatched gold chain of the
+
+  complainant    Anita    near   Water    Tank,   Tahirpur,   Delhi.   During
+
+  investigation, accused Asif made a disclosure statement pursuant to which
+
+  appellant was arrested and gold piece (melted gold chain) was recovered.
+
+  Appellant was charged for committing offence under <a href="/doc/812083/" id="a_2">Section 411</a> IPC.
+
+
+
+</p><p id="p_5">3. I have heard Sh. Kapil, Ld counsel for the appellant and Sh R K Pandey,
+
+  Ld.APP for the State. Ld. Counsel for the appellant states that he is not
+
+  challenging the conviction of the appellant on merits. However, he prays
+
+  that a lenient view be taken against the appellant and he be released on
+
+  probation of good conduct.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">4. I have gone through the trial court record. PW5 Anita is the star witness in
+
+  this case who has fully supported the prosecution case. She was not cross-
+
+  examined by the appellant. The recovery of the gold piece was effected
+<span class="hidden_text" id="span_2">                                      3</span>
+
+  from the appellant. From the perusal of evidence on record, I am of the
+
+  opinion that appellant was rightly convicted by the trial court for
+
+  committing offence u/s 411 <a href="/doc/1569253/" id="a_3">IPC</a>. Hence, the conviction of the appellant is
+
+  upheld.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">5. Considering the fact that appellant Dalip is a young man aged about 34
+
+  years and has a family to support. Appellant is not a previous convict and
+
+  he remained in custody for ten/twelve days. He is not a previous convict
+
+  and is facing trial since 2001, appellant is released on probation of good
+
+  conduct on furnishing personal bond in the sum of Rs.10,000/- with one
+
+  surety in the like amount for a period of one year to the satisfaction of
+
+  Ld.MM/Link MM/Duty MM. If the appellant contravenes conditions of
+
+  the probation bond, he shall appear and receive the sentence when called
+
+  upon during the said period as the Court may direct and in the meantime
+
+  he shall keep peace and be of good behaviour. Probation bond be
+
+  furnished before the trial court within a week from today. The appeal
+
+  stands disposed of. A copy of the judgment be supplied to the appellant
+
+  free of cost. Trial court record be sent back with a copy of the judgment
+<span class="hidden_text" id="span_3">                                    4</span>
+
+  and appeal file be consigned to Record Room.
+</p>
+<p id="p_10">
+
+</p><p id="p_11">Dictated &amp; announced in open             (Praveen Kumar)
+Court on May 15, 2008.           Addl. Sessions Judge, KKD/Delhi.
+<span class="hidden_text" id="span_4"> 5</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

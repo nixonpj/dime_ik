@@ -1,0 +1,678 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Samer on 12 April, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/105363533/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:105363533">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/838383/">Section 134 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1881874/">S.N. Hussain vs The State Of Andhra Pradesh on 5 January, 1972</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/105363533/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/105363533/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/105363533/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Samer on 12 April, 2018</div><pre id="pre_1">               IN THE COURT OF MS. PURVA SAREEN,
+     ADDITIONAL CHIEF METROPOLITAN MAGISTRATE (SOUTH WEST)
+                   DWARKA COURTS, NEW DELHI
+
+                                 State Vs. Samer
+                                                                         FIR No: 241/16
+                                                                   PS: Dwarka Sector 23
+                                                             U/s: 279/337/338/304A <a href="/doc/1569253/" id="a_1">IPC</a>
+
+Date of Institution of the case       :                       16.12.2016
+Date from which the Judgment reserved :                       26.03.2018
+Date on which the Judgment pronounced:                        12.04.2018
+
+a) SerialNo. of the case                    :
+
+b) Date of commission of offence            :        11.08.2016
+
+c) Name of complainant                      :        Sh. Satpal Singh
+                                                     S/o Sh. Naraian Singh
+                                                     R/o F.No. 316, Old Ranpuri Road
+                                                     Mahipalpur, New Delhi
+
+d) Name of accused, his parentage :                  Samer
+                                                     S/o Sh. Ranbir
+                                                     R/o VPO Dharana, Teh-Beri
+                                                     Distt. Rohtak, Haryana.
+
+e) Offence complained of or proved :                 u/s 279/337/338/304A <a href="/doc/1569253/" id="a_2">IPC</a>
+
+f) Plea of accused                          :        Pleaded not guilty
+
+g) Final Order                              :        Conviction
+
+h) Date of such Order                       :        12.04.2018
+
+                                    JUDGMENT
+</pre>
+
+<p id="p_1">1.              Vide this judgment, I shall decide the present case filed against
+
+<span class="hidden_text" id="span_1">FIR No.241/16                   State vs. Samer (Judgment)                   Page 1 of 17</span>
+ accused Samer, who had been charge-sheeted u/s 279/337/338/304A <a href="/doc/1569253/" id="a_3">IPC</a>
+for causing simple injures to Jeevika Tripathi, Gurinder Singh, grievous
+injuries to Satpal Singh and Pintoo Singh and death of one Ramanjeet
+Singh, by rash and negligent driving.
+</p>
+
+<p id="p_2">2.              The brief facts of complaint of complainant Satpal Singh are
+that on 11.08.2016 at 12:05 am, while returning from Airport with co
+passengers Gurvinder Singh, Ramanjeet, Jeevika, Pintoo in his car no.
+DL8CM6006, a bus bearing no. DL1ED4318 which was being driven in the
+rash and negligent manner struck against their TATA safari on the red light
+crossing and caused simple and grievous injuries to the passengers and
+death of one passenger. Due to the impact of the bus the Tata safari swayed
+so badly that it turned in the opposite direction. The driver absconded from
+the spot and all the injured were taken to the hospital by the PCR. On his
+complaint, FIR was registered.
+</p>
+
+<p id="p_3">3.              After registration of FIR, investigation was conducted. Charge
+sheet was filed against the accused Samer. Accused was summoned after
+cognizance was taken. The copies of charge sheet were supplied to the
+accused in compliance of <a href="/doc/1613898/" id="a_4">Section 207</a> Code of Criminal Procedure
+(hereinafter called as <a href="/doc/445276/" id="a_5">Cr.P.C</a>.).
+</p>
+
+<p id="p_4">4.              Arguments were heard on the point of charge.       Notice U/s
+279/337/338/304-A <a href="/doc/1569253/" id="a_6">IPC</a> was served upon the accused Samer to which he
+pleaded not guilty and claimed trial.
+</p>
+
+
+
+<span class="hidden_text" id="span_2">FIR No.241/16                   State vs. Samer (Judgment)         Page 2 of 17</span>
+<p id="p_5"> 5.              The prosecution was, thereafter, given opportunity to prove the
+accusation against the accused and the prosecution examined 12
+witnesses. The witnesses examined and deposed as under :-
+</p>
+
+<p id="p_6">(i)             PW-1 ASI Nirmala was duty officer who proved FIR as Ex.
+PW1/A, endorsement on rukka as Ex. PW1/B, certificate u/s 65B Indian
+Evidence Act as Ex. PW1/C, DD No. 2A, 3A, 4A &amp; 5A as Ex. PW1/D, Ex.
+PW1/E, Ex. PW1/F &amp; Ex. PW1/G.
+</p>
+
+<p id="p_7">(ii)            PW-2 Sh. Pooran Chand was the Mechanical Inspector, who
+proved mechanical inspection reports of one bus bearing no. DL-1PB-4318
+and one TATA Safari bearing registration no. DL-8CM-6006 as Ex.PW-2/A
+and Ex.PW-2/B respectively.
+</p>
+
+<p id="p_8">(iii)           PW-3 HC Devender deposed that on 11.08.2016 at about
+12:35 am, call was received to their IC regarding an accident and thereafter,
+on receiving the abovesaid call, he alongwith the team reached at the spot
+which was at Sector 19-20 Chowk. At the instructions of his IC, he took
+photographs of the spot. He proved negatives of photographs as Ex. P1
+(colly.) and 12 photographs as Ex. P2(colly.)
+                In his cross-examination, he stated that Tata Safari was
+facing towards Pochanpur side. He admitted that he had taken one
+photograph of the bus from the driver's side. He could not say how the
+accident had taken place.
+</p>
+
+<p id="p_9">(iv)            PW-4 Pintoo Singh deposed that he was working at Airport as
+
+
+<span class="hidden_text" id="span_3">FIR No.241/16                   State vs. Samer (Judgment)          Page 3 of 17</span>
+ Liquor Manager. On the intervening night of 10/11.08.2016 he had finished
+his shift at the Airport and was returning home in TATA Safari Car and there
+were four more people in the car whose names were Satpal Singh,
+Gurvinder Singh, Ramanjeet Singh, Jeevika. They were going to Sector 21
+Dwarka and when they reached near the red light near Welcome hotel,
+Sector 10 Dwarka, their car was crossing the red light and while doing so
+one bus came from the left side and hit them on the left side and because of
+the impact their car turned to the right and the bus crossed the footpath and
+also broke some cemented pipe. Satpal Singh was the driver and
+Ramanjeet Singh was sitting next to the driver and rest of them were sitting
+on the back seat. All of them received injuries. Bus driver and one another
+person came from the bus. They saw them and after seeing them, they left
+from the spot. Some public persons who were passing by called the police.
+Police came and all the injured persons were taken out. Ramanjeet had
+expired at the spot and his body was also taken out by the police. All the
+injured including the body of the deceased were taken to the hospital. He
+had not suffered injuries, therefore, his MLC was not conducted. Thereafter,
+he went home. On the next day he had received a call from PS but he could
+not go and he went to the police on 16.08.2016. He was taken to the spot.
+He proved site plan as Ex.PW-4/A, arrest memo of accused as Ex.PW-4/B
+and photographs of the bus and car as Ex.P2 (colly).
+</p><p id="p_10">                In his cross-examination, he stated that he had given his
+statement to the police on 16.08.2016. He could not exactly say whether
+their vehicle was coming in between 12.00 - 12.30 AM. He denied that their
+vehicle was in high speed. He admitted that the bus was coming from the
+side of Dwarka Court towards village Pocchan Pur. He denied that their
+
+
+<span class="hidden_text" id="span_4">FIR No.241/16                 State vs. Samer (Judgment)          Page 4 of 17</span>
+ vehicle firstly hit the right side portion of the bus on the bottom side. He
+voluntarily stated that bus had hit them. He denied that accident had taken
+place due to negligence of driver of TATA Safari. He did not know who had
+called at no. 100. He denied that he never visited the spot alongwith the
+police. He denied that the site plan was prepared while sitting in the PS and
+that he never visited the spot with the police. He denied that he never
+suffered any grievous injury. He denied that bus had never hit their car. He
+denied that their car crashed into the bus and went beneath the bus. He
+denied that driver of the bus never ran away from the spot.
+</p>
+
+<p id="p_11">(v)             PW-5 Satpal Singh deposed that he was working at the Airport
+as Project Manager. On 10.08.2016 he alongwith Raman Jeet Singh,
+Jeevika, Pintoo Singh and Gurvinder Singh were coming back from the
+Airport after having finished their shift. When they reached at the red light
+which was not working, one bus came and hit them on the conductor side
+and Raman Jeet Singh was sitting on that side. After the collision, the bus
+ran over the foot path and after that he did not remember what happened as
+he became unconscious due to the accident. The bus had hit them while
+they were crossing the red light and due to the impact their car had veered
+towards the right side. He regained consciousness when he was in the
+hospital. He was in ICU for 24 hours. Thereafter, he was taken to another
+hospital and he remained on bed rest for almost three months. He had
+given complaint as Ex.PW-5/A. He could not see the driver of the bus.
+</p><p id="p_12">                In his cross-examination, he denied that they were going to
+Sector 21 Dwarka at about 12.30 AM from Welcome hotel. He admitted that
+they were going from Welcome hotel to Sector 21 Dwarka. He denied that
+
+
+<span class="hidden_text" id="span_5">FIR No.241/16                  State vs. Samer (Judgment)         Page 5 of 17</span>
+ their car had hit the bus. He denied that their car was going at high speed.
+He denied that the accident had happened due to their rashness /
+negligence. He denied that the bus was not going at high speed. He denied
+that their car did not turn around due to the bus hitting their car. He denied
+that the injuries to all the injured persons happened due to their rashness /
+negligence.
+</p>
+
+<p id="p_13">(vi)            PW-6 Satish Kumar deposed that he was owner of bus having
+registration no. DL-1PB-4318. He had received notice u/s 133 <a href="/doc/785258/" id="a_7">MV Act</a> Ex.
+PW6/A on 11.08.2016 which he had given reply. He had presented the
+documents of the vehicle to the IO and the same were seized vide seizure
+memo Ex.PW-6/B. He proved the certificate of registration as Ex.P3, the
+certificate of fitness as Ex.P4, the permit as Ex.P5 and insurance as Ex.P6.
+</p><p id="p_14">                PW-6 Satish Kumar was recalled for cross-examination by
+defence counsel upon an application.
+</p><p id="p_15">                In his cross-examination by defence counsel, he admitted
+that on 11.08.2016 he was in the vehicle i.e. Bus alongwith the driver. Their
+Bus brought labour from the Indira Gandhi Hospital at about 12/12:30 at
+night.    When they reached near the Red Light of Sector 19/20, there were
+no red light, only yellow light was blinking. He admitted that their Bus was
+going towards Pochanpur at the speed of 40/45 kmph. The vehicle Safari
+was coming from the right side Welcome Hotel. He admitted that vehicle
+Safari was running on high speed and the vehicle was struck with their
+vehicle on right side near front tyre. He admitted that accident took place
+due to high speed of Safari vehicle and he was present with the driver after
+the accident.
+</p>
+
+<span class="hidden_text" id="span_6">FIR No.241/16                 State vs. Samer (Judgment)           Page 6 of 17</span>
+<p id="p_16">                 In his re-examination by Ld. APP for State, he stated that he
+alongwith accused Samer were present at the spot till the PCR came.
+Thereafter, he alongwith accused Samer went to PS. They left the spot at
+about 2 a.m. (night). After the impact, their vehicle had gone on to the
+footpath and stopped there. His vehicle did not hit anything else after going
+on to the footpath. He did not call for any Ambulance after the accident. He
+had called at 100 number.           He could not tell if the place shown in
+photograph Ex.P2/A was that of the spot. Accused Samer had applied the
+brakes when they had reached the cross roads. He could not tell the exact
+distance between the traffic light / cross road and spot where accused
+Samer had applied the brakes. It might have been about a distance of 20-
+25 meters from the cross-roads when accused Samer had applied the
+brakes. He stated that the bus was at the speed of 40-45 kmph but after
+applying the brakes, the speed of his vehicle was around 15-20 kmph. He
+stated that brakes were not applied by the driver after the accident. He
+denied that it was due to the rashness and negligence of accused Samer
+that the accident happened. He denied that it was his vehicle that hit the
+Tata Safari Car on the left side of the Tata Safari Car and after impact their
+vehicle had gone on to the footpath. He denied that his vehicle was being
+driven by accused Samer at very high speed and that was why after the
+impact of the accident their vehicle went on to the footpath and crossed the
+same. He denied that the accident was due to the fault of accused Samer.
+</p>
+
+<p id="p_17">(vii)           PW-7 Ct. Rajesh was official who proved seizure memo of
+driving licence of vehicle bearing registration no. DL-1PB-4318 as Ex.PW-
+7/A and seizure memo of all other documents as Ex.PW-6/B.
+</p>
+
+<span class="hidden_text" id="span_7">FIR No.241/16                  State vs. Samer (Judgment)          Page 7 of 17</span>
+<p id="p_18"> (viii)          PW-8 HC Om Prakash deposed that on 11.08.2016 at about
+12.30 AM ASI Gajraj received a call regarding accident at sector 19 &amp; 20 red
+light. Thereafter, he alongwith ASI Gaj Raj reached at the spot where they
+found one TATA Safari and bus in accidental state. No person was found at
+the spot and after inquiry they found that all injured had been taken to
+ARTEMIS Hospital by PCR Van. He was instructed to remain at the spot by
+IO ASI Gaj Raj who left for ARTEMIS Hospital. He remained at the spot
+meanwhile. Thereafter, ASI Gaj Raj returned to the spot and handed over
+the tehrir to him for registration of FIR. He went to PS Sec 23 Dwarka and
+got the case registered and thereafter, he returned to the spot with the copy
+of FIR and rukka. He handed over the same to IO ASI Gaj Raj. Thereafter,
+he alongwith IO ASI Gaj Raj went to ARTEMIS Hospital. There, they took
+the dead body of Ramanjeet Singh in hearse van to DDU Hospital for
+getting conducted the postmortem. They deposited the body in DDU
+Hospital. He came back to PS. When he came back to the spot with FIR and
+rukka, IO had prepared the site plan. The IO had also seized both the
+vehicles i.e. bus and TATA Safari Car. He proved seizure memo of both
+vehicles as Ex. PW-8/A &amp; Ex.PW-8/B and photographs of the bus and car
+as Ex.P2.
+</p><p id="p_19">                In his cross-examination, he denied that the driver of the bus
+i.e. the accused was at the spot when they reached there. He denied that no
+site plan was prepared in his presence. He admitted that site plan did not
+bear his signature. He denied that no photographs of the bus and car were
+taken in his presence by the crime team. He admitted that the photographs
+did not bear his signature.
+</p>
+
+<span class="hidden_text" id="span_8">FIR No.241/16                   State vs. Samer (Judgment)         Page 8 of 17</span>
+<p id="p_20"> (ix)            PW-9 ASI Gaj Raj Singh deposed that on 11.08.2016, on
+receiving DD no. 2A, 3A &amp; 4A regarding accident, he alongwith Ct. Om
+Prakash reached at the spot i.e. Red light of sector 19 &amp; 20, Dwarka and on
+reaching there, he saw two vehicles in accidental condition. No injured met
+them at the spot as PCR van had taken all of them to ARTEMIS hospital. He
+reached ARTEMIS hospital and there he got to know that three injured
+persons had been brought there out of whom one Ramanjeet was declared
+brought dead. Jeevika and Gurvinder were injured. Meanwhile, information
+was received through DD no 5A that Satpal Singh had been admitted in
+Bensups Hospital. Thereafter, he went to Bensups Hospital and recorded
+statement of Satpal. After which he returned to the spot and prepared the
+rukka Ex.PW-9/A and gave the same to Ct. Om Prakash for registration of
+FIR. He seized both the vehicles through seizure memo Ex.PW-8/A and
+Ex.PW-8/B and with help of a crane got both deposited in Malkhana.
+Thereafter, he went to ARTEMIS Hospital and recorded the statement of
+Jeevika and got sent the dead body of Ramanjeet to DDU Hospital
+Mortuary. He sent notice Ex. PW6/A to the bus owner Satish Kumar. On
+next day i.e. 12.08.2016, he got conducted the postmortem of deceased
+Ramanjeet. On 16.08.2016 at the instance of Pintoo Singh he drew up the
+site plan Ex.PW-4/A. At the time when Pintoo was present in PS, owner of
+bus Satish came with accused Samer and Pintoo Singh pointed out accused
+Samer as the person driving the offending vehicle at the time of accident.
+He arrested the accused vide arrest memo Ex.PW-4/B. He seized the
+driving licence as well as all the documents of offending vehicle vide seizure
+memos Ex.PW-6/B and Ex.PW-7/A. Accused was released on bail and
+
+
+<span class="hidden_text" id="span_9">FIR No.241/16                State vs. Samer (Judgment)            Page 9 of 17</span>
+ thereafter the file was transferred to MACT cell. Mechanical inspection of
+both the vehicles was got conducted through Pooran Chand on 12.08.2016
+itself.
+</p><p id="p_21">                In his cross-examination, he stated that he reached at the
+spot at about 12.25 AM. He admitted that bus was going in direction of
+Pocchan Pur. He admitted that bus i.e. offending vehicle had gone on to the
+footpath. He admitted that the Safari Vehicle was going from Welcome hotel
+towards sector 8, Dwarka. After accident, Safari had skidded and come to
+rest at point C in Ex.PW-4/A. Bus had gone on to the footpath and hit one
+tree and cemented gas line. He admitted that he had not shown the tree and
+pipe line on site plan. He denied that he never prepared the site plan after
+visiting the spot. He denied that he did not conduct the investigation in fair
+manner.
+</p>
+
+<p id="p_22">(x)             PW-10 SI Bijender Singh deposed that on 24.08.2016, he
+received the file of the present case in MACT cell for further investigation.
+He inspected the case file and obtained the result of MLCs. As the MLC of
+Satpal Singh showed grievous injury, therefore, he added <a href="/doc/1721129/" id="a_8">section 338</a> IPC in
+the charge-sheet. The offending vehicle i.e. bus was released on superdari.
+Thereafter, he prepared the challan and filed the same in the court.
+</p>
+
+<p id="p_23">(xi)            PW-11 Gurvider Singh deposed that he was working at the
+Airport in a Company called Buddy Retail Private Limited as a Manager from
+last seven years. The incident was of last year in the month of August,
+however, he did not remember the exact date. On that day, he was going
+with his friends Pintu, Satpal, Raman, Jivika in a Safari Car from the Airport
+
+
+<span class="hidden_text" id="span_10">FIR No.241/16                  State vs. Samer (Judgment)          Page 10 of 17</span>
+ to Sector 21 Dwarka Metro Station. When they reached near Welcome
+Hotel at 19/20 Sector Red Light, one bus came from the left hand side and
+hit their car on the left hand side. They received injuries. Pintu got him and
+Jivika out of the car. The bus driver came out of the bus. The bus driver saw
+them and remained at the spot for sometime and thereafter he left.
+Somebody called the police. PW-11 and Jivika were bleeding heavily and
+therefore somebody took them to ARTEIMS Hospital. After reaching
+ARTEIMS Hospital, Raman Singh was declared brought dead. Witness was
+medically treated. He proved photographs of the bus as Ex.P2 (colly).
+</p><p id="p_24">                In his cross-examination, he stated that the accident occurred
+at about 12 midnight. He denied that accident occurred between 12:30 and
+1 am. Safari Car was being driven by Satpal. There was Red Light which at
+time of accident was blinking yellow light. He denied that Satpal was driving
+vehicle at high speed. He denied that the Safari Car hit the offending vehicle
+i.e. bus. He could not say when Ex.P-2 (colly) were taken. He denied that
+the accident happened due to negligence of the driver of Safari i.e. Satpal.
+He denied that he was not in his senses after the happening of accident. He
+denied that the said bus driven by accused never hit the Safari Car in which
+they were sitting. He denied that accused Samer never left the spot and
+remained there.
+</p>
+
+<p id="p_25">(xii)           PW-12 Ms. Jevika Sarwari deposed that she was a Model and
+Actress. She had come to Delhi for a Project. On 24.09.2016 (she did not
+remember the exact date). On the date of the accident, she was going to
+Airport from Dwarka Sector 13 and she was in a four wheeler. She believe
+that the car belonged to one Gurvinder, who was her friend. Somewhere
+
+
+<span class="hidden_text" id="span_11">FIR No.241/16                   State vs. Samer (Judgment)         Page 11 of 17</span>
+ between 8:30 p.m. to 09:30 p.m. their car met with an accident with a bus
+and she only remembered that PW-12, her friend Gurivinder and 2-3 other
+people who were sitting in the car with them were taken to the hospital by
+the police. She did not know how the accident took place. She did not see
+the driver of the offending vehicle. She stated that she could not identify the
+driver if shown to her. She did not remember the registration number of any
+vehicle.
+</p><p id="p_26">                In her cross-examination, she stated that she did not see the
+accident, hence, she could not say how it happened. She denied that the
+car in which they were travelling was in a very high speed. However, it was
+going at the speed of 80-100 km/hour. There were two-three passengers in
+the car. She only knew Gurvinder in the passengers, she did not know the
+driver and other people in the car. She did not remember if there was a red
+light or not. She did not know if their car banged into the bus or bus banged
+into the car.
+</p>
+
+<p id="p_27">6.              Thereafter, prosecution evidence was closed.
+</p>
+
+<p id="p_28">7.              Statement of accused was recorded and all the incriminating
+evidence coming on record was put to the accused in which he submitted
+that he had been falsely implicated in the present case. He did not lead
+evidence in defence. Thereafter, final arguments were addressed.
+</p>
+
+<p id="p_29">8.              It has been argued by Ld. APP for the State that there was
+rashness and negligence on the part of the accused who was driving the
+bus in such a high speed and that too on the cross roads which is shown by
+
+
+<span class="hidden_text" id="span_12">FIR No.241/16                   State vs. Samer (Judgment)          Page 12 of 17</span>
+ the site plan which has been proved by the public witnesses as well as the
+police witnesses. The positions of the vehicles at the time of accident and
+after the accident clearly shows the speed and rashness of the offending
+vehicle. He has prayed for conviction of the accused as not only injury has
+been caused to three people but there has been a death of one passenger
+due the act of the accused.
+</p>
+
+<p id="p_30">9.              On the other hand, the main arguments of counsel for accused
+was that the negligence was primarily of the driver of TATA Safari who was
+driving his vehicle at a very high speed of almost 80-100 km/hr (as stated by
+PW-12). The accused Samer was driving the bus most carefully and it was
+the TATA Safari which banged into the bus head on causing death of one
+person and injuries to other passengers. He also submitted that due to the
+impact of the accident the TATA safari virtually swayed in the opposite
+direction and even was skid to a distance of few meters which could have
+only happened if it was in a very high speed. He has attributed contributory
+negligence to the driver of Tata Safari and has prayed for acquittal on the
+same ground.
+</p><p id="p_31">10.             After hearing the arguments and going through the record, I
+have come to the following observations:
+</p><p id="p_32">                The accused has been charged u/s 279/337/338/304A <a href="/doc/1569253/" id="a_9">IPC</a>.
+                The two things that need to be proved for 337/338/304A <a href="/doc/1569253/" id="a_10">IPC</a>
+are (a) simple hurt/grievous hurt/death was caused to the victim (b) it was
+caused due to rash and negligent act of the accused.
+</p><p id="p_33">(I)               In the present case, both the facts have been duly proved.
+The injuries upon the victims as well as the death of one Ramanjeet has
+
+
+<span class="hidden_text" id="span_13">FIR No.241/16                  State vs. Samer (Judgment)         Page 13 of 17</span>
+ been duly proved.
+</p><p id="p_34">(II)            As far as the fact of rashness and negligence is concerned,
+the first look at the site plan shows the impact with which the bus hit the Tata
+Safari. Due to the impact of the bus it was dragged to several meters away
+from the spot of the accident. After hitting the TATA Safari the bus banged
+into a tree uprooting it and even broke the cemented pipe near the
+pavement. The photographs placed on record and exhibited by the
+witnesses not only show the state of the Tata Safari after the accident which
+is totally smashed from the bonnet but also the uprooted tree and the
+broken cemented pipe near the tree. So much damage could not had been
+caused had a bus been in a reasonably slow speed. Negligence has been
+defined as absence of due care and caution which is expected of a prudent
+person. In the present situation the bus was about to cross the choraha
+(cross roads) and prudence and caution demands that driver should have
+been in a reasonably slow speed as at that point of time the red light had
+changed into yellow blinker indicating that the vehicle should have maintain
+a slow speed.
+</p><p id="p_35">                As far as the identity of the accused is concerned, the same
+has been duly established by the complainant and other witnesses, who
+have duly identified the accused in the Court. The identity of the vehicle has
+also been duly proved.
+</p><p id="p_36">                Seeing that the facts speak for themselves and keeping in
+view the present facts, nothing further remains to be proved.
+</p>
+
+<p id="p_37">11.             <a href="/doc/406841/" id="a_11">In Vadivelu Thevar v. The State of Madras</a> (1957 SCR 981)
+the Hon'ble Supreme Court is Court had divided the nature of witnesses in
+
+
+<span class="hidden_text" id="span_14">FIR No.241/16                 State vs. Samer (Judgment)             Page 14 of 17</span>
+ three categories, namely, wholly reliable, wholly unreliable and lastly, neither
+wholly reliable nor wholly unreliable. The first two categories they pose little
+difficulty but in the case of the third category of witnesses, corroboration
+would be required. It is a sound and well-established rule of law that the
+court is concerned with the quality and not with the quantity of the evidence
+necessary for proving or disproving a fact. Generally speaking, oral
+testimony in this context may be classified into three categories, namely:
+</p><blockquote id="blockquote_1">        i) Wholly reliable.
+</blockquote><blockquote id="blockquote_2">        ii) Wholly unreliable.
+</blockquote><blockquote id="blockquote_3">        iii) Neither wholly reliable nor wholly unreliable.
+</blockquote>
+
+<p id="p_38">12.             In the first category of proof, the court should have no difficulty
+in coming to its conclusion either way - it may convict or may acquit on the
+testimony of a single witness, if it is found to be above reproach or suspicion
+of interestedness, incompetence or subornation. In the second category, the
+court equally has no difficulty in coming to its conclusion. It is in the third
+category of cases, that the court has to be circumspect and has to look for
+corroboration in material particulars by reliable testimony, direct or
+circumstantial. There is another danger in insisting on plurality of witnesses.
+Irrespective of the quality of the oral evidence of a single witness, if courts
+were to insist on plurality of witnesses in proof of any fact, they will be
+indirectly encouraging subornation of witnesses.
+</p>
+
+<p id="p_39">13.             Vadivelu Thevar case (supra) was referred to with approval in
+<a href="/doc/1673242/" id="a_12">Jagdish Prasad v. State of M.P</a>. (AIR 1994 SC 1251). The Hon'ble
+Supreme Court held that as a general rule the court can and may act on the
+
+
+<span class="hidden_text" id="span_15">FIR No.241/16                    State vs. Samer (Judgment)             Page 15 of 17</span>
+ testimony of a single witness provided he is wholly reliable. There is no legal
+impediment in convicting a person on the sole testimony of a single witness.
+That is the logic of <a href="/doc/838383/" id="a_13">Section 134</a> of the Indian Evidence Act, 1872 (in short
+'the <a href="/doc/1953529/" id="a_14">Evidence Act</a>'). But, if there are doubts about the testimony the courts
+will insist on corroboration. It is for the court to act upon the testimony of
+witnesses. It is not the number, the quantity, but the quality that is material.
+The time-honoured principle is that evidence has to be weighed and not
+counted. On this principle stands the edifice of <a href="/doc/838383/" id="a_15">Section 134</a> of the Evidence
+Act. The test is whether the evidence has a ring of truth, is cogent, credible
+and trustworthy, or otherwise."
+</p>
+
+<p id="p_40">14.             The terminology of criminal negligence has been discussed by
+Hon'ble Supreme Court in the case of <a href="/doc/1881874/" id="a_16">S.N. Hussain v. State of Andhra
+Pradesh</a>, AIR 1972 SC 685 as under :
+</p><blockquote id="blockquote_4">                "Criminal negligence on the other hand, is the gross and
+        culpable neglect or failure to exercise that reasonable and
+        proper care and precaution to guard against injury either to the
+        public generally or to an individual in particular, which, having
+        regard to all the circumstance out of which the charge has
+        arisen it was the imperative duty of the accused person to have
+        adopted".
+</blockquote>
+
+<p id="p_41">15.             It has been further observed in S.N. Hussain (Supra) as under:
+</p><blockquote id="blockquote_5">                 "Culpable negligence lies in the failure to exercise reasonable
+        and proper care and the extent of its reasonableness will always
+        depend upon the circumstances of each case".
+</blockquote>
+
+<span class="hidden_text" id="span_16">FIR No.241/16                   State vs. Samer (Judgment)           Page 16 of 17</span>
+<p id="p_42"> 16.             Hence, in view of above discussion, I draw the inference that
+when the factum of rashness and negligence has been duly proved and the
+injuries and death are also not in dispute and further the identity of the
+accused is also established convincingly, the prosecution has been able to
+prove its case beyond reasonable doubt u/s 279/337/338/304A <a href="/doc/1569253/" id="a_17">IPC</a>.
+</p>
+
+<p id="p_43">17.             Accordingly,   accused           Samer      stands   convicted      u/s
+279/337/338/304A <a href="/doc/1569253/" id="a_18">IPC</a>.
+</p>
+
+<p id="p_44">18.             Now to come up for arguments on sentence on 23.04.2018.
+</p>
+
+<p id="p_45">Announced in the open court
+on 12th day of April, 2018
+
+                                            (PURVA SAREEN)
+                                 Additional Chief Metropolitan Magistrate
+                                         Dwarka Courts: New Delhi
+
+
+                                                                 Digitally signed
+                                                                 by PURVA
+                                              PURVA              SAREEN
+                                              SAREEN             Date:
+</p><blockquote id="blockquote_6">                                                                 2018.04.12
+                                                                 16:45:50 +0530
+
+
+
+
+<span class="hidden_text" id="span_17">FIR No.241/16                  State vs. Samer (Judgment)                 Page 17 of 17</span>
+ </blockquote> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

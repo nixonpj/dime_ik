@@ -1,0 +1,833 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Yad Ram @ Pattu on 28 September, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/148194587/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1025153/">Satbir Singh And Ors vs State Of U.P on 25 February, 2009</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1505859/">Sharad Birdhi Chand Sarda vs State Of Maharashtra on 17 July, 1984</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/338103/">Babu Lal And Ors vs State Of Madhya Pradesh on 31 October, 2003</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/148194587/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/148194587/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ruqqa">ruqqa</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reasonable%20suspicion">reasonable suspicion</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=examination%20in%20chief">examination in chief</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rajender%20singh">rajender singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=statement%20of%20accused">statement of accused</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=false%20statement">false statement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mazdoor">mazdoor</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=police%20statements">police statements</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=penal%20code%20307">penal code 307</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=material%20witness">material witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=surety%20bond">surety bond</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Yad Ram @ Pattu on 28 September, 2015</div><div class="doc_author">Author: Dr. T.R. Naval</div>
+
+<pre id="pre_1">  IN THE COURT OF DR. T. R. NAVAL, DISTRICT &amp; SESSIONS
+JUDGE, DISTRICT SHAHDARA, KARKARDOOMA COURTS, DELHI
+
+Unique Case I.D. No. 02402R0110172015
+
+SC No.     47/15
+FIR No.    32/15
+PS          Welcome
+U/S         307 <a href="/doc/1569253/" id="a_1">IPC</a>
+
+State          Versus                  Yad Ram @ Pattu
+                                       S/o Sh. Bhikari Lal
+                                       R/o B-180,
+                                       Janta Mazdoor Colony,
+                                       Welcome, Delhi.
+
+Date of Institution : 15.04.2015
+Date of Arguments : 23.09.2015
+Date of Judgment : 28.09.2015
+
+JUDGMENT
+</pre>
+<p id="p_1">               The facts of the prosecution case in brief are that on
+receipt of DD No. 26-A dated 13.01.2015 at P.S. Welcome regarding
+admission of an injured in GTB Hospital after sustaining injuries in a
+quarrel, HC Rajender was deputed in the hospital. He obtained MLC
+of injured Imtiyaz S/o Aftab Hussain and recorded his statement in
+which he disclosed that he was carrying on his business in the weekly
+market. On that date at about 4.30 pm in the evening when he was
+standing at Janta Colony, 65 Foota Road, Yad Ram @ Pattu S/o
+Bhikari Lal R/o B-180, Mazdoor Janta Colony came there. He was
+under the influence of liquor and he demanded Rs.4000-5000/- on
+credit. He showed his inability on the ground that he was not having
+that much of amount. Then Yad Ram @ Pattu lost his tamper and
+
+SC No. 47/15        State vs. Yad Ram @ Pattu         Page 1 of 21   28.09.2015
+ started abusing him and when he asked him not to abuse, he took out
+a sharp edged knife which was with him and in order to kill him
+attempted to inflict injuries by the knife. In order to save himself, he
+put forward his hand. Consequently, he sustained injuries on his hand
+and thigh. He was taken to GTB Hospital. He further stated that
+Legal action may be taken against Yad Ram as he attempted to kill
+him. On the basis of his statement, FIR No. 32/15 at P.S. Welcome
+u/s 307 <a href="/doc/1569253/" id="a_2">IPC</a> was recorded. DD No. 33-A was also recorded in that
+regard. IO obtained the clothes of injured from the hospital and in that
+regard seizure memo was prepared after getting those clothes sealed
+with the seal of GTB Hospital. Accused was arrested and his personal
+search was conducted. Arrest memo and personal search memo
+were prepared. He was interrogated and he disclosed that the
+knife/chhurri was thrown in the drain. Injured was discharged from the
+hospital on 18.01.2015. He was taken to the spot by the IO and site
+plan of the place of incident was prepared. IO after obtaining the
+result on MLC and recording of statements of the witnesses prepared
+the charge sheet. After completion of investigation, police filed charge
+sheet for the trial of accused for the offence punishable u/s 307 <a href="/doc/1569253/" id="a_3">IPC</a>.
+</p>
+
+<p id="p_2">2.             Ld. Metropolitan Magistrate after supplying of copies of
+chargesheet and other documents committed this case to the court of
+sessions.
+</p>
+
+<p id="p_3">3.             Vide order dated 22.05.2015, charge for the offence
+punishable u/s 307 <a href="/doc/1569253/" id="a_4">IPC</a> against the accused was framed and read
+over to him in vernacular language. The accused pleaded not guilty
+
+SC No. 47/15        State vs. Yad Ram @ Pattu    Page 2 of 21    28.09.2015
+ and claimed trial.
+</p>
+
+<p id="p_4">4.             The prosecution, in order to prove its case, examined HC
+Rajender Singh as PW-1; injured Sh. Imtiyaz S/o Sh. Aftab Hussain as
+PW-2; Sh. Tausif, an eye witness who took the injured to hospital as
+PW-3; HC Hemraj Singh as PW-4; Constable Anand Kumar as PW-5;
+Constable Sanjeev Kumar as PW-6; Dr. Hitesh Aggarwal as PW-7; Dr.
+Sushil as PW-8; SI Ombir Singh as PW-9, Dr. Kavita as PW-10; and
+IO SI Yujvender Singh as PW-11.
+</p>
+
+<p id="p_5">5.             After closing of prosecution evidence, statement of
+accused u/s 313<a href="/doc/1569253/" id="a_5"> of the Code</a> of Criminal Procedure, here in after
+referred to as<a href="/doc/1569253/" id="a_6"> the Code</a>, was recorded. The accused admitted that he
+was known to Imtiyaz prior to the date of incident and that Imtiyaz
+correctly identified him during the trial as he is his neighbour. The
+accused, either denied rest of the material prosecution evidence or
+expressed his ignorance about the same. He pleaded that he was
+falsely implicated in the present case at the instance of Raju, the
+friend of Imtiyaz with whom he was having previous litigation vide FIR
+No. 442/2008, PS Welcome in which he was convicted. He was on
+bail from Hon'ble High Court in that case, when he was falsely
+implicated in the present case. Imtiyaz himself is a criminal of area.
+Many cases are pending against him in that area. He pleaded that he
+was innocent.
+</p>
+
+<p id="p_6">6.             After recording of statement u/s 313<a href="/doc/1569253/" id="a_7"> of the Code</a>, an
+application u/s 315<a href="/doc/1569253/" id="a_8"> of the Code</a> was filed in which the accused prayed
+
+SC No. 47/15         State vs. Yad Ram @ Pattu   Page 3 of 21   28.09.2015
+ for seeking permission for his examination as defence witness. The
+application was allowed. However, on the date when his testimony
+was to be recorded, he closed the defence evidence without
+examining himself or any other witness.
+</p>
+
+<p id="p_7">7.             I have heard final arguments addressed by Ld. Addl.
+Public Prosecutor for the State and Ld. Counsel/Amicus Curiae for the
+accused and perused file.
+</p>
+
+<p id="p_8">8.             On perusal of file, I find that PW-2 stated that he was
+residing at E-49/A-91, Mazdoor Janta Colony, Welcome, Delhi
+alongwith his family members. He used to install the cloth shop in
+weekly market at different places on different days. On 13.01.2015 at
+about 4.30 pm he was standing at Pili Mitti, 65 Foota Road, Janta
+Colony. The accused Yad Ram @ Pattu who was known to him as he
+was resident of same colony came to him. At that time he was in
+intoxicated condition. He started demanding Rs.2000-3000/- from him
+for meeting out his expenses. Since he was not having that amount,
+he refused to pay him. On this, he started abusing him and
+immediately took out chapar (a sharp edged weapon) and tried to hit
+the same upon him. He had tried to save himself and in that process
+he put his hand against the said weapon but the accused gave the
+knife blow on the upper part of his right thigh. He also sustained
+injuries on his right hand. Thereafter, the accused ran away from the
+spot. At that time one Tausif who was residing near his house came
+there and took him firstly to police station and on the asking of police
+official, later on he took him to GTB Hospital where his medical
+
+SC No. 47/15        State vs. Yad Ram @ Pattu    Page 4 of 21   28.09.2015
+ examination was conducted. On the same day police officials came to
+the hospital. The police made enquiries from him and he made a
+statement to the police. He proved his statement as Ex.PW1/A and
+identified his signatures at point A. He remained admitted in the said
+hospital and he was discharged on 18.01.2015. He had shown the
+spot to the police and police prepared site plan at his instance. He
+proved the site plan as Ex.PW2/A and identified his signatures at point
+A. He handed over his medical documents to the IO and identified
+those documents as Mark X1 to X6. He also correctly identified the
+accused Yad Ram in the court and also identified his clothes i.e. inner
+woolen shirt Ex.P1, one woolen lower Ex.P2, one pant of grey colour
+Ex.P3, one shirt of blue colour Ex.P4, one white colour vest Ex.P5 and
+one underwear Ex.P6. The progress record of GTB Hospital is proved
+as Ex.P7. The Ld. Additional PP was allowed to put a leading question
+regarding amount which was allegedly demanded by the accused
+from the injured but the witness reiterated his statement and stated
+that accused demanded Rs.2000-3000/- from him and not Rs.
+4000-5000/-.
+</p>
+
+<p id="p_9">9.              Eye witness PW-3 deposed that he was residing at H.No.
+N-63, A-49, near Khajoor Wali Masjid, Gali No. 4, Mazdoor Janta
+Colony, Welcome, Delhi alongwith his family members.                 On
+13.01.2015 at about 4.30 pm he was standing near dust bin (Kura
+Khatta).       He saw that there was quarrel on the issue of money
+between Imtiyaz and Pattu who was present in the court on the date
+of recording of his testimony. The accused Pattu was demanding
+money from Imtiyaz and thereafter the accused Pattu had taken out
+
+SC No. 47/15         State vs. Yad Ram @ Pattu   Page 5 of 21   28.09.2015
+ chapar (a knife used for cutting meat) and had given the knife blow on
+the person of Imtiyaz who hit on the upper part of his right thigh.
+Accused had given other knife blow which hit in the hand of Imtiyaz.
+Blood started oozing out.          He immediately went to the house of
+Imtiyaz and took him to GTB Hospital on his scooty. A large number
+of public persons also gathered at the spot at the time of incident.
+Injured Imtiyaz was got admitted in the hospital.                He knew the
+accused Yad Ram @ Pattu as he was resident of the same area.
+Police met him in hospital on the next day. He was called in the police
+station and his statement was recorded.
+</p>
+
+<p id="p_10">10.            PW-7 deposed that on 13.01.2015 he was working as
+Junior Resident at GTB Hospital. On that date at about 5.00 pm, he
+examined patient Imtiyaz S/o Aftab Husain, aged about 32 years,
+Male with alleged history of assault at Janta Colony at about 4.30 pm
+vide MLC Ex.PW7/A which was signed by him at point A and B. On
+examination, he found incised wound of 2 x 1 cm on right inguinal
+region 4 cm right latterly to pubic symphysis. After examination he
+was referred to surgery department for further examination.
+</p>
+
+<p id="p_11">11.            PW-8 deposed that on 13.01.2015, he was working as
+CMO at GTB Hospital. On that date, Dr. Hitesh who was working as
+Junior Resident examined the patient Imtiyaz S/o Sh. Aftab Hussain,
+aged about 32 years, Male with alleged history of assault at Janta
+Colony at about 4.30 pm under his supervision vide MLC Ex.PW7/A
+which was signed by him at point C. After examination, the patient
+was referred to surgery department for further examination.
+</p>
+<p id="p_12">SC No. 47/15       State vs. Yad Ram @ Pattu      Page 6 of 21        28.09.2015
+</p><p id="p_13"> 12.            PW-10 deposed that on 20.02.2015 he was working as
+Senior Resident at GTB Hospital. On that date she received MLC for
+giving opinion. On the basis of injuries and surgical record available
+with her she had given the opinion of injuries as grievous on the MLC
+Ex.PW7/A which was signed by her at point D. In cross examination
+she stated that she did not examine the patient Imityaz personally but
+she gave the opinion on the basis of injuries mentioned in the MLC
+and surgical record.
+</p>
+
+<p id="p_14">13.            PW-1 deposed that on 13.01.2015 he was posted at P.S.
+Welcome. On that date, on receipt of DD No. 26 regarding admission
+of injured Imtiyaz at GTB Hospital, he alongwith constable Sanjeev
+Kumar went to GTB Hospital where they found the injured Imtiyaz
+admitted. He collected his MLC. He met the injured Imtiyaz who was
+fit for giving his statement at that time. He recorded his statement and
+his statement Ex.PW1/A was signed by the injured at point A and he
+attested the same and signed it at point B. Thereafter, he prepared
+ruqqa Ex.PW1/B and handed over the same to constable Sanjeev
+Kumar who took the same to police station and got the FIR registered.
+Constable Sanjeev Kumar came at GTB Hospital alongwith SI
+Yujvender Singh. He collected the sealed parcel containing clothes of
+injured which were duly sealed with the seal of "MLC GTB Hospital,
+Shahdara, Delhi-95" and sample seal.            He handed over the said
+parcel to SI Yujvender Singh which he took into possession vide
+seizure memo Ex.PW1/C which was signed by him at point A.
+</p>
+
+<p id="p_15">14.            PW-4 deposed that on 13.01.2015, he was posted at PS
+
+SC No. 47/15        State vs. Yad Ram @ Pattu       Page 7 of 21   28.09.2015
+ Welcome as duty officer and his duty hours were from 4.00 pm to
+12.00 midnight. On that date at about 5.10 pm, he received a call
+from duty constable Mahesh from GTB Hospital regarding admission
+of injured Imtiyaz s/o Sh. Aftab Hussain in injured condition in GTB
+Hospital. He reduced the same into writing vide DD No. 26-A. The
+said DD was assigned to HC Rajender for further action and informed
+HC Rajender about the same through telephone. Copy of DD No. 26-
+A was proved on record as Ex.PW4/A. On the same day, at about
+8.25 pm, he received ruqqa through constable Sanjeev sent by HC
+Rajender.      After receiving the ruqqa he made his endorsement
+Ex.PW4/A on it and signed it at point A and thereafter FIR No. 32/15
+u/s 307 <a href="/doc/1569253/" id="a_9">IPC</a> was got registered by him. After registration of the case,
+investigation was assigned to SI Yujvender Singh. He recorded DD
+No. 33-A in this regard and copy of that DD was proved as Ex.PW4/C.
+Thereafter, ruqqa in original and copy of FIR was handed over to
+constable Sanjeev Kumar for handing over the same to SI Yujvender.
+Computerized copy of FIR was proved as Ex.PW4/D which was
+signed by him at point A.
+</p>
+
+<p id="p_16">15.            PW-6 deposed that on 13.01.2015, he was posted at PS
+Welcome. On that date, HC Rajender Singh received DD No. 26-A
+and after receiving the said DD by HC Rajender Singh, he
+accompanied him to GTB Hospital and on reaching there they found
+that injured Imtiyaz was admitted there. IO collected MLC of injured
+on which doctor mentioned as fit for statement.          Thereafter, HC
+Rajender recorded his statement Ex.PW1/A. On the basis of said
+statement, IO prepared ruqqa Ex.PW1/B and he took the same to
+
+SC No. 47/15       State vs. Yad Ram @ Pattu   Page 8 of 21     28.09.2015
+ police station for registration of case. After getting the case registered
+DO handed over the computerized copy of FIR Ex.PW4/B and ruqqa
+in original to him for further handing over the same to SI Yujvender
+Singh as the investigation of the case was assigned to him.             SI
+Yujvender Singh met him in the police station itself and he handed
+over the computerized copy of FIR and original ruqqa to him.
+Thereafter, he alongwith SI Yujvender went to the spot i.e 65 Foota
+Road, Janta Colony. SI Yujvender made enquiry about the incident of
+the present case but no eye witness met them there. Thereafter, they
+went to GTB Hospital. In the hospital HC Rajender Singh met them
+and he handed over one sealed parcel sealed with the seal of MLC
+GTB Hospital alongwith sample seal to SI Yujvender and SI Yujvender
+took the same in possession vide seizure memo Ex.PW1/C which was
+signed by him at point A. HC Rajender was relieved after recording
+his statement. Thereafter, he alongwith SI Yujvender went to the spot
+and searched the accused but he could not be traced out. Thereafter,
+they came back to the police station where his statement was
+recorded.
+</p>
+
+<p id="p_17">16.            PW-5 deposed that on 14.01.2015 he was posted at PS
+Welcome. On that day at about 6.40 pm, he joined the investigation
+of the present case with IO SI Yujvender. Thereafter, he alongwith SI
+Yujvender went at the house of accused Yad Ram @ Pattu i.e B-180,
+Janta Colony, Welcome, Delhi as he knew accused Yad Ram @ Pattu
+being Beat Constable of that area where the accused was residing.
+On reaching there accused Yad Ram present in court was found
+standing inside of his house at ground floor and he identified him as
+
+SC No. 47/15       State vs. Yad Ram @ Pattu      Page 9 of 21    28.09.2015
+ Yad Ram. Thereafter, the accused was arrested at his instance. He
+was interrogated and arrested vide memo Ex.PW5/A and his personal
+search was conducted vide memo Ex.PW5/B. Both the memo were
+signed by him at point A.           During the course of interrogation, the
+accused made disclosure statement Ex.PW5/C which was signed by
+him at point A. Thereafter, the accused led them to the spot i.e 65
+Foota Road and he pointed out the place of occurrence. Pointing out
+memo Ex.PW5/D was prepared by the IO in that regard which was
+signed by him at point A. The accused led them to 66 Foota Road
+and he pointed out the place i.e. drainage (nala) where he had thrown
+the weapon of offence i.e. knife but it could not be recovered from
+there. The accused was brought to the police station. His statement
+was recorded by the IO. He correctly identified the accused in the
+court.
+</p>
+
+<p id="p_18">17.            PW-11 deposed that on 13.01.2015, he was posted at
+P.S. Welcome. Further investigation of this case was handed over to
+him. He received the case file and perused the same. Thereafter, he
+alongwith constable Sanjeev Kumar reached at the spot i.e. 65 Foota
+Road, Janta Colony. He made efforts to trace the eye witness but no
+eye witness met him at that time at the spot. He alongwith constable
+Sanjeev Kumar went to GTB Hospital where HC Rajender Singh who
+was initial IO met them and he handed over to him sealed parcel duly
+sealed with the seal of MLC GTB Shahdara, Delhi which was
+containing the clothes of injured Imtiyaz. He took the said parcel into
+possession vide seizure memo Ex.PW1/C which was signed by him at
+point C. Injured Imtiyaz was interrogated in the hospital by him. He
+
+SC No. 47/15       State vs. Yad Ram @ Pattu         Page 10 of 21   28.09.2015
+ recorded the statement of HC Rajender u/s 161<a href="/doc/1569253/" id="a_10"> of the Code</a> in the
+hospital. Thereafter, he alongwith constable Sanjeev Kumar went to
+the house of accused Yad Ram @ Pattu as his address was available
+in the statement of injured Imtiyaz. At that time, accused Yad Ram @
+Pattu was not available. They came back to the police station. On
+14.01.2015 he went to the hospital and deposited the MLC for
+obtaining the opinion regarding nature of injuries. At about 6.40 pm,
+he took constable Anand Beat Constable of the area and again went
+to the house of the accused who was found available in his house.
+He was identified by constable Anand. The accused was apprehended
+and interrogated. On being satisfied, accused Yad Ram was arrested
+vide memo Ex.PW5/A which was signed by him at point B. His
+personal search was conducted vide memo Ex.PW5/B which was
+signed by him at point B. The accused was interrogated and his
+disclosure statement was recorded vide memo Ex.PW5/C which was
+signed by him at point B.. He also led them to the spot of incident and
+he prepared pointing out memo Ex.PW5/D which was signed by him
+at point B. In pursuant to disclosure statement, the accused took
+them to ganda nala (drainage), 65 Foota Road, Jafrabad for the
+recovery of knife which was used in this incident. The efforts were
+made but the said knife could not be recovered. Thereafter, they
+alongwith the accused came back to PS. He recorded the statement
+of constable Anand u/s 161 <a href="/doc/445276/" id="a_11">Cr.P.C</a>. On 15.01.2015, he took the police
+remand of the accused for one day and again came to the drainage
+(ganda nala), 65 Foota Road, Jafrabad for recovery of said knife but
+same could not be recovered. On 19.01.2015, injured Imtiyaz was
+discharged from Hospital. He went to his house. He came to the spot
+
+SC No. 47/15     State vs. Yad Ram @ Pattu      Page 11 of 21   28.09.2015
+ with him and pointed out the spot of incident. He prepared the site
+plan Ex.PW2/A at his instance which was signed by him at point B.
+Further investigation of this case was handed over to some other IO.
+He handed over the case file to MHCR.
+</p>
+
+<p id="p_19">18.             PW-9 deposed that on 13.02.2015 he was posted at PS
+Welcome. On that day further investigation of this case was handed
+over to him. He received the case file from MHCR and perused the
+same. He find that result on the MLC was still awaited. He received
+the result of MLC of injured Imtiyaz. As per opinion of the doctor the
+nature of injury was grievous. He recorded the statement of witness
+Tausif, HC Hemraj and supplementary statement of complainant
+Imtiyaz.       He prepared the charge sheet u/s 307 <a href="/doc/1569253/" id="a_12">IPC</a> against the
+accused Yad Ram @ Pattu.                   He correctly identified the accused
+present in court.
+</p>
+
+<p id="p_20">19.             During the course of arguments, Ld. defence counsel
+submitted that there is contradiction on the point of taking of injured to
+the hospital.      PW-3 Tausif claimed that he took the injured to the
+hospital but MLC Ex.PW7/A contained in the relevant column as self
+which shows that Tausif did not take the injured to the hospital. In the
+MLC Ex.PW7/A it has not been mentioned that injured was assaulted
+by accused Pattu. Had Pattu assaulted him, the injured could have
+told this fact to the doctor and doctor must have written it in the MLC;
+weapon of offence i.e. chapar was not recovered from the possession
+of accused or at his instance; there are contradictions between the
+statement of IO and MLC Ex.PW7/A as IO stated that injured was not
+
+SC No. 47/15         State vs. Yad Ram @ Pattu          Page 12 of 21   28.09.2015
+ under the influence of liquor whereas the MLC has shown that injured
+was smelling alcohol; statement of injured is not consistent; it is self
+contradicted; there are contradictions in the testimonies of PW-2 and
+PW-3; and eye and material witness PW-3 did not support the
+prosecution case. It has been submitted by Ld. Defence counsel that
+prosecution could not prove its case against the accused beyond
+reasonable suspicion and shadow of doubt and he is entitled for
+acquittal.
+</p>
+
+<p id="p_21">20.            On the other hand Ld. Addl. PP submitted that the
+contradictions pointed out by Ld. Counsel for the accused are minor
+and the material and eye witness supported the case of prosecution in
+examination in chief and that should be taken into consideration for
+deciding the case and in cross examination they did not support the
+case as the accused won over them; and eye witness Tausif
+supported the case of the prosecution in cross examination.                 He
+submitted that prosecution has proved its case beyond any
+reasonable suspicion and shadow of doubt.                   It has also been
+submitted that the accused can be convicted even on the basis of
+testimony of hostile witness.
+</p>
+
+<p id="p_22">21.            On analyzing the evidence on record and considering the
+arguments of Ld. Addl. Public Prosecutor for the State and Ld.
+Defence Counsel, I come to the conclusion that prosecution has failed
+to prove its case against the accused beyond any reasonable
+suspicion and shadow of doubt.                 The reasons which support my
+decision are firstly that testimony of injured is self-contradictory.
+</p>
+<p id="p_23">SC No. 47/15       State vs. Yad Ram @ Pattu           Page 13 of 21   28.09.2015
+ Examination-in-chief of injured has already been narrated and
+discussed in paragraph 8 herein above. In cross-examination he
+stated that he took liquor even during day hours and on 13.1.2015 he
+had consumed liquor and he was under the influence of liquor. Public
+persons told him that he was hit by accused Yadram @ Pattu. He did
+not see the accused hitting him. He explained that there was crowd.
+He did not know if his blood has fallen down on the ground. He did
+not tell the name of assailant to the doctor as the same was not asked
+by the doctor.       He did not tell the doctor by which weapon he
+sustained injury. He was having mobile phone at the time of incident.
+He did not make call to the police by dialing no.100. Police met him in
+the GTB Hospital at about 5-5.30 PM and then police made enquiries
+from him. His statement was not read over to him by the police. He
+did not know as to what was written by the police in his statement.
+His mother came in the hospital at about 5.00 PM. He was alone in
+the hospital when his statement was recorded. The spot of incident is
+a public place and public persons were available there. About 20-25
+public persons had collected there at the time of incident. Tausif came
+to him at the spot within 10-15 minutes after the incident. The clothes
+of Tausif did not smear with his blood. He admitted that he had given
+the name of accused Yadram due to misunderstanding. The above
+portion of the cross-examination of injured has shown that he deposed
+contrary to what he deposed in his examination-in-chief.
+</p>
+
+<p id="p_24">22.            The     injured      was          re-examined   as     during    cross-
+examination he disclosed new facts. He again changed his testimony
+and admitted that he had stated in his examination in chief that the
+
+SC No. 47/15         State vs. Yad Ram @ Pattu             Page 14 of 21       28.09.2015
+ accused Yadram @ Pattu took out chapad and tried to hit him and that
+he tried to save himself and in that process he put his hand against
+the said weapon. The accused had given the knife blow on the upper
+part of his right thigh and he also identified the accused Yadram @
+Pattu and that he knew him being the resident of his area and that he
+did not state that he had given his name due to misunderstanding. He
+again changed his testimony and stated that what he stated on the
+date of his cross-examination was correct. He also stated that his
+statement which was recorded on the date of his examination-in-chief
+was also correct. Thus, testimony of injured is self-contradictory which
+has demolished the foundation of the prosecution case.
+</p>
+
+<p id="p_25">23.            Secondly, testimony of material and eye witness PW-3 is
+also inconsistent. His examination-in-chief has been narrated in
+paragraph no.9 above. In cross-examination he stated that he was at
+a distance of 100 steps when he received an information about
+sustaining of injuries by his friend Imtiaz. He did not know the boy
+who gave that information to him. When he reached at the spot, there
+was crowd of 30-40 persons. He did not notice blood on the ground.
+He took Imtiaz to the hospital after about 5 minutes from the time he
+reached at the spot. He explained that he brought his scooty from his
+house in the meantime. They arrived at GTB hospital within half an
+hour. He was having his mobile phone. He did not know if Imtiaz was
+having mobile phone at that time. He did not make call to the police at
+No.100 before taking Imtiaz to hospital. Imtiaz also did not make any
+call to the police. Blood did not fall down on his scooty or on his
+clothes. He explained that Imtiaz put handkerchief on his wound. He
+
+SC No. 47/15       State vs. Yad Ram @ Pattu    Page 15 of 21   28.09.2015
+ took him to the doctor who asked him to go out of the room. Police
+arrived in the hospital after about half an hour. Police did not record
+his statement. Statement of Imtiaz was not recorded in his presence.
+Mother of Imtiaz came in the hospital. He did not see as to how Imtiaz
+sustained injuries? Thus, he deposed in just contradiction of what he
+deposed in his examination-in-chief as in his examination-in-chief he
+deposed that accused hit Imtiaz on the upper part of his thigh and also
+gave knife blow on his hand.
+</p>
+
+<p id="p_26">24.            As the witness changed material averments of his
+statement, so he was allowed to be cross-examined by Ld. Addl.
+Public Prosecutor. During cross-examination he admitted that he
+made the statement before the police correctly. He explained that he
+was answering the question which was being put by the police. The
+statement which was given by him in the court on 29.6.2015 was not
+correct. On 29.6.2015 the witness made his examination-in-chief and
+incriminated the accused.           He further stated that he made false
+statement on 29.6.2015 that he saw a quarrel between Imtiaz and
+Pattu present in the court on the issue of money. He made false
+statement before this court that Pattu was demanding money and
+Imtiaz was saying that he was not having money at that time and also
+made false statement that accused Pattu took out a Chapad and he
+gave knife blow to the injured Imtiaz which hit him on the right thigh.
+He stated that he deposed at the instance of police. He denied the
+suggestion that he changed his testimony as he had been won over
+by the accused. Thus, the material eye-witness even failed to support
+the prosecution case in further cross-examination conducted by
+
+SC No. 47/15       State vs. Yad Ram @ Pattu       Page 16 of 21   28.09.2015
+ Ld. Addl. Public Prosecutor for the state.
+</p>
+
+<p id="p_27">25.            Thirdly, there are major contradictions in the testimonies
+of prosecution witnesses. On examination of evidence on record I find
+contradictions on the following points :
+</p>
+
+<p id="p_28">(i) Amount of demand
+</p><p id="p_29">26.            In the statement Ex.PW1/A made to the police by the
+injured/PW-2, it is stated that accused demanded Rs.4,000- 5,000/-
+on credit from him at the time of alleged occurrence. In his statement
+made before the court he stated that the accused demanded Rs.
+2,000/3,000 from him for meeting out his expenses.
+</p>
+
+<p id="p_30">(ii) Use of Scooty for taking the injured to hospital
+</p><p id="p_31">27.            In the examination-in-chief PW-3 stated that after the
+incident he immediately went to the house of Imtiaz and brought
+scooty no.1018 and took him to the hospital. In the cross-examination
+he stated that he took the injured Imtiaz from the spot to the hospital
+on his scooty.
+</p>
+
+<p id="p_32">(iii) Visit of police station soon after the incident
+</p><p id="p_33">28.            PW-2 deposed that Tausif (PW-3) took him to the police
+station firstly and on asking of police officials he took him to GTB
+Hospital. PW-3 on this aspect deposed that he took Imtiaz to GTB
+Hospital on his scooty. In the cross-examination he deposed that they
+arrived in the GTB Hospital within half an hour. Thus there is
+inconsistency in the statement of PW-3 in this regard.
+</p>
+<p id="p_34">SC No. 47/15        State vs. Yad Ram @ Pattu       Page 17 of 21   28.09.2015
+</p><p id="p_35"> (iv) Consumption of liquor by the injured
+</p><p id="p_36">29.            In MLC Ex.PW7/A, it has been mentioned that injured
+was smelling alcohol. First IO denied the suggestion that when he
+met Imtiaz he was under the influence of liquor. He did not remember
+whether fact of consumption of liquor was mentioned in the MLC.
+</p>
+
+<p id="p_37">30.            The discrepancies and contradictions in the testimony of
+material prosecution witnesses as mentioned herein above have
+created doubt on the truthfulness of the prosecution case.
+</p>
+
+<p id="p_38">31.            My decision finds support by principles of law laid down in
+a case titled as <a href="/doc/338103/" id="a_13">Babu Lal and others vs. State</a>, 1994 JCC 111
+wherein, the Delhi High Court observed that:
+</p><blockquote id="blockquote_1">        "10. As far as these appellants, namely Babu Lal, Arjun Das and
+        Leela Ram are concerned, there are material contradictions in the
+        statements of the two injured, Om Parkash and Bhagwan Das who
+        are the real brothers. The other alleged eye witnesses have also
+        contradicted themselves on the most material points and the
+        contradictions cannot be said to be minor and have occurred on
+        account of passage of time. Moti Lal, PW13 on whose statement
+        the case was registered has also not supported the case of
+        prosecution in as much as he has denied that he has seen the
+        incident or he saw these appellants giving injuries to the injured.***
+        There are serious lapses in the prosecution story in connecting
+        these appellants with the offence. The story put up by the
+        prosecution as far as these appellants are concerned, is
+        unbelievable and doubtful. The weapon of offence, Rampi, was not
+        sent to the doctor for examination, as such the doctor has not
+        stated that these injuries could have been caused by the Rampi."
+</blockquote>
+<p id="p_39">32.            Fourthly, there was delay in reporting the matter to the
+police. There was no prompt reporting of the matter to the police.
+Both the material and eye-witnesses i.e. PW-2 and PW-3 were having
+
+SC No. 47/15        State vs. Yad Ram @ Pattu        Page 18 of 21    28.09.2015
+ mobile phones but they did not report the matter to the IO. PW-2 and
+PW-3 in their cross-examination admitted that they were having their
+respective mobile phones and they did not inform the police about the
+incident. The police was informed by the duty constable at the
+hospital. Not reporting of the incident by the injured or the eye witness
+further creates reasonable suspicion and shadow of doubt in the
+truthfulness of the prosecution case.
+</p>
+
+<p id="p_40">33.              Fifthly, in a case reported as <a href="/doc/1505859/" id="a_14">Sharad Birdhichand Sarda
+v. State of Maharashtra</a>, AIR 1984 SC 1622, it was inter alia held by
+the Apex Court that:
+</p><blockquote id="blockquote_2">                 "It is well settled that where on the evidence two possibilities
+                 are available or open, one which goes in favour of the
+                 prosecution and the other which benefits an accused, the
+                 accused is undoubtedly entitled to the benefit of doubt."</blockquote>
+
+
+<p id="p_41">                 The principles of law laid down in above case are
+applicable on the facts of present case and therefore, it is held that the
+accused is entitled to get benefit of doubt as in the present case one
+leads to his involvement and other leads to his involvement in the
+crime doubtful.
+</p>
+<p id="p_42">34.              Sixthly, in a case <a href="/doc/1025153/" id="a_15">Satbir vs. State of Uttar Pradesh</a>
+1982 SCC Criminal 132 it was held when the prosecution has failed
+to bring the charges home beyond the reasonable doubt, he is entitled
+for acquittal.
+</p>
+<p id="p_43">35.              Lastly, the principle 'let hundred accused may go scot-
+free without punishment but one innocent person should not be
+
+SC No. 47/15          State vs. Yad Ram @ Pattu         Page 19 of 21    28.09.2015
+ punished' is applicable in the present case. Therefore, it would be just,
+fair and appropriate if the accused is given benefit of doubt as the
+prosecution has failed to prove its case against him beyond any
+reasonable suspicion and shadow of doubt.
+</p>
+<p id="p_44">36.            Before parting with this judgment, it would be relevant to
+mention that eye and material witness PW-3 Tausif admitted during
+cross-examination that he made false statement before this court.
+Therefore, legal action against him is required to be taken in
+accordance with law. Sh. Taufiq Ahmed, presently working in this court
+as Ld. Addl. Public Prosecutor is authorized u/s 195<a href="/doc/1569253/" id="a_16"> of the Code</a> to
+initiate legal action against the witness PW-3 Sh. Tausif as per law.
+</p>
+<p id="p_45">                                  CONCLUSION
+
+</p><p id="p_46">37.            Consequent upon above reasons, discussion and
+evidence on record and particularly discussed herein above, I am of
+the view that prosecution has failed to prove its case against the
+accused beyond reasonable suspicion and shadow of doubt.
+Therefore, the accused is entitled to get benefit of doubt. Resultantly,
+the accused is acquitted of the offence of attempt to murder
+punishable u/s 307 <a href="/doc/1569253/" id="a_17">IPC</a> .
+</p>
+<p id="p_47">38.            The accused is in JC. he be released forthwith from JC if
+he is not required in any other case. Accused is stated to be in JC in
+another case in which he is undergoing life imprisonment.
+</p>
+<p id="p_48">39.            However, if he is released from jail within six months then
+
+
+SC No. 47/15        State vs. Yad Ram @ Pattu     Page 20 of 21   28.09.2015
+ in view of provisions of <a href="/doc/1569253/" id="a_18">Section 437-A</a> of the Code, the accused is
+directed to furnish within a week bail bond/surety bond in the sum of
+Rs.10,000/- with one surety of like amount for the period of six months
+along with passport size photograph and document of identity and
+residence.
+</p>
+<p id="p_49">40.            After furnishing of surety bonds and taking legal action
+against PW-3 Tausif as per law, file be consigned to Record Room.</p><pre id="pre_2">
+
+
+
+
+Announced in the Open Court
+Dated: 28.09.2015                                    (DR. T.R. NAVAL)
+                                               District &amp; Sessions Judge,
+                                                Shahdara District, Delhi.
+
+
+
+
+SC No. 47/15       State vs. Yad Ram @ Pattu           Page 21 of 21   28.09.2015
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

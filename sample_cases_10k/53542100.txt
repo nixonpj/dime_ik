@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Panchu Mistri &amp; Ors vs The State Of Bihar on 11 February, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/53542100/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/53542100/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/53542100/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Panchu Mistri &amp; Ors vs The State Of Bihar on 11 February, 2009</div><pre id="pre_1">                    IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                 Cr.Misc. No.3084 of 2009
+
+                    1.   Panchu Mistri, Son of Late Permeshwar Mistry.
+                    2.   Lakhan Mistri, Son of Panchu Mistri.
+                    3.   Manoj Mistri, Son of Panchu Mistri.
+                    4.   Pramod Mistri, Son of Panchu Mistri.
+                    5.   Samundri Devi, wife of Panchu Mistri.
+                    6.   Kamla Devi, Wife of Lakhan Mistri.
+                    7.   Parwati Devi, Wife of Manoj Mistri.
+                         All are resident of Village- Bijoi, Police Station-Muffassil,
+                         District- Aurangabad.
+                                                                 -----Petitioners.
+                                              -Versus-
+                         The State of Bihar.............................Opposite Party.
+                                                   -----------
+</pre>
+<p id="p_1">2.   11.02.2009.              This application is for modification of the order dated
+
+                   19.9.2008 passed in Cr. Misc. No. 34210 of 2008. Petitioners were
+
+                   granted anticipatory bail but because of some typographical error and
+
+                   other situation as mentioned in the petition, the time allowed to the
+
+                   petitioners for surrendering before the court below has expired.
+
+</p><p id="p_2">                              Considering these facts, the order dated 19.9.2008 passed in
+
+                   Cr. Misc. No. 34210 of 2008 is modified to the extent that the time
+
+                   earlier allowed for surrendering before the court below is extended by
+
+                   three weeks from today. All other terms will remain same as
+
+                   mentioned in the order dated 19.9.2008.
+</p>
+<p id="p_3">                              The order be faxed to the S.D.J.M., Aurangabad if requisite
+
+                   cost is deposited for the same.
+</p>
+<p id="p_4">
+
+
+</p><pre id="pre_2">            U.K.                                                       (Mridula Mishra,J)
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

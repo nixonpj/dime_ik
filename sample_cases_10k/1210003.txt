@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Karan Singh And Ors. vs Ram Sahai on 2 July, 1924</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1210003/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1911267/">Lal Behari And Ors. vs Musammat Parkalli Koer And Ors. on 2 January, 1920</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1210003/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1210003/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mahal">mahal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co-sharer">co-sharer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co-%20sharers">co- sharers</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Karan Singh And Ors. vs Ram Sahai on 2 July, 1924</div><div class="doc_citations">Equivalent citations: AIR 1925 All 246, 83 Ind Cas 231</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+</p><p id="p_2">1. In this appeal the only question that arises for consideration is as to the amount which the lambardar had to give credit for in ascertaining the plaintiffs' share of the profits of the mahal. Before the partition, although the rental of one plot in question was recorded as being Rs. 75-3-9, in a previous litigation the plaintiffs were allowed their share of the profits on the basis of a fair rental payable. Subsequent to this litigation there was a perfect partition of this mahal, and certain co-sharers got their shares separated. It is, however, a fact that the lambardar as well as the present plaintiffs still remain co-sharers in the same mahal, which is a joint one. At the time of the partition the papers still showed the rent of this plot as being Rs. 75-3-9. The learned District Judge therefore came to the conclusion that though the papers contained this entry, there was nothing to show-whether the amount of rent and the nature of the holding were in issue in the partition proceedings. He accordingly thought that the just way was to make calculations on the basis of the prevailing rate for non-occupancy tenants, and on this calculation he decreed the plaintiffs' claim. On appeal a learned Judge of this Court has taken a contrary view. He came to the conclusion that the effect of the partition proceedings has been to override the previous decisions, and he was of opinion that the present claim at the prevailing rate for non-occupancy tenants was really barred by Section 233(k) of Act III of 1901.
+</p> 
+
+<p id="p_3">2. We are of opinion that Section 233(k) of Act III of 1901 can really have no application to this case, inasmuch as no question affecting the partition or union of the mahal is at all raised.
+</p> 
+
+<p id="p_4">3. It is true that at the time of the partition this plot must have been taken as an occupancy tenancy of the lambardar, and for the purpose of calculating the interest of the out-going co-parceners, only Rs. 75-3-9 would have been formally taken as its rent. This, it may be conceded, might have resulted in some slight loss to the out-going co-parceners. But as was held in the case of <a href="/doc/1911267/" id="a_1">Lal Behari v. Parkali Koer</a> (1920) 42 All. 309, that circumstance can in no way affect the rights inter se of those co-sharers who remain in the mahal. The present lambardar and the plaintiffs are still co-sharers in the same mahal which is joint and it cannot be said that their rights as regards this plot had been adjudicated upon inter se at the partition. We are therefore unable to hold that the effect of the partition has been to override the previous decisions.
+</p> 
+
+<p id="p_5">4. We accordingly allow the appeal with costs and restore the decree of the lower Appellate Court.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,929 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>National Insurance Co. Ltd vs Asha Devi &amp; Ors on 26 August, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/169087259/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1235769/">National Insurance Co. Ltd. vs Pushpa Devi And Ors. on 23 March, 2004</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/136948773/">Section 166 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/86908489/">Reshma Kumari &amp; Ors vs Madan Mohan &amp; Anr on 2 April, 2013</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/169087259/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/169087259/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/169087259/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Himachal Pradesh High Court</div>
+<div class="doc_title">National Insurance Co. Ltd vs Asha Devi &amp; Ors on 26 August, 2019</div><div class="doc_bench">Bench: Tarlok Singh Chauhan</div>
+
+<p id="p_1">    IN THE HIGH COURT OF HIMACHAL PRADESH, SHIMLA.
+</p>
+<p id="p_2">                                                 FAO(MVA) No. 554 of 2018
+                                                 Date of decision: 26.08.2019.
+</p>
+
+
+
+<p id="p_3">                                                                                .
+</p>
+<p id="p_4">    National Insurance Co. Ltd.                                                     ...Appellant.</p><pre id="pre_1">
+
+
+
+
+
+                                        Versus
+    Asha Devi &amp; Ors.                                                           ...Respondents
+
+
+
+
+
+    For the Appellant                      :              Ms. Devyani Sharma, Advocate.
+
+    For the Respondents                     :            Mr. H. S. Rangra, Advocate,
+                            r                            for respondents No. 1 to 4.
+
+                                                         Ms. Anita Jalota, Advocate,
+                                                         for respondents No. 5 and 6.
+
+    Coram
+
+</pre><p id="p_5">    The Hon'ble Mr. Justice Tarlok Singh Chauhan, Judge.
+</p>
+
+<p id="p_6">    Whether approved for reporting?1 No.
+
+
+
+    Tarlok Singh Chauhan, Judge.
+</p>
+
+
+
+<p id="p_7">                       Aggrieved by the quantum of compensation ordered to
+
+
+
+
+
+    be paid to the claimants by Motor Accident Claims Tribunal (II)
+
+
+
+
+
+    Mandi, District Mandi, H.P. camp at Karsog, the Insurance Company
+
+    has filed the instant appeal.
+</p>
+<p id="p_8">    2.                 Briefly stated the facts of the case are that the
+
+    claimants-respondents No. 1 to 4 being widow, minor children and
+
+    mother of the deceased Kuldeep Sharma, filed a claim petition
+
+<span class="hidden_text" id="span_1">    1</span>
+        Whether reporters of Local Papers may be allowed to see the Judgment ?Yes
+
+
+
+
+<span class="hidden_text" id="span_2">                                                             ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_3">                                        2</span>
+
+
+    under   <a href="/doc/136948773/" id="a_1">Section   166</a>   of   the   Motor   Vehicles       Act,    1988       for
+
+    compensation on the averments that on 03.12.2015, deceased was
+
+
+
+
+                                                              .
+</p><p id="p_9">    travelling in the Maruti Alto driven rashly and negligently by
+
+
+
+
+
+    respondent No. 6. The driver could not control the vehicle as a
+
+    result of which it rolled down the gorge and led to the death of Shri
+
+
+
+
+
+    Kuldeep Sharma on spot. It was further alleged that the deceased
+
+    was 36 years of age and was working as Up-Vayas and also doing
+
+
+
+
+
+    the business of Mushroom growing and Karyana Shop and was
+
+    earning Rs.22,000/- per month.
+</p>
+<p id="p_10">    3.          Respondents No. 5 and 6 and appellant contested the
+
+    claim petition by filing separate replies. Among other grounds, the
+
+    appellant contested the petition on the ground that respondents
+
+    No. 5 and 6 were plying the vehicle in violation of the terms and
+
+
+
+    conditions of the Insurance Policy and the <a href="/doc/785258/" id="a_2">Motor Vehicles Act</a> and
+
+
+
+
+    the compensation claimed was highly excessive. The learned
+
+    Tribunal below, after framing issues in the matter and recording
+
+
+
+
+
+    evidence of the parties, allowed the claim petition and has
+
+
+
+
+
+    awarded a sum of Rs.15,82,000/- alongwith interest at the rate of
+
+    7.5% per annum from the date of the petition in their favour and
+
+    the appellant-Company has been held liable to indemnify the
+
+    insured and pay the amount within two months from the date of
+
+    the award failing which it shall be liable to pay the interest @ 9%
+
+    per annum from the date of award. It was averred that since the
+
+
+
+
+<span class="hidden_text" id="span_4">                                           ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_5">                                         3</span>
+
+
+    impugned award is highly excessive, to that extent it be quashed
+
+    and set aside.
+</p>
+
+
+
+<p id="p_11">                                                               .
+</p><p id="p_12">    4.          The learned Counsel for the claimants, on the other
+
+
+
+
+
+    hand, has supported the award as being in tune with law.
+</p>
+<p id="p_13">                I have heard learned counsel for the parties and have
+
+
+
+
+
+    gone through the records of the case.
+</p>
+<p id="p_14">    5.          Evidently, there is nothing on record to prove that the
+
+
+
+
+
+    income of the deceased was Rs.10,000/- per month as has been
+
+    computed by the learned Tribunal below. Therefore, in such
+
+    circumstances, the income of the deceased can at best be taken to
+
+    be that of a daily wager/agriculturist labourer, which was revised to
+
+    Rs.180/- per day w.e.f. 01.05.2015 or Rs.5400/- per month.
+</p>
+<p id="p_15">    6.
+
+
+                Now, as regards the award of compensation, there can
+
+    be no dispute that the compensation awarded by the learned
+
+
+
+
+    Tribunal is now required to be determined in accordance with the
+
+    decision of a Constitutional Bench of the Hon'ble Supreme Court in
+
+
+
+
+
+    National Insurance Co. Ltd. versus Pranay Sethi and others
+
+
+
+
+
+    2017 ACJ 2700.
+</p>
+<p id="p_16">    7.          Why this case came to be referred to the Constitutional
+
+    Bench, the answer is not difficult to find and the same is set out in
+
+    para-1 of the judgment itself which reads thus:
+</p>
+<blockquote id="blockquote_1">                "Perceiving cleavage of opinion between <a href="/doc/86908489/" id="a_3">Reshma Kumari
+                v.Madan Mohan</a>, 2013 ACJ 1253 (SC) and Rajesh v. Rajbir Singh
+
+
+
+
+<span class="hidden_text" id="span_6">                                            ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_7">                                            4</span>
+
+
+                2013 ACJ 1403 (SC), both three-Judge Bench decisions, a two-
+                Judge Bench of this Court in <a href="/doc/1235769/" id="a_4">National Insurance Co. Ltd. v.
+                Pushpa</a>, (2015) 9 SCC 166, thought it appropriate to refer the
+
+
+
+
+                                                                  .
+</blockquote><blockquote id="blockquote_2">                matter to a larger Bench for an authoritative pronouncement,
+
+
+
+
+
+                and that is how the matters have been placed before us."
+</blockquote>
+
+<p id="p_17">    8.          The conflict between the judgments as extracted
+
+
+
+
+
+    above was resolved by concluding that the decision in Rajesh
+
+    versus Rajbir Singh, 2013 ACJ 1403 (SC) was not a binding
+
+
+
+
+
+    precedent as it had not taken note of the decision in Reshma
+
+    Kumari versus Madan Mohan, 2013 ACJ 1253(SC). The Hon'ble
+
+    Supreme Court after considering the entire conspectus of law
+
+
+    arrived at the following conclusions:-
+</p>
+
+<blockquote id="blockquote_3">                "i) The two-Judge Bench in Santosh Devi, 2012 ACJ 1428 (SC),
+                should have been well advised to refer the matter to a larger
+
+
+                Bench as it was taking a different view than what has been
+                stated in Sarla Verma, 2009 ACJ 1298 (SC), a judgment by a
+                coordinate Bench. It is because a coordinate Bench of the
+                same strength cannot take a contrary view than what has been
+
+
+
+
+                held by another coordinate Bench.
+</blockquote>
+<blockquote id="blockquote_4">                (ii) As Rajesh, 2013 ACJ 1403 (SC) has not taken note of the
+
+
+
+
+
+                decision in Reshma Kumari,2013 ACJ 1253 (SC), which was
+                delivered at earlier point of time, the decision in Rajesh is not a
+                binding precedent.
+</blockquote>
+
+
+
+
+<blockquote id="blockquote_5">                (iii) While determining the income, an addition of 50% of actual
+                salary to the income of the deceased towards future prospects,
+                where the deceased had a permanent job and was below the
+                age of 40 years, should be made. The addition should be 30%,
+                if the age of the deceased was between 40 and 50 years. In
+                case the deceased was between the age of 50 and 60 years,
+                the addition should be 15%. Actual salary should be read as
+                actual salary less tax.
+</blockquote>
+<blockquote id="blockquote_6">                (iv) In case the deceased was self-employed or on a fixed
+                salary, an addition of 40% of the established income should be
+                the warrant where the deceased was below the age of 40
+
+
+
+
+<span class="hidden_text" id="span_8">                                               ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_9">                                                      5</span>
+
+
+                    years. An addition of 25% where the deceased was between
+                    the age of 40 and 50 years and 10% where the deceased was
+                    between the age of 50 and 60 years should be regarded as the
+                    necessary method of computation. The established income
+                    means the income minus the tax component.
+</blockquote>
+
+
+
+<blockquote id="blockquote_7">                                                                                .
+</blockquote>
+<blockquote id="blockquote_8">                    (v) For determination of the multiplicand, the deduction for
+                    personal and living expenses, the tribunals and the courts shall
+                    be guided by paras 14 and 15 of Sarla Verma 2009 ACJ 1298
+                    (SC), which we have reproduced hereinbefore.
+</blockquote>
+
+
+
+
+<blockquote id="blockquote_9">                    (vi) The selection of multiplier shall be as indicated in the Table
+                    in Sarla Verma, 2009 ACJ 1298 (SC), read with para 21 of that
+                    judgment.
+</blockquote>
+
+
+
+
+<blockquote id="blockquote_10">                    (vii) The age of the deceased should be the basis for applying
+                    the multiplier.
+</blockquote>
+<blockquote id="blockquote_11">                    (viii) Reasonable figures under conventional heads, namely,
+                    loss to estate, loss of consortium and funeral expenses should
+
+                    be Rs.15,000, Rs.40,000 and Rs.15,000 respectively. The
+                    aforesaid amounts should be enhanced at the rate of 10 per
+
+                    cent in every three years."</blockquote>
+
+<p id="p_18">                    Conclusions        (iii)    to       (viii)     are      relevant    for    the
+
+    adjudication of these cases.
+</p>
+
+
+<p id="p_19">    9.              It    is   thus    clear      from            the      aforesaid    that    the
+
+    compensation henceforth to be awarded in favour of the claimants
+
+
+
+
+    is essentially to be abide                 by the aforesaid conclusions, more
+
+
+
+
+
+    particularly,        conclusions     No.(iii)        to       (viii)    which      except    for
+
+
+
+
+
+    conclusions No.(v) and (vi) are self-speaking.
+</p>
+<p id="p_20">    10.             Now, as regards conclusions No. (v) and (vi), it would
+
+    be apposite          to extract paragraphs No.14, 15 and 21 along with
+
+    table as referred to in Sarla Verma and others versus Delhi
+
+    Transport Corporation and another, 2009 ACJ 1298 (SC)
+
+    which read thus:-
+</p>
+
+
+
+<span class="hidden_text" id="span_10">                                                           ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_11">                                   6</span>
+
+
+<blockquote id="blockquote_12">        "14. Though in some cases the deduction to be made towards
+        personal and living expenses is calculated on the basis of units
+        indicated in Trilok Chandra's case, 1996 ACJ 831 (SC), the
+
+
+
+
+                                                         .
+</blockquote><blockquote id="blockquote_13">        general practice is to apply standardized deductions. Having
+
+
+
+
+
+        considered several subsequent decisions of this court, we are
+        of the view that where the deceased was married, the
+        deduction towards personal and living expenses of the
+
+
+
+
+
+        deceased, should be one-third (1/3rd) where the number of
+        dependent family members is 2 to 3, one-fourth (1/4th) where
+        the number of dependant family members is 4 to 6, and one-
+        fifth (1/5th) where the number of dependant family members
+
+
+
+
+
+        exceed six.
+</blockquote>
+
+<blockquote id="blockquote_14">        15. Where the deceased was a bachelor and the claimants are
+
+        the parents, the deduction follows a different principle. In
+        regard to bachelors, normally, 50% is deducted as personal
+
+        and living expenses, because it is assumed that a bachelor
+        would tend to spend more on himself. Even otherwise, there is
+        also the possibility of his getting married in a short time, in
+
+
+        which event the contribution to the parent/s and siblings is
+        likely to be cut drastically. Further, subject to evidence to the
+        contrary, the father is likely to have his own income and will
+
+
+
+
+        not be considered as a dependant and the mother alone will be
+        considered as a dependent. In the absence of evidence to the
+
+
+
+
+
+        contrary, brothers and sisters will not be considered as
+        dependents, because they will either be independent and
+
+
+
+
+
+        earning, or married, or be dependant on the father. Thus even
+        if the deceased is survived by parents and siblings, only the
+        mother would be considered to be a dependant, and 50%
+        would be treated as the personal and living expenses of the
+        bachelor and 50% as the contribution to the family. However,
+        where family of the bachelor is large and dependant on the
+        income of the deceased, as in a case where he has a widowed
+        mother and large number of younger non-earning sisters or
+        brothers, his personal and living expenses may be restricted to
+
+
+
+
+<span class="hidden_text" id="span_12">                                      ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_13">                                                  7</span>
+
+
+                  one-third and contribution to the family will be taken as two-
+                  third.
+</blockquote>
+
+
+
+<blockquote id="blockquote_15">                                                                        .
+</blockquote><blockquote id="blockquote_16">                  21. We therefore hold that the multiplier to be used should be
+
+
+
+
+
+                  as mentioned in column (4) of the Table above (prepared by
+                  applying Susamma Thomas, Trilok Chandra and Charlie), which
+                  starts with an operative multiplier of 18 (for the age groups of
+
+
+
+
+
+                  15 to 20 and 21 to 25 years), reduced by one unit for every
+                  five years, that is M-17 for 26 to 30 years, M-16 for 31 to 35
+                  years, M-15 for 36 to 40 years, M-14 for 41 to 45 years, and M-
+                  13 for 46 to 50 years, then reduced by two units for every five
+
+
+
+
+
+                  years, that is, M-11 for 51 to 55 years, M-9 for 56 to 60 years,
+                  M-7 for 61 to 65 years and M-5 for 66 to 70 years."
+</blockquote>
+
+<p id="p_21">    Age of the   Multiplier      Multiplier      Multiplier      Multiplier        Multiplier
+    deceased     scale
+                       r    as   scale      as   scale      in   specified    in   actually used
+
+                 envisaged       adopted in      Trilok          second            in      Second
+                 in              Trilok          Chandra as      column       in   Schedule    to
+                 Susamma         Chandra         clarified in    the Table    in   <a href="/doc/785258/" id="a_5">MV Act</a> (as
+                 Thomas                          Charlie         Second            seen from the
+                                                                 Schedule     to   quantum     of
+                                                                 <a href="/doc/785258/" id="a_6">MV Act</a>            compensation)
+
+
+         (1)          (2)             (3)             (4)              (5)                (6)
+<span class="hidden_text" id="span_14">    Up to 15            -              -                -               15                20</span>
+    years
+<span class="hidden_text" id="span_15">    15 to 20           16             18               18               16                19</span>
+
+
+
+
+    years
+<span class="hidden_text" id="span_16">    21 to 25           15             17               18               17                18</span>
+
+
+
+
+
+    years
+<span class="hidden_text" id="span_17">    26 to 30           14             16               17               18                17</span>
+    years
+<span class="hidden_text" id="span_18">    31 to 35           13             15               16               17                16</span>
+
+
+
+
+
+    years
+<span class="hidden_text" id="span_19">    36 to 40           12             14               15               16                15</span>
+    years
+<span class="hidden_text" id="span_20">    41 to 45           11             13               14               15                14</span>
+    years
+<span class="hidden_text" id="span_21">    46 to 50           10             12               13               13                12</span>
+    years
+<span class="hidden_text" id="span_22">    51 to 55           9              11               11               11                10</span>
+    years
+<span class="hidden_text" id="span_23">    56 to 60           8              10                9                 8                8</span>
+    years
+<span class="hidden_text" id="span_24">    61 to 65           6               8                7                 5                6</span>
+
+
+
+
+<span class="hidden_text" id="span_25">                                                     ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_26">                                           8</span>
+
+
+    years
+<span class="hidden_text" id="span_27">    Above to 65        5          5                5                 5                5</span>
+    years
+
+
+</p><p id="p_22">     11.          Evidently, the judgment in Pranay Sethi's case
+
+
+
+
+                                                                   .
+</p>
+<p id="p_23">     (supra) has brought about radical and fundamental changes with
+
+     regard to award of compensation. For this purpose, this Court
+
+
+
+
+
+     would deal with the case by drawing a comparative table of the
+
+     amount actually awarded by the learned Tribunal along with
+
+
+
+
+
+     modified award.
+</p>
+<p id="p_24">     12.          Bearing in mind the aforesaid exposition of law and the
+
+     law laid down in Pranay Sethi's case (supra), it would be
+
+
+     noticed that the deceased at best can be taken to be a daily
+
+     wager/agriculturist labourer and, therefore, only an increase of
+
+     40% towards notional income can be made in his favour. Since, the
+
+
+
+     petitioner was married, 1/4th deduction has to be made towards
+
+     personal expenses. The deceased was about 36 years of age,
+
+
+
+
+     therefore, the multiplier of 15 as applied by the learned Tribunal
+
+
+
+
+
+     below appears to be perfectly in order. In addition thereto, the
+
+     conventional charges of Rs.70,000/-, as awarded by the learned
+
+
+
+
+
+     Tribunal below are in tune with the law laid down in Pranay
+
+     Sethi's case (supra).
+</p>
+<p id="p_25">     13.          In view of the aforesaid discussion, the compensation
+
+     that would eventually work out is as under:-
+</p>
+<p id="p_26">           Award passed by the Tribunal       Modified Award by this Court
+    Sr.N   Heads                              Amount.
+</p>
+
+
+
+<span class="hidden_text" id="span_28">                                                ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_29">                                                  9</span>
+
+
+<p id="p_27">    o.
+</p><p id="p_28">    1.     Loss of contribution of income            Loss of contribution of income comes out
+           comes      out    Rs.6000/-+40%           Rs.4050/- + 40% = Rs. 5670X12x15
+           Rs.2400/- i.e. monthly income of          +Rs. 10,20,600/-
+           Rs.6000+2400=Rs. 8400x12x15
+
+
+
+
+                                                                          .
+</p><p id="p_29">           = 15,12,000/-
+</p>
+
+
+
+
+<p id="p_30">    2.     Funeral Expenses = Rs.15,000/-            Funeral Expenses = Rs.15,000/-
+</p><p id="p_31">    3.     Loss of love and affection = Rs.          Loss of love and affection = Rs. 40,000/-
+</p><p id="p_32">           40,000/-
+</p>
+
+
+
+
+<p id="p_33">    4.     Loss of consortium         to   the       Loss of consortium to the petitioner =
+           petitioner = Rs.15,000/-                  Rs.15,000/-
+</p>
+<p id="p_34">    5.     Total = Rs.15,82,000/-                    Total = Rs. 10,90,600/-
+</p>
+
+
+
+
+<p id="p_35">     14.          In this manner, the claimants would be entitled to a
+
+     total compensation of Rs.10,90,600/-. Admittedly, the Insurance
+
+     Company has failed to deposit the amount within the period
+
+
+     granted to it and, therefore, liable to pay interest at the rate of 9%
+
+     per annum from the date of award in terms thereof.
+</p>
+<p id="p_36">     15.          To be fair to the learned Counsel for the Insurance
+
+
+
+     Company, even this finding of the learned Tribunal whereby the
+
+
+
+
+     interest initially at the rate of 7.5% per annum has been awarded,
+
+     in case, the same is paid within two months and thereafter at the
+
+
+
+
+
+     rate of 9% per annum, has been questioned by the Insurance
+
+
+
+
+
+     Company. However, taking into account the peculiar facts and
+
+     circumstances of the case, more particularly, the fact that the
+
+     compensation stands drastically reduced, I see no reason to
+
+     interfere with such findings of the learned Tribunal.
+</p>
+
+
+
+<span class="hidden_text" id="span_30">                                                       ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+<span class="hidden_text" id="span_31">                                       10</span>
+
+
+<p id="p_37">    16.         The appeal is partly allowed in the aforesaid terms,
+
+    leaving the parties to bear their own costs. Pending application, if
+
+
+
+
+                                                              .
+</p><p id="p_38">    any, stands disposed of.</p><pre id="pre_2">
+
+
+
+
+
+                                        ( Tarlok Singh Chauhan )
+    26th August, 2019                            Judge
+    (sanjeev)
+
+
+
+
+
+                    r          to
+
+
+
+
+
+
+
+
+
+<span class="hidden_text" id="span_32">                                           ::: Downloaded on - 29/09/2019 02:35:34 :::HCHP</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

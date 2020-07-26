@@ -1,0 +1,586 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Supreme Court In Its Decision ... vs . Sri Mohan&quot;, 2010 11 Scc 441. on 7 August, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/7349094/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:7349094">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/224316/">Section 281 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/268919/">Section 139 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/429078/">Section 251 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/7349094/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/7349094/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amount%20of%20cheque%20more%20than">amount of cheque more than</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=138%20act">138 act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.138%20of%20the%20negotiable%20instrument%20act">s.138 of the negotiable instrument act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=138%20negotiable%20instruments%20act">138 negotiable instruments act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=negotiable%20instruments%20act%201881">negotiable instruments act 1881</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=138%20negotiable%20instrument">138 negotiable instrument</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22negotiable%22%2C%22138%22">"negotiable","138"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20section%20281%20cr.p.c%20"> section 281 cr.p.c </a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Supreme Court In Its Decision ... vs . Sri Mohan", 2010 11 Scc 441. on 7 August, 2014</div><div class="doc_author">Author: Sh. Harun Pratap</div>
+
+<pre id="pre_1">                                     1
+
+ IN THE COURT OF SH. HARUN PRATAP, METROPOLITAN MAGISTRATE -
+           01 (CENTRAL), TIS HAZARI COURTS, NEW DELHI.
+
+
+
+Carzonrent (India) Pvt.                          ....................Complainant
+
+
+
+                            Versus
+
+Sri Bhagwan                               .........................Accused
+
+
+                                C.C.NO. 3146/1/09
+                                PS - Subzi Mandi
+                                Under Section 138 of N. I. ACT, 1881
+
+
+a)    Sl. No. of the case            : 02401R0773112007
+b)    Alleged date of commission of : Approx 15.07.2007
+      offence
+c)    Name of the complainant        : Carzonrent (India) Pvt.
+
+d)    Name of the accused, and his   : Sri Bhagwan
+          address                    S/o Sh. Kishan Chand
+                                     R/o H.No. 199, Village, Ghogha,
+                                     New Delhi.
+
+e)    Offence complained of          : Under Section 138 of N. I. Act, 1881
+f)    Plea of accused                : Pleaded not guilty
+g)    Final order                    : Acquitted
+h)    Date of such order             : 11.08.2014
+
+
+
+
+CC No.3146/1/09                                                       Page no. 1 of 10
+                                            2
+
+
+
+i) Brief statement of the reasons for the decision :
+
+
+
+1.</pre><p id="p_1">    Vide this judgment, the Court shall decide the complaint case under <a href="/doc/1823824/" id="a_1">Section 138</a>
+
+Negotiable Instruments Act, 1881 (herein after referred to as <a href="/doc/1132672/" id="a_2">NI Act</a>) filed by the
+
+complainant Carzonrent India (Pvt) Ltd. through its AR against the accused Sri Bhagan.
+
+
+
+</p><p id="p_2">2.    Briefly stated, the averments of the complaint are that the accused approached
+
+the complainant and showed his willingness to join the EASY CAB project launched by
+
+the complainant. It has been alleged that a cab bearing registration no.DL-1RX-6088
+
+was entrusted by the complainant to the accused upon certain terms and conditions for
+
+the purpose of plying the same on hire basis. Allegedly, the accused was bound to pay
+
+a consideration amount of Rs.750/- per day to the complainant in this regard. The
+
+accused allegedly issued two cheques bearing no. 137845 dt.06.06.2007 for an amount
+
+of Rs.13,000/- and no. 137846 dt.11.06.2007 for an amount of Rs.2000/- respectively,
+
+both drawn on Punjab National Bank, in favour of the complainant company towards
+
+discharge of his liability aforesaid.   However, the said cheques were returned
+
+dishonored on being presented for encashment by the complainant due to the reason
+
+"Funds Insufficient" vide return memo dt. 09.06.2007 and 14.06.2007, received by the
+
+complainant on 12.06.2007 and 15.06.2007. The complainant thereafter got issued a
+
+legal demand notice dt. 22.06.2007 through registered AD and UPC upon the accused.
+
+
+</p><p id="p_3">CC No.3146/1/09                                                          Page no. 2 of 10
+<span class="hidden_text" id="span_1">                                               3</span>
+
+Despite the expiry of the stipulated period in this regard, the accused failed to make the
+
+payment of the cheque amount in question and hence, the present complaint case was
+
+filed on 08.08.2007 for the offence u/s 138 <a href="/doc/1132672/" id="a_3">Negotiable Instruments Act</a>.
+
+
+
+</p><p id="p_4">3.    The accused was summoned by Ld. Predecessor, vide order dated 14.08.2007
+
+and notice of the accusation for the offence punishable u/s 138 <a href="/doc/1132672/" id="a_4">N.I. Act</a> was put to the
+
+accused vide order dated 09.05.2013, to which he pleaded not guilty and claimed trial.
+
+
+
+</p><p id="p_5">4.    In order to prove the allegations levelled by him against the accused, the
+
+complainant examined its AR as CW1. He tendered his evidence by way of affidavit
+
+Ex.CW1/A, wherein he stated the contents of his complaint on oath before the Court and
+
+relied upon the documents Ex.C-1 to Ex.C-11.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">5.    The CE was thereafter closed vide order dt.25.01.2014 and the statement of
+
+accused was recorded u/s 313 read with <a href="/doc/224316/" id="a_5">section 281</a> CrPC, vide order dt.17.04.2014,
+
+wherein the entire incriminating evidence was put to the accused and the latter wished
+
+to lead DE.    The accused failed to examine any defence witness hence DE was
+
+thereafter closed vide order dt.21.05.2014.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">6.    Final arguments heard. File perused.
+</p>
+<p id="p_10">
+
+
+</p><p id="p_11">CC No.3146/1/09                                                            Page no. 3 of 10
+<span class="hidden_text" id="span_2">                                            4</span>
+
+</p><p id="p_12">7.    Following Points arise for determination by this court :
+
+</p><p id="p_13">            (1)   Whether the complainant has proved on record the essential
+
+ingredients of offence under <a href="/doc/1823824/" id="a_6">Section 138</a> of Negotiable Instruments Act, 1881 against
+
+the accused.
+</p>
+<p id="p_14">            (2)   Final order.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">8.          Point No. (1) - To decide this point, lets analyze the main ingredients
+
+of Provision 138 of <a href="/doc/1132672/" id="a_7">Negotiable Instrument Act</a>, 1881 and the evidence on record
+
+regarding these ingredients : -
+</p>
+<p id="p_17">            (a)   Whether the cheque was drawn/issued by the accused person to
+
+the complainant on an account maintained by him with the bank for discharge, in
+
+whole or in part, of any debt or other liability?
+</p>
+<p id="p_18">            (b)   Whether the cheque was presented to the bank within a period
+
+of six months or within the period of its validity?
+</p>
+<p id="p_19">            (c)   Whether the cheque so presented for encashment was
+
+dishonored?
+</p>
+<p id="p_20">            (d)   Whether the payee/complainant of the cheque issued a Legal
+
+Demand Notice within 30 days from the receipt of information from the bank
+
+regarding dishonourment of the cheque?
+</p>
+<p id="p_21">            (e)   Whether drawer of the cheque failed to make the payment within
+
+15 days of receipt of afore-said Legal Demand Notice?
+</p>
+<p id="p_22">CC No.3146/1/09                                                       Page no. 4 of 10
+<span class="hidden_text" id="span_3">                                             5</span>
+
+
+
+</p><p id="p_23">9.    It is pertinent to mention here that the complainant has to prove all the abovesaid
+
+ingredients simultaneously on record to bring home the conviction of the accused.
+
+
+
+</p><p id="p_24">10.   In this case, the complainant has brought on record the certificate of incorporation
+
+as Ex.CW1/1, Extract of Board Resolution as Ex.CW1/2 and Power of Attorney in favour
+
+of the AR as Ex.CW1/3. The cheques in question bearing no.137845, dt.06.06.2007 and
+
+bearing no.137846 dt. 11.06.2007 both drawn on Punjab National Bank Trinagar Branch,
+
+Delhi, issued by the accused in the favour of the complainant have been brought on
+
+record as Ex.CW1/4 and          Ex.CW1/5.       It has been further contended that on
+
+presentation, the said cheques were returned dishonored vide cheque returning memo
+
+brought on record as Ex.CW1/6, Ex.CW1/7, Ex.CW1/8 and Ex.CW1/9 due to reason of
+
+"Funds Insufficient". The complainant has further deposed in his affidavit that upon the
+
+receipt of information regarding the dishonored cheque in question, he sent a legal
+
+demand notice to the accused brought on record as Ex.C-10, vide Postal Receipt
+
+Ex.C-11, thereby demanding payment of cheque amount in question within 15 days of
+
+receipt of notice. It has been further deposed in his affidavit by the complainant that the
+
+accused has not made the payment qua cheque in question till date, despite service of
+
+legal demand notice as abovesaid.
+</p>
+<p id="p_25">
+
+</p><p id="p_26">11.         As per the oral submissions, notice under <a href="/doc/429078/" id="a_8">Section 251</a> Cr. P.C., statement
+
+CC No.3146/1/09                                                             Page no. 5 of 10
+<span class="hidden_text" id="span_4">                                               6</span>
+
+of accused under <a href="/doc/767287/" id="a_9">Section 313</a> Cr. P.C. r/w <a href="/doc/224316/" id="a_10">Section 281</a> Cr. P.C. and evidence brought on
+
+record, the accused has raised two major defences in this case : -
+
+</p><p id="p_27">                   1.) that he had no legal liability towards the complainant and the
+
+cheques in question were given as security.
+</p>
+<p id="p_28">                   2.) and that he did not receive any legal demand notice.
+</p>
+<p id="p_29">
+
+</p><p id="p_30">12.   In the present case, the complainant has contended that the accused had issued
+
+the impugned cheques towards discharge of his part liability to the complainant on
+
+account of agreement between the parties for plying the taxi on hire basis. On the other
+
+hand, the accused has contended that the cheque in question were issued as security
+
+only and there was no liability as alleged by the complainant. Herein, it is to be noted
+
+that the complainant has neither brought on record the alleged agreement between the
+
+parties stipulating payment of the said hire charges and the rate thereof, nor the
+
+complainant has brought on record any statement of account showing the exact and
+
+specific liability, if any, of the accused. The complainant witness has specifically admitted
+
+about the failure to bring such documents on record and has even admitted during his
+
+cross-examination that the cheques in question were given blank by the accused to the
+
+complainant and were given as security. The CW1 has also admitted that the security
+
+amount in cash for an amount on Rs.11,000/- was also received by the complainant and
+
+the same has not been returned by the complainant to the accused as it has been
+
+adjusted towards the outstanding amount. However, in absence of any statement of
+
+CC No.3146/1/09                                                               Page no. 6 of 10
+<span class="hidden_text" id="span_5">                                              7</span>
+
+account showing such adjustment as aforesaid, the contention of the complainant
+
+regarding liability of the accused for the cheques amount in question can not be
+
+accepted on its face value alone.
+</p>
+<p id="p_31">
+
+</p><p id="p_32">13.    In such cases, the position of the Law has very much been settled by the Hon'ble
+
+Supreme Court in its decision titled as "Rangappa Vs. Sri Mohan", 2010 11 SCC 441.
+
+In    the said judgment, the full bench of the Hon'ble Supreme Court has held that
+
+"Inference of preponderance of probabilities can be drawn not only from the materials
+
+brought on record by the parties but also by reference to the circumstances upon which
+
+he relies". The Hon'ble Supreme Court has reiterated the position of the Law laid down
+
+in "Hiten P. Dalal V s. Bratindranath Banerjee ",(2001)6 SCC16, wherein it has been
+
+held that "the obligation of the prosecution may be discharged with the help of
+
+presumptions of law or fact unless the accused adduces evidence showing the
+
+reasonable probability of the non-existence of the presumed fact". Finally, the Hon'ble
+
+Supreme Court has also held and reiterated its earlier decision in "Bharat Barrel &amp;
+
+Drum Manufacturing Company V s. Amin Chand Pyarelal", (1993)3 SCC35, wherein
+
+it has been held that the "the bare denial of the passing of the consideration apparently
+
+does not appear to be any defence. Something which is probable has to be brought on
+
+record for getting the benefit of shifting the onus of proving to the plaintiff. To disprove
+
+the presumption, the defendant has to bring on record such facts and circumstances
+
+upon consideration of which the Court may either believe that the consideration did not
+
+CC No.3146/1/09                                                              Page no. 7 of 10
+<span class="hidden_text" id="span_6">                                              8</span>
+
+exist or its non-existence was so probable that a prudent man would, under the
+
+circumstances of the case, act upon the plea that it did not exist"
+
+
+
+</p><p id="p_33">14.   Therefore, in absence of any evidence to establish the liability of the accused for
+
+the cheque amount in question, the Court has no hesitation in hereby arriving at the
+
+finding that the complainant case has failed to stand upon its own legs. There are
+
+credible and reasonable doubts in the version of the complainant and hence, the
+
+defence of the accused regarding absence of liability is hereby accepted.
+
+
+
+</p><p id="p_34">15.   Now, coming to the second defence of the accused as to the non receiving of the
+
+legal notice Ex.CW1/10 by him, it is to be noted that the legal demand notice Ex.CW1/10
+
+has been sent by the complainant vide registered postal receipt Ex.CW1/11, to the
+
+accused on the same address which has been admitted to be his correct address by the
+
+accused in his statement u/s 313 <a href="/doc/445276/" id="a_11">CrPC</a>. Hence, the same is thus a valid legal demand
+
+notice sent by the complainant to the accused and the position of the Law has been
+
+specifically enunciated by the Hon'ble Supreme Court in "C. C. Alavi Hazi Vs.
+
+Palapetty Mohd. &amp; Anr." reported in (2007) 6 Supreme Court Cases 555. In the said
+
+case, the Hon'ble Supreme Court of India has held that : -
+</p>
+<p id="p_35">             "Any drawer who claims that he did not received the notice sent by post,
+
+can, within 15 days of receipt of summons from the court in respect of complaint
+
+Under <a href="/doc/1823824/" id="a_12">Section 138</a> of the Act, make the payment of the cheque amount and
+
+CC No.3146/1/09                                                             Page no. 8 of 10
+<span class="hidden_text" id="span_7">                                             9</span>
+
+submit to the court that he had made the payment within 15 days of the receipt of
+
+summons (by receiving a copy of complaint with the summons) and, therefore,
+
+the complainant is liable to be rejected. A person who does not pay within 15
+
+days of receipt of summons from the court along-with the copy of complaint
+
+Under <a href="/doc/1823824/" id="a_13">Section 138</a> of the Act, can not obviously contend that there was no proper
+
+service of notice as required Under <a href="/doc/1823824/" id="a_14">Section 138</a>, by ignoring statutory presumption to
+
+the contrary Under Section 27 of G. C. Act and 114 of the <a href="/doc/1953529/" id="a_15">Evidence Act</a>."
+
+
+
+</p><p id="p_36">16.   In view of the aforesaid discussion, the Court has no hesitation in hereby arriving
+
+at the finding that the accused has failed to rebutt the presumption as envisaged u/s 118
+
+read with <a href="/doc/268919/" id="a_16">section 139</a> NI Act and the defence of the accused is highly superfluous,
+
+improbable and concocted one. Thus, the said defence of the accused stands rejected
+
+accordingly.
+</p>
+<p id="p_37">
+
+</p><p id="p_38">(ii) Final order :­
+
+
+
+</p><p id="p_39">17.   In view of the aforesaid discussion, the Court has no hesitation in arriving at the
+
+finding that the complainant has not been able to prove all the ingredients of the offence
+
+u/s 138 NI act 1881, beyond the shadow of reasonable doubt. Therefore, the accused
+
+hereby stands acquitted of the offence aforesaid.
+</p>
+<p id="p_40">
+
+
+</p><p id="p_41">CC No.3146/1/09                                                            Page no. 9 of 10
+<span class="hidden_text" id="span_8">                                           10</span>
+
+</p><p id="p_42">18.   Documents, if any, be released after cancellation of endorsements as per rules.
+
+P/B and S/B, if any, hereby stands discharged.</p><pre id="pre_2">
+
+
+
+Announced in the open Court on
+11th August 2014                                       (HARUN PRATAP)
+                                                 MM-01 (Central), THC/Delhi
+                                                     11.08.2014.
+
+
+
+
+CC No.3146/1/09                                                       Page no. 10 of 10
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

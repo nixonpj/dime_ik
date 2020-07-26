@@ -1,0 +1,821 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Govt. Of Nct Of Delhi And Ors. vs Sh. Krishan Kumar on 16 September, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/19918025/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:19918025">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/812938/">Ministry Of Finance &amp; Anr vs S.B. Ramesh on 2 February, 1998</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1406924/">Article 1 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/136341809/">Kuldeep Singh vs The Commissioner Of Police &amp; Ors on 17 December, 1998</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/559832/">Central Bank Of India Ltd., New ... vs Shri Prakash Chand Jain on 20 August, 1968</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/680932/">Union Of India vs Sardar Bahadur on 29 October, 1971</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/19918025/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/19918025/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/19918025/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Govt. Of Nct Of Delhi And Ors. vs Sh. Krishan Kumar on 16 September, 2015</div><pre id="pre_1">$~1
+      * IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                   + W.P.(C) 6990/2009
+
+                                        Date of judgment: September 16, 2015
+
+      GOVT. OF NCT OF DELHI AND ORS.                       ..... Petitioners
+                     Through : Mr. Satyakam, Addl. Standing Counsel for
+                               GNCTD.
+
+                                  Versus
+
+      SH. KRISHAN KUMAR                                                 ..... Respondent
+                    Through :              Mr. S.C. Luthra, Advocate.
+
+      CORAM:
+      HON'BLE MR. JUSTICE G.S.SISTANI
+      HON'BLE MS. JUSTICE SANGITA DHINGRA SEHGAL
+
+      G.S.SISTANI, J.
+</pre>
+<p id="p_1">1.      By way of the present Writ Petition, the Petitioner challenges the order dated
+        31.10.2008 passed by the Central Administrative Tribunal, Principal Bench,
+        New Delhi in O.A. No. 1191/2007, whereby the Tribunal has set aside the
+        punishment of removal imposed on the Respondent vide order dated
+        13.09.2006 and the order dated 15.03.2007 of the Appellate Authority.
+</p><p id="p_2">     2. To appreciate the controversy at hand, it would be necessary to give a brief
+        gist of the facts.
+</p><blockquote id="blockquote_1">               "2. The facts necessary to be considered in this case
+               would show that a memorandum dated 08.09.2005 was
+               issued to the Applicant under Central Civil Services
+               (Classification, Control and Appeal) Rules, 1965.
+               (hereafter CCS (CCA) Rules) under Rule 14, informing
+               the Applicant that it was proposed to hold major penalty
+
+<span class="hidden_text" id="span_1">W.P.(C) 6990/2009                                                             Page 1 of 18</span>
+               proceedings against him. The statement of imputation
+              of misconduct, annexed to the aforesaid) memorandum
+              reads thus :
+</blockquote><blockquote id="blockquote_2">              ANNEXXURE-1
+              <a href="/doc/1406924/" id="a_1">ARTICLE-1</a>
+              On 5.07.05 at about 1.00PM a call was received from
+              petition Officer's Warder, who was detailed for
+              surveillance at Jail No 8, that some financial dealing
+              between one of Warder and one outsider is going to be
+              finalized soon just opposite gate No.3. According Petition
+              officer's advised Sh. Vinay Thakur, AS and Parveen
+              Kumar, AS to go spot and investigate the matter. Both AS
+              reached at the spot &amp; waited at about 1.40PM. Warder
+              Kumar came on cycle and talk to an outsider and
+              thereafter enter to sulabh sochilya and was followed by
+              two outsider and petition Officer's warder in civil dress.
+              Sh. Krishan Kumar, Warder demanded Rs 150/- from
+              outsider and outsider gave him. AS Sh Vinay Thakur and
+              Sh Parveen Kumar Sinha, AS tried to catch hold him but
+              of a sudden he pushed and ran away by crossing the
+              small wall and threw the cheques and amount in open
+              ground, which were later on collected by Vinay Thakur
+              AS and Parveen Kumar Sinha, AS.
+</blockquote>
+<blockquote id="blockquote_3">              The above act on the part of Sh Krishan Kumar, Warder-
+              706 is highly objectionable as a Govt Servant which
+              shows lack absolute integrity and devotion towards his
+              duty thus Sh Krishan Kumar, Warder-706 has violated
+              Rule 3 of CCS (Conduct) Rules 1964.
+</blockquote>
+<blockquote id="blockquote_4">              ANNEXURE -II
+              <a href="/doc/1406924/" id="a_2">ARTICLE-1</a>
+              On 5.7.05 at about 1.00PM a call was received from
+              Petition Officer's Warder who was detailed for
+              surveillance at Jail No 8, that some financial dealing
+              between one of Warder and one outsider is going to be
+              finalized soon just opposite gate No 3. According petition
+<span class="hidden_text" id="span_2">W.P.(C) 6990/2009                                                          Page 2 of 18</span>
+               officer's advised Sh. Vinay Thakur, AS and Parveen
+              Kumar, AS to go (to the) spot and investigate the matter.
+              Both Vinay Thakur, AS and Parveen Kumar, AS reached
+              at the spot and waited at about 1.40PM. Warder Sh.
+              Krisha Kumar, demanded Rs 150/-from outsider and
+              outsider gave to him the same. Sh Viriay Thakur, AS and
+              Sh Parveen Kumar Sinha, AS tried to catch hold him but
+              of a sudden he pushed and ran away by crossing the
+              small wall and threw the cheques and amount in from
+              hand in open ground, which were later on collected by
+              AS Vinay Thakur and Parveen Kumar Sinha, AS.
+</blockquote>
+<blockquote id="blockquote_5">              On enquiry from outsider, it was revealed that the
+              warder has taken money in -lieu of the job of getting the
+              cheques signed from inside the Jail and thereafter return
+              the same to the outsider. The statement of the outsider
+              has been obtained which explains that outsider is Manish
+              whose father Ram Narayan S/0 Sube Sinha is lodged in
+              Jail No 8. As per the statement on 1.7.095 this Warder
+              Krishan Kumar range at their residence and stated that
+              he is having a letter from his father, it can be collected in
+              the evening at Delhi Cantt Railwlay Station Manish
+              collected the letter and paid him Rs 200f-. There after
+              they became acquaint with each other and hence the
+              dealing of today. The details of the cheques and amount
+              recovered is as under:-</blockquote><pre id="pre_2">
+
+              Cheque No 765987 and 675677
+              Amount                                       No.
+              Rs 50 note                             4LU-710940
+              Rs 50 note                             7 AU-790356
+              Rs 209 note                            33 M-318613
+              Rs 10 note                             55W-553926
+              Rs 10 note                             46W-909030
+
+
+</pre><blockquote id="blockquote_6">              3. An enquiry was held in these charges culminating in
+              the passing of the impugned orders at Annex A-1 and
+<span class="hidden_text" id="span_3">W.P.(C) 6990/2009                                                             Page 3 of 18</span>
+               Annex A-2.
+</blockquote><blockquote id="blockquote_7">              4. The Enquiry Officer has examined four witnesses for
+              the prosecution which include MPS Bali, the petition
+              Officer, Vinay Thakur and Praveen Kumar, the Assistant
+              Superintendents and Manish Singh, from whom bribe
+              was allegedly taken. Relevant parts of statements are
+              noted hereafter. MPS Bali, the Petition officer was
+              responsible for surveillance of the premises of the Jail.
+              He got information on 5.07.05 at about 1.00 PM that the
+              Applicant was to enter into monetary dealings with some
+              outsider near gate number 3 of the Jail. He would not
+              divulge the name of the informant, this being a secret. No
+              one was present in his office when this call was received.
+              He did not remember from where he called the two
+              Assistant Superintendents, Vinay Thakur and Praveen
+              Sinha. He was not present at the spot, where the alleged
+              incident took place. He just accepted the report dated
+              5.07.2005 given by the As.sistant Superintendents, who
+              were responsible officers. He had ascertained from the
+              Applicant that the latter commuted every day from
+              Gurgaon to Delhi Cantonment Railway Station.
+</blockquote><blockquote id="blockquote_8">              5. Praveen Kumar Sinha, Assistant Superintendent, said
+              that he stood by the facts recorded in his report dated
+              5.07.2005. We note, however, that this report has not
+              been exhibited.     The Applicant would, therefore, be
+              unaware of its contents. This contention has been
+              seriously raised by the learned counsel in his submission
+              on behalf of the Respondent. In fact this point has been
+              repeatedly raised by the Applicant in his statement of
+              defence before the Enquiry Officer and in his appeal
+              against the order of the Disciplinary Authority. He has
+              stated that he was present in the office of the Petition
+              Officer, M P Bali, along with the other Assistant
+              Superintendent Vinay Thakur, when the information was
+              received at about 1.00 PM on 5.07.2007 about the
+              impending monetary        transaction, adverted to in the
+              charge. He would not know the name of the warder who
+<span class="hidden_text" id="span_4">W.P.(C) 6990/2009                                                          Page 4 of 18</span>
+               gave the information.       The transaction of            the
+              transfer of money and giving of cheques to the Applicant
+              by Manish Singh did not take place in his presence as he
+              was standing outside the toilet. The charged officer
+              escaped by pushing one warder and Vinay Thakur , AS
+              both of whom were present in the toilet. He and other
+              warders were present outside the toilet. He stated that
+              the wall jumped over by the Respondent, while escaping
+              from the scene of the alleged misconduct was four feet
+              high. He did not know the name of the warder who called
+              to give this information. Sh. Vinay Thakur, AS on the
+              other hand stated that the call was received at 11.30AM.
+</blockquote><blockquote id="blockquote_9">              He was accompanied by the              other        Assistant
+              Superintendent, P K Sinha and two warders of Petition
+              officer's Branch at gate number 3. He did not remember
+              the names of the warder. He was positioned at the outer
+              entrance gate of the toilet and the incident of giving
+              and taking of money and cheques was not visible from
+              outside. According to him, the wall over which the
+              Applicant jumped was five to six feet high. Only one
+              warder of the petition Officer's Branch was present
+              inside the toilet. He P. K. Sinha and another warder were
+              at the 'out gate' of the toilet. Nobody pushed us. The
+              Applicant jumped over the wall on seeing them. It is
+              difficult not to notice the subtle and no subtle differences,
+              inaccuracies and in congruencies in the statements of the
+              witnesses. According to MPS Bali, he was alone in his
+              room when the information was received about the
+              possibility of the Applicant taking bribe. According to
+              both the Assistant Superintendents, they were present in
+              MPS Bali's room when the aforementioned information
+              was received. According to P. K. Sinha, the other
+              Assistant Superintendent Vinay Thakur was present
+              inside the toilet at the time of the alleged incident along
+              with a warder. However, according to Vinay Thakur, AS,
+              he was positioned along with P. K. Sinha at the out gate
+              along with two warders. Only one warder was present
+              inside the toilet. The number of warders, accompanying
+<span class="hidden_text" id="span_5">W.P.(C) 6990/2009                                                             Page 5 of 18</span>
+               them was two according to P. K. Sinha and three as per
+              AS Vinay Thakur's version. As per the imputation of
+              miss-conduct there was one warder from the Petition
+              Officer's Branch. However, these warders - one, two or
+              three - are anonymous. They are, if they exist, crucial
+              witnesses yet their names are not known to any of the
+              three witnesses from the department. One of the
+              Assistant      Superintendents says that the Applicant
+              pushed the other Assistant Superintendent, Vinay Thakur.
+              However, Vinay Thakur denied that he was pushed. In
+              the matter of the height of the wall, which the
+              Applicant jumped over, there is considerable variation.
+              A plan of the site drawn by a certified architect has
+              been placed at page 47 of paper book according to
+              which the height of the wall varies from eight feet nine
+              inches to five feet eight inches. This has also been
+              mentioned in paragraphs 4.37 and 5.9 (ii) of the 0.A. and
+              not contested the reply affidavit. Only an Olympian
+              could jump over this height from a near static
+              position, as in the instant case.     There is variation
+              also about the time when the call regarding the
+              Applicant likely to enter into some monetary
+              transaction was received by M. P. Bali. According to M.
+              P. Bali and P. K. Sinha, it was received at 1.00 PM.
+              According to Vinay Thakur, AS the time of the call was
+              11.30AM.
+</blockquote><blockquote id="blockquote_10">              6. The learned counsel for the Applicant has also
+              contended that it has been mentioned in the charge sheet
+              that Rs 150/- have been recovered from the site, when
+              the Applicant allegedly threw the money, which he had in
+              his hands but the amount mentioned in the imputation of
+              misconduct totals only to Rs 140/-. The argument is that
+              the entire enquiry shows extremely slip"-shod and casual
+              approach of the Respondent. It has also been pointed out
+              that it has been mentioned in the imputation of
+              misconduct that the Applicant arrived at the spot on his
+              cycle. The learned Counsel for the Applicant has argued
+
+<span class="hidden_text" id="span_6">W.P.(C) 6990/2009                                                         Page 6 of 18</span>
+               that any prudent person at the spot would have seized the
+              cycle after the Applicant allegedly ran away from the
+              spot by scaling or jumping over the wall. This could
+              have been a crucial piece of evidence. He would contend
+              that it only showed that the whole case against the
+              Applicant is concocted."
+</blockquote>
+<p id="p_3">3.     The Tribunal after considering the abovementioned facts and contentions of
+       both the counsels allowed the O.A. filed by the Respondent and held as
+       under:-
+</p><blockquote id="blockquote_11">              "We are convinced that this is a case of „no evidence‟
+              and the inquiry is also procedurally flawed, as discussed
+              in the preceding paragraphs."
+</blockquote>
+<p id="p_4">4.     It has been contended by the counsel for the petitioners that the learned
+       Tribunal failed to appreciate that in the Departmental Enquiry the matter is
+       to be decided on the basis of evidence led before the Enquiry Officer, the
+       charge is not to be proved on probability and circumstantial evidence also.
+</p><p id="p_5">5.     The counsel further argued that the Tribunal has failed to appreciate that the
+       report of Sh. Vinay Kumar Thakur, Assistant Superintendent and
+       Sh. Praveen Kumar Sinha, Assistant Superintendent dated 5th July, 2005 is a
+       listed document as Annexure-II to the chargesheet. Therefore, it cannot be
+       contented that it is neither an exhibited document nor the respondent is
+       aware of the same. The document was supplied to the Respondent with the
+       chargesheet and is exhibited in the Enquiry proceedings. Thereafter, the
+       counsel also argued that the Tribunal has failed to appreciate that the
+       demand was of Rs. 150/- and recovery amount was Rs. 140/- when the
+       money and the unsigned cheques are recovered and fault or discrepancy has
+
+
+<span class="hidden_text" id="span_7">W.P.(C) 6990/2009                                                         Page 7 of 18</span>
+        been pointed out with respect of recovery the question of disbelieving the
+       evidence does not arise.
+</p><p id="p_6">6.     The counsel for the petitioners further contended that the Tribunal has failed
+       to appreciate that even though a call is received at 11:30AM, it is not
+       unusual that the culprit was caught at 1:40PM and this fact in any case is not
+       denied by the Respondent. In fact, he had admitted that he had gone to the
+       toilet at the relevant time which should have been accepted. Furthermore, it
+       is well settled law that disciplinary proceedings are not criminal
+       proceedings. The standard of proof required is that of pre-ponderance of the
+       probability and not proof beyond reasonable doubt vide <a href="/doc/680932/" id="a_3">Union of India v.
+       Sardar Bahadur</a> reported in 1972 (2) SCR 225, it is further submitted that
+       strict rules of procedures and proof do not apply to a departmental enquiry
+       vide <a href="/doc/857028/" id="a_4">Union of India v. A. Nagamalleshwara Rao</a>, reported in AIR 1998 SC
+</p><p id="p_7">       111.
+</p><p id="p_8">7.     Whereas the counsel for the respondent argued that none of the three official
+       witnesses against the respondent is an eye witness of the incident. The
+       warder or warders, who were allegedly inside the toilet watching the money
+       changing hands from Manish Singh to the Respondent, have not been
+       produced as witnesses. Even their names are not known which would be a
+       fatal flaw in conducting the disciplinary proceedings.
+</p><p id="p_9">8.     The learned counsel further contends that there have been serious procedural
+       irregularities in the enquiry. It is mandatory under Rule 14(18) of the CCS
+       (CCA) Rules, 1965 that the Enquiry Officer should examine the charged
+       official by informing him about the circumstances appearing against him and
+       asking for his explanation. The Enquiry Officer failed to do so. If the
+
+<span class="hidden_text" id="span_8">W.P.(C) 6990/2009                                                         Page 8 of 18</span>
+        Enquiry officer failed to so, it would vitiate the enquiry. Rule 14 (18) is
+       reproduced below:-
+</p><blockquote id="blockquote_12">              "(18) The inquiring authority may, after the Government
+              servant closes his case, and shall, if the Government
+              servant has not examined himself, generally question him
+              on the circumstances appearing against him in the
+              evidence for the purpose of enabling the Government
+              Servant to explain any circumstances appearing in the
+              evidence against him."
+</blockquote>
+<p id="p_10">9.     The counsel for respondent argued that the Government of NCT of Delhi
+       had issued a circular dated 25.11.2005 cautioning the concerned authorities
+       to follow the rules strictly. The circular is quoted below:
+</p><blockquote id="blockquote_13">              "Sub: Conducting of departmental inquiries under the
+              CCS (CCA) Rules, 1965, it has been observed by the
+              Chief Secretary, Delhi that the officers of NCT of Delhi,
+              who are appointed as part time inquiring Authorities for
+              conducting departmental inquiries under the CCS (CCA)
+              Rules, 1965 against the officials of Govt of NCT of Delhi
+              do not scrupulously follow the procedure as laid down
+              u/r 14 of the CCS (CCA) Rules, 1965. In most of the
+              cases, the Inquiring Authorities invent their own
+              procedure and drift away from the prescribed procedure
+              of rule. It has frequently been observed that the Inquiring
+              Authorities do not obtain the defence of the Charged
+              Officers after the conclusion of Disciplinary Authority's
+              case and also do not conduct the general examination of
+              the charged officer on the circumstances appearing in
+              the evidence against them as provided under sub-rule 16
+              &amp; 18 of Rule 14 of the CCS (CCA) Rules, 1965. Although
+              shortcomings seen trivial yet these are sufficient enough
+              to render the entire proceedings ab-initio. In order to
+              avert such situations, the inquiry has been remitted to the
+              Inquiry Authorities for holding further inquiry, which
+              delays the finalization of Disciplinary proceedings
+<span class="hidden_text" id="span_9">W.P.(C) 6990/2009                                                           Page 9 of 18</span>
+               against the Charged Officers and they have to suffer
+              mental agony due to pendency of disciplinary
+              proceedings.
+</blockquote><blockquote id="blockquote_14">              The Chief Secretary, Delhi has expressed his displeasure
+              about these procedural lapses repeatedly committed by
+              the Inquiring Authorities. in conducting the inquiries
+              under Rule 14 of CCS (CCA) Rules, 1965 and directed
+              that all officers, who are appointed as Inquiring
+              Authorities must scrupulously follow the provisions as
+              laid down u/r 14 of the CCS (CCA) Rules, 1965. Any
+              laxity on the Inquiring Authorities in this regard will be
+              viewed seriously and would be taken against them."
+</blockquote>
+<p id="p_11">10.    The Hon'ble Supreme Court in <a href="/doc/812938/" id="a_5">Ministry of Finance &amp; Anr v. S. B</a>.
+</p><p id="p_12">       Ramesh, (1998) 3 SCC 227 has favourably considered the observations
+       of this Tribunal in regard to the mandatory nature of Rule 14 (18) of CCS
+       (CCA) Rules follows:
+</p>
+<blockquote id="blockquote_15">              "13. It is necessary to set out the portions from the order
+              of the Tribunal which gave the reasons to come to
+              the conclusion that the order of the Disciplinary
+              Authority was based on no evidence and the findings
+              were perverse. The Tribunal, after extracting in full the
+              evidence of SW-1, the only witness examined on the side
+              of the prosecution, and after extracting also the
+              proceedings of the Enquiry Officer dated 18.6.2991,
+              observed as follows:
+</blockquote><blockquote id="blockquote_16">               "After these proceedings on 18.6.1991 the Enquiry
+              Officer has only received the brief from the PO and then
+              finalized the report. This shows that the Enquiry Officer
+              has not attempted to question the applicant on the
+              evidence appearing against him in the proceedings dated
+              18.6.1991. Under sub-rule (18) of Rule 14 of the CCS
+              (CCA) Rules, it is incumbent on the Enquiry Authority to
+              question the officer       facing      the        charge,
+              broadly on the evidence appearing against him in a
+
+<span class="hidden_text" id="span_10">W.P.(C) 6990/2009                                                           Page 10 of 18</span>
+               case where the officer does not offer himself for
+              examination as a witness. This mandatory provision of
+              the CCS (CCA) Rules has been lost sight of by the
+              Enquiry Authority.       The learned counsel for the
+              respondents argued that as the inquiry itself was held ex
+              parte as the applicant did not appear in response to
+              notice, it was not possible for the Enquiry Authority to
+              question the applicant. This argument has no force
+              because, on 18.6.1991 when the inquiry was held for
+              recording the evidence in support of the charge even if
+              the Enquiry Officer has set the applicant ex parte and
+              recorded the evidence, he should have adjourned the
+              hearing to another date to enable the applicant to
+              participate in the enquiry hereafter/or even if the Enquiry
+              Authority did not choose to give the applicant an
+              opportunity to cross-examine the witness examined in
+              support of the charge, he should have given an
+              opportunity to the applicant to appear and then
+              proceeded to question him under sub-rule (18) of Rule 14
+              of CCS (CCA) Rules.       The omission to do this is a
+              serious error committed by the Enquiry Authority."
+</blockquote><p id="p_13">11.    The counsel for the respondent argued that the evidence adduced before the
+       Enquiry Officer does not link him with the alleged misconduct. Reliance has
+       been placed on Sher Bahadur Vs Union of India and others, (2002) 7 SCC
+       142, in which the Hon'ble Supreme Court has held that:
+</p><blockquote id="blockquote_17">              "7. It may be observed that the expression sufficiency of
+              evidence" postulates existence of some evidence which
+              links the charged officer with the misconduct alleged
+              against him. Evidence, however voluminous it may be,
+              which is neither relevant in a broad sense nor establishes
+              any nexus between the alleged misconduct and the
+              charged officer, is no evidence in law. The mere fact that
+              the enquiry officer has noted in his report, "in view of
+              oral, documentary and circumstantial evidence as
+
+
+<span class="hidden_text" id="span_11">W.P.(C) 6990/2009                                                           Page 11 of 18</span>
+               adduced in the enquiry'' would not in principle satisfy the
+              rule of sufficiency of evidence."
+</blockquote>
+<p id="p_14">12.    To decide the present case in hand we are of the view that it is important to
+       discuss the law laid down by the Apex Court in regard to the contention of
+       the Counsels that the Tribunal can not look into the evidence adduced in a
+       disciplinary enquiry in judicial review. The Hon'ble Apex Court in <a href="/doc/136341809/" id="a_6">Kuldeep
+       Singh v. The Commissioner of Police and Ors</a>: (1999) 2 SCC 10, held:
+</p><blockquote id="blockquote_18">              "8. Normally the High Court and this Court would not
+              interfere with the findings of fact recorded at the
+              domestic enquizy but if the finding of "guilt" is based on
+              no evidence, it would be a perverse finding and would be
+              amendable to judicial scrutiny.
+</blockquote><blockquote id="blockquote_19">              9. A broad distinction has, therefore, to be maintained
+              between the decisions which are perverse and those
+              which are not. If a decision is arrived at on no evidence
+              or evidence which is thoroughly unreliable and no
+              reasonable person would act upon it, the order would be
+              perverse. But if there is some evidence on record which is
+              acceptable and which could be relied upon, howsoever
+              compendious it may be, the conclusions would not be
+              treated as perverse and the findings would not          be
+              interfered with".
+</blockquote>
+<p id="p_15">13.    In Sher Bahadur Vs Union of India and others, (2002) 7 SCC 142 the
+       Hon'ble Apex Court held:
+</p>
+<blockquote id="blockquote_20">                     "7. It may be observed that the expression
+                    "sufficiency of evidence" postulates existence of
+                    some evidence which links the charged officer with
+                    the misconduct alleged against him. Evidence,
+                    however, voluminous it .may be, which is neither
+                    relevant in a broad sense nor establishes any nexus
+                    between · the alleged misconduct and the charged
+                    officer, is no evidence in law. The mere fact that the
+
+<span class="hidden_text" id="span_12">W.P.(C) 6990/2009                                                            Page 12 of 18</span>
+                     enquiry officer has noted in his report, "in view of
+                    oral, documentary and circumstantial evidence as
+                    adduced in the enquiry', would not in principle
+                    satisfy the rule of sufficiency of evidence. Though,
+                    the disciplinary authority cited one witness Sh.
+                      R. A. Vashist, Ex CVI/Northern Railway, New
+                    Delhi, in      support of the charges, he was not
+                    examined.      Regarding documentary evidence, Ex
+                    P-0 1, referred to in the enquiry report and adverted
+                    to by the High Court, is the order of appointment of
+                    the appellant which is a neutral fact. The enquiry
+                    officer examined the charged officer but nothing is
+                    elicited to connect him with the charge. The
+                    statement of the appellant recorded by the enquiry
+                    officer shows no more than his working earlier to
+                    his re-engagement during the period between May
+                    1978 and November 1979 in difference phases.
+                    Indeed, his statement was not relied upon by the
+                    enquiry officer. The finding of the enquiry officer
+                    that in view of the oral, documentary and
+                    circumstantial evidence, the charge against the
+                    appellant for securing the fraudulent appointment
+                    letter duly signed by the said APO (Canst) was
+                    proved is, in the light of the above discussion,
+                    erroneous. In our view, this is clearly a case of
+                    finding the appellant guilty of .charge without
+                    having any evidence to link the appellant with the
+                    alleged misconduct. The High Court did not
+                    consider this aspect in its proper perspective as
+                    such the judgment and order of the High Court and
+                    the order of the disciplinary authority, under
+                    challenge, cannot be sustained, they are accordingly
+                    set aside.
+</blockquote><p id="p_16">14.    <a href="/doc/812938/" id="a_7">In Ministry of Finance &amp; Anr v. S. B. Ramesh</a>, (1998) 3 SCC 227, the
+       Hon'ble Apex Court clearly approved the following part of the order of the
+       Tribunal.
+</p>
+<span class="hidden_text" id="span_13">W.P.(C) 6990/2009                                                           Page 13 of 18</span>
+<blockquote id="blockquote_21">               "14. It is necessary to set out the portions from the order
+              of the Tribunal which gave the reasons to come to the
+              conclusion that the order of the Disciplinary Authority
+              was based on no evidence and the findings were
+              perverse. The Tribunal, after extracting in full the
+              evidence of SW-1, the only witness examined on the side
+              of the prosecution, and after extracting also the
+              proceedings of the Enquiry Officer dated 18.6.91,
+              observed as follows:-
+</blockquote><blockquote id="blockquote_22">              "After these proceedings on 18.6.91 the Enquiry Officer
+              has only received the brief from the PO and then
+              finalised the report. This shows that the Enquiry Officer
+              has not attempted to question the applicant on the
+              evidence appearing against him in the proceedings dated
+              18.6.91. Under Sub-Rule 18 of Rule 14 of the CCS (CCA)
+              Rules, it is incumbent on the Enquiry authority to
+              question the officer facing the charge, broadly on the
+              evidence appearing against him in a case where the
+              officer does not offer himself for examination as a
+              witness. This mandatory provision of the CCS (CCA)
+              Rules has been lost sight of by the Enquiry authority. The
+              learned counsel for the respondents argued that as the
+              inquiry itself was held ex-parte as the applicant did not
+              appear in response to notice, it was not possible for the
+              Enquiry authority to question the applicant. This
+              argument has no force because, on 18.6.91 when the
+              inquiry was held for recording the evidence in support of
+              the charge, even if the Enquiry Officer has set the
+              applicant ex-parte and recorded the evidence, he should
+              have adjourned the hearing to another date to enable the
+              applicant to participate in the enquiry hereafter/or even
+              if the inquiry authority did not choose to give the
+              applicant an opportunity to cross-examine the witness
+              examined in support of the charge, he should have given
+              an opportunity to the applicant to appear and then
+              proceeded to question him under sub-rule 18 of Rule 14
+              of CCS (CCA) Rules. The omission to do this is a serious
+              error committed by the enquiry authority. Secondly, we
+<span class="hidden_text" id="span_14">W.P.(C) 6990/2009                                                           Page 14 of 18</span>
+               notice that the enquiry authority has marked as many as
+              7 documents in support of the charge, while SW-1 has
+              proved only one document, namely, the statement of Smt.
+              K.R. Aruna alleged to have been recorded in his
+              presence. How the other documents were received in
+              evidence are not explained either in the report of the
+              enquiry authority or in the proceedings. Even if the
+              documents which were produced along with the charge
+              sheet were all taken on record, unless and until the
+              applicant had requested the enquiry officer to mark
+              certain documents in evidence on his side, the enquiry
+              authority had no jurisdiction in marking all those
+              documents which he had called for the purpose of
+              defending himself on the side of the applicant while he
+              has not requested for making of these documents on his
+              side. It is seen that some of these documents which is
+              marked on the side of the defence not at the instance of
+              the applicant, has been made use of by the enquiry
+              authority to reach a finding against the applicant. This
+              has been accepted by the disciplinary authority also. We
+              are of the considered view that this is absolutely
+              irregular and has prejudiced the case of the applicant.
+              These documents, which were not proved in accordance
+              with law should not have been received in evidence and
+              that, any inference drawn from these documents is
+              misplaced and opposed to law. We further find that the
+              enquiry authority as well as, the disciplinary authority
+              have freely made use of the statement alleged to have
+              been made by Smt. K.R. Aruna in the presence of SW1
+              and it was on that basis that they reached the conclusion
+              that the applicant was living with Smt. K.R. Aruna and
+              that, he was the father of the two children of Smt. K.R.
+              Aruna. The S.W. 1 in his deposition which is extracted
+              above, has not spoken to the details contained in the
+              statement of Smt. K.R. Aruna which was marked as Ex.1.
+              Further it is settled law that any statement recorded
+              behind the back of a person can be made use of against
+              him in a proceeding unless the person who is said to have
+<span class="hidden_text" id="span_15">W.P.(C) 6990/2009                                                         Page 15 of 18</span>
+               made that statement is made available for cross-
+              examination, to prove his or her veracity. The
+              disciplinary authority has not even chosen to include
+              Smt. K.R. Aruna in the list of witnesses for offering her
+              for being cross-examined for testing the veracity of the
+              documents exhibited at Ex. 1 which is said to be her
+              statement. Therefore, we have no hesitation in coming to
+              the conclusion that the enquiry authority as well as, the
+              disciplinary authority have gone wrong in placing
+              reliance on Ex. 1 which is the alleged statement of Smt.
+              K.R. Aruna without offering Smt. K.R. Aruna as a witness
+              for cross-examination. The applicant's case is that the
+              statement was recorded under coercion and duress and
+              the finding based on this statement is absolutely
+              unsustainable as the same is not based on legal evidence.
+              The other documents relied on by the Enquiry authority,
+              as well as by the disciplinary authority for reaching the
+              conclusion that the applicant and Smt. K.R. Aruna were
+              living together and that they have begotten two children
+              have also been not proved in the manner in which they
+              are required to be proved."
+</blockquote>
+<p id="p_17">15.    <a href="/doc/559832/" id="a_8">In Central Bank of India v. Prakash Chand Jain</a>: AIR 1969 SC 983, the
+       Hon'ble Apex Court held:
+</p><blockquote id="blockquote_23">              "...The principle that a fact sought to be proved must be
+              supported by statements made in the presence of the
+              person against whom the enquiry is held and that
+              statements made behind the back of the person charged
+              are not to be treated as substantive evidence, is one of
+              the basic principles which cannot be ignored..."
+</blockquote>
+<p id="p_18">16.    <a href="/doc/566747/" id="a_9">In Union of India v. K. A. Kittu and others</a>: (2001) 1 SCC 65, the Hon'ble
+       Apex Court considered the scope of the judicial review and observed the
+       following after hearing the counsel for the parties:
+</p>
+
+
+<span class="hidden_text" id="span_16">W.P.(C) 6990/2009                                                         Page 16 of 18</span>
+<blockquote id="blockquote_24">               "6. We have heard Mr. Mukul Rohtagi, learned
+              Additional Solicitor General for the appellant and Mr. K.
+              Sukumaran, learned senior counsel for the respondent.
+</blockquote>
+<blockquote id="blockquote_25">              7. On behalf of the appellant it has been urged that the
+              Tribunal acted as an Appellate Court which is erroneous
+              in as much as in exercising power of judicial review the
+              Tribunal could not have re-appreciated the evidence on
+              record. It has also been urged that it is not a case of no
+              evidence and therefore the tribunal ought not to have
+              interfered with the finding of the inquiry Officer.
+</blockquote>
+<blockquote id="blockquote_26">              8. In reply the learned senior counsel for the respondent
+              has urged that the Tribunal in the impugned judgment
+              clearly noticed by referring to the decisions of this Court
+              the power of judicial review by the Tribunal. It has also
+              been contended that Tribunal rightly held that the inquiry
+              report was bad in law, in as much as evidence of all the
+              witnesses examined by the delinquent officer was not at
+              all considered by the Tribunal.
+</blockquote>
+<blockquote id="blockquote_27">              9. On perusal of the judgment we find that Tribunal also
+              held that Inquiry Officer was biased and also there was
+              violation of principle of natural justice."
+</blockquote><p id="p_19">17.    Similarly, in <a href="/doc/610401/" id="a_10">M.V. Bijlani v. Union of India and others</a>, (2006) 5 SCC 88,
+       the Hon'ble Apex Court considered the scope of judicial review and held:
+</p><blockquote id="blockquote_28">              "25. It is true that the jurisdiction of the court in judicial
+              review is limited. Disciplinary proceedings, however,
+              being quasi-criminal in nature, there should be some
+              evidences to prove the charge. Although the charges in a
+              departmental proceedings are not required to be proved
+              like a criminal trial, i.e., beyond all reasonable doubts,
+              we cannot lose sight of the fact that the Enquiry Officer
+              performs a quasi-judicial function, who upon analysing
+              the documents must arrive at a conclusion that there had
+
+<span class="hidden_text" id="span_17">W.P.(C) 6990/2009                                                              Page 17 of 18</span>
+               been a preponderance of probability to prove the charges
+              on the basis of materials on record. While doing so, he
+              cannot take into consideration any irrelevant fact. He
+              cannot refuse to consider the relevant facts."
+</blockquote>
+<p id="p_20">18.    On perusal of facts, submissions of both the counsels and law laid down by
+       the Hon'ble Apex Court in regard to the present case, we are in consonance
+       with the view of the Tribunal that the order passed by the Disciplinary
+       Authority and Appellate Authority are quashed and set aside and the law in
+       this regard is well settled by the Hon'ble Supreme Court in many cases.
+       Therefore, we find that the whole edifice of the enquiry has no foundation,
+       which will collapse at the slightest probing. The counsel for the Respondent
+       has given brief of his defence to the Enquiry Officer, which a very well
+       drafted document with cogent argument to repel the case of the prosecution.
+       Not even one point of fact is considered by the Enquiry Officer. No
+       cognizance is taken by the Appellate Authority. The points raised in the
+       present petition, the order of the Appellate Authority is laconic and is a non-
+       speaking order.
+</p><p id="p_21">19.    Hence, we find no infirmity in the order of the Central Administrative
+       Tribunal which would require interference. The petition is without any merit
+       and the same is accordingly dismissed.
+</p>
+
+<p id="p_22">                                                                   G.S.SISTANI, J.
+</p>
+
+
+<p id="p_23">                                              SANGITA DHINGRA SEHGAL, J.
+</p>
+<p id="p_24">SEPTEMBER 16, 2015/gr
+
+<span class="hidden_text" id="span_18">W.P.(C) 6990/2009                                                         Page 18 of 18</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

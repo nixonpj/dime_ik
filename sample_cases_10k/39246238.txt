@@ -1,0 +1,955 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Baijlal &amp; Another vs State Of Chhattisgarh on 22 November, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/39246238/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 13 docs 
+      
+        - [<A HREF="/search/?formInput=cites:39246238">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1560742/">Section 302 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/626019/">Section 300 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/112749/">Section 114 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1364735/">Sridhar Bhuyan vs State Of Orissa on 9 August, 2004</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/39246238/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/39246238/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/39246238/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Chattisgarh High Court</div>
+<div class="doc_title">Baijlal &amp; Another vs State Of Chhattisgarh on 22 November, 2016</div><pre id="pre_1">                                     1
+
+                                                                      AFR
+
+          HIGH COURT OF CHHATTISGARH, BILASPUR
+
+                         CRA No. 561 of 2005
+
+   • Brijlal &amp; Another
+
+                                                            ---- Appellants
+
+                                   Versus
+
+   • State Of Chhattisgarh
+
+                                                         ---- Respondents
+
+
+
+For Appellants       :       Shri AK Prasad, Advocate
+For Respondents-State:       Shri Arvind Dubey, PL for the State
+
+
+              Hon'ble Shri Justice Prashant Kumar Mishra
+                Hon'ble Shri Justice Anil Kumar Shukla
+
+                         Order On Board By
+
+                      Prashant Kumar Mishra, J
+
+22/11/2016
+
+  1. Appellants have assailed the legality and validity of their
+
+     conviction under <a href="/doc/1560742/" id="a_1">Section 302</a> IPC and <a href="/doc/1560742/" id="a_2">Section 302</a>/<a href="/doc/112749/" id="a_3">114</a> IPC
+
+     respectively, for which they have been sentenced to undergo life
+
+     imprisonment and to pay a fine of Rs.1000/-. The charge is for
+
+     committing murder of deceased Birbal at about 4PM on
+
+     11-11-02.
+
+
+  2. Facts</pre><p id="p_1"> of the case, briefly stated, are that Beerasai, Hirasai and
+
+     Birbal     (deceased)   are     three   brothers.      The   accused
+
+     No.1/appellant No.1 Brijlal is the son of Beerasai whereas
+<span class="hidden_text" id="span_1">                                  2</span>
+
+  accused No.4 Hirasai is one amongst the above named three
+
+  brothers. Accused No.2 Lakhpati and accused No.3 Shesh Ram
+
+  are the sons of Hirasai.       Land belonging to Beerasai was
+
+  purchased by deceased Birbal in the name of her daughter-in-law
+
+  PW-7 Mohmati, however, on allegation that Birbal has not paid
+
+  the entire amount of consideration, Brijlal, S/o Beerasai was
+
+  claiming that the land still belongs to them.
+
+
+</p><p id="p_2">3. On the date and time of incident, deceased Birbal had brought
+
+  paddy and was dumping the same in the threshing yard (Kothar)
+
+  established on the disputed land. Brijlal raised objection as to
+
+  why Birbal is dumping paddy over there, on which Birbal stated
+
+  that he has already purchased the land and it belongs to him,
+
+  therefore, he has every right to use the same. Hearing this,
+
+  appellant Brijlal got enraged and while abusing the deceased he
+
+  was about to charge on him. Seeing Brijlal coming towards him,
+
+  deceased Birbal used "Silvas" (a kind of bamboo stick having
+
+  sharp edges on both ends) to stop Birjlal, due to which Brijlal fell
+
+  on the ground. Hearing the alarm/shout of Brijlal other accused
+
+  persons namely appellant No.2 Hirasai, Shesh Ram and Lakhpati
+
+  rushed to the place and Hirasai exhorted Brijlal to finish Birbal.
+
+  Brijlal got up, positioned himself and inflicted one axe blow on the
+
+  front part of right shoulder of deceased Birbal, on which he fell
+
+  down and started bleeding profusely. The incident was said to
+
+  be witnessed by PW-2 Fulbasiya, PW-3 Naphulan Bibi, PW-7
+<span class="hidden_text" id="span_2">                                3</span>
+
+  Mohamati, PW-9 Sadir Ali, PW-10 Ishhaq Ali &amp; PW-11 Jabir Ali.
+
+  While PW-2 Fulbasiya is the wife of deceased and PW-7
+
+  Mohamati is daughter-in-law of the deceased, the other
+
+  eyewitnesses are the neighbors of the deceased.
+
+
+</p><p id="p_3">4. The FIR (Ex-P/1) was lodged by PW-1 Ram Sai at about 19:00
+
+  hours on the date of incident. The postmortem was conducted
+
+  by PW-4 Dr. DK Vishwakarma, who submitted his report (Ex-P/4)
+
+  stating that cause of death is shock due to haemorrhage (due to
+
+  injury).   Nature of death is homicidal. Duration within 12-24
+
+  hours.     After recording case-diary statements of witnesses,
+
+  effecting seizure etc., the charge-sheet was filed against the
+
+  above stated four accused persons alleging commission of
+
+  offence under <a href="/doc/1560742/" id="a_4">Section 302</a>/<a href="/doc/112749/" id="a_5">114</a> IPC.       While accused No.2
+
+  Lakhpati and accused No.3 Shesh Ram have been acquitted of
+
+  the charges, the present appellant No.1 Brijlal has been
+
+  convicted under <a href="/doc/1560742/" id="a_6">Section 302</a> IPC and appellant No.2 Hirasai has
+
+  been convicted under <a href="/doc/1560742/" id="a_7">Section 302</a> IPC with the aid of <a href="/doc/112749/" id="a_8">Section
+
+  114</a> of IPC.
+</p>
+<p id="p_4">
+</p><p id="p_5">5. Shri AK Prasad, learned counsel for the appellants would argue
+
+  that there being material contradictions and omissions in the
+
+  statements of eyewitnesses, the entire prosecution case has
+
+  become doubtful, therefore, the appellants deserve to be
+
+  acquitted.    He would submit that the neighbours are the
+<span class="hidden_text" id="span_3">                                 4</span>
+
+  interested witnesses because PW-9 Sadir Ali is a witness in the
+
+  sale deed executed by Beerasai in favour of PW-7 Mohamati.
+
+  The other so called independent witnesses are members of
+
+  family of PW-9 Sadir Ali, therefore, all of them have joined
+
+  together to falsely implicate the accused persons.
+
+
+</p><p id="p_6">6. Per contra, Shri Arvind Dubey, learned State counsel would
+
+  support the impugned conviction on submission that all the
+
+  witnesses have remained firm on the substantive prosecution
+
+  case, therefore, minor contradictions or omissions, if any, would
+
+  not frustrate the case of the prosecution. According to him, the
+
+  present appellants' involvement in the crime is fully proved,
+
+  therefore, the impugned judgment deserves to be upheld.
+
+
+</p><p id="p_7">7. We have heard learned counsel for the parties at length and
+
+  perused the record.
+</p>
+<p id="p_8">
+</p><p id="p_9">8. The case of the prosecution rests on the statement of PW-2
+
+  Fulbasiya, PW-3 Naphulan Bibi, PW-9 Sadir Ali, PW-10 Ishhaq
+
+  Ali &amp; PW-11 Jabir Ali, while PW-2 Fulbasiya, PW-3 Naphulan Bibi
+
+  and PW-9 Sadir Ali has attributed exhortion made by appellant
+
+  No.2 Hirasai, the other witnesses PW-10 Ishhaq Ali &amp; PW-11
+
+  Jabir Ali have only stated that Hirasai did nothing and was merely
+
+  sitting at the place of incident. All the witnesses have stated that
+
+  it was Brijlal who inflicted one axe blow on the front side of right
+
+  shoulder on the person of deceased Birbal, therefore, the finding
+<span class="hidden_text" id="span_4">                                            5</span>
+
+         recorded by the trial Court that appellant Brijlal is guilty of
+
+         causing fatal injury to the deceased is fully borne out from the
+
+         record.
+</p>
+<p id="p_10">
+</p><p id="p_11">      9. There may be some minor contradictions &amp; omissions in the
+
+         statements of eyewitnesses, but there is no exaggeration which
+
+         would negate their entire evidence so as to brand them as
+
+         untrustworthy witness.
+</p>
+<p id="p_12">
+</p><p id="p_13">10.      In Thoti Manohar Vs. State of Andhra Pradesh 1, the Supreme Court has
+
+         held that minor discrepancies on trivial matters not touching the core of the
+
+         matter cannot bring discredit to the story of the prosecution. Giving undue
+
+         importance to them would amount to adopting a hyper-technical approach.
+
+         The Court, while appreciating the evidence, should not attach much
+
+         significance to minor discrepancies, for the discrepancies which do not
+
+         shake the basic version of the prosecution case are to be ignored. {See
+
+         State of U.P. Vs. M.K. Anthony2, Appabhai Vs. State of Gujarat3, Rammi
+
+         Vs. State of M.P.4, State of H.P. Vs. Lekh Raj 5, Laxman Singh Vs.
+
+         Poonam Singh6, Dashrath Singh Vs. State of U.P.7
+
+
+</p><p id="p_14">11.      With the above findings, we are now required to consider as to
+
+         what offence appellant Brijlal has committed in the given set of
+
+         evidence.        Thus, we are required to consider as to, if the
+
+         appellant had no intention or knowledge to commit culpable
+
+         homicide of the deceased, what would be the actual offence
+1     (2012) 7 SCC 723
+2     (1985) 1 SCC 505
+3     1988 Supp SCC 241
+4     (1999) 8 SCC 649
+5     (2000) 1 SCC 247
+6     (2004) 10 SCC 94
+7     (2004) 7 SCC 408
+<span class="hidden_text" id="span_5">                                     6</span>
+
+      committed by him and the commensurate             sentence which
+
+      should be imposed on the appellant.
+</p>
+<p id="p_15">
+</p><p id="p_16">12.   It is practically admitted position that both the factions have
+
+      subsisting dispute for a piece of land owned by Beera Sai which
+
+      was allegedly sold by way of sale deed in favour of PW-7
+
+      Mohamati, however, the entire consideration has not been paid
+
+      to Beerasai. With this background, when the incident took place,
+
+      the appellant Brijlal and deceased started quarreling by hurling
+
+      abuses.     Although appellant Brijlal initiated aggression by
+
+      charging over the deceased on which he used Silvas to bring
+
+      down appellant Brijlal on the ground, however, thereafter
+
+      appellant Brijlal gave only one axe blow on the front side of right
+
+      shoulder which is not vital part of the body. It is not the story of
+
+      the prosecution that appellant Birjlal wanted to cause injury over
+
+      the head of the deceased but somehow the injury was caused on
+
+      the shoulder. On the contrary, when Brijlal inflicted the injury and
+
+      the deceased fell down, Brijlal did not repeat the assault even
+
+      though he had enough time to repeat the assault as other
+
+      members of his family were available on the spot whereas Birbal
+
+      was all alone.
+</p>
+<p id="p_17">
+</p><p id="p_18">  13. The question as to when conviction under <a href="/doc/1560742/" id="a_9">Section 302</a> of the IPC
+
+      can be converted into culpable homicide, not amounting to
+
+      murder under Section 304 Part I &amp; Part II of the <a href="/doc/1569253/" id="a_10">IPC</a> has been
+<span class="hidden_text" id="span_6">                                       7</span>
+
+       considered by the Supreme Court in <a href="/doc/687095/" id="a_11">Bangaru Venkata Rao v.
+
+       State of Andhra Pradesh8</a> and it has been held thus in paras 10
+
+       &amp; 11 :
+</p>
+<p id="p_19">
+</p><blockquote id="blockquote_1">                       "10.    9.     The residuary plea [relates to the]
+                       applicability of Exception 4 to <a href="/doc/626019/" id="a_12">Section 300</a> IPC.
+</blockquote>
+<blockquote id="blockquote_2">                       10. For bringing in its operation it has to be estab-
+                       lished that the act was committed without premed-
+                       itation, in a sudden fight in the heat of passion
+                       upon a sudden quarrel without the offender having
+                       taken undue advantage and not having acted in a
+                       cruel or unusual manner.
+</blockquote>
+<blockquote id="blockquote_3">                       11. The Fourth Exception to <a href="/doc/626019/" id="a_13">Section 300</a> IPC cov-
+                       ers acts done in a sudden fight. The said Excep-
+                       tion deals with a case of prosecution not covered
+                       by the First Exception, after which its place would
+                       have been more appropriate. The Exception is
+                       founded upon the same principle, for in both there
+                       is absence of premeditation. But, while in the case
+                       of Exception 1 there is total deprivation of self-
+                       control, in case of Exception 4, there is only that
+                       heat of passion which clouds men's sober reason
+                       and urges them to deeds which they would not
+                       otherwise do. There is provocation in Exception 4
+                       as in Exception 1, but the injury done is not the di-
+                       rect consequence of that provocation. In fact Ex-
+                       ception 4 deals with cases in which notwithstand-
+                       ing that a blow may have been struck, or some
+                       provocation given in the origin of the dispute or in
+                       whatever way the quarrel may have originated, yet
+                       the subsequent conduct of both parties puts them
+                       in respect of guilt upon an equal footing. A 'sudden
+                       fight' implies mutual provocation and blows on
+                       each side. The homicide committed is then clearly
+                       not traceable to unilateral provocation, nor could in
+                       such cases the whole blame be placed on one
+                       side. For if it were so, the exception more appro-
+                       priately applicable would be Exception 1. There is
+                       no previous deliberation or determination to fight.
+                       A fight suddenly takes place, for which both par-</blockquote><p id="p_20">
+</p><p id="p_21">                       ties are more or less to be blamed. It may be that
+
+8   (2008) 9 SCC 707
+<span class="hidden_text" id="span_7">                8</span>
+
+one of them starts it, but if the other had not ag-
+gravated it by his own conduct it would not have
+taken the serious turn it did. There is then mutual
+provocation and aggravation, and it is difficult to
+apportion the share of blame which attaches to
+each fighter. The help of Exception 4 can be in-
+voked if death is caused (a) without premeditation,
+</p><p id="p_22">(b) in a sudden fight, (c) without the offenders hav-
+ing taken undue advantage or acted in a cruel or
+unusual manner, and (d) the fight must have been
+with the person killed. To bring a case within Ex-
+ception 4 all the ingredients mentioned in it must
+be found. It is to be noted that the 'fight' occurring
+in Exception 4 to <a href="/doc/626019/" id="a_14">Section 300</a> IPC is not defined in
+<a href="/doc/1569253/" id="a_15">IPC</a>. It takes two to make a fight. Heat of passion
+requires that there must be no time for the pas-
+sions to cool down and in this case, the parties
+have worked themselves into a fury on account of
+the verbal altercation in the beginning. A fight is a
+combat between two and more persons whether
+with or without weapons. It is not possible to enun-
+ciate any general rule as to what shall be deemed
+to be a sudden quarrel. It is a question of fact and
+whether a quarrel is sudden or not must necessar-
+ily depend upon the proved facts of each case.
+For the application of Exception 4, it is not suffi-
+cient to show that there was a sudden quarrel and
+there was no premeditation. It must further be
+shown that the offender has not taken undue ad-
+vantage or acted in cruel or unusual manner. The
+expression 'undue advantage' as used in the pro-
+vision means 'unfair advantage'.
+</p>
+<p id="p_23">11. '19. Where the offender takes undue advan-
+tage or has acted in a cruel or unusual manner,
+the benefit of Exception 4 cannot be given to him.
+If the weapon used or the manner of attack by the
+assailant is out of all proportion, that circumstance
+must be taken into consideration to decide
+whether undue advantage has been taken. <a href="/doc/1113505/" id="a_16">In
+Kikar Singh v. State of Rajasthan</a> it was held that if
+the accused used deadly weapons against the un-
+armed man and struck a blow on the head it must
+be held that by using the blows with the knowl-
+edge that they were likely to cause death he had
+taken undue advantage. In the instant case blows
+on vital parts of unarmed persons were given with
+brutality. The abdomens of two deceased persons
+<span class="hidden_text" id="span_8">                                       9</span>
+
+                       were ripped open and internal organs had come
+                       out. In view of the aforesaid factual position, Ex-
+                       ception 4 to <a href="/doc/626019/" id="a_17">Section 300</a> IPC has been rightly held
+                       to be inapplicable."
+</p>
+<p id="p_24">
+</p><p id="p_25">   14. Yet again the said aspect has been considered by the
+
+      Supreme Court in <a href="/doc/658878/" id="a_18">Mangesh v. State of Maharashtra9</a>, in the
+
+      following manner in para 13 :
+</p>
+<p id="p_26">
+</p><blockquote id="blockquote_4">                       "13.     The judgment cited by the learned counsel
+                       for the <a href="/doc/1173740/" id="a_19">State, Pulicherla Nagaraju v. State of A.P</a>.10,
+                       is quite distinguishable from the present case as in
+                       that case the knife-blow that caused death was
+                       given with full force and the single injury was
+                       found to be 12 cm deep. Even in that case the law
+                       has been laid down as under: (SCC p. 458, para
+</blockquote><blockquote id="blockquote_5">                       29)
+
+                              "29. ... The intention to cause death can be
+                       gathered generally from a combination of a few or
+                       several of the following, among other, circum-
+                       stances: (i) nature of the weapon used; (ii)
+                       whether the weapon was carried by the accused
+                       or was picked up from the spot; (iii) whether the
+                       blow is aimed at a vital part of the body; (iv) the
+                       amount of force employed in causing injury; (v)
+                       whether the act was in the course of sudden quar-
+                       rel or sudden fight or free for all fight; (vi) whether
+                       the incident occurs by chance or whether there
+                       was any premeditation; (vii) whether there was
+                       any prior enmity or whether the deceased was a
+                       stranger; (viii) whether there was any grave and
+                       sudden provocation, and if so, the cause for such
+                       provocation; (ix) whether it was in the heat of pas-
+                       sion; (x) whether the person inflicting the injury
+                       has taken undue advantage or has acted in a
+                       cruel and unusual manner; (xi) whether the ac-
+                       cused dealt a single blow or several blows. The
+                       above list of circumstances is, of course, not ex-</blockquote><p id="p_27">
+</p><p id="p_28">                       haustive and there may be several other special
+                       circumstances with reference to individual cases
+
+9 (2011) 2 SCC 123
+10 (2006) 11 SCC 444
+<span class="hidden_text" id="span_9">                                              10</span>
+
+                           which may throw light on the question of inten-
+                           tion." This Court has reiterated the same view in
+                           <a href="/doc/1364735/" id="a_20">Sridhar Bhuyan v. State of Orissa11</a> and <a href="/doc/1207680/" id="a_21">Gali
+                           Venkataiah v. State of A.P</a>.12"
+</p>
+<p id="p_29">
+</p><p id="p_30">     15. In a recent case in the matter of <a href="/doc/191708584/" id="a_22">Dilip Kumar Mondal and
+
+        another v. State of West Bengal</a> 13, the Supreme Court has held
+
+        in paragraph 22 as under:
+</p>
+<blockquote id="blockquote_6">                           "22.     This Court in <a href="/doc/1364735/" id="a_23">Sridhar Bhuyan v. State of
+<span class="hidden_text" id="span_10">                                   14</span>
+                           Orissa</a> reaffirmed the same and held as under
+                           (SCC pp. 396-97, paras 7-8).
+</blockquote><blockquote id="blockquote_7">                           "7.      For bringing in operation of Exception 4 to
+                           <a href="/doc/626019/" id="a_24">Section 300</a> IPC, it has to be established that the
+                           act was committed without premeditation, in a
+                           sudden fight in the heat of passion upon a sudden
+                           quarrel without the offender having taken undue
+                           advantage and not having acted in a cruel or un-
+                           usual manner.
+</blockquote><blockquote id="blockquote_8">                           8. The Fourth Exception to <a href="/doc/626019/" id="a_25">Section 300</a> IPC covers
+                           acts done in a sudden fight. The said Exception
+                           deals with a case of prosecution not covered by
+                           the First Exception, after which its place would
+                           have been more appreciate. The Exception is
+                           founded upon the same principle, for in both there
+                           is absence of premeditation. But, while in the case
+                           of Exception 1 there is total deprivation of self-
+                           control, in case of Exception 4, there is only that
+                           heat of passion which clouds men's sober reason
+                           and urges them to deeds which they would not
+                           otherwise do. There is provocation in Exception 4
+                           as in Exception 1; but the injury done is not the di-
+                           rect consequence of that provocation. In fact Ex-
+                           ception 4 deals with cases in which notwithstand-</blockquote><p id="p_31">
+</p><p id="p_32">                           ing that a blow may have been struck, or some
+                           provocation given in the origin of the dispute or in
+                           whatever way the quarrel may have originated, yet
+                           the subsequent conduct of both parties puts them
+                           in respect of guilt upon equal footing. A 'sudden
+                           fight' implies mutual provocation and blows on
+                           each side. The homicide committed is then clearly
+11   (2004) 11 SCC 395
+12   (2007) 14 SCC 475
+13   (2015) 3 SCC 433
+14   (2004) 11 SCC 395 : 2004 SCC (Cri) Supp 98
+<span class="hidden_text" id="span_11">                                      11</span>
+
+                       not traceable to unilateral provocation, nor in such
+                       cases could the whole blame be placed on one
+                       side. For if it were so, the exception more appro-
+                       priately applicable would be Exception 1. There is
+                       no previous deliberation or determination to fight.
+                       A fight suddenly takes place, for which both par-
+                       ties are more or less to be blamed. It may be that
+                       one of them starts it, but if the other had not ag-
+                       gravated it by his own conduct it would not have
+                       taken the serious turn it did. There is then mutual
+                       provocation and aggravation, and it is difficult to
+                       apportion the share of blame which attaches to
+                       each fighter. The help of Exception 4 can be in-
+                       voked if death is caused; (a) without premedita-
+                       tion; (b) in a sudden fight; (c) without the of-
+                       fender's having taken undue advantage or acted
+                       in a cruel or unusual manner; and (d) the fight
+                       must have been with the person killed. To bring a
+                       case within Exception 4 all the ingredients men-
+                       tioned in it must be found. It is to be noted that the
+                       word 'fight' occurring in Exception 4 to <a href="/doc/626019/" id="a_26">Section 300</a>
+                       IPC is not defined in <a href="/doc/1569253/" id="a_27">IPC</a>. It takes two to make a
+                       fight. Heat of passion requires that there must be
+                       no time for the passions to cool down and in this
+                       case, the parties have worked themselves into a
+                       fury on account of the verbal altercation in the be-
+                       ginning. A fight is a combat between two or more
+                       persons whether with or without weapons. It is not
+                       possible to enunciate any general rule as to what
+                       shall be deemed to be a sudden quarrel. It is a
+                       question of fact and whether a quarrel is sudden
+                       or not must necessarily depend upon the proved
+                       facts of each case. For the application of Excep-
+                       tion 4, it is not sufficient to show that there was a
+                       sudden quarrel and there was no premeditation. It
+                       must further be shown that the offender has not
+                       taken undue advantage or acted in a cruel or un-
+                       usual manner. The expression 'undue advantage'
+                       as used in the provision means 'unfair
+                       advantage'."
+</p>
+<p id="p_33">16.   It has been further held in para 20 in the matter of Bivash
+
+      Chandra Debnath alias <a href="/doc/176508677/" id="a_28">Bivash &amp; others vs. State of West
+
+      Bengal15</a>, as under:
+</p>
+<p id="p_34">15 (2015) 11 SCC 283
+<span class="hidden_text" id="span_12">                                                 12</span>
+
+                          "20.     On appreciation of evidence on record of
+                          the present case, we agree with the contention of
+                          the learned Senior Counsel for the appellants that
+                          since it is a case of sudden fight and there was no
+                          premeditation on the part of the appellants and the
+                          offenders have not acted in "unusual manner",
+                          their acts are covered under Exception 4 to Sec-
+                          tion 300 <a href="/doc/1569253/" id="a_29">IPC</a>. In the similar case in <a href="/doc/1173740/" id="a_30">Pulicherla Na-
+                          garaju v. State of A.P</a>.16, in para 29, this Court
+                          has discussed the issue as to when the conviction
+                          can be converted from an offence punishable un-
+                          der <a href="/doc/1560742/" id="a_31">Section 302</a> IPC to Section 304 Part I or Sec-
+                          tion 304 Part II <a href="/doc/1569253/" id="a_32">IPC</a> and the same is reproduced
+                          hereunder: (SCC pp. 457-58, para 29)
+
+                             "29. Therefore, the Court should proceed to de-
+                          cide the pivotal question of intention, with care and
+                          caution, as that will decide whether the case falls
+                          under <a href="/doc/1560742/" id="a_33">Section 302</a> or 304 Part I or 304 Part II.
+                          Many petty or insignificant matters - plucking of a
+                          fruit, straying of cattle, quarrel of children, utter-
+                          ance of a rude word or even an objectionable
+                          glance, may lead to altercations and group
+                          clashes culminating in deaths. Usual motives like
+                          revenge, greed, jealousy or suspicion may be to-
+                          tally absent in such cases. There may be no inten-
+                          tion. There may be no premeditation. In fact,
+                          there may not even be criminality. At the other
+                          end of the spectrum, there may be cases of mur-
+                          der where the accused attempts to avoid the
+                          penalty for murder by attempting to put forth a
+                          case that there was no intention to cause death. It
+                          is for the courts to ensure that the cases of murder
+                          punishable under <a href="/doc/1560742/" id="a_34">Section 302</a>, are not converted
+                          into offences punishable under Section 304 Part
+                          I/II, or cases of culpable homicide not amounting
+                          to murder are treated as murder punishable under
+                          <a href="/doc/1560742/" id="a_35">Section 302</a>. The intention to cause death can be
+                          gathered generally from a combination of a few or
+                          several of the following, among other, circum-
+                          stances; (i) nature of the weapon used; (ii)
+                          whether the weapon was carried by the accused
+                          or was picked up from the spot; (iii) whether the
+                          blow is aimed at a vital part of the body; (iv) the
+                          amount of force employed in causing injury; (v)
+                          whether the act was in the course of sudden quar-
+
+16 (2006) 11 SCC 444 : (2007) 1 SCC (Cri) 500
+<span class="hidden_text" id="span_13">                                     13</span>
+
+                     rel or sudden fight or free for all fight; (vi) whether
+                     the incident occurs by chance or whether there
+                     was any premeditation; (vii) whether there was
+                     any prior enmity or whether the deceased was a
+                     stranger;(viii) whether there was any grave and
+                     sudden provocation, and if so, the cause for such
+                     provocation; (ix) whether it was in the heat of pas-
+                     sion; (x) whether the person inflicting the injury
+                     has taken undue advantage or has acted in a
+                     cruel and unusual manner; (xi) whether the ac-
+                     cused dealt a single blow or several blows. The
+                     above list of circumstances is, of course, not ex-
+                     haustive and there may be several other special
+                     circumstances with reference to individual cases
+                     which may throw light on the question of intention.
+                     "Be that as it may".
+</p>
+<p id="p_35">17.   The law is thus well settled that when the assailant had no
+
+      intention to commit the murder but had knowledge that the
+
+      deceased may die after sustaining injury, the case would fall
+
+      under <a href="/doc/1569253/" id="a_36">Section 304-II</a> of the IPC. There is a reason as to why the
+
+      case would fall under <a href="/doc/1569253/" id="a_37">Section 304-II</a> and not under <a href="/doc/1569253/" id="a_38">Section 304-I</a>
+
+      because in para 13 of his deposition PW4-Dr. DK Vishwakarma
+
+      has stated that the deceased has died on account of bleeding
+
+      from the injury sustained by him and it is true that if the deceased
+
+      would have been given immediate treatment or the efforts would
+
+      have been made to stop the bleeding by tying some clothes over
+
+      the injury, he might not have died. He has also stated that the
+
+      deceased was brought to him after considerable delay and at that
+
+      time the deceased was breathing last and died after 10 to 15
+
+      minutes. The gist of the statement made by this witness is that
+
+      the death is not a direct result of the injury but (after sustaining
+
+      the injury and before his death) there was an intervening cause
+<span class="hidden_text" id="span_14">                                              14</span>
+
+      of profused bleeding during the period he sustained injury and
+
+      later on died.
+</p>
+<p id="p_36">
+</p><p id="p_37">18.   It has been held by this Court in the matter of Jagarnath Vs.
+
+      State of MP (now C.G.){CRA 1535/1997}
+
+
+             "31. In Modi's Jurisprudence and Toxicology, 24th Edition,
+             Chapter-26, the author has dealt with the topic causes of
+             death from wounds. The following part of the chapter
+             can be profitably referred:-
+</p>
+<p id="p_38">               "Causes               of         death          from                wounds.-
+</p>
+<p id="p_39">                .......................................................................................
+
+                .......................................................................................
+
+                .......................................................................................
+
+                .......................................................................................
+
+             It should be noted that a person could be convicted of
+             culpable homicide, if he causes bodily injury to another
+             who is labouring under a disorder, disease or bodily
+             infirmity and thereby accelerates the death of that other
+             person. However, the intention or the knowledge with
+             which the act that caused death was committed in a
+             necessary ingredient to bring about a conviction under
+             these offences. In such a case, even if the medical officer
+             has proved from post-mortem examination the existence
+             of the disease that caused the death, and its relation to
+             the injury alleged to have accelerated it, the court will
+             have to be satisfied from the evidence before giving a
+             decision:
+</p>
+<p id="p_40">             (a) that the death at the time when it occurred was not
+             caused solely by the disease; and
+
+</p><p id="p_41">             (b)that it was caused by the bodily injury to this extent that
+             it was accelerated by such injury.
+</p>
+<p id="p_42">             32. Modi, thereafter, deals with the topic as to when
+             causes of death from wounds are immediate or direct and
+             remote or indirect. (i) haemorrhage (ii) injury of a vital
+             organ and (iii) shock are considered as immediate or
+<span class="hidden_text" id="span_15">                                      15</span>
+
+             direct causes of death. Haemorrahge is dealt with by Modi
+             in the following manner:-
+</p>
+<blockquote id="blockquote_9">                     "Haemorrhage.- This may be external or internal.
+                     External haemorrhage may produce marked fall of
+                     blood pressure and consequent shock causing
+                     death either rapidly, if a large blood vessel such as
+                     the carotid or femoral artery has been wounded, or
+                     slowly, if a number of small vessels have been
+                     injured. The amount of haemorrhage required to
+                     cause syncope varies according to circumstances.
+                     The sudden loss of blood is more dangerous than
+                     the same quantity lost slowly. The loss of one-
+                     third of the blood of the body is almost enough to
+                     cause death, and the total quantity of blood in the
+                     body of an adult is on an average about five per
+                     cent of the body weight of about 750 ml per 10 kg
+                     of body weight. Children, women and old persons
+                     die from the loss of much smaller quantity.
+</blockquote><blockquote id="blockquote_10">                     Persons        with haemorrhage        diathesis   or
+                     haemophiliacs may die of haemorrhage even from
+                     a trifling injury."
+</blockquote>
+<blockquote id="blockquote_11">                                                    Emphasis supplied
+
+
+
+</blockquote><blockquote id="blockquote_12">19.   Modi's observation as to the cause of death from wounds as well
+
+      as haemorrhage, when applied in the facts of the present case, in
+
+      conjunction with the statement of PW-4 Dr. DK Vishwakarma, it
+
+      may be concluded that the deceased has not died instantly on
+
+      account of the injury but he has died after few hours on account
+
+      of bleeding from the injury.
+</blockquote>
+
+<p id="p_43">20.   Thus, it is a case where the appellant may had the knowledge
+
+      that the deceased may die on account of the injury but he had no
+
+      intention to kill the deceased. It is a case squarely falling under
+
+      exception IV to <a href="/doc/626019/" id="a_39">Section 300</a> IPC and is punishable under <a href="/doc/1569253/" id="a_40">Section
+
+      304-II</a> IPC.
+</p><span class="hidden_text" id="span_16">                                           16</span><p id="p_44">
+
+</p><p id="p_45">       21.   In the result the appeal preferred by appellant No.1 Brijlal is
+
+             allowed in part. His conviction under <a href="/doc/1560742/" id="a_41">Section 302</a> IPC is set aside
+
+             and instead he is convicted under <a href="/doc/1569253/" id="a_42">Section 304-II</a> IPC and
+
+             sentenced to the period already undergone by him. The appeal
+
+             preferred by appellant No.2 Hirasai succeeds and is allowed. His
+
+             conviction under <a href="/doc/1560742/" id="a_43">Section 302</a>/<a href="/doc/112749/" id="a_44">114</a> IPC is set aside and he is
+
+             acquitted of the said charge. Both the appellants are on bail.
+
+             Surety and personal bonds earlier furnished at the time of
+
+             suspension of sentence shall remain operative for a period of six
+
+             months in view of the provisions of <a href="/doc/445276/" id="a_45">Section 437-A</a> Cr.P.C. The
+
+             appellants shall appear before the higher Court as and when
+
+             directed.
+</p>
+<p id="p_46">
+</p><pre id="pre_2">                  Sd/-                                             Sd/-
+
+
+                 Judge                                           Judge
+
+         Prashant Kumar Mishra                            Anil Kumar Shukla
+
+Ashu
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

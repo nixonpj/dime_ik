@@ -1,0 +1,614 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Delhi Development Authority vs H.C.Sareen on 21 September, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/130246242/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/125733999/">B.K.Roy Choudhary vs Dda on 14 January, 2010</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/130246242/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/130246242/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/130246242/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20development%20authority">delhi development authority</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=VALMIKI%20J.%20MEHTA">VALMIKI J. MEHTA</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=valmiki">valmiki</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=public%20hearing">public hearing</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Delhi Development Authority vs H.C.Sareen on 21 September, 2011</div><div class="doc_author">Author: Valmiki J. Mehta</div>
+
+<pre id="pre_1">*             IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++                         RFA No.18/2011
+
+%                                                  21st September, 2011
+
+DELHI DEVELOPMENT AUTHORITY                                   ...... Appellant
+                       Through:              Ms. Manisha Tripathy Pandey and
+                                             Mr. Ashutosh Kaushik, Adv.
+                          VERSUS
+
+H.C.SAREEN                                                   ...... Respondent</pre>
+<pre id="pre_2">                          Through:           Mr. Sanjay Kumar Singh
+
+CORAM:
+HON'BLE MR. JUSTICE VALMIKI J.MEHTA
+
+</pre><p id="p_1">    1.   Whether the Reporters of local papers may be
+         allowed to see the judgment?
+</p>
+<p id="p_2">    2.   To be referred to the Reporter or not?    Yes
+
+</p><p id="p_3">    3.   Whether the judgment should be reported in the Digest? Yes
+
+
+VALMIKI J. MEHTA, J (ORAL)
+
+</p><p id="p_4">1.       The challenge by means of this Regular First Appeal under Section 96
+
+of the Code of Civil Procedure (CPC), is to the impugned judgment and
+
+decree dated 13.8.2010, and by which judgment and decree, the trial court
+
+has decreed the suit of the respondent/plaintiff by setting aside the
+
+cancellation of the allotment of the subject shop and directed for specific
+
+performance      by   granting   allotment   of   the    subject    shop   by     the
+
+appellant/defendant to the respondent/plaintiff.
+
+</p><p id="p_5">2.       The facts of the case are that the respondent/plaintiff bid for a Shop
+
+No. 45, CSC-2 DDA Market, Sector-9, Rohini, Delhi (in short 'the subject
+
+<span class="hidden_text" id="span_1">RFA No.18/2011                                                     Page 1 of 10</span>
+ shop') for an amount of Rs.12,13,200/- against the reserve price of Rs.
+
+3,68,000/-.   The bid of the respondent/plaintiff was accepted and he was
+
+allotted the subject shop. After the allotment, the respondent/plaintiff wrote
+
+a    letter   dated    27.1.2000,   Ex.PW1/1,   that   there   was    allegedly
+
+misrepresentation to him with respect to the shop not only with respect to its
+
+location but also with respect to its size.     In this letter dated 27.1.2000
+
+Ex.PW1/A, the respondent/plaintiff stated that the shop was only 15 sq. mtr.
+
+and not of 16.26 sq. mtr. and that the shop was allegedly in the back row
+
+instead of the front row. In view of this, the respondent/plaintiff requested
+
+for refund of the earnest money of Rs.3,03,300/-, meaning thereby, the
+
+respondent/plaintiff himself sought to put an end to the contract on the
+
+ground of misrepresentation and asked for return of the earnest money.
+
+</p><p id="p_6">3.     Even though the contract was put to an end by the respondent/plaintiff
+
+himself however thereafter he suddenly woke up after 5 years, i.e. in the
+
+year 2005, seeking re-allotment of the shop and the appellant/defendant
+
+vide letter dated 23.11.2005 asked the respondent/plaintiff to deposit the
+
+balance amount with the DDA.          On 6.12.2005, the respondent/plaintiff
+
+deposited the balance amount of Rs.9,22,077/- and thereafter asked for the
+
+allotment letter with respect to the subject shop, which was refused resulting
+
+in filing of the subject suit.
+</p>
+<p id="p_7">4.     The appellant/defendant contested the suit and in the written
+
+statement took up a stand that the letter dated 23.11.2005, Ex.PW1/3, sent
+
+by the appellant/defendant to the respondent/plaintiff was issued by a
+<span class="hidden_text" id="span_2">RFA No.18/2011                                                 Page 2 of 10</span>
+ Deputy Director but the concerned Deputy Director had not taken the
+
+approval of the competent authority for issuing the letter and consequently a
+
+warning had been issued to this Deputy Director by no less a person than
+
+the Vice Chairman, DDA and this officer was issued a warning not to issue
+
+such letters in future.      The case was re-examined by the Director,
+
+Commissioner (LD) and the request of the respondent/plaintiff was rejected
+
+and a letter of cancellation was sent to the respondent/plaintiff on 28.6.2006,
+
+Ex.PW1/8.
+</p>
+<p id="p_8">5.    On the aforesaid pleadings of the parties, the trial court framed the
+
+following issues:-
+</p>
+<blockquote id="blockquote_1">      "(1)   Whether the suit is bad for want of notice u/s 53 of the DDA
+             Act?OPD
+
+      (2)    Whether the plaintiff is entitled to relief of performance as asked
+             for in the plaint?OPP
+
+      (3)    Whether the plaintiff is entitled for declaration, injunction and
+             damages as asked for in the plaint? OPP
+
+      (4)    Relief."
+</blockquote>
+<p id="p_9">6.    The main issues are issues nos.2 and 3 which were argued before the
+
+trial court, and which issues have also been argued before me.         The trial
+
+court has arrived at a finding that in view of the letter dated 23.11.2005,
+
+Ex.PW1/3, the appellant/defendant was bound to allot the subject shop to the
+
+respondent/plaintiff. The entire reasoning of the trial court is based upon the
+
+letter dated 23.11.2005, Ex.PW1/3. On the issue with respect to location and
+
+size of the shop, the trial court however held in favour of the appellant that
+
+<span class="hidden_text" id="span_3">RFA No.18/2011                                                Page 3 of 10</span>
+ the shop was sold on "as is where is basis" and therefore, the
+
+respondent/plaintiff could not have a grievance with the alleged location or
+
+the size of the shop.     The relevant observations of the trial court for
+
+decreeing the suit are contained in paras 18 to 21 of the impugned judgment
+
+and which read as under:-
+</p>
+<blockquote id="blockquote_2">            "18. To ascertain the stand of the defendant, it is
+          inevitable to discuss the note sheets Ex.DW1/PX-1
+          maintained by the defendant in its day to day affairs. At
+          page no.20/N of the note sheet, the defendant admits that
+          the plaintiff made numerous visits to them and consequently
+          letter dated 23.11.2005 was finally sent to him directing to
+          deposit the balance amount, which he deposited also. Not
+          only that thereafter the file was sent to Senior AO, Rohini for
+          verification of payment and calculation of their dues. At
+          page no.21/N, the defendant admitted that there had been
+          no action on the file for a period of 5 ½ half years i.e. from
+          April 2000 to September 2005. The relevant extract of page
+          no.21N is reproduced herein:-
+</blockquote><blockquote id="blockquote_3">                         "In view of the submission made above it is
+                  felt that since the shop has not been
+                  cancelled/re-allotted so far and the A/P has
+                  deposited the balance amount of Rs.9,22,077/- in
+                  response to the communication received from
+                  the department and also the fact that the file has
+                  remained unattended in the office for a
+                  considerable time, the department may consider
+                  the regularization of this delay to avoid any
+                  further litigation. Needless to mention that the
+                  earnest money of Rs.3,03,300/- is lying with the
+                  department since September 1998 and it is more
+                  than a year when the balance amount of
+                  Rs.9,22,077/- has also been deposited by the A/P.
+                  We may therefore, put up the whole case to
+                  CLD/VC being the Competent Authority to
+                  regularize such delay as per the provision
+                  contained in the Regulation. There have been
+                  cases in the past where the delay beyond 180
+                  days has been regularized with approval of VC,
+                  DDA"
+</blockquote>
+<span class="hidden_text" id="span_4">RFA No.18/2011                                               Page 4 of 10</span>
+<blockquote id="blockquote_4">          19. At page no.22 N of the said note sheets, it was also
+        observed "However considering that the payment of balance
+        amount has been made after advice of DD (CE) vide this
+        office letter dated 23.11.2005, we may not be able to defend
+        our stand of cancellation of shop and not accepting payment
+        while it has been made in accordance with the letter dated
+        23.11.2005 irrespective of the fact that whether the letter
+        was issued after approval of competent authority or not.
+        Prima facie it seems a bonafide mistake on part of the CE
+        Branch in issuing such advice."
+</blockquote>
+<blockquote id="blockquote_5">        20.      From the note sheets Ex.DW1/PX-1, it is clear that
+        not only the Dy. Director (CE) issued the letter dated
+        23.11.2005 and the defendant accepted the amount
+        deposited by the plaintiff in pursuance thereto but also
+        admitted that they had no option but to act upon the same.
+        It is the own case of the defendant that in pursuance to the
+        letter dated 23.11.2005, they processed the file and place it
+        before the concerned authorities. The defendant has failed
+        to explain that if the said letter was issued without authority
+        then instead to revoke the said letter immediately why did
+        they process the file of the plaintiff. In reply to a specific
+        question regarding the note sheets, DW-1 deposed that the
+        said noting had been made by the dealing assistant who had
+        no authority to take the decision. So far as the letter dated
+        23.11.2005 is concerned, DW1 specifically deposed that Dy.
+        Director (CE) was competent to issue the communication,
+        however, letter dated 23.11.2005 was issued wrongly and
+        warnings had been given to him in that regard. If the
+        statement of DW-1 is accepted it shall imply that the
+        defendant is being run by the dealing assistants only who
+        are making the note sheets and processing the files and the
+        job of the higher officials is only to approve and sign the said
+        notings blindly and proceed with the matter. Hence, the
+        said statement of DW-1 cannot be accepted. As stated
+        above, from the year 2000 till September 2005 there is no
+        written communication between the parties. Hence, it is
+        quite surprising how all of a sudden letter dated 23.11.05
+        had come into existence. Despite that, the facts remain that
+        neither the defendant took any action against Dy. Director
+        (CE) nor revoked the said letter rather the defendant
+        proceed with the matter. It implies that the defendant had
+        accepted and justified the act of Dy. Director (CE) even if it
+        was wrong. Hence it can be held that Dy. Director (CE) was
+        competent to issue letter dated 23.11.2005. Therefore,
+<span class="hidden_text" id="span_5">RFA No.18/2011                                              Page 5 of 10</span>
+           once the said letter was issued from the competent
+          authority, the recipient had nothing to do with the internal
+          procedure of the defendant . Rather, the defendant is bound
+          by the representation made by it through Dy. Director (CE)
+          vide which the plaintiff changed his position. Therefore, at
+          this stage the defendant is estopped from backing out from
+          the said letter and the commitment made therein.
+</blockquote>
+<blockquote id="blockquote_6">          21.     Counsel for the defendant strongly pleaded that once
+          the plaintiff had failed to deposit the amount within 180
+          days then the defendant had the right to forfeit the earnest
+          money deposited by the plaintiff and relied upon the
+          judgment passed by the Hon'ble High Court in CW No.
+          4171/2007 titled as <a href="/doc/125733999/" id="a_1">B.B.Sharma vs. DDA</a>. As discussed
+          above, the demand was raised upon the plaintiff on
+          04.09.1998, the plaintiff requested for refund of the amount
+          on 27.01.2000 and had sent letter dated 13.09.2005 in
+          reference to his earlier complaints and letter dated
+          23.11.2005 was issued by the defendant in response
+          thereto. Hence, it can be held that the demand raised vide
+          letter dated 23.11.2005 was in continuation of the earlier
+          demand made on 04.09.1998.              The defendant has
+          completely failed to explain once the plaintiff failed to
+          deposit the amount in terms of the demand letter and opted
+          and demanded refund of the amount, then why the
+          defendant had not taken the action and cancelled the
+          allotment and forfeited or refund the amount to the action
+          and cancelled the allotment and forfeited or refund the
+          amount to the plaintiff. The said judgment is not applicable
+          to the present case because as discussed above, the
+          defendant had not forfeited the earnest money deposited by
+          the plaintiff till the date of issuance of letter dated
+          23.11.2005. Further, it is not the case of the defendant that
+          the defendant had been condoning the delay for a period
+          beyond 180 days. Therefore, there is no substance in the
+          plea of the defendant that 180 days and on expiry of which
+          the allotment stood cancelled automatically."
+</blockquote>
+
+<p id="p_10">7.   In my opinion, the appeal deserves to be allowed and the impugned
+
+judgment and decree is bound to be set aside. This is for the reason that the
+
+trial court has given only lip service to the letter dated 27.1.2000, Ex.PW1/1
+
+<span class="hidden_text" id="span_6">RFA No.18/2011                                               Page 6 of 10</span>
+ written by the respondent/plaintiff to the appellant. Since this letter is very
+
+material, I would seek to reproduce the same in its entirety. This letter reads
+
+as under:-
+</p>
+<pre id="pre_3">              "From                        27 January 2000
+              Mr. H.C.Sarin
+              Flat No. 133, Plot No.44
+              Vasudara Apartments
+              Sector-9, ROHINI, Delhi-110085
+              To
+              The Commissioner
+              Commercial Estate Branch (LAND)
+              Delhi Development Authority
+              Vikas Sadan, NEW DELHI
+             Dear Sir,
+                    Ref: File No.F93(61)/98-CE/3718
+</pre><p id="p_11">              Shop No.45, CSC.2, DDA Market, Sector-9, ROHINI, Delhi.
+             SUB: HARASSMENT METED-OUT TO ME
+
+</p><p id="p_12">             1.    My tender for the subject Shop No.45, CSC.2, DDA
+                   Market, Sector-9, ROHINI, Delhi were for the value of
+                   Rs.12,13,200/- and it was accepted and I am the
+                   successful bidder.
+</p>
+<p id="p_13">             2.    That before submission of tender on the due date, I
+                   contacted the field staff of DDA to know about the
+                   location of the shop as there was no numbering
+                   inscribed on the shop. They showed me a shop in the
+                   front row corner.
+</p><p id="p_14">             3.    Upon receipt of the demand letter, I want to see the
+                   shop. Now numbers have been inscribed. This shop
+                   has been changed to back row instead of front row as
+                   guided by the field staff.
+</p>
+<p id="p_15">             4.    Furthermore, the actual size of the shop is 15.00 sqm
+                   only and not 16.26 sqm as indicated in the tender
+                   document.
+</p><p id="p_16">             5.    The facts under para 3 &amp; 4 are contrary to the basis of
+                   tender, I put-in.
+</p><p id="p_17">             6.    The above grievances were brought to the kind
+                   attention of Mr. Amar Authority, Vikas Sadan, New
+                   Delhi as back as September 1998 on public hearing
+                   day. Mr. Chaterjee asked to me to see Mr. Kuldip
+<span class="hidden_text" id="span_7">RFA No.18/2011                                                Page 7 of 10</span>
+                   Singh Deputy Director (CE), Commercial Estate
+                  Branch, Delhi Development Authority, Vikas Sadan,
+                  New Delhi.
+</p>
+<p id="p_18">                  The above said officials gave me sympathetic hearings
+                  and on each Public Hearing Day, I had been contacting
+                  them. They assured me that my earnest money will
+                  be refunded with interest accrued.
+</p>
+<p id="p_19">                  Sir, I look forward to your goodself for justice by
+                  passing orders for release of my hard earned money of
+                  Rs.3,03,300 at the earliest along with the accrued
+                  interest.               (underling added)
+
+                                                Yours very truly,
+
+                                                (H.C.SARIN)
+
+</p><p id="p_20">8.    The last two paragraphs of the aforesaid letter make it quite clear that
+
+the respondent/plaintiff all along only prayed for refund of the earnest
+
+money, and which prayer therefore means to cancel the allotment and
+
+refund the earnest money.     Once, the respondent/plaintiff took up such a
+
+stand, the contract of allotment came to an end as per his own choice and
+
+there is no question of revival of such a contract to which a quietus had been
+
+put. The respondent/plaintiff therefore, having taken the step consciously to
+
+terminate the contract, thereafter cannot suddenly turn around and seek
+
+allotment of the shop, that too, by means of a one solitary letter of a Deputy
+
+Director of the appellant of the year 2005. The trial court in fact, ought to
+
+have agreed with the testimony on behalf of the appellant that the letter
+
+dated 23.11.2005, Ex.PW1/3 was issued by a Deputy Director who had no
+
+authority to issue the same, and which becomes clear from the unrebutted
+
+testimony of the appellant's witness that this Deputy Director was issued a
+<span class="hidden_text" id="span_8">RFA No.18/2011                                                Page 8 of 10</span>
+ warning not to issue such letters by the Vice Chairman, DDA. One solitary
+
+letter obtained favourably by the respondent/plaintiff cannot mean that the
+
+period as long as of 5 years from 2000 to 2005, and more importantly, the
+
+letter dated 27.1.2000 Ex.PW1/1 can be negated. Once the contract had
+
+come to an end there could only be a fresh/new contract and there could not
+
+be granted an extension of time for payment under a dead contract.
+
+</p><p id="p_21">9.    Before admission of this appeal on 12.1.2011, I passed the following
+
+order:-
+</p>
+<blockquote id="blockquote_7">             "12.01.2011
+
+                  By the impugned judgment and decree, the Trial
+             Court relying upon the letter dated 23rd November, 2005
+             (Ex.PW1/3) has held that by virtue of this letter time was
+             given to the plaintiff/respondent to make balance
+             payment by a person no less than the Deputy Director of
+             the appellant. The witness of the appellant has also
+             deposed that it was very much within the power of the
+             Deputy Director to issue a demand letter extending time
+             for making payment. This court put a specific query to
+             the counsel for the appellant as to whether in no case
+             DDA has ever extended time by 7 years after the tender
+             was opened. Counsel for the appellant states that she
+             cannot make such a statement and it is only an
+             authorized officer of the DDA on instructions who can
+             make such a statement. Accordingly, in order to decide
+             the question of issuing notice in the present appeal, let
+             an affidavit be filed of the Director, Commercial Estates
+             as to whether the appellant has never extended time for
+             making of balance payment of about 7 years after the
+             tender is opened.         Meaning thereby, DDA must
+             categorically state that in no case it has ever extended
+             time with respect to any tender for a shop/premises after
+             7 years of the tender. The applicable policy be also filed.
+             Trial Court record be summoned for the date fixed.
+</blockquote><blockquote id="blockquote_8">                        List on 3rd March, 2011."
+</blockquote>
+
+<span class="hidden_text" id="span_9">RFA No.18/2011                                               Page 9 of 10</span>
+<p id="p_22"> 10.   Pursuant to this order, the necessary affidavit was filed by Mr. A.K.Bisht
+
+Director (R.L) of the appellant wherein it was confirmed that in no case ever
+
+the DDA has extended the time by 7 years after the tender was opened. It is
+
+only after filing of this affidavit that notice was issued in this appeal on
+
+3.3.2011. It is thus quite clear that the respondent/plaintiff had bid for the
+
+shop for an amount, which he found not to suit his commercial proposition,
+
+inasmuch as, the value of the shop would not have been such to get
+
+expected profit therefrom in the year 1998. Therefore, repeatedly, in various
+
+public hearings, the respondent/plaintiff only sought cancellation of the
+
+allotment and refund of earnest money. It is only after a period of five years
+
+in 2005, and during which period, the property prices would have risen, that
+
+the respondent/plaintiff again sought to revive the allotment, and which
+
+contrived action was though initially approved by a Deputy Director,
+
+however, subsequently, when the file was put to higher authority, the
+
+allotment was cancelled and warning issued to the Deputy Director. The
+
+respondent cannot be allowed to take advantage of a convenient letter got
+
+issued by him from a Deputy Director.       If this is permitted then this will
+
+encourage officers of appellant to act undesirably.
+
+</p><p id="p_23">11.   In view of the above, the appeal is accepted. The impugned judgment
+
+and decree is set aside leaving the parties to bear their own costs.
+
+</p><p id="p_24">      Decree sheet be prepared. Trial court record be sent back.
+
+
+</p><pre id="pre_4">SEPTEMBER 21, 2011                                    VALMIKI J. MEHTA, J.
+ib
+<span class="hidden_text" id="span_10">RFA No.18/2011                                                Page 10 of 10</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

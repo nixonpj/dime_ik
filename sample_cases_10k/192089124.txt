@@ -1,0 +1,485 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Makhan on 14 July, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/192089124/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:192089124">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/767287/">Section 313 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1613898/">Section 207 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/87706/">D.V. Shanmugham &amp; Anr vs State Of Andhra Pradesh on 25 April, 1997</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/192089124/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/192089124/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fir%20number">fir number</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arms%20act%201959">arms act 1959</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20aid">legal aid</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=makhan">makhan</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Makhan on 14 July, 2010</div><div class="doc_author">Author: Sugandha Aggarwal</div>
+
+<pre id="pre_1">                                        1
+
+
+          IN THE COURT OF MS. SUGANDHA AGGARWAL:
+         METROPOLITAN MAGISTRATE (NORTH­5) : DELHI.
+
+State                        Vs.                  Makhan
+
+                                                  FIR No. 181/2007
+                                                  PS Bara Hindu Rao 
+      J U D G M E N T
+</pre>
+
+<pre id="pre_2"> (a) Sr. No. of the case         135/BH/09
+ (b) Date of offence             26.6.2007
+ (c)  Complainant                ASI Krishan Chander
+ (d) Accused                     Makhan   S/o   Shri   Bhole   Nath   R/o
+                                 Punjabi   Basti,   Hold   Wala   Chowk,
+                                 Near Sheeta Mata Mandir, Daya Basti,
+                                 Delhi
+ (e) Offence                     Under <a href="/doc/73862/" id="a_1">Section 25</a> of Arms Act, 1959.
+ (f)     Plea of accused         Pleaded not guilty.
+ (g) Final Order                 Acquitted
+ (h) Date of institution         01.3.2009
+ (i)     Date            when Not reserved
+         judgment         was
+         reserved
+ (j)     Date of judgment        14/07/2010
+
+
+
+</pre><p id="p_1">1.        This   judgment   shall   dispose   off   the   case   instituted  under
+
+<a href="/doc/73862/" id="a_2">Section 25</a> of Arms Act, 1959 against the accused.
+
+</p><p id="p_2">2.        The allegations against the accused, as detailed in the charge­
+
+sheet are that on 26.06.2007, he was found in possession of a button
+
+actuated knife in contravention of provisions of <a href="/doc/1934415/" id="a_3">Arms Act</a>, 1959.
+<span class="hidden_text" id="span_1">                                            2</span>
+
+
+</p><p id="p_3">3.       After   completion   of   investigation,   charge­sheet   was   filed.
+
+After compliance of <a href="/doc/1613898/" id="a_4">Section 207</a>  Code of Criminal Procedure, 1973.
+
+Charge was framed under <a href="/doc/73862/" id="a_5">Section   25</a> of Arms Act, 1959 against the
+
+accused vide order dated 25.07.2007, to which the accused pleaded
+
+not guilty and claimed trial.  
+</p>
+<p id="p_4">4.       Prosecution adduced evidence in support of its case. PW­1 is
+
+the duty officer. He deposed about registration of FIR. PW­2 to PW­4
+
+deposed to the recovery and seizure of button actuated knife from the
+
+accused. 
+</p>
+<p id="p_5">5.       After   closure   of   prosecution   evidence,   the   statement   of   the
+
+accused   was   recorded   under   <a href="/doc/767287/" id="a_6">Section   313</a>   of   Code   of   Criminal
+
+Procedure, 1973.  Incriminating evidence was put  to the accused. He
+
+denied all the allegations and stated that he is innocent and has been
+
+falsely   implicated   in   this   case.   The   accused   opted   not   to   lead   any
+
+evidence in his defence.  
+</p>
+<p id="p_6">6.       Final arguments advanced by Ld. APP for State and Mr. R.L.
+
+Saini, Legal Aid counsel for accused are heard.
+
+</p><p id="p_7">7.       Public witnesses were admittedly not joined in investigation
+
+though available. The testimony of official witnesses does not find any
+<span class="hidden_text" id="span_2">                                          3</span>
+
+
+corroboration   from   any   independent   source.   In   my   view,   the   non­
+
+joining of public witness is fatal to the prosecution case, particularly
+
+when no reasonable explanation has been given by prosecution for
+
+not joining public witnesses.
+</p>
+<p id="p_8">       In case titled as Roop Chand Vs. State of Haryana   reported as
+
+CC Cases 3 (HC),   it was held as that where the police has failed to
+
+join   independent   witnesses   in   the   investigation   despite   their
+
+availability and further failed to take action against those who refused
+
+to take part in investigation nor their names were noted down by the
+
+police,   the   explanation   of   the   police   for   not     joining  independent
+
+witnesses is an afterthought and liable to be rejected.
+
+</p><p id="p_9">       In the case of <a href="/doc/1551054/" id="a_7">Hem Raj v. State of Haryana</a> AIR 2005 SC 2110, it
+
+has been observed that :­ 
+
+           "The   fact   that   no   independent   witness   though   available,   was
+           examined and not even an explanation was sought to be given for
+           not   examining   such   witness   is   a   serious   infirmity   in   the
+           prosecution   case.   Amongst   the   independent   witnesses   one   who
+           was very much in the know of things from the beginning was not
+           examined   by   the   prosecution.   Non­examination   of   independent
+           witness by itself may not give rise to adverse inference against the
+           prosecution.   However,   when   the   evidence   of   the   alleged   eye­
+           witnesses raise serious doubts on the point of their presence at the
+           time of actual occurrence, the unexplained omission to examine
+           the independent witness would assume significance."
+<span class="hidden_text" id="span_3">                                           4</span>
+
+
+      In the case of <a href="/doc/1865576/" id="a_8">Sahib Singh v. State of Punjab</a> AIR 1997 SC 2417, it
+
+has been held as under:­ 
+
+          "Having gone through the record we find much substance in each
+          of the above contentions. Before conducting a search the concerned
+          police   officer   is   required   to   call   upon   some   independent   and
+          respectable people of the locality to witness the search. In a given
+          case it may so happen that no such person is available or, even if
+          available, is not willing to be a party to such search. It may also be
+          that after joining the search, such persons later on turn hostile. In
+          any of these eventualities the evidence of the police officers who
+          conducted the search cannot be disbelieved solely on the ground
+          that   no   independent   and   respectable   witness   was   examined   to
+          prove the search but if it is found ­ as in the present case ­ that no
+          attempt was even made by the concerned police officer to join with
+          him some persons of the locality who were admittedly available to
+          witness the recovery, it would affect the weight of evidence of the
+          Police Officer, though not its admissibility."
+
+      In the case of <a href="/doc/87706/" id="a_9">D. V. Shanmugham v. State of A.P</a>.,  AIR 1997 SC
+
+2583 it has been observed as under:­
+
+          "It also appeared from the evidence of PW­2 and PW­8 that there
+          were several other people who witnessed the occurrence and they
+          are not the residents of that locality. If such independent witnesses
+          were available and yet were not examined by the prosecution and
+          only those persons who  are related to the deceased were examined
+          then in such a situation the prosecution case has to be scrutinised
+          with more care and caution."
+</p>
+<p id="p_10">      In   the   case   of    Pawan   Kumar   Vs.   The   Delhi   Administration,
+
+1989 Cr.LJ  127 Delhi, in which it was observed as follows:
+
+</p><blockquote id="blockquote_1">          "Kalam  Singh has to  admit that at the time  of the arrest  and
+          recovery of the knife, there was a lot of rush of public at the bus
+<span class="hidden_text" id="span_4">                                              5</span>
+
+
+            stop near Subhash Bazar. According to Jagbir Singh, he did not
+            join   any   public   witness   in   the   case   while   according   to   Kalam
+            Singh, no public person was present there.   It hardly stands to
+            reason that at a place like a bus stop near Subhash Bazar, there
+            would be no person present at a crucial time like 7.30 pm when
+            there is a lot of rush of commuters for boarding the buses to their
+            respective   destinations.  Admittedly,   there   is   no   impediment   in
+            believing   the   version   of   the   police   officials   but   for   that   the
+            prosecution has to lay a good  foundation.  At least one of them
+            should   have   deposed   that   they   tried   to   contact   the   public
+            witnesses or that they  refused to join the investigation.  Here is a
+            case where no effort was made to join any public witness even
+            though number of them were present. No plausible from the side
+            of the prosecution is forthcoming for not joining the Independent
+            witnesses in case of a serious nature like the present one.  It may
+            be that there is an apathy on the part of the general public to
+            associate themselves with the police raids or the recoveries but
+            that apart, at least the IO should have made an earnest effort to
+            join   the   independent   witnesses.     No   attempt   in   this   direction
+            appears to have been made and this, by itself, is a circumstance
+            throwing doubt on the arrest or the recovery of the knife from the
+            person of the  accused.''
+
+       In the case of Sadhu Singh Vs. State of Haryana 2000 (2) CC
+
+Cases HC 73, the Court took note of the fact that public witnesses
+
+were not joined in investigation to acquit the accused. 
+</blockquote>
+<blockquote id="blockquote_2">       In  the  case  of   Massa   Singh   Vs.  State  of  Punjab   2000   (2)  C.C.
+</blockquote>
+<p id="p_11">Cases   HC   11,   conviction   was   set   aside   on   the   ground   that   it   was
+
+obligatory   on   the   part   of   investigating   officer   to   take   assistance   of
+
+independent   witnesses   to   lend   authenticity   to   the   investigation
+
+conducted by him. It was observed as under:­
+<span class="hidden_text" id="span_5">                                            6</span>
+
+
+                  "The recovery has been effected from a public place. The
+           Investigating Officer could have taken the trouble to associate an
+           independent   witness   to   get   the   attestation   of   such   independent
+           witness regarding the authenticity of the investigation conducted
+           by him. This aspect of the case has not been properly appreciated
+           by the Court below."
+</p>
+<p id="p_12">       In   the  case   of   Chanan   Singh   Vs.   State   1986   Crl.   Rev.   No.720
+
+(P&amp;H) 94, it was held that it was obligatory on the part of the police to
+
+join independent witnesses and the statement of official witness that
+
+witnesses refused to join investigation was rejected as an afterthought.
+
+</p><p id="p_13">       In the cases of Gurbel Singh Vs. State of Punjab 1991 Crl.Rev.
+
+No.504 (P&amp;H) and Dhanpat  Vs. State of Punjab 2000 (1) CC Cases HC
+
+52, it has been held that non­joining of independent witnesses is fatal
+
+to the prosecution case and accused is entitled to benefit of doubt.
+
+</p><p id="p_14">8.       In the present case also, PW­2 is the recovery officer. He has
+
+not   mentioned   that   any   further   effort   was   made   to   join   public
+
+witnesses in the search. There is no evidence on record to show that
+
+effort is made to join public witnesses. 
+</p>
+<p id="p_15">9.       There are other inconsistencies on the record which have not
+
+been explained. According to the depositions of prosecution witness,
+
+the case property was first seized and then rukka was prepared for
+
+registration of FIR. Thus according to the witness, FIR was registered
+<span class="hidden_text" id="span_6">                                            7</span>
+
+
+after   seizure   of   knife.   However,   the   seizure   memo   bears   the   FIR
+
+number. At the time of the seizure, FIR number was not available and
+
+therefore, FIR number could not have figured on the seizure memo.
+
+The   existence   of   FIR   number   on   seizure   memo   suggests   that   the
+
+seizure   memo   was   prepared   after   the   registration   of   FIR   and   is
+
+therefore ante­timed. This erodes the credibility of the witness who
+
+has stated that the seizure memo was prepared on the spot and before
+
+the registration of FIR.    
+</p>
+<p id="p_16">10.        In view of the aforementioned facts and circumstances, I am
+
+of the opinion that prosecution has failed to prove its case against the
+
+accused   beyond   reasonable   doubt.     I   give   benefit   of   doubt   to   the
+
+accused.   Accused   is   accordingly   acquitted.   Case   property   be
+
+confiscated   to   the   State   and   be   destroyed   after   expiry   of   period  of
+
+appeal.  File be consigned to Record Room, after due compliance.
+
+
+
+</p><p id="p_17">                                                    (Sugandha Aggarwal)   
+                                                    Metropolitan Magistrate
+                                                   Tis Hazari Courts : Delhi
+Announced in open Court on July 14, 2010.</p><pre id="pre_3">
+<span class="hidden_text" id="span_7">                                        8</span>
+
+
+FIR  No. 181/2007
+PS Bara Hindu Rao 
+
+14.07.2010
+
+Present:      Ld. APP for State 
+
+              Accused present on bail.
+
+</pre><p id="p_18">              Accused submits that he is not being represented by any
+
+counsel   and   requests   for   appointment   of   counsel   from   Legal   Aid.
+
+Accordingly,   Mr.   R.L.   Saini,   Legal   Aid   Counsel   is   appointed   as
+
+counsel to represent the accused.  PW­2 SI Krishan Chander, re­called,
+
+further   examined,   cross   examined   and   discharged.   PW­3   ASI   Jagat
+
+Singh   and   PW­4   Ct.   Anil   Kumar   examined,   cross   examined   and
+
+discharged.  No other PW is present. Keeping in view the testimony of
+
+witnesses already examined, I do not deem it fit to grant any further
+
+opportunity for PE. Hence PE is hereby closed. Statement of accused
+
+under <a href="/doc/767287/" id="a_10">Section 313</a> of Code of Criminal Procedure, 1973 is recorded
+
+separately. Accused has opted not to lead defence evidence.
+
+</p><p id="p_19">              Arguments advanced by Ld. APP for State   and learned
+
+Legal   Aid   Counsel   for   accused   have   been   heard.   Vide   separate
+
+judgment, the accused is acquitted of the offence under <a href="/doc/73862/" id="a_11">Section 25</a> of
+
+Arms   Act,   1959.   File   be   consigned   to   record   room   after   due
+
+compliance.
+</p>
+<p id="p_20">                                                       (Sugandha Aggarwal)
+                                                       MM, Delhi/14.7.2010 
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

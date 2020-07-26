@@ -1,0 +1,292 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Rohit Das And Anr. vs State Of Bihar (Now Jharkhand) on 18 August, 2004</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1881626/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 17 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1881626">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1906/">Section 113B in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/653797/">Section 304B in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/538436/">Section 498A in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1881626/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1881626/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cruelty%20citedby%3A538436">cruelty citedby:538436</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304b">304b</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304b%20citedby%3A653797">304b citedby:653797</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20304b">section 304b</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dowry%20demand">dowry demand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22113b%22%20section">"113b" section</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20matrimonial%20home"> matrimonial home</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhim">bhim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.498a">s.498a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=498a">498a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marital%20">marital </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20304b%20ipc">section 304b ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20304b%20indian%20penal%20code">section 304b indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304b%20indian%20penal%20code">304b indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.304b%20ipc">s.304b ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304b%20of%20ipc">304b of ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dowry%20death">dowry death</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sonu">sonu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20evidence%20act">section evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section-498a">section-498a</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Jharkhand High Court</div>
+<div class="doc_title">Rohit Das And Anr. vs State Of Bihar (Now Jharkhand) on 18 August, 2004</div><div class="doc_citations">Equivalent citations: 2005 CriLJ 4, I (2005) DMC 420</div>
+
+<div class="doc_author">Author: V Narayan</div>
+
+<div class="doc_bench">Bench: V Narayan</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+Vishnudeo Narayan, J.
+</p> 
+
+<p id="p_2">1. This appeal is directed at the instance of the appellants against the impugned judgment and order dated 27-9-1999 and 29-9-1999 respectively passed in Sessions Case No. 190 of 1998 by Shri Prabodh Ranjan Dash, 3rd Additional Sessions Judge, Deoghar whereby and whereunder the appellants were found guilty for the offence punishable under <a href="/doc/653797/" id="a_1">Sections 304B</a> and <a href="/doc/386021/" id="a_2">201</a> of the Indian Penal Code and they were each convicted to undergo rigorous imprisonment for seven years and three year's respectively and also to pay a fine of Rs. 1000/- and in default thereof to undergo further rigorous imprisonment for one month and both the sentences were ordered to run concurrently. However, co-accused Ughan Das and Bhudeo Das were not found guilty and they were, accordingly, acquitted.
+</p> 
+
+<p id="p_3">2. The prosecution case has arisen on the basis of the Fardbeyan (Ext. 3) of P.W. 8 etkaha Das, the father of Mirkhi Devi, the deceased of this case, recorded by S. I. Shivjee Prasad Singh, Officer-in-Charge of Madhupur Police Station in village-Bangora, Police Station-Madhupur, District-Deoghar on 31-7-1998 at 11.00 hours regarding the occurrence which is said to have taken place a few days ago in village-Bangora, Police Station-Madhupur and a case was instituted by drawing of a formal First Information Report (Ext. 4) on that very day at 15.00 hours.
+</p> 
+
+<p id="p_4">3. The prosecution case, in brief, is that the marriage of Mirkhi Devi, the daughter of P.W. 8, the informant, was solemnized with appellant-Rohit Das one year prior to the alleged occurrence and in the said marriage Rs. 10,000/- and one cycle was given to the said appellant and after the marriage the deceased had come to her matrimonial home with the said appellant for leading conjugal life. It is alleged that after sometimes of the marriage, appellant Rohit Das along with his mother appellant-Sudami Das started making demand of radio, wristwatch, utensils, clothes, she-calf and cash and they started subjecting the deceased to cruelty and harassment for the fulfilment of the said demand. The prosecution case further is that the informant brought the deceased to his house from her matrimonial home about 20 or 25 days prior to the occurrence where she has told him about the torture perpetrated on her by the appellants and other co-accused persons for the fulfilment of aforesaid demand in dowry and has also narrated that whenever she is assaulted by the appellants, the other co-accused persons used to instigate them for further assault. The deceased came back to her matrimonial home in the company of P.W. 1 Bhim Das, her maternal uncle after staying there for four or six days and said Bhim Das requested and persuaded the appellants and other co-accused persons for not treating her with cruelty but he was intimidated and told by them to fulfil the aforesaid demands, failing which dire consequences shall follow. It is alleged that the informant learnt on 30- 7-1998 that her daughter Mirkhi Devi is dead and her dead body is lying in the well east of village-Bangora and on the said informantion he came there with P.W. 1 Bhim Das and others and found the dead body of the deceased in the well and the appellants and other co-accused persons had fled away from their house.
+</p> 
+
+<p id="p_5">4. The appellants have pleaded not guilty to the charges levelled against them and they claim themselves to be innocent and to have committed no offence and that they have been falsely implicated in this case. It has also been contended that the marriage of the deceased was never performed with appellant-Rohit Das and she was a woman of easy virtues roaming hither and thither with her paramours.
+</p> 
+
+<p id="p_6">5. The prosecution has, in all, examined ten witnesses to substantiate its case. P.W. 8 Ketkaha Das is the informant and the father of Mirkhi Devi, the deceased in this case. P.W. 1 Bhim Das is the maternal uncle of the deceased. P.W. 2 Rajendra Das is the son of P.W. 1 and his signature on the inquest report (Ext. 2) is Ext. 1. P.W. 3 Gujari Devi is the wife of the elder brother of P.W. 1 and P.W. 4 Raj Kumar Das and P.W. 5 Laxman Das are her sons. P.W. 7 Champa Devi is the cousin sister of the mother of the deceased. P.W. 6 Shakti Yadav, is a resident of village-Arahi Police Station, Madhupur and he has been declared hostile by the prosecution. P.W. 10 Dr. Anandi Kumar Jain has conducted the post-mortem examination on the dead body of the de- ceased on 31-7-1998 and the post-mortem report per his pen is Ext. 5. P.W. 9 Sheojee Prasad Singh is the Investigating Officer of this case and he has proved the inquest report (Ext. 2), Fardbeayn (Ext. 3) and formal First Information Report (Ext. 4).
+</p> 
+
+<p id="p_7">6. In view of the evidence, oral and documentary on the record, the learned trial Court has found the appellants guilty and convicted and sentenced them as stated above.
+</p> 
+
+<p id="p_8">7. Assailing the impugned judgment it has been submitted by the learned counsel for the appellants that Mirkhi Devi, the deceased of this case, was not married with appellant-Rohit Das and the deceased was the lawfully wedded wife of one Kanchan Das of village-Mayurnath and the marriage between the deceased and Kanchan Das was still subsisting on the day of the recovery of the dead body and there had been no divorce between them. It has also been submitted that the marriage, if any, in the Chumauna form of the deceased with appellant Rohit Das is unlawful and ab initio void as the deceased as well as the appellant had their respective spouse living. It has further been submitted that <a href="/doc/653797/" id="a_3">Section 304B</a> of the Indian Penal Code has no application when the deceased is not the lawfully wedded wife of appellant-Rohit Das and in support of his contention reliance has been placed upon the ratio of the cases of <a href="/doc/1421659/" id="a_4">Ramnarayan v. State of Madhya Pradesh</a> 1998 (3) Crimes 147 and Imtiyaz Khan alias <a href="/doc/312768/" id="a_5">Sonu v. The State of Jharkhand</a>, 2004 (2) JLJR 178 : (2004 Cri LJ 2560), It has also been contended that the Investigating Officer has conducted the investigation in the most perfunctory manner and he has presupposed the factum of marriage between the deceased and appellant-Rohit Das on the basis of the statement of the interested witnesses without examining any person of village-Bangora as well as of village Mayurriath. It has further been contended tjiat there is also no iota of legal evidence on the record to evidence the fact that the deceased was subjected to cruelty and harassment for the demand of dowry, if any; soon before her death and on this score also no offence under Section 304B of the In Bian Penal Code is made out against the appellants. It has also further been submitted that this appellant has been falsely implicated in this case at the instance of Karu Das who is the father-in-law of the son of P.W. 1 arid said Karu Das was inimical to acquitted co-accused Bhudeo Das. Lastly, It has; been contended that the learned Court below did hot meticulously consider the evidence on the record and has committed a manifest error in coming to the finding of the guilt of the appellants.
+</p> 
+
+<p id="p_9">8. Iri contra, it has been submitted by the learned Additional Public Prosecutor that the first Wife of appellant-Rohit Das had died leaving behind three children and thereafter the marriage of the deceased with appellant-Rohit Das has been performed in the Ghumauna form and the deceased was deserted by her last while husband Kahchan Das and this appellant in his bail application has stated about his marriage with the deceased in Chumauna form. It has also Been contended that since the marriage in the Chumauna form, the deceased was leading conjugal life with the appellant in his home and he Was treated with cruelty and harassment for the fulfilment of demand of dowry, and deceased has died due to haemorrhage and shock because of the fracture injury on her scalp caused by hard and blunt substance and to screen themselves the appellants have thrown the dead body in the Well and there is sufficient legal evidence on the record that soon before her death, the deceased was subjected to cruelty and harassment for or in connection With demand of dowry and her death has taken place within seven years of her marriage with appellant-Rohit Das in Chumauna form. Lastly, it has been contended that the Apex Court in the case of <a href="/doc/1180389/" id="a_6">Reema Aggarwal v. Anupam</a>, 2004 (2) JLJR 40 (SC) : (2004 Cri LJ 892) : (2004 AIR - Jhar HCR 1026) has observed that if the validity of marriage itself is under legal scrutiny, the demand of dowry in respect of an invalid marriage would be legally not recognizable, however; stich hairsplitting legalistic approach Would encourage harassment to a woman over demand of money and would destroy the purpose of the provisions and it would be appropriate to construe the expression "husr band" to cover a person who enters into marital relationship and under the colour of such proclaimed or feigned status of husband subjects the woman concerned to cruelty and in the absence of a definition of husband to specifically include such persons who contract marriage ostensibly and cohabitate with such woman, is no ground to exclude them from the purview of <a href="/doc/653797/" id="a_7">Sections 304B</a> and <a href="/doc/538436/" id="a_8">498A</a> of the Indian Penal Code and thus, the ratios of the cases of Ramnarayan (supra) and Imtiyaz Khan alias Sonu (supra) have no application in this case being contrary to the ratio of the Apex Court. ' Thus, there is no illegality in the impugned judgment requiring an interference therein.
+</p> 
+
+<p id="p_10">9. It is an admitted fact that Mirkhi Devi was earlier married with Kanchan Das of; vjllage-Mayurnath and her marriage with Kanchan Das was performed four or five years prior to the occurrence and said Kanchan Das is still alive and their marriage has not been dissolved by divorce in accordance with law- In this connection; evidence in paragraph 5 of P.W. 8 Ketkaha Das, the father of the deceased, paragraph 11 of P.W. 1, paragraphs 3 and 5 of P.W. 3 and paragraph 3 of P.W. 4 of. their testimony is referred to. In paragraph 6 of his evidence, P.W. 8 has also deposed that the deceased was living in his house for the last one year prior to her marriage with appellant-Rohit Das. His evidence is further to the effect that at the time of the marriage of appellant-Rohit Das with the deceased his first wife, was already dead and appellant-Rohit Das had two daughters and a son born of his first wife. However, in paragraph 2 of his evidence he has deposed that the deceased was lead ing happy conjugal life in the early days of the marriage with appellant-Rohit Das and his first wife. P.W. 1 in paragraph 8 of his evidence has deposed that the first wife of appellant-Rohit Das was not present in his house when the marriage of the deceased was performed with the appellant. It, therefore, appears from the evidence referred to above that the deceased had her spouse alive though she was living a deserted life at her parent's house and under such circumstances her marriage in Chumauna form was performed with appellant-Rohit Das. There is conflicting evidence on the record regarding the spouse of appellant-Rohit Das in existence and alive at the time of the marriage of the appellant with the deceased in Chumauna form. It is an admitted fact that the deceased was not divorced by her formal husband Kanchan Das. There is also evidence on the record that in the marriage of the deceased with appellant-Rohit Das no religious rites were performed and Mandap Was not made and there was total absence of participation of the priest and the barber in the said marriage and the said marriage in Chumauna form was performed in the house of P.W. 1, who is the maternal uncle of the deceased. It, therefore, appears that the marriage of the deceased with appellant Rohit Das was definitely unlawful and abinitio void, but in view of the evidence on the record, it is crystal clear that the deceased was living in the house of the appellants leading marital life as husband and wife for the last one year prior to the occurrence. In the case of Ramnarayan (supra) it has been observed that <a href="/doc/653797/" id="a_9">Sections 304B</a> and <a href="/doc/538436/" id="a_10">498A</a> of the Indian Penal Code presuppose the marriage of victim-woman with offender husband and it must be shown that the victim-woman was the legally married woman and the import of the provision could not be extended so as to exclude a woman married, in fact, but whose marriage was void and in view thereof, the accused husband was discharged and the proceeding under <a href="/doc/653797/" id="a_11">Sections 304B</a> and <a href="/doc/538436/" id="a_12">498A</a> of the Indian Penal Code was quashed as the accused since could not been treated as husband of the deceased woman. A Bench of this Court in the case of Imtiyaz Khan alias Sonu (supra) has observed that since offence under <a href="/doc/653797/" id="a_13">Section 304B</a> is a serious one as it has severe penal provision, its ingredients must be proved strictly and the standard of evidence to prove the marriage for this section would be either in accordance with the provision of Personal Law to which the parties belong or by the conduct under <a href="/doc/1610983/" id="a_14">Section 50</a> of the Evidence Act and mere living together and having physical relationship does not constitute a marriage. Prior to the ratio of the case of Imtiyaz Khan alias Sonu (supra) the Apex Court has settled the controversy regarding the concept of the marriage for the purposes of <a href="/doc/653797/" id="a_15">Section 304B</a> of the Indian Penal Code in the case of Reema Aggarwal (supra). The Bench of this Court in the case of Imtiyaz Khan alias Sonu (supra) has probably overlooked the ratio in the case of Reema Aggarwal (supra) of the Apex Court, Therefore, the ratio of this Court in the case of Imtiyaz Khan alias Sonu (supra) is per incuriam. The Apex Court in the case of Reema Aggarwal (supra) has thus observed in paragraph 12:-
+</p><p id="p_11"> "The concept of marriage to constitute the relationship of'husband' and 'wife' may require strict interpretation where claims for civil rights, right to property etc. may follow or flow and a liberal approach and different perception cannot be an anathema when the question of curbing a social evil is concerned."
+</p> 
+
+<p id="p_12">The Apex Court has further observed in paragraph 19 which runs thus at Page 1032 of AIR - Jhar HCR :-
+</p><p id="p_13"> 'The concept of "dowry" is intermittently linked with a marriage and the provisions of the <a href="/doc/1763444/" id="a_16">Dowry Act</a> apply in relation to marriages. If the legality of the marriage itself is an issue further legalistic problems do arise, if the validity of the marriage itself is under legal scrutiny, the demand of dowry in respect of an invalid marriage would be legally not recognizable. Even then the purpose t'ot which <a href="/doc/1953529/" id="a_17">Sections 498A</a> and <a href="/doc/1953529/" id="a_18">304B</a>, <a href="/doc/1569253/" id="a_19">IPC</a> and <a href="/doc/1906/" id="a_20">Section 113B</a> of the Indian Evidence Act 1872 (for short the "<a href="/doc/1953529/" id="a_21">Evidence Act</a>") were introduced cannot be lost sight of. Legislations enacted with some policy to curb and alleviate some public evil rampant in society and effectuate a definite public purpose or benefit positively requires to be interpreted with certain element of realism too and not merely pedantically or hyper-technically. The obvious objective was to prevent harassment to a woman who enters into a marital relationship with a person and later on, becomes a victim of the greed for money. Can a per son who enters into a marital arrangement be allowed to take a shelter behind smokescreen to contend that since there was no valid marriage the question of dowry does not arise? Such legalistic niceties would destroy the purpose of the provisions. Such hairsplitting legalistic approach would encourage harassment to a woman over demand of money. The nomenclature "dowry" does not have any magic charm written over it. It is just a label given to demand of money in relation to marital relationship. The legislative intent is clear from the fact that it is not only the husband but also his relation who are covered by <a href="/doc/1953529/" id="a_22">Section 498A</a>. Legislature has taken care of children born from invalid marriages. <a href="/doc/1902363/" id="a_23">Section 16</a> of the Marriage Act deals with legitimacy of children of void and voidable marriages. Can it be said that Legislature which was conscious of the social stigma attached to children of void and voidable marriages closed eyes to plight of a woman who unknowingly or unconscious of the legal consequences entered into the marital relationship. If such restricted meaning is given, it would not further the legislative intent. On the contrary, it would be against the concern shown by the Legislature for avoiding harassment to a woman over demand of money in relation to marriages. The first exception to <a href="/doc/1953529/" id="a_24">Section 494</a> has also some relevance. According to it, the offence of Bigamy will not apply to "any person whose marriage with such husband or wife has been declared void by a Court of competent jurisdiction." It would be appropriate to construe the expression "husband" to cover a person who enters into marital relationship and under the colour of such proclaimed or feigned status of husband subjects the woman concerned to cruelty or coerce her in any manner or for any of the purposes enumerated in the relevant provisions - <a href="/doc/1953529/" id="a_25">Sections 304B</a>/<a href="/doc/1953529/" id="a_26">498A</a>, whatever be the legitimacy of the marriage itself for the limited purpose of <a href="/doc/1953529/" id="a_27">Sections 498A</a> and <a href="/doc/1953529/" id="a_28">304B</a>,<a href="/doc/1569253/" id="a_29"> of the Indian Penal Code</a>. Such an interpretation, known and recognized as purposive construction has to come into play in a case of this nature. The absence of a definition of husband to specially include such persons who contract marriages ostensibly and cohabitate with such woman, in the purported exercise of his role and status as 'husband' is no ground to exclude them from the purview of <a href="/doc/1953529/" id="a_30">Section 304B</a> or 498A,<a href="/doc/1569253/" id="a_31"> of the Indian Penal Code</a>, viewed in the context of the very object and aim of the legislations introducing those provisions."
+</p> 
+
+<p id="p_14">On the touchstone of the ratio of the Apex Court referred to above coupled with the evidence on the record mentioned hereinabove, appellant-Rohit Das falls under the expression of 'husband' by solemnizing his marriage with the deceased in. the Chumauna form of marriage and the appellant has entered into marital relationship with the deceased under the colour of such proclaimed or feigned status of husband and the absence of definition of husband to specifically include such person to contract marriage ostensibly and cohabitate with such woman in the purported exercise of his role and status as husband is no ground to exclude them from the purview of <a href="/doc/1953529/" id="a_32">Section 304B</a> or 498A<a href="/doc/1569253/" id="a_33"> of the Indian Penal Code</a>. Viewed in the context of the very object and aim of the legislations introducing those provisions. The ratio of the case of <a href="/doc/1402360/" id="a_34">Surjit Kaur v. Garja Singh</a>, AIR 1994 SC 135 and <a href="/doc/1227951/" id="a_35">Ramcharan Singh v. Smt. Sushila Devi</a>, 1996 Cri LJ 4405, are of no avail to the appellants in the facts and circumstances of this case in view of the ratio of the case of Reema Aggarwal (supra). I, therefore, see no substance in the contention of the learned counsel for the appellants in respect thereof.
+</p> 
+
+<p id="p_15">10. There is no denying the fact that the dead body of the deceased was found in the well east of village-Bangora at a distance of half a kilometer from her matrimonial home and her death has occurred within seven years of her marriage with appellant-Rohit Das and her death is otherwise than under normal circumstances. P.W. 10 Dr. Anandi Kumar Jain has conducted the post-mortem examination on the dead body of the deceased on 31-7-1998 and his objective finding runs thus:
+</p>  
+
+<p id="p_16">"(i) Whole body was swollen with foul smelling of gas and maggots all over the body.
+</p> 
+
+<p id="p_17">(ii) Forehead depressed at left portion over left eye.
+</p> 
+
+<p id="p_18">(iii) Lips swollen and tongue caught between the teeth.
+</p> 
+
+<p id="p_19">(iv) Skin of hands and feet separated from the body, the manner of gloves.
+</p> 
+
+<p id="p_20">(v) Hair from the skull separated due to putrefaction."
+</p> 
+
+<p id="p_21">He has further deposed that on dissection he has found a fracture of frontal bone on left side with laceration overlying scalp and bloodstains was there. In paragraph 2 of his evidence, the medical witness has categorically deposed that the injury on scalp appears to be by hard and blunt substance, such as lathi or by hard substance and the time elapsed since death is live days from the post-mortem examination. Ext. 5, the post-mortem report further reveals that according to the medical witness, the death of the deceased is due to haemorrhage and shock due to injury on head of the deceased caused by hard and blunt substance. It is equally relevant to mention here that the medical witness has not found the presence of water in the stomach of the deceased. It, therefore, appears that the deceased has not fallen in the well accidentally when she was alive rather her dead body was thrown in the well. The existence of injury on the scalp of the deceased coupled with absence of watery fluid in her stomach etc. totally rules out the possibility of the accidental death of the deceased or suicide by her. However, the death of the deceased has been surrounded by suspicious circumstances which has occurred otherwise than under normal circumstances during the subsistence of her marriage with appellant-Rohit Das while she was living with him and the other appellant in her matrimonial home. For drawing the presumption as mandated under <a href="/doc/1906/" id="a_36">Section 113B</a> of the Evidence Act in this case regarding the death of the deceased it has to be proved by legal evidence on the record that the death of the deceased has occurred within seven years of her marriage and she was subjected by the appellants to cruelty or harassment soon before her death for or in connection with demand for dowry.
+</p> 
+
+<p id="p_22">11. In order to attract application of <a href="/doc/1953529/" id="a_37">Section 304B</a>, the essential ingredients are as follows:-
+</p>  
+
+<p id="p_23">"(i) The death of a woman should be caused by burns or bodily injury or otherwise than under normal circumstances;
+</p> 
+
+<p id="p_24">(ii) Such death should have occurred within seven years of her marriage;
+</p> 
+
+<p id="p_25">(iii) She must have been subjected to cruelty or harassment for her husband or any relatives of her husband;
+</p> 
+
+<p id="p_26">(iv) Such cruelty or harassment should be for or in connection with demand of dowry;
+</p> 
+
+<p id="p_27">(v) Such cruelty or harassment is shown to have been meted out to the woman soon before her death."
+</p> 
+
+<p id="p_28">It is only when the aforementioned ingredients are established by acceptable evidence, such death shall be called dowry death and the husband or his relatives shall be deemed to have caused her death. Before adverting to the evidence on the record, it is essential to mention the averments made in the Fardbeyan (Ext. 3) of the informant which is to the effect that after the marriage of the deceased with appellant-Rohit Das, both the appellants started making demand of radio, wristwatch, utensils, clothes and she-calf besides cash and they started subjecting her to cruelty for the fulfilment of the said demand. There is further averment that 20 or 25 days prior to the occurrence, the informant brought the deceased to his house where she has disclosed the cruelty perpetrated on her by the appellants for the fulfilment of the demands. There is also averment that after stay of four to six days in her parent's house, the deceased returned to her matrimonial home in the company of P.W. 1 Bhim Das where he had tried to dissuade the appellants for not subjecting the deceased to cruelty but P.W. 1 Bhim Das was intimidated to fulfil the demand of dowry failing which it shall follow with dire consequences. P.W. 8 Ketkaha Das, the informant and the father of the deceased, has deposed that the deceased had led her happy conjugal life with appellant-Rohit Das for some time after the marriage and thereafter she was subjected to cruelty by appellant-Rohit Das and others for the fulfilment of demand of clothes, one she-calf and utensils and also used to intimidate her that if the demand is not fulfilled, dire consequences shall follow. He has further deposed that a Panchayati was done to resolve the matter but it did not bear fruit. His evidence is further to the effect that he brought the deceased from her matrimonial home where she lived for eight days and returned to her matrimonial home in the company of P.W. 1 Bhim Das where Bhim Das was also intimidated that the nonfulfilment of demand of dowry shall be visited by severe consequences. P.W. 1 Bhim Das has deposed that the appellants started making demand of clothes, utensils, one she-calf and Rs. 5000/- in cash from the deceased after the marriage and they started her treating with cruelty and also used to assault her. He has further deposed that P.W. 8 has brought the deceased to his house. His evidence is further to the effect that he brought the deceased to her matrimonial home after eights days of her stay in her parent's house and in his presence demand of dowry was made and acquitted co-accused persons had stated before him that if the demand is not fulfilled, dire consequences shall follow. He has further deposed that eight days thereafter deceased was done to death and her dead body was found in thG well. In paragraph-9 of his cross-examination, he has deposed that in the month of Jeth prior to the occurrence he had visited the house of the appellants to dissuade them for not making demand of dowry but the appellants had made the demand of dowry in his presence. In paragraph 12 of his cross examination, he has deposed that the,de-i ceased was never assaulted in his presence but the deceased had told him one month prior to the occurrence regarding the fact of assault perpetrated on her by the appellants and he has also narrated the said fact to the informant. P.W. 2 has also deposed regarding the demand of she-calf and utensils and subjecting the deceased to cruelty by the appellants. In paragraph 10 of his cross-examination, he has deposed that he has lastly visited the house of the appellants about one year prior to the occurrence and appellant-Rohit Das demanded a she-calf from the deceased in his presence and also intimidated her of dire consequences and he has informed the parents of the deceased as well as his father in respect thereof. P.W. 4 Raj Kumar Das has deposed that whenever he met the deceased, she used to tell that the appellants always assault her for the fulfilment of demand of dowry. In para graph 5 of his cross-examination he has deposed that he had met the deceased lastly five or six months prior to the occurrence. P.W. 5 Laxman Das has also deposed that he has once met the deceased at Devi Chauk after her marriage with appellant-Rohit Das and she has told him about subjecting her to cruelty and harassment by the appellants for the fulfilment of demand of dowry. P.W. 7 Champa Devi has also deposed that the deceased had told her about the cruelty and harassment perpetrated on her by the ap pellants when she had come to her house in village-Hussainabad. In paragraph 4 of her cross-examination, she has deposed that she had come to her house in the company of appellant-Rohit Das. Therefore, there is sufficient and satisfactory evidence on the record to show that the deceased was treated with cruelty and harassment for the fulfilment of demand of dowry during the period of her conjugal life with the appellants sometimes after the marriage and the cruelty and harassment on her continued for the fulfilment of demand of dowry till her death. It, therefore, appears that the deceased was subjected to cruelty and harassment for the demand of dowry soon before her tragic end. A reading of <a href="/doc/1906/" id="a_38">Section 113B</a> of the Evidence Act along with <a href="/doc/653797/" id="a_39">Section 304B</a> of the Indian Penal Code shows that there must be material to show that soon before the death of the deceased, she was subjected to cruelty or harassment. Prosecution has to rule out the possibility of natural and accidental death. The expression "soon before" is very relevant where <a href="/doc/1906/" id="a_40">Section 113B</a> of the Evidence Act and <a href="/doc/653797/" id="a_41">Section 304B</a> of the Indian Penal Code are pressed into service. Prosecution is obliged to show that soon before the occurrence there was cruelty or harassment and only in the case presumption operates. Evidence in that regard has to be led by prosecution. "Soon before" is a relative term and it would depend upon circumstances of each case and no strait jacket formula can be laid down as to what would constitute a period of soon before the occurrence. It would be hazardous to indicate any fixed period, and that brings in the importance of a proximity test both for the proof of an offence of dowry death as well as for raising a presumption under <a href="/doc/1906/" id="a_42">Section 113B</a> of the Evidence Act. The expression "soon before her death" used in the substantive <a href="/doc/653797/" id="a_43">Section 304B</a> of the Indian Penal Code and <a href="/doc/1906/" id="a_44">Section 113B</a> of the Evidence Act is present with the idea of proximity test. No definite period has been indicated and the expression "soon before" is not defined. Suffice, however, to indicate that the expression "soon before" would normally imply that the interval should not be much between the concerned cruelty or harassment and the death in question. There must be existence of a proximate and live link between the effect of cruelty based on dowry demand and the concerned death. If alleged incident of cruelty is remote in time and has become stale enough not to disturb mental equilibrium of the woman concerned, it would be of no consequence. In the case of <a href="/doc/1263837/" id="a_45">Kans Raj v. State of Punjab</a>, 2000 (3) PLJR 68 (SC) : (2000 Cri LJ 2993 : AIR 2000 SC 2324) it has been observed by the Apex Court at Page 2332 of AIR:-
+</p><p id="p_29"> ""Soon before" is a relative term which is required to be considered under specific circumstances of each case and no strait jacket formula can be laid down by fixing any time limit. This expression is pregnant with the Idea of proximity test. The term "soon before" is not synonymous with the term "immediately before" and is opposite of the expression "soon after" as used and understood in <a href="/doc/731516/" id="a_46">Section 114</a>, Illustration (a) of the <a href="/doc/1953529/" id="a_47">Evidence Act</a>. These words would imply that the interval should not be too long between the time of making the statement and the death. It contemplates the reasonable time which, as earlier noticed, has to be understood and determined under the peculiar circumstances of each case. In relation to dowry death, the circumstances showing the existence of cruelty or harassment to the deceased are not restricted to a peculiar instance but normally refer to a course of conduct. Such conduct may be spread over a period of time. If the cruelty or harassment be demand for dowry is shown to have persisted, it shall be deemed to be "soon before death" if any other intervening circumstance Showing the non-existence of such treatment is not brought on record, before the alleged such treatment and the date of death. It does not, however, mean that such time can be stretched to any period. Proximate and live link between the effect of cruelty based on dowry demand and the consequential death is required to be proved by the prosecution. The demand of dowry, cruelty or harassment based upon such demand and the date of death should not be too remote in time which, under the circumstances, be treated as having become stale enough."
+</p> 
+
+<p id="p_30">In the case of <a href="/doc/1949931/" id="a_48">Hira Lal v. State (Govt. of NCT) Delhi</a>, AIR 2003 SC 2865 : (2003 Cri LJ 3711) it has been observed by the Apex Court which runs thus :-
+</p><p id="p_31"> "A conjoint reading of <a href="/doc/1906/" id="a_49">Section 113B</a> of the Evidence Act and <a href="/doc/1953529/" id="a_50">Section 304B</a>, <a href="/doc/1569253/" id="a_51">I.P.C</a>. shows that there must be material to show that soon before her death the victim was subjected to cruelty or harassment. Prosecution has to rule out the possibility of a natural or accidental death so as to bring it within the purview of the 'death occurring otherwise than in normal circumstances'. The expression 'soon before' is very relevant where <a href="/doc/1906/" id="a_52">Section 113B</a> of the Evidence Act and <a href="/doc/1953529/" id="a_53">Section 304B</a>, <a href="/doc/1569253/" id="a_54">I.P.C</a>. are pressed into service. Prosecution is obliged to show that soon before the occurrence there was cruelty or harassment and only in that case presumption operates. Evidence in that regard has to be led by prosecution. 'Soon before' is a relative term and it would depend upon circumstances of each case and no strait-jacket formula can be laid down as to what would constitute a period of soon before the occurrence. It would be hazardous to indicate any fixed period, and that brings in the importance of a proximity test both for the proof of an offence of dowry death as well as for raising a presumption under <a href="/doc/1906/" id="a_55">Section 113B</a> of the Evidence Act. The expression 'soon before her death' used in the substantive <a href="/doc/1953529/" id="a_56">Section 304B</a>, <a href="/doc/1569253/" id="a_57">I.P.C</a>. and <a href="/doc/1906/" id="a_58">Section 113B</a> of the Evidence Act is present with the idea of proximity test. No definite period has been indicated and the expression 'soon before' is not defined. A reference to expression 'soon before' used in <a href="/doc/731516/" id="a_59">Section 114</a>, Illustration (a) of the <a href="/doc/1953529/" id="a_60">Evidence Act</a> is relevant. Suffice, however, to indicate that the expression 'soon before' would normally imply that the inter val should not be much between the concerned cruelty or harassment and the death in question. There must be existence of a proximate and live link between the effect of cruelty based on dowry demand and the concerned death. If alleged incident of cruelty is remote in time and has become stale enough not to disturb mental equilibrium of the woman concerned, it would be of no consequence."
+</p> 
+
+<p id="p_32">Similar is the ratio laid down in the case of State of A. P. v. Raj Gopal Asawa, 2004 SCC (Cri) 1306 : (2003 Cri LJ 1791 : AIR 2004 SC 1933). In view of the evidence on the record, it stands established in this case that the death of the deceased had taken place within seven years of her marriage and her death is an unnatural death otherwise than under normal circumstances and there was a persistent demand of utensils, she calf and cash etc. and lastly made few days prior to her tragic end and she used to be subjected to cruelty for the fulfilment of said demand and there is sufficient legal evidence on the record to establish the fact that soon before her death, the deceased was subjected to cruelty or harassment by the appellants for the fulfilment of the said demands and in this view of the matter, it cannot be said that the interval between the concerned cruelty or harassment and the death of the deceased was remote in time or it has become stale enough not to disturb the mental equilibrium of the deceased in the facts and circumstances of this case and, therefore, it is imperative for invoking the legal presumption as envisaged in <a href="/doc/1906/" id="a_61">Section 113B</a> of the Evidence Act. I have no reason to disbelieve the evidence of P.W. 8 and P.W. 1 read with the evidence of other witnesses referred to above and there is ring of truth in their evidence.
+</p> 
+
+<p id="p_33">12. Karu Das of village-Bangora is admittedly the Samadhi of P.W. 1. There is no iota of legal evidence on the record to substantiate the fact that said Karu Das has any semblance of enmity either against the appellants or the acquitted co-accused persons and, therefore, in the facts and circumstances of this case, the false implication of the appellants in this case at the instance of Karu Das has no leg to stand. Therefore, the defence version of the false implication of the appellants in this case does not appear to be natural and probable. And last but not the least, the non-examination of any person of village-Bangora in respect of the prosecution case cannot be said to be an infirmity of the prosecution case in the facts and circumstances of this case in view of the legal evidence on the record subjecting the deceased with cruelty for the demand of dowry till her tragic end. It cannot also be said that the Investigating Officer has not properly conducted the investigation of this case. The learned Court below has meticulously considered the evidence on the record in proper perspective and has rightly come to the finding of the guilt of the appellants and I see no illegality in the impugned judgment requiring an interference therein.
+</p> 
+
+<p id="p_34">13. There is no merit in this appeal and it fails. The impugned judgment is hereby affirmed. The bail bonds of the appellants are hereby cancelled and they are directed to surrender before the Court below to serve out the sentence, failing which the learned Court below shall take all coercive steps in accordance with law for apprehending the appellants to serve out the sentence.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

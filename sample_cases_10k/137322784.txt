@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>S.Jayakumar vs The Registrar Of Co-Operative ... on 7 December, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/137322784/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/137322784/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/137322784/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/137322784/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=photostat%20copies">photostat copies</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=translators">translators</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=registrar%20co-operative">registrar co-operative</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=election%20commission">election commission</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=registrar%20of%20companies%20">registrar of companies </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20seshadri"> seshadri</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">S.Jayakumar vs The Registrar Of Co-Operative ... on 7 December, 2015</div><pre id="pre_1">        
+
+ 
+IN THE HIGH COURT OF KERALAATERNAKULAM
+
+                                              PRESENT:
+
+               THE HONOURABLE MR. JUSTICE DAMA SESHADRI NAIDU
+
+             MONDAY,THE 1ST DAYOF FEBRUARY 2016/12TH MAGHA, 1937
+
+                                   WP(C).No. 39287 of 2015 (I)
+                                   -------------------------------------
+
+PETITIONER : -
+----------------------
+
+           S.JAYAKUMAR,
+           T.C.29/2050,
+           KANJIRAVILLA HOUSE,
+           VELLAYAMBALAM,
+           SASTHAMANGALAM,
+           THIRUVANANTHAPURAM -10.
+
+           BY ADVS.SRI.P.SUBAIR KUNJU
+                         SRI.N.ANAND
+                         SRI.J.VISHNU
+
+RESPONDENTS :-
+--------------------------
+
+       1. THE REGISTRAR OF CO-OPERATIVE SOCIETIES,
+           THIRUVANANTHAPURAM - 695 001.
+
+       2. THE ASSISTANT REGISTRAR OF CO-OPERATIVE SOCIETIES,
+           THIRUVANANTHAPURAM - 695 001.
+
+       3. THE KOWDIAR CO-OPERATIVESOCIETY LTD. NO. T 2034,
+           KOWDIAR P.O,THIRUVANANTHAPURAM-695 003,
+           REPRESENTED BY ITS SECRETARY.
+
+           R3 BY ADV.SRI.P.V.BABY
+           R3 BY ADV.SRI.A.N.SANTHOSH
+           BY GOVERNMENT PLEADER SRI. T.R. RAJESH
+
+           THIS WRIT PETITION (CIVIL) HAVING BEEN FINALLY HEARD ON
+          01-02-2016, ALONG WITH WPC. 426/2016, THE COURT ON THE SAME DAY
+          DELIVERED THE FOLLOWING:
+
+WP(C).No. 39287 of 2015 (I)
+--------------------------------------
+
+                                            APPENDIX
+
+PETITIONER'S EXHIBITS : -
+-------------------------------------
+
+EXHIBIT P1 : TRUE COPY OF THE BYE-LAWS OF THE 3RD RESPONDENT
+                    SOCIETY.
+
+EXHIBIT P2 : TRUE COPY OF THE LIST OF PERSONS WHO HAD CONTRIBUTED
+                    TO THE SHARE CAPITAL ANNEXED ALONG WITH THE
+                    APPLICATION.
+
+EXHIBIT P3 : TRUE COPY OF THE MINUTES BOOK ALLEGEDLY REFLECTING
+                    THE FIRST MEETING OF THE SOCIETY.
+
+EXHIBIT P4 : TRUE COPY OF THE REPRESENTATION DATED 07.12.2015
+                    PREFERRED BY THE PETITIONER BEFORE RESPONDENT NO.1
+
+RESPONDENTS' EXHIBITS : -
+---------------------------------------
+
+EXHIBIT R3(a) :               TRUE PHOTOSTAT COPY OF THE APPLICATION FOR
+                              REGISTRATION OF THE SOCIETY DATED 25.01.2015.
+
+EXHIBIT R3(b) :               TRUE PHOTOSTAT COPY OF THE COMMUNICATION DATED
+                              16.6.2015 ISSUED BY THE JOINT REGISTRAR OF CO-
+                              OPERATIVE SOCIETIES THROUGH THE 2nd RESPONDENT
+                              TO THE CHIEF PROMOTER OF THE SOCIETY WITH
+                              ENGLISH TRANSLATION.
+
+EXHIBIT R3(c) :               TRUE PHOTOSTAT COPY OF THE RESOLUTION No.2
+                              DATED 25.6.2015 OF THE SOCIETY WITH ENGLISH
+                              TRANSLATION.
+
+EXHIBIT R3(d) :               TRUE PHOTOSTAT COPY OF THE RENT DEED DATED
+                              25.12.2014 ALONG WITH ENGLISH TRANSLATION.
+
+EXHIBIT R3(e) :               TRUE PHOTOSTAT COPY OF THE VOTERS IEDNTITY CARD
+                              DATED 10.6.2003 ISSUED BY THE ELECTION COMMISSION
+                              OF INDIA TO BHAGAVATH KUMAR.
+
+EXHIBIT R3(f) :               TRUE PHOTOSTAT COPY OF THE VOTERS IDENTITY CARD
+                              DATED 27.8.1997 ISSUED BY THE ELECTION COMMISSION
+                              OF INDIA TO GIREESH KUMAR.
+
+EXHIBIT R3(g) :               TRUE PHOTOSTAT COPY OF THE RENT DEED DATED
+                              1.10.2014 ALONG WITH ENGLISH TRANSLATION.
+
+WP(C).No. 39287 of 2015 (I)
+--------------------------------------
+
+EXIHIBIT R3(h) :              TRUE PHOTOSTAT COPY OF THE RENT DEED ATED
+                              20.10.2014 ALONG WITH ENGLISH TRANSLATION.
+
+EXHIBIT R3(i) :               TRUE PHOTOSTAT COPY OF THE RENT DEED DATED
+                              23.12.2014 ALONG WITH ENGLISH TRANSLATION.
+
+EXHIBIT R3(j) :               TRUE PHOTOSTAT COPY OF THE VOTERS IDENTITY CARD
+                              DATED 16.2.2011 ISSUED BY THE ELECTION COMMISSION
+                              OF INDIA TO MIDHUN KRISHNAN K.
+
+EXHIBIT R3(k) :               TRUE PHOTOSTAT COPY OF THE EXPLANATION DATED
+                              16.1.2016 ISSUED BY THIS RESPONDENT TO THE 2nd
+                              RESPONDENT ALONG WITH ENGLISH TRANSLATION.
+
+
+
+
+                                                             // TRUE COPY //
+
+
+                                                              P.A.TO JUDGE
+
+
+DMR/-
+
+
+
+                DAMA SESHADRI NAIDU, J.
+             ---------------------------------------
+                W.P.(c) No. 39287 of 2015
+                                &amp;
+                 W.P.(c) No. 426 of 2016
+             ----------------------------------------
+            Dated this the 01st day of February, 2016
+
+                           JUDGMENT
+</pre>
+<p id="p_1">      The   petitioner,  whose     membership     in   the   third
+
+respondent Society is disputed, has a grievance that the Joint
+
+Registrar,   exercising  the    powers   of   the   Registrar   of
+
+Co-operative Societies, registered the third respondent Society
+
+despite the fact that most of the promoting members resided
+
+outside the area of the Society. In this regard, the petitioner
+
+is said to have submitted Exhibit P4 representation before the
+
+Registrar of Co-operative Societies, the first respondent.
+
+</p><p id="p_2">      2. Ventilating his grievance, among other things, that so
+
+far the authorities concerned have not considered his
+
+objections, the petitioner has filed the present writ petition.
+
+</p><p id="p_3">      3. The third respondent Society, in turn, filed W.P. (C)
+
+No. 426/16 seeking a direction to the State Co-operative
+
+Election Commission, the second respondent therein, to
+
+conduct election to the Managing Committee of the Society, at
+
+the earliest. Taking W.P. (C) No.39287 of 2015 as the basis,
+
+this Court disposes of both the writ petitions through this
+
+common judgment.
+</p>
+<p id="p_4"><span class="hidden_text" id="span_1">W.P.(c) Nos. 39287/15 &amp; 426/16    2</span>
+
+
+
+</p><p id="p_5">      4. In response to the submissions made by the learned
+
+counsel for the petitioner, the learned counsel for the third
+
+respondent has submitted that this Court may dispose of the
+
+writ petition directing the Joint Registrar, who is not a party to
+
+the proceedings, to dispose of the petitioner's Exhibit P4
+
+objections, after affording an opportunity of hearing to the
+
+third respondent Society as well as the petitioner.
+
+</p><p id="p_6">      5. In reply, the learned counsel for the petitioner has
+
+submitted that the election proposed to be held to the third
+
+respondent Society may be contingent upon the order to be
+
+passed on the petitioner's Exhibit P4 application. The learned
+
+counsel has also submitted that instead of the Joint Registrar,
+
+the Registrar of the Co-operative Societies may decide the
+
+petitioner's Exhibit P4 application.
+</p>
+<p id="p_7">      6. At the outset, this Court makes it clear that it has no
+
+intention to decide the writ petition on merits for the issue has
+
+already been seized of by a competent authority, be it the
+
+Registrar of the Co-operative Societies or the Joint Registrar.
+
+As regards the contention of the learned counsel for the
+
+petitioner that the issue be decided by the Registrar of
+
+Co-operative Societies, I may have to hold that this Court
+
+whimsically does not denude an authority of his statutory
+
+<span class="hidden_text" id="span_2">W.P.(c) Nos. 39287/15 &amp; 426/16     3</span>
+
+
+
+power, provided he has been conferred with such power.
+
+Under these circumstances, this Court makes it clear that if at
+
+all statute permits the Joint Registrar to adjudicate on
+
+petitioner's Exhibit P4 application, he shall do so. On the other
+
+hand, if statute empowers only the Registrar of Co-operative
+
+Societies, it shall be his turn to consider petitioner's objections.
+
+</p><p id="p_8">      In conclusion, this Court disposes of both the writ
+
+petitions with a direction to the first respondent or the Joint
+
+Registrar of Thiruvananthapuram, whoever is empowered, to
+
+consider petitioner's Exhibit P4 objections concerning the
+
+registration of the third respondent Society and pass
+
+appropriate orders thereon, after affording an opportunity of
+
+hearing to the third respondent Society as well as the
+
+petitioner, as expeditiously as possible, at any rate, with a
+
+period of one month from the date of receipt of a copy of this
+
+judgment.
+</p>
+<p id="p_9">      It is further made clear that the election proposed to be
+
+held to the third respondent Society shall be contingent upon
+
+the orders to be passed either by the first respondent or by the
+
+Joint Registrar, as the case may be.
+</p>
+<p id="p_10">                                 DAMA SESHADRI NAIDU
+                                            JUDGE
+DMR/-
+</p>
+<p id="p_11">
+
+
+</p>           
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,694 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Case Mavji C. Lakum vs . Central Bank Of India, 2008 on 1 March, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/73005017/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 21 docs 
+      
+        - [<A HREF="/search/?formInput=cites:73005017">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1656199/">The Insurance Act, 1938</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1968818/">Section 11A in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/890245/">M/S Freeze King Industries Pvt. ... vs Presiding Officer, Labour Court ... on 12 April, 2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1237261/">Mavji C Lakum vs Central Bank Of India on 2 April, 2008</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/228328/">The Regional Manager, Rajasthan ... vs Sohan Lal on 27 September, 2004</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/73005017/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/73005017/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=187%20">187 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=disproportionate">disproportionate</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=quantum%20of%20punishment">quantum of punishment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=enquiry%20report">enquiry report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mavji%20c%20lakum">mavji c lakum</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Case Mavji C. Lakum vs . Central Bank Of India, 2008 on 1 March, 2011</div><div class="doc_author">Author: Sh. T.R. Naval</div>
+
+<pre id="pre_1">IN THE COURT OF DR. T.R. NAVAL ADDL. DISTRICT &amp;
+   SESSIONS JUDGE PRESIDING OFFICER LABOUR
+      COURT KARKARDOOMA COURTS DELHI
+
+ID No. 187/10 (New) 459/96 (Old)
+
+                Date of Institution :   25.01.1997
+                Date of Arguments :     28.02.2011
+                Date of Order       :   01.03.2011
+
+IN THE MATTER BETWEEN
+M/S National Institute of Immunology,
+NII Campus, J.N.U.Complex,
+Shaheed Jeet Singh Marg,
+New Delhi - 67.                  THE MANAGEMENT
+
+AND
+
+SH. Chail Mohan Gautam,
+r/o Village Chirawta,
+Tehsil &amp; P.O. Palwal,
+Distt. Faridabad,
+Haryana.                                   THE WORKMAN
+
+                            AWARD
+
+                The Secretary (Labour), Government of NCT of
+Delhi vide its order No. F.24(3506)/94-Lab./53122-26 dated
+23.12.1996 referred an industrial dispute between the
+above mentioned parties to the Labour Court with the
+following terms of reference:
+
+ID No. 187/10                                        Page 1/17
+        "Whether the services of Sh. Chail Mohan Gautam
+       have been terminated illegally and/or unjustifiably
+       by the management, and if so, to what relief is he
+       entitled and what directions are necessary in this
+       respect?"
+
+
+
+2.              The facts in brief of the case of the workman
+that the workman had been working with the management
+as a Junior Assistant (Stores) since 15.07.1988 on daily
+wages basis and his last drawn salary was Rs.77.55 per
+day and approximately he was getting Rs. 2400/- per
+month.     As the management was not providing statutory
+benefits to him and other employees, so he became an
+active member of a union.        The union of the employees
+demanded the statutory benefits from the management
+from time to time, which annoyed the management.            In
+order to get rid of the workman, the management issued
+him a show cause notice dated 12.03.1992 leveling false
+allegations. He submitted reply dated 14.03.1992 through
+his counsel. The management did not find his reply
+satisfactory and decided to initiate a departmental enquiry
+against him. The management appointed an enquiry
+officer and on the basis of the enquiry report, the
+management issued a memorandum dated 30.12.1992
+
+
+ID No. 187/10                                         Page 2/17
+ proposing imposing of a major penalty of his removal from
+service.    Vide     memorandum     dated    15.01.1993,     the
+management terminated his services. The termination of
+the services by the management is totally illegal, arbitrary
+and against the provisions of law and principles of natural
+justice because services of the workman were terminated
+due to trade union activities of the workman. The workman
+further submitted that punishment of termination of
+services is totally disproportionate to the gravity of charge.
+He sent a demand notice dated 15.06.1993 but the
+management did not send its reply. The conciliation
+proceedings have failed due to non cooperative attitude of
+the management. He has been without any employment
+since the date of termination of his services. The workman
+prayed for passing an award for his reinstatement in
+service with full back wages.
+
+
+3.              The management admitted that the workman
+was engaged as a casual worker in the project called
+Embroy Transfer Technology Project. The said project was
+terminated by the govt. w.e.f. 31.03.1992.       His services
+alongwith        other   workmen   stood    terminated     w.e.f.
+31.03.1992.        However, as a matter of precaution the
+
+
+ID No. 187/10                                            Page 3/17
+ enquiry was conducted and his services were dispensed
+with w.e.f. 15.01.1993. The performance of the workman
+was far away from satisfactory.      He was given several
+warnings to improve his performance while he was dealing
+in stores. As his performance was not satisfactory so he
+was transferred at the Experimental Farm of the Project at
+Dhauj.    The workman not only caused irregularities but
+also created nuisance there and failed to perform his duty
+regularly. Show cause notice dated 12.03.1992 was issued
+against him. Reply of the workman dated 14.03.1992 was
+not found satisfactory. The departmental enquiry was
+initiated against him. Enquiry was conducted strictly
+following the process prescribed in the Govt. of India Rules,
+i.e. CCS (CCA) Rules. The report of enquiry officer is based
+on facts, circumstances, actual proceedings, evidence and
+reasons. The imposition of major penalty of removal of his
+services was taken after following the due procedure as
+the workman committed fraud and his performance was
+unsatisfactory.
+                The management denied all the allegations
+levelled in the statement of claim and prayed for dismissal
+of statement of claim.
+
+
+
+
+ID No. 187/10                                        Page 4/17
+ 4.              The workman in his rejoinder controverted the
+contentions made in the WS and reiterated the averments
+made in the statement of claim.
+
+
+5.              On the pleadings of the parties, following issues
+were framed:
+                1.    Whether fair and proper enquiry was
+                      conducted by management?
+                2.    Whether the management is not an
+                      industry?
+                3.    As per terms of reference.
+
+
+
+6.              Issue No.1 was treated as preliminary issue. In
+order to show that management conducted a fair and
+proper enquiry, the workman examined himself as WW1.
+He proved his affidavit as Ex. WW1/A and also relied on
+documents Ex.WW1/1 to Ex.WW1/26.
+                In   order   to   prove   that   the   enquiry   was
+conducted fairly, properly and in accordance with the
+principles of natural justice, the management examined
+Sh. G.C. Verma, Administrative Officer as MW1/A. He filed
+and proved his affidavits as Ex.MW1/A and MW1/B and
+relied on documents Ex.WW1/9, Ex.MW1/1, Ex.MW1/2,
+Ex.MW1/3, Ex.MW1/4 and Ex.MW1/5.
+
+
+ID No. 187/10                                               Page 5/17
+ FINDINGS ON ISSUE NO.1
+7.              The enquiry issue was decided in favour of the
+management and against the workman vide order dated
+14.01.2011 and it was held that the evidence and material
+placed on record established that enquiry was conducted
+in accordance with the principles of natural justice and it
+was fair and proper.
+
+
+8.              I have heard the arguments of Counsels for the
+parties on the point of proportionality of the quantum of
+punishment and perused the file.
+
+
+9.              On perusal of the pleadings of the parties,
+analysing evidence and material placed on record and
+considering the arguments addressed by Counsels for the
+parties, I have formed my opinions on the proportionality
+of the quantum of punishment and that are discussed here
+in below:
+
+
+FINDINGS ON PROPORTIONALITY OF QUANTUM OF
+PUNISHMENT
+10.             It has been argued on behalf of workman that
+
+
+ID No. 187/10                                          Page 6/17
+ court can modify the punishment u/s 11-<a href="/doc/1656199/" id="a_1">A of the Act</a> in
+appropriate cases where the management has imposed
+harsh    punishment       which   is   disproportionate   to   the
+misconduct committed by the workman. He further argued
+that as per charge sheet Ex.WW1/9, about five charges
+were levelled against the workman by the management
+but the enquiry officer in his enquiry report opined that
+management could prove only one charge and could not
+prove remaining charges. In these circumstances, he has
+submitted that this is the appropriate case where the court
+can reduce the punishment imposed by the management.
+
+
+11.             In support of his arguments, he has relied on a
+case <a href="/doc/1237261/" id="a_2">Mavji C. Lakum vs. Central Bank of India</a>, 2008
+(VII) AD (SC) 284 . The Apex Court held that:
+        "6.The Industrial Tribunal firstly came to the conclusion
+        that the Departmental Inquiry was just and proper.
+        However, in so far as the merits of the allegations were
+        concerned, the Tribunal came to the conclusion that
+        there was no evidence supporting major charges,
+        though there was some misconduct on the part of
+        the appellant. Again the Tribunal specifically held that
+        the proved misconduct was not so serious as to invite the
+        extreme punishment of discharge. Reference was thus
+        partly allowed and the order of discharge was set aside.
+        The Tribunal imposed the punishment of withholding one
+        increment with future effect.***
+        17.When we see the Tribunal's Award, it is clear that
+
+ID No. 187/10                                             Page 7/17
+        firstly the Tribunal came to the conclusion that the inquiry
+       was fair and proper. Thereafter, in para 7, the Tribunal has
+       considered the arguments on behalf of the bank to the
+       effect that once the inquiry has been held to be legal and
+       proper, no interference can be made as regards the
+       punishment. It is to be noted that the first charge against
+       the appellant was rough and rude behaviour with client
+       Gulabchand and company's partner Harenderbhai Shah,
+       while the second charges was also regarding the rude
+       behaviour with the higher officers of the bank and
+       disobedience with the work entrusted; the third charge
+       was that he was instructed to remain present on the
+       bank's account closing day, he had gone away; the fourth
+       charge was regarding the breach of bank's rules
+       pertaining to leave; the fifth charge was with regard to
+       frequently leaving the place during office hours without
+       permission while the sixth charge was regarding the
+       illegally making trunk calls on the bank's phone without
+       permission and the seventh charge was incurring
+       excessive debts from outside.***
+       19. In our opinion under <a href="/doc/1968818/" id="a_3">Section 11-A</a> of the Industrial
+       Disputes Act the Tribunal was quite justified in using its
+       discretion. The scope of <a href="/doc/1656199/" id="a_4">Section 11-A</a> has been explained
+       by this Court from time to time in <a href="/doc/812574/" id="a_5">Life Insurance
+       Corporation of India vs. R.Dhandapani</a> [(2006) 13
+       SCC 613; <a href="/doc/730146/" id="a_6">Mahindra Ltd. vs. N.B.Narawade</a> [(2005) 3
+       SCC 331] and <a href="/doc/575349/" id="a_7">M.P.Electricity Board vs. Jagdish
+       Chandra Sharma</a> [(2005) 3 SCC 401]. Lastly, this Court
+       has held that in <a href="/doc/1345098/" id="a_8">L and T Komatsu Ltd. vs.
+       N.Uadayakumar</a> [(2008) 1 SCC 224] that assaulting of
+       giving abuses to the superior would justify the dismissal.
+       We have carefully examined the facts in all the above
+       cases and find that the appellant's case nowhere comes
+       near the described in all the above four cases. After all
+       the Tribunal was firstly correct in holding that the
+       misbehaviour was not wholly proved, did not deserve the
+       extreme punishment of discharge." [Emphasis supplied]
+
+
+ID No. 187/10                                             Page 8/17
+                 Turning to the case in hand, I find that facts of
+the above referred case are different from the present
+case. In the said case, it was the conclusion of the Tribunal
+that there was no evidence regarding major charges but in
+the present case, main charge of commission of fraud has
+been    proved       as   mentioned   in    the   enquiry    report.
+Therefore, the principles of law laid down in case <a href="/doc/1237261/" id="a_9">Mavji C.
+Lakum vs. Central Bank of India</a>, (supra) will not
+provide any benefit to the workman.
+
+
+12.             On the other hand, Ld. Counsel for management
+argued that though this court has power to alter the
+punishment in appropriate cases yet the court must be
+slow in altering the punishment and punishment could only
+be altered where the punishment was so grave that it
+shocked the conscious of this court. He further argued that
+where there are two opinions, then opinion which supports
+the administrative decision of the management regarding
+imposing of punishment, should be given priority.
+
+
+13.             In support of his arguments, he relied on a case
+<a href="/doc/890245/" id="a_10">Ballarpur        Industries    Ltd.   vs.   Presiding       Officer,
+Labour</a> Court, Bhubaneshwar and Others, 2004-II-LLJ
+
+ID No. 187/10                                               Page 9/17
+ 551. In this case, Orissa High Court observed that:
+      "8.We may state that the power of the Labour Court under
+      <a href="/doc/1656199/" id="a_11">Section 11-A</a> is undoubtedly wide and is available to be
+      exercised in the interest of justice. Exercise of such far
+      reaching discretionary power is governed by judicial
+      considerations and has to be exercised keeping the object
+      of <a href="/doc/1656199/" id="a_12">Section 11-A</a> in view. The conduct of the opposite party
+      No. 3 in tampering with the attendance register for
+      the purpose of getting wages for four days is
+      reprehensible and is a gross misconduct. He had
+      committed an offence of forgery and punishable
+      under <a href="/doc/1656199/" id="a_13">Section 465</a> as well as under <a href="/doc/556166/" id="a_14">Section 468</a> I.P.C.
+      (forgery for the purpose of cheating). <a href="/doc/722811/" id="a_15">In Regional
+      Manager and Disciplinary Authority, State Bank of
+      India Hyderabad v. S. Mohammed Gaffar</a>, AIR 2002 SC
+      3037: 2002-III-LLJ-529, the delinquent workman was a clerk
+      and while preparing establishment register got included
+      unauthorizedly three increments for himself to which he was
+      not legitimately entitled to. For such misconduct, he was
+      discharged from service. The Supreme Court held that
+      punishment imposed on him was just and proper and cannot
+      be interfered with in view of the gross misconduct
+      committed by him. Facts</pre><p id="p_1"> of the present case are similar to
+      the case mentioned above. Considering the facts and
+      circumstances, we are inclined to hold that the Labour Court
+      illegally exercised its discretion in exercise of its power
+      under <a href="/doc/1656199/" id="a_16">Section 11-A</a> by directing reinstatement of opposite
+      party No. 3 in service. The award, therefore, cannot be
+      sustained in law."
+</p><p id="p_2">                                              [Emphasis supplied]
+
+</p><p id="p_3">14.             He    further    relied   on   a   case   <a href="/doc/228328/" id="a_17">Regional
+Manager,             Rajasthan     State       Road       Transport
+Corporation vs. Sohan Lal</a>, 2004-III-LLJ 1078, wherein
+the Apex Court observed that:
+</p>
+<p id="p_4">ID No. 187/10                                               Page 10/17
+       "11.Assuming for argument sake that the High Court by the
+      impugned order proceeded on the basis that though the
+      misconduct is proved the punishment was disproportionate
+      and it is on that basis that the impugned order is made,
+      even then we are unable to agree with the order of the
+      Appellate Bench of the High Court because it is not the
+      normal jurisdiction of the superior Courts to interfere with
+      the quantum of sentence unless the said sentence is wholly
+      disproportionate to the misconduct proved. No such finding
+      has been recorded by the Appellate Bench in the impugned
+      order. Since the misconduct proved is one of
+      dishonesty, the quantum of loss is immaterial, it is
+      the loss of confidence that matters. In such a situation
+      if the Tribunal chooses to uphold the order of dismissal and
+      refuse to interfere with such termination and the learned
+      single Judge of the High Court agreed with the said order of
+      the Tribunal, then Appellate Bench ought not to have
+      interfered with the quantum of sentence. Having perused
+      the facts of the case we are in agreement with the finding of
+      the Tribunal as well as learned single Judge, hence, we are
+      of the considered opinion that the Appellate Bench fell in
+      error in interfering with the orders of the Courts below
+      merely on the basis of offer made by the appellant before
+      it."
+</p><p id="p_5">                                               [Emphasis supplied]
+
+</p><p id="p_6">15.             He further relied on      <a href="/doc/1358666/" id="a_18">M/s Bharat Heavy
+Electrical Ltd. v. M. Chandrasekhar Reddy and Ors</a>.
+2005-I-LLJ 65. The Apex Court observed that:
+</p>
+<blockquote id="blockquote_1">       "23. That apart the reasons given by the Labour Court to
+       reduce the penalty are reasons which are not sufficient for
+       the purpose of reducing the sentence by using its
+       discretionary power. The fact that the misconduct now
+       alleged is the first misconduct. On the facts of this case as
+       recorded by the Labour Court the loss of confidence is
+
+ID No. 187/10                                             Page 11/17
+       imminent, no finding has been given by the Courts below
+      including Labour Court that either the fact of loss of
+      confidence or the quantum of punishment is so harsh as to
+      be vindictive or shockingly disproportionate. Without such
+      finding based on records interference with the award of
+      punishment in a domestic inquiry is impermissible."
+</blockquote>
+<p id="p_7">16.             Counsel for the management further relied on
+Workmen,          Represented     by   <a href="/doc/236525/" id="a_19">President      of     Bihar
+Engineering Kamgar Union vs. Presiding Officer,
+Labour</a> Court, Dhanbad and Another, 2009 LLR 996.
+The Jharkhand High Court observed that:
+</p><blockquote id="blockquote_2">      "10. The learned Presiding Officer in its order dated
+      07.12.1989 specifically recorded that the disciplinary
+      proceeding was fair and reasonable. The law in this regard
+      is well-settled and while interpreting <a href="/doc/31217/" id="a_20">section 11</a> A of the
+      Industrial Disputes Act, the Hon'ble Supreme Court has
+      time and again has held that the jurisdiction of the
+      Industrial Tribunal and the High Court to interfere against
+      the order passed in a disciplinary proceeding is very
+      limited. <a href="/doc/575349/" id="a_21">In M.P. Electricity Board v. Jagdish Chandra
+      Sharma</a>, 2005 (105) FLR 155 (SC): 2005 (31) AIC 722, and
+      again in 2008 (1) SCC page 224 while considering a series
+      of judgment held that the Labour Court cannot sit in
+      appeal over the decision of the employer unless there
+      existed a violation of statutory provision in that behalf and
+      or the quantum of punishment was shockingly
+      disproportionate. In the instant case the charges were
+      proved and the enquiry was held to be fair and proper and
+      thus the learned Presiding Officer rightly held that the
+      action of the Management in terminating the services of
+      the workmen was legal and justified."
+</blockquote>
+<p id="p_8">17.             Counsel for management further relied on a
+
+ID No. 187/10                                              Page 12/17
+ case    <a href="/doc/1567218/" id="a_22">S.      Govindaraju       vs.    Divisional       Controller,
+Bangalore Metropolitan Transport Corporation</a>, 2009
+LLR 1299. The Karnataka High Court observed that:
+</p><blockquote id="blockquote_3">       "11. The Apex Court in the case of <a href="/doc/1235412/" id="a_23">Divisional Controller,
+       KSRTC (NWKRTC) v. A.T. Mane</a>, 2004 (103) FLR 428 (SC)
+       has held as follows:
+</blockquote><blockquote id="blockquote_4">          "12. Coming to the question of quantum of punishment, one
+       should bear in mind the fact that it is not the amount of money
+       misappropriated that becomes a primary factor for awarding
+       punishment; on the contrary, it is the loss of confidence which is
+       the primary factor to be taken into consideration. In our
+       opinion, when a person is found guilty of misappropriating the
+       corporation's funds, there is nothing wrong in the corporation
+       losing confidence or faith in such a person and awarding a
+       punishment of dismissal."
+</blockquote><blockquote id="blockquote_5">       12.***
+</blockquote><blockquote id="blockquote_6">       13.Similarly, the same view was reiterated by the Apex
+       Court in <a href="/doc/1581320/" id="a_24">Division Controller, N.E.K.R.T.C. v. H.Amaresh</a>,
+       2006 110) FLR 931 (SC) holding that when an employee is
+       found guilty of pilferage or of misappropriating the
+       Corporation's funds, there is nothing wrong in the
+       Corporation losing confidence or faith in such an employee
+       and awarding punishment of dismissal. In such cases
+       there is no place for generosity or misplaced sympathy on
+       the part of the judicial forums and interfering therefore
+       with the quantum of punishment."
+</blockquote>
+<p id="p_9">18.             Counsel for management further relied on a
+case <a href="/doc/1305448/" id="a_25">V. Ramana vs. APSRTC &amp; Ors. JT</a> 2005(8) SC 134.
+The apex Court held that:
+</p><blockquote id="blockquote_7">       "11.The common thread running through in all these
+       decisions is that the court should not interfere with the
+       administrator's decision unless it was illogical or suffers
+       from procedural impropriety or was shocking to the
+
+
+ID No. 187/10                                                  Page 13/17
+       conscience of the court, in the sense that it was in defiance
+      of logic or moral standards. In view of what has been
+      stated in the Wednesbury's case(supra) the Court would
+      not go into the correctness of the choice made by the
+      administrator open to him and the Court should not
+      substitute its decision to that of the administrator. The
+      scope of judicial review is limited to the deficiency in
+      decision-making process and not the decision.
+</blockquote><blockquote id="blockquote_8">      12.To put differently unless the punishment imposed by
+      the Disciplinary Authoirty or the Appellate Authority shocks
+      the conscience of the Court/Tribunal, there is no scope for
+      interference. Further to shorten litigations it may, in
+      exceptional and rare cases, impose appropriate
+      punishment by recording cogent reasons in support
+      thereof. In a normal course if the punishment imposed is
+      shockingly disproportionate it would be appropriate to
+      direct the Disciplinary Authority or the Appellate Authority
+      to reconsider the penalty imposed."
+</blockquote>
+
+<p id="p_10">19.             Counsel for management further relied on a
+case Employers in relation to the <a href="/doc/378045/" id="a_26">Management of
+West     Bokaro       Colliery   of   M/s.   TISCO     Ltd.,   vs.
+Concerned Workman, Ram Pravesh Singh</a>, 2008 II LLJ
+</p><p id="p_11">309. It was held by Hon'ble Supreme Court that:
+</p><blockquote id="blockquote_9">      "20. Learned Counsel for the respondent cited two cases
+      the <a href="/doc/118025507/" id="a_27">Workmen of Firestone Tyre &amp; Rubber Co. of India (Pvt.)
+      Ltd. vs. Management and Others</a> AIR 1973 SC 1227: (1973)
+      1 SCC 813: 1973-<a href="/doc/268016/" id="a_28">I-LLJ-278 and South Indian Cashew
+      Factories Workers' Union v. Kerala State Cashew
+      Development Corpn. Ltd. and Others</a> (2006) 5 SCC 201, to
+      contend that the Labour Court in exercise of its jurisdiction
+      under <a href="/doc/1968818/" id="a_29">Section 11-A</a> could have come to a different
+      conclusion. There is no quarrel with this proposition of law.</blockquote>
+<p id="p_12">      The Labour Court could have awarded lesser punishment in
+
+ID No. 187/10                                            Page 14/17
+       the given facts and circumstances of the case. In a case
+      where two views are possible on the evidence on record,
+      then the Industrial Tribunal should be very slow in coming
+      to a conclusion other than the one arrived at by the
+      domestic Tribunal by substituting its opinion in place of the
+      opinion of the domestic Tribunal."
+</p>
+<p id="p_13">20.             On perusal of principles of law laid down in
+<a href="/doc/890245/" id="a_30">Ballarpur        Industries   Ltd.   vs.   Presiding      Officer,
+Labour</a> Court, Bhubaneshwar and Others, (supra)
+<a href="/doc/228328/" id="a_31">Regional         Manager,     Rajasthan     State       Transport
+Corporation         vs.   Sohan   Lal</a>   (supra),    I   find   that
+punishment for removal of services was not altered as the
+courts were of the opinion that tampering with attendance
+register for the purpose of getting wages for four days was
+re-apprehensible and in        misconduct of dishonesty, the
+quantum of loss is immaterial and loss of confidence is
+material. In the present case, the misconduct against the
+workman was that he destroyed the muster roll and
+replaced it by new one. Besides, marked his attendance
+therein for causing wrongful gain to himself and wrongful
+loss to the management. Therefore, I am of the view that
+principles of law laid down in above referred cases are
+applicable on the facts of the present case as the
+allegations of misconduct levelled by the management
+were found correct by the inquiry officer. I am also of the
+
+ID No. 187/10                                             Page 15/17
+ view that nothing is on record which could establish that
+penalty of termination of services of the workman was
+disproportionate to the serious misconduct committed by
+the workman.
+</p>
+
+<p id="p_14">                             ORDER
+
+
+</p><p id="p_15">21.             Consequent   upon    the   above     reasons,
+discussion, the material on record and decision of issue No.
+1 in favour of the management and against the workman,
+the terms of reference are answered in favour of the
+management and against the workman and it is held that
+the workman could not establish that the management
+terminated his services either illegally or unjustifiably. The
+management by adducing the evidence, has established
+that services of workman were terminated after holding a
+just, fair and proper enquiry in accordance with the
+principles of natural justice and the punishment of
+termination of services was found in consonance or
+proportionate to the serious misconduct of fraud and
+destroying muster roll and fabricating false muster roll of
+attendance for monetary gain for which the workman was
+not otherwise entitled to get from the management.
+</p>
+
+<p id="p_16">ID No. 187/10                                        Page 16/17
+ Resultantly, the workman is not entitled to get any relief.
+No other directions are necessary in this case.
+</p><p id="p_17">                Award is, accordingly passed.
+</p>
+
+<p id="p_18">22.             Copy of award be sent to the Secretary Labour,
+Govt. of NCT, Delhi for publication as per rules.
+</p><p id="p_19">                File be consigned to Record Room.
+</p>
+<p id="p_20">Announced in the open court today
+the 1st day of March, 2011.
+</p><p id="p_21">                                 (DR. T. R. NAVAL)
+                        Additional District &amp; Sessions Judge
+                            Presiding Officer: Labour Court
+                                Karkardooma Courts,Delhi.
+</p>
+
+
+
+<pre id="pre_2">ID No. 187/10                                         Page 17/17
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

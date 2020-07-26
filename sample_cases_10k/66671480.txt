@@ -1,0 +1,639 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Om Prakash on 5 November, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/66671480/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/110162683/">the Central Excise Act, 1944</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1613898/">Section 207 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/224316/">Section 281 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/66671480/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/66671480/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dharam%20pal">dharam pal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=praveen%20kumar">praveen kumar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dd%20entries">dd entries</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2061%20of%20excise%20act">section 61 of excise act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=final%20arguments">final arguments</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22contradictory%22%20">"contradictory" </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=vishwas">vishwas</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=police%20report">police report</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Om Prakash on 5 November, 2009</div><div class="doc_author">Author: Sh. Ram Meena</div>
+
+<pre id="pre_1">                                   1
+
+                  IN THE COURT OF SH RL MEENA :
+                  MM: KARKARDOOMA COURTS: DELHI
+
+FIR No. 217/00
+U/s 61 <a href="/doc/110162683/" id="a_1">Excise Act</a>
+State versus Om Prakash
+PS Farsh Bazar
+
+JUDGMENT : 355 <a href="/doc/445276/" id="a_2">CrPC</a>
+
+a) the serial number of the       : 333 / 03
+   case
+b) the   date       of    the : 10.10.00
+   commission of the offence
+
+c) the    name       of       the : Constable Praveen Kumar
+   complainant (if any)
+d) the name of the accused : Om Prakash S/o Rattan Lal R/o
+   person, and his parentage Flat No. 53, CPJ - 2 block, New
+   and residence             Seelampur, Delhi.
+e) the offence complained of      : U/s 61 <a href="/doc/110162683/" id="a_3">Excise Act</a>
+   or proved
+f) the plea of the accused        : Accused did not plead guilty.
+   and his examination if any
+g) final order                    : Acquitted
+h) Final arguments heard on            05.11.09
+i)    date of such order          : 05/11/09
+      a brief statement of the reasons for the decision:-
+
+01.         A police report was put up against the accused by the
+
+State through Station House Officer of PS Farsh Bazar on 26.02.01
+
+alleging that on 10.10.00 at about 1:30 pm at 18 quarters, Vishwas
+
+Nagar, Delhi accused was found with 40 pouches of illicit liquor
+                                   2
+
+without any licence or permit and thereby committed an offence
+
+punishable u/s 61 <a href="/doc/110162683/" id="a_4">Excise Act</a>, hence he should be punished as per
+
+law.
+
+02.         After filing of the police report, cognizance of offence
+
+under <a href="/doc/110162683/" id="a_5">section 61</a> Excise Act was taken by my learned predecessor
+
+court and the accused was called upon to face trial after complying
+
+with the requirement of <a href="/doc/1613898/" id="a_6">section 207</a> of CrPC.
+
+03.         On 23.07.03 having heard the APP for the State and the
+
+accused a formal charge was framed against the accused for his
+
+having committed an offence punishable under <a href="/doc/110162683/" id="a_7">section 61</a> Excise Act
+
+to which the accused pleaded not guilty and subsequently he was put
+
+on trial.
+
+04.         In support of its case the prosecution examined as many
+
+as four witnesses. PW 1 is constable Premveer, PW 2 is constable
+
+Praveen Kumar, PW 3 is constable SI Dharampal, PW 4 is ASI Shri
+
+Ram.
+
+05.         During the prosecution evidence documents Ex. PW 1/A,
+
+Ex. PW 1/B, Ex. PW 1/C, Ex. PW 2/A, Ex. PW 4/A, Ex. PW 4/B, Ex.
+
+PW 4/C, Ex. PW 4/D were examined and the case property Ex. P1 to
+
+Ex. P 2 were also tendered and subsequently PE was directed to be
+                                   3
+
+closed.
+
+06.       The accused was examined under <a href="/doc/224316/" id="a_8">section 281</a> CrPC and
+
+all the incriminating evidence were brought to his notice. Accused
+
+expressed his innocence during his examination and further
+
+submitted that he is innocent and he has been falsely implicated in
+
+the present case. Accused did not lead his defence evidence.
+
+07.       I have also given my thoughtful consideration on the
+
+prosecution evidence which are as under:
+
+          PW 1 is      constable Premveer who deposed that on
+
+10.10.00</pre><p id="p_1"> he was posted at police station Farsh Bazar and on that
+
+day he was on reserve duty and after receiving DD No 18 A he
+
+along with HC Sri Ram reached at the spot at 18 quarters, Vishwas
+
+Nagar near dharam kanta where constable Praveen and constable
+
+Dharam met them and produced the accused with one parrot green
+
+colour bag, IO checked the said bag and found 40 pouches of country
+
+made liquor on which dildar masaleydar desi sharab was written. PW
+
+1 further deposed that IO poured contents of every pouch in the
+
+plastic cane, took our one quarter bottle as sample, prepared pulanda
+
+and kept empty pouches in same bag. Bag, sample and plastic cane
+
+were sealed with the seal of SR and seal after use was handed over
+<span class="hidden_text" id="span_1">                                  4</span>
+
+to constable Dharampal, IO filled up    excise form and prepared
+
+seizure   memo Ex. PW 1/A, IO recorded statement of constable
+
+Praveen, prepared rukka and handed over the same to him for
+
+registration of the FIR. PW 1 further deposed that after getting FIR
+
+registered he returned back at the spot and handed over copy of FIR
+
+and rukka to the IO who arrested the accused and conducted his
+
+personal search vide memo Ex. PW 1/B and Ex. PW 1/C.
+
+</p><p id="p_2">          PW 2 is constable Praveen Kumar, PW 3 is constable
+
+Dharampal and PW 4 is ASI Shri Ram who deposed on the same
+
+line of facts as deposed by PW 1 hence same are not reproduced
+
+here. In addition of that PW 2 also deposed that IO recorded his
+
+statement Ex. PW 2/A and PW 4 deposed that he prepared rukka Ex.
+
+PW 4/A, prepared site plan Ex. PW 4/B, information of arrest of
+
+accused was given to the wife of accused which is Ex. PW 4/C, form
+
+M 29 is Ex. PW 4/D and accused was released on            bail bond
+
+executed by Rajkumari which is Ex. PW 4/E.
+</p>
+<p id="p_3">08.       I have heard Ld. APP for the State and counsel for the
+
+accused and perused the record carefully. During the course of the
+
+final arguments counsel for the accused submits that prosecution
+
+has failed to prove its case beyond reasonable doubt hence accused
+<span class="hidden_text" id="span_2">                                     5</span>
+
+be acquitted for charged offence.
+</p>
+<p id="p_4">09.         In support of the arguments of the acquittal of the
+
+accused, counsel for the accused submits that prosecution examined
+
+four witnesses   who are all police witnesses but they have not
+
+supported the case of the prosecution and they have material
+
+contradictions in their testimonies. Counsel for the accused submits
+
+that PW 2 and PW 3 are the recovery witness but they have no
+
+consistency in their deposition as PW 2 constable Praveen Kumar
+
+deposed that accused was coming from shamshan ghat and he was
+
+having    a bag whereas PW 3        constable Dharampal stated that
+
+accused    was coming from Vishwas Nagar along with one plastic
+
+katta, which is very contradictory. Counsel for the accused further
+
+submits that PW 2 constable Anil deposed that constable Dharampal
+
+gave information in the police station whereas PW 3       constable
+
+Dharampal stated that constable Praveen made a telephone call to
+
+the police station which is also very contradictory. Counsel for the
+
+accused further submits that PW 4 IO stated in examination in chief
+
+that accused was found along with one plastic bag at the spot when
+
+he reached at the spot whereas in the cross examination he stated
+
+that cloth bag was found in possession of the accused and further
+<span class="hidden_text" id="span_3">                                     6</span>
+
+submits that PW 1 stated that IO informed to the relatives of the
+
+accused whereas PW 4 stated that information of arrest of accused
+
+was given to the wife of the accused which is very contradictory.
+
+Counsel for the accused further submits that IO has also not made
+
+any public witnesses of the recovery of the alleged illicit liquor despite
+
+the fact that alleged spot was a residential. Counsel for the accused
+
+further submits that the aforesaid facts clearly suggest that accused
+
+was falsely implicated in the present case and prosecution has failed
+
+to prove the case beyond reasonable doubt hence accused be
+
+acquitted.
+</p>
+<p id="p_5">10.          On the other hand Ld. APP for the State submits that
+
+prosecution has proved its case beyond reasonable doubt however
+
+there are some technical aspects as pointed out by the counsel for
+
+the accused but same does not weak the case of the prosecution.
+
+</p><p id="p_6">11.          After having gone through the submissions of the counsel
+
+of the accused and submissions of the Ld. APP for the State as well
+
+as perusal of the record I find that prosecution has failed to prove its
+
+case beyond reasonable doubt on following grounds:
+
+</p><p id="p_7">             Firstly, I find that there are several contradictions in the
+
+evidence of prosecution. I find that as per the prosecution version
+<span class="hidden_text" id="span_4">                                     7</span>
+
+there are two recovery witnesses namely constable Praveen Kumar
+
+and constable Dharampal who stated that they were on patrolling
+
+duty but abovesaid witnesses have not shown any document / DD
+
+entry by which it can be shown that they were on patrolling duty in
+
+the concerned area.
+</p>
+<p id="p_8">           For knowing the importance of the DD entry of arrival and
+
+departure of the police officials from the police station, I have perused
+
+Chapter 22 Rule 49 of Punjab Police Rules, 1934 which reads as
+
+under:
+</p>
+<p id="p_9">           "22.49 Matters to be entered in Register No. II. The
+
+following matters shall, amongst others, be entered:
+
+</p><p id="p_10">           (c)        The hour of arrival and departure on duty at or
+
+from a police station of all enrolled police officers of whatever rank,
+
+whether posted at all police station or elsewhere, with a statement of
+
+the nature of their duty. This entry shall be made immediately on
+
+arrival or prior to the departure of the officer concerned and shall be
+
+attested by the latter personally by signature or seal.
+
+Note:      The term Police Station will include all places such as
+
+Police Lines and Police Posts where Register No. II is maintained.
+<span class="hidden_text" id="span_5">                                    8</span>
+
+</p><p id="p_11">           In the present case, the above said provision appears to
+
+have not been complied with by prosecution. As per the prosecution
+
+version at the time of the apprehension of the accused with illicit
+
+liquor in his possession, constable Praveen Kumar and constable
+
+Dharampal were on the area patrolling duty but the DD entry vide
+
+which they had left the PS for patrolling has not been brought on
+
+record. Even the number of the said DD entry made in Register No. II
+
+has not been brought on judicial record. In my opinion prosecution
+
+was under an obligation to prove on record, the above said DD entry
+
+vide which above said police officials had left the PS for patrolling
+
+duty so as to prove the possibility of availability of constable Praveen
+
+Kumar and constable Dharampal at the place of apprehension of
+
+the accused. In the facts and circumstances of the case, the
+
+prosecution ought to have proved the DD entry by which the above
+
+said police officials had left the PS so as to inspire the confidence
+
+regarding their availability / presence at the place of apprehension of
+
+the accused. At this juncture, it would be relevant to refer to a case
+
+law reported as Rattan Lal versus State 1987 (2) Crimes 29 the
+
+Hon'ble Delhi High Court wherein it has been observed that if the
+<span class="hidden_text" id="span_6">                                     9</span>
+
+investigating agency deliberately ignores to comply with the
+
+provisions of the Act the courts will have to approach their action with
+
+reservation. The    matter has to be viewed with suspicion if the
+
+provisions of law are not strictly complied with and the least that can
+
+be said is that it is so done with an oblique motive. This failure to
+
+bring on record, the DD entry creates a reasonable doubt in the
+
+prosecution version and attributes oblique motive on the part of the
+
+prosecution.
+</p>
+<p id="p_12">           Secondly, I find that PW 2 constable Praveen Kumar
+
+deposed that accused was coming from shamshan ghat and he was
+
+having    a bag whereas PW 3 constable Dharampal stated that
+
+accused    was coming from Vishwas Nagar along with one plastic
+
+katta, which creates doubt over the prosecution case. Further, I
+
+find that PW 2 constable Anil deposed that constable Dharampal
+
+gave information in the police station whereas PW 3           constable
+
+Dharampal stated that constable Praveen made a telephone call to
+
+the police station which is also very contradictory. Further, I find that
+
+PW 4 IO stated in examination in chief that accused was found along
+
+with one plastic bag at the spot when he reached            at the spot
+<span class="hidden_text" id="span_7">                                    10</span>
+
+whereas in the cross examination he stated that cloth bag was found
+
+in possession of the accused and further submits that PW 1 stated
+
+that IO informed to the relatives of the accused whereas PW 4
+
+stated that information of arrest of accused was given to the wife of
+
+the accused. The aforesaid contradictions in the deposition of the
+
+PW creates doubt over the prosecution case.
+</p>
+<p id="p_13">           Thirdly, I also find that IO has also not made any public
+
+witnesses of the recovery of the alleged illicit liquor despite the fact
+
+that alleged spot was a residential. In this regard, the explanation of
+
+the prosecution witnesses has been that none of the public persons
+
+agreed to join the investigation. The explanation given by the
+
+prosecution witness does not seem plausible because in the police
+
+report as well as the testimony of the prosecution witnesses, the
+
+names of the public persons, who were requested to join the
+
+investigations have not been mentioned. IO has also not taken any
+
+action against such public persons who did not tender help to the
+
+public servant despite they were being under an obligation to render
+
+help on the legitimate request of the public servant.
+
+</p><p id="p_14">            I have also relied upon citation Sadhu Singh versus
+
+State of Punjab, (1997) 3 Crimes 55 (PH) wherein it is held that
+<span class="hidden_text" id="span_8">                                    11</span>
+
+there can be cases when public witnesses are reluctant to join or are
+
+not available. All the same, the prosecution must show a genius
+
+attempt having been made to join public witnesses. It is further held
+
+that a stereo type statement of non availability of any public witness
+
+will not be sufficient particularly when at the relevant time, it was not
+
+difficult to procure the services of public witness. Keeping in view of
+
+the citation, I am of the considered view that prosecution has failed to
+
+show a genuine effort to make a public witness in regard of alleged
+
+recovery of case property from the possession of the accused.
+
+</p><p id="p_15">12.       In view of the above discussion I hold that the accused is
+
+not found guilty of the charge framed against him and he is acquitted
+
+of the charge under <a href="/doc/110162683/" id="a_9">section 61</a> Excise Act framed against him.
+
+Accused be set at his liberty if he is not required in any other case.
+
+After compliance file be sent to record room.
+</p>
+<p id="p_16">
+
+</p><pre id="pre_2">ANNOUNCED IN THE OPEN                     (RL MEENA)
+COURT ON 05.11.09                   METROPOLITAN MAGISTRATE
+                                   KARKARDOOMA COURTS, DELHI
+<span class="hidden_text" id="span_9">                                  12</span>
+
+FIR No. 217/00
+U/s 61 <a href="/doc/110162683/" id="a_10">Excise Act</a>
+PS Farsh Bazar
+05.11.09
+
+Present:   APP for the State.
+
+           Accused on bail with counsel.
+
+</pre><p id="p_17">           Statement of accused recorded u/s 281 <a href="/doc/445276/" id="a_11">CrPC</a>. He does
+
+not wants to lead defence evidence.
+</p>
+<p id="p_18">           At this stage counsel for the accused submits that he
+
+wants to put his final arguments. Final arguments heard. Put up for
+
+orders at 3:00 pm.
+
+                                            (RL Meena)
+                                           MM/KKD/05.11.09
+3:00 pm
+Present:   APP for the State.
+</p>
+<p id="p_19">           Accused on bail with counsel.
+</p>
+<p id="p_20">           Vide my separate judgment, accused is acquitted of the
+
+charge under <a href="/doc/110162683/" id="a_12">section 61</a> Excise Act. Accused be set at his liberty if
+
+he is not required in any other case. Bail bond of the accused is
+
+cancelled. Surety discharged. After compliance file be sent to record
+
+room.
+</p>
+<p id="p_21">                                            (RL Meena)
+                                           MM/KKD/05.11.09
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

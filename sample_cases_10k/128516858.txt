@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Kamalakshi vs State Of Kerala on 16 June, 2004</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/128516858/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1331755/">The Prevention of Corruption Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/128516858/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/128516858/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/128516858/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Kamalakshi vs State Of Kerala on 16 June, 2004</div><pre id="pre_1">        
+
+ 
+IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                              PRESENT:
+
+                 THE HONOURABLE MR. JUSTICE P.UBAID
+
+      TUESDAY, THE 28TH DAY OF FEBRUARY 2017/9TH PHALGUNA, 1938
+
+                     WP(C).No. 2251 of 2017 (F)
+                     ---------------------------
+
+
+PETITIONER(S):
+-------------
+
+          1. KAMALAKSHI,
+            AGED 68, W/O.LATE NEELAMBARAN, AYYAPPA MANDIRAM,
+            UDAYAMPEROOR P.O., KOCHI-682307.
+
+          2. BABY RAGHAVAN,
+            AGED 64, W/O.RAGHAVAN, AYYAPPA MANDIRAM,
+            UDAYAMPEROOR P.O., KOCHI-682307.
+
+
+            BY ADV. SRI.S.RENJITH
+
+RESPONDENT(S):
+--------------
+
+          1. STATE OF KERALA,
+            REPRESENTED BY THE HOME SECRETARY, SECRETARIAT,
+            THIRUVANANTHAPURAM-695001.
+
+          2. THE VIGILANCE DIRECTOR,
+            KERALA VIGILANCE &amp; ANTI CORRUPTION BUREAU OFFICE, MG,
+            VIKAS BHAVAN P.O., OPPOSITE KSRTC DEPOT,
+            THIRUVANANTHAPURAM, KERALA. 695001.
+
+          3. SUPERINTENDENT OF VIGILANCE,
+            KERALA VIGILANCE &amp; ANTI-CORRUPTION BUREAU OFFICE,
+            ERNAKULAM SPECIAL CELL, KATHRIKADAVU, ERNAKULAM. 682025.
+
+          4. SPECIAL THASILDAR,
+            LAND ACQUISITION (LA) GENERAL, KAKKANAD,
+            ERNAKULAM. 682030.
+
+          5. INDIAN OIL CORPORATION LIMITED,
+            PANAMPILLY AVENUE, PANAMPILLY NAGAR P.O.,
+            KOCHI-682036, REPRESENTED BY MANAGING DIRECTOR.
+
+
+            R5  BY ADV. SRI.M.GOPIKRISHNAN NAMBIAR
+            R5  BY ADV. SRI.P.GOPINATH
+            R5  BY ADV. SRI.K.JOHN MATHAI
+            R5  BY ADV. SRI.JOSON MANAVALAN
+            R5  BY ADV. SRI.KURYAN THOMAS
+            R1 TO R4  BY  PUBLIC PROSECUTOR SRI. ALEX M. THOMBRA
+
+       THIS WRIT PETITION (CIVIL)  HAVING COME UP FOR ADMISSION  ON
+      28-02-2017, THE COURT ON THE SAME DAY DELIVERED THE FOLLOWING:
+
+WP(C).No. 2251 of 2017 (F)
+---------------------------
+
+                              APPENDIX
+
+PETITIONER(S)' EXHIBITS
+-----------------------
+EXHIBIT P1-    COPY OF THE JUDGMENT IN I.A.APPL. NO.91 OF 2000 DATED
+              16/06/2004.
+
+EXHIBIT P2-    COPY OF THE INFORMATION DATED 15/01/2015 OBTAINED FROM
+              THE 4TH RESPONDENT OFFICE.
+
+EXHIBIT P3-    COPY OF THE LETTER DATED 29/12/2014 OF THE 5TH
+              RESPONDENT.
+
+EXHIBIT P4-    COPY OF THE COMPLAINT SUBMITTED BY THE PETITIONERS
+              BEFORE THE 3RD RESPONDENT.
+
+
+
+RESPONDENT(S)' EXHIBITS:     NIL
+-----------------------
+
+
+
+ds
+                            //TRUE COPY//
+
+
+                            P.A. TO JUDGE
+
+
+
+                             P.UBAID, J.
+                - - - - - - - - - - - - - - - - - - - - - -
+                    W.P.(C).No. 2251 of 2017
+              - - - - - - - - - - - - - - - - - - - - - - - - -
+          Dated this the 28th day of February, 2017
+
+                          J U D G M E N T
+</pre>
+<p id="p_1">          The petitioners herein seek a writ of mandamus
+
+directing action, including criminal action, on a complaint
+
+made by them before the third respondent.
+
+</p><p id="p_2">          2.   The matter is concerning the amount of
+
+compensation for land acquisition, disbursed by the 5th
+
+respondent. The allegation of the petitioners is that only a
+
+fraction of the compensation has come to court by way of
+
+deposit, and the balance amount is still with the 4th
+
+respondent.   It appears that the petitioners would allege
+
+misappropriation by the 4th respondent. Now there is report
+
+from the 4th respondent that the claimants have already
+
+received the entire amount due, and they, in fact, have
+
+received some excess amount. The statement filed by the
+
+4th respondent contains the details of the deposits so far
+
+made. The report further shows that the 4th respondent has
+
+W.P.(C).No. 2251 of 2017
+<span class="hidden_text" id="span_1">                             -2-</span>
+
+
+
+already initiated proceedings to realize the amount received
+
+by the petitioners and others in excess.      In the present
+
+circumstances where the petitioners and others have
+
+already received the entire amount due from the 5th
+
+respondent, there is no scope for a prosecution under the
+
+<a href="/doc/1331755/" id="a_1">Prevention of Corruption Act</a>, or under<a href="/doc/1569253/" id="a_2"> the Indian Penal
+
+Code</a>.     Anyway, it is submitted by the learned Public
+
+Prosecutor that the Vigilance has not so far received any
+
+complaint from the petitioners, and so, there is no question
+
+of initiating any action. The petitioners have produced a
+
+copy of the complaint. But the VACB is definite that the
+
+Vigilance has not so far received any such complaint.
+
+Anyway, the report of the 4th respondent shows that there is
+
+no scope for any sort of proceeding now, because, the entire
+
+amount of compensation stands          deposited, and the
+
+claimants including the petitioners, have received the entire
+
+amount due.      If so, there is no question of any sort of
+
+criminal misappropriation or misconduct. I find no reason
+
+W.P.(C).No. 2251 of 2017
+<span class="hidden_text" id="span_2">                                -3-</span>
+
+
+
+for any sort of orders in this writ petition in the above
+
+circumstances. The report submitted by the 4th respondent
+
+is recorded.
+</p>
+<p id="p_3">           The writ petition is accordingly disposed of.
+
+
+
+
+</p><p id="p_4">                                                  Sd/-
+</p><p id="p_5">                                                P.UBAID
+                                                 JUDGE
+ds
+
+
+
+
+          </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

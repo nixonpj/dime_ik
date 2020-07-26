@@ -1,0 +1,569 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>National Insurance Company Ltd vs Sundaram on 2 April, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/12308983/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1331149/">Article 227 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/47966/">Nagappa vs Gurudayal Singh &amp; Ors on 3 December, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/147367599/">Section 173 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/6640122/">Antitrust - Section 26(2) ... vs The Secretary To Government ... on 29 October, 2014</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/12308983/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/12308983/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/12308983/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">National Insurance Company Ltd vs Sundaram on 2 April, 2019</div><pre id="pre_1">                                                         1
+
+
+                                 IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                DATED: 02.04.2019
+
+                                                     CORAM:
+
+                               THE HONOURABLE Mr.JUSTICE RMT.TEEKAA RAMAN
+
+                                               C.M.A.No.1901 of 2011
+
+
+                      National Insurance Company Ltd.,
+                      Sri Ram Site Office,
+                      2-A Prakasam Road,
+                      T.Nagar, Chennai.                           ... Appellant
+
+                                                      Versus
+
+                      1. Sundaram
+                      2. Samikannu                                ...Respondents
+
+
+                      Prayer : These Civil Miscellaneous Appeal has been filed under <a href="/doc/147367599/" id="a_1">Section
+                      173</a> of Motor Vehicles Act, 1988 against the Judgment and decree
+                      dated 17.03.2008 made in M.A.C.T.O.P.No.962 of 2004 on the file of
+                      Motor Vehicle Accident Claims Tribunal ( Fast Track Court No.IV),
+                      Coimbatore at Tirupur.
+
+
+
+                            For Appellant                : Mr. S. Vadivel
+
+                            For R-1 &amp; R2                 : Mr.Ma.Pa. Thangavel
+                            For Respondent -2            : Ex-parte.
+
+
+
+
+http://www.judis.nic.in
+                                                          2
+
+
+
+
+                                                     JUDGMENT
+</pre>
+<p id="p_1">                                 The appellant/Insurance Company has preferred the above
+
+                      civil miscellaneous appeal, challenging the Judgment and Decree
+
+                      dated 17.03.2008 made in M.A.C.T.O.P.No. 962 of 2004 on the file of
+
+                      the Motor Vehicle Accidents Claims Tribunal-cum-Additional District
+
+                      Court ( Fast Track Court No.IV), Coimbatore at Thirupur.
+
+
+
+</p><p id="p_2">                            2. The brief facts of the case which are necessary for the
+
+                      disposal of this appeal, are as folows:-
+</p>
+<p id="p_3">                            (i) The appellant is the Insurance Company. The first respondent
+
+                      herein is the claimant and the second respondent herein is the owner
+
+                      of the alleged vehicle involved in the accident.
+
+</p><p id="p_4">                            (ii) The injured/claimant was aged about 32 years on the date
+
+                      of the accident and he was working as a driver and earning a sun of
+
+                      Rs.5,000/- per month.
+</p>
+<p id="p_5">                            (iii) The accident in this case happened on 07.07.2004 at about
+
+                      1:45 hours, when the first respondent herein/claimant was travelling
+
+                      in an auto bearing Registration No.TN46 Bus 6285, which was driven by
+
+                      its driver in a rash and negligent manner near Kattu Peeranangiam.
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                        3</span>
+
+                      Due to the accident, the claimant has sustained injuries and hence, he
+
+                      filed a claim petition in M.C.O.P.No.962 of 2004, on the file of the
+
+                      Motor Accidents Claims Tribunal, Additional District Judge, Fast Track
+
+                      Court No.IV, Coimbatore at Tiruppur, Claiming a sum of Rs.5,00,000/-
+
+                      as compensation.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">                               3. Before the Tribunal, the claimant examined himself as
+
+                      P.W.1 and Dr.Senthil Kumar was examined as P.W.2 and documents
+
+                      Exs.P.1 to P.7 were marked on the side of the claimant. On the side of
+
+                      the respondents before the Tribunal, no witness was examined and no
+
+                      document was marked.
+</p>
+<p id="p_8">
+</p><p id="p_9">                               4. The Tribunal, based upon the documentary evidence
+
+                      Ex.A1-FIR and the oral evidence of P.W.1, has held that due to the rash
+
+                      and negligent driving on the part of the driver of the Auto, the Auto
+
+                      was capsized and P.W.1 has suffered injuries and further held that the
+
+                      accident has taken place due to the rash and negligent driving on the
+
+                      part of the driver of the Auto and the said finding is well considered
+
+                      and well merited and hence, the said finding is hereby confirmed.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                                                        4</span>
+
+</p><p id="p_10">                               5. On the point of quantum, both the parties were heard.
+
+
+
+</p><p id="p_11">                            6. It is seen from Ex.A.3-Discharge Summary, the claimant has
+
+                      sustained a lacerated wound measuring 5x4cm overdorso-radial aspect
+
+                      of left forearm with grade II commuted fracture at middle third of
+
+                      ulna and radius. It is a grievous injury. Orif with K wire fixation was
+
+                      done in Coimbatore Medical College Hospital, Coimbatore by
+
+                      conducting surgery on 08.07.2004 and therafter further treatment was
+
+                      given in Ganga Hospital, Coimbatore, by conducting surgeries on
+
+                      10.07.2004, Debridement, K. wire removal from radius shortening of
+
+                      radius and internal fixation with DCP screws. The claimant was again
+
+                      admitted in the same hospital on 28.10.2004 for bone grafting of
+
+                      radius due to delayed union of the fracture and he was an in-patient
+
+                      upto 03.11.2004 as per Ex.A.5-medical bills.
+
+
+
+</p><p id="p_12">                                7.P.W.2-Dr.Senthilkumar, who is an Ortho Surgeon working in
+
+                      CMC Hospital, Coimbatore, has examined the claimant on 03.01.2008
+
+                      and issued Disability Certificate under Ex.A6, fixing the permanent
+
+                      partial disability being suffered by the claimant due to restricted
+
+                      movements of left elbow and wrist joint, reduced muscle power
+http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                                                         5</span>
+
+                      grasping power at left hand, muscle wasting by 4 cm, absence of part
+
+                      of middle third of ulna and loss of co-ordination at 45%. Ex.A.7 is the
+
+                      X-ray taken for this purpose.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">                               8.The injured / claimant, who was examined as P.W.1, in his
+
+                      evidence had deposed that he was working as a driver in Valarmathi
+
+                      Transports, Palladam and earning a sum of Rs.5,000/- per month and
+
+                      after the accident, he was unable to pursue his avocation. In Ex.A.1-
+
+                      FIR itself, it has been stated that the claimant was working as a driver
+
+                      in Valarmathi Lorry services. Due to the injuries sustained by the
+
+                      claimant, his earning power would be affected and hence, the Tribunal
+
+                      has fixed the disability suffered by the claimant at 40%. At the time of
+
+                      the accident, the deceased was aged 38 years. Considering the age of
+
+                      the claimant, the Tribunal has applied the multiplier of 16 and in the
+
+                      absence of any documentary proof for his income, the Tribunal has
+
+                      fixed the income of the claimant as Rs.3,000/- per month. For the
+
+                      said income and multiplier of 16, the compensation for 49% of loss of
+
+                      earning power is worked out to Rs.2,30,400/-
+
+
+</p><p id="p_15">                                  9. It is seen from the records that the driving license of
+
+                      the driver has not been marked before the Tribunal and in the absence
+http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                                                         6</span>
+
+                      of any material, the finding of the Tribunal that the negligence is on
+
+                      the part of the driver is hereby vacated.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">                                  10. On the point of quantum of compensation, I have
+
+                      heard the counsel appearing for the respective parties and perused
+
+                      the materials on record.
+</p>
+<p id="p_18">
+
+
+</p><p id="p_19">                                  11. In the decision of this Court reported in 2018 (1) TN
+
+                      MAC 592(DB), [ Managing Director, State Express Transport
+
+                      Corporation Limited, Vs. Radha and others], the Division Bench has
+
+                      held that though the appeal has been preferred by the Transport
+
+                      corporation, considering the facts and circumstances of the case, the
+
+                      Court could take Suo motu decision for enhancing the compensation
+
+                      amount awarded by the Tribunal, by re-appreciating the evidence on
+
+                      record and applying the correct position of law, as on date and
+
+                      invoking Order 41, Rule 33 C.P.C and Section 151 CPC as well as <a href="/doc/1331149/" id="a_2">Article
+
+                      227</a> of the Constitution of India. The relevant paragraph No.9 of the
+
+                      above said decision is extracted herunder:-
+
+</p><p id="p_20">                                            '9.Though    the      appeal   has   been
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                                                             7</span>
+
+                                   preferred by the Transport Corporation, the facts
+                                   and circumstances of the case, enables this Court
+                                   to enhance the compensation awarded by the
+                                   Tribunal from Rs.14,57,000/- to Rs.17,83,000/- by
+                                   re-appreciating    the   evidence    on     record    and
+                                   applying the correct position of law, as on date
+                                   and invoking Order 41, Rule 33, C.P.C., and Section
+                                   151 of C.P.C as well as <a href="/doc/1331149/" id="a_3">Article 227</a> of the
+                                   Constitution of India. Moreover, the provisions of
+                                   <a href="/doc/785258/" id="a_4">Motor Vehicles Act</a> are beneficial in nature and
+                                   what is required to be awarded is just and
+                                   reasonable compensation. Therefore, even in the
+                                   absence of Appeal/Cross Appeal by the claimants,
+                                   this Court has got power and jurisdiction to
+                                   enhance   the     compensation,     which    has     been
+                                   recognised by the Hounarable Supreme Court in
+                                   <a href="/doc/47966/" id="a_5">Nagappa V. Gurudayal Singh</a>, 2004(2) TN MAC
+                                   398 (SC).''
+
+
+
+
+</p><p id="p_21">                                     12. The Tribunal, after taking into consideration the
+                          nature of injuries and the age of the claimant, has arrived a sum of
+                          Rs.2,30,400/- towards loss of earning power and taking note of
+                          Ex.A.5- Medical bills, assessed a sum of Rs.77,085/- towards medical
+                          expenses and the same are confirmed. The Tribunal has awarded a
+                          sum of Rs.15,000/- under the head of pain and suffereings and the
+
+http://www.judis.nic.in
+                          same is enhanced to Rs.25,000/-. Further, the Tribunal has awarded a
+<span class="hidden_text" id="span_6">                                                                   8</span>
+
+                          sum of Rs.2,000/- towards transportation charges and the same is
+                          confirmed. Under the head of extra nourishment, the Tribunal has
+                          awarded a sum of Rs.3,000/- and the same is enhanced to
+                          Rs.15,000/- The Tribunal has not awarded any amount towards loss of
+                          amenities and attender charges and hence a sum of Rs.20,000/- is
+                          awarded towards loss of amenities and a sum of Rs.10,000/- is
+                          awarded towards attender charges. The Tribunal has awarded a sum
+                          of Rs.1,500/- towards loss of income. This Court is of the view that
+                          due to the injuries suffered by the claimant and subsequent
+                          treatment, the claimant could not have been attended his regular
+                          duty for a period of five months, and hence, loss of income for five
+                          months is assessed at Rs.15,000/-. Accordingly, the compensation
+                          awarded by the Tribunal is enhanced to Rs.3,94,485/- from
+                          3,28,985/- as tabulated hereunder:
+</p><p id="p_22">                                  Particulars         Amount awarded by the    Amount awarded by this
+                                                           Tribunal                   Court
+                          Loss of income             Rs.77,085/-              Rs.77,085/-
+</p><pre id="pre_2">                          Attender Charges           -Nil-                    Rs.10,000/-
+                          Loss of earning power      Rs.2,30,400/-            Rs.2,30,400/-
+                          Transport Expenses         Rs.2,000/-               Rs.2,000/-
+                          Pain and sufferings        Rs.15,000/-              Rs.25,000/-
+                          For Extra nourishment      Rs.3,000/-               Rs.15,000/-
+                          Loss of income             Rs.1,500/-               Rs.15,000/-
+                          Loss of amenities          -Nil-                    Rs.20,000/-
+                          Total                      Rs.3,28,985/-            Rs.3,94,485/-
+
+
+
+                                        13. In the result,
+
+                                        (i)     The Civil Miscellaneous Appeal is partly allowed
+http://www.judis.nic.in
+<span class="hidden_text" id="span_7">                                                          9</span>
+
+</pre><p id="p_23">                                  (ii) The quantum of compensation awarded by the Tribunal
+
+                      is enhanced from Rs.3,28,985/- to Rs.3,94,485/-
+
+</p><p id="p_24">                                  (iii) The appellant/Insurance Company is directed to
+
+                      deposit the enhanced compensation amount together with interest at
+
+                      the rate of 7.5% per annum, within a period of eight weeks from the
+
+                      date of reciept of a copy of this judgment.
+
+</p><pre id="pre_3">                                  (iv)   On     such     deposit       being   made    by     the
+
+                      appellant/Insurance     company,   the   first    respondent/claimant    is
+
+</pre><p id="p_25">                      permitted towithdraw the enhanced amount, less the amount already
+
+                      withdrawn, if any, by way of filing proper application before the
+
+                      Tribunal.
+</p>
+<p id="p_26">                                  (v) The appellant/Insurance company is permitted to
+
+                      withdraw the excess amount, if any, lying in the credit of
+
+                      M.C.O.P.No.962 of 2004.
+</p>
+<p id="p_27">                                  (vi) No Costs.
+</p>
+<p id="p_28">
+
+
+</p><p id="p_29">                                                                                      02.04.2019
+                      smn
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_8">                                                         10</span>
+
+
+                      Index: Yes/ No
+                      Internet: Yes
+                      Speaking Order/ Non Speaking Order
+
+
+
+
+                      To
+
+
+</p><p id="p_30">                      1. The Motor Accidents Claims Tribunal,
+                         Additional District cum Fast Track Court-IV,
+                         Ponneri.
+</p>
+<p id="p_31">                      2. <a href="/doc/6640122/" id="a_6">The Section Officer,
+                         V.R. Section, High</a> Court, Madras – 104.
+</p>
+<p id="p_32">
+
+
+</p><p id="p_33">                                                                        RMT.TEEKAA RAMAN.J.,
+                                                                                     smn/JRL
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_9">                          11</span>
+
+
+
+
+                                 CMA No.2640 of 2010
+                                                and
+                               C.M.A.No.2193 of 2011
+
+
+
+
+                                        21.03.2019
+
+
+
+
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

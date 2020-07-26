@@ -1,0 +1,386 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S Aristocrat Realcon Private ... vs .......... on 15 July, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/170076117/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:170076117">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1562602/">Section 391 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/301194/">Section 394 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/462219/">The Reserve Bank of India Act, 1934</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1866996/">Section 251 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1153658/">Section 394(1) in The Companies Act,   1956</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/170076117/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/170076117/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/170076117/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=regional%20director">regional director</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=official%20liquidator">official liquidator</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=private%20limited%20company">private limited company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=private%20company">private company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20394">s 394</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rbi">rbi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20391">section 391</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=citation">citation</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">M/S Aristocrat Realcon Private ... vs .......... on 15 July, 2014</div><div class="doc_author">Author: Sanjeev Sachdeva</div>
+
+<pre id="pre_1">$~22
+    *IN THE HIGH COURT OF DELHI AT NEW DELHI
++      CO.PET.98 /2014
+IN THE MATTER OF M/S ARISTOCRAT REALCON
+PRIVATE LIMITED AND ORS.    .........Petitioners
+
+                   Through:   Mr. Dilip Singh Advocate for
+                              Petitioner companies,
+                              Mr.     Atma     Sah, Assistant
+                              Registrar of Companies for the
+                              Regional Director,
+                              Mr. Rajiv Behl, Advocate for the
+                              official Liquidator.
+
+       CORA M:
+       HON'BLE MR. JUSTICE SANJEEV SACHDEVA
+
+                        ORDER
+</pre><p id="p_1">       %                15.07.2014
+
+       SANJEEV SACHDEVA, J (ORAL)
+
+</p><p id="p_2">1.     This second motion joint petition filed under <a href="/doc/1562602/" id="a_1">Sections
+       391</a> to <a href="/doc/301194/" id="a_2">394</a> of the Companies Act, 1956 („Act‟) seeking
+       sanction of the Scheme of A malgamation     („Scheme‟)
+       of M/s Aristocrat Realcon Private Limited (Transferor
+       Company No 1), M/s Astonish Construction Private
+       Limited (Transferor Company No 2), M/s Crimson
+       Promoters Private Limited (Transferor Company No 3),
+       M/s Flame Developers Private Limited (Transferor
+       Company     No   4),   M/s   Goverdhan   Impex   Private
+
+==================================================
+<span class="hidden_text" id="span_1">CO.PET. 98 /2014                                         1</span>
+      Limited (Transferor Company No 5)                     and          M/s
+     Honeydew       Promoters      Private    Limited      (Transferor
+     Company No 6)         (hereinafter referred to as "the
+     Transferor Companies") with M/s The Best Move
+     Developers Private     Limited (Transferee Company)
+     (Collectively referred as Petitioner Companies ). A copy
+     of the scheme has been enclosed with the petition.
+</p>
+<p id="p_3">2.   The registered offices of Trans feror Company and the
+     Transferee Company are situated within the National
+     Capital   Territory   of   Delhi        and    are    within       the
+     jurisdiction of this Court.
+</p>
+<p id="p_4">3.   Details with regard to the date of incorporation of the
+     Transferor and Transferee Company, their authorized ,
+     issued, subscribed and paid up capital have been set out
+     in the Petition.
+</p>
+<p id="p_5">4.   Copies    of    the   Memorandum              and    Articles       of
+     Association as well as the latest audited Annual
+     Accounts for the year ended 31 st March, 2011 as well
+     as year ended 31 st March 2012 of the Petitioner
+     Companies have also been enclosed with the Petition.
+</p>
+<p id="p_6">5.   Copies of the Resolutions passed by the Board of
+     Directors of the Petitioner Companies approving the
+
+==================================================
+<span class="hidden_text" id="span_2">CO.PET. 98 /2014                                                    2</span>
+      Scheme of Amalgamation have also been placed on
+     record.
+</p>
+<p id="p_7">6.   Learned counsel for the petitioner Companies submits
+     that no proceedings under <a href="/doc/1613691/" id="a_3">sections 235</a> to <a href="/doc/1866996/" id="a_4">251</a> of the
+     Companies Act, 1956 is pending against the Petitioner
+     Companies.
+</p>
+<p id="p_8">7.   The Petitioner Companies had earlier filed CA (M) No.
+     10 of 2014 seeking directions of this Court for
+     dispensation/convening of meetings. Vide order dated
+     20.01.2014, this Court allowed the Application and
+     requirement   of    convening   all    the   meetings       of
+     shareholders and unsecured creditors of the Transferor
+     Companies     and   the   Transferee    Company         were
+     dispensed with. None of the Applicant Transferor
+     Companies and the Transferee Company had any
+     Secured Creditors
+
+</p><p id="p_9">8.   The Petitioner Companies had thereafter filed the
+     present Petition seeking sanction of the Scheme. Vide
+     order dated 07.02.2014, notice of the Petition was
+     directed to be issued to the Regional Director, Northern
+     Region and the Official Liquidator attached with this
+     Court. Citations were also directed to be published in
+     "Statesman"   (English)   and   Jansatta     (Hindi).       An
+
+==================================================
+<span class="hidden_text" id="span_3">CO.PET. 98 /2014                                             3</span>
+       affidavit of service and publication has been filed by
+      the Petitioners showing compliance regarding service
+      of the Petition on the Regional Director, Northern
+      Region and the Official Liquidator and also regarding
+      publication of citations in the aforesaid newspapers on
+      1st April, 2014 &amp; 31st March, 2014 respectively. Copies
+      of the newspaper cuttings, in original, containing the
+      publications have been filed along with the Affidavit of
+      Service.
+</p>
+<p id="p_10">9.    In   response    to     the   notices   issued,   the   Official
+      Liquidator sought information from the Petitioner
+      Companies. Based on the information received, learned
+      official Liquidator has filed his report dated 22.05.2014
+      wherein he has stated that he has not received any
+      complaint against the proposed Scheme from any
+      person/party interested in the Scheme in any manner
+      and that the affairs of the Transferor Company do not
+      appear to have been conducted in a manner prejudicial
+      to the interest of its members, c reditors or to public
+      interest as per 2nd proviso of <a href="/doc/1153658/" id="a_5">section 394(1)</a> of the Act.
+</p>
+<p id="p_11">10.   In response to the notices issued in the Petition, learned
+      Regional     Director,    Northern      Region,   Ministry    of
+      Corporate     Affairs     has   filed   his   Affidavit   dated
+
+
+==================================================
+<span class="hidden_text" id="span_4">CO.PET. 98 /2014                                                4</span>
+       20.05.2014. The Regional Director in para no. 4 of the
+      affidavit has following observations:
+</p><blockquote id="blockquote_1">            "The ROC, Delhi has reported that the
+            Petitioner Companies are engaged in the
+            business of making investments and/or
+            granting loans and advances, whereas there is
+            no mention whether these Companies are
+            registered with the RBI as NBFC, if so,
+            whether they have obtained „No Objection‟
+            from RBI with regard to the propos ed
+            Scheme of Amalgamation."
+</blockquote>
+<p id="p_12">11.   In response to the above observations made by the
+      Learned Regional Director, all Petitioner Companies
+      have filed affidavits on 27.05.2014 , stating that none
+      of    the   Transferor    and   Transferee   Companies        is
+      registered with the RBI as a non banking finance
+      company. Hence, „No Objection‟ from the RBI for the
+      proposed Scheme of A malgamation is not required.
+</p>
+<p id="p_13">12.   It is directed that in case it is found that the transferor
+      and    transferee        companies    have    violated       any
+      provisions of the <a href="/doc/462219/" id="a_6">Reserve Bank of India Act</a> then
+      Directors of the transferor and transferee companies
+      guilty of breaching the applicable provisions of the
+      <a href="/doc/462219/" id="a_7">Reserve Bank of India Act</a> shall continue to be liable
+      irrespective of the sanction of the scheme.
+</p>
+
+
+<p id="p_14">==================================================
+<span class="hidden_text" id="span_5">CO.PET. 98 /2014                                               5</span>
+</p><p id="p_15"> 13.   No objection has been received to the Scheme from any
+      other party. Mr. Dinesh Kumar Gupta, Director of the
+      Transferee Company, has filed an affidavit confirming
+      that neither the Petitioner Companies nor their counsel
+      has   received     any        objection      pursuant     to    citations
+      published in the newspapers.
+</p>
+<p id="p_16">14.   In view of the approval accorded by the Shareholders
+      and    Creditors         of      the      Petitioner      Companies,
+      affidavit/report    filed        by    the     Regional         Director,
+      Northern Region and the Official Liquidator, attached
+      with this court to the proposed Scheme, ther e appears
+      to be no impediment to the grant of sanction in the
+      scheme. Consequently, sanction is hereby granted to
+      the Scheme under <a href="/doc/1562602/" id="a_8">Sections 391</a> and <a href="/doc/301194/" id="a_9">394</a> of the Act. The
+      Petitioner Companies will comply with the statutory
+      requirements in accordance with law.
+</p>
+<p id="p_17">15.   Certified copy of the order be filed with the Registrar
+      of Companies with in thirty days from the date of
+      receipt of the same. In terms of the provisions of
+      <a href="/doc/1562602/" id="a_10">Sections 391</a> and <a href="/doc/301194/" id="a_11">394</a> of the Act, and in terms of the
+      Scheme, the whole or part of the undertakings , all
+      properties,   rights      and     powers       of   the        Transferor
+      Companies be transferred to and vest in the Transferee
+     Company without any further act or deed. Similarly, in
+==================================================
+<span class="hidden_text" id="span_6">CO.PET. 98 /2014                                                         6</span>
+       terms of the Scheme, all the liabilities and duties of the
+      Transferor Companies be transferred to the Transferee
+      Company without any further act or deed. Upon the
+      Scheme       coming      into    effect,   the   Transferor
+      Company/Companies shall stand dissolved without
+      winding up.
+</p>
+<p id="p_18">16.   It is, however, clarified that this order will not be
+      construed     as   an   order   granting   exemption    from
+      payment of stamp duty or taxes or any other charges, if
+      payable      in    accordance      with    any   law;       or
+      permission/compliance with any other requirement
+      which may be specifically required under any law.
+</p>
+<p id="p_19">17.   Learned Counsel for the Petitioner submits that the
+      Petitioner Companies (collectively) would voluntarily
+      deposit a sum of Rs. 1,00,000/- in the common Pool
+      fund of the Official Liquidator within three weeks from
+      today. The Statement is accepted.
+</p>
+<p id="p_20">18.   The petition is allowed in the above terms.
+</p>
+
+
+<p id="p_21">                                      SANJEEV SACHDEVA, J
+      JULY 15, 2014/hj
+
+
+
+==================================================
+<span class="hidden_text" id="span_7">CO.PET. 98 /2014                                              7</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

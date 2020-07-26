@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: T.A. Chidambara Chetty And ... vs Unknown on 8 November, 1920</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/11259/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:11259">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/701797/">The Special Courts Act,   1979</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1770256/">Section 36 in The Provincial Insolvency Act, 1920</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1622833/">The Presidency- Towns Insolvency Act,   1909</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/891599/">The Administrators- General Act,   1963</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1886876/">Section 37 in The Provincial Insolvency Act, 1920</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/11259/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/11259/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=insolvency">insolvency</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=garnishee">garnishee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=original%20jurisdiction">original jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=insolvence%20act">insolvence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=land%20act">land act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=insolvency%20jurisdiction">insolvency jurisdiction</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">In Re: T.A. Chidambara Chetty And ... vs Unknown on 8 November, 1920</div><div class="doc_citations">Equivalent citations: 61 Ind Cas 991</div>
+
+<div class="doc_author">Author: K Sastriar</div>
+
+<div class="doc_bench">Bench: K Sastriar</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ Kumaraswami Sastriar, J.
+</p> 
+
+<p id="p_2">1. These are Garnishee summonses taken out by the Official Assignee, claiming from the Garnishees, kist due by them for various Faslis from 1318 to 1328. Several defenses were raised, one of them being that the Court has no jurisdiction, clalms for rent in respect of estates being exclusively friable by Revenue Courts. Section 189 of the Estates Land Act enacts that no Civil Court, in the exercise of its Original jurisdiction, shall take cognizance of any dispute or matter in respect of which a suit or application might be brought or made before a Collector or Revenue Officer in respect of suits and applications specified in Parts A and B of the Schedule of the Act. A suit for rent is included in Part A (item 8). If the present claim was by way of Garnishee summons on the Original Side of the High Court, it is clear that it would not lie, but the question is whether a Judge exercising jurisdiction under the provisions of the <a href="/doc/1622833/" id="a_1">Presidency Towns Insolvency Act</a> is exercising Original Jurisdiction. <a href="/doc/1826410/" id="a_2">Section 4</a> of the Insolvency Act enacts that all matters, in respect of which jurisdiction is given by the Act, shall be ordinarily transacted and disposed of by or tinder the digestions of one of the Judges of the Court whom the Chief Justice from time to time assigns as a Judge for that purpose. <a href="/doc/1848646/" id="a_3">Section 8(2)(6)</a> directs that appeals from an order of any such Judge shall lie in the same way and be subject to the same provisions as an appeal from an order made by a Judge in the exercise of the Ordinary Original Civil jurisdiction of the High Court. <a href="/doc/1770256/" id="a_4">Section 36</a>, which deals with Garnishee proceedings, provides that orders made against the Garnishees shall be executed in the same manner as decrees for the payment or delivery of property under the Code of Civil Procedure, and <a href="/doc/1886876/" id="a_5">Section 37</a> gives the same power to issue commissions and letters of request as it has for the examination of witnesses under the Code of Civil Procedure. <a href="/doc/393016/" id="a_6">Section 90</a> provides that in all proceedings under the Act the Court shall have like powers and follow the like procedure as it has and follows in the exercise of its Ordinary Original Civil Jurisdiction, as pointed out by their Lordships of the Privy Council in Canvas Arcades, In the matter of, Navivahu v. C.A. Turner 13 B. 520 (P.C.) : 16 I.C. 156 : 5 Sat P.C.J. 400 : 13 Ind. Jur. 251 : 7 Ind. Dec. (N.S.) 345. Sections 11 to 18 of the Royal Charter are a group of clauses headed Civil jurisdiction of the High Court. Clause 18, after stating that the Court for relief of Insolvent Debtors shall be held before one of the Judges of the High Court and that the said High Court or any Judge thereof Bhall have and exercise within the Presidency of Madras such powers and authority with respect to Original and Appellate Jurisdictional and otherwise as are constituted by the law relating to Insolvent Debtors in India. The clause clearly speaks of Original Jurisdiction of the Judge in Insolvency. I am of opinion that the Judge sitting in the Insolvency Court exercises Original Civil Jurisdiction, I do not think that the provisions of <a href="/doc/1770256/" id="a_7">Section 36</a> of the Insolvency Act, which provides for the determination by the Insolvent Court of all questions relating to the debts due by third persons to the insolvent, can override the provisions of Section 189 of the Madras Estates Land Act, which is a <a href="/doc/701797/" id="a_8">Special Act</a> passed in the year 1908. <a href="/doc/1622833/" id="a_9">The Presidency Towns Insolvency Act</a> is a <a href="/doc/143594/" id="a_10">General Act</a> passed in 1909 and the Legislature must have been aware that so far as the Madras Presidency was concerned, a <a href="/doc/701797/" id="a_11">Special Act</a> had ousted all Civil Courts of jurisdiction in respect of a particular class of cases. <a href="/doc/891599/" id="a_12">A General Act</a> is to be construed as not repealing a particular one which is directed towards a special object or a special class of objects. Qarnstt v. Bradley (1878) 3 App. Cas. 944 at P. 950 : 48 L.J. Ex. 186 : 39 L.T. 261 : 26 W.R. 698, Payne, Ex parte (1849) 18 L.J.Q.B. 197 : 5 D. &amp; L. 679 : 13 Jur. 634 : 79 R.R. 892. The Local Government has, under the Government of India Act, power to repeal or alter any law passed by the Indian Legislature and there is no question of ultra vires. The proprietors of estates within the meaning of the Estates Land Act all over the Presidency or tenants of such estates may became insolvent, and it would lead to obvious difficulties if the Judge exercising Insolvency jurisdiction should be the only authority who is to settle terms of pattai and muchilikas, determine rates of rent or questions of commutation or several other questions which the Legislature expressly took out of the cognizance of Civil Courts, especially as the same reasons that dictated the policy as regards ordinary Civil Courts apply with equal force to Courts exercising Insolvency Jurisdiction.
+</p> 
+
+<p id="p_3">2. I am of opinion that I have no jurisdiction to determine questions as to which the jurisdiction of Civil Courts is ousted by the Madras Estates Land Act, and dismiss the petitions with costs.
+</p> 
+
+<p id="p_4">3. Taxed costs and Counsel in the first of the oases only.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

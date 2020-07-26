@@ -1,0 +1,432 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>K.Jeganathan vs C.Anbalagan on 5 December, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/92304952/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/487026/">Section 378 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/177946336/">Section 147 in The Negotiable Instruments Act, 1881</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/92304952/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/92304952/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/92304952/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">K.Jeganathan vs C.Anbalagan on 5 December, 2018</div><pre id="pre_1">                                                         1
+
+
+                             IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                              DATE : 05.12.2018
+
+                                                     CORAM:
+
+                             THE HONOURABLE MR.JUSTICE M.DHANDAPANI
+
+                                       Criminal Appeal No.339 of 2005
+
+                      K.Jeganathan                                            .. Appellant
+
+                                                      .. Vs ..
+
+                      C.Anbalagan                                           .. Respondent
+
+                      PRAYER:     Criminal Appeal filed under <a href="/doc/487026/" id="a_1">Section 378</a> Cr.P.C., to set
+                      aside the judgment dated 17.01.2005 made in C.A.No.249 of 2004
+                      on the file of the Hon'ble Additional District Sessions Court Cum Fast
+                      Track Court No.V, Coimbatore at Tiruppur, which reversed the
+                      judgment dated 20.05.2004 made in C.C.No.264 of 2003 on the file
+                      of the learned Judicial Magistrate No.II, Tiruppur.
+                               For Appellant :      Mr.P.M.Duraiswamy
+                               For Respondent      : Mr.V.Nicholas
+
+                                                   JUDGMENT
+</pre>
+<p id="p_1">                            The Criminal Appeal has been filed by the appellant to set
+
+                      aside the judgment dated 17.01.2005 made in C.A.No.249 of 2004
+
+                      on the file of the learned Additional District Sessions Court Cum Fast
+
+                      Track Court No.V, Coimbatore at Tiruppur, which reversed the
+
+                      judgment dated 20.05.2004 made in C.C.No.264 of 2003 on the file
+
+                      of the learned Judicial Magistrate No.II, Tiruppur.
+</p>
+<p id="p_2">http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                                2</span>
+
+</p><p id="p_3">                            2.The learned counsel for the appellant would submit that
+
+                      since the respondent has agreed to pay the cheque amount of
+
+                      Rs.8,10,000/- (Rupees Eight Lakhs and Ten Thousand Only) and the
+
+                      appellant is willing to receive the same.
+</p>
+
+
+<p id="p_4">                            3.The learned counsel appearing for the respondent would
+
+                      submit   that   the    respondent         undertakes        to   pay    a    sum     of
+
+                      Rs.8,10,000/- within a period of six months, in support of which, he
+
+                      filed a joint memo of compromise held between the appellant and
+
+                      respondent.
+</p>
+
+
+<p id="p_5">                            4.To    that    extent      joint       memo     of    compromise           dated
+
+                      05.12.2018, duly signed by the appellant and the respondent                          as
+
+                      well as by the learned counsel appearing for the appellant and the
+
+                      learned counsel appearing for the respondent has been filed before
+
+                      this Court and both the parties were present and confirmed their
+
+                      signature in the joint memo of compromise. Relevant portion of the
+
+                      same is given below:-
+</p>
+<blockquote id="blockquote_1">                                    “The    appellant    herein      is    the    complainant      in
+                            C.C.No.264       of   2003     filed     under       <a href="/doc/1823824/" id="a_2">Section     138</a>   of
+                            Negotiable Instruments Act against the respondent
+                            herein on the file of Judicial Magistrate No.2, Tirupur.</blockquote>
+<p id="p_6">                            The trial Court convicted the respondent and imposed
+http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                                                         3</span>
+
+                            rigorous imprisonment for a period of one year and fine
+                            of   Rs.2,000/-    (Rupees       Two   Thousand    Only).
+                            Challenging the Judgment of trial Court, the respondent
+                            filed appeal in C.A.No.249 of 2004 on the file of V
+                            Additional District and Sessions Judge, Coimbatore at
+                            Tirupur.   The lower appellate Court allowed the appeal
+                            and set aside the judgment of the lower appellate Court.
+                            At the time of final hearing of the appeal the matter was
+                            referred to mediation, though the mediation failed the
+                            parties are willing settle to dispute among them.     The
+                            respondent is undertaking to settle the cheque amount
+                            Rs.8,10,000/- (Rupees Eight Lakhs and Ten Thousand
+                            Only) and the appellant herein is willing to receive the
+                            cheque amount and settle the issue.      The respondent
+                            undertakes to pay the said amount within a period of 6
+                            months from today i.e. On or before 04.06.2019 and
+                            appellant is also willing to grant the required 6 months
+                            time to the respondent to put quietus to the issue.
+                            Hence both the parties file the present joint memo of
+                            compromise and are willing to abide by the above said
+                            terms. This Hon'ble Court may be pleased to record this
+                            memo of compromise filed by both the parties together
+                            and thus render justice.”
+
+
+</p><p id="p_7">                            5.In the case of Damodar S. Prabhu Vs. Syed Babalal H.,
+                      reported in [2010 (5) SCC 663], the Full Bench of the Hon'ble
+                      Supreme Court has held that where the offences are essentially of a
+                      private nature and relatively not quite serious,<a href="/doc/445276/" id="a_3"> the Code</a> considers it
+                      expedient to recognize some of them as compoundable offences and
+http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                                                           4</span>
+
+                      some others are compoundable only with the permission of the
+                      Court. In this regard, it is useful to extract hereunder paragraphs
+                      16 and 17:
+</p><blockquote id="blockquote_2">                                   ''16.   It is evident that the permissibility of
+                           the compounding of an offence is linked to the
+                           perceived seriousness of the offence and the
+                           nature of the remedy provided. On this point we
+                           can refer to the following                 extracts from     an
+                           academic commentary [cited from : K.N.C. Pillai,
+                           R.V.Kelkar's       Criminal     Procedure,         Fifth    Edn.</blockquote><pre id="pre_2">
+                           (Lucknow:        Eastern    Book     Company,       2008)     at
+                           p.444]
+
+
+                                           ''17.2. Compounding of offences
+                                   .-- A crime is essentially a wrong
+                                   against    the    society    and    the    State.
+                                   Therefore    any    compromise         between
+</pre><blockquote id="blockquote_3">                                   the accused person and the individual
+                                   victim of the crime should not absolve
+                                   the       accused           from       criminal
+                                   responsibility.      However, where the
+                                   offences are essentially of a private
+                                   nature and relatively not quite serious,
+                                   the Code considers it expedient to
+                                   recognise        some       of      them      as
+                                   compoundable        offences        and    some
+                                   others as compoundable only with the
+                                   permission of the Court.''
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                                                                 5</span>
+
+</blockquote><blockquote id="blockquote_4">                                   17. In a recently published commentary, the
+                           following     observations            have    been    made      with
+                           regard to the offence punishable under <a href="/doc/1823824/" id="a_4">Section
+                           138</a> of the Act [cited from : Arun Mohan, some
+                           thoughts towards law reforms on the topic of
+                           <a href="/doc/1823824/" id="a_5">Section      138</a>,        <a href="/doc/1132672/" id="a_6">Negotiable        Instruments     Act</a>    –
+                           Trackling an avalanche of cases (New Delhi:
+                           Universal Law Publishing Co. Pvt. Ltd., 2009) at
+                           p.5]:
+</blockquote>
+
+<blockquote id="blockquote_5">                                        ''...Unlike that for other forms of
+                                   crime, the punishment here (insofar as
+                                   the complainant is concerned) is not a
+                                   means of seeking retribution, but is
+                                   more a means to ensure payment of
+                                   money.           The     complainant's       interest
+                                   likes primarily in recovering the money
+                                   rather than seeking the drawer of the
+                                   cheque in jail. The threat of jail is only
+                                   a mode to ensure recovery. As against
+                                   the accused who is willing to undergo a
+                                   jail term, there is little available as
+                                   remedy for the holder of the cheque.''
+
+
+
+</blockquote><blockquote id="blockquote_6">                           6.With the above principles in mind, if this Court see the
+
+                      present   case,   it     is    only    a       money   transaction    and   the
+
+                      complainant/appellant has also ready to receive the amount from
+
+                      the accused/respondent within a period of six months, and in this
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                                                           6</span>
+
+                      regard a memo of compromise has also been jointly filed by the
+
+                      appellant and respondent.      Therefore, the appellant's interest lies
+
+                      primarily in recovering the money rather than seeking the drawer of
+
+                      the cheque in jail.        Further <a href="/doc/177946336/" id="a_7">Section 147</a> of the Negotiable
+
+                      Instruments Act also empowers this Court to compound the offence
+
+                      under <a href="/doc/1823824/" id="a_8">section 138</a> of the Negotiable Instruments Act.</blockquote>
+
+
+
+<p id="p_8">                            7.In view of the ratio laid down by the Honourable Supreme
+
+                      Court of India and also considering the joint memo of compromise
+
+                      filed by the parties, this Court is of the view that the Judgment in
+
+                      C.C.No.264 of 2003 on the file of the learned Judicial Magistrate
+
+                      No.II, Tirupur, is liable to be set aside.
+</p>
+
+
+<p id="p_9">                            8.Accordingly, the conviction and sentence imposed on the
+
+                      respondent/accused in C.C.No.264 of 2003 on the file of the learned
+
+                      Judicial Magistrate No.II, Tirupur, is set aside, provided if the
+
+                      respondent settle the entire cheque amount of Rs.8,10,000/- within
+
+                      a period of six months i.e., on or before 04.06.2019. If the
+
+                      respondent fails to repay the said cheque amount within the time
+
+                      period stipulated above, the conviction and sentence imposed in
+
+                      C.C.No.264 of 2003 on the file of the learned Judicial Magistrate
+
+                      No.II, Tirupur, will automatically be restored.
+http://www.judis.nic.in
+<span class="hidden_text" id="span_6">                                                       7</span>
+
+
+
+</p><p id="p_10">                            9. With the above terms, the Criminal Appeal is dismissed.
+</p>
+
+
+
+<p id="p_11">                                                                             05.12.2018
+
+
+
+                      jer
+
+
+                      To
+
+
+</p><p id="p_12">                      1. The Additional District Sessions Court Cum Fast Track Court No.V,
+                      Coimbatore at Tiruppur.
+</p><p id="p_13">                      2. The Judicial Magistrate No.II, Tiruppur.
+</p><p id="p_14">                      3. The Section Officer, Criminal Section
+                         High Court of Madras.
+</p>
+
+
+
+<p id="p_15">http://www.judis.nic.in
+<span class="hidden_text" id="span_7">                          8</span>
+
+
+
+
+                                     M.DHANDAPANI., J
+
+                                                     jer
+
+
+
+
+                          Criminal Appeal No.339 of 2005
+
+
+
+
+                                             05.12.2018
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

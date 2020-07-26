@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Raghbir Singh vs Kulbir Kaur on 30 October, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/166848454/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/166848454/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/166848454/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Raghbir Singh vs Kulbir Kaur on 30 October, 2014</div><pre id="pre_1">                 IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH
+
+                                                       FAO-307-M of 2006
+                                                       Date of decision: 30.10.2014.
+
+           Raghbir Singh
+                                                                         ..... Appellant
+                                           Vs.
+
+           Kulbir Kaur and another
+                                                                         ..... Respondents</pre>
+
+
+<p id="p_1">           CORAM:               HON'BLE MR. JUSTICE AJAY KUMAR MITTAL
+                                HON'BLE MR. JUSTICE RAJ MOHAN SINGH
+
+           Present:             Mr. Arjun Lakhanpal, Advocate
+                                for the appellant.
+</p>
+<p id="p_2">                                Mr. Vikram Rathore,Advocate for
+                                Mr. Jaideep Verma, Advocate
+                                for the respondents.
+</p>
+<p id="p_3">             AJAY KUMAR MITTAL, J (ORAL)
+
+</p><p id="p_4">           1.                   Learned counsel for the respondents states that during the
+
+           pendency of the present appeal, the appellant had died and, therefore,
+
+           the appeal has become infructuous.
+</p>
+<p id="p_5">           2.                   Learned counsel for the appellant states that he has no
+
+           information about the death of the appellant and prays that liberty to
+
+           the appellant be granted to apply for revival of the appeal in case the
+
+           statement made by learned counsel for the respondent is found to be
+
+           not correct.
+</p>
+<p id="p_6">           3.                   Disposed of as infructuous. However, it shall be open to the
+
+           appellant to file an application for revival of the appeal in case, the
+
+           statement made by learned counsel for the respondents is found to be
+
+           not correct.</p><pre id="pre_2">
+
+
+
+                                                             (AJAY KUMAR MITTAL)
+                                                                    JUDGE
+
+
+
+                                                             (RAJ MOHAN SINGH)
+           30.10.2014                                              JUDGE
+           smriti
+SMRITI
+2014.11.10 16:33
+I attest to the accuracy and
+</pre><p id="p_7">authenticity of this document
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

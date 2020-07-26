@@ -1,0 +1,433 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>K.J.Prasanna vs Sidharthan on 10 December, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1533680/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1533680/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1533680/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1533680/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=counter%20claim">counter claim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=COUNTER%20CLAIM%20AGAINST%20COUNTER%20CLAIM">COUNTER CLAIM AGAINST COUNTER CLAIM</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co-owner">co-owner</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co%20owner">co owner</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co%20owner%20against%20co%20owner">co owner against co owner</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=boundary">boundary</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">K.J.Prasanna vs Sidharthan on 10 December, 2008</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+WP(C).No. 29973 of 2008(R)
+
+
+1. K.J.PRASANNA, W/O.ADV.DEVDAS, CHERTHALA.
+                      ...  Petitioner
+
+                        Vs
+
+
+
+1. SIDHARTHAN, S/O.KARANATH LATE
+                       ...       Respondent
+
+2. MOHANKUMAR, S/O.LATE JAGADEESHAN,
+
+3. SURESHKUMAR, S/O.LATE JAGADEESHAN,
+
+                For Petitioner  :SRI.P.SANTHOSH  (PODUVAL)
+
+                For Respondent  :SRI.P.VIJAYA BHANU
+
+The Hon'ble MR. Justice K.P.BALACHANDRAN
+
+ Dated :10/12/2008
+
+ O R D E R
+              K.P.BALACHANDRAN, J.
+          ------------------------------------------------
+                W. P. C. No.29973 of 2008
+          ------------------------------------------------
+         Dated this the 10th day of December, 2008
+
+                        JUDGMENT
+</pre>
+
+<p id="p_1">    Counsel for the first respondent/first
+
+defendant  submits          that        a      decree      that  is
+
+obtained  by    him       in     his       favour         cannot be
+
+executed on account of the stay granted from
+
+this Court; that the petitioner is not taking
+
+necessary steps to complete service of notice
+
+to respondents 2 and 3 who are plaintiffs in
+
+the suit who suffered a decree the counter
+
+claim advanced by the first respondent having
+
+been decreed and that in the circumstances,
+
+respondents 2 and 3 are not necessary parties
+
+for the purpose of adjudicating the claim that
+
+was advanced by the petitioner and rejected by
+
+the court below. In the circumstances, notice
+
+to respondents 2 and 3 is dispensed with.
+
+</p><p id="p_2">    2. Heard counsel on both sides. The first
+
+respondent   was         the        first           defendant    in
+
+<span class="hidden_text" id="span_1">W. P. C. No.29973 of 2008         -2-</span>
+
+
+      O.S.85/97 on the file of the Munsiff's Court,
+
+      Wadakanchery, a suit instituted by respondents
+
+      2 and 3 and their mother for a decree of
+
+      permanent prohibitory injunction restraining
+
+      him from trespassing into the said property
+
+      having an extent of 19 acres claiming title
+
+      over the said property. The first respondent/
+
+      first defendant advanced counter claim for an
+
+      extent of 3.93 acres of land from out of the
+
+      said 19 acres of scheduled property. After
+
+      trial the trial court found that the counter
+
+      claim advanced by the first respondent/first
+
+      defendant stands established in relation to
+
+      3.65 acres and not in relation to 3.93 acres
+
+      claimed by him and granted a decree allowing
+
+      the counter claim in relation to the said 3.65
+
+      acres         and   allowed first   respondent/first
+
+      defendant to have boundaries thereof fixed as
+
+      shown        by    Advocate Commissioner in  Ext.C2
+
+      report and as illustrated in Ext.C4 plan. The
+
+<span class="hidden_text" id="span_2">W. P. C. No.29973 of 2008         -3-</span>
+
+
+      decree prayed for by the plaintiffs in the
+
+      suit was negative.
+</p>
+<p id="p_3">              3.      The  first respondent/decree holder
+
+      filed execution petition in the court below to
+
+      have the decree executed fixing boundaries and
+
+      putting up boundary walls for the said 3.65
+
+      acres. It was then that the petitioner who is
+
+      the sister of respondents 2 and 3 along with
+
+      her other sisters advanced claim to the effect
+
+      that they are also sharers to the scheduled
+
+      property of 19 acres in relation to which suit
+
+      was instituted by respondents 2 and 3 and
+
+      their mother; that therefore, they were also
+
+      necessary parties to the suit and that a
+
+      decree passed in the suit in the counter claim
+
+      advanced by the first respondent without them
+
+      also on the party array is not binding on
+
+      them. The said claim was being advanced on the
+
+      execution          side when   they were   impleaded
+
+      consequent on death of first plaintiff/Suseela
+
+<span class="hidden_text" id="span_3">W. P. C. No.29973 of 2008         -4-</span>
+
+
+      who is their mother and also the mother of
+
+      respondents         2  and 3   and other additional
+
+      judgment debtors. The execution court repelled
+
+      their contentions and allowed boundary being
+
+      fixed          and   put    up   deputing  Advocate
+
+      Commissioner         vide Ext.P5  order. Ext.P5  is
+
+      being challenged filing this Writ Petition
+
+      only by the petitioner who is the additional
+
+      fifth         judgment   debtor  in  the  execution
+
+      petition and not by the others.
+</p>
+<p id="p_4">              4. It is worthy to note that the suit was
+
+      being instituted by respondents 2 and 3 and
+
+      their mother against the first respondent and
+
+      the first respondent was advancing only a
+
+      counter claim therein. Though the additional
+
+      judgment debtors 4 to 9 including the present
+
+      petitioner were impleaded on the execution
+
+      side as the LRs of the deceased first judgment
+
+      debtor who was their mother it is the case of
+
+      the       petitioner    and   the other  additional
+
+<span class="hidden_text" id="span_4">W. P. C. No.29973 of 2008         -5-</span>
+
+
+      judgment debtors also that they are co-owners
+
+      with respondents 2 and 3 who were plaintiffs 2
+
+      and 3 in the suit. That means there was
+
+      substantial representation on behalf of the
+
+      petitioner, and respondents 2 and 3 along with
+
+      their mother filed the suit for and on behalf
+
+      of      the     other co-owners  as well  and  they
+
+      resisted counter claim for and on behalf of
+
+      also        other   co-owners.  A  decree  obtained
+
+      allowing the counter claim advanced by the
+
+      first respondent is hence, binding on all the
+
+      co-owners including the present petitioner and
+
+      they have no right to resist execution of the
+
+      decree when the other co-owners who resisted
+
+      the      counter     claim was  not  successful  in
+
+      establishing the rights set up by them or to
+
+      resist         the  claim  advanced by   the  first
+
+      respondent/first        defendant  in  the  counter
+
+      claim. Thus, there is no merit in this Writ
+
+      Petition filed by the petitioner.
+
+<span class="hidden_text" id="span_5">W. P. C. No.29973 of 2008         -6-</span>
+
+
+</p><p id="p_5">              5. It is further contended by the counsel
+
+      for the petitioner that though when impleaded
+
+      as additional judgment debtors consequent on
+
+      death of their mother the petitioner as also
+
+      her sisters did step into the shoe of the
+
+      judgment debtors, they have got a contention
+
+      that the decree has been collusively obtained
+
+      between the first defendant and respondents 2
+
+      and 3 and their mother. If at all they have
+
+      got such a case of collusion and fraud which
+
+      would        vitiate   the decree,  they  can  seek
+
+      appropriate relief elsewhere and they cannot
+
+      resist execution of the decree in the present
+
+      suit.
+</p>
+<pre id="pre_2">              6.        This  Writ   Petition    in   the
+
+      circumstances, is dismissed.
+
+
+
+
+                                         K.P.BALACHANDRAN,
+                                                    JUDGE
+      kns/-
+
+</pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

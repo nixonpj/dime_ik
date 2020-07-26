@@ -1,0 +1,436 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Mahesh on 22 July, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/64862096/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1371604/">Section 304A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/64862096/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/64862096/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sudden%20cross">sudden cross</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=S.279%2C%20304">S.279, 304</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%2C%20304%20a">279, 304 a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%20and%20337%2C">279 and 337,</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Mahesh on 22 July, 2008</div><div class="doc_author">Author: Sh. Pulastya Pramachala</div>
+
+<pre id="pre_1">                                     1
+
+          IN THE COURT OF SH. PULASTYA PRAMACHALA:
+               METROPOLITAN MAGISTRATE : DELHI.
+FIR NO: 51/96
+U/s 279/337/304-A <a href="/doc/1569253/" id="a_1">IPC</a>
+P.S.: I.P ESTATE
+State Vs Mahesh
+Date of Institution: 06.06.97
+Final Arguments heard on 22.07.08.
+
+JUDGEMENT
+</pre>
+<pre id="pre_2">a) Sl. No. of the case           : 332/1
+
+b) Name &amp; address of the         : Sh. Sohan Lal S/o Sh. Ram Charan
+   complainant.
+
+c) Name &amp; address of accused     :       Mahesh S/o Sh. Mudgan Mehto
+                                         R/o H. No. 113, Surtapur, Delhi.
+
+d) Date of commission of         :       31.01.1996
+   offence
+
+e) Offence complained off        : U/s 279/337/304-A <a href="/doc/1569253/" id="a_2">IPC</a>
+
+f)   Plea of the accused         : Pleaded not guilty.
+
+g) Final Order                   : Acquitted
+
+h) Date of such order            : 22.07.08
+
+BRIEF STATEMENT OF REASONS FOR DECISION :
+
+</pre><p id="p_1">            Briefly stated the case of the prosecution is that after
+<span class="hidden_text" id="span_1">                                       2</span>
+
+receiving information vide DD No.10A dated 31.01.96, SI Karam Chand
+
+went at the spot and found truck No. DHL 5121. Injured was reported to
+
+be taken away to the hospital and he reached hospital after leaving Ct.
+
+Ramjas at the spot. There he met one eye witness of the incident namely
+
+Sohan Lal and recorded his statement and on the basis of his statement,
+
+present case was registered u/S 279/337 <a href="/doc/1569253/" id="a_3">IPC</a>.           Thereafter, further
+
+investigation was done and during the investigation injured Sumeet had
+
+finally expired and finally charge sheet was filed in the court on 06.06.97
+
+for the offence u/S 279/304-A <a href="/doc/1569253/" id="a_4">IPC</a> and copies of the same were supplied
+
+to the accused to his satisfaction.
+</p>
+<p id="p_2">            On    the basis of the challan, charge for committing the
+
+offence punishable under <a href="/doc/1270101/" id="a_5">Section 279</a>/<a href="/doc/1371604/" id="a_6">304-A</a> IPC was framed against the
+
+accused on 11.01.1999, to which accused pleaded not guilty and claimed
+
+trial.
+</p>
+<p id="p_3">
+
+</p><p id="p_4">2.          In support of its case prosecution examined twelve witnesses
+
+in support of its case. Thereafter, statement u/S 313 <a href="/doc/445276/" id="a_7">Cr.P.C</a> of the
+
+accused recorded.
+</p><span class="hidden_text" id="span_2">                                     3</span><p id="p_5">
+
+</p><p id="p_6">3.         Ld. Defence counsel submitted that prosecution has not been
+
+able to prove rashness or negligence on the part of accused, though he
+
+fairly conceded that there is change in defence of the accused. While
+
+earlier the defence was that accused was not the driver of the vehicle,
+
+however, now that fact is not disputed and the only defence is that the
+
+accident had not taken place because of fault of the accused.
+
+</p><p id="p_7">           Substitute APP, on the other hand, relies upon the statement
+
+of PW4 primarily and submits that prosecution has proved that accused
+
+was driving the vehicle at faster speed and thus he caused this accident
+
+due to his rashness.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">4.         I have given due consideration to the contentions made by
+
+both the parties and have carefully gone through the evidences and
+
+material on record.
+</p>
+<p id="p_10">
+
+</p><p id="p_11">5.         Undoubtedly, PW4 is the star witness of the prosecution.
+
+This witness has been projected as eye witness of the accident. This
+
+witness is uncle of the deceased child. In his examination in chief, PW4
+
+has simply stated that while deceased Sumeet was crossing the road the
+<span class="hidden_text" id="span_3">                                      4</span>
+
+truck No. DHL 5121 came from the side of ITO Flyover in a very fast
+
+speed and in rash manner and struck against Sumeet.              He further
+
+deposed that accident took place due to fault of accused as he was
+
+driving the truck in a very fast speed and also in a rash manner. In his
+
+cross examination, first of all, he deposed that he was at a distance of
+
+about five to ten feet from the spot, thereafter, after seeing the site plan,
+
+he deposed that he was about at a distance of 70 to 75 feet from the spot.
+
+Again he could not give any idea of distance of 75 feet. All this scenario
+
+shows that witness was not very sure about his own place and secondly
+
+he was not very sure about his deposition before the court. This witness
+
+further pointed out a place in site plan, which was marked as Point A on
+
+Ex. PW12/A regarding the place where he was present. The point A
+
+marked with red pen is a position, which is far away from the spot of
+
+accident as shown in the site plan. In his further cross examination, this
+
+witness deposed that he had crossed the road while the deceased
+
+Sumeet could not completely crossed the road.             He admitted the
+
+suggestion that he was accompanied by Sumeet, but he did not
+
+accompany him up to the other side of the road. He further deposed that
+
+when this witness was going from his home to attend the call of nature,
+<span class="hidden_text" id="span_4">                                      5</span>
+
+and when he was in the process of attending the call of nature, he had
+
+not seen/noticed the deceased on those occasions. He further deposed
+
+that when he noticed the deceased, he found him to be playing with other
+
+children on the other side of the road.
+</p>
+<p id="p_12">            Since accused had already admitted that he was driver of this
+
+bus and that this accident had taken place, this court has to decide only
+
+one question whether the accident had taken place due to rash or
+
+negligent driving of the accused ?        From the perusal of aforesaid
+
+statement of alleged eye witness PW4, I do not find a clear cut picture in
+
+respect of the accident.    This witness who otherwise deposed in his
+
+examination in chief that he had gone along with his nephew Sumeet for
+
+easing out, later on, deposed that he had even not noticed Sumeet while
+
+going to attend call of nature. These are totally opposite stand taken by
+
+him. Though, he had admitted that the deceased child was playing with
+
+other children on the other side of the road. Accused in his statement,
+
+deposed that this accident had not taken place due to his fault as one of
+
+the child had come on the middle of the road all of a sudden. From the
+
+half hearted narration of actual facts by PW4, I do smell probability of this
+
+scenario where the deceased would have tried to cross the road. When
+<span class="hidden_text" id="span_5">                                     6</span>
+
+any child or other person suddenly crosses the road, the fault of accident
+
+cannot be imputed on the driver of the vehicle.         It has been well
+
+established again and again by higher courts that simply driving at high
+
+speed is not example of rash or negligence, until unless it is coupled or
+
+followed by some additional duty on the driver, which arise out of peculiar
+
+situation of a particular case.
+</p>
+<p id="p_13">            The site plan and the case of prosecution story shows that the
+
+place of accident in this case was on the Ring Road where normally any
+
+vehicle drives at a higher speed. The accident had taken place near the
+
+driver of the road, which is not a normal place for any person to remain on
+
+the road. No driver can be expected to be so much vigilant as to take
+
+care of sudden crossing of the road by any person or child and to stop the
+
+vehicle at once.
+</p>
+<p id="p_14">            In this regard I rely upon AIR 1972 SUPREME COURT 221
+
+wherein it has been held that, Negligent driving along public way - If
+
+a pedestrian suddenly crosses a road without taking note of the
+
+approaching bus there is every possibility of his dashing against
+
+the bus without the driver becoming aware of it. The bus driver
+
+cannot save accident, however slowly he may be driving and
+<span class="hidden_text" id="span_6">                                    7</span>
+
+therefore he cannot be held to be negligent in such a case.
+
+</p><p id="p_15">            Therefore, I come to the conclusion that prosecution has not
+
+been able to prove the element of rashness or negligence on the part of
+
+accused. It has been held in judgment cited as 133(2006) DLT 562,
+
+wherein Hon'ble High Court of Delhi observed that it was for
+
+prosecution to bring on record material to establish as to what is
+
+meant by "high speed".        It was further observed that burden of
+
+proving everything essential to establishment of charge against
+
+accused always rests on prosecution - There is presumption of
+
+innocence in favour of accused until contrary is proved.
+
+
+
+</p><p id="p_16">6.          In view of my above discussion, I am of the considered
+
+opinion that prosecution has failed to prove its case against the accused
+
+beyond reasonable doubt. Hence, accused is acquitted of the charges
+
+levelled against him.
+</p>
+<p id="p_17">            Bail bond stands cancelled. Surety is discharged. File be
+
+consigned to record room.</p><pre id="pre_3">
+
+Announced in the open court
+Dt: 22.07.08                                  (Pulastya Pramachala)
+                                              M.M., Delhi.
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

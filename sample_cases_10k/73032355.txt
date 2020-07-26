@@ -1,0 +1,870 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Manav Jivan Magasvargiya ... vs State Of Maharashtra And Ors on 13 September, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/73032355/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:73032355">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/69301983/">(Petitioner In The Writ Petition) vs (Respondent In The Writ Petition) on 27 May, 2013</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/116653184/">Anju Chaudhary vs State Of U.P.&amp; Anr on 13 December, 2012</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/73032355/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/73032355/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/73032355/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Manav Jivan Magasvargiya ... vs State Of Maharashtra And Ors on 13 September, 2017</div><div class="doc_bench">Bench: M.S. Sonak</div>
+
+<pre id="pre_1">skc                                                              525-WP7909-17-ORS.doc
+
+
+
+
+             IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                    CIVIL APPELLATE JURISDICTION
+
+                       WRIT PETITION NO. 7909 OF 2017
+
+        Tirupati Magasvargiya Industrial
+        Cooperative Societies Ltd. Shivnakwadi             ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                        ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO. 7910 OF 2017
+
+        Shri Addhikarta Magasvargiya Industrial
+        Cooperative Society Ltd. Mangao                    ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                        ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO. 7912 OF 2017
+
+        Nav Maharashtra Magasvargiya
+        Kamgar Yantramag Audyogik
+        Sahakari Sanstha Maryadit                          ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                        ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO. 7913     OF 2017
+
+        Manav Jivan Magasvargiya
+        Audyogik Sahakari Sanstha Maryadit                 ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                        ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO. 8003     OF 2017
+
+        Jayvantravji Awaleso Magasvargiya
+        Audyogik Sahakari Sanstha Maryadit                 ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                        ..Respondents
+
+
+
+
+                                                                                 1/13
+
+
+
+      ::: Uploaded on - 19/09/2017                ::: Downloaded on - 20/09/2017 02:30:14 :::
+ skc                                                            525-WP7909-17-ORS.doc
+
+
+
+
+                                      WITH
+                      WRIT PETITION NO. 8004    OF 2017
+
+        Yuva Shakti Industrial Cooperative
+        Society Ltd. Tasgaon, through
+        its <a href="/doc/69301983/" id="a_1">Secretary                                    ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+                                      WITH
+                      WRIT PETITION NO</a>. 8005    OF 2017
+
+        Pratik Industrial Cooperative
+        Society Ltd. Ogalewadi, through
+        its <a href="/doc/69301983/" id="a_2">Secretary                                    ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO</a>. 8161   OF 2017
+
+        Kalikamata Magasvargiya
+        Audyogik Sahakari Sanstha Maryadit,
+        Sindhudurg, through its <a href="/doc/69301983/" id="a_3">Secretary                ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+                                       WITH
+                      WRIT PETITION NO</a>. 8163    OF 2017
+
+        Shardul Pharmaceuticals Industrial Cooperative
+        Society Ltd. Usmanabad, through
+        its <a href="/doc/69301983/" id="a_4">Secretary                                  ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                    ..Respondents
+
+
+                                       WITH
+                       WRIT PETITION NO</a>. 8164   OF 2017
+
+        Rajiv Magasvargiya
+        Audyogik Utpadak Sahakari Sanstha
+        Maryadit, Mhaswad                                ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+
+
+                                                                               2/13
+
+
+
+      ::: Uploaded on - 19/09/2017              ::: Downloaded on - 20/09/2017 02:30:14 :::
+ skc                                                            525-WP7909-17-ORS.doc
+
+
+
+
+                                       WITH
+                       WRIT PETITION NO. 8165   OF 2017
+
+        Harshawardhan Industrial Cooperative
+        Society Limited, Islampur                        ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+                                       WITH
+                       WRIT PETITION NO. 8174   OF 2017
+
+        Laxmi Magasvargiya
+        Industrial Co-op. Industries Ltd.,
+        Minache, through its Chairman                    ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+
+                                       WITH
+                       WRIT PETITION NO. 8175   OF 2017
+
+        Sarthak Magasvargiya
+        Audyogik Sahakari Sanstha Maryadit,
+        Kolhapur, through its <a href="/doc/69301983/" id="a_5">Secretary                  ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+
+                                       WITH
+                       WRIT PETITION NO</a>. 8176   OF 2017
+
+        Bhimratna Magasvargiya
+        Audyogik Sahakari Sanstha Maryadit,
+        Sindhudurg, through its Secretary                ..Petitioner
+              vs.
+        State of Maharashtra &amp; Ors.                      ..Respondents
+
+
+
+        Mr. A. Y. Sakhare - Senior Advocate i/b. Mr. P. P. Kulkarni             for
+        Petitioners in all Writ Petitions.
+        Mr. S. H. Kankal - AGP for State in all Writ Petitions.
+
+
+
+
+                                                                               3/13
+
+
+
+      ::: Uploaded on - 19/09/2017              ::: Downloaded on - 20/09/2017 02:30:14 :::
+ skc                                                                 525-WP7909-17-ORS.doc
+
+
+
+
+                                         CORAM : M. S. SONAK, J.
+</pre><p id="p_1">                                         DATE:   13 SEPTEMBER 2017
+
+        COMMON JUDGMENT :
+</p>
+<p id="p_2">
+
+        1]       Not on board. In view of urgency, taken on production board.
+
+
+
+        2]      Heard Mr. Sakhare, learned Senior Advocate for the
+
+        petitioners in all these petitions and Mr. Kankal, learned AGP for the
+
+        Respondents.
+</p>
+<p id="p_3">
+
+        3]      Mr. Sakhare, learned Senior Advocate for the petitioners
+
+        submits that the issues raised in all these petitions are one and
+
+        the same and therefore, writ petition no. 7909 of 2017 may be
+
+        treated as a lead petition.
+</p>
+<p id="p_4">
+
+        4]      In writ petition no. 7909 of 2017, the petitioners have applied
+
+        for the following reliefs :
+</p>
+<blockquote id="blockquote_1">                 "a) That this Hon'ble Court may be pleased to issue
+                 appropriate Writ and/or direction and/or order under <a href="/doc/1712542/" id="a_6">Article
+                 226</a> of the Constitution of India, to quash &amp; set aside an order
+                 dated 12th May 2017 passed by the Respondent No. 5 &amp;
+                 consequential order passed therein;
+</blockquote>
+<blockquote id="blockquote_2">                 b)   That this Hon'ble Court may be pleased to issue
+                 appropriate Writ and/or direction and/or order under <a href="/doc/1712542/" id="a_7">Article
+                 226</a> of the Constitution of India to quash and set aside order
+                 passed by the Respondent No. 5 &amp; 6 under section 81 of the
+                 M.C.S. Act which is not made available to the petitioner;</blockquote><p id="p_5">
+
+</p><p id="p_6">                 B(1) That this Hon'ble Court may be pleased to issue
+
+<span class="hidden_text" id="span_1">                                                                                    4/13</span>
+
+
+
+<span class="hidden_text" id="span_2">      ::: Uploaded on - 19/09/2017                   ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                 525-WP7909-17-ORS.doc
+
+
+
+
+                 appropriate Writ and/or direction and/or order under <a href="/doc/1712542/" id="a_8">Article
+                 226</a> of the Constitution of India directing the Respondent No.
+                 5 &amp; 6 to provide the petitioner society Test Audit Report and
+                 also further direct the Respondent No. 5 to provide order
+                 passed on Test Audit Report submitted by the Respondent
+                 No. 6;
+</p>
+<p id="p_7">                 B(2) By order of this Hon'ble Court the Respondent Nos. 5 &amp;
+                 6 and their agents be restrained from taking any actions or
+                 coercive steps pursuant to the Order passed on test audit the
+                 copy of which is not furnished till date to the Petitioner
+                 Society and its Directors."
+</p>
+<p id="p_8">                 c)    That this Hon'ble Court may be pleased to issue
+                 appropriate Writ and/or direction and/or order under <a href="/doc/1712542/" id="a_9">Article
+                 226</a> of the Constitution of India, to direct the Respondents to
+                 give opportunity of hearing in respect of Audit Report
+                 submitted by the Auditor and further direct Respondent to
+                 take action as per Section 82 of the Maharashtra Cooperative
+                 Societies Act;
+</p>
+<p id="p_9">                 d) That this Hon'ble Court may be pleased to issue
+                 appropriate Writ and/or direction and/or order under <a href="/doc/1712542/" id="a_10">Article
+                 226</a> of the Constitution of India directing the Respondents to
+                 follow procedure prescribed under Section 82 of the
+                 Maharashtra Cooperative Societies Act and permit petitioner
+                 society to rectify defects if any disclosed in the Test Audit
+                 report;
+</p>
+<p id="p_10">                 e)   That pending hearing and final disposal of the petition
+                 the respondents be restrained from taking any action in
+                 pursuance to the Audit Report submitted by the Respondent
+                 No. 6.
+</p>
+<p id="p_11">                 f)    That the Respondents be ordered to pay the petitioners
+                 cost of the petition;
+</p>
+<p id="p_12">                 g)   For such further and other reliefs as the nature and
+                 circumstances of the case may require."
+</p>
+<p id="p_13">
+        5]      Since, the first order in point of time is the order dated 12 th
+
+        May 2017, it is necessary to appreciate challenge in respect
+
+        thereof. The order dated 12th May 2017 made by the District Deputy
+
+<span class="hidden_text" id="span_3">                                                                                    5/13</span>
+
+
+
+<span class="hidden_text" id="span_4">      ::: Uploaded on - 19/09/2017                   ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                               525-WP7909-17-ORS.doc
+
+
+
+
+        Registrar is in exercise of powers conferred upon him by Section
+
+        81 of the Maharashtra Co-operative Societies Act, 1960 (MCS Act).
+
+        By the impugned order dated 12th May 2017, the District Deputy
+
+        Registrar has appointed a Test Auditor to audit the accounts of the
+
+        petitioner society.
+</p>
+<p id="p_14">
+
+        6]      Mr. Sakhare, learned Senior Advocate for the petitioners
+
+        submits that the impugned order dated 12 th May 2017 is vitiated by
+
+        malafides. He submits that in this       case necessary audit was
+
+        conducted by the petitioner society and there was nothing illegal or
+
+        irregular detected. In these circumstances, Mr. Sakhare submits
+
+        that the District Deputy Registrar had no jurisdiction to make the
+
+        impugned order and appoint Test Auditor.
+</p>
+<p id="p_15">
+
+        7]      Learned AGP submits that the impugned order dated 12th May
+
+        2017 has already worked out itself. He submits that the Test Auditor
+
+        has not only audited the accounts of the petitioner society but has
+
+        further submitted his report to the Registrar in terms of the
+
+        provisions of Section 81 of the MCS Act. Learned AGP further
+
+        submits that from perusal of the impugned order it is quite clear that
+
+        the petitioner society had failed to appoint any Auditor or audited
+
+        its accounts right from its inception and in these circumstances, the
+
+        District Deputy Registrar was justified in     making the impugned
+
+
+
+<span class="hidden_text" id="span_5">                                                                                  6/13</span>
+
+
+
+<span class="hidden_text" id="span_6">      ::: Uploaded on - 19/09/2017                 ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                525-WP7909-17-ORS.doc
+
+
+
+
+        order.
+</p>
+<p id="p_16">
+
+        8]       The recitals in the impugned order make reference to certain
+
+        financial aid provided by the State Government to the society. The
+
+        recitals also makes reference to Gazette Notifications as well as
+
+        notices in the matter of appointment of Auditors by the society and
+
+        the submission of timely audit reports at the intervals prescribed.
+
+        The operative portion of the impugned order dated 12th May 2017
+
+        states that the petitioner society, right from the date of inception,
+
+        failed to appoint any auditor. The impugned order states that there
+
+        has been no compliance on the part of the petitioner society of the
+
+        directions for audit scheme of audit reports. There are also prima
+
+        facie observations with regard to account of the aid / finances
+
+        provided by the State Government to the society.
+
+
+
+        9]       Section 81 of the MCS Act in the first instance, requires the
+
+        societies shall cause to audit its accounts and submit such audit
+
+        reports to the authorities prescribed. The proviso to section 81(1)
+
+</p><p id="p_17">        (a) provides that if the Registrar is satisfied that the society has
+
+        failed to intimate and file returns as provided by sub section (2A) of
+
+        section 75 and sub section (1B) of section 79, the Registrar may by
+
+        order, for reasons to be recorded in writing, cause the accounts of
+
+        the society to be audited by a auditor from the panel of auditors
+
+
+
+<span class="hidden_text" id="span_7">                                                                                   7/13</span>
+
+
+
+<span class="hidden_text" id="span_8">      ::: Uploaded on - 19/09/2017                  ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                  525-WP7909-17-ORS.doc
+
+
+
+
+        approved by the State Government or an Authority authorized by it,
+
+        in this behalf.
+</p>
+<p id="p_18">
+
+        10]     There is really no      material     on record to accept the
+
+        contentions of Mr. Sakhare as regards malafides or as regards
+
+        compliance by the society of its legal obligation in the matter of
+
+        audit of its accounts. A charge of malafides is easier made than
+
+        made out. There is no allegation against any particular person or
+
+        authority. No particular person or authority have been impleaded as
+
+        parties in this petition. In the absence of all this, it is not possible to
+
+        interfere with the impugned order on the grounds of legal malice or
+
+        mala fides.
+</p>
+<p id="p_19">
+        11]     There is also no reason      to dispute the statements in the
+
+        recitals of the impugned orders. No material has been placed on
+
+        record in support of the contention that auditors were appointed and
+
+        timely audit reports were submitted. The provisions of Section 81
+
+        confer ample powers upon the District Deputy Registrar to appoint
+
+        test auditors in a situation of this nature. Accordingly, it cannot be
+
+        said that the impugned order was in excess of jurisdiction. Further,
+
+        the impugned order has already been worked out, in the sense, that
+
+        the test auditors appointed in pursuance of the impugned order
+
+        have already submitted their audit reports. Accordingly, there is no
+
+        case made out to interfere with the impugned order.
+
+
+<span class="hidden_text" id="span_9">                                                                                     8/13</span>
+
+
+
+<span class="hidden_text" id="span_10">      ::: Uploaded on - 19/09/2017                    ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+</p><pre id="pre_2"> skc                                                                 525-WP7909-17-ORS.doc
+
+
+
+
+        12]     The relief in terms of prayer clause B(1) proceeds on the
+
+</pre><p id="p_20">        basis that the audit by the Test Auditor in terms of the impugned
+
+        order dated 12th May 2017 is already complete. This relief is in the
+
+        context of making available to the petitioner society the copy of the
+
+        test audit report as well as further orders that may have been made
+
+        on the test audit report.
+</p>
+<p id="p_21">
+        13]     A writ petition under Articles 226 and 227 of the Constitution of
+
+        India to merely seek a copy of the test audit report is not required
+
+        to be entertained. The petitioners, have several alternate and
+
+        efficacious remedy available to them. It is for the petitioners to avail
+
+        of such remedies and in pursuance of such remedies to obtain the
+
+        copies, if permissible under the law.
+</p>
+<p id="p_22">
+        14]     The relief in terms of prayer clause B(2) is also entirely
+
+        premature. In this regard, however, Mr. Sakhare submits that the
+
+        provisions contained in Section 81(5B) of the MCS Act inter alia
+
+        provide that where the auditor has come to a conclusion in his audit
+
+        report that any person is guilty of any offence relating to the
+
+        accounts or any other offences, he shall file a specific report to the
+
+        Registrar within a period of 15 days from the date of submission of
+
+        his audit report. The auditor concerned shall, after obtaining written
+
+        permission of the Registrar, file a      first information report of the
+
+        offence. The auditor who fails to file first information report shall be
+
+
+
+<span class="hidden_text" id="span_11">                                                                                    9/13</span>
+
+
+
+<span class="hidden_text" id="span_12">      ::: Uploaded on - 19/09/2017                   ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                525-WP7909-17-ORS.doc
+
+
+
+
+        liable for      disqualification and his name should be liable to be
+
+        removed from the panel of auditors and he shall also be liable to
+
+        any other action as the Registrar may think fit.
+
+
+        15]     Mr. Sakhare submits that before the auditor proceeds to file
+
+        any FIR against the society or its board of directors, principles of
+
+        natural justice would require that society and its board of directors
+
+        are furnished the copy of his report. Mr. Sakhare submits that in
+
+        terms of section 82 of the MCS Act, the society has opportunity to
+
+        rectify the defects which are pointed out. Mr. Sakhare submits that
+
+        if any FIR is filed before grant of opportunity to the society or its
+
+        board of directors to rectify the defects pointed out in the audit
+
+        report or before the society and its board of directors are provided
+
+        with the test auditors report and any consequential orders made
+
+        thereon by the Registrar or any other authority, initiation of any
+
+        coercive action like institutions of FIR will violate the principles of
+
+        natural justice.
+</p>
+<p id="p_23">
+        16]     Mr. Sakhare has been unable to point out any provision or
+
+        authority which requires compliance with principles of natural justice
+
+        before lodging of FIR. In fact, in <a href="/doc/220229/" id="a_11">V. C. Shukla vs. State (Delhi
+
+        Administration</a>)1, the Supreme Court has held that the question of
+
+        an accused being heard prior to the commencement of prosecution
+
+        does not arise. In cases where the law requires sanction to be
+
+1 1980 Supp. SCC 249
+
+<span class="hidden_text" id="span_13">                                                                                  10/13</span>
+
+
+
+<span class="hidden_text" id="span_14">      ::: Uploaded on - 19/09/2017                  ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                 525-WP7909-17-ORS.doc
+
+
+
+
+        given by the appointing authority before a prosecution can be
+
+        launched against a government servant, it has never been
+
+        suggested that the accused must be heard before the sanction is
+
+        accorded or before any FIR is lodged. The question of sanction
+
+        arises at a point of time when there is no danger to the liberty of the
+
+        subject and the accused at that stage is not in the picture at all. It is
+
+        only after sanction is accorded that an accused is brought to trial or
+
+        proceedings are started against him when he is to bee heard and
+
+        can challenge the validity of the sanction. Similarly, when a first
+
+        information report is filed before a police officer, the law does not
+
+        require that the officer must hear the accused before recording it or
+
+        submitting a charge-sheet to the court.
+</p>
+<p id="p_24">
+
+        17]     Similarly, in <a href="/doc/116653184/" id="a_12">Anju Chaudhary vs. State of Uttar Pradesh &amp;
+
+        Anr</a>.2, the Hon'ble Court after digesting several previous decisions
+
+        has ruled that an accused is not entitled to a hearing pre-
+
+        registration of an FIR ruled audi       alteram partem is subject to
+
+        exceptions. Such exceptions may be provided by law or                         by
+
+        necessary implications where no other interpretation is possible.
+
+        The principles of natural justice have application, both in civil and
+
+        criminal jurisprudence. The purpose<a href="/doc/445276/" id="a_13"> of the Criminal Procedure Code</a>
+
+        and<a href="/doc/1569253/" id="a_14"> the Penal Code</a> is to effectively execute administration of
+
+        criminal justice system and protect society from            perpetrators of
+
+2 (2013) 6 SCC 384
+
+<span class="hidden_text" id="span_15">                                                                                   11/13</span>
+
+
+
+<span class="hidden_text" id="span_16">      ::: Uploaded on - 19/09/2017                   ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ skc                                                                   525-WP7909-17-ORS.doc
+
+
+
+
+        crime.      It has      a twin purpose; firstly to adequately punish the
+
+        offender in accordance with law and secondly, to ensure prevention
+
+        of crime. On examination, the scheme<a href="/doc/445276/" id="a_15"> of the Criminal Procedure
+
+        Code</a>       does not provide for any right of hearing at the time of
+
+        registration of the first information report. The very purpose of fair
+
+        and just investigation shall stand frustrated if pre-registration
+
+        hearing is required to be granted to a suspect. It is not that the
+
+        liberty of an individual is being taken away or is being adversely
+
+        affected, except by the due process of law. The entire scheme of
+
+        the <a href="/doc/445276/" id="a_16">Cr.P.C</a>. is unambiguously supports the theory of execution of
+
+        audi alteram partem pre-registration of an FIR.
+
+
+
+        18]     In any case, since the main challenge in the petition to the
+
+        order dated 12th May 2017 fails, there is no necessity to go to other
+
+        reliefs, which are, in the nature of ancillary reliefs in the petition.
+
+        The petition, in a sense, is premature, because it proceeds on the
+
+        basis that there will be no compliance on the part of the authorities
+
+        with the provisions of MCS Act including, the provisions contained in
+
+        section 82 of MCS Act.
+</p>
+<p id="p_25">
+        19]     There is accordingly no case made out for grant of any reliefs
+
+        in this petition. This petition is dismissed. There shall however be no
+
+        order as to costs.
+</p>
+<p id="p_26">
+
+
+<span class="hidden_text" id="span_17">                                                                                     12/13</span>
+
+
+
+<span class="hidden_text" id="span_18">      ::: Uploaded on - 19/09/2017                     ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+</p><p id="p_27"> skc                                                               525-WP7909-17-ORS.doc
+
+
+
+
+          20]   Since, issue involved in the remaining petitions is the same,
+
+          for the reasons as aforesaid, the remaining petitions            are also
+
+          hereby dismissed with no order as to costs.
+</p>
+<p id="p_28">
+
+          21]   All these petitions are dismissed. However, there shall be no
+
+          order as to costs.
+</p>
+<p id="p_29">
+
+</p><p id="p_30">                                                    (M. S. SONAK, J.)
+Chandka
+
+
+
+
+<span class="hidden_text" id="span_19">                                                                                 13/13</span>
+
+
+
+<span class="hidden_text" id="span_20">      ::: Uploaded on - 19/09/2017                 ::: Downloaded on - 20/09/2017 02:30:14 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

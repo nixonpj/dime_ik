@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Kamlesh Shivnani vs The Registrar Univeristy And Ors on 12 December, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/146764126/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/146764126/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/146764126/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/146764126/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mca">mca</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ordinance">ordinance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=syllabus">syllabus</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court</div>
+<div class="doc_title">Kamlesh Shivnani vs The Registrar Univeristy And Ors on 12 December, 2011</div><pre id="pre_1">    
+
+ 
+ 
+ 
+
+ S.B. Civil Writ Petition No. 12519/2010 
+Kamlesh Shivnani
+    Versus
+Registrar, Iniversity of Rajasthan  and others 
+
+Date of Order: 12.12.2011
+
+HON'BLE MR. JUSTICE ALOK SHARMA 
+
+Mr. Pankaj Jain  for the petitioner
+Ms. Anupama Chaturvedi for the respondents  </pre>
+
+<p id="p_1">	This petition has been filed with a prayer that the respondent University be directed to allow the petitioner to appear in the MCA 6th Semester examination and further that thereafter the result of MCA 6th Semester examination be declared.
+</p><p id="p_2">	Facts of the case are that the petitioner is a student of Master of Computer Application (MCA)  course spread over 3 years ( 6 semesters) and conducted by the University of Rajasthan. The petitioner was admitted to MCA	course in 2007 and thereafter passed all examinations up to Semester IV conducted in 2009. However, the petitioner  could not pass all papers in MCA- Vth  semester and failed in two papers therein i.e. (i) Simulation and Modeling and (ii) Advance Topic in I.P and Management and consequently, he was not allowed to appear in VI semester MCA examination commencing 18th September, 2010.
+</p><p id="p_3">	On notice being served, the respondent University has filed a reply to the writ petition and stated that the petitioner was not allowed to appear in VI semester MCA examination since he had not finally cleared the Vth  semester MCA and had two back papers. Reference has been made to condition No. 6(f)  of the Syllabus for the MCA course, which reads as under:
+</p><p id="p_4">The University Examination for evaluation of Semester VI Project shall be conducted only for those candidates who have cleared all the theory and practical examination of all previous Semesters i.e. Semesters I, II, III, IV and V. 
+</p><p id="p_5">	Placing reliance upon the aforesaid condition of the Syllabus, which incorporates the University of Rajasthan Ordinance with regard to the eligibility to write VI semester examination, it has been prayed that the writ petition be dismissed. 
+</p><p id="p_6">	It is relevant to take into consideration that on the petitioner having filed the instant petition, vide order dated 23rd September, 2010 this Court had directed that the petitioner be allowed to appear in the MCA VI Semester examination 2010 albeit provisionally and further that the result of the petitioner of the said MCA-VI semester examination would be subject to the decision of the writ petition.
+</p><p id="p_7">	I have heard counsel for the petitioner and also the respondent University and perused the writ petition.
+</p><p id="p_8">	Counsel for the petitioner would submit that during the pendency of the writ petition, the petitioner appeared in two back papers of MCA-V semester examination and has cleared the same. A copy of the mark-sheet issued by the respondent University on 29.7.2011 has been filed in the present proceedings, indicating the petitioner passing two back papers in the subjects   (i) Simulation and Modeling and (ii) Advance Topic in I.P and Management. This fact has not been controverted by the counsel for the respondent University.  It is also an admitted position that the petitioner on taking MCA-VI semester examination as per the interim order dated 23.9.2010 passed by this Court has since passed in the said examination. However, the result of the petitioner has not been  formally declared as the petitioner was allowed to write MCA-VI semester examination only subject to the out come of the writ petition. 
+</p><p id="p_9">	The issue that now remains before this Court is as to whether the result of the petitioner for the MCA-VI semester examination should be declared formally ion the facts of the case?
+</p><p id="p_10">	Counsel for the respondent University has submitted that in terms of the Rajasthan University Ordinance and the Syllabus, more particularly Ordinance 226 (12) and condition No. 6(f) of the scheme of examination of the University of Rajasthan relevant to the MCA course, the petitioner without clearing all papers in the preceding semesters both in theory  as also in practical i.e. Semesters I, II, III, IV and V was not entitled to submit the Project Report in the MCA VI sememster examination or participate in other aspects of the examination thereof.
+</p><p id="p_11">	The petitioner on his part would however submit that he was admitted to MCA VI semester course by the University of Rajasthan itself and in the event he was not eligible for being promoted to the MCA VI semester course and for writing the examination in respect thereof, the University of Rajasthan ought not to have admitted him in the MCA VI semester course, accepted the fee and allowed him to attend classes. 
+</p><p id="p_12">	It is not disputed by the respondent University that the petitioner was admitted to MCA VI semester Classes on payment of requisite fee and had attended classes. It is also not disputed that during the pendency of this writ petition the petitioner has written the back papers in MCA Vth  semester and passed   the same in terms of the mark sheet issued by the University of Rajasthan. In these circumstances, the petitioner has emphatically urged  the ground of equity and estoppel in the facts of the case to pray that the writ petition be allowed and the University be directed to declare the result of the petitioner for MCA VI semester examination.
+</p><p id="p_13">	The facts of the case indicate that the petitioner was admitted to MCA VI semester course by the Director, University Centre for Computer Science and Information Technology, University of Rajasthan, fee was accepted and he was allowed to attend the classes.  Thereafter the petitioner was allowed to submit his Project Report albeit under the interim order passed on 23.9.2010. The petitioner has also been evaluated internally on the basis of his performance in the MCA VI semester classes held under the aegis of the Director, University Centre for Computer Science and Information Technology, University of Rajasthan, Jaipur. The petitioner has cleared back papers in 5th semester and appears to have been successful in the MCA VI semester examination, though the result thereof has not been declared formally.
+</p><p id="p_14">	In the facts of the case, I am of the view  the respondent University ought to take a sympathetic view of the matter and consider the request of the petitioner for declaration of the result of MCA VI semester examination.
+</p><p id="p_15">	The writ petition stands disposed of accordingly. 
+</p><p id="p_16">	The stay application and the Misc. Application No. 43964 dated 8.9.2011 also stand disposed of. 
+</p><p id="p_17">(Alok Sharma ), J.
+</p>
+<p id="p_18">thanvi/
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

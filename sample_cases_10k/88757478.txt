@@ -1,0 +1,497 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Nagarika Samithi vs The State Of Karnataka on 17 April, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/88757478/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/983800/">Section 48(1) in The Land Acquisition Act, 1894</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/88757478/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/88757478/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/88757478/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=karnataka%20housing%20board">karnataka housing board</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marginal%20land">marginal land</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=guntas">guntas</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=latches">latches</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Nagarika Samithi vs The State Of Karnataka on 17 April, 2013</div><div class="doc_author">Author: B.S.Patil</div>
+
+<pre id="pre_1">                            1
+
+
+
+      IN THE HIGH COURT OF KARNATAKA AT BANGALORE
+
+          DATED THIS THE 17TH DAY OF APRIL, 2013
+
+                         BEFORE
+
+            THE HON'BLE MR.JUSTICE B.S.PATIL
+
+             W.P.Nos.45785-86/2011 (LA-KHB)
+
+BETWEEN
+
+  1. NAGARIKA SAMITHI
+     KARNATAKA GRUHA MANDALI COLONY,
+     GANDHINAGA, YELAHANKA,
+     BANGALORE REP. BY ITS SECRETARY
+     SRI HARISHCHANDRA BHAT,
+     MAJOR, R/O HOUSING BOARD COLONY,
+     GANDHINAGAR, YELAHANKA,
+     BANGALORE DISTRIC
+
+  2. THE PRESIDENT
+     (SRI P NIRANJAN KUMAR),NAGARKIA SAMITHI,
+     KARNATAKA GRUHA MANDALI COLONY,
+     GANDHINAGAR, YELAHANKA,
+     BANGALORE.
+                                           ... PETITIONERS
+
+(By Sri. CHANDRAKANTH R GOULAY, ADV.)
+
+
+AND
+
+  1. THE STATE OF KARNATAKA
+     BY ITS SECRETARY,
+     DEPARTMENT OF HOUSING AND URBAN
+     DEVELOPMENT, M.S.BUILDING,
+     BANGALORE-560001
+
+  2. THE KARNATAKA HOUSING BOARD
+     YELAHANKA PROJECT OFFICE,
+     BANGALORE-560064
+     REPRESENTED BY TS COMMISSIONER
+                                  2
+
+
+
+     3. SRI M GOPALAPPA
+        S/O MUNIYAPPA,
+        AGED ABOUT 80 YEARS,
+        R/AT NO.1304, 1ST MAIN ROAD,
+        GANDHI NAGAR,YELAHANKA,
+        BANGALORE-560064
+
+     4. K GOPALAKRISHNA
+        S/O LATE KEMPANNA,
+        AGED ABOUT 40 YEARS,
+        R/AT 66/1, KHB COLONY,
+        GANDHINAGAR, YELAHANKA,
+        BANGALORE-560064
+                                                 ... RESPONDENTS
+
+(By Sri.H T NARENDRA PRASAD, AGA FOR R1
+ Sri M RAMASWAMY, ADV. FOR R3 &amp; 4,
+ Sri BASAVARAJ V.SABARAD, ADV. FOR R2
+ Sri R.SRINIVASA, ADV. FOR R2,)
+
+                        **************
+      THESE WRIT PETITIONS ARE FILED UNDER ARTICLES 226 &amp;
+227 OF THE CONSTITUTION OF INDIA, PRAYING TO DIRECT THE
+R1 AND R2 TO RETAIN / MAINTAIN THE CIVIL AMENITY SITES LIKE
+GARDEN, PLAYGROUND, PARK, ETC., IN SY. NOS. 108. 109 AND
+137 AS PER THE SANCTIONED PLAN AND THE SKETCH OF THE
+BOARD AT THE TIME OF IMPLEMENTATION OF THE SCHEME AND
+ALLOTMENT OF THE HOUSES TO THE PETITIONERS VIDE ANNEX-
+T. AND ETC.
+
+
+     THESE PETITIONS COMING ON FOR PRELIMINARY
+HEARING-B GROUP THIS DAY, THE COURT MADE THE
+FOLLOWING:
+
+                             ORDER
+</pre>
+<p id="p_1">1.     In these writ petitions, petitioners are seeking a direction
+
+to the state Government and the Karnataka Housing Board -
+
+respondents 1 and 2 herein to retain the civic amenity sites like
+
+garden, playground, park etc. as per the sanctioned plan and
+
+the sketch of the Board vide Annexure-T prepared at the time of
+<span class="hidden_text" id="span_1">                                    3</span>
+
+
+
+implementation of the scheme for allotment of houses to the
+
+various allottees.
+</p>
+<p id="p_2">
+</p><p id="p_3">2.    Petitioner No.1 claims to be the society of the allottees
+
+who have been allotted sites by the Housing Board in the
+
+Housing   Board      Colony   at   Ganhinagar,   Yelahanka. It is
+
+submitted by the learned counsel for the petitioner that the 2nd
+
+petitioner is no more. As the 1st petitioner is espousing the case
+
+of the other allottees and the grievance made is for and on
+
+behalf of the allottees, the matter is examined keeping in mind
+
+the interest of the allottees and the allegations made in the
+
+petition that certain portion of the land which were required to
+
+be reserved for park and other civic amenities has been
+
+denotified thereby depriving the allottees of the benefit of the
+
+civic amenities. As regards petitioner No.2 who claimed to be
+
+the President of the petitioner No.1 society, the Writ Petition
+
+has abated. In fact, the President's presence is unnecessary as
+
+the Secretary is representing the society.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">3.    It has to be noticed at the outset that as back as in the
+
+year 2004 by a notification issued under <a href="/doc/983800/" id="a_1">Section 48(1)</a> of the
+
+Land Acquisition Act (for short 'the Act') an extent of 3 acres 33
+<span class="hidden_text" id="span_2">                                  4</span>
+
+
+
+guntas of land comprised in Sy. No.108 of Yelahank Village has
+
+been denotified from the acquisition. This writ petition is filed in
+
+the year 2011.
+</p>
+<p id="p_6">
+</p><p id="p_7">4.    According to the petition averments, the Karnataka
+
+Housing Board had acquired 16 acres 33 guntas of land in Sy.
+
+Nos.108, 109 and 137 of Yelahanka Upanagar for formation of
+
+layout and to construct houses. Challenge in this petition is to
+
+Annexure-B communication issued by the State Government,
+
+Department of Housing addressed to the Commissioner,
+
+Karnataka    Housing    Board,    Bangalore    dated   07.09.2001
+
+recommending for taking steps to denotify an extent of 3 acres
+
+30 guntas of land comprised in Sy. No.108 from acquisition.
+
+Although based on the said communication a notification under
+
+<a href="/doc/983800/" id="a_2">Section 48(1)</a> has been issued and published in the Karnataka
+
+Gazette on 04.03.2004, petitioner has not challenged the same.
+
+At any rate, it has to be observed at the outset that Annexure-G
+
+notification having been issued way back in the year 2004, the
+
+present writ petition filed in the year 2011 is highly belated.
+
+
+</p><p id="p_8">5.    The petitioners are guilty of delay and latches in laying a
+
+challenge to the denotification of the land that is brought about
+
+in the year 2004. It is also not shown how the denotification of
+<span class="hidden_text" id="span_3">                                  5</span>
+
+
+
+this land has deprived the petitioners of the civic amenities
+
+made available to them.
+</p>
+<p id="p_9">
+</p><p id="p_10">6.     Respondent Nos.3 and 4 have filed objections taking up a
+
+contention that the writ petition filed by the petitioner-Society is
+
+the outcome of personal animosity and malafide intention on
+
+the part of the petitioners to harass the respondent-owners of
+
+the land to make wrongful gain. According to them, they had
+
+made a representation for denotifying the land with an object of
+
+carrying on nursery and therefore, the Authorities denotified
+
+the land and that the answering respondents were making use
+
+of the land for the purpose for which the land is denotified.
+
+They have further stated in paragraph 4 of the statement of
+
+objections that there is sufficient space left for the civic
+
+amenities like partks, roads and public buildings and sufficient
+
+open space has been reserved for this purpose to enable the
+
+allottees to effectively enjoy their house.
+
+
+</p><p id="p_11">7.     In this background both on the ground of delay and
+
+latches and also on merits, the petitioner-Society has failed to
+
+make    out   any   genuine   grievance       to   interfere   with   the
+
+notification denotifying the land. As already stated, notification
+
+denotifying the land is also not challenged.
+<span class="hidden_text" id="span_4">                                 6</span>
+
+
+
+
+</p><p id="p_12">8.    Insofar as the other prayers sought at prayer Nos.3 and 4
+
+are concerned which pertain to quashing of endorsement dated
+
+13.12.2004 issued vide Annexure-L by the Karnataka Housing
+
+Board negativing the request of the petitioners for reduction of
+
+price for marginal land and also with regard to the grant of land
+
+in favour of respondents 3 and 4 to an extent of 656.50 sq.
+
+mtrs., the writ petition filed has been already dismissed by
+
+order dated 28.02.2012 at the time of preliminary hearing. The
+
+said order passed by this Court reads as under:
+
+
+</p><blockquote id="blockquote_1">            "Sri Chandrakanth Goulay, learned advocate
+      appearing for the petitioners does not press prayer
+      No.(ii). However, he presses for prayer Nos.(i), (iii)
+      and (iv).
+</blockquote>
+
+
+<blockquote id="blockquote_2">            So far as prayer No.(iii) is concerned, the
+      petitioners sought for quashing the endorsement
+      issued by the second respondent dated 13.12.2004
+      vide Annexure-L, by which the Karnataka Housing
+      Board, Bangalore has intimated the petitioners that
+      the petitioner's prayer for reduction of price for
+      marginal land cannot be allowed. Thus, it is clear
+      that Housing Board has fixed certain price for
+      marginal land as per law and the petitioners were
+      required to pay the cost of the marginal land as
+<span class="hidden_text" id="span_5">                               7</span>
+
+
+
+     directed by the Housing Board.        However, the
+     petitioners' prayer for reduction of price of the
+     marginal land came to be rejected.         Such an
+     endorsement is made in the year 2004 i..e., eight
+     years prior to filing of these writ petitions.   The
+     petitioners slept over for eight years.   Hence, no
+     interference is called for in the writ petitions
+     relating to order dated 13.12.2004 vide Annexure-L.
+</blockquote>
+
+<blockquote id="blockquote_3">           So also, with regard to prayer No.(iv), the
+     Housing Board has passed a resolution dated
+     16.12.2004 granting marginal land in favour of
+     respondents 3 and 4 to an extent of 656.50
+     sq.mtrs. The same is questioned by the petitioners.
+     Petitioners cannot be allowed to question the
+     resolution of the Housing Board after lapse of eight
+     years. Absolutely no reasons are forthcoming to
+     condone the delay of eight years.    Hence, prayer
+     No.(iv) also stands rejected on the ground of delay
+     and latches.
+</blockquote>
+<blockquote id="blockquote_4">           Issue notice to the respondents with regard to
+     prayer No.(i) only".
+</blockquote>
+
+
+<p id="p_13">9.   Therefore, it is unnecessary to deal with these prayers.
+
+Hence, in my considered view, the petitioner-Society which has
+
+come up with the grievance against the Government denotifying
+
+the land, after lapse of nearly 7 years cannot be permitted to
+<span class="hidden_text" id="span_6">                                8</span>
+
+
+
+assail the said decision without producing proper materials and
+
+without properly explaining the delay and in particular, without
+
+showing how the said decision has prejudiced the allottees. As
+
+the petitioner-Society has failed on both the grounds in
+
+satisfactorily establishing its grievance, the writ petitions are
+
+liable to be dismissed.
+</p>
+<p id="p_14">
+</p><p id="p_15">      Hence, these writ petitions are dismissed.
+</p>
+<p id="p_16">
+
+
+</p><p id="p_17">                                                      Sd/-
+</p><p id="p_18">                                                     JUDGE
+
+
+VP
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

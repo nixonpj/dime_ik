@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Rajender vs Bses Rajdhani Power Ltd. And Anr. on 11 January, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1707579/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 16 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1707579">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/261195/">The Indian Electricity Act, 1910</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/132967048/">The Electricity Rules, 2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1101188/">Section 379 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 3 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/526385/">Sanjit Malik And Anr. vs The State (Nct Of Delhi) And Ors. on 24 January, 2008</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/199514914/">Dalbir Singh vs Bses Rajdhani Power Limited on 6 February, 2009</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/531474/">H.S. Pannu vs Govt. Of N.C.T. Of Delhi And Anr. on 22 October, 2007</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1707579/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1707579/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anticipatory%20bail">anticipatory bail</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anticipatory">anticipatory</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=theft%20citedby%3A1101188">theft citedby:1101188</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20151">section 151</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20civil%20liability">what is civil liability</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=complaint%20case">complaint case</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20135">section 135</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bail%20application">bail application</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=135">135</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anticipatory%20bail%20not%20granted%20">anticipatory bail not granted </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=grant%20of%20bail">grant of bail</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20154%20">section 154 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20379">section 379</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20210%20">section 210 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=379">379</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=210">210</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=theft%20of%20electricity">theft of electricity</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20of%20special%20judge%20">appointment of special judge </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fir%20lodged%20">fir lodged </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20of%20judges">appointment of judges</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Rajender vs Bses Rajdhani Power Ltd. And Anr. on 11 January, 2007</div><div class="doc_author">Author: A Sikri</div>
+
+<div class="doc_bench">Bench: A Sikri</div>
+
+<p id="p_1">ORDER
+ 
+
+A.K. Sikri, J.
+</p> 
+
+<p id="p_2">1. Petitioner is the proprietor of M/s. Rajinder Ice Factory located at Khasra No. 339, Village Dindarpur, Najafgarh, New Delhi. According to the petitioner, he entered into a rent agreement dated 10-4-2006 with one Sanjay and as per this rent agreement, Sanjay agreed to run this ice factory as the sole and exclusive owner, user and beneficiary thereof in consideration of monthly rent payable to the petitioner. Sanjay was to run this ice factory at his own cost and risk. This factory was, however, sealed by the SDM on 20-5-2006. On 19-6-2006, i.e. almost one month after the sealing of this factory, enforcement team of BSES Rajdhani Power Ltd. (hereinafter referred to as 'the complainant) carried out the inspection of the said ice factory. This team found smell of Ammonia gas coming from the ice factory, though the factory was purportedly sealed. The factory was, therefore, de-sealed and inspection team found that the factory was being run clandestinely committing theft of electricity. This team had found ice slabs in the factory.
+</p> 
+
+<p id="p_3">2. On the basis of the inspection report of the complaint, FIR No. 583/2006 under Section 379, <a href="/doc/1569253/" id="a_1">IPC</a> and <a href="/doc/261195/" id="a_2">Section 138</a> of the Indian Electricity Act, 2003 (for short, 'the Act') was registered against the petitioner. The petitioner applied for anticipatory bail and vide order dated 5-9-2006 the same was granted to the petitioner by the learned ASJ subject to furnishing of a personal and surety bond of Rs. 1 lakh each. The petitioner complied with these conditions contained in the order dated 5-9-2006.
+</p> 
+
+<p id="p_4">3. In the meantime, the complainant also filed a complaint against the petitioner under <a href="/doc/261195/" id="a_3">Section 135</a> read with <a href="/doc/261195/" id="a_4">Section 151</a> of the Act with the Special Judge on 4-9-2006. In this complaint, the petitioner was summoned vide order dated 18-10-2006. On receipt of the summons, when the petitioner appeared before the Special Judge on 17-11-2006, he preferred another application for anticipatory bail on the same day. The learned Special Judge, on this application, has passed the impugned order dated 17-11-2006 granting bail but subject to the condition of deposit of Rs. 25 lacs. Challenging this condition in the order, the present petition is filed.
+</p> 
+
+<p id="p_5">4. It is stated that though the petitioner had produced earlier order dated 5-9-2006 whereby he was granted anticipatory bail in the FIR, the Special Judge still advised him to file another bail application and in these circumstances he preferred bail application before the Special Judge. It is also alleged that the petitioner was asked to deposit Rs. 25 lacs with the complainant and only then he could be ordered to be released on bail and in these circumstances he had no alternative but to give an undertaking that he is willing to deposit the amount of Rs. 25 lacs. As per the order dated 17-11-2006, Rs. 5 lacs were to be deposited before 24-11-2006 and the balance amount within one month there from. When this petition came up for hearing on 23-11-2006, while issuing notice to the respondent, it was directed that in the meantime, without prejudice to the rights and contentions of the parties, the petitioner shall pay a sum of Rs. 5 lacs within one week from the said date. This time was. however, extended by another week vide order dated 4-12-2006.
+</p> 
+
+<p id="p_6">5. The main ground, on which order dated 17-11 -2006 granting anticipatory bail to the petitioner on the condition of deposit of Rs. 25 lacs is challenged, is that no such condition could have been imposed inasmuch as the petitioner was already granted anticipatory bail in the FIR on certain terms, which the petitioner had complied with. It is argued that on the ground of commission of alleged theft of electricity by the petitioner, the complainant lodged the FIR and on the same allegations it was not competent for the complainant to file a complaint as well. It was argued that in any case, under these circumstances, both FIR and the complaint were to be consolidated, as per the provisions of <a href="/doc/788422/" id="a_5">Section 210</a> of the Cr.P.C. Therefore, when the petitioner, on the same facts, had already been granted anticipatory bail, no further conditions could have been put and the impugned order of the Special Judge, therefore, amounted to double jeopardy. Learned Counsel for the petitioner, at the time of arguments, referred to the judgment of this Court in the case of <a href="/doc/135697/" id="a_6">Bimla Gupta v. State</a> 2006 IX AD (Delhi) 331 wherein this Court held that it was not necessary that for a case of theft of electricity, complaint only could be filed under <a href="/doc/132967048/" id="a_7">Section 151</a> of the Electricity Act and the criminal law could be put to motion even by lodging the FIR as well and, therefore, when it was so done in the instant case by the complainant and in that FIR the petitioner had obtained anticipatory bail he could not be forced to apply for bail all over again.
+</p> 
+
+<p id="p_7">6. Learned Counsel for the complainant, on the other hand submitted that when the FIR was lodged and Police started investigating the matter, apprehending his arrest in the said case, the petitioner applied for anticipatory bail. This bail application was before the ordinary Criminal Court, namely, Additional Sessions Judge, as Special Judge had not been notified by that time under the Act. In view of this, the learned ASJ considered the bail application along with application of another person, who was also allegedly found committing theft of electricity, as FIR No. 583/2006 was common to both of them, and passed the order for anticipatory bail. However, it was made clear that the said order shall not affect the merits of the case or the complaint that could be filed by the complainant. Therefore, when the complaint was filed by that time, Special Judge had been appointed and it was for the Special Judge to consider the application without being influenced by the order dated 5-9-2006, which has been done by the Special Judge in the impugned order. He also referred to the judgment of the Supreme Court in the case of <a href="/doc/1780466/" id="a_8">Adri Dharan Das v. State of W.B</a>. , in support of his submission that under <a href="/doc/261195/" id="a_9">Section 438</a>, <a href="/doc/445276/" id="a_10">Cr.P.C</a>., the anticipatory bail is given for a limited duration so as to enable the accused to move the regular Court for bail in terms of <a href="/doc/1290514/" id="a_11">Section 439</a> of the Cr.P.C. and once such an application for regular bail comes up for hearing, the Court can consider the same on its own merits. He submitted that on the same analogy when the earlier anticipatory bail application was filed, after the registration of the FIR, before the learned ASJ, it was an interim protection as ultimately it is the Special Judge who is to consider the case on merits and pass the appropriate order. He also referred to another judgment of the Apex Court in the case of <a href="/doc/837290/" id="a_12">Jagmohan Mehatabsing Gujaral v. State of Maharashtra</a> . The sustenance which is sought to be drawn from this judgment is that the inspection conducted by the inspection team, which found drastic changes and tampering done by the accused, can be acted upon and on that basis bill can be raised. He further submitted that total bill raised in this behalf was to the tune of Rs. 65,33,901/- and asking the petitioner to deposit a sum of Rs. 25 lacs against that bill was not an unreasonable condition. He also submitted that the FIR was under <a href="/doc/1101188/" id="a_13">Section 379</a> of IPC which related to the theft of electricity. However, the complaint thereafter was filed under <a href="/doc/261195/" id="a_14">Section 135</a> read with <a href="/doc/261195/" id="a_15">Section 151</a> of the Act, which is a special provision under the Act to take care of such thefts of electricity, and as per <a href="/doc/261195/" id="a_16">Section 151</a> of the Act, such theft is to be brought to the notice of the Magistrate by means of a complaint and even after the FIR was lodged, such a course of action was open to the complainant under different provisions in view of the judgment of this Court in <a href="/doc/1870142/" id="a_17">Rajat Mittal v. State</a> . Referring to another judgment of this Court in <a href="/doc/1813801/" id="a_18">Kartar Singh v. The State</a> , he submitted that when complaint case and Police investigation is for the same offence, procedure which is laid down in <a href="/doc/788422/" id="a_19">Section 210</a> of the Cr.P.C. and explained in the said judgment is to be followed, namely, the two cases can be tried together.
+</p> 
+
+<p id="p_8">7. I have given my utmost consideration to the submissions advanced by counsel for both the parties. Perusal of FIR No. 583/ 2006, dated 19-6-2006 would indicate that it is under <a href="/doc/1101188/" id="a_20">Section 379</a> of the IPC. Theft of electricity, which was allegedly found by the inspection team of the complainant, was immediately reported to the Police. This course of action was available to the complainant and it cannot be said that filing of the complaint is the only course of action available, in view of the judgment of this Court in Bimla Gupta (supra). When the FIR is lodged and, thereafter, the complaint is also filed on the same allegations alleging commission of the same offence, procedure which is to be followed is explained in <a href="/doc/261195/" id="a_21">Section 210</a>, <a href="/doc/445276/" id="a_22">Cr.P.C</a>. In Kartar Singh (supra), interpreting this provision, this Court held that it is evident from the clear language of <a href="/doc/261195/" id="a_23">Section 210</a>, <a href="/doc/445276/" id="a_24">Cr.P.C</a>. that it comes into operation when the Magistrate is holding an inquiry or a trial in relation to a complaint case and it is brought to his notice that the offence which forms the subject-matter of that injury or trial is under investigation with the police. In such circumstances, the Magistrate stays the proceedings in the complaint case and awaits the result of the investigation. If the police report does not relate to any person accused in the complaint case or if he does not take cognizance of any offence on the police report, the inquiry or trial stayed by him gets going again in accordance with the provisions<a href="/doc/445276/" id="a_25"> of the Code</a>. On the other hand, if the Magistrate takes cognizance of any offence on the police report submitted in due course against any person who is accused in the complaint case also, he has to inquire into or try the complainant and the police cases together and the procedure to be followed is that applicable to cases instituted on police report. The Court further held that in order to simplify the procedure for cases friable by a Sessions Court, the legislature has done away with the magisterial inquiry and if according to the police report the accused appears to have committed the offence, the Magistrate does not have to satisfy himself independently of the police report that there is evidence to make out a prima facie case against the accused. The holding of a trial by a Sessions Court is a serious affair and nobody is made to undergo one unless there is tangible material available against him. In the case of a complaint disclosing an offence friable by the Court of Session, it is the bounden duty of the Magistrate, vide proviso to Sub-section (2) of <a href="/doc/1149595/" id="a_26">Section 202</a> of the Cr.P.C, to call upon the complainant to produce all his witnesses and examine them on oath before the matter can be committed to the Court of Session. It was also held that <a href="/doc/261195/" id="a_27">Section 210</a> speaks of the complaint case and the police case inquired into or tried together where a complaint is lodged in respect of a particular offence before the police has submitted its report after investigation into the said offence, and some accused person eventually reported against by the police figures in the complaint also. Thus, there may not be any bar for filing the complaint subsequently after the lodging of the FIR, more particularly, when the FIR is under <a href="/doc/1101188/" id="a_28">Section 379</a> of the IPC and was lodged at the time when there was no Special Judge appointed under the Act and the complaint is under <a href="/doc/261195/" id="a_29">Section 135</a> read with <a href="/doc/261195/" id="a_30">Section 151</a> of the Act, though on the same facts.
+</p> 
+
+<p id="p_9">8. <a href="/doc/261195/" id="a_31">Section 131</a> of the Act makes illegal extraction of electricity as punishable offence and as per <a href="/doc/261195/" id="a_32">Section 151</a> of the Act, cognizance of such an offence can be taken upon a complaint in writing made by the authorities mentioned therein, which include the licensee, like the complainant in the instant case. As per <a href="/doc/261195/" id="a_33">Section 154</a> of the Act, such an offence is friable only by the Special Court within whose jurisdiction such offence has been committed.
+</p> 
+
+<p id="p_10">9. The question with which we are concerned is as to whether the accused is liable and under an obligation to obtain bail again when he has been granted anticipatory bail by the competent Court of law under <a href="/doc/1783708/" id="a_34">Section 438</a> of the Cr.P.C. in case FIR No. 583/2006. Normally, when such an FIR is lodged for a particular offence and the accused is granted anticipatory bail therein, in the complaint case, which is filed subsequently on the same allegations, the accused cannot be forced to apply for anticipatory bail again. However, when we go to the scheme of the Act this position in stricto sensu may not be applicable. Apart from the distinction which has been stated above, what is to be seen is that the offences under the Act are friable by the Special Judge appointed therein or not. <a href="/doc/261195/" id="a_35">Section 154</a> of the Act prescribes the procedure and power of the Special Court. Apart from stating that such offences referred to in <a href="/doc/261195/" id="a_36">Sections 135</a> to <a href="/doc/261195/" id="a_37">139</a> of the Act are friable in a summary way in accordance with the procedure prescribed under the <a href="/doc/445276/" id="a_38">Cr.P.C</a>, another peculiar feature is that the Special Court, apart from trying criminal offence, is given power to determine the civil liability against the consumer or a person found committing theft of emergency as well, which is clear from sub-sections (5) and (6) of <a href="/doc/261195/" id="a_39">Section 154</a> of the act, which read as under:
+</p>  
+
+<p id="p_11">154. Procedure and power of Special Court.-
+</p><p id="p_12"> xx       xx        xx
+ 
+
+(5) The Special Court may determine the civil liability against a consumer or a person in terms of money for theft of energy which shall not be less then an amount equivalent to two times of the tariff rate applicable for a period of twelve months preceding the date of detection of theft of energy or the exact period of theft if determined whichever is less and the amount of civil liability so determined shall be recovered as if it were a decree of Civil Court.
+</p> 
+
+<p id="p_13">(6) In case the civil liability so determined finally by the Special Court is less than the amount deposited by the consumer or the person, the excess amount so deposited by the consumer or the person, to the Board or licensee or the concerned person, as the case may be refunded by the Board or licensee or the concerned person, as the case may be, within a fortnight from the date of communication of the order of the Special Court together with interest at the prevailing Reserve Bank of India prime lending rate for the period from the date of such deposit till the date of payment.
+</p> 
+
+<p id="p_14">Explanation- For the purposes of this section, "civil liability" means loss or damage incurred by the Board or licensee or the concerned person, as the case may be, due to the commission of an offence referred to in <a href="/doc/261195/" id="a_40">Sections 135</a> to <a href="/doc/261195/" id="a_41">139</a>.
+</p> 
+
+<p id="p_15">10. Thus, this is the peculiar feature whereby the Special Court is discharging both criminal and civil functions which are combined into one. In the same complaint filed by the complainant, not only the Special Court can punish the accused if it is established that the accused had committed the offence under <a href="/doc/261195/" id="a_42">Sections 135</a> to <a href="/doc/261195/" id="a_43">139</a> of the Act, it can even determine the civil liability and direct the said person to deposit the amount of civil liability so determined. It is for this reason that while granting bail the Special Court has power to impose conditions, which may include the condition as to deposit of the amount. This was so held by the Supreme Court in the case of <a href="/doc/66319567/" id="a_44">Chakrawarti Prasad v. State of Bihar</a> . But for this special provision, normally while granting bail these kinds of conditions are impermissible.
+</p> 
+
+<p id="p_16">11. When the matter is to be examined in this perspective, the things fall in place. On the lodging of the FIR, the petitioner applied for anticipatory bail. This was not a complaint under <a href="/doc/261195/" id="a_45">Section 151</a> of the Act and no prayer for determining the civil liability was made nor could it be made in the FIR, which was simply under <a href="/doc/261195/" id="a_46">Section 379</a>, <a href="/doc/1569253/" id="a_47">IPC</a>. Another important fact which needs to be noticed is that no Special Judge was appointed at that time and, therefore, the anticipatory bail application moved by the petitioner came up for consideration before the learned ASJ. The learned ASJ, while considering this bail application, was conscious of the provisions of <a href="/doc/261195/" id="a_48">Sections 151</a> and <a href="/doc/261195/" id="a_49">154</a> of the Act. It is for this reason that in the very beginning of the order dated 5-9-2006, he noted that the case was marked to him as "the concerned Special Judge has not been notified till date under the <a href="/doc/132967048/" id="a_50">Electricity Act</a>, 2003". He was further conscious of the fact that the complainant could make appropriate complaint under <a href="/doc/132967048/" id="a_51">Section 151</a> of the Act. It is because of this reason that while granting anticipatory bail on certain terms, in the last para of the order, the learned ASJ specifically stated that "nothing said hereinabove shall affect the merits of the case nor shall affect the complaint case filed by the complainant." The idea was that as and when the complaint, that will have to be considered on its own merits. In the complaint that is filed eventually, which is under <a href="/doc/132967048/" id="a_52">Section 135</a> read with <a href="/doc/132967048/" id="a_53">Section 151</a> of the Act, there is a specific prayer in this complaint for the Special Judge to determine the civil liability in view of the provisions of <a href="/doc/132967048/" id="a_54">Section 154(5)</a> of the Act. Order passed by the Special Judge, in these circumstances, cannot be treated as double jeopardy.
+</p> 
+
+<p id="p_17">12. Having said so, one circumstance, which is in favor of the petitioner, also needs to be mentioned now. In the order dated 5-9-2006 passed by the learned ASJ granting anticipatory bail to the petitioner, there is a detailed analysis of the bill raised. It is noted that though, as per the complainant, the petitioner has committed theft of energy worth Rs. 65,33,901/-, but raising of the bill of this magnitude may not be proper. The learned ASJ went into the exercise on the basis of which the bill in question has been raised by the concerned authority and has observed as under "Admittedly, the said amount has been arrived at on the basis of the following formula:
+</p>  
+
+<p id="p_18">Assessed load X 30 days X 24 hours X 100 (% factor) X 6 (months) X 5 (5 time penalty).
+</p> 
+
+<p id="p_19">The other aspect of the law is provided in <a href="/doc/132967048/" id="a_55">Section 152</a> of the said Act which mentions about compounding of the offence. The Delhi Government vide its notification No. F.11 (93)/2003/Power/1153 dated 5th May, 2006 has authorised all the...(sic).
+</p> 
+
+<p id="p_20">Admittedly, under <a href="/doc/132967048/" id="a_56">Section 152</a> of the compounding amount is calculated for industrial use of energy as Rs. 20,000/- per KW. Even if I go by this formula and take the present case as an example case, the maximum liability of both the applicants may come to Rs. 12,60,000/ and Rs. 11,95,000/- respectively if the accused/applicants enter into compromise of the offence under the said provision. In fact the said formula of calculating the loss of energy which has been relied by the complainant and the trial before this Special Court has been made redundant by the said notification and <a href="/doc/132967048/" id="a_57">Section 152</a> of the Act, as no sane person would continue with the present proceedings if he see that he can likely to be convicted and he would prefer to udergo compounding of the offence.
+</p> 
+
+<p id="p_21">Regarding the other contention that applicants trepassed into the premises even after seal over the premises, the IO present has failed to point out as to whether the concerned SDM after coming to know of the fact that an alleged factory was being run inside the sealed premises, got registered a criminal case for trepass or initiated an action under <a href="/doc/1432790/" id="a_58">Section 188</a> of IPC or filed any proceedings of contempt against the order of the authority/Judicial forum which sealed the premises.
+</p> 
+
+<p id="p_22">13. It is clear that qua the petitioner herein, the learned ASJ observed that maximum liability could be Rs. 11,95,000/-. However, when the matter came up before the Special Judge, he did not consider this vital aspect and directed the petitioner to deposit Rs. 25 lacs, without indicating any reason in support of this order, notwithstanding the aforesaid observations of the learned ASJ in his order dated 5-9-2006. The Special Judge is swayed by the consideration that the bill is of Rs. 65,33,901/- and 40% thereof would come to around Rs. 25 lacs and, therefore, this payment should be made by the petitioner. I may add that the impugned order dated 17-11 -2006 reads that the petitioner and his counsel had consented to deposit this amount. That may be the reason for not undertaking the exercise. However, I may also add that cases are coming to this Court where conditions of deposit of a particular amount while granting bail are challenged. No doubt, the Special Judge has power to impose such a condition. However, since the Special Judge is to ultimately decide the civil liability as well, while directing the accused to deposit a particular amount at the time of grant of bail, the Special Judge should not be influenced by the amount of the bill alone. He should consider, at least prima facie, the propriety of issuing bill of a particular sum in a particular case, albeit on the presumption that there was theft of electricity. Formula for raising such bills is provided under the Act and the rules framed there under. In this very case, in his order dated 5-9-2006, the learned ASJ has ventured this exercise and found that normally the bill should have been to the extent of Rs. 11,95,000/-. It is only after undertaking such an exercise, more particularly when the accused challenges the quantum of the bill, that the Special Judge should decide as to how much amount needs to be deposited by the accused person seeking bail. No doubt, theft of electricity, which has become a menace, has to be checked and for this reason the Legislature has made unique provision in the form of <a href="/doc/132967048/" id="a_59">Section 154</a> of the Act. However, it is also to be seen that the electricity authorities do not foist on the consumers with unreasonable demands by inflating the bills which they are not in a position to justify as in the case of theft as well, the bills are to be raised as per the formula prescribed. Therefore, the duty of the Special Judge becomes more solemn in going through this exercise so as to maintain proper balance between the interest of the electricity authority/licensee on the one hand and the rights of the accused on the other.
+</p> 
+
+<p id="p_23">14. Normally, when the impugned order records that it is the petitioner who had himself agreed to deposit 40% of the bill amount, one would not interfere as such an order came to be passed on the purported concession of the petitioner. However, in view of the fact that the petitioner had already been granted anticipatory bail and, therefore, armed with the order dated 5-9-2006 he might not have agreed with such a condition and, more, particularly, having regard to the detailed order dated 5-9-2006 as per which the learned ASJ has made prima facie observation that maximum liability could be Rs. 11,95,000/-, I am of the view that in this case the Special Judge should consider the case on merits before coming to the conclusion as to how much amount needs to be deposited by the petitioner. Therefore, in view of this peculiar situation, I am forced to take this view, without forming it as a precedent, and remand the case back to the learned Special Judge.
+</p> 
+
+<p id="p_24">15. Thus, while holding that the Special Judge has power to impose such a condition, which could be imposed notwithstanding the order dated 5-9-2006, before directing as to how much amount should be deposited by the petitioner, the Special Judge should undertake the exercise of taking prima facie view of the propriety of raising such a demand in the bill. Parties shall appear before the Special Judge for this purpose on 20th February, 2007.
+</p> 
+
+<p id="p_25">16. Copy of this order shall also be circulated to all other Special Judges appointed under the Act so that while imposing conditions of deposit, they should consider the matter in proper perspective as mentioned in this judgment.
+</p> 
+
+<p id="p_26">17. With the aforesaid directions, this petition stands disposed of.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

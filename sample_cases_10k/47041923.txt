@@ -1,0 +1,455 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mrs Theresa D /Souza vs The State Of Karnataka on 6 September, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/47041923/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/337173/">The University Of Agricultural ... vs State Of Karnataka, Revenue ... on 9 December, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/367586/">Article 14 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/47041923/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/47041923/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/47041923/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Mrs Theresa D /Souza vs The State Of Karnataka on 6 September, 2019</div><div class="doc_author">Author: L.Narayana Swamy Devdas</div>
+
+<pre id="pre_1">                              1
+
+
+       IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+         DATED THIS THE 06TH DAY OF SEPTEMBER, 2019
+
+                          PRESENT
+
+         THE HON'BLE MR.JUSTICE L. NARAYANA SWAMY
+
+                             AND
+
+             THE HON'BLE MR.JUSTICE R. DEVDAS
+
+     WRIT APPEAL Nos.1586-1587 OF 2015 (LA-KIADB)
+
+BETWEEN:
+
+     1. MRS. THERESA D/SOUZA
+        W/O SRI ANTHONY VICTOR D'SOUZA
+        AGED ABOUT 57 YEARS
+        RESIDING AT "KOPPALU HOUSE"
+        CHEDLUR POST, VIA KURNADU
+        BANTWAL TALUK,
+        DAKSHINA KANNADA - 575 153
+
+     2. JACOB D'SOUZA
+        S/O SRI LAWRENCE D'SOUZA
+        AGED ABOUT 58 YEARS
+        RESIDING AT "KOPPALU HOUSE"
+        CHEDLUR POST, VIA KURNADU
+        BANTWAL TALUK,
+        DAKSHINA KANNADA - 575 153
+                                             ...APPELLANTS
+
+(BY SRI B N PRAKASH, ADV.)
+
+AND:
+
+1.    THE STATE OF KARNATAKA
+      BY ITS SECRETARY TO GOVERNMENT
+                                2
+
+
+     DEPARTMENT OF INDUSTRIES AND COMMERCE
+     M.S. BUILDINGS
+     DR. AMBEDKAR VEEDHI
+     BANGALORE - 560 001
+
+2.   THE SPECIAL LAND ACQUISITION OFFICEDR
+     KARNATAKA INDUSTRIAL AREAS
+     DEVELOPMENT BOARD
+     MANGALORE DIVISION
+     BAIKAMPADI
+     MANGALORE 575 011
+
+3.   THE KARNATAKA INDUSTRIAL AREAS
+     DEVELOPMENT BOARD
+     GOVERNMENT OF KARNATAKA UNDERTAKING
+     2ND FLOOR, R.P. BUILDING
+     NRUPATHUNGA ROAD
+     BANGALORE 560 001
+     REPRESENTED BY ITS SECRETARY
+                                      ...RESPONDENTS
+
+(BY SRI BASAVARAJ V. SABARAD, ADV. FOR R2 AND 3;
+ SRI KIRAN KUMAR T.L., AGA FOR R1)
+
+     THESE WRIT APPEALS ARE FILED U/S 4 OF THE
+KARNATAKA HIGH COURT ACT PRAYING TO SET ASIDE THE
+ORDER PASSED IN WRIT PETITION NO.8953/2011 AND WRIT
+PETITION NO. 17975/2009 DATED 16.01.2014.
+
+     THESE WRIT APPEALS COMING ON FOR PRELIMINARY
+HEARING, THIS DAY, NARAYANA SWAMY J., DELIVERED THE
+FOLLOWING:
+
+                       JUDGMENT
+</pre>
+<p id="p_1">     There is a delay of 469 days in filing the appeals. IA.II of
+
+2015 is filed seeking to condone the delay.      We have gone
+<span class="hidden_text" id="span_1">                                      3</span>
+
+
+through the reasons assigned in the accompanying affidavit and
+
+also heard the learned counsel for the respondents and gone
+
+through the reasons assigned in the affidavit.          Having satisfied
+
+with the reasons assigned, IA.II of 2015 is allowed.              Delay of
+
+469 days in filing the appeals is condoned.
+</p>
+<p id="p_2">
+</p><p id="p_3">      2. Appellants herein were the petitioners in Writ Petitions
+
+No.8953 of 2011 and 17975 of 2009.              It is claimed that the
+
+petitioners   are   the    owners    of   the   lands   bearing     Survey
+
+No.98/1p1 measuring 2 acre 45 cents and in Survey No.95/3p1
+
+measuring 1 acre 44 cents of Chelur village, Bantwal Taluk,
+
+Dakshina Kannada District.          The lands were acquired by the
+
+Karnataka     Industrial   Areas    Development     Board    (for    short
+
+hereinafter referred to as 'the KIADB') by issuing notifications.
+
+On filing objections by the owners of the lands proposed to be
+
+acquired, the cases of the owners whose lands are in low-lying
+
+areas, have been dropped.           It is their further case that the
+
+adjoining lands which are in low-lying areas have been dropped,
+
+whereas the appellants lands which are also in the low-lying area
+
+have been included in the notification for the purpose of
+<span class="hidden_text" id="span_2">                                   4</span>
+
+
+acquisition.   The   appellants   have   filed objections   to the
+
+competent authority requesting not to acquire the lands since
+
+their lands also come under low-lying areas. The objections of
+
+the appellants have not been considered. Hence, the appellants
+
+have approached this Court in the said writ petitions. In order to
+
+substantiate the case of the petitioner/appellants, this Court
+
+directed the KIADB to make a report and pursuant to the said
+
+order, the report was filed on 16th November, 2012. Having not
+
+satisfied with the said report, it was directed to file a further
+
+report. Accordingly, further report was filed on 04th December
+
+2013.   As per the said report, out of the 6.93 acres of lands
+
+acquired in pre-notification in Survey No.98/1p1, the extent of
+
+land acquired in respect of the petitioner/appellant is 0.83 cents.
+
+In the remark column of the report it is stated that 0.83 acres is
+
+proposed to be acquired, 0.10 acres falls in the low-lying area.
+
+Hence, it is submitted that as per this report also the
+
+petitioner/appellant is entitled for the relief of dropping the said
+
+area from acquisition.    The learned counsel for the appellant
+
+submits that the action of the respondent in dropping the
+
+acquisition of adjoining lands on the ground of low-lying area
+<span class="hidden_text" id="span_3">                                  5</span>
+
+
+and acquiring the land of the petitioner/appellants, though it is
+
+also in the low-lying area, is in violative and arbitrary on the part
+
+of the respondents. In support of his case, the learned counsel
+
+has referred to the judgment of the Hon'ble Supreme Court in
+
+the case of <a href="/doc/337173/" id="a_1">BEML EMPLOYEES HOUSE BUILDING CO-OPERATIVE
+
+SOCIETY LIMITED v. STATE OF KARNATAKA AND OTHERS</a>
+
+reported in (2005)9 SCC 248 and referred to paragraph 7 of the
+
+judgment. It is his submission that the Hon'ble Supreme Court
+
+has observed that, similarly situated extent of lands, if it is not
+
+considered for the purpose of dropping, the acquisition is nothing
+
+but violation of <a href="/doc/367586/" id="a_2">Article 14</a> of the Constitution of India and it
+
+amounts to vice and hostile discrimination infects and vitiates
+
+the decision taken by the State Government to continue with the
+
+acquisition.
+</p>
+<p id="p_4">
+</p><p id="p_5">      3. On the other hand, the learned Counsel appearing for
+
+KIADB submits that what was dropped, may not be for the
+
+reason it is out of compact area.      In case, if the land of the
+
+petitioner-appellants to the extent which it is said is in the low-
+
+lying area, if it is dropped it affects the principle of compactness
+<span class="hidden_text" id="span_4">                                   6</span>
+
+
+for the purpose for which it was acquired. He submits that the
+
+case of the appellants has been rightly considered by the learned
+
+single Judge and dropped the proceedings.             Hence, these
+
+appeals are also to be dismissed.
+</p>
+<p id="p_6">
+</p><p id="p_7">      4.     The learned Government Advocate also submits to
+
+dismiss these appeals and it is his submission that the Authority
+
+which is competent to drop or acquire is KIADB and under the
+
+circumstances, it is not for this Court to interfere in the matter.
+
+
+</p><p id="p_8">      5.   Heard the learned counsel for the parties.      From the
+
+submissions made by the learned counsel appearing for the
+
+appellants and also on the basis of the sketch placed before us,
+
+we have seen that some of the lands have been dropped on the
+
+ground that they fall under low-lying area.      The sketch further
+
+goes to show that the petitioner-appellants land is also in the
+
+low-lying area and the same is again supported by the report
+
+submitted.     This Court, also finds that the land in Survey
+
+No.98/1p1 which is in an extent of 0.10 acres, is a low-lying
+
+area. When it is held by the Hon'ble Supreme Court that a patch
+
+of land, if it is dropped on the ground that the land falls in the
+<span class="hidden_text" id="span_5">                                     7</span>
+
+
+low-lying area, similar benefit is necessarily to be extended to
+
+the adjoining lands, if it comes within the same parameters.
+
+Whether it falls in the low-lying area or not, is for the
+
+respondent-KIADB to assign reasons. It is not open for KIADB
+
+to acquire or drop, if the land situates in the same parameters.
+
+If KIADB had dropped the lands adjoining to the land of the
+
+appellants, then the same benefit is to be extended to the other
+
+lands which are also in the low-lying area.       The same has not
+
+been done in the case of the appellants, as we have seen from
+
+the Report and also the sketch made available to us.           Under
+
+these circumstances, as already held by the Hon'ble Supreme
+
+Court, we hold that the action of the respondent-KIADB is
+
+arbitrary, in case, it has not extended the same benefit to the
+
+appellants.    For the said purpose, instead of declaring that the
+
+land of the appellants comes within the low-lying area or not, it
+
+is   better   to   direct   the   respondent-KIADB,   which   is   the
+
+appropriate authority, to consider the case of the appellants and
+
+pass appropriate orders.      It is also directed that while disposing
+
+of the matter, the report submitted to this Court, which is
+<span class="hidden_text" id="span_6">                                 8</span>
+
+
+extracted in the judgment of the learned Single Judge at internal
+
+paragraph No.3 is to be taken into consideration.
+
+
+</p><p id="p_9">      With these observations appeals stand disposed of.
+
+
+
+
+</p><p id="p_10">                                            SD/-
+</p><p id="p_11">                                           JUDGE
+
+
+
+                                            SD/-
+</p><p id="p_12">                                           JUDGE
+
+
+lnn
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>N.A. Victor Immanuel And Others vs State on 23 July, 1990</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/774488/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:774488">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1331755/">The Prevention of Corruption Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/17098/">Section 13(1) in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1259316/">Section 13(2) in The Prevention of Corruption Act, 1988</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 0 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/78197569/">Firoz.K.K vs Pradeepan Menasseri Veettil on 12 December, 2018</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/130413946/">Jhandu And Others vs State Of U.P. on 25 April, 2018</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/774488/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/774488/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chengalpattu">chengalpattu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=murugan">murugan</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kancheepuram">kancheepuram</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=157%20crpc">157 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anti-corruption">anti-corruption</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anti%20corruption%20">anti corruption </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=retraction">retraction</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">N.A. Victor Immanuel And Others vs State on 23 July, 1990</div><div class="doc_citations">Equivalent citations: 1991 CriLJ 2014</div>
+
+<div class="doc_bench">Bench: Janarthanam</div>
+
+<p id="p_1">ORDER
+ 
+
+</p><p id="p_2"> 1. The Inspector of Police, Vigilance and Anti-corruption, Chengai Anna Detachment at Kancheepuram, on credible information, that the Officers and Staff of Prohibition Enforcement Wing, Chengalpattu are collecting weekly mamool from prohibition offenders and sharing the amount among themselves, along with the Special Officer of District Inspection Cell, Collectorate, Kancheepuram and the party under the supervision of Thiru D. Manoharan, Additional Superintendent of Police, Police Investigating Agency Unit, Madras, conducted surprise check at the Prohibition Enforcement Wing, Chengalpattu on 21-11-1988 between 12-15 to 16-30 hours.  
+</p> 
+
+<p id="p_3"> 2. At about 12 hours, before the party entering into the office, one Murugan of Kolathur village was found coming out of the Prohibition Enforcement Wing Office and he was intercepted and questioned. He appeared to have stated that he paid a sum of Rs. 400/- as weekly mamool for selling illicit arrack to the Sub-Inspector of Police Thiru Mariappan (Accused 3) of that Unit on behalf of his relative Thiru Seenu alias Srinivasan, a prohibition offender. A statement to that effect was recorded from him.  
+</p> 
+
+<p id="p_4"> 3. Then the party entered into the office at 12-15 hours along with the said Murugan, who identified the Sub-Inspector of Police Thiru Mariappan, to whom he had paid this weekly mamool amount of Rs. 400/-. The Sub-Inspector of Police was interrogated and he in turn produced a sum of Rs. 2,258/- stated to have been collected by him from various arrack sellers as mamool.  
+</p> 
+
+<p id="p_5"> 4. Likewise, Thiru N. A. Victor Immanuel (Accused 1) the Inspector of Police; Thiru M. Jothilingam, Sub-Inspector of police (Accused 2); Grade <a href="/doc/1569253/" id="a_1">I.P.C</a>. No. 1126 Thiru K. Thanigaivelu (Accused 4); Thiru G. Narasimhan P.C. 1107 (Accused 5); Thiru K. Chandrasekaran PC 564 (Accused 6); Thiru L. Sarathy, PC 1314 (Accused 7) and Thiru Teekaram PC 1073 (Accused 8) were questioned and a total amount of Rs. 25,022.70 were recovered from accused 1 to 8 representing the mamool stated to have been collected from various arrack sellers. A list containing the names and addresses of the persons stated to have given the mamool to the Prohibition Enforcement Wing was also seized. A seizer mahazar has been prepared duly attested by Thiru A. M. Abdul Suban, Special Officer, District Inspection Cell and Thiru K. Ramanathan, Taluk Supply Officer, Chengalpattu and others.  
+</p> 
+
+<p id="p_6"> 5. When the party was engaged in such an operation, two other persons, namely, Thiru C. Venkatesan of Kalpat Vembakkam village and Thiru V. Gopal of Nallambakkam village who had come to the office with the sums of Rs. 300/- and Rs. 500/- respectively to pay their due share of weekly mamool, were questioned and their statements were also recorded in the presence of the official witnesses.  
+</p> 
+
+<p id="p_7"> 6. Accused 1 to 8 were arrested at 20.00 hours and released on bail at 21.00 hours on the same day with instructions to report before the Chief Judicial Magistrate, Chengalpattu on or before 5-12-1988. A wireless message about the arrest and release of the accused were sent to all concerned officers. A report was also sent to the Deputy Inspector-General of Police, Prohibition Enforcement Wing, Madras requesting him to place the accused-Officers under suspension from the date and time of arrest. The houses of accused 1 and 2 were also searched under<a href="/doc/126359453/" id="a_2"> S. 165</a>, <a href="/doc/445276/" id="a_3">Cr.P.C</a>. after recording reasons for such search and the search proved futile, in the sense of non-recovery of any incriminating articles or records.  
+</p> 
+
+<p id="p_8"> 7. The Inspector of Police, Vigilance and Anti-Corruption thereafter returned to Kancheepuram and registered a case in Crime No. 11/AC/88/CH under<a href="/doc/17098/" id="a_4"> S. 13(1)(a)</a> and (d) read with<a href="/doc/1259316/" id="a_5"> S. 13(2)</a> of the Prevention of Corruption Act, 1988 at 22.45 hours and took up further investigation. On the next day, the first information report along with seized articles, was sent to the Magistrate. On 30-11-1988, the said Murugan, on whose statement, the case had been registered, appeared to have given a retracted statement before the Chief Judicial Magistrate, Chengalpattu. The police personnel, namely, accused 1 on the one hand and accused 2 to 8 joining together on the other hand, aggrieved by the registration and further investigation of the case against them, resorted to invoke the inherent jurisdiction of this Court under<a href="/doc/1331755/" id="a_6"> S. 482</a>, <a href="/doc/445276/" id="a_7">Cr.P.C</a>. to quash the proceedings against them respectively filed Crl.M.P. No. 9803 of 1989 on 11-8-1989 and Crl. M.P. No. 13918 of 1989 on 1-11-1989 and also obtained stay of further investigation in the case.  
+</p> 
+
+<p id="p_9"> 8. Learned Counsel appearing for the petitioners would virtually mount an attack as to the sustainability of the registration and further investigation of the case by making the following submissions :-  
+</p>  
+
+<p id="p_10"> (1) The statement of Murugan, which served as an edifice of foundation for the registration of the case, can no longer be stated to be in existence subsequent to his retracted statement before the Chief Judicial Magistrate, Chengalpattu and in such state of affairs, no credible prima facie materials are available for further proceeding with the investigation in respect of the alleged offences; and  
+ 
+
+ (2) The non-compliance of the provisions of Ss. 154 and 157, Crl.P.C. is such as to vitiate the entirety of proceedings under investigation.  
+</p> 
+
+<p id="p_11"> 9. Learned Government Advocate repelled those two submissions.  
+</p> 
+
+<p id="p_12"> 10. To both the submissions, I am unable to affix my seal of approval on the facts and circumstances of the case. No doubt true it is, the said Murugan, on whose statement, the case had been registered, had given a go-by to his statement by his appearing before the Chief Judicial Magistrate, Chengalpattu and giving retracted statement subsequently. The fact that there is a retracted statement of the First informant is not by itself sufficient to throw the case of the prosecution lock, stock and barrel. It is to be remembered here that the first information report is not at all a substantive piece of evidence in the eye of law. It can be used during the course of trial, as a material, corroborative or contradictory. If the first informant disowns his statement during the course of trial, of course, after getting the requisite permission of the Court, the prosecution would be entitled to treat him as a hostile witness and put questions to him, which may be put in cross-examination and hereby elicit, by way Of contradiction, his prior statement in the first information. The only difference here is that even before the commencement of the trial, he had disowned his statement. It is not as if the whole case of the prosecution is solely dependent upon the testimony of the said Murugan. Of course, it is he who set the wheels of law on motion by giving the requisite first information. On the information so furnished, after the registration of the case, many valuable materials regarding the involvement of all the petitioners, accused 1 to 8 with the offences with which they are accused of, had appeared to have been collected during the course of investigation. It is not as if the petitioners-accused came before this Court immediately after the registration of the case and obtained stay of further investigation. The sordid fact is that the investigation of the case proceeded further as against accused 1 up to 11-8-1989 and as against accused 2 to 8, up to 1-11-1989, on which dates stay of further investigation had been duly obtained by them respectively. As a matter of fact, from the list, containing the names of persons paying mamool, stated to have been seized on the day of the surprise inspection, all those persons had been duly contacted by the investigating agency and almost statements from about 40 to 50 persons had appeared to have been recorded and their statements do prima facie reveal payment of weekly mamool to the Prohibition Enforcement Wing to be shared by all in certain specified portions.  
+</p> 
+
+<p id="p_13"> 11. This apart, the list stated to be in the handwriting of a specified Police Personnel in the Prohibition Enforcement Wing had appeared to have been sent to the Handwriting Expert and opinion had been obtained. The opinion so obtained gives a positive opinion that the list had been reduced to writing by a police personnel in that Enforcement Wing. Added to this, a huge amount of Rs. 25,000/-, and odd had been recovered from accused 1 to 8 on the day surprise inspection. In such circumstances, it cannot be said that there are no prima facie materials pointing out the involvement of the petitioners-accused in respect of the offences with which they are accused of.  
+</p> 
+
+<p id="p_14"> 12. An Officer-in-charge of a Police Station can start investigation either on information or otherwise, if he has reason to suspect that a cognisable offence has been committed. The words 'or otherwise' are wide enough to include every source of information other than that furnished and recorded under<a href="/doc/1331755/" id="a_8"> S. 154</a>, <a href="/doc/445276/" id="a_9">Cr.P.C</a>. Investigation may be commenced even when police are led to believe through their own knowledge or by means of credible though informal intelligence that a cognizable offence had been committed. In the case on hand, it is not as if the Inspector, Vigilance and Anti-Corruption commenced his investigation without any credible information. As a matter of fact, credible information he had received had been incorporated in the G.D. and then only he proceeded to the spot. The credible information is said to have yielded fruitful results. When he went to Prohibition Enforcement Wing along with his party, the said Murugan emerged out of the office, after paying the mamool amount and on his statement, a further probe had been made by him, which also is said to have yielded very good results in the recovery of Rs. 25,000/- and odd, stated to be the mamool amount, paid by the illicit arrack dealers to the police personnel of that Wing and the recovery of a list containing the names and addresses of the persons paying the alleged weekly mamool. As stated earlier, he had also recorded statements from two other mamool payers. After the completion of the entirety of the operation, he returned to the Vigilance Cell Office at Kancheepuram only at 22-45 hours and registered the case.  
+</p> 
+
+<p id="p_15"> 13. No doubt he had sent the F.I.R. and seized amounts only the next day to the Court. Of course there is some sort of a delay in sending the first information report to Court. The delay in the dispatch of the F.I.R. to Court is not necessarily a circumstance, which would warrant rejection of the prosecution case in its entirety. This may however be taken into consideration to find out whether the investigation was fair or not. To put it otherwise, the non-compliance of the provisions of Ss. 154 and 157, <a href="/doc/445276/" id="a_10">Cr.P.C</a>. does not constitute a ground to throw away the prosecution case, but it does emerge as a factor to be seriously reckoned with while appreciating the entire evidence. The first information report is expected to reflect the occurrence truly, without embellishment or fabrication. Its recording without any reasonable delay also excludes the possibility of conjuring up of a false case by the police. Thus to save the report from any kind of attack and also to derive assurance and authenticity to the facts stated in this report, compliance of the provisions<a href="/doc/445276/" id="a_11"> of the Code</a> is essential. But in actual practice, it has been noticed that this rule is observed more in breach. Sending of the report to the Magistrate as provided in<a href="/doc/1331755/" id="a_12"> S. 157</a>, <a href="/doc/445276/" id="a_13">Cr.P.C</a>. is no doubt directory and not mandatory. Its directory nature, however, does not mean at the police officers can profane or violate without any legal consequence. Taken singly, such a delay or failure may not be sufficient to lead to the conclusion that the investigation was tainted or unfair. But when considered in conjunction with other infirmities or discrepancies, it may assume great importance and may cause suspicion about the purported time of its recording or even about its contents. <a href="/doc/1331755/" id="a_14">Sections 154</a> and <a href="/doc/1331755/" id="a_15">157</a>, <a href="/doc/445276/" id="a_16">Cr.P.C</a>. have enormous importance and cannot be treated as a mere surplusage. They are very salutary provisions, which can be utilised for counterchecks and balances for testing or evaluating the other evidence.  
+</p> 
+
+<p id="p_16"> 14. Even the delay in the dispatch of the F.I.R., which could be taken into consideration for assessing or evaluating the other evidence on record can by no stretch of imagination be stated to be so inordinate as to spell out an impairable dent in the case of the prosecution, in the circumstances of the case. As adverted to earlier, the case has been registered eventually at 22.45 hours, after the completion of the entirety of the operation, in the Prohibition Enforcement Wing. The distance between the Vigilance and Anti-corruption Office at Kancheepuram and the place of occurrence is stated to be about 40 kms. Taking into account the time and distance factor, the delay caused in the despatch of the F.I.R. the Court the next day appears to be so insignificant as to be taken note of for any purpose whatever. As such, no prejudice could be stated to have caused to the defence in such despatch of the first information to Court.  
+</p> 
+
+<p id="p_17"> 15. In this view of the matter, the noncompliance of the provisions of Ss. 154 and 157, <a href="/doc/445276/" id="a_17">Cr.P.C</a>. cannot be stated to be such as to vitiate the entirety of the investigation proceedings and if at all, the non-compliance of those provisions may be utilised for evaluating the other pieces of evidence available on record during the course of trial.  
+</p> 
+
+<p id="p_18"> 16. In view of what has been stated above, both the petitions deserve to be dismissed.  
+</p> 
+
+<p id="p_19"> 17. In the result, both the petitions are dismissed.  
+</p> 
+
+<p id="p_20"> 18. Petitions dismissed. 
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

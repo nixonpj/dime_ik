@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Man Singh @ Kana on 30 November, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/106060103/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/106060103/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/106060103/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/106060103/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Man Singh @ Kana on 30 November, 2016</div><pre id="pre_1">FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_1">IPC</a>; PS Mahendra Park                                                         D.O.D.: 30.11.2016
+
+
+
+ IN THE COURT OF SHRI VIDYA PRAKASH: ADDL. SESSIONS 
+       JUDGE­04 (NORTH): ROHINI COURTS: DELHI 
+
+S.C. No. 59236/16
+
+State            Vs.                                     Man Singh @ Kana 
+                                                         S/o Sh. Bhikam Singh 
+                                                         R/o Jhuggi No. 9, Transport Centre, 
+                                                         Adarsh Nagar, Delhi.
+
+FIR No.         :         312/16
+Police Station  :         Mahendra Park
+Under Sections  :         392/397/411 <a href="/doc/1569253/" id="a_2">IPC</a> 
+
+Date of committal to Sessions Court    :   31.08.2016                                                                     
+Date on which judgment was reserved :  30.11.2016
+Date on which Judgment pronounced :   30.11.2016  
+
+                                                                    JUDGMENT
+</pre>
+<p id="p_1">BRIEF FACTS OF THE CASE
+
+</p><p id="p_2">1.                          The case of the prosecution as mentioned in the charge­sheet
+is as under:­
+</p><p id="p_3">                     (i).  That on 18.06.2016, complainant Babloo (PW2) visited PP
+                     New Subzi Mandi of PS Mahendra Park and his statement (Ex.
+                     PW2/A)   was   recorded   by   HC   Parveen   Kumar,   wherein
+                     complainant   claimed   that   he   had   been   robbed   of   his   mobile
+                     phone make Samsung at about 1.00 am at the point of knife on
+                     17.06.2016   while   he   was   sleeping   inside   truck   no.   GJ­31T­
+                     3233.   On the basis of said statement, FIR in question was got
+                     registered U/s 392/397 <a href="/doc/1569253/" id="a_3">IPC</a> and investigation was entrusted to SI
+                     Jaibir (PW­4);
+</p>
+<pre id="pre_2">State Vs. Man Singh ("Acquitted")                                                                                Page  1  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_4">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+</pre><p id="p_4">                     (ii). It is further the case of prosecution that IO prepared rough
+                     site plan of the place of occurrence and apprehended accused
+                     herein on the identification of complainant.  The robbed mobile
+                     phone   and   the  weapon   of   offence   i.e.   dagger   were   recovered
+                     from the possession of accused.   After carrying out necessary
+                     proceedings with regard to recovered mobile phone and weapon
+                     of   offence,   same   were   seized   in   this   case.     IO   also   recorded
+                     statements U/s 161 <a href="/doc/445276/" id="a_5">Cr.PC</a> of the relevant witnesses;
+</p><p id="p_5">                     (iii).  After completion of investigation, charge­sheet was filed
+                     before the Court of Ld. M.M.  
+</p><p id="p_6">2.                         After   compliance   of   section   207   <a href="/doc/445276/" id="a_6">Cr.P.C</a>.,   the   case   was
+committed to the Court of Sessions and was assigned to this Court.
+</p>
+
+<p id="p_7">                      CHARGES FRAMED AGAINST THE ACCUSED
+
+</p><p id="p_8">3.                         After hearing arguments on the point of charge, Court framed
+the   charge   for   the   offences   punishable   U/s   392/397/411   <a href="/doc/1569253/" id="a_7">IPC</a>   against
+accused Man Singh vide order dated 31.08.2016, to which he pleaded not
+guilty and claimed trial.
+</p><p id="p_9">4.                          In   support   of   its   case,   the   prosecution   has   examined   five
+witnesses     i.e   PW1   PSI   Pardeep   Singh,   PW2   Sh.   Babloo,   PW3   Sh.
+Vikram, PW4 SI Jaivir Singh and PW5 Ct. Rajesh during trial. 
+</p><p id="p_10">5.                          Thereafter,   statement   U/s   313   <a href="/doc/445276/" id="a_8">Cr.P.C</a>.   of   accused   was
+recorded,   during   which   all   the   incriminating   evidence   which   came   on
+record,  were   put   to   him.     He   denied   the   same   and  claimed   that   he  is
+innocent and has been falsely implicated in this case.  However, he opted
+not to lead any evidence towards his defence.
+</p>
+
+<pre id="pre_3">State Vs. Man Singh ("Acquitted")                                                                               Page  2  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_9">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+</pre><p id="p_11">6.                          I have heard Sh. Pankaj Bhatia, Ld. Additional PP on behalf
+of State and Ld counsel Sh. R.K Verma, Adv. on behalf of   accused.   I
+have also gone through the material available on record.
+</p><p id="p_12">7.                          Before discussing the rival submissions made on behalf of
+both the sides, it would be appropriate to discuss, in brief, the testimonies
+of   prosecution   witnesses   which   have   come   on   record.     The   said
+testimonies are detailed as under:­
+PUBLIC WITNESS:­
+
+</p><p id="p_13">8.           PW2 Sh. Babloo  :­  He is the complainant/victim in this case. He
+supported the prosecution story to the extent of incident of robbery of his
+mobile phone, committed during the intervening night of 17/18­06­2016
+while he was sleeping inside truck no. GJ­31T­ 3233. However, he turned
+hostile   on   other   material   aspects   including   on   the   point   of   identity   of
+accused herein to be the offender.   Rather, he testified that the offender
+had covered his face with helmet, due to which he could not see his face.
+The said unknown offender had committed robbery of his mobile phone
+make Samsung at the point of knife and had fled away from the spot.  He
+had narrated the occurrence to his cousin Vikram, who took him to PP
+New Subzi Mandi, where police official obtained his signatures on some
+blank documents on the assurance that they would register FIR in this
+case.  He identified his mobile phone as (Ex. P1) during trial but could not
+identify dagger and accused.
+</p><p id="p_14">                            He was subjected to detailed cross examination on behalf of
+State, during which all the relevant suggestions were put to him on the
+lines of prosecution story but same were denied by him. Although, he
+admitted   his   signatures   appearing   on   police   statement   Ex.   PW2/A   but
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  3  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_10">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+denied the contents thereof and reiterated that he did not make any such
+statement   before   the   police.     His   attention   was   also   drawn   towards
+accused but still he did not identify him.   He also denied to have joined
+investigation   of   this   case   on   18.06.16   at   the   time   when   accused   was
+apprehended in this case.   He also denied to have made supplementary
+statement   (Mark   PW2/A).     He   categorically   denied   that   accused   was
+arrested in his presence or  that robbed mobile phone and dagger were
+recovered from the possession of accused in his presence. He has not been
+cross examined by accused despite grant of opportunity.
+</p><p id="p_15">9.           PW3 Sh. Vikram:­ He is the cousin brother of victim/complainant.
+He supported the prosecution story only to the extent that complainant
+Babloo had narrated the entire occurrence with regard to robbery of his
+mobile phone by assailant to him during the intervening night of 17/18­
+06­2016 and both of them having visited PP New Subzi Mandi for lodging
+the complaint with the police. He deposed on identical lines of PW2 by
+testifying that police officials had obtained signatures of Babloo on some
+blank documents on the assurance that they would register the FIR.   He
+did   not   support   the   prosecution   story   even   during   cross   examination
+conducted on behalf of State and denied to have made statement U/s 161
+<a href="/doc/445276/" id="a_11">Cr.PC</a> (Mark PW3/A) before the police. He has not been cross examined
+on behalf of accused. 
+</p><p id="p_16">POLICE WITNESS:­
+
+</p><p id="p_17">10.          PW­1 PSI Pardeep Singh:­    This witness was working as Duty
+Officer   in PS  Mahendera  Park  on 18.06.2016.   He  has  proved factum
+regarding recording of FIR No. 312/16 in PS Mahendra Park.  He proved
+copy of said FIR as Ex.PW1/A and his endorsement as Ex.PW1/B made
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  4  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_12">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+on the rukka. He also exhibited Certificate  U/s 65­B of Indian <a href="/doc/1953529/" id="a_13">Evidence
+Act</a> as Ex. PW1/C.
+</p><p id="p_18">                            During cross examination, he deposed that it took about 15­
+20 minutes in getting the FIR typed through computer installed in PS. Ct.
+Rajesh had left PS alongwith rukka and copy of FIR at about 11.50 a.m.
+He   denied  the  suggestion  that  FIR   in  question  was   ante  dated  or   ante
+timed at the instance of IO of the case.
+</p><p id="p_19">11.          PW­4 SI Jaivir Singh &amp; PW­5 Ct. Rajesh:­ Both these witnesses
+remained   associated   during   investigation   of   the   case.   Both   of   them
+deposed   on   similar   lines   to   the   effect   that   on   18.06.2016,   PW4   had
+prepared   rough   site   plan   (Ex.   PW4/A)   at   the   instance   of   complainant
+Babloo,   whereafter, they had apprehended accused on the identification
+of complainant and robbed mobile phone as well as weapon of offence i.e.
+dagger were recovered from the possession of accused.   After preparing
+rough sketch (Ex. PW4/B) of said dagger, its pullanda was prepared which
+was seized vide memo (Ex. PW4/C).  Mobile phone was also seized vide
+seizure memo Ex. PW4/D. Thereafter, accused was arrested vide memo
+(Ex.   PW4/E).     Site   plan   (Ex.   PW4/J)   of   the   place   of   apprehension   of
+accused was also prepared.
+</p><p id="p_20">                            PW4   also   deposed   that   he   had   collected   CAF,   CDRs   and
+other related documents of robbed SIM connection number 9549636396.
+Both of them identified the mobile phone as Ex. P1 and dagger as Ex. P2
+during trial.
+</p><p id="p_21">                            In   their   respective   cross   examination,   they   denied   the
+suggestion that complainant did not join investigation with them at any
+point   of   time   or   that   no   such   recovery   was   effected   either   from   the
+
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  5  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_14">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+possession or at the instance of accused or that IO had obtained signatures
+of complainant Babloo on various memos at PS itself.
+</p><p id="p_22">                            ARGUMENTS ADVANCED &amp; CASE LAW CITED
+</p><p id="p_23">12.                         After   referring   to   the   testimonies   of   prosecution   witnesses
+examined   during   trial,   Ld   Additional   PP   candidly   conceded   that   since
+PW2 Babloo (victim/complainant) could not identify accused herein to be
+assailant having robbed his mobile phone at the point of knife and also
+could not identify the dagger ( Ex. P2) during trial, offences punishable
+U/s 392/397 <a href="/doc/1569253/" id="a_15">IPC</a> could not be proved against accused but he vehemently
+argued that there has been recovery of robbed mobile phone ( Ex. P1)
+from the possession of accused.   For the said purpose, he heavily relied
+upon   the   testimonies   of   PW4   SI   Jaibir   and   PW5   Ct.   Rajesh   who   are
+claimed   to   be   alleged   recovery   witnesses   of   said   mobile   phone.   He,
+therefore,   urged   that   accused   is   liable   to   be   convicted   for   offence
+punishable U/s 411 <a href="/doc/1569253/" id="a_16">IPC</a>.
+</p><p id="p_24">13.                         On the other hand, Ld. Defence counsel vehemently argued
+that   the   prosecution   has   miserably   failed   to   prove   the   charge   levelled
+against accused for offence punishable U/s 411 <a href="/doc/1569253/" id="a_17">IPC</a> beyond shadow of
+doubt.  For   the  said  purpose,   he  referred   to  the   relevant  portion  of  the
+testimony of PW2 Babloo who denied the factum of recovery of robbed
+mobile   phone   from   the   possession   of   accused   in   his   presence.     He
+therefore, urged that the accused is entitled to be acquitted. 
+</p><p id="p_25">14.                         As already noted above, complainant/victim namely Babloo
+(PW2) was the sole eye witness of the incident in question. Thus, he alone
+could have proved the case of prosecution by deposing on the lines of
+prosecution story as propounded in the charge sheet.  No doubt, he partly
+
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  6  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_18">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+supported the prosecution case to the extent of incident of robbery of his
+mobile phone committed by assailant at the point of knife. However, he
+could not identify accused herein to be the robber.  In other words, there is
+no   iota   of   evidence   available   on   record   to   connect   accused   with   the
+commission of offence of robbery at the point of knife. Rather, he deposed
+that assailant was wearing helmet and thus, he was not able to see his face.
+He also testified that he was not in a position to identify the dagger even if
+shown to him as neither the said dagger was recovered in his presence nor
+he was able to see the said dagger which was used by unknown offender
+during the commission of offence.   For all these reasons, Court has no
+hesitation to hold that prosecution has miserably failed to prove the charge
+in respect of offences punishable U/s 392/397 <a href="/doc/1569253/" id="a_19">IPC</a> against accused beyond
+pales of reasonable doubt.
+</p><p id="p_26">15.                         This brings me down to the offence punishable U/s 411 <a href="/doc/1569253/" id="a_20">IPC</a>
+charged against accused. In order to prove the said charge, the prosecution
+has examined three witnesses i.e. PW2 Sh. Babloo, PW4 SI Jaivir Singh
+and PW5 Ct. Rajesh.  According to the case of prosecution, accused was
+arrested   by   PW4   and   PW5   on   the   identification   of   PW2   who   is   the
+complainant/victim of this case.  No doubt, both the police witnesses have
+deposed on identical  lines  regarding arrest of  accused  and recovery of
+robbed mobile phone and dagger from the possession of accused but the
+third alleged recovery witness i.e.  PW2 Sh. Babloo demolished the case
+of   prosecution   as   he   categorically   deposed   that   he     did   not   join
+investigation at any point of time and neither accused was apprehended in
+his presence nor robbed mobile phone and dagger were recovered from
+the possession of accused in his presence.   Thus, the testimony of PW2
+has put serious dent on the case of prosecution and creates reasonable
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  7  of 8 
+ FIR No. 312/16 U/s 392/397/411 <a href="/doc/1569253/" id="a_21">IPC</a>; PS Mahendra Park                                                        D.O.D.: 30.11.2016
+
+
+
+doubt in the prosecution story regarding recovery of robbed mobile phone
+from the possession of accused.  It is well settled law that whenever two
+views are possible on the basis of material available on record, the view
+which goes in favour of accused, must be accepted by the Court.  Hence,
+Court is of the view that prosecution could not establish charge for the
+offence punishable U/s 411 <a href="/doc/1569253/" id="a_22">IPC</a> against accused beyond shadow of doubt.
+</p><p id="p_27">16.                         Resultantly,   it   is   hereby   held   that   prosecution   has   been
+unsuccessful   in   bringing   home   the   guilt   of   accused   in   respect   of   any
+offence, beyond shadow of doubt.   Consequently, accused namely Man
+Singh @ Kana S/o Sh  Bhikam Singh is hereby acquitted of the charges
+levelled against him, by giving him benefit of doubt.   File be consigned to
+Record Room after compliance of Section 437­A <a href="/doc/445276/" id="a_23">Cr.PC</a>.
+</p>
+
+<pre id="pre_4">Announced in open Court today               (Vidya Prakash)
+On 30.11.2016                      Additional Sessions Judge­04(North)
+                                          Rohini Courts, Delhi
+
+
+
+
+State Vs. Man Singh ("Acquitted")                                                                               Page  8  of 8 
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

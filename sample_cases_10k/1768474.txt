@@ -1,0 +1,434 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>J.K. Corporation Limited vs Digipulse India (P) Limited on 26 August, 2002</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1768474/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1838282/">Gopalakrishna Pillai vs K.M. Mani on 21 November, 1983</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/874842/">Section 12 in The Sale of Goods Act, 1930</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1556666/">Madhusudan Gordhandas &amp; Co vs Madhu Woollen Industries Pvt. Ltd on 29 October, 1971</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1768474/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1768474/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pil">pil</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=debit%20note">debit note</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=warranty">warranty</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=balance%20confirmation">balance confirmation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=philips">philips</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=winding%20up">winding up</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=purchase%20order">purchase order</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">J.K. Corporation Limited vs Digipulse India (P) Limited on 26 August, 2002</div><div class="doc_author">Author: V Sen</div>
+
+<div class="doc_bench">Bench: V Sen</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ Vikramajit Sen, J. 
+</p>
+ 
+
+<p id="p_2"> 1. The Petitioner's contention is that it had entered
+into a contract with the Respondent for the supply of audio
+magnetic tapes in strict compliance with the specification
+and requirements of Messers Philips India Limited
+(hereinafter referred to as 'PIL'). The supplies were to
+be made between December 99 and June 2000, and were so
+done. In May 2000 a 'balance confirmation' was arrived at.
+Although the Petitioner's letter dated 19.5.2002 to the
+Respondent contained a request for a confirmation of dues
+of Rs. 41,20,049/-, since further supplies had been made in
+that very month for a value of Rs. 3,07,344/-, the
+Respondent confirmed on that very letter that as on 31st
+May, 2000 a total sum of Rs. 44,27.393 was outstanding
+against the Petitioner. Copies of the Purchase Orders
+placed by the Respondent on the Petitioner together with
+corresponding Invoices have been filed along with the
+Petition. On the failure of the Respondent to meet its
+financial commitments, a statutory notice dated 28th May,
+2001 was served on the Respondent in which a demand was
+record for Rs. 45,78.228 along with interest at the rate
+of 21 per cent per annum calculated from July 1, 2000. In
+reply to the said notice the Respondent Company stated,
+inter alia, that it had confirmed the balance of
+Rs. 44,27,393 payable by them as on 31.5.2002 although a
+Debit Note for Rs. 5,92,960/- had already been raised; the
+officials of the Petitioner including Mr. Y.K. Bhardwaj
+had admitted and agreed to take the Debit Note into account
+and had also agreed to reduce the price of further
+supplies. Significantly, the Respondent had expressed its
+intentions to clear the balance in due course, and that
+they had still "not come out of financial crises being
+suffered". In a subsequent letter dated 20.6.2001 the
+Respondent had once again stated that they were "making
+serious and honest efforts to clear your account and we
+will keep making payments on regular basis as we are
+hopeful that our company's financial position will
+improve". In the same letter it had also been stated that
+"regarding starting business again please give us your best
+price for regular grade C-60 &amp; C-90 that we can issue
+purchase order along with full payment in advance as well
+as partly old payment." 
+</p>
+ 
+
+<p id="p_3"> 2. In opposition to the petition the Respondent has
+submitted that the audio magnetic tapes that had been
+supplied to it by the Petitioner did not conform to the
+'Philips grade' and that it was for this reason that there
+were widespread rejections of the consignment when it was
+supplied by the Respondent to PIL. In respect of the
+confirmation of the balance dues it has pleaded as follows: 
+</p>
+<p id="p_4">  "On or about 19.5.2002, the Petitioner
+requested the Respondent to sign the
+balance confirmation which was required for
+audit purpose. The Respondent Company
+singed the same, however, had made it clear
+to the Petitioner that the Debit Note
+issued to the Petitioner should be taken
+into account and in case of any rejection
+of cassettes in respect of Magnetic Tapes
+supplied by the Petitioner, appropriate
+adjustment should be given. Hereto annexed
+and marked Annexure R-5 is the copy of the
+letter dated 19.5.2001 issued by the
+Respondent and accepted by Mr. Y.K.
+</p><p id="p_5">Bharadwaj, AGM, Marketing on behalf of the 
+Petitioner Company." 
+</p>
+ 
+
+<p id="p_6"> 3. Reliance has been placed by Respondent's learned
+counsel on <a href="/doc/874842/" id="a_1">Section 12</a> of the Sale of Goods Act, 1930. The
+argument is that since the purchase order had itself
+indicated that the audio magnetic tapes must be of 'Philips
+grade', there was an implied warranty to this effect, the
+breach of which invested the Respondent with the right to
+treat the contract as repudiated. This very Section, it
+will be noted, draws a distinction between a 'condition'
+and a 'warranty' and its determination will depend on the
+construction of the contract. It is the Respondent's case
+that the rejections took place in or about September 2001.
+It has been explained that since the tapes were supplied by
+the Respondent to PIL and thereafter for onward sale to the
+latter's customers, it took almost one year for the defects
+to be noticed and the consequent rejections to be made. 
+</p>
+ 
+
+<p id="p_7"> 4. In winding-up proceedings it is necessary to keep the
+following conditions in perspective - 
+</p>
+   
+
+<p id="p_8"> (i) If there is a bona fide dispute and the defense
+is a substantial one, the Court will not wind-up the
+company. 
+</p>
+ 
+
+<p id="p_9"> (ii) Where the debt is undisputed the Court will not
+act upon a defense that the company has the ability to pay
+the debt but the company chooses not to pay it. 
+</p>
+ 
+
+<p id="p_10"> (iii) Where the defense of the company is in good
+faith and one of substance, and the defense is likely to
+succeed in point of law, and the company adduces prima
+facie proof of the facts on which the defense depends, the
+petition should be rejected. 
+</p>
+ 
+
+<p id="p_11"> (iv) The Court may consider the wishes of creditors
+so long as these appear to be justified. 
+</p>
+ 
+
+<p id="p_12"> (v) The machinery of winding-up should not be allowed
+to be utilised merely as a means of Realizing its debts. 
+</p>
+ 
+
+<p id="p_13"> [For the above propositions see Pradeshiya
+Industrial and Investment Corporation of
+Uttar Pradesh v. North India Petro-Chemical
+Ltd. and Anr., (1994) 2 Comp LJ 50 (SC)
+in which the observation in Amalgamated
+Commercial Traders (P) Ltd. v.
+</p><p id="p_14">Krishnaswami, [1965] 35 Comp. Case 456 (<a href="/doc/1556666/" id="a_2">SC)
+and Madhusudan Gordhandas and Co. v. Madhu
+Woollen Industries (P) Ltd</a>., [1972] 42 Comp.
+Cas. 125 (SC) have been paraphrased]. 
+</p>
+ 
+
+<p id="p_15"> (vi) If the stance of the adversaries hangs in
+balance it is always open to the Company Court to order the
+Respondent Company to deposit the disputed amount. This
+amount may be retained by the Court and be held to the
+credit of the suit, if any. [see Civil Appeal No. 720 of
+1999 arising out of SLP (C) No. 14096 of 1998 - 
+Nishal Enterprises v. Apte Amalagamations Ltd., decided on
+February 5, 1999]. 
+</p> 
+
+<p id="p_16"> It appears to me that the following point may be
+added to the foregoing consideration. 
+</p>
+ 
+
+<p id="p_17"> (vii) Generally speaking, an admission of debt should
+be available and the defense that has been adopted should
+appear to the Court not to be dishonest and/or a moonshine,
+for proceedings to continue. If there is insufficient
+material in favor of the petitioners, such disputes can be
+properly adjudicated only in a regular civil suit. It is
+extremely helpful to draw upon the analogy of a summary
+suit under Order xxxvII of the Code of Civil Procedure. If
+the Company Court reaches the conclusion that, had it been
+exercising ordinary original civil jurisdiction, it would
+have granted unconditional leave to defend, it must dismiss
+the winding-up petition.  
+</p>
+ 
+
+<p id="p_18"> 5. Applying the above considerations to the facts of the
+present case it cannot be lost sight of that the Respondent
+had confirmed a balance of Rs. 44,27,393 as on 31.5.2000.
+The only contemporaneous and ascertained amount which the
+Respondent can be given benefit of in these proceedings is
+the Debit Note for Rs. 5,92,960/-. Mr. Jay Salva, learned
+counsel appearing on behalf of Respondent, had argued that
+audio tapes for a total value of Rs. 28,50,000/- have been
+returned by PIL for the reason of their being sub-standard
+and not of Philips grade. 
+</p>
+ 
+
+<p id="p_19"> 6. The Hon'ble Supreme Court has clarified in
+ <a href="/doc/1838282/" id="a_3">Gopalakrishna Pillai v. K.M. Mani</a>,   ,  that
+a breach of warranty does not entitle a buyer to reject the
+goods and his only remedy would be to set up against the
+seller the breach of warranty  in diminution or extinction
+of the price, or to sue the seller for damages for breach
+of warranty. It has also been contended that because of
+the rejection of the goods by PIL the Respondent has
+incurred heavy damages and that these contracts have now
+been placed on other parties. Since a considerably long
+period of almost one year has elapsed between the supply of
+the goods and their rejection it may be impermissible to
+allow the Respondent a diminution of price in these
+proceedings since delivery of the goods would be treated as
+having been accepted. The Court cannot also close its eyes
+to the fact that while making the payment of Rs. 50,000/- as
+late as in June 2001, the Respondent did not state that any
+further audio magmatic tapes supplies by the Petitioner had
+been rejected by PIL. The fact that the Respondent had
+confirmed the balance due as on 31.5.2000 cannot be ignored
+since it sets up not just a prima facie case but a
+preponderant claim in the Petitioner's favor. Had the
+balance confirmation not been available in favor of the
+Petitioner, the Company Court may have considered it
+expedient to insist that the Petitioner should avail of the
+ordinary remedy of filing a civil suit. The delay in
+setting up the defense or rejection of goods makes it lose
+credibility. 
+</p>
+ 
+
+<p id="p_20"> 7. In these circumstances the winding-up petition is
+admitted. The Respondent is directed to deposit with the
+Registrar of this Court, within four weeks from today, a
+sum of Rs. 39,35,268/- calculated in the following manner : 
+</p><pre id="pre_1">   Principal Amount              Rs. 45,28,228/-
+Less Debit Note               Rs.  5,92,960/-
+                              _______________
+                Total         Rs. 39,35,268/-
+                              _______________   
+ 
+
+</pre><p id="p_21"> From the above amount a sum of Rs. 17,00,000/-,
+which counsel for the Respondent has stated is admittedly
+due to the Petitioner, shall be released forthwith. The
+balance amount shall be invested by the Registrar of this
+court on the most favorable terms available. The
+parties may initiate legal proceedings as it may find
+appropriate including a civil suit etc. within four
+weeks from today. If this is done, the balance amount
+shall lie to the credit of the suit. The Petitioner may
+seek appropriate orders for the release of the amount or
+part thereof, as the case may be, in those proceedings.
+The Respondent would be entitled to set-up any defense
+available to it in those proceedings. 
+</p>
+ 
+
+<p id="p_22"> 8. On the failure of the Respondent to make compliance
+the citation shall be published in the Indian Express
+(English), Nav Bharat (Hindi) and Delhi Gazette, returnable
+for 25.9.2002. It is made clear that in such an event a
+Provisional Liquidator is likely to be appointed on the
+next date of hearing keeping in view the fact that the
+Respondent has itself mentioned in its letters that it is
+undergoing financial problems. 
+</p>
+ 
+
+<p id="p_23"> 9. Renotify the matter on 1.11.2002.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

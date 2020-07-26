@@ -1,0 +1,661 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sri Kadarappa K N vs The State Of Karnataka on 28 March, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/98023619/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:98023619">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1371604/">Section 304A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/145949/">Section 13 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/767287/">Section 313 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/98023619/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/98023619/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/98023619/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tumkur">tumkur</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Sec.%20279/304%20%28A%29">Sec. 279/304 (A)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20279%2C304-a">section 279,304-a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20revision%20petition">criminal revision petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=S.279%2C%20304">S.279, 304</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279%2C%20304%20a">279, 304 a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=m%20v%20act">m v act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=m.v.act">m.v.act</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Sri Kadarappa K N vs The State Of Karnataka on 28 March, 2014</div><div class="doc_author">Author: Pradeep D.Waingankar</div>
+
+<pre id="pre_1">                               1
+
+
+   IN THE HIGH COURT OF KARNATAKA AT BANGALORE
+
+        DATED THIS THE 28TH DAY OF MARCH 2014
+
+                            BEFORE
+
+      HON'BLE MR. JUSTICE PRADEEP D. WAINGANKAR
+
+       CRIMINAL REVISION PETITION NO.496 OF 2010
+
+BETWEEN
+
+SRI. KADARAPPA K.N
+S/O NARASAIAH
+AGED ABOUT 38 YEARS
+R/O NAGAYYANAPALYA
+KURVEL MAJARE
+URDIGERE HOBLI
+TUMKUR TALUK &amp; DISTRICT.
+                                            ... PETITIONER
+
+(BY SRI: VISHNU BHAT AND SRI. D.T. NANJESH GOWDA, ADVS.)
+
+AND
+
+THE STATE OF KARNATAKA
+BY KYATHASANDRA POLICE
+REPRESENTED BY THE STATE
+PUBLIC PROSECUTOR
+HIGH COURT BUILDING
+BANGALORE.
+                                           ... RESPONDENT
+(BY SRI: RUPA B.P., HCGP)
+
+                             ------
+
+     THIS CRL.RP IS FILED U/S.397 R/W 401 CR.P.C. PRAYING
+TO SET ASIDE THE JUDGMENT DATED 30.03.09 PASSED BY
+THE PRL. C.J. (JR.DN.) &amp; JMFC., TUMKUR IN C.C. NO.905/2007
+AND THE JUDGMENT DATED 9.3.2010 PASSED BY THE P.O.,
+FAST TRACK COURT-II, TUMKUR IN CRL.A.NO.46/2009, AS THE
+                              2
+
+
+SAME ARE ILLEGAL, ARBITRARY AND CONTRARY TO EVIDENCE
+ON AVAILABLE ON RECORDS.
+
+     THIS CRL.RP HAVING BEEN HEARD AND
+RESERVED FOR PRONOUNCEMENT OF ORDERS,
+THIS   DAY,  PRADEEP  D.  WAINGANKAR J.,
+PRONOUNCED THE FOLLOWING:
+
+                         ORDER
+</pre>
+
+<p id="p_1">     This criminal revision petition under Section 397
+
+r/w 401 <a href="/doc/445276/" id="a_1">Cr.P.C</a>. is filed challenging the judgment of
+
+conviction   and   sentence         dated   30.3.2009   in
+
+C.C.No.905/2007 on the file of Prl. Civil Judge(Jr.Dn.)
+
+and JMFC, Tumkur convicting the petitioner-accused
+
+for the offences punishable under <a href="/doc/1270101/" id="a_2">Sections 279</a>, <a href="/doc/1371604/" id="a_3">304-A</a>
+
+of IPC r/w 134(a) and (b) of <a href="/doc/785258/" id="a_4">M.V. Act</a>, which has been
+
+confirmed by the Fast Track Court, Tumkur in
+
+Crl.A.No.46/2009     by     order   dated   9.3.2010    by
+
+dismissing the appeal.
+</p>
+<p id="p_2">
+</p><p id="p_3">     2. The facts which gave rise to this petition are
+
+briefly stated as under:-
+</p><span class="hidden_text" id="span_1">                                   3</span><p id="p_4">
+
+
+
+
+</p><p id="p_5">       On   25.2.2007, deceased Muddarangaiah               was
+
+standing by the side of the road at about 4.30 p.m.
+
+near Balanjeneya Temple, Kadugujjanahalli, Korategere
+
+Taluk. At that time, a lorry bearing No.MYS 7352
+
+driven by its driver-accused/revision petitioner came in
+
+rash    and       negligent    manner and     dashed   against
+
+Muddurangaiah and as a result, he sustained grievous
+
+injuries      and      while     undergoing     treatment    at
+
+Government hospital, Tumkur, he was declared dead. A
+
+complaint came to be lodged against the driver of the
+
+lorry. The police after investigation filed charge-sheet
+
+against the driver of the lorry for the offences
+
+punishable under <a href="/doc/1270101/" id="a_5">Section 279</a>, <a href="/doc/1371604/" id="a_6">304-A</a> of IPC r/w
+
+<a href="/doc/58059807/" id="a_7">Section 134(a)</a> and (b) of <a href="/doc/785258/" id="a_8">M.V. Act</a>. The accused having
+
+denied      the     charges     levelled   against   him,   the
+
+prosecution in order to prove the charges examined as
+
+many as nine witnesses as PWs-1 to 9 and marked Ex-
+<span class="hidden_text" id="span_2">                             4</span>
+
+
+P1 to P10. The accused denied all the incriminating
+
+circumstances that appeared in the evidence of the
+
+prosecution witnesses during his examination under
+
+<a href="/doc/767287/" id="a_9">Section 313</a> of Cr.P.C. He did not choose to lead
+
+defence evidence. As such, the learned Magistrate upon
+
+hearing the counsel for both the parties and upon
+
+perusal of the evidence placed on record by the
+
+judgment dated 30.3.2009 convicted the accused for
+
+the aforesaid offences and sentenced him to undergo
+
+imprisonment. Aggrieved by the judgment of conviction
+
+and sentence, the accused preferred Crl.A.No.46/2009
+
+on the file of Fast Track Court-II at Tumkur, which
+
+came to be dismissed on merits by order dated
+
+9.3.2010, confirming the judgment of conviction and
+
+sentence   passed by the Magistrate. Questioning the
+
+legality and correctness of the orders passed by both
+
+the Courts below, this revision petition is preferred.
+<span class="hidden_text" id="span_3">                             5</span>
+
+
+</p><p id="p_6">     I have heard both the learned counsel appearing
+
+for the revision petitioner/accused and the HCGP
+
+appearing for the respondent State. Perused the
+
+records.
+</p>
+<p id="p_7">
+</p><p id="p_8">     3. The counsel for the revision petitioner-accused
+
+would submit that though the identity of the accused
+
+as the driver of the lorry is not established, he has been
+
+convicted by the learned Magistrate, which has been
+
+confirmed by the Sessions Judge without proof of the
+
+same beyond reasonable doubt. It is also submitted
+
+that there was no negligence on the part of the driver of
+
+the lorry in question. On the other hand, the accident
+
+occurred due to negligence of the deceased himself.
+
+Hence, the learned counsel sought to set-aside the
+
+judgment of sentence.
+</p>
+<p id="p_9">
+</p><p id="p_10">     4. Per-contra, learned HCGP appearing for the
+
+respondent-State    submitted    before   me   that   the
+<span class="hidden_text" id="span_4">                             6</span>
+
+
+accident was seen by the eye-witnesses to the accident,
+
+who are examined as PW-1 to PW-4 and all of them
+
+have spoken in their evidence that the accident and the
+
+resultant death of the deceased is due to rash and
+
+negligent driving by the accused -driver of the lorry.
+
+Based on the evidence of the eye-witnesses, the learned
+
+Magistrate has rightly convicted the accused for the
+
+offences punishable under <a href="/doc/1270101/" id="a_10">Sections 279</a>, <a href="/doc/1371604/" id="a_11">304-A</a> of IPC
+
+and <a href="/doc/145949/" id="a_12">Sections 13(a)</a> and <a href="/doc/145949/" id="a_13">13(b)</a> of M.V. Act, which has
+
+been rightly conformed by the Sessions Judge. There is
+
+no merit in this appeal and hence he sought for
+
+dismissal of the revision petition.
+</p>
+<p id="p_11">
+</p><p id="p_12">     5. A perusal of the records secured from the
+
+Magistrate discloses that in order to prove the charges
+
+levelled against the accused persons, the prosecution
+
+has examined in all nine witnesses as PW-1 to 9. PW-1
+
+Laxmikantha is nephew of deceased Muddurangaiah.
+<span class="hidden_text" id="span_5">                              7</span>
+
+
+His evidence is that on 25.2.2007, he alongwith
+
+deceased and about 30 to 40 persons had been to
+
+Bylanjeneyaswamy temple in order to perform pooja
+
+and other rituals in a tempo. After performing the
+
+rituals and after having lunch, the deceased was
+
+waiting by the side of the road for the tempo to return
+
+back at about 4.00 p.m. At that time, the lorry in
+
+question came from Seethakal side in rash and
+
+negligent manner and dashed against the deceased-
+
+Muddurangaiah, while he was standing on the left side
+
+of the road and as a result, he fell down and the wheel
+
+of the lorry ran over the chest and thereby he died on
+
+the way to the Government hospital at Tumkur. He has
+
+also   spoken   that   at   the   time   of   the   accident,
+
+Laxmamma-the wife of the deceased and the children
+
+were also there at the spot. He has also spoken about
+
+having given a complaint before the jurisdictional police
+
+as per Ex-P1. A suggestion made to him in the cross-
+<span class="hidden_text" id="span_6">                             8</span>
+
+
+examination that he has not seen the accident and he
+
+does not know about the accident has been denied by
+
+him. A suggestion made to him that the deceased was
+
+standing in the middle of the road is also denied by
+
+him. He has clearly spoken about the registration
+
+number of the lorry as MYS-7253 by name "Sri
+
+Lakshmivenkateshwara". He has also made it clear that
+
+after the accident, the driver stopped the lorry and after
+
+getting down from the lorry, he ran away and at that
+
+time, he had seen the driver, who is accused before the
+
+Court. Thus, there is nothing in the cross-examination
+
+of PW-1 so as to disbelieve him. PW-3 Rajashekara
+
+was also one of the persons, who had come to
+
+Bylanjeneya swamy temple at the same time alongwith
+
+the deceased and others. He has also given evidence in
+
+the same manner as that of PW-1. He has made it clear
+
+that immediately after the accident, the lorry driver
+
+stopped the lorry at a little distance and went away.
+<span class="hidden_text" id="span_7">                           9</span>
+
+
+PW-10 has also given the correct lorry number in his
+
+evidence. Further his evidence would go to show that
+
+one Girish nephew of PW-1 were also there at the spot
+
+at the time of accident. Thus PW-2 another evidence
+
+has also supported the case of the prosecution. PW-3
+
+Girish is yet another eye-witness, whose evidence is
+
+that after performing the pooja at Bylanjaneya temple,
+
+he was sitting by the side of the road under a tree and
+
+deceased was waiting for the tempo by the side of the
+
+road. At that time, a lorry came and dashed against
+
+him causing his death. Though he has been cross-
+
+examined, nothing has come out of it so as to enure the
+
+benefit of the accused. PW-3 is also none other the
+
+another son of the deceased. PW-4 is Somashekar, who
+
+is the pancha to the spot panchanama,but he has
+
+turned hostile to the case of the prosecution. Though
+
+he has been cross-examined, nothing has come out of
+
+it. PW-5 is a head constable working in Kyathasandra
+<span class="hidden_text" id="span_8">                             10</span>
+
+
+police station within whose jurisdiction the accident
+
+has occurred. His evidence is that while he was a
+
+Station House Officer in the said police station , PW-1
+
+came and gave complaint as per Ex-P1 and thereby he
+
+registered the case and forwarded FIR as per Ex-P6 to
+
+the jurisdictional Magistrate. PW-6 is the ASI of
+
+Kyathasandra police station, who has spoken about
+
+further   investigation   conducted   by   him.   PW-7
+
+H.N.Dharmendra, CPI of Kyathasandra police station
+
+took up further investigation from PW-6-ASI and after
+
+completion of the investigation, he has filed charge-
+
+sheet against the accused-driver of the lorry. PW-8 is
+
+one Manjunath the pancha to the spot panchnama. He
+
+has turned hostile to the prosecution case.PW-9 is the
+
+owner of the lorry which caused the accident. But so
+
+far as the driver is concerned, he states that he does
+
+not know who was driving the lorry at the time of
+
+accident, but, he has admitted that by producing the
+<span class="hidden_text" id="span_9">                            11</span>
+
+
+documents pertaining to the lorry, he got it released.
+
+Further, he has admitted that the lorry was brought
+
+from the police station by the accused.
+
+
+</p><p id="p_13">     6. Thus all the eye-witnesses have supported the
+
+case of the prosecution. Since they are interested
+
+witnesses being the relatives, the learned Magistrate
+
+has appreciated their evidence with due care and
+
+caution. Their evidence does inspire the confidence of
+
+the Court. Since all of them alongwith deceased had
+
+been to temple to perform pooja on a tempo and after
+
+performing pooja, they were waiting for a tempo to
+
+return to their village, the lorry came and dashed to the
+
+deceased causing his death. Not only that, it is evident
+
+from their evidence that the lorry driver instead of
+
+informing police or giving medical treatment to the
+
+injured ran away from the spot. Apart from oral
+
+evidence, all the necessary documents have also been
+<span class="hidden_text" id="span_10">                           12</span>
+
+
+taken into consideration by the Magistrate. Ex-P4 is
+
+the post-mortem report of the deceased which speaks
+
+about the injuries sustained by the deceased both
+
+external and internal and opined that the death is due
+
+to shock and haemorrhage as a result of multiple
+
+injuries to vital organs. Even otherwise, the death of
+
+the deceased is due to motor accident is not in dispute.
+
+What is disputed is the identity of the accused as the
+
+driver of the said lorry. All these eye-witnesses have
+
+stated that the accused was the driver of the lorry and
+
+immediately after the accident, he got down from the
+
+lorry and ran away. The owner of the lorry, who has
+
+been examined stated that after he got released the
+
+lorry to his interim custody, it was brought back by the
+
+accused from the police station. All these factors taken
+
+into consideration coupled with the evidence placed on
+
+record, it appears to be that the Magistrate has
+
+convicted the accused for the offences punishable
+<span class="hidden_text" id="span_11">                            13</span>
+
+
+under <a href="/doc/1270101/" id="a_14">Section 279</a>, <a href="/doc/1371604/" id="a_15">304-A</a> of IPC on proper appreciation
+
+of the evidence on record. Not only that, the learned
+
+Sessions Judge also on re-appreciation of the evidence
+
+confirmed the judgment and the sentence passed by
+
+the learned Magistrate. The sentence imposed by the
+
+Magistrate for the offence punishable under <a href="/doc/1371604/" id="a_16">Section
+
+304-A</a> of IPC for a period of six months is also proper
+
+having regard to the gravity of the charge. I do not find
+
+any merit in this revision petition. Hence, criminal
+
+revision petition is dismissed.
+</p>
+<p id="p_14">
+
+</p><p id="p_15">                                     Sd/-
+</p><p id="p_16">                                    JUDGE
+
+
+
+
+*mn/-
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

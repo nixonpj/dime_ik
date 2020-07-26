@@ -1,0 +1,750 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Mahipal Singh on 28 July, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/162757515/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:162757515">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1270101/">Section 279 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1371604/">Section 304A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/767287/">Section 313 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1780550/">Section 311 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/162757515/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/162757515/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=b.s.joshi">b.s.joshi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kishan%20chand%20">kishan chand </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a">304a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20/279">304a /279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20and%20279">304a and 279</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=act%20done">act done</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=human%20life">human life</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rash%20negligence%20citedby%3A1270101">rash negligence citedby:1270101</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rashness%20and%20negligence">rashness and negligence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20279%2C%20304a">section 279, 304a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20ipc">304a ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20indian%20penal%20code">304a indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.304a%20ipc">s.304a ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=279/304a%20ipc">279/304a ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=S.279%2C%20304A%20IPC">S.279, 304A IPC</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=304a%20and%20279%20ipc">304a and 279 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20304a">section 304a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pillion%20rider">pillion rider</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sunil%20gupta%20">sunil gupta </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rash%20driving">rash driving</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Mahipal Singh on 28 July, 2014</div><div class="doc_author">Author: Sh. Sunil Gupta</div>
+
+<pre id="pre_1">       IN THE COURT OF SHRI SUNIL GUPTA ,  M.M (NE)
+                KARKARDOOMA COURTS, DELHI
+FIR No.  : 365/95. 
+U/s : 279/304A <a href="/doc/1569253/" id="a_1">IPC</a> 
+P.S : Bhajanpura 
+State Vs.  Mahipal Singh  
+Unique Case ID No. 02402R0339682003
+                            J U D G E M E N T
+</pre><pre id="pre_2">1. Sl. No. of the case                     : 96/13 (RBT)
+2. Date of institution of the case         : 15.04.1996
+3. Name of complainant                     : State  
+4. Date of commission of offence           : 11.07.1995 
+</pre><p id="p_1">5. Name of accused, parentage &amp; address : Mahipal Singh s/o 
+                                             Sh. Shiv Raj Singh r/o
+                                              H.No. C­6/370, Yamuna   
+                                             Vihar, Delhi. </p><pre id="pre_3">
+6. Offence complained of or proved         : 279,304A <a href="/doc/1569253/" id="a_2">IPC</a>   
+7. Plea of accused                         : Accused pleaded not guilty
+8. Final order                             : Acquitted
+9. Date of which order was reserved        : 25.07.2014
+10.Date of pronouncement                   : 28.07.2014
+
+         BRIEF REASONS FOR THE DECISION OF THE CASE
+
+</pre><p id="p_2">1.      The facts as per the prosecution are that on 11.07.1995 at about
+
+   10.45   am,   near   Red   Light   Wazirabad   Road,   Bhajanpura,   Delhi,
+
+   accused   Mahipal   Singh   was   driving   a   bus   bearing   registration   no.
+
+   DEP­3873  in  a rash  and negligent  manner endangering  human life
+
+
+FIR No. 365/00.                                                            1 Of 14
+    and personal safety of others.  It is also alleged that while driving the
+
+   aforesaid   vehicle,   accused   Mahipal   Singh   hit   one   scooter   bearing
+
+   registration no. DAD­4700 as a result of which pillion rider namely
+
+   Sh. Kishan Chand fell down on the road and was run over by the side
+
+   wheel of aforesaid bus.   He later on died. An FIR No. 365/95, P.S.
+
+   Bhajanpura was accordingly registered for the offences under <a href="/doc/1270101/" id="a_3">Section
+
+   279</a>/<a href="/doc/1371604/" id="a_4">304A</a>.     After   completion   of   the   investigation,   the   challan   was
+
+   filed in the court by the IO.
+</p>
+<p id="p_3">2.     After  supplying of the documents to the accused, Ld. Predecessor
+
+   vide his order dated 20.08.1997 was pleased to serve a notice for the
+
+   offences under <a href="/doc/1270101/" id="a_5">Section 279</a>/<a href="/doc/1371604/" id="a_6">304A</a> IPC to the accused Mahipal Singh
+
+   to which he pleaded not guilty and claimed trial.   
+
+</p><p id="p_4">3.     Prosecution has examined as many as eleven witnesses in order to
+
+   substantiate its case.            
+</p>
+<p id="p_5">       PW1   is   SI   Chattar   Sain,   the   Mechanical   Inspection.     He   has
+
+   deposed that on 11.07.1995, he conducted the mechanical inspection
+
+   of   two   wheeler   scooter   no.   DAD­4700   as   well   as   bus   bearing
+
+   registration no. DEP­3873 on the request of ASI R.B. Joshi.  He has
+
+   proved his report Ex. PW1/A &amp; PW1/B respectively.
+
+       PW2 is Ct. Arun Kumar.    He has deposed that on 11.07.1995, he
+
+
+FIR No. 365/00.                                                            2 Of 14
+   was deputed as duty constable in the GTB Hospital.  At about 11.30
+
+  am, one Somnath had brought  the injured in the hospital  who was
+
+  declared brought dead.   He had given the information regarding the
+
+  death of the injured/deceased in the P.S Bhajanpura vide DD no. 5A. 
+
+      PW3   is   Ct.   Satbir.     He   has   joined   the   investigation   with   the
+
+  IO/ASI R.B. Joshi.   He has deposed as under :­
+
+      " On dt. 11.7.95 I was posted at PS Bhajanpura.  On that dy a DD
+
+  No. 5A was handed over to me by the duty officer and instructed me
+
+  to hand over the same to ASI R.B. Joshi  and I took the same Dd and
+
+  handed over the same to ASI R.B. Joshi.  Thereafter, I along with ASI
+
+  R.B. Joshi and Ct. Om Prakash went at the spot/red light Bhajanpura.
+
+  At the spot one bus DEP­3873 and scooter no. DAD­4700 were lying
+
+  in accidental condition.  Then I alongwith ASI R.B. Joshi went at the
+
+  hospital and Ct. Om Prakash and driver/accused remained at the spot.
+
+  In the hospital ASI R.B. Joshi obtained the MLC.   The doctor had
+
+  mentioned brought dead on the MLC.  Thereafter IO prepared rukka
+
+  on the basis of DD No.5A and I took   the same to PS.   Thereafter
+
+  registration of the case I came at the spot alongwith copy of FIR and
+
+  rukka and handed over the same to IO.  My statement was recorded
+
+  by   the   IO.     After   getting   recorded   my   statement   I   left   the   spot.
+
+
+FIR No. 365/00.                                                                3 Of 14
+   Accused present in the court was driver of the bus who was present at
+
+  the spot when we reached there."     Ld. Defence Counsel has cross­
+
+  examined this witness at length.
+</p>
+<p id="p_6">      PW4 is Sh. Uma Shankar.   He has deposed that he was called by
+
+  the police in the GTB Hospital and there, body of the deceased in the
+
+  said case was shown to him which was identified as that of his elder
+
+  brother Kishan Chand Sharma. 
+</p>
+<p id="p_7">      PW5 is Dr. T.S. Daral, CMO, GTB Hospital.     He has deposed
+
+  that on 11.07.1995, he had medically examined the dead body of one
+
+  Krishan  Kumar Sharma.   The dead body was brought  by one Som
+
+  Dutt Sharma with alleged history of road side accident.   He proved
+
+  the MLC bearing no. B­2380/95 as Ex.PW5/A.  
+</p>
+<p id="p_8">      PW6 is ASI Pratap Singh, the Duty Officer.  He has registered the
+
+  present   case   and   proved   the   copy   of   FIR   as   Ex.   PW6/A   and   his
+
+  endorsement on the rukka Ex. PW6/B.  
+</p>
+<p id="p_9">      PW7   is   Dr.   Gaurav   Aggarwal.       He   has   deposed   that   on
+
+  12.07.1995   at   9.40   am,  he   conducted   the   postmortem   on   the   dead
+
+  body of deceased Kishan Chand Sharma.   He has proved his detailed
+
+  postmortem report no. 439/95 Ex. PW7/A.    The cause of death was
+
+  shock   as  a   result   of  cranio  cerebral  damage  superaded  by  internal
+
+
+FIR No. 365/00.                                                             4 Of 14
+   injuries sustained to the chest.  All injuries are ante­mortem and likely
+
+  in a case of road traffic accident as alleged.   The time since death was
+
+  about 24 hours. 
+</p>
+<p id="p_10">      PW8 is Som Dutt Sharma.   He is the material witness in this case.
+
+  He has deposed as under :­ 
+
+      " On 11.7.95 I along with my friend Kishan Chand were going on
+
+  two wheeler scooter from Nand Nagri to Bhajanpura.   On the way
+
+  when we took turn from the red light, Bhajanpura, in the right side,
+
+  the accused present in the court who was driving a bus no. DEP­3873
+
+  hit with our scooter with our back side, due to that my friend Kishan
+
+  Chand ( pillion rider ) run over by the right side wheel of the bus and
+
+  I thrown away and sustained injuries.   Public persons apprehended
+
+  the driver of said bus at the spot.  I brought injured Kishan Chand in a
+
+  three   wheeler   at   GTB   hospital.     Doctor   declared   injured   Kishan
+
+  Chand as brought dead.  The factum of accident was informed at P.S
+
+  Bhajanpura,   by   the   hospital   staff.     On   receipt   of   this   information
+
+  police   reached   at   the   hospital.     Police   interrogated   me   and   my
+
+  statement   was   recorded   by   the   police   u/s   161   <a href="/doc/445276/" id="a_7">Cr.PC</a>."     No   cross­
+
+  examination of this witness was conducted by the accused on that day
+
+  and same was recorded as 'Nil. Opportunity given'.  Subsequently, an
+
+
+FIR No. 365/00.                                                              5 Of 14
+   application  under  <a href="/doc/1780550/" id="a_8">Section  311</a>  Cr.P.C  was  moved  on  behalf  of  the
+
+  accused   on   21.03.2007   which   was   duly   allowed   by   the   Ld.
+
+  Predecessor   subject   to   availability   of   the   witness   but   the   witness
+
+  could  not  be  traced  even  after  the  process  against  him  was  issued
+
+  through DCP concerned.  So, in effect the material witness/PW8 Mr.
+
+  Somdutt Sharma could not be cross­examined. 
+</p>
+<p id="p_11">      PW9 is ASI Shiv Pal Singh, MHC(M).   He has deposed that on
+
+  11.07.1995, ASI R.B. Joshi deposited a bus no. DEP­3879 and one
+
+  two­wheeler scooter no. DAD­4700 vide serial no. 1762/95 of register
+
+  no. 19.  He has proved the true copy of the entry as Ex. PW9/A.    On
+
+  11.7.95 the bus was released on superdari and two wheeler scooter
+
+  released on 12.7.95 to the rightful owners. 
+</p>
+<p id="p_12">      PW10 is SI R.B.Joshi, the IO of the case.  He has supported the
+
+  prosecution version and detailed about the steps taken by him during
+
+  the course of investigation.   He has proved the rukka Ex. PW10/A,
+
+  seizure memo of scooter and bus Ex. PW10/B &amp; PW10/C, site plan
+
+  Ex. PW10/D.  He has further proved the arrest memo of accused Ex.
+
+  PW10/E, seizure memo of DL of accused Ex. PW10/F.    He prepared
+
+  the  challan   and  filed  in  the  court  through  SHO.   Accused  has  not
+
+  cross­examined this witness. 
+</p>
+<p id="p_13">
+FIR No. 365/00.                                                             6 Of 14
+        PW11 is Ct. Om Prakash.   He had gone to the spot along with the
+
+   IO and remained there while the IO along with Ct. Satyavir reached at
+
+   GTB Hospital.   He has deposed  about the steps taken by the IO on
+
+   the spot i.e taking the accidental vehicles in possession vide seizure
+
+   memo Ex. PW10/B &amp; PW10/C. He has also deposed about the arrest
+
+   of the accused and preparation of site plan.   Personal search of the
+
+   accused was conducted in his presence and his DL was also seized.
+
+   He was cross­examined by Ld. Defence Counsel. 
+
+</p><p id="p_14">4.     After   conclusion   of   prosecution   evidence,   the   statement   of   the
+
+   accused   under   <a href="/doc/767287/" id="a_9">Section   313</a>   Cr.P.C   was   recorded   on   11.03.2014
+
+   wherein the accused submitted that he does not know ( the reason of
+
+   this case against him ). The accident in question had not happened
+
+   with  his  vehicle.     He was  stopped  by  the  police  officials  and  was
+
+   taken  to PS.   He was falsely implicated in this case.   He does not
+
+   know anything else.  The accused did not lead any defence evidence.
+
+</p><p id="p_15">5.     I have heard the arguments from both the sides.  
+
+</p><p id="p_16">       Ld.   APP   for   the   State   has   submitted   that   the   prosecution   has
+
+   proved its case beyond reasonable doubt as the eye­witness i.e PW8
+
+   Som Dutt  Shamra has wholly supported the prosecution case.   Ld.
+
+   Defence   Counsel,   on   the   other   hand,   has   stated   that   nothing
+
+
+FIR No. 365/00.                                                              7 Of 14
+    conclusive regarding the alleged rash driving of the accused has come
+
+   on record, so she has prayed for acquittal of the accused.  
+
+</p><p id="p_17">6.     In this case,  the accused is charged for the offences under <a href="/doc/1270101/" id="a_10">Section
+
+   279</a> &amp; <a href="/doc/409589/" id="a_11">304</a> A IPC.  These Sections provide as under :­ 
+
+   <a href="/doc/1270101/" id="a_12">Section 279</a>: Rash driving or riding on a public way: 
+
+</p><blockquote id="blockquote_1">       Whoever drives any 'vehicle', or rides, on any 'public way'
+       in a manner 'so rash or negligent'  as to 'endanger human
+       life' or to be likely to cause hurt or injury to any other person
+       shall be punished with imprisonment of either description for
+       a term which may extend to six months, or with fine which
+       may extend to one thousand rupees, or with both.
+</blockquote>
+<p id="p_18">   <a href="/doc/1371604/" id="a_13">Section 304A</a>: Causing death by negligence:
+</p>
+<blockquote id="blockquote_2">       Whoever causes the 'death' of any person by doing any 'rash
+       or   negligent   act'   'not   amounting   to   culpable   homicide'
+       shall be punished with imprisonment of wither description for
+       a term which may extend to two years or with fine, or with
+       both. 
+</blockquote>
+<p id="p_19">   Rashness or Negligence:
+</p>
+<p id="p_20">       For holding an accused guilty under <a href="/doc/1270101/" id="a_14">section 279</a> or under <a href="/doc/1371604/" id="a_15">section
+
+   304A</a>, one of the essential ingredients required to be duly proved is,
+
+    that  the  act done  which  endangers  the human  life or the act done
+
+    
+   which causes the death of the person must necessarily be a "
+</p><p id="p_21">                                                               Rash or
+                                                                      
+
+
+
+FIR No. 365/00.                                                       8 Of 14
+   Negligent Act".  Where the act which caused the death of a person or
+
+  which   endangers   the   human   life   is   not   proved   to   be   a   Rash   or
+
+  Negligent Act, the accused cannot be held to be guilty under <a href="/doc/1270101/" id="a_16">Sections
+
+  279</a> or 304A of the <a href="/doc/1569253/" id="a_17">IPC</a>.  However, the terms rashness or negligence
+
+  has   not   been   categorically   defined   in   any   statute.   The   dictionary
+
+  meaning   of   the   term   rashness   is,   "an   act   done   without   due
+
+  consideration", 
+                  i.e. 
+</p><p id="p_22">                      an act done without anticipating or caring for the
+                                                                        
+
+  result   that   may   ensue   by   the   act   done.   Whereas,   the   dictionary
+
+  meaning of the term negligence is "  failure to exercise due degree of
+                                                                        
+
+  care   under   the  given  circumstances  which  any  reasonable  man
+
+  would have exercised" or "failure to exercise due degree of care
+
+  under the given circumstances which under a given situation law
+
+  requires   to   be   exercised".  Accordingly,   both   rashness   as   well   as
+
+  negligence are subjective concepts, and for ascertaining whether any
+
+  particular act is rash or negligent no straight jacket formula can be
+
+  laid   down.   Each   case   has   to   be   decided   on   the   basis   of   its   own
+
+  peculiar   facts   and   circumstances.   Furthermore,   rashness   and
+
+  negligence   are   pure   questions   of   facts   so   no   presumption   can   be
+
+  raised with respect to these.   Rashness/negligence ought to be duly
+
+
+
+FIR No. 365/00.                                                                 9 Of 14
+   proved   by   the   party   who   alleges   that   the   person   endangering   the
+
+  human life or the person who has caused the death of another person
+
+  was acting as such.  
+</p>
+<p id="p_23">      It is to be seen that it is not in dispute that the offending vehicle in
+
+  question was being driven by the accused on the relevant day as the
+
+  accused himself has admitted this fact in his statement under <a href="/doc/767287/" id="a_18">Section
+
+  313</a> Cr.P.C.  He has also been duly identified by the eye­witness/PW8
+
+  Mr. Somdutt Sharma as the driver of the bus bearing no. DEP­3873.
+
+  From the testimony of the aforementioned witness, it is also clear that
+
+  the incident   in  question  occurred due  to collision  between the  bus
+
+  bearing  no.  DEP­3873  being  driven by  the accused  herein and the
+
+  scooter bearing no. DAD­4700 being driven by PW8 himself.   This
+
+  fact also stands  established  because the testimony of PW8 remains
+
+  uncontested on record as his cross­examination was not done by the
+
+  accused/his counsel.  It is also not in dispute that in this unfortunate
+
+  incident,   the   death   of   the   pillion   rider   Mr.   Kishan   Chand   Sharma
+
+  occurred and same stands duly proved from the testimonies of PW7
+
+  Dr. Gaurav  Aggarwal  (who conducted the postmortem of the dead
+
+  body) and PW8 Mr. Somdutt Sharma.  So, the only thing remaining,
+
+  although   the   most   important  ingredient,  to  be  proved  is  that  as   to
+
+
+FIR No. 365/00.                                                            10 Of 14
+   whether   the   accused   herein   was   driving   his   vehicle   in   a   rash   or
+
+  negligent manner. 
+</p>
+<p id="p_24">      The rashness/negligence of the accused is to be culled out from
+
+  the testimony of PW8 Mr. Somdutt Sharma only as he is the sole eye­
+
+  witness.     The   other   material   on   record   can   only   corroborate   his
+
+  testimony.   It has been testified by PW­8 in his statement on oath that
+
+  on the fateful day he was driving his scooter on which the deceased
+
+  was   sitting   as   a   pillion   rider   and   when   he   took   a   U­turn   from
+
+  Bhajanpura Red light, while coming from Nand Nagri, the accused
+
+  while driving the offending vehicle hit the scooter from behind due to
+
+  which he as well as the deceased fell on the ground and the deceased
+
+  was crushed under the right wheel of the offending vehicle.   In his
+
+  entire   testimony   PW8   has   nowhere   stated   in   categorical   terms   the
+
+  manner in which the accused was driving the offending vehicle and
+
+  whether the same was rash or negligent.  The meaningful reading of
+
+  the testimony of PW8 even do not suggest an inference to the effect
+
+  that  the the bus was being driven at high speed, let alone it being
+
+  driven   negligently   or   rashly.     In   fact,   no   allegation   of   any   wrong
+
+  doing by the accused while driving the offending vehicle bearing no.
+
+  DEP­3873   which   could   be   held   responsible   for   the   accident   in
+
+
+FIR No. 365/00.                                                              11 Of 14
+   question has come in this testimony of the sole eye­witness.   
+
+      Ld. APP for the State has argued that as per PW8 when they took
+
+  turn from the red­light Bhajanpura in the right side, the accused who
+
+  was  driving   the   offending  vehicle  hit  the  scooter  (  on  which  both
+
+  PW8 and deceased were riding) from back side and this fact in itself
+
+  is sufficient to prove that the accused was rash in his driving because
+
+  he did not care for the red­light.  
+</p>
+<p id="p_25">      Perusal of the site plan Ex. PW 10/D shows point 'A' as the spot
+
+  at which the alleged accident occurred. According to the site plan, the
+
+  accident occurred at the four­way crossing which is managed by a red
+
+  light.  If point A is taken as the spot where the offending vehicle hit
+
+  the scooter from the back side then it is apparent that the accident
+
+  occurred immediately after the scooter took the U­turn.  It is not clear
+
+  as   to   whether   Mr.   Somdutt   Sharma   was   intending   to   go   towards
+
+  Dayalpur after turning right side from the red­light or was intending
+
+  to  go  to  Gokal  Puri  after  taking  the  U­turn.    As  per  Mr. Somdutt
+
+  Sharma, they took a turn from the red­light in the right side but to
+
+  which place they were going, is not specified.   Also, as per the site
+
+  plan it appears as if the driver of the scooter was taking a U­turn.
+
+  Further, there is material flaw in the site plan in the sense that it is not
+
+
+FIR No. 365/00.                                                        12 Of 14
+    clear as to whether the red­light in question was functioning or not.
+
+   And   if   the   same   was   functioning,   for   which   of   the   two   vehicles
+
+   involved in the accident, same was red and for which same was green
+
+   (   it   is   clear   that   the   light  could  not  have  been   green  for  both  the
+
+   vehicles taking into consideration the right turn taken by the scooter).
+
+   It shows that the investigation has not been done properly by the IO
+
+   and several material questions remain unanswered for that reason.  
+
+       In   these   facts,   this   Court   is   of   the   view   that   no   rashness   or
+
+   negligence can be attributed to the accused herein.  It is possible that
+
+   the   accused   was   driving   his   vehicle   correctly   but   the   PW8   Mr.
+
+   Somdutt Sharma took a U­turn ignoring the red­light for him which
+
+   might have resulted in the accident.  Although,  the possibility that the
+
+   light  was green  for the scooter and  red for the  offending  bus  also
+
+   cannot be ruled out but it is settled principle of criminal jurisprudence
+
+   that if two views are possible then the one in favor of the accused is to
+
+   be  accepted  and   it  is  for the  prosecution  to prove  its  case  beyond
+
+   reasonable   doubt.       This  Court   is   enlightened  by   the  judgment   of
+
+   Hon'ble   Delhi   High   Court   in   a   case   having   similar   facts   titled   as
+
+   <a href="/doc/836797/" id="a_19">Abdul Subhan vs State (Nct Of Delhi</a>) :2007 CriLJ 1089. 
+
+</p><p id="p_26">7.     In view of the above discussion, this Court is of the view that
+
+
+FIR No. 365/00.                                                                 13 Of 14
+   prosecution   has   failed   to   prove   its   case   beyond   reasonable   doubt
+
+  against   the   accused,     the   perspicuous   conclusion   is   a   resounding
+
+  acquittal of the accused Mahi Pal under <a href="/doc/1270101/" id="a_20">Sections 279</a> &amp; <a href="/doc/1371604/" id="a_21">304A</a> Indian
+
+  Penal Code. 
+</p>
+<p id="p_27">      File be consigned to the Record Room after due compliance. 
+
+Dictated &amp; Announced in
+the open court on 28.07.2014    
+                                                     ( SUNIL GUPTA )             
+                                    METROPOLITAN MAGISTRATE(NE)
+                                    KKD COURTS, SHAHDARA, DELHI 
+
+
+
+
+FIR No. 365/00.                                                          14 Of 14
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dhiren Sahis &amp; Ors vs The State Of West Bengal on 12 June, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/27653977/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/27653977/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/27653977/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">Dhiren Sahis &amp; Ors vs The State Of West Bengal on 12 June, 2013</div><div class="doc_author">Author: Jayanta Kumar Biswas</div>
+
+<p id="p_1"><span class="hidden_text" id="span_1">                                   1</span>
+
+                       In The High Court At Calcutta
+                      Criminal Appellate Jurisdiction
+                               Appellate Side
+               12.06.13
+
+                            CRM No.7534 of 2013
+                             Dhiren Sahis &amp; Ors.
+</p><p id="p_2">                                      v.
+</p><p id="p_3">                            The State of West Bengal
+
+              Mr. Arunava Jana
+                             ...for the petitioners.
+</p>
+<p id="p_4">              Mr. Dipankar Mahato
+                             ... for the State.
+</p>
+
+<p id="p_5">       The petitioners accused of offences under ss.498A/326/307/34/302
+<a href="/doc/1569253/" id="a_1">IPC</a> and in custody from April 6,2013 (the second petitioner) and April
+8,2013 (the other petitioners) are seeking bail under s.439 <a href="/doc/445276/" id="a_2">CrPC</a>.
+</p>
+<p id="p_6">       We have heard advocates for the petitioners and the State and
+perused the case diary containing the statement of the victim girl recorded
+by the attending doctor. The girl died after a few days. She stated that her
+saree caught fire from a kerosene lamp. We think it will be appropriate to
+release the petitioners on bail.
+</p>
+<p id="p_7">       For these reasons, we allow the CRM and direct that the petitioners
+shall be released on a Rs.10,000 bond ( for each) with two sureties(for each)
+of Rs.5,000 each ( one surety should be local)- all to the satisfaction of the
+Chief Judicial Magistrate, Purulia; and that if released, they shall remain
+present in court proceedings on all occasions. Certified xerox.</p><pre id="pre_1">
+
+
+                                         (Jayanta Kumar Biswas, J)
+
+
+
+sh                                            ( Subal Baidya,J)
+<span class="hidden_text" id="span_2"> 2</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>None Present For The vs Unknown on 10 September, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/142789828/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/142789828/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/142789828/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/142789828/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court</div>
+<div class="doc_title">None Present For The vs Unknown on 10 September, 2014</div><pre id="pre_1">    
+
+ 
+ 
+ 
+
+ IN THE HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JAIPUR BENCH JAIPUR
+
+O R D E R
+IN
+S.B. CIVIL CONTEMPT PETITION NO.953/2011
+IN
+S.B. CIVIL WRIT PETITION NO.6803/2010
+(Sh. Om Prakash Yadav Vs. Sh. Ashok Sampatram &amp; Ors.)
+
+Date of Order : 					              10.09.2014
+
+HON'BLE MR. JUSTICE ALOK SHARMA
+
+None present for the petitioners.
+Mr. Gauri Shankar, OIC appears for the respondents.
+BY THE COURT</pre>
+		
+<p id="p_1">		Non-compliance of the order dated 13.08.2010, passed by this Court has been alleged in this contempt petition. Thereunder, this Court had directed that the case of the petitioner be considered in terms of the judgment of this Court in the case of Prahalad Kumar Sharma Vs. State of Rajasthan &amp; Ors, SBCWP No.8966/2009, decided on 22.07.2010.
+</p><p id="p_2">		Reply to the contempt petition has been filed. It has been submitted that in compliance with the order dated 13.08.2010, passed by this Court, the case of the petitioner was considered and it was found that the petitioner worked as Vidharthi Mitra in the Government Upper Primary School, Dalniya Phagi only for the period from 01.12.2007 to 18.01.2008 and therefore was not entitled to be engaged as Vidharthi Mitra in terms of the various directions issued by this Court. Accordingly the petitioner's representation was rejected vide order dated 09.07.2012. The copy of the order dated 09.07.2012 has been annexed to the reply to the contempt petition as Annexure-R/2. It is submitted that in the circumstances, the petition for contempt of the court's order dated 13.08.2010 is misdirected and the same is liable to be dismissed.
+</p><p id="p_3">		For reasons stated in the reply, it is apparent that compliance with the order dated 13.08.2010, passed by this Court has been made. No contempt as alleged is made out. The contempt petition is without force.
+</p><p id="p_4">		Dismissed. Notices discharged.
+</p><p id="p_5">(ALOK SHARMA), J
+MS/-
+</p>
+<p id="p_6">All corrections made in the judgment/order have been incorporated in the judgment/order being emailed.- Manoj Solanki, P.A.
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

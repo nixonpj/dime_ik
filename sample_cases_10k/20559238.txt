@@ -1,0 +1,794 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>George John vs The Chief Secretary on 19 November, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/20559238/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:20559238">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1321824/">Section 129 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/665535/">Article 254(2) in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1841379/">The Motor Vehicles (Amendment) Act,   2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1655569/">V.N. Narayanan Nair And Ors. vs State Of Kerala And Ors. on 14 August, 1970</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/20559238/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/20559238/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/20559238/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">George John vs The Chief Secretary on 19 November, 2019</div><pre id="pre_1">                IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                PRESENT
+
+          THE HONOURABLE THE CHIEF JUSTICE MR.S.MANIKUMAR
+
+                                   &amp;
+
+                THE HONOURABLE MR.JUSTICE A.M.SHAFFIQUE
+
+   TUESDAY, THE 19TH DAY OF NOVEMBER 2019 / 28TH KARTHIKA, 1941
+
+                       WP(C).No.25181 OF 2010(S)
+
+
+PETITIONER/S:
+
+                GEORGE JOHN, 230, MATHER NAGAR
+                KOCHI - 682033.
+
+                BY ADVS.
+                SRI.JOY THATTIL ITTOOP
+                SMT.RAKHI K.KUMAR
+
+RESPONDENT/S:
+
+      1         THE CHIEF SECRETARY, GOVERNMENT OF KERALA
+                KERALA, SECRETARIAT, THIRUVANANTHAPURAM-695001
+
+      2         THE SECRTARY, TRANSPORT DEPARTMENT
+                GOVERNMENT OF KERALA, SECRETARIAT,,
+                THIRUVANANTHAPURAM.
+
+      3         UNION OF INDIA REPRESENTED BY ITS
+                SECRETARY, MINISTRY OF ROAD TRANSPORT, NEW DELHI.
+                110001
+
+                R1-2 BY SRI.P.SANTHOSH KUMAR,SPECIAL GOVERNMENT
+                PLEADER
+                R3 BY SRI.T.P.M.IBRAHIM KHAN, ASSISTANT SOLICITOR
+                GENERAL OF INDIA
+
+     THIS WRIT PETITION (CIVIL) HAVING BEEN FINALLY HEARD ON 19-
+11-2019, ALONG WITH WA.2261/2015, WP(C).27865/2015(G), THE COURT
+ON THE SAME DAY DELIVERED THE FOLLOWING:
+                                       2
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+
+
+
+              IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                  PRESENT
+
+           THE HONOURABLE THE CHIEF JUSTICE MR.S.MANIKUMAR
+
+                                      &amp;
+
+               THE HONOURABLE MR.JUSTICE A.M.SHAFFIQUE
+
+  TUESDAY, THE 19TH DAY OF NOVEMBER 2019 / 28TH KARTHIKA, 1941
+
+                         WP(C).No.27865 OF 2015
+
+
+PETITIONER/S:
+
+                RAVINDRAN .T.U
+                AGED 62 YEARS
+                S/O.UNNI, THARAYIL HOUSE, PALLURUTHY, KOCHI,
+                ERNAKULAM DISTRICT, KERALA, PIN 682006
+
+                BY ADVS.
+                SRI.JOSEPH RONY JOSE
+                SRI.P.K.SEBASTIAN
+
+RESPONDENT/S:
+
+       1        STATE OF KERALA
+                REPRESENTED BY CHIEF SECRETARY TO GOVERNMENT,
+                GOVERNMENT SECRETARIAT, THIRUVANANTHAPURAM 695001
+
+       2        TRANSPORT B DEPARTMENT
+                REPRESENTED BY ITS SECRETARY TO GOVERNMENT,
+                GOVERNMENT SECRETARIAT, THIRUVANANTHAPURAM 695001
+
+       3        TRASNPORT COMMISSIONER
+                TRANSPORT BHAVAN, THIRUVANANTHAPURAM 695001
+
+       4        DIRECTOR GENERAL OF POLICE (POLICE CHIEF)
+                POLICE HEADQUARTERS, THIRUVANANTHAPURAM 695001
+
+BY SRI.P.SANTHOSH KUMAR,SPECIAL GOVERNMENT PLEADER
+
+     THIS WRIT PETITION (CIVIL) HAVING BEEN FINALLY HEARD ON
+19-11-2019, ALONG WITH WP(C).25181/2010(S), WA.2261/2015, THE
+COURT ON THE SAME DAY DELIVERED THE FOLLOWING:
+                                       3
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+
+
+
+               IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                  PRESENT
+
+           THE HONOURABLE THE CHIEF JUSTICE MR.S.MANIKUMAR
+
+                                      &amp;
+
+               THE HONOURABLE MR.JUSTICE A.M.SHAFFIQUE
+
+  TUESDAY, THE 19TH DAY OF NOVEMBER 2019 / 28TH KARTHIKA, 1941
+
+                            WA.No.2261 OF 2015
+
+AGAINST THE ORDER/JUDGMENT IN WPC 27865/2015 DATED 16-09-2015 OF
+                      HIGH COURT OF KERALA
+
+
+APPELLANT/S:
+
+       1        STATE OF KERALA
+                REPRESENTED BY CHIEF SECRETARY TO GOVERNMENT,
+                GOVERNMENT SECRETARIAT, THIRUVANANTHAPURAM.695 001.
+
+       2        TRANSPORT (B) DEPARTMENT
+                REPRESENTED BY ITS SECRETARY TO GOVERNMENT,
+                GOVERNMENT SECRETARIAT, THIRUVANANTHAPURAM.695 001.
+
+       3        TRANSPORT COMMISSIONER
+                TRANSPORT BHAVAN, THIRUVANANTHAPURAM.695 001.
+
+       4        DIRECTOR GENERAL OF POLICE (POLICE CHIEF)
+                POLICE HEADQUARTERS, THIRUVANANTHAPURAM. PIN-695
+                001.
+
+                BY SRI.P.SANTHOSH KUMAR,SPECIAL GOVERNMENT PLEADER
+
+RESPONDENT/S:
+
+                RAVINDRAN T.U
+                AGED 62 YEARS
+                SON OF UNNI, THARAYIL HOUSE, PALLURUTHY, KOCHI,
+                ERNAKULAM DISTRICT, PIN-682 006.
+
+                R1 BY ADV. SRI.JOSEPH RONY JOSE
+                R1 BY ADV. SRI.P.K.SEBASTIAN
+
+     THIS WRIT APPEAL HAVING BEEN FINALLY HEARD ON 19-11-2019,
+ALONG WITH WP(C).25181/2010(S), WP(C).27865/2015(G), THE COURT
+ON THE SAME DAY DELIVERED THE FOLLOWING:
+                                       4
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+
+
+                                                                         "CR"
+                                   JUDGMENT
+</pre>
+<p id="p_1">  S.MANIKUMAR, C.J.
+</p>
+<p id="p_2">
+</p><p id="p_3">        WP(C) No.27865/2015 is filed with the following reliefs:
+
+</p><p id="p_4">       (i) Issue a writ of certiorari, call for records leading to Exhibit P1
+       G.O and quash the same and insertion of Rule 347A may be striked
+       off;
+</p><p id="p_5">       (ii) direct the 3rd respondent to direct the concerned Officers under
+       him to instruct all the pillion riders also in two wheeler to wear
+       headgear (helmets) immediately, while they are riding and driving
+       two wheelers on public roads;
+</p><p id="p_6">       (iii) direct the 2nd respondent to ensure that the pillion riders are
+       wearing headgear (helmets) while riding on motorcycle on public
+       places and public roads:
+</p><p id="p_7">       (iv) direct the 3rd respondent to file a detailed statement with regard
+       to death of pillion riders of two wheelers in Kerala during the last 5
+       years;
+</p><p id="p_8">       (v) direct the first respondent to produce the letter received from the
+       Supreme Court Committee on road safety suggesting to issue orders
+       to wear helmets by pillion rider also;
+</p><p id="p_9">       (vi) grant such other reliefs as are deem just and necessary in the
+       facts and circumstances of the case.
+</p>
+<p id="p_10">
+</p><p id="p_11">        2.      WP(C) No.25181/2010 is filed with the following
+  reliefs:
+</p>
+<p id="p_12">
+</p><blockquote id="blockquote_1">       1. To delcare that the amendment to the Kerala Motor Vehicles
+       Rules,1989 granting exemption to the pillion riders from wearing of
+       protective headgears under Rule 347A of the Kerala Motor Vehicles
+       Rules, 1989 is illegal and unconstitutional.</blockquote><p id="p_13">
+</p><p id="p_14">       2. To issue Writ of Mandamus to other appropriate Writ, Direction or
+       Order directing the respondents to exercise their powers conferred
+<span class="hidden_text" id="span_1">                                       5</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+       on them under the second proviso to Sec.129 of the Kerala Motor
+       Vehicles Rules, 1989 in a judicial manner.
+</p><p id="p_15">       3. To grant said such relief as this Honourable court may deemed fit
+       and proper in the interest of justice.
+</p>
+<p id="p_16">
+
+
+</p><p id="p_17">        3.     Government have issued G.O (P) No.46/2003/Tran.
+
+  Dated 13th October, 2003, by amending the Kerala Motor Vehicles
+
+  Rules, 1989. After rule 347, following rule was inserted:
+
+
+</p><blockquote id="blockquote_2">        "347 A Exemption from wearing of protective headgear. -          Any
+        person riding on a motor cycle other than the driver thereof, need
+        not wear a protective headgear".</blockquote><p id="p_18">
+
+
+      Said Government Order has been stayed by a learned Single
+
+  Judge of this Court, which resulted in filing of W.A No.2261/2015.
+
+  Inasmuch as the issue involved in Writ Appeal and other Writ
+
+  Petitions relate to wearing of protective headgear, on 14 th
+
+  November, 2019, we passed the following order:
+
+</p><blockquote id="blockquote_3">      "WP(C) No.25181/2010 has been filed challenging Rule 347A of the
+
+      Kerala Motor Vehicles Rules, 1989 granting exemption to the pillion
+
+      riders from wearing the headgear.
+</blockquote>
+<blockquote id="blockquote_4">              2.   Rule 347A of the Kerala Motor Vehicles Rules, 1989 reads
+
+      thus:
+</blockquote>
+<blockquote id="blockquote_5">              "347A. Exemption from wearing of protective headgear.
+              Any person riding on a motor cycle other than the driver
+              thereof, need not wear a protective headgear."
+</blockquote><blockquote id="blockquote_6">      Said rule is stated to have been framed in exercise of the powers
+
+      conferred under the second proviso to <a href="/doc/1321824/" id="a_1">Section 129</a> of the Motor
+<span class="hidden_text" id="span_2">                                       6</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+      <a href="/doc/785258/" id="a_2">Vehicles Act</a>, 1988.
+</blockquote>
+<blockquote id="blockquote_7">        3.         For brevity, <a href="/doc/1321824/" id="a_3">Section 129</a> of the Act is extracted under:-
+
+</blockquote><blockquote id="blockquote_8">             "129. Wearing of protective headgear.--Every person
+             driving or riding (otherwise than in a side car, on a motor
+             cycle of any class or description) shall, while in a public
+             place, wear [protective headgear conforming to the
+             standards of Bureau of Indian Standards]:
+</blockquote><blockquote id="blockquote_9">                       Provided that the provision of this section shall not
+             apply to a person who is a Sikh, if he is, while driving or
+             riding on the motor cycle, in a public place, wearing a
+             turban:
+</blockquote><blockquote id="blockquote_10">                       Provided further that the State Government may,
+             by such rules, provide for such exceptions as it may think
+             fit.
+</blockquote><blockquote id="blockquote_11">             Explanation.--"Protective headgear" means a helmet
+             which,--
+</blockquote><blockquote id="blockquote_12">             (a) by virtue of its shape, material and construction,
+             could reasonably be expected to afford to the person
+             driving or riding on a motor cycle a degree of protection
+             from injury in the event of an accident; and
+</blockquote><blockquote id="blockquote_13">             (b) is securely fastened to the head of the wearer by
+             means of straps or other fastenings provided on the
+             headgear."</blockquote><blockquote id="blockquote_14">
+</blockquote><blockquote id="blockquote_15">                  4.     On the aspect stay of the impugned Rule 347A, after
+
+       hearing the learned counsel for the parties, writ court in WP(C)
+
+       No.27865/15 passed the following order on 16 th September, 2015:-
+
+</blockquote><blockquote id="blockquote_16">             " xxx
+
+</blockquote><blockquote id="blockquote_17">             3.        Rule 347 A of the Kerala Motor Vehicles Rules as
+             amended is in direct conflict with <a href="/doc/1321824/" id="a_4">Section 129</a> of the Motor
+             Vehicles Act, 1988. The 'exceptions' made mention in the
+             second proviso to <a href="/doc/1321824/" id="a_5">Section 129</a> of the Act concerns the
+             applicability to persons who are sick or belonging to a
+             particular community like 'Sikhs'. The main body of
+             <a href="/doc/1321824/" id="a_6">Section 129</a> of the Act itself stipulates that every person
+<span class="hidden_text" id="span_3">                                       7</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+           driving or 'riding' a motor cycle shall wear a protective
+           headgear.
+</blockquote><blockquote id="blockquote_18">           4.        The State Government as early as in the year 2003
+           undertook to enforce <a href="/doc/1321824/" id="a_7">Section 129</a> of the Act with all vigour.
+           This is discernible from the Full Bench decision in
+           <a href="/doc/1655569/" id="a_8">Narayanan Nair v. State of Kerala</a> (2003 (3) KLT 676).
+           But the State Government by Ext.P1 notification has acted
+           in contravention by inserting Rule 347A            in the Rules.
+           Ext.P1 notification amending the Rules to the above effect
+           is prima facie bad in law.
+</blockquote><blockquote id="blockquote_19">           5.        The operation of Ext.P1 notification by which Rule
+           347A was introduced in the Kerala Motor Vehicles Rules is
+           hereby stayed until further orders."</blockquote><blockquote id="blockquote_20">
+</blockquote><blockquote id="blockquote_21">                5.     Being aggrieved by the interim order made in WP(C)
+
+       No.27865/15, State of Kerala and others have filed WA No.2261/15.
+
+       Record of proceedings in WA No.2261/15 shows that a Hon'ble
+
+       Division Bench of this Court (to which one of us is a party, (Hon'ble
+
+       Mr.Justice A.M.Shaffique) passed an order dated 16 th October 2015
+
+       directing joint hearing of WP(C) No.27865/15 and WA No.2261/15.
+
+</blockquote><blockquote id="blockquote_22">                6.     On this day, when the matter came up for further
+
+       hearing, inviting the attention of this court to the <a href="/doc/1841379/" id="a_9">Motor Vehicles
+
+       (Amendment) Act</a>, 2019, (No.32/2019), w.e.f. 9th August, 2019,
+
+       Sri.P.Santhosh Kumar, Special Government Pleader submitted that the
+
+       <a href="/doc/785258/" id="a_10">Motor Vehicles Act</a>, 1988 has undergone amendment to several
+
+       sections and with reference to Section 129 of the Principal Act, 1988,
+
+       the following has been substituted:-
+</blockquote>
+<blockquote id="blockquote_23">          "44. For <a href="/doc/1321824/" id="a_11">section 129</a> of the principal Act, the following section
+          shall be substituted, namely:--</blockquote><p id="p_19">
+</p><p id="p_20">          '129. Every person, above four years of age, driving or riding or
+          being carried on a motorcycle of any class or description shall,
+          while in a public place, wear protective headgear conforming to
+          such       standards   as   may   be   prescribed   by   the   Central
+<span class="hidden_text" id="span_4">                                       8</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+          Government:
+</p><p id="p_21">                   Provided that the provisions of this section shall not
+          apply to a person who is a Sikh, if, while driving or riding on the
+          motorcycle, in a public place, he is wearing a turban:
+</p><p id="p_22">                   Provided further that the Central Government may by
+          rules provide for measures for the safety of children below four
+          years of age riding or being carried on a motorcycle.
+</p><p id="p_23">                   Explanation.-- "Protective headgear" means a helmet
+          which,--        (a)   by    virtue       of        its    shape,   material   and
+          construction, could reasonably be expected to afford to the
+          person driving or riding on a motorcycle a degree of protection
+          from injury in the event of an accident; and
+</p><p id="p_24">                   (b) is securely fastened to the head of the wearer by
+          means of straps or other fastenings provided on the headgear."
+</p><p id="p_25">              7.      Thus,    in   the   light        of    the    <a href="/doc/1210757/" id="a_12">Amendment Act</a>,      2019
+
+       (No.32/19), which has come into force from 9 th August, 2019, State
+
+       Government can no longer be said to have the power to make any
+
+       exceptions, as provided earlier u/s 129 of 1988 Act. Consequent to
+
+       the amendment made in the <a href="/doc/1841379/" id="a_13">Motor Vehicles (Amendment) Act</a>, 2019
+
+       and taking note of <a href="/doc/665535/" id="a_14">Article 254(2)</a> of the Constitution of India, there is
+
+       a clear repugnancy between said rules and the present <a href="/doc/1321824/" id="a_15">Section 129</a>
+
+       of the Motor Vehicles Act, 1988. For brevity, <a href="/doc/665535/" id="a_16">Article 254(2)</a> of the
+
+       Constitution of India is reproduced:
+</p>
+<blockquote id="blockquote_24">           "<a href="/doc/665535/" id="a_17">Art.254(2)</a> Where a law made by the Legislature of a State
+           with respect to one of the matters enumerated in the
+           concurrent List contains any provision repugnant to the
+           provisions of an earlier law made by Parliament or an existing
+           law with respect to that matter, then, the law so made by the
+           Legislature of such State shall, if it has been reserved for the
+           consideration of the President and has received his assent,
+           prevail in that State:</blockquote><p id="p_26">
+           Provided that nothing in this clause shall prevent Parliament
+           from enacting at any time any law with respect to the same
+<span class="hidden_text" id="span_5">                                       9</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+           matter including a law adding to, amending, varying or
+           repealing the law so made by the Legislature of the State."
+</p><p id="p_27">            8.     Though there is stay of Rule 347A of the Kerala Motor
+
+      Vehicles Rules, judicial notice can be taken that pillion riders are not
+
+      wearing headgears. State Government shall respond to the above by
+
+      19/11/2019, failing which, appropriate orders will have to be issued on
+
+      the basis of the legal position.
+</p>
+<p id="p_28">      Post on 19/11/2019 in the admission list. Government Pleader shall
+
+      communicate the order forthwith."
+</p>
+<p id="p_29">      4.      Pursuant       to    the    directions,   Writ     Petition    Nos
+
+  25181/2010 and 27865/2015 have been posted today along with
+
+  W.A No.2261/2015. On instructions, Sri.P.Santhosh Kumar, learned
+
+  Special Government Pleader for motor vehicles submitted that W.A
+
+  No.2261/2015, may be dismissed as withdrawn.                    Inviting the
+
+  attention of this Court to proceedings issued by the Government of
+
+  India, Ministry of Road Transports and Highways, New Delhi,
+
+  dated 12th March, 2019 addressed to the Chief Secretary,
+
+  Puduchery Administration, Sri.P.Santhosh Kumar, learned Special
+
+  Government       Pleader        for    motor   vehicles      submitted    that
+
+  instructions are issued to carry out           enforcement drive that all
+
+  persons driving or riding two wheeler vehicles to wear protective
+
+  headgear (helmet) conforming to such standards as may be
+
+  prescribed by the Central Government.
+
+</p><p id="p_30">      5.      Heard Sri.Joy Thattil Ittoop, learned counsel appearing
+
+  for the petitioner in WP(C) 25181/2010, Sri.P.K.Sebastian, learned
+<span class="hidden_text" id="span_6">                                       10</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+  counsel appearing for the petitioner in WP(C) 27865/2015 and
+
+  Sri.P.Santhosh    Kumar,    learned    Special    Government     Pleader
+
+  appearing for the State in W.ANo.2261/2015.
+
+</p><p id="p_31">      6.      For   the   reasons    contained     in   order   dated   14 th
+
+  November, 2019 in W.A 2261/2015 and for other reasons
+
+  contained in Writ Petition Nos 25181/2010 and 27865/2015
+
+  respectively, G.O(P) No.46/2003/Tran. dated 13.10.2003 amending
+
+  the Kerala Motor Vehicles Rules, 1989, has to be set aside as
+
+  inoperative by virtue of amendment to Sec.129 of the Kerala
+
+  Motor Vehicles Act.
+</p>
+<p id="p_32">      7.      Sri.P.Santhosh Kumar, learned Special Government
+
+  Pleader for motor vehicles submitted that, instructions would be
+
+  issued in the form of a circular to all the Regional Transport
+
+  Authorities, law and enforcement Agencies and others, for
+
+  effective implementation of the Central enactment, ie., Sec.129 of
+
+  the Kerala Motor Vehicles Act.
+</p>
+<p id="p_33">      8.    For the reasons contained in order dated 14 th November,
+
+  2019 and for other grounds in Writ Petition Nos 25181/2010
+
+  and 27865/2015, G.O(P) No.46/2003/Tran. dated 13.10.2003
+
+  inserting rule 347A in the Kerala Motor Vehicles Rules,1989
+
+  granting exemption to pillion riders in wearing headgear (helmet)
+
+  is inoperative and consequently invalid.
+<span class="hidden_text" id="span_7">                                       11</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+</p><p id="p_34">        9.       In the result, impugned G.O(P) No.46/2003/Tran. dated
+
+  13.10.2003 inserting rule 347A of the Kerala Motor Vehicles Rules
+
+  is set aside. Sri.P.Santhosh Kumar, learned Special Government
+
+  Pleader seeks time to issue the circular, as stated supra, and also
+
+  to make enforcement drive so as to enable the riders as well as
+
+  the pillion riders to wear     headgear (helmet).        Respondents are
+
+  directed to initiate and complete the above said exercise, as
+
+  expeditiously as possible and wearing of helmet should be done
+
+  compulsorily in respect of riders and pillion riders.
+
+      Accordingly, Writ Appeal and Writ Petitions are disposed of as
+
+  above.
+</p>
+<p id="p_35">
+</p><p id="p_36">                                                        Sd/-
+</p>
+<p id="p_37">                                                 S.MANIKUMAR
+
+                                                CHIEF JUSTICE
+
+
+
+
+                                                        Sd/-</p><pre id="pre_2">
+
+                                                A.M.SHAFFIQUE
+
+SKS/20.11.2019                                          JUDGE
+<span class="hidden_text" id="span_8">                                       12</span>
+</pre><p id="p_38">WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+
+
+             APPENDIX OF WP(C) 25181/2010
+PETITIONER'S/S EXHIBITS:
+</p>
+<p id="p_39">P1- True copy of the judgment dated 7.8.2003
+
+P2-true copy of the judgment in the contempt case (c)
+822/07 dated 20.6.07
+
+P3- a copy of the Newspaper report came up on Malayala
+Manorama daily Newspaper dated 21.8.08
+
+
+
+P3(a)- A free English translation of Ext P3.
+
+P4- A true copy of the interim order dated 9.7.2009 in
+CCC No.777 of 2009
+
+
+
+P5-A true copy of the interim direction dated 19.8.2009
+in CCC No.777 of 2009
+
+
+
+P6-A true copy of the report filed by the first
+respondent in CCC No.777 of 2009
+
+P7-Kerala Gazette Notification No.G.O(P)
+No.46/2003/Trans dated 13.10.2003.
+</p><span class="hidden_text" id="span_9">                                       13</span><p id="p_40">
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+
+              APPENDIX OF WP(C) 27865/2015
+PETITIONER'S/S EXHIBITS:
+</p>
+<p id="p_41">EXHIBIT P1               P1:TRUE COPY OF THE GOVERNMENT ORDER GO(P)
+                         NO.46/2003/TRAN DATED 13TH OCTOBER 2003
+
+EXHIBIT P2               P2:TRUE COPY OF JUDGMENT OF THIS HONOURABLE
+                         COURT REPORTED IN 2000 KHC 823 REPORTED IN
+                         DR. JOSEPH MANADAN AND ANOTHER V.TRANSPORT
+                         COMMISSIONER, GOVERNMENT OF KERALA,
+                         THIRUVANANTHAPURAM AND OTHERS
+
+EXHIBIT P3               P3:TRUE COPY OF THE JUDGMENT OF THE FULL
+                         BENCH OF THIS HONOURABLE COURT DATED
+                         07.08.2003 REPORTED IN 2003 KHC 1171
+                         NARAYANAN NAIR V STATE OF KERALA
+
+EXHIBIT P4               P4:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         23.06.2015
+
+EXHIBIT P5               P5:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 30.06.2015
+
+EXHIBIT P6               P6:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         09.07.2015
+
+EXHIBIT P7               P7:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 03.07.2015
+
+EXHIBIT P8               P8:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         22.07.2015
+
+EXHIBIT P9               P9:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 24.07.2015
+
+EXHIBIT P10              P10::TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 08.08.2015
+
+EXHIBIT P11              P11:TRUE COPY OF PAPER REPORT APPEARED IN
+                         DESABHIMANI DAILY DATED 10.08.2015
+
+EXHIBIT P12              P12:TRUE COPY OF THE PAPER REPORT APPEARED
+                         IN THEJUS DAILY DATED 12.08.2015
+
+EXHIBIT P13              P13:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 17.08.2015
+
+EXHIBIT P14              P14:TRUE COPY OF PAPER REPORT APPEARED IN
+<span class="hidden_text" id="span_10">                                       14</span>
+WP(C) Nos 25181/2010 AND 27865/2015 AND W.A 2261/2015
+
+                         THE MATHRUBHOOMI DAILY DATED 18.08.2015
+
+EXHIBIT P15              P15:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 19.08.2015
+
+EXHIBIT P16              P16:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 22.08.2015
+
+EXHIBIT P17              P17:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         23.08.2015
+
+EXHIBIT P18              P18:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 27.08.2015
+
+EXHIBIT P19              P19:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         03.09.2015
+
+EXHIBIT P20              P20:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 05.09.2015
+
+EXHIBIT P21              P21:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MALAYALA MANORAMA DAILY DATED
+                         15.06.2015
+
+EXHIBIT P22              P22:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE MATHRUBHOOMI DAILY DATED 11.09.2015
+
+EXHIBIT P23              P23:TRUE COPY OF PAPER REPORT APPEARED IN
+                         THE DESABHIMANI DAILY DATED 07.07.2015
+
+EXHIBIT P24              P24:TRUE COPY OF THE PAPER REPORT APPEARED
+                         IN TIME OF INDIA DAILY DATED 04.09.2015
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

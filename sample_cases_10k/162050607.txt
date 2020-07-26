@@ -1,0 +1,896 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sudhir Kumar Singh vs The State Of Bihar &amp; Anr on 1 November, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/162050607/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 14 docs 
+      
+        - [<A HREF="/search/?formInput=cites:162050607">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/388888/">Section 195 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/908644/">Section 340 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/621703/">Section 195 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/162050607/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/162050607/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195.">section 195.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=476">476</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nirmala%20devi">nirmala devi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%281%29%28b%29%28i%29">section 195(1)(b)(i)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%281%29%28a%29">section 195(1)(a)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=195%281%29%28b%29%28i%29">195(1)(b)(i)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forgery">forgery</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20sec%20195%281%29%28b%29%28ii%29"> sec 195(1)(b)(ii)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rejoinder">rejoinder</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=195%281%29%28b%29%28ii%29%20">195(1)(b)(ii) </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%28b%29%28ii%29">section 195(b)(ii)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sachidanand">sachidanand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20340">section 340</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=340">340</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marwah">marwah</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=produce%20some%20document">produce some document</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=iqbal%20singh%20marwah">iqbal singh marwah</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=iqbal%20singh">iqbal singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20custodia%20legis"> custodia legis</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=iqbal">iqbal</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Sudhir Kumar Singh vs The State Of Bihar &amp; Anr on 1 November, 2012</div><pre id="pre_1">                    IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                   Criminal Miscellaneous No.476 of 2011
+                 ======================================================
+                 Sudhir Kumar Singh, son of late Rameshwar Prasad Singh, resident of
+                 Village- Bighutipur, P.s. bibhutipur, District- Samastipur.
+                                                                           .... .... Petitioner/s
+                                                    Versus
+                 1. The State Of Bihar
+                 2. Yogi Singh, son of late Ram Nandan Singh, resident of Village-
+                     Khokashaha, P.s. Bibhutipur, District- Samstipur.
+                                                                      .... .... Opposite Party/s
+                 ======================================================
+                 Appearance :
+                 For the Petitioner/s     : Mr. Rajni Kant Jha, Advocate.
+                 For the Opposite Party No.2:Mr. Ajay Kumar Thakur,
+                                               Mr. Ravi Ranjan, Advocates.
+                 ======================================================
+                 CORAM: HONOURABLE MR. JUSTICE SHIVAJI PANDEY
+                 ORAL ORDER</pre>
+
+<p id="p_1">4   01-11-2012                 Heard learned counsel for the petitioner, learned
+
+                    counsel for the State and learned counsel for opposite party
+
+                    no.2.
+</p>
+<p id="p_2">                    2.       This application has been filed for quashing the order
+
+                    dated 7.9.2010 passed in Criminal Appeal No.67 of 2005 by
+
+                    the learned Additional District Judge (F.T.C. No.I),
+
+                    Samastipur by which he has affirmed the order dated
+
+                    24.10.2005 passed by the Sub Judge, Rosera refusing to
+
+                    make enquiry under <a href="/doc/908644/" id="a_1">section 340</a> of the Code of Criminal
+
+                    Procedure (hereinafter referred to as „the Code‟) for the
+
+                    forged signature of a fictitious person as well as for false
+
+                    averments made by opposite party no.2 in his rejoinder
+
+                    petition dated 31.7.2004.
+</p><span class="hidden_text" id="span_1"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span><p id="p_3">
+
+<span class="hidden_text" id="span_2">                                            2</span>
+
+
+
+
+</p><p id="p_4">                 3.         It appears from the record that the petitioner is the
+
+                 plaintiff filed a partition suit vide Partition Suit No. 3 of
+
+                 1998 where Nirmala Devi was made one of the defendant in
+
+                 the suit. In the aforesaid suit Nirmala Devi did not file any
+
+                 written statement. She died on 13.6.2004 leaving behind her
+
+                 husband, namely, Satyendra Prasad Singh and sons Subhash
+
+                 Singh, Chandrhash Singh, Prakash Singh and daughter
+
+                 Amita. As she did not file any written statement as per order
+
+                 22 Rule 4(4)<a href="/doc/445276/" id="a_2"> of the Code</a> of Civil Procedure               she was not
+
+                 required to be substituted by the heirs of late Nirmala Devi
+
+                 who was one of the defendant in the suit.
+</p>
+<p id="p_5">                 4.            An application was filed by the plaintiff-petitioner
+
+                 on 31.7.2004 which was replied by filing rejoinder by
+
+                 defendant stating therein that heirs and successors of Nirmala
+
+                 Devi be substituted in her place. In rejoinder dated 16.8.2004
+
+                 the name of husband of Nirmala Devi was given as
+
+                 Sachidanand Singh and others were shown as Subhash Singh,
+
+                 Chandrahash         Singh      and      Prakash   Singh   and   Amita
+
+                 (Annexure-1). After filing of the rejoinder, a petition was
+
+                 filed by the plaintiff-petitioner (Annexure-2) where it was
+
+                 stated that Nirmala Devi died leaving behind heirs but the
+
+                 name of her husband Sachidanand Singh was completely
+<span class="hidden_text" id="span_3"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_4">                                            3</span>
+
+
+
+
+                 false whereas the name of her husband was Sateyendra
+
+                 Singh. It has been alleged that signature bearing in the
+
+                 rejoinder are forged and fabricated. In paragraph 3 and 6 it
+
+                 has been stated as follows:
+</p>
+<blockquote id="blockquote_1">                                      "3. That this wrong mentioning of
+                              Sachidanand Singh as husband of Nirmala
+                              Devi is in the aforesaid rejoinder with forged
+                              signature of name Sachidanand Singh wall
+                              fabricated by playing fraud with the court and
+                              with the plaintiff for taking disadvantage in
+                              future.
+</blockquote><blockquote id="blockquote_2">                                    6. That defendant Yogi Singh who makes
+                              pairvi in this suit on behalf of defendant no.3
+                              to 8 in necessary to appear before this court
+                              alongwith aforesaid Sachidanand Singh to say
+                              that by whom he made to sign the said
+                              rejoinder petition for verification of the name
+                              fof the husband of Nirmala devi is
+                              Sachidanand Singh or satyendra Prasad
+                              Singh."
+</blockquote>
+<p id="p_6">                 5.                   Petitioner made a prayer that enquiry under
+
+                 <a href="/doc/621703/" id="a_3">section 195</a> read with <a href="/doc/908644/" id="a_4">section 340</a> of the Code be initiated. It
+
+                 also appears from the record that the said petition was replied
+
+                 by the defendants where the plea was taken that application
+
+                 filed. did not bear the signature of defendant nos. 3 to 8 as
+
+                 the said application was filed by the advocate clerk late Jhari
+
+                 Lal Singh who had also obtained signature of advocate
+
+                 concerned. It has further been stated that late Nirmala Devi
+
+                 had already transferred the land and as such her heirs and
+<span class="hidden_text" id="span_5"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_6">                                            4</span>
+
+
+
+
+                 successors had no interest over the land and the application
+
+                 was filed with a view to unnecessary harass the defendants
+
+                 and made a prayer for rejection of the application. Further, an
+
+                 application was filed making a prayer that newly added heirs
+
+                 and successors be deleted as their deletion would not cause
+
+                 any harm or benefit to defendants nos. 3 to 8. The court
+
+                 below refused to initiate a proceeding under <a href="/doc/621703/" id="a_5">section 195</a> read
+
+                 with <a href="/doc/908644/" id="a_6">section 340</a> of the Code and the same was approved by
+
+                 the appellate court which is under challenge.
+
+</p><p id="p_7">                 6.                      Learned counsel for the petitioner submits
+
+                 rejoinder was in two parts, first opposite party no.2 filed an
+
+                 application with wrong name of husband of Nirmala Devi as
+
+                 the name of husband of Nirmala Devi is Satyendra Prasad
+
+                 Singh whereas he has given the name of her husband
+
+                 Sachidanand Singh, second, signatures bearing in the petition
+
+                 are forged and fabricated. He has submitted that the falsity is
+
+                 in two parts, first part is falsity of statement, i.e. name in the
+
+                 petition, and another documents bearing of forged and
+
+                 fabricated signature claiming to be signature of heir and
+
+                 successor of late Nirmala Devi. He has further submitted that
+
+                 aforesaid actions will come under the mischief of <a href="/doc/14134/" id="a_7">Section
+
+                 195(1)(b)(i)(ii)</a> of the code. He has submitted, though the
+<span class="hidden_text" id="span_7"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_8">                                            5</span>
+
+
+
+
+                 document was prepared outside the court but false statement
+
+                 in pleading will be covered by <a href="/doc/621703/" id="a_8">section 195</a> (1)(b) (i)<a href="/doc/445276/" id="a_9"> of the
+
+                 Code</a> as it includes offence under <a href="/doc/308396/" id="a_10">section 193</a> of the Indian
+
+                 Penal Code. He further submits that the case will also fall
+
+                 within the mischief of <a href="/doc/1616180/" id="a_11">section 195(1)(b)(ii)</a> of the Code as
+
+                 forgery has been committed with regard to the document as
+
+                 signatures in the petition are forged and fabricated and used
+
+                 the same for their benefit.
+</p>
+<p id="p_8">                 7.                              Learned counsel for opposite party
+
+                 no.2 has submitted that all the action has been done outside
+
+                 the court as the said document was prepared outside the court
+
+                 and it will not be deemed in any way,           the opposite party
+
+                 no.2 has interfered or statement made in the rejoinder was in
+
+                 custodia legis. He has further submitted, the court will have
+
+                 jurisdiction to lodge a case, if any forgery had been
+
+                 committed after filing of rejoinder by opposite party no. 2
+
+                 while under the custody of the court. It has further been
+
+                 submitted that there is no dispute that late Nirmala Devi had
+
+                 left her husband but the name of the husband was wrongly
+
+                 given or typed as in place of Satyendra Singh, Sachidanand
+
+                 Singh has been given.             It will not   make the situation
+
+                 change, merely wrong name has been typed but the fact
+<span class="hidden_text" id="span_9"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_10">                                            6</span>
+
+
+
+
+                 remain that Nirmala Devi at the time of her death left behind
+
+                 her husband, sons and daughter and as such there will be no
+
+                 substantial situational change.
+</p>
+<p id="p_9">                 8.           Learned counsel for the petitioner has relied on the
+
+                 judgment in the case of Sanjeev Kumar Mittal Vs. The State
+
+                 passed in Test Case No.19 of 2004 whereas learned counsel
+
+                 for opposite party no.2 has relied on the judgment in the case
+
+                 of Iqbal Singh Marwah and another Vs. Meenakshi Marwah
+
+                 and another, reported in (2005) 4 SCC 370, paragraph nos. 3,
+
+                 5, 6, 7, 33 and 34 and Rugmini Ammal Vs. Narayana Reddiar
+
+                 &amp; others, reported in 2008 Cri.L.J.1405, paragraph no.23.
+
+</p><p id="p_10">                 9.              Having considered the rival contentions of
+
+                 learned counsel for the parties the ground of attack is in two
+
+                 parts. One part relating to the forgery committed in the
+
+                 document and another part giving a false averment and
+
+                 obtaining order in his favour will be an offence under section
+
+                 of <a href="/doc/308396/" id="a_12">section 193</a> of the Indian Penal Code.
+</p>
+<p id="p_11">                 10.                  Before coming to the right conclusion it is
+
+                 desirable to examine the provision of <a href="/doc/388888/" id="a_13">section 195</a> of the Code
+
+                 as it is always dependent on the fact as to whether any action
+
+                 or inaction or any commission of alleged forgery committed
+
+                 outside the court will authorize the court to file case under
+<span class="hidden_text" id="span_11"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_12">                                            7</span>
+
+
+
+
+                 <a href="/doc/388888/" id="a_14">section 195</a> read with <a href="/doc/1569253/" id="a_15">section 340</a> of the Code. For the better
+
+                 appreciation it will be relevant to quote <a href="/doc/388888/" id="a_16">section 195</a> of the
+
+                 Code.
+</p>
+<blockquote id="blockquote_3">                                    "195. Prosecution for contempt of lawful
+                           authority of public servants for offences against
+                           public justice and for offences relating to
+                           documents given in evidence .-(1) No Court shall
+                           take cognizance-
+</blockquote><blockquote id="blockquote_4">                       (a)       (i) of any offence punishable under <a href="/doc/1569253/" id="a_17">sections
+                           172</a> to <a href="/doc/1432790/" id="a_18">188</a> (both inclusive) or<a href="/doc/1569253/" id="a_19"> the Indian Penal
+                           Code</a> (45 of 1860).
+</blockquote><blockquote id="blockquote_5">                           (ii) of any abetment of, or attempt to commit,
+                           such offence, or
+</blockquote><blockquote id="blockquote_6">                           (iii) of any criminal conspiracy to commit, such
+                           offence, except on the complaint in writing of the
+                           public servant concerned or of some other public
+                           servant to whom he is administratively
+                           subordinate;
+</blockquote><blockquote id="blockquote_7">                       (b)       (i) of any offence punishable under any of
+                           the following sections<a href="/doc/1569253/" id="a_20"> of the Indian Penal Code</a>
+                           (45 of 1960), namely, <a href="/doc/308396/" id="a_21">sections 193</a> to <a href="/doc/814524/" id="a_22">196</a> (both
+                           inclusive), 199, 200, 205 to 311 (both inclusive)
+                           and 228, when such offence is alleged to have
+                           been committed, in, or in relation to, any
+                           proceeding in any Court, or
+</blockquote><blockquote id="blockquote_8">                           (ii) of any offence described in <a href="/doc/1328629/" id="a_23">section 463</a>, or
+                           punishable under <a href="/doc/1466184/" id="a_24">section 471</a>, <a href="/doc/118906/" id="a_25">section 475</a> or
+                           <a href="/doc/1666702/" id="a_26">section 476</a>, of the said Code, when such offence
+                           is alleged to have been committed in respect of a
+                           document produced or given in evidence in a
+                           proceeding in any Court, or
+</blockquote><blockquote id="blockquote_9">                           (iii) of any criminal conspiracy to commit, or
+                           attempt to commit, or the abetment of any
+                           offence specified in sub-clause (i) or sub -clause
+</blockquote><blockquote id="blockquote_10">                           (ii) except on the complaint in writing of that
+                           Court, or of some other Court to which that Court
+                           is subordinate."
+</blockquote>
+<p id="p_12">                 11.             <a href="/doc/388888/" id="a_27">Section 195</a> of the Code deals with different
+<span class="hidden_text" id="span_13"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_14">                                            8</span>
+
+
+
+
+                 situation as <a href="/doc/388888/" id="a_28">section 195(b)(i)</a> deals with the offence that has
+
+                 been committed in relation to false pleading to a proceeding
+
+                 pending before any court of law whereas section (b)(ii) deals
+
+                 with forgery committed in relation to document. On proper
+
+                 scrutiny of <a href="/doc/388888/" id="a_29">section 195(b)(i)</a> and (b)(ii) it is important to note
+
+                 that the legislature in both sub-section engrafted common
+
+                 clause i.e."when such offence is alleged to have been
+
+                 committed, in, or in relation to, any proceeding in any
+
+                 Court".
+</p>
+<p id="p_13">                 12.             The Hon‟ble Supreme Court in the judgment
+
+                 hereinbelow had considered case, where alleged document
+
+                 was filed, claim was made, document submitted in the court
+
+                 was a forged and the Hon‟ble Supreme court interpreted and
+
+                 considered the parameter of <a href="/doc/388888/" id="a_30">Section 195(b)(ii)</a> of the Code,
+
+                 specially the clause, "when such offence is alleged to have
+
+                 been committed, in, or in relation to, any proceeding in any
+
+                 Court". The court has considered this issue in the case of
+
+                 Surjit Singh Vs. Balbir Singh, reported in (1996) 3 SCC 533
+
+                 where the Hon‟ble Supreme Court in paragraph 10 has held
+
+                 as follows:
+</p>
+<blockquote id="blockquote_11">                              "10. It would thus be clear that for taking
+                         cognizance of an offence, the document, the
+                         foundation for forgery, if produced before the
+                         court or given in evidence, the bar of taking
+<span class="hidden_text" id="span_15"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_16">                                            9</span>
+
+
+
+
+                         cognizance under <a href="/doc/388888/" id="a_31">section 195(1)(b)(ii)</a> gets
+                         attracted and the criminal court is prohibited from
+                         taking cognizance of offence unless a complaint in
+                         writing is filed as per the procedure prescribed
+                         under <a href="/doc/1569253/" id="a_32">Section 340</a> of the Code by or on behalf of
+                         the court. The object thereby it to preserve purity
+                         of the administration of justice and to allow the
+                         parties to adduce evidence in proof of certain
+                         documents without being compelled or intimidated
+                         to proceed with the judicial process. The bar of
+                         <a href="/doc/388888/" id="a_33">section 195</a> is to take cognizance of the offences
+                         covered thereunder."
+</blockquote>
+<p id="p_14">                 13.             The Hon‟ble Supreme Court has taken the view
+
+                 that the object is to preserve purity of the administration of
+
+                 justice and to allow the parties to adduce evidence in proof of
+
+                 certain documents without being compelled or intimidate to
+
+                 proceed with the judicial process and the court has found that
+
+                 the bar of <a href="/doc/388888/" id="a_34">section 195</a> of the Code is to take cognizance of the
+
+                 offences covered thereunder.
+</p>
+<p id="p_15">                 14.                In another case the Hon‟ble Supreme Court in
+
+                 the case of Sachida Nand Singh and another Vs. State of
+
+                 Bihar and another, reported in (1998)2 SCC 493 has taken
+
+                 the contrary view where the court has held that any offence
+
+                 committed affecting the administration of justice in respect of
+
+                 a document produced in court or given in evidence in a
+
+                 proceeding in that court will mean the offence should have
+
+                 been committed during the time when the document was in
+<span class="hidden_text" id="span_17"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_18">                                           10</span>
+
+
+
+
+                 custodia legis. It will be relevant to quote paragraph nos. 11,
+
+                 12 and 23 of the aforesaid judgment:
+</p>
+<blockquote id="blockquote_12">                              "11. The scope of the preliminary enquiry
+                       envisaged in <a href="/doc/1569253/" id="a_35">section 340(1)</a> of the Code is to
+                       ascertain    whether      any     offence    affecting
+                       administration of justice has been committed in
+                       respect of a document produced in court or given in
+                       evidence in a proceeding in that Court. In other
+                       words, the offence should have been committed
+                       during the time when the document was in custodia
+                       legis.
+</blockquote><blockquote id="blockquote_13">                              12. It would be a strained thinking that any
+                       offence involving forgery of a document if
+                       committed far outside the precincts of the Court and
+                       long before its production in the Court, could also be
+                       treated as one affecting administration of justice
+                       merely because that document later reached the
+                       court records.
+</blockquote><blockquote id="blockquote_14">                             23. The sequitur of the above discussion is that
+                       the bar contained in <a href="/doc/388888/" id="a_36">section 195(1)(b)(ii)</a> of the
+                       Code is not applicable to a case where forgery of the
+                       document was committed before the document was
+                       produced in a court. Accordingly we dismiss this
+                       appeal."
+</blockquote>
+<p id="p_16">                 15.             Two judgments were in conflict. The matter was
+
+                 referred to the larger Bench and Hon‟ble Supreme Court in
+
+                 the case of Iqbal Singh Marwah (supra) in paragraph 5 posed
+
+                 the question which was in controversy i.e. clause "when
+
+                 such offence is alleged to have been committed in respect of
+
+                 a document produced or given in evidence, in, or relation to,
+
+                 any proceeding in any court" and the larger Bench approved
+
+                 the view taken in Sachida Nand Singh case and ratio of the
+<span class="hidden_text" id="span_19"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_20">                                           11</span>
+
+
+
+
+                 decision is in paragraph nos. 33 and 34 where the court has
+
+                 held, any offence enumerated under <a href="/doc/388888/" id="a_37">section 195(1)(b)(ii)</a> of
+
+                 the Code was not committed in respect to the Will after it had
+
+                 been produced or has been filed before any court or court of
+
+                 District     Judge.      Therefore,         the   bar   as   created   by
+
+                 section195(1)(b)(ii)<a href="/doc/1569253/" id="a_38"> of the Code</a> would not come into play
+
+                 and there is no embargo on the power of the court to take
+
+                 cognizance on the basis of the complaint filed.              In that case
+
+                 the private complainant was filed with respect to forgery in
+
+                 Will. In connection of filing of forged Will in the court has
+
+                 held, embargo is only when if any manipulation was done
+
+                 while the document was lying with the court custody. And
+
+                 the court allowed the case to proceed . It is relevant to quote
+
+                 paragraph nos. 33 and 34 of the aforesaid judgment:
+
+</p><blockquote id="blockquote_15">                                    "33. In view of the discussion made
+                             above, we are of the opinion that Schida
+                             Nand Singh has been correctly decided and
+                             the view taken therein is the correct view.
+                             <a href="/doc/1616180/" id="a_39">Section 195(1)(b)(ii)</a> CrPC would be
+                             attracted only when the offences
+                             enumerated in the said provision have been
+                             committed with respect to a document after
+                             it has been produced or given in evidence in
+                             a proceeding in any court i.e. during the
+                             time when the document was in custodia
+                             legis.
+</blockquote><blockquote id="blockquote_16">                                    34. In the present case, the Will has
+                             been produced in the court subsequently. It
+                             is nobody‟s case that any offence as
+                             enumerated in <a href="/doc/388888/" id="a_40">Section 195(1)(b)(ii)</a> was
+<span class="hidden_text" id="span_21"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_22">                                           12</span>
+
+
+
+
+                             committed in respect to the said Will after it
+                             had been produced or filed in the Court of
+                             District Judge. Therefore, the bar created by
+                             <a href="/doc/1616180/" id="a_41">section 195(1)(b)(ii)</a> CrPC would not come
+                             into play and there is no embargo on the
+                             power of the court to take cognizance of the
+                             offence on the basis of the complaint filed
+                             by the respondents. The view taken by the
+                             learned Additional Sessions judge and the
+                             High Court is perfectly correct and calls for
+                             no interference."
+</blockquote>
+<p id="p_17">                 16.        If <a href="/doc/388888/" id="a_42">section 195(1)(b)(ii)</a> and <a href="/doc/388888/" id="a_43">section 195(1)(b)(i)</a> are
+
+                 closely examined it will be very apparent, the same word and
+
+                 same clause has been mentioned in both sub-sections so the
+
+                 principle that has been enunciated in connection with <a href="/doc/388888/" id="a_44">section
+
+                 195(b)(ii)</a> will equally be applicable in <a href="/doc/388888/" id="a_45">section 195(b)(i)</a> as in
+
+                 both sub-sections common clause has been mentioned "when
+
+                 such offence is alleged to have been committed, in, or in
+
+                 relation to, any proceeding in any court.
+</p>
+<p id="p_18">                 17.        In this view of the matter case reported in Iqbal
+
+                 Singh Marwah (supra) will equally be applicable in <a href="/doc/388888/" id="a_46">section
+
+                 195(1)(b)(i)</a>. Another judgment of the Hon‟ble Supreme
+
+                 Court has also considered this aspect of the matter in the case
+
+                 of Rugmini Ammal (supra) where the similar matter came up
+
+                 for consideration before the Hon‟ble Supreme Court and the
+
+                 court has followed the judgment of Iqbal Singh Marwah
+
+                 (supra). In paragraph 6 of the judgment the Hon‟ble Supreme
+<span class="hidden_text" id="span_23"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_24">                                           13</span>
+
+
+
+
+                 Court has held as follows:
+</p>
+<blockquote id="blockquote_17">                                "6. Stand of the appellant before the High
+                         Court was that proceedings under <a href="/doc/908644/" id="a_47">Section 340</a> of
+                         the Code of Criminal Procedure, 1973 (in short the
+                         „<a href="/doc/445276/" id="a_48">Cr.P.C</a>.‟) cannot be initiated because there was no
+                         allegation that the fabrication was made after the
+                         document was produced. Certain other stands were
+                         also taken with which we are not very much
+                         concerned."
+</blockquote>
+<p id="p_19">                 18.          At the same time the court has also held that before
+
+                 filing the complaint the court may held a preliminary enquiry
+
+                 and record the finding that it is expedient in the interest of
+
+                 justice that an enquiry should be made into any offences
+
+                 referred to <a href="/doc/14134/" id="a_49">Section 195(1)(b)</a>. This expediency will normally
+
+                 be judged by the court by weighing not the magnitude of
+
+                 injury suffered by the person affected by such forgery or
+
+                 forged document, but having regard to the effect or impact,
+
+                 such commission of offence has upon administration of
+
+                 justice. It is possible that such forged document or forgery
+
+                 may cause a very serious or substantial injury to a person in
+
+                 the sense that it may deprive him of a very valuable property
+
+                 or status or the like, but such document may be just a piece of
+
+                 evidence produced or given in evidence in court where
+
+                 voluminous evidence may have been adduced and the effect
+
+                 of such piece of evidence on the broad concept of
+<span class="hidden_text" id="span_25"> Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span>
+
+<span class="hidden_text" id="span_26">                                           14</span>
+
+
+
+
+                 administration of justice may be minimal. In such
+
+                 circumstances, the court may not consider it expedient in the
+
+                 interest of justice to make a complaint. The broad view of as
+
+                 canvassed by learned counsel for the appellants, would
+
+                 render the victim of such forgery or forged document
+
+                 remediless. Any interpretation which leads to a situation
+
+                 where a victim of a crime is rendered remediless, has to be
+
+                 discarded.
+</p>
+<p id="p_20">                 19.             In view of the aforesaid judgment of the Hon‟ble
+
+                 Supreme Court, issue has to be tested, is the nature of
+
+                 allegation that has been made in the complaint petition. Here
+
+                 only allegation has been made in place of Satyendra Singh,
+
+                 Sachidanand Singh has been typed. There is no allegation
+
+                 that late nirmala Devi had not left any husband so factual
+
+                 aspect of having a husband at the time of death is not denied
+
+                 rather the only issue is with regard to giving wrong name of
+
+                 her husband and signature of fictitious person. All the acts
+
+                 that has been done outside the court and as such the present
+
+                 case is completely covered by the case of Eqbal Singh
+
+                 Marwah (supra)            and Rugmini Ammal (supra) and in this
+
+                 view of the matter this Court does not find any merit in this
+
+                 application.
+</p><span class="hidden_text" id="span_27">           Patna High Court Cr.Misc. No.476 of 2011 (4) dt.01-11-2012</span><p id="p_21">
+
+<span class="hidden_text" id="span_28">                                                     15</span>
+
+
+
+
+</p><p id="p_22">                           20.              Accordingly this application is dismissed. This
+
+                           order does not mean that the petitioner is remediless rather he
+
+                           can take appropriate step in accordance with law.
+
+
+
+</p><pre id="pre_2">Vinay/-                                               (Shivaji Pandey, J)
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

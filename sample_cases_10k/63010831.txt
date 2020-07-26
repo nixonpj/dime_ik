@@ -1,0 +1,713 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Bses Yamuna Power Ltd. vs Ghanshyam Chand Sharma on 5 December, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/63010831/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/367586/">Article 14 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 0 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/187647859/">S Charles vs D/O Post on 2 January, 2020</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/197107522/">Deen Dayal vs State Of U.P.Thru ... on 26 February, 2020</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/105068554/">Smt Tara Bai vs M/O Railways on 3 March, 2020</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/63010831/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/63010831/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/63010831/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Supreme Court of India</div>
+<div class="doc_title">Bses Yamuna Power Ltd. vs Ghanshyam Chand Sharma on 5 December, 2019</div><div class="doc_author">Author: Hon'Ble Dr. Chandrachud</div>
+
+<div class="doc_bench">Bench: Hon'Ble Dr. Chandrachud, Hemant Gupta</div>
+
+<pre id="pre_1">                                                                         Reportable
+
+
+
+                     IN THE SUPREME COURT OF INDIA
+                      CIVIL APPELLATE JURISDICTION
+
+                        Civil Appeal No. 9076 of 2019
+                         @SLP (C) No. 6553 of 2018
+
+
+
+
+BSES Yamuna Power Ltd.                                           …Appellant
+
+
+
+                                       Versus
+
+Sh. Ghanshyam Chand Sharma &amp; Anr.                              …Respondents
+
+
+
+
+                                JUDGMENT
+</pre>
+
+
+
+<p id="p_1">Dr Dhananjaya Y Chandrachud, J
+
+
+
+</p><p id="p_2">1.    By its order dated 26 May 2017 a Division Bench of the High Court of Delhi
+
+upheld the judgement of a Single Judge dated 21 March 2017 granting
+
+pensionary benefits to the first respondent. The judgement of the Single Judge
+
+directed the appellant to pay pensionary benefits to the first respondent on the
+
+ground that he had completed twenty years of service and had „voluntarily retired‟
+
+and not „resigned‟ from service. The appellant challenges these findings in the
+
+present appeal.
+</p>
+<p id="p_3">
+
+
+<span class="hidden_text" id="span_1">                                        1</span>
+</p><p id="p_4">2.       The first respondent was appointed as a daily rated mazdoor on 9 July
+
+1968. His services were regularised on the post of a Peon on 22 December 1971.
+
+The first respondent tendered his resignation on 7 July 1990, which was
+
+accepted by the appellant with effect from 10 July 1990. The first respondent was
+
+subsequently denied pensionary benefits by the appellant on two grounds. First,
+
+that he had not completed twenty years of service, making him ineligible for the
+
+grant of pension. Second, in any case, by resigning, the first respondent had
+
+forfeited his past services and therefore could not claim pensionary benefits.
+
+
+
+</p><p id="p_5">3.       The second question of whether by resigning, the first respondent forfeited
+
+his past service must be addressed at the outset. If the first respondent‟s
+
+resignation resulted in a forfeiture of past service, the question of whether he has
+
+completed twenty years of service is rendered irrelevant for such service would
+
+stand forfeited. In holding the that the legal effect of the first respondent‟s letter of
+
+resignation would amount to „voluntary resignation‟, the Single Judge of the High
+
+Court of Delhi relied on the judgement of this Court in Asger Ibrahim Amin v
+
+LIC1.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">4.       In Asger Ibrahim Amin, the appellant had resigned in 1991 after
+
+completing twenty-three years of service with the Life Insurance Corporation of
+
+India. When the appellant resigned, there existed no provision allowing for
+
+voluntary retirement. The Central Government subsequently promulgated the Life
+
+
+
+
+<span class="hidden_text" id="span_2">1</span>
+    (2016) 13 SCC 797
+
+<span class="hidden_text" id="span_3">                                           2</span>
+Insurance Corporation of India (Employees) Pension Rules 1995 2 setting out the
+
+conditions to be fulfilled for the grant of pension upon retirement and permitting,
+
+for the first time, employees to voluntarily retire after twenty years of service.
+
+Under the LIC Pension Rules, pension on retirement was made retrospectively
+
+applicable to employees retiring prior to 1995, however, the provisions regarding
+
+voluntary retirement were not. The LIC Pension Rules also stipulated that
+
+resignation amounted to a forfeiture of past service. In deciding whether the
+
+appellant was entitled to pension under the LIC Pension Rules, Justice Vikramajit
+
+Sen speaking for a two judge Bench of this Court held:
+</p>
+<blockquote id="blockquote_1">                 “16. … [quoting Sheelkumar Jain v New India Assurance Co.
+                 Ltd. (2011) 12 SCC 197] The aforesaid authorities would
+                 show that the court will have to construe the statutory
+                 provisions in each case to find out whether the
+                 termination of service of an employee was a termination
+                 by way of resignation or a termination by way of
+                 voluntary retirement and while construing the statutory
+                 provisions, the court will have to keep in mind the purpose of
+                 the statutory provisions…
+
+</blockquote><blockquote id="blockquote_2">                 17. The appellant ought not to have been deprived of
+                 pension benefits merely because he styled his
+                 termination of service as “resignation” or because there
+                 was no provision to retire voluntarily at that time. The
+                 commendable objective of the Pension Rules is to extend
+                 benefits to a class of people to tide over the crisis and
+                 vicissitudes of old age, and if there are some
+                 inconsistencies between the statutory provisions and the
+                 avowed objective of the statute so as to discriminate
+                 between the beneficiaries within the class, the end of
+                 justice obligates us to palliate the differences between
+                 the two and reconcile them as far as possible. We would
+                 be failing in our duty, if we go by the letter and not by the
+                 laudatory spirit of statutory provisions and the fundamental
+                 rights guaranteed under <a href="/doc/367586/" id="a_1">Article 14</a> of the Constitution of
+                 India.”
+
+                                                          (Emphasis supplied)
+
+
+
+<span class="hidden_text" id="span_4">2</span>
+    LIC Pension Rules
+
+<span class="hidden_text" id="span_5">                                                 3</span>
+</blockquote><p id="p_8">5.     The court in Asger Ibrahim Amin held that despite the use of the term
+
+„resignation‟ in the appellant‟s letter, the court had to independently determine
+
+whether the termination of service amounted to a „resignation‟ or a „voluntary
+
+retirement‟. As the appellant in Asger Ibrahim Amin had fulfilled the prescribed
+
+years of service and, at the time of his resignation there was no provision for
+
+voluntary retirement, the Court held that the appellant had in fact „voluntarily
+
+retired‟ and not „resigned‟. The LIC Pension Rules only made the provisions on
+
+retirement applicable retrospectively and did not make the provisions with respect
+
+to voluntary retirement applicable retrospectively. However, in holding that the
+
+court must determine whether there existed a case for „voluntary retirement‟ or
+
+„resignation‟, the effect of the decision was to apply the provisions on voluntary
+
+retirement retrospectively. The Court Vikramajit Sen expressly noted this:
+
+</p><blockquote id="blockquote_3">             “11. … The respondent Corporation has controverted the plea
+             of the appellant that as the relevant date and time viz. 29-1-
+             1991 there was no alternative for him except to tender his
+             resignation, pointing out that he could not have sought
+             voluntary retirement under Regulation 19(2-A) of the LIC of
+             India (Staff) Regulations, 1960. If that be so, the
+             respondent being a model employer could and should
+             have extended the advantage of these Regulations to the
+             appellant thereby safeguarding his pension entitlement.
+             However, we find no substance in the argument of the
+             respondent since Regulation 19(2-A) was, in fact, notified in
+             the Gazette of India on 16-2-1996, that is, after the pension
+             scheme case into existence with effect from 1-11-1993.
+</blockquote>
+<blockquote id="blockquote_4">                                                      (Emphasis supplied)
+
+
+
+</blockquote><p id="p_9">6.    In the present case, the Single Judge of the High Court of Delhi relied on
+
+the decision in Asger Ibrahim Amin to hold that the first respondent was entitled
+
+to pensionary benefits. The Single Judge noted that the first respondent had
+
+completed more than twenty years of service and would have been eligible for
+
+<span class="hidden_text" id="span_6">                                             4</span>
+pension upon voluntary retirement. Therefore, despite the first respondent using
+
+the term „resignation‟, on an independent determination of the facts of the case,
+
+the Single Judge held that he had in fact „voluntarily resigned‟ from service‟.
+
+
+
+</p><p id="p_10">7.       Mr C U Singh, learned Senior Counsel for the appellant, brought to our
+
+attention that the correctness of the court‟s approach in Asger Ibrahim Amin
+
+had been called into question by a co-ordinate bench of this Court in Senior
+
+Divisional Manager, LIC v Shree Lal Meena3 (“Shree Lal Meena I”), which
+
+referred the matter to a larger Bench of this Court. Thereafter, a three judge
+
+Bench of this Court was constituted and delivered a judgement in Senior
+
+Divisional Manager, LIC v Shree Lal Meena4 (“Shree Lal Meena II”) overruling
+
+the view taken in Asger Ibrahim Amin. Both these judgements have been
+
+placed on the record.
+</p>
+<p id="p_11">
+
+</p><p id="p_12">8.       The facts in Shree Lal Meena I and Shree Lal Meena II were analogous
+
+to those in Asger Ibrahim Amin. The respondent employee had resigned after
+
+completing twenty years of service. The court was called upon to determine
+
+whether the respondent‟s „resignation‟ amounted to a forfeiture of his past service
+
+disentitling him from pension or was in fact „voluntary retirement‟. Justice Dipak
+
+Mishra (as the learned Chief Justice then was) speaking for a two judge Bench of
+
+this Court in Shree Lal Meena I observed:
+</p>
+<blockquote id="blockquote_5">                 “28. … Needless to say, resignation has the effect of
+                 termination of an employee. Voluntary retirement though has
+                 the effect of termination of an employee yet it has different
+
+<span class="hidden_text" id="span_7">3</span>
+    (2015) 17 SCC 43
+<span class="hidden_text" id="span_8">4</span>
+    (2019) 4 SCC 479
+
+<span class="hidden_text" id="span_9">                                                5</span>
+             consequences. In the former case, the ex-employee could not
+             be entitled to pension, whereas in case of voluntary
+             retirement, the latter one, the employee would be entitled to
+             pension depending upon the terms postulated in the
+             regulations or rules or the scheme. Rule 23 of the 1995 Rules
+             specifically provides that on resignation, dismissal, removal,
+             termination or compulsory retirement, the employee shall
+             forfeit past service and he shall not qualify for pensionary
+             benefit. Thus, resignation given under the 1995 Rules would
+             not entitle an employee to get pension.
+</blockquote>
+<blockquote id="blockquote_6">             29. … In Asger Ibrahim Amin, retrospectivity has been given
+             to Rule 31 [Pension on voluntary retirement], and for the said
+             purpose the amendment to the 1960 Regulations, specifically
+             Regulation 19(2-A) has been taken recourse to. In our view,
+             when Rule 31 covers the field of voluntary retirement and
+             does not make it retrospective, there being a real
+             difference between resignation and retirement, it is not
+             seemly to read the amended Regulations to the Rules to
+             make the same retrospective. Therefore, we are unable to
+             concur with the view expressed in Asger Ibrahim Amin.”
+
+                                                      (Emphasis supplied)
+
+
+
+</blockquote><p id="p_13">9.    The court in Shree Lal Meena I took the view that the provision with
+
+respect to pension on voluntary retirement (Rule 31) was not applicable
+
+retrospectively because the relevant provision had not been enacted with
+
+retrospective effect. Crucially, the Court noted that by making the provision on
+
+voluntary retirement applicable retrospectively, and making a determination in the
+
+facts of each case whether an employee had „resigned‟ or „voluntarily retired‟, the
+
+decision in Asger Ibrahim Amin obliterated the distinction between resignation
+
+and retirement. The court noted that there is a “real difference between
+
+resignation and retirement”. They cannot be used interchangeably, and the court
+
+cannot substitute one for the other merely because the employee has completed
+
+the requisite number of years to qualify for voluntary retirement.
+
+
+
+
+<span class="hidden_text" id="span_10">                                             6</span>
+</p><p id="p_14">10.   In Shree Lal Meena II, upholding the interpretation in Shree Lal Meena I,
+
+Justice Sanjay Kishan Kaul speaking for the three judge Bench, noted that the
+
+retrospective application of the provision on voluntary retirement in the LIC
+
+Pension Rules would lead to an absurd result:
+</p>
+<blockquote id="blockquote_7">             “19. What is most material is that the employee in this
+             case had resigned. When the Pension Rules are applicable,
+             and an employee resigns, the consequences are forfeiture of
+             service, under Rule 23 of the Pension Rules. In our view,
+             attempting to apply the Pension Rules to the respondent
+             would be a self-defeating argument. As, suppose, the
+             Pension Rules, were applicable and the employee like the
+             respondent was in service and sought to resign, the
+             entire past service would be forfeited, and consequently,
+             he would not qualify for pensionary benefits. To hold
+             otherwise would imply than an employee resigning
+             during the currency of the Rules would be deprived of
+             pensionary benefits, while an employee who resigns
+             when the Rules were not even in existence, would be
+             given the benefit of these Rules.”
+
+                                                    (Emphasis supplied)
+
+
+
+The Court noted that, if the approach followed in Asger Ibrahim Amin was
+
+adopted in interpreting the LIC Pension Rules, an employee who resigned after
+
+the enactment of the rules would not be entitled to pensionary benefits but an
+
+employee who had resigned when the rules were not in force, but had completed
+
+the prescribed period of service for voluntary retirement, would be entitled to
+
+pensionary benefits. Such an outcome could not be countenanced and would
+
+render nugatory the provision which stipulated that upon resignation, past service
+
+stood forfeited.
+</blockquote>
+
+
+<p id="p_15">11.    The Court in Shree Lal Meena II elucidated the distinction between
+
+resignation and voluntary retirement in the following terms:
+
+<span class="hidden_text" id="span_11">                                           7</span>
+             “22. … [quoting RBI v Cecil Dennis Solomon (2004) 9 SCC
+             461]     In    service     jurisprudence,    the   expressions
+             “superannuation”,      “voluntary    retirement”,  “compulsory
+             retirement” and “resignation” convey different connotations.
+             Voluntary retirement and resignation involve voluntary acts on
+             the part of the employee to leave service. Though both
+             involve voluntary acts, they operate differently. One of the
+             basic distinctions is that in case of resignation it can be
+             tendered at any time, but in the case of voluntary retirement,
+             it can only be sought for after rendering the prescribed period
+             of qualifying service. Another fundamental distinction is that in
+             case of the former, normally retiral benefits are denied but in
+             case of the latter, the same is not denied. In case of the
+             former, permission or notice is not mandated, while in the
+             case of the latter, permission of the employer concerned is a
+             requisite condition. Though resignation is a bilateral concept,
+             and becomes effective on acceptance by the competent
+             authority, yet the general rule can be displaced by express
+             provisions to the contrary.”
+
+
+
+The above observations highlighted the material distinction between the concept
+
+of resignation and voluntary retirement. The Court also observed that while
+
+pension schemes do form beneficial legislation in a delegated form, a beneficial
+
+construction cannot run contrary to the express terms of the provisions:
+
+</p><blockquote id="blockquote_8">             “26. There are some observations on the principles of public
+             sectors being model employers and provisions of pension
+             being beneficial legislations (see Asger Ibrahim Amin v LIC).</blockquote><p id="p_16">
+</p><p id="p_17">             We may, however, note that as per what we have opined
+             aforesaid, the issue cannot be dealt with on a charity
+             principle. When the legislature, in its wisdom, brings forth
+             certain beneficial provisions in the form of Pension
+             Regulations from a particular date and on particular terms
+             and conditions, aspects which are excluded cannot be
+             included in it by implication.”
+
+
+
+The view in Asger Ibrahim Amin was disapproved and the court held that the
+
+provisions providing for voluntary retirement would not apply retrospectively by
+
+implication. In this view, where an employee has resigned from service, there
+
+arises no question of whether he has in fact „voluntarily retired‟ or „resigned‟. The
+
+<span class="hidden_text" id="span_12">                                              8</span>
+decision to resign is materially distinct from a decision to seek voluntary
+
+retirement. The decision to resign results in the legal consequences that flow
+
+from a resignation under the applicable provisions. These consequences are
+
+distinct from the consequences flowing from voluntary retirement and the two
+
+may not be substituted for each other based on the length of an employee‟s
+
+tenure.
+</p>
+<p id="p_18">
+
+</p><p id="p_19">12.       In the present case, the first respondent resigned on 7 July 1990 with
+
+effect from 10 July 1990. By resigning, the first respondent submitted himself to
+
+the legal consequences that flow from a resignation under the provisions
+
+applicable to his service. Rule 26 of the Central Civil Service Pension Rules
+
+19725 states that:
+</p>
+<blockquote id="blockquote_9">                “26. Forfeiture of service on resignation
+
+                (1) Resignation from a service or a post, unless it is allowed
+                    to be withdrawn in the public interest by the Appointing
+                    Authority, entails a forfeiture of past service…”
+
+
+
+Rule 26 states that upon resignation, an employee forfeits past service. We have
+
+noted above that the approach adopted by the court in Asger Ibrahim Amin has
+
+been held to be erroneous since it removes the important distinction between
+
+resignation and voluntary retirement. Irrespective of whether the first respondent
+
+had completed the requisite years of service to apply for voluntary retirement, his
+
+was a decision to resign and not a decision to seek voluntary retirement. If this
+
+court were to re-classify his resignation as a case of voluntary retirement, this
+
+would obfuscate the distinction between the concepts of resignation and
+
+<span class="hidden_text" id="span_13">5</span>
+    CCS Pension Rules
+
+<span class="hidden_text" id="span_14">                                                9</span>
+voluntary retirement and render the operation of Rule 26 nugatory. Such an
+
+approach cannot be adopted. Accordingly, the finding of the Single Judge that the
+
+first respondent „voluntarily retired‟ is set aside.
+</blockquote>
+
+
+<p id="p_20">13.    We now turn to the question of whether the first respondent had completed
+
+twenty years in service. During the present proceedings, our attention was drawn
+
+to the fact that the first respondent had applied for voluntary retirement on 14
+
+February 1990. By a letter dated 25 May 1990 the appellant denied the first
+
+respondent‟s application for voluntary retirement on the ground that the first
+
+respondent had not completed twenty years of service. It was thus urged that the
+
+appellant‟s decision to deny the first respondent voluntary retirement was illegal
+
+as the first respondent had completed twenty years of service.
+
+
+
+</p><p id="p_21">14.    This argument cannot be accepted. Even if he was denied voluntary
+
+retirement on 25 May 1990, the first respondent did not challenge this decision
+
+but resigned, on 7 July 1990. The denial of voluntary retirement does not mitigate
+
+the legal consequences that flow from resignation. No evidence has been placed
+
+on the record to show that the first respondent took issue with the denial of
+
+voluntary retirement between 25 May 1990 and 7 July 1990. To the contrary, in
+
+the legal notice dated 1 December 1992 sent by the first respondent to the
+
+appellant, the first respondent admitted to having resigned. The first respondent‟s
+
+writ petition was instituted thirteen years after the denial of voluntary retirement
+
+and eventual resignation. In the light of these circumstances, the denial of
+
+
+
+
+<span class="hidden_text" id="span_15">                                           10</span>
+voluntary retirement cannot be invoked before this Court to claim pensionary
+
+benefits when the first respondent has admittedly resigned.
+
+</p><p id="p_22">15.   On the issue of whether the first respondent has served twenty years, we
+
+are of the opinion that the question is of no legal consequence to the present
+
+dispute. Even if the first respondent had served twenty years, under Rule 26 of
+
+the CCS Pension Rules his past service stands forfeited upon resignation. The
+
+first respondent is therefore not entitled to pensionary benefits.
+
+
+
+</p><p id="p_23">16.   For the above reasons, we accordingly allow the appeal and set aside the
+
+impugned order of the High Court of Delhi dated 26 May 2017. There shall be no
+
+order as to costs.
+</p>
+<p id="p_24">
+
+
+</p><p id="p_25">                                         .……......................................................J
+                                         [Dr Dhananjaya Y Chandrachud]
+
+
+
+
+                                        ..……......................................................J
+                                         [Hrishikesh Roy]
+
+
+New Delhi;
+</p><p id="p_26">December 5, 2019.
+</p>
+<p id="p_27">
+
+
+<span class="hidden_text" id="span_16">                                         11</span>
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

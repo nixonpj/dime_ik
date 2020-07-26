@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Deoghar Chamber Of Commerce And ... vs Urban Development Department on 11 December, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/111500868/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/111500868/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/111500868/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/111500868/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Jharkhand High Court</div>
+<div class="doc_title">Deoghar Chamber Of Commerce And ... vs Urban Development Department on 11 December, 2017</div><pre id="pre_1">              IN THE HIGH COURT OF JHARKHAND AT RANCHI
+                                W.P. (PIL) No. 3673 of 2014
+                                             ---
+          Deoghar Chamber of Commerce and Industries
+          through its Secretary                            --- ---- Petitioner
+                                          Versus
+         The State of Jharkhand &amp; others                   --- --- Respondents
+                                             ---
+         CORAM:The Hon'ble Mr. Justice Aparesh Kumar Singh
+                     The Hon'ble Mr. Justice B.B. Mangalmurti
+
+          For the Petitioner: None
+          For the Resp - State:
+                              Mr. Rishikesh Giri, JC to GP-II
+          For the Resp No. 4: M/s Delip Jerath, Amritansh Vats, Advocate
+                                             --
+29/ 11.12.2017</pre><p id="p_1"> A supplementary affidavit has been filed on 28.11.2017. Learned counsel for
+
+          the State submits that revised rules incorporating suggestion made by the
+
+          Personnel, Administrative Reforms and Rajbhasa Department have been sent to the
+
+          Law Department and thereafter to the Personnel for vetting, Necessary action shall
+
+          be taken thereafter for approval of the draft rules from the competent authority.
+
+          Learned counsel for the State seeks some more time to apprise about the progress
+
+          on this aspect as also relating to the constitution of the Commission.
+
+</p><p id="p_2">          2.    Accordingly, let the case be listed in the second week of January 2018.
+
+
+
+</p><p id="p_3">                                                              (Aparesh Kumar Singh, J)
+
+
+
+                                                                 (B.B. Mangalmurti, J)
+   Ranjeet/
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

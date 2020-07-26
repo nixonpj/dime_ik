@@ -1,0 +1,403 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Zoom Vision And Ors. vs P. Manickam &amp; Co. on 16 April, 2001</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/988859/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:988859">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/444619/">Section 200 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/32908/">Amar Chand Agarwalla vs Shanti Bose And Another Etc on 22 December, 1972</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/985338/">Sone P. Walvekar vs State Of West Bengal And Ors. on 16 October, 2007</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/988859/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/988859/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sworn%20statement">sworn statement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=issue%20of%20process">issue of process</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=204">204</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20sec%20204">what is sec 204</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20200">section 200</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=202">202</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20202">section 202</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=204%20of%20crpc">204 of crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=204%20criminal%20procedure%20code">204 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20204%20of%20criminal%20procedure%20code">section 204 of criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20204%20of%20crpc">sec 204 of crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20204%20cr.p.c">section 204 cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20200%20of%20cr.p.c">section 200 of cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cr.p.c.%20sec.200">cr.p.c. sec.200</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20200%20of%20criminal%20procedure%20code">section 200 of criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20200%28a%29%20of%20code%20of%20criminal%20procedure">section 200(a) of code of criminal procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20200%20crpc">section 200 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.200%20crpc">sec.200 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=200%20crpc">200 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=204%20cr.p.c">204 cr.p.c</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Zoom Vision And Ors. vs P. Manickam &amp; Co. on 16 April, 2001</div><div class="doc_author">Author: M Karpagavinayagam</div>
+
+<div class="doc_bench">Bench: M Karpagavinayagam</div>
+
+<p id="p_1">ORDER
+ 
+
+ M. Karpagavinayagam, J.
+</p> 
+
+<p id="p_2"> 1. The private complaint filed by M/s. P. Manickam &amp; Co. represented by its partner N. Nagarajan, taken on file by the II Metropolitan Magistrate, Chennai in C.C. No. 7157 of 1996 for the offences under <a href="/doc/1823824/" id="a_1">Sections 138</a> and <a href="/doc/595945/" id="a_2">142</a> of the Negotiable Instruments Act, is sought to be quashed by the accused persons (Al to A3), the petitioners herein.
+</p> 
+
+<p id="p_3"> 2. The learned Counsel for the petitioners would raise the following points, while seeking for quashing of the above said proceedings :
+</p>   
+
+<p id="p_4"> (1)   While taking complaint on file, the Trial Court has not followed the mandate contained in <a href="/doc/1132672/" id="a_3">Section 200</a>, <a href="/doc/445276/" id="a_4">Cr.P.C</a>. by not writing in the order of taking cognizance whether any witnesses were present to be examined and as such, the issue of process under <a href="/doc/1132672/" id="a_5">Section 204</a>, <a href="/doc/445276/" id="a_6">Cr.P.C</a>. against the petitioners will have to be held to be a nullity.
+</p> 
+
+<p id="p_5"> (2)   The private complaint has been filed even before the cause of action has arisen as contemplated under <a href="/doc/1823824/" id="a_7">Section 138</a> of the Act and, as such, the complaint is premature and, consequently, the proceedings are illegal. 
+</p> 
+
+<p id="p_6"> 3. In elaboration of these points, rival contentions have been urged by both the Counsel for the petitioners as well as the Counsel for the respondent. Both-have cited several decisions rendered by this Court, other High Courts and the Supreme Court to substantiate their respective pleas.
+</p> 
+
+<p id="p_7"> 4. Let me consider the first point.
+</p> 
+
+<p id="p_8"> 5. According to the Counsel for the petitioners, under <a href="/doc/1132672/" id="a_8">Section 200</a>, <a href="/doc/445276/" id="a_9">Cr.P.C</a>., it is obligatory on the part of the Magistrate to examine not only the complainant, but also the witnesses who urea present in Court and if no witnesses were present, the same should but mentioned in the order itself, otherwise the process is illegal. In support of the above proposition, the learned Counsel for the petitioners would cite K. Chandan v. Chellappa Mudaliar, 1996(1) Crimes 13, and <a href="/doc/933563/" id="a_10">R. Subramanian v. K. Mttthukamatchi</a>, 1997(1) M.W.N. (Cr.)251.
+</p> 
+
+<p id="p_9"> 6. On the other hand, the learned Counsel for the respondent would cite in <a href="/doc/179614/" id="a_11">M. Kuhnayistt v. P. Kallyini</a>, 1987 Cri.LJ. 125; Munusamy, adopted son of Vaithialingam v. Perumal Dhanalakshmi @ Sonthrabai, 1999(1) L.W. (Crl.) 54, and <a href="/doc/1814230/" id="a_12">U.P. Pollution Control Board v. MA. Mohan Meakins Ltd. and Ors. I</a> (2000) CCR 348=111 (2000) SLT 162=2000(2) Supreme 520, in order to show that the recording as "witnesses not present" is not necessary and if the Magistrate on the basis of the sworn statement given by the complainant finds prima facie, he would be certainly empowered to issue process under <a href="/doc/1132672/" id="a_13">Section 204</a>, <a href="/doc/445276/" id="a_14">Cr.P.C</a>.
+</p> 
+
+<p id="p_10"> 7. Let us now see <a href="/doc/1132672/" id="a_15">Section 200</a>, <a href="/doc/445276/" id="a_16">Cr.P.C</a>. <a href="/doc/1132672/" id="a_17">Section 200</a> is as follows :
+</p><p id="p_11">  "200. Examination of complainant.--A Magisterial': taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any. and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses and also by the Magistrate."
+</p> 
+
+<p id="p_12"> 8. <a href="/doc/1132672/" id="a_18">Section 204</a> deals with issue of process <a href="/doc/1132672/" id="a_19">Section 204</a> provides thus :
+</p>  
+
+<p id="p_13">  "204. Issue of process.--(I) If in the opinion of a Magistrate taking cognizance of an offence there is sufficient ground for proceeding, and the case appears to be,--
+</p>   
+
+<p id="p_14"> (a)   a summons-case, he shall issue his summons for the attendance of the accused, or 
+ 
+
+</p><p id="p_15"> (b)   a warrant-case, he may issue a warrant, or, if he thinks fit, a summons, for causing the accused to be brought or to appear at a certain lime before such Magistrate or (if he has no jurisdiction himself), some other Magistrate having jurisdiction.
+</p> 
+ 
+
+<p id="p_16"> (2)   No summons or warrant shall be issued against the accused under Sub-section (1) until a list of the prosecution witnesses has been filed. 
+</p> 
+
+<p id="p_17"> 9. The reading of <a href="/doc/444619/" id="a_20">Sections 200</a> and <a href="/doc/1827798/" id="a_21">204</a> of Cr.P.C. would show that they do not prohibit issue of process either in (he absence of examination of witnesses or recording the absence of witnesses on the record. On the other hand, <a href="/doc/1132672/" id="a_22">Section 204(2)</a> would specifically provide no summons or warrant (process) shall be issued against the accused under Sub-section (1) until a list of prosecution witnesses has been filed. So, examination of the witnesses present or absent is not compulsory under <a href="/doc/1132672/" id="a_23">Section 200</a> in order to decide whether process has to be issued under <a href="/doc/1132672/" id="a_24">Section 204</a>, <a href="/doc/445276/" id="a_25">Cr.P.C</a>. or not.
+</p> 
+
+<p id="p_18"> 10. The above view of mine is further made clear, while reading <a href="/doc/1132672/" id="a_26">Section 202(2)</a>, <a href="/doc/445276/" id="a_27">Cr.P.C</a>. <a href="/doc/1132672/" id="a_28">Sections 202(1)</a> and (2) reads thus :
+</p>   
+
+<p id="p_19"> "202. Postponement of issue of process.--(1) Any Magistrate, on receipt of a complaint of an offence of which is authorised to take cognizance or which has been made over to him under <a href="/doc/1132672/" id="a_29">Section 192</a>, if he thinks fit, postpone the issue of process against The accused, and cither inquire into (he case himself or direct an investigation to be made by a police officer or by such other as it thinks fit. for the purpose of deciding whether or not, there is sufficient ground for proceeding.
+</p> 
+
+<p id="p_20"> (2)   In an inquiry under Sub-section (1), the Magistrate may, if he thinks fit, take evidence of witnesses on a oath." 
+</p> 
+
+<p id="p_21"> 11. So, the conjoint reading of <a href="/doc/1132672/" id="a_30">Sections 200</a> and <a href="/doc/1132672/" id="a_31">202(1)</a> and (2) would clearly reveal that the examination of the witnesses is purely discretionary of the Magistrate. That is the reason <a href="/doc/1132672/" id="a_32">Section 202(2)</a> provides specifically that the Magistrate may, if he thinks fit, take evidence of witnesses on oath. In other words, the complaint can be taken on file on the basis of the sworn statement of the complainant atone. If the witnesses are present, he can examine them also on oath under <a href="/doc/1132672/" id="a_33">Section 202(2)</a> in order to find out whether there is prima facie case for the issue of process under <a href="/doc/1132672/" id="a_34">Section 204</a>, <a href="/doc/445276/" id="a_35">Cr.P.C</a>.
+</p> 
+
+<p id="p_22"> 12. While the question relating to the issue of process under <a href="/doc/1132672/" id="a_36">Section 204</a> without complying with <a href="/doc/1132672/" id="a_37">Section 204(2)</a>, <a href="/doc/445276/" id="a_38">Cr.P.C</a>., I had an occasion to hold that merely because of the list of witnesses has not been filed along with the complaint, the complaint cannot be said to be unsustainable, in view of the fact that there is no prejudice to the accused, on the strength of the Full Bench judgment of the Jammu and Kashmir High Court rendered in <a href="/doc/342437/" id="a_39">Abdullah Bhat v. Ghulam Mohammed Wani</a>, 1971 Crl.L.J. 271. But, in the instant case, there is not even such a prohibition and as such, it cannot be contended that the issue of process is illegal, in view of the failure on the part of the Magistrate to record whether witnesses are present or not.
+</p> 
+
+<p id="p_23"> 13. The object of <a href="/doc/1132672/" id="a_40">Sections 200</a> to <a href="/doc/1132672/" id="a_41">204</a>, <a href="/doc/445276/" id="a_42">Cr.P.C</a>. is quite relevant to be noted in this context. The purpose of the examination of the complainant and his witnesses if any, is to ascertain whether there is prima facie case against the person accused of the offence in the complaint. It is to prevent issue of process on complaints which are either false or vexatious or intended only to harass the person named in the name complaint. In other words, the said examination of witnesses is to find out whether there is sufficient ground to proceed further in the matter.
+</p> 
+
+<p id="p_24"> 14. If a Magistrate does not satisfy about the prima facie case on the basis of the sworn
+statement of complainant atone, then under <a href="/doc/1132672/" id="a_43">Section 202</a>, the Magistrate may postpone the issue of process and ask the complainant to produce other witnesses for ascertaining whether there is any material in support of the complaint so as to justify the issue of process. In other words, if the sworn statement given by the complainant makes out a prima facie case, then there is no need for directing the complainant to produce the witnesses or to record "no witnesses present".
+</p> 
+
+<p id="p_25"> 15. Thus, once that conclusion is arrived at, the learned Magistrate need not examine or wait for other witnesses, since there is already sufficient material available for the issue of process. In other words, the purpose of the examination of the complainant and the witnesses is only to ascertain whether there is a prima facie case against the person accused of the offence in the complaint or not. That is to be decided in a judicial manner. This judicial exercise cannot depend on the noting as to whether the witnesses are present or not.
+</p> 
+
+<p id="p_26"> 16. In case, such prima-facie case is made out by the complainant by examining himself, the Magistrate will be justified in issuing process. If in the opinion of the Magistrate that there must be some more material to make out a prima facie case, then it is a judicial discretion of the Magistrate to examine the other witnesses, if present or direct the complainant to produce other witnesses, who have been listed in the private complaint as witnesses.
+</p> 
+
+<p id="p_27"> 17. In the instant case, the Magistrate endorsed on the complaint "Complainant examined. Sworn statement recorded. Case is taken on file under <a href="/doc/1823824/" id="a_44">Section 138</a> of the Negotiable Instruments Act against Al to A3. Issue process". So, cognizance taken by Magistrate is purely on the basis of the sworn statement recorded from the complainant atone. Thus, the judicial discretion exercised by Magistrate to issue process is only on the basis of the sworn statement of the complainant and the same cannot be made to depend upon his making of note in the order that "no witnesses are present for the complainant in Court".
+</p> 
+
+<p id="p_28"> 18. The very wording in <a href="/doc/1132672/" id="a_45">Section 200</a> "the witnesses present, if any" and the wording in <a href="/doc/1132672/" id="a_46">Section 202(2)</a> "the Magistrate may, if he thinks fit, take evidence of witnesses on a oath" would clearly show that the Magistrate may exercise his judicial discretion to issue process if he found prima facie case as against the petitioners on the strength of the sworn statement of the complainant and the averments in the complaint. This judicial discretion cannot be challenged as illegal.
+</p> 
+
+<p id="p_29"> 19. In this context, it is quite relevant to point out the observation made by the Supreme Court in 2000(2) Supreme 520 (supra), which is as follows ;
+</p>  
+
+<p id="p_30">  "In a recent decision of the Supreme Court it has been pointed out that the Legislature lias stressed the need to record reasons in certain situations such as dismissal of a complaint without issuing process. There is no such legal requirement imposed on a Magistrate for passing detailed order while issuing summons vide <a href="/doc/1735113/" id="a_47">Kanti Bhadna Shah v. State of West Bengal</a>, . The foltowing passage will be apposite in this context:
+</p><p id="p_31">  'If there is no legal requirement that the Trial Court should write an order showing the reasons for framing a charge, why should the already burdened Trial Courts be further burdened with such an extra work. The time has reached to adopt all possible measures to expedite the Court procedures and to chalk out measures to avert all procedures causing avoidable delays. If a Magistrate is to write detailed orders at different stages, the snail-paced progress of proceedings in Trial Courts
+would further be stowed down. We are coming across interlocutory orders of
+Magistrates and Sessions Judges running into several pages. We can appreciate
+if such a detailed order has been passed for culminating the proceedings before
+them. But it is quite unnecessary to write detailed orders at other stages, such an
+issuing process, remanding the accused to custody, framing of charges, passing
+over to next stages in the trial.' 
+ 
+
+ It was unfortunate that the Sessions Judge himself did not took into the complaint at that stage to form his own opinion whether process could have been issued by the Chief Judicial Magistrate on the basis of the averments contained in the complaint." 
+</p> 
+
+<p id="p_32"> 20. Therefore, the judgment of the Supreme Court as referred to above, would fully support the contentions of the learned Counsel for the respondent and as such, the decision cited by the Counsel for the petitioners would not help, especially when the recent Supreme Court's judgment would hold contrary to the said proposition as laid down in the decisions reported in 2000(2) Supreme 520 and  (supra).
+</p> 
+
+<p id="p_33"> 21. Furthermore, it is seen from the records that the process was issued on 8.10.1996 and after receipt of the process, the accused appeared before the Court on several hearings and they were questioned on 3.1.1997 under <a href="/doc/1132672/" id="a_48">Section 251</a>, <a href="/doc/445276/" id="a_49">Cr.P.C</a>. The trial also has started on 8.10.1998 and P.W. 1 was examined on 8.10.1998 and 14.10.1998. This would clearly show that due to the non-mentioning of the absence of the witnesses in the order of cognizance, the petitioners have not been prejudiced in any way.
+</p> 
+
+<p id="p_34"> 22. Both the decisions in 1997(1) Madras 251, and 1996(l)Crimes 13 (supra), cited by the Counsel for the petitioners, were rendered even before the trial started remitting the matter to Trial Court to reissue the summons after recording the presence of the witnesses.
+</p> 
+
+<p id="p_35"> 23. But in this case, as noted above, much water has flown under the bridge and we have come to the stage of trial under <a href="/doc/1132672/" id="a_50">Section 254</a>, <a href="/doc/445276/" id="a_51">Cr.P.C</a>. Therefore, now this Court cannot go back to the earlier stage at which the cognizance was taken and remit the matter for' the purpose of curing the alleged irregularity, since main portion of the evidence has already been let in by P.W.I who was examined both in chief and cross. Therefore, this point would fail.
+</p> 
+
+<p id="p_36"> 24. In regard to second point, the learned Counsel for the petitioners, would submit that the statutory notice was served on 23.7.1996 on the accused and as such, the fifteen days period would expire only on 7.8.1996, but the complaint was presented on 6.8.1996 itself and as such, the complaint is premature.
+</p> 
+
+<p id="p_37"> 25. It is also further contended that though the complaint was presented on 6.8.1996, the cognizance was taken only on 8.10.1996, nearly after two months without any reason whatsoever, and therefore, the proceedings are liable to be quashed. 
+</p> 
+
+<p id="p_38"> 26. In the affidavit filed by the petitioners, it is specifically stated that the complaint was presented on 6.8.1996. To make such a plea, he gets1 support from the seal affixed on the complaint which shows as 6.8.1996.
+</p> 
+
+<p id="p_39"> 27. In the counter, it is specifically stated that the complaint was presented on 26.8.1996 and subsequently adjourned for recording sworn statement to 8.10.1996 and on the basis of the sworn statement recorded on 8.10.1996, the complaint was taken on file in C.C. No. 7157 of 1996 and process was issued.
+</p> 
+
+<p id="p_40"> 28. In view of the discrepancy made in the statements of rival parties, I summoned the
+lower Court records and perused the same. It is true that in the complaint, the Court seal was affixed as 6.8.1986. But, the Magistrate signed in both the complaint and the Vakalat by putting date only on 26.8.1996. Furthermore, the complaint itself is dated 22.8.1996. The Vakalat filed along with the complaint would show that the Counsel as well as the complainant signed on 26.8.1996. Therefore, it is quite clear that the complaint was presented and the Magistrate entertained the said complaint only on 26.8.1996 and not on 6.8.1996. This is purely a mistake.
+</p> 
+
+<p id="p_41"> 29. Apart from that, the sworn statement of the complainant was recorded only on 8.10.1996. But, in the top portion of the sworn statement, it was typed as 20.8.1996. As noted above, actually, the complaint was presented only on 26.8.1996 and it was adjourned for recording sworn statement to 8.10.1996. So, this date also is purely a mistake.
+</p> 
+
+<p id="p_42"> 30. The records would further show that the Magistrate put his signature on 26.8.1996 for having entertained the complaint and adjourned the matter to 8.10.1996 for recording sworn statement of the complainant. The sworn statement of the complainant was recorded on 8.10.1996 and on the same day, the learned Magistrate took the case on file for the offences referred to above and issued process.
+</p> 
+
+<p id="p_43"> 31. It is specifically averred in the counter filed before this Court by the respondent/ complainant that the statutory notice was acknowledged by the petitioners/accused on 23.7.1996 and after expiry of fifteen days, the complaint was presented on 26.8.1996 and as such, it is well within time.
+</p> 
+
+<p id="p_44"> 32. In this context, it is argued that the cognizance must have been taken within one month from the date of the presentation. According to the Counsel for the petitioners, even assuming that the complaint was presented on 26.8.1996, the cognizance was taken only after expiry of one month, i.e. on 8.10.1996, and therefore, the order of cognizance is invalid.
+</p> 
+
+<p id="p_45"> 33. This submission, in my view, is utterly untenable. As per <a href="/doc/1823824/" id="a_52">Section 138</a>, the complaint shall be made after cause of action has arisen, that is, after the expiry of fifteen days, namely "the time for payment". Similarly it is specifically prescribed that the complaint must be made within thirty days from the date of the cause of action.
+</p> 
+
+<p id="p_46"> 34. In this case, as noted above, the complaint was made or presented on 26.8.1996 after the cause of action had arisen. Even according to the Counsel for the petitioners, the cause of action has arisen only on 7.8.1996. If that date is taken as the date of cause of action, the complainant would be entitled to file the complaint within one month, i.e. the complaint could be filed on or before 6.9.1996. In the instant case, it is clear that the complaint was presented on 26.8.1996 and it was adjourned for recording sworn statement from the complainant to 8.10.1996.
+</p> 
+
+<p id="p_47"> 35. The reading of the provision would make it clear that one month's time is only relating to the making of the complaint and not with reference to the taking of cognizance. This proposition is made clear in the decision rendered by the Supreme Court in . The relevant portion is as follows:
+</p><p id="p_48">  " Taking cognizance of an offence' by the Court has to be distinguished from the filing of the complaint by the complainant. Taking cognizance would mean the action taken by the Court for initiating judicial proceedings against the offender in respect of the offence regarding which the complaint is filed."
+</p> 
+
+<p id="p_49"> 36. Thus, it is clear that the complaint is well within time. But, there is no time prescribed for the Magistrate for taking cognizance as contained in the various other provisions like <a href="/doc/1132672/" id="a_53">Section 468</a>, <a href="/doc/445276/" id="a_54">Cr.P.C</a>. Therefore, in my view, this contention also falls to the ground.
+</p> 
+
+<p id="p_50"> 37. Before parting with this case, I shall point out one disturbing feature.
+</p> 
+
+<p id="p_51"> 38. The complaint was filed, as noted above, on 26.8.1996. The same was taken on file on 8.10.1996. After service of summons, the petitioners appeared on 3.1.1997 and answered the charge of the accusation put to them. P.W. 1 was examined on 8.10.1998 in the presence of the petitioners. He was cross-examined on the same day. Again, he was recalled and cross-examined on 14.10.1998 also. In this cross-examination, regarding the aspect which has been raised in this case in relation to the date of presentation of the complaint and the date of taking cognizance, the Counsel for the petitioners put relevant questions and culled out answers. The relevant answers in cross-examination are as follows :
+</p><p id="p_52">  "xx xx                 xx" (Regional language)
+ 
+
+</p><p id="p_53"> 39. The above evidence would show that the discrepancy was brought to the notice of the Trial Court and the Trial Court also was asked to record the same in the deposition. Again, the Magistrate observed as follows :
+</p><p id="p_54">  "xx xx                xx" (Regional language)
+ 
+
+ So, this would make it very clear that the petitioners/accused were permitted to get the copies of the documents only for making further cross-examination on this aspect.
+</p> 
+
+<p id="p_55"> 40. However, these things have been suppressed before this Court while filing this application for quashing which has been filed on 25.1.1999. This is quite unfortunate. This Court as well as the Supreme Court time and again would hold that once trial has commenced, no application under <a href="/doc/1132672/" id="a_55">Section 482</a>, <a href="/doc/445276/" id="a_56">Cr.P.C</a>. has to be entertained for quashing the proceedings.
+</p> 
+
+<p id="p_56"> 41. <a href="/doc/32908/" id="a_57">In Amar Chand v. Shanti Base</a>, , the Apex Court has held thus :
+</p><p id="p_57">  "Where the accused moved the High Court at the time when the trial was almost coming to a close and what remained to be done was the examination of two prosecution and one Court witness and the High Court quashed the charge and the entire proceedings on the grounds that the complainant suppressed material facts and that the evidence on record did not establish the alleged offence, the order" was liable to be set aside. The proper course at that stage to be adopted by the High Court was to allow the proceedings to go on and to come to its logical conclusion, one way or the other, and decline to interfere with those proceedings."
+</p> 
+
+<p id="p_58"> 42. In this case, the petitioners have not only not informed this Court that already trial started and P.W. 1 was cross-examined but also omitted to mention that in respect of the issues raised in the petition, P.W. 1 was cross-examined and time was given for further cross-examination in regard to those aspects. The act of suppression of these factors before this Court is highly reprehensible. Therefore, in my view, sufficient costs should be imposed the petitioners in view of their above conduct.
+</p> 
+
+<p id="p_59"> 43. While I dismiss this petition as devoid of merits, it is appropriate to impose costs of Rs. 10,0007- on each of the petitioners. Accordingly, the petitioners 1 to 3 are directed to pay the total sum of Rs. 30.000A as costs and send the same to the Prime Minister's Gujarat Earth Quake Relief Fund by means of Demand Draft within one month from the date of this order and produce the copy of the D.D. before this Court and report the compliance of the order
+passed by this Court. The Trial Court is directed to continue the trial and dispose of the matter    as expeditiously as possible.
+</p> 
+
+<p id="p_60"> 44. With the above observations, the petition is dismissed. Consequently, Crl.M.P. No. 668 of 1999 is closed.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

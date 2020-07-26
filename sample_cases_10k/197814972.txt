@@ -1,0 +1,548 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sri B P Srinivas C E O vs M/S Compudyne Winfosystem Ltd on 17 June, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/197814972/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/197814972/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/197814972/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/197814972/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Sri B P Srinivas C E O vs M/S Compudyne Winfosystem Ltd on 17 June, 2019</div><div class="doc_author">Author: Mohammad Nawaz</div>
+
+<pre id="pre_1">                             1
+
+
+
+
+ IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+          DATED THIS THE 17TH DAY OF JUNE, 2019
+
+                         BEFORE:
+
+        THE HON'BLE MR. JUSTICE MOHAMMAD NAWAZ
+
+
+     CRIMINAL REVISION PETITION NO.1238 OF 2017
+                  CONNECTED WITH
+     CRIMINAL REVISION PETITION NO.1239 OF 2017
+
+
+BETWEEN:
+
+1.     SRI. B.P.SRINIVAS, C.E.O.,
+       S/O. LATE SRI. B.C.PUTTASWAMY GOWDA,
+       AGED ABOUT 57 YEARS,
+       M/S. INDIRA WORLD WIDE FINANCE &amp;
+       REFINANCE CORPORATION,
+       SUBBU ESTATE, BELLAVI,
+       TUMKUR-561 202.
+
+2.     FINAWORLD GROUND OF COMPANIES
+       (NEPAL) PVT. LTD.,
+       BELLAVI, TUMKUR-561 202.
+       REP. BY ITS MANAGING DIRECTOR,
+       B.P.SRINIVAS.                       ... PETITIONERS
+                                   [COMMON IN BOTH CASES]
+
+[BY SRI. G.S. VENKAT SUBBA RAO, ADVOCATE]
+
+
+AND:
+
+M/S. COMPUNDYNE WINFOSYSTEM LTD.,
+COMPUDYNE HOUSE,
+KUDLU GATE, HOSUR ROAD,
+BENGALURU-560 068.
+REP. BY ITS CHAIRMAN AND
+MANAGING DIRECTOR.                     ... RESPONDENT
+                               [COMMON IN BOTH CASES]
+
+[BY SRI. C.VIJAYA KUMAR, ADVOCATE]
+                                2
+
+
+
+
+      THESE CRIMINAL REVISION PETITIONS ARE FILED UNDER
+SECTION 397 OF CR.P.C. PRAYING TO SET ASIDE THE IMPUGNED
+JUDGMENT AND SENTENCE PASSED BY THE XXXVI ADDITIONAL
+CITY CIVIL AND SESSIONS JUDGE, BENGALURU DATED
+16.04.2007 IN CRL.APPEAL NO.15061/2006 AND CRL.APPEAL
+NO.15062/2006 RESPECTIVELY CONFIRMING THE JUDGMENT AND
+SENTENCE PASSED BY THE V ADDITIONAL JUDGE, COURT OF
+SMALL CAUSES AND XXIV ADDITIONAL CHIEF METROPOLITAN
+MAGISTRATE, BENGALURU DATED 17.03.2006 IN C.C. NO.15/2005
+AND C.C. NO.16/2005 RESPECTIVELY AND CONSEQUENTLY PASS A
+JUDGMENT OF ACQUITTAL, ACQUITTING THE PETITIONERS FOR
+THE OFFENCE ALLEGED U/S 138 OF NEGOTIABLE INSTRUMENTS
+ACT.
+
+     THESE CRIMINAL REVISION PETITIONS COMING ON FOR
+HEARING ON I.A., THIS DAY, THE COURT MADE THE FOLLOWING:
+
+                             ***
+
+                            ORDER
+</pre>
+
+
+<p id="p_1">      Heard on I.A. No.1/2017 seeking condonation of delay
+
+of 3060 days in preferring the revision petitions.
+
+
+</p><p id="p_2">      2.    The above Crl.R.P. No.1238/2017 and Crl.R.P.
+
+No.1239/2017 arise out of Crl.A. No.15061/2006 and Crl.A.
+
+No.15062/2006 on the file of the Court of XXXVI Additional
+
+City Civil and Sessions Judge, Bengaluru and C.C. No.15/2005
+
+and C.C. No.16/2005 on the file of the V Additional Judge,
+
+Court of Small Causes and XXIV Additional C.M.M., Bengaluru
+
+respectively.
+</p><span class="hidden_text" id="span_1">                                        3</span><p id="p_3">
+
+
+
+
+</p><p id="p_4">       3.     The Trial Court in the above said cases convicted
+
+the    accused    i.e.,   petitioners        herein     for     the   offences
+
+punishable under Sections 138 r/w. 141 of <a href="/doc/1132672/" id="a_1">N.I. Act</a>, which
+
+was confirmed by the appellate Court by its common
+
+Judgment and Order dated 16.04.2007.
+</p>
+<p id="p_5">
+</p><p id="p_6">       4.     Challenging the concurrent findings recorded by
+
+the Courts below thereby convicting and sentencing the
+
+accused/petitioners       for    the       offences     punishable         under
+
+<a href="/doc/1823824/" id="a_2">Sections 138</a> r/w. 141 of <a href="/doc/1132672/" id="a_3">N.I. Act</a>, the present revision
+
+petitions have been filed. Since the petitioners are same in
+
+both    the      cases,    the     present       I.A.         filed   by     the
+
+accused/petitioners seeking condonation of delay in both the
+
+cases are heard together and common Order is passed.
+
+
+</p><p id="p_7">       5.     The learned counsel for the respondent has filed
+
+objections to I.A. No.1/2017.
+</p>
+<p id="p_8">
+</p><p id="p_9">       6.     I have perused the affidavit accompanying I.A.
+
+No.1/2017 seeking condonation of delay in preferring the
+
+revision petitions as well as the statement of objections filed
+
+by the respondent.
+</p><span class="hidden_text" id="span_2">                                  4</span><p id="p_10">
+
+
+
+
+</p><p id="p_11">      7.    The learned counsel for the accused/petitioners
+
+would submit that in the appeal preferred before the Sessions
+
+Court, the accused had engaged the services of the learned
+
+Advocate and the accused was informed that his presence
+
+was   not   necessary   before       the   lower   appellate   Court.
+
+Therefore, he was under the impression that the disposal of
+
+the   matter   would    take   some        time    and   the   further
+
+communication would be received from the learned Advocate
+
+who appeared before the appellate Court.                 It is further
+
+submitted that petitioner No.1 was apprehended by the West
+
+Bengal Police in relation to certain affairs of petitioner No.2
+
+firm and petitioner No.1 had to remain in judicial custody
+
+considerably for a long time and he was unable to contact his
+
+Advocate to know about the case. Petitioner No.1 lost sight
+
+of the appeals which were filed before the Sessions Court and
+
+also he was not informed about the status of the appeals by
+
+the learned counsel representing him. He further submitted
+
+that petitioner No.1 was apprehended by the Rajasthan Police
+
+and he had to remain in judicial custody for about 1½ years
+
+and under these circumstances, petitioner No.1 had virtually
+
+lost sight of the appeals preferred by him. He did not make
+<span class="hidden_text" id="span_3">                               5</span>
+
+
+
+
+any enquiry with regard to the appeals nor he could contact
+
+the advocate with regard to filing of the appeals. During the
+
+second week of October, 2017, the Police were searching for
+
+petitioner No.1 in the homestead when he was away from the
+
+house stating that he has been convicted for the offence
+
+punishable under <a href="/doc/1823824/" id="a_4">Section 138</a> of N.I. Act.       Thereafter, he
+
+made reasonable enquiry and came to know that the appeals
+
+filed by him before the Sessions Court have been dismissed
+
+and issuance of warrant of conviction on the learned
+
+Magistrate.
+</p>
+<p id="p_12">
+</p><p id="p_13">     8.       The learned counsel for the petitioners would
+
+submit that immediately after coming to know about disposal
+
+of the appeals, he applied for the certified copy and filed the
+
+present revision petitions without any further lapse of time
+
+and accordingly the learned counsel seeks to condone the
+
+delay in preferring the revision petitions. He places reliance
+
+on the Judgments of the Hon'ble Apex Court reported in
+
+(2013)12 SUPREME COURT CASES 649 in the case of
+
+ESHA BHATTACHARJEE VS. MANAGING COMMITTEE OF
+
+RAGHUNATHPUR NAFAR ACADEMY AND OTHERS and
+
+CIVIL APPEAL NOS.5051-5052 OF 2009 IN THE CASE
+<span class="hidden_text" id="span_4">                                 6</span>
+
+
+
+
+OF ESTATE OFFICER, HARYANA URBAN DEVELOPMENT
+
+AUTHORITY &amp; ANR. VS. GOPI CHAND ATREJA, DATED
+
+12.03.2019 and submits that the delay may be condoned for
+
+the aforesaid reasons.
+</p>
+<p id="p_14">
+</p><p id="p_15">     On the other hand, the learned counsel appearing for
+
+the respondent contended that there is inordinate delay in
+
+preferring the revision petitions and the petitioners have not
+
+shown any sufficient cause to condone the delay. He submits
+
+that there is no bona fide on the part of the petitioners in
+
+preferring the above revision petitions and the revision
+
+petitions have been filed with an oblique motive and to harass
+
+the respondent and to dodge the issue of payment.          The
+
+learned counsel further submits that the reasons assigned by
+
+petitioner No.1 in his affidavit cannot be accepted.       The
+
+criminal appeals filed by the petitioners were dismissed in the
+
+year 2007 and he has not stated when he was apprehended
+
+by the West Bengal Police and also regarding judicial custody
+
+he had undergone. Accordingly, he seeks to dismiss the I.A.
+
+seeking condonation of delay.
+</p><span class="hidden_text" id="span_5">                                  7</span><p id="p_16">
+
+
+
+
+</p><p id="p_17">      9.    These revision petitions are filed with a delay of
+
+3060 days. The revision petitions are against the concurrent
+
+findings recorded by the Courts below, wherein the accused is
+
+convicted for the offence punishable under <a href="/doc/1823824/" id="a_5">Section 138</a> of N.I.
+
+Act. The Crl.A. Nos.15061 and 15062/2006 filed by the
+
+accused came to be dismissed on 16.04.2007. These revision
+
+petitions   are   filed   on   29.11.2017.   According   to   the
+
+petitioners, they were under the impression that the disposal
+
+of the appeals before the Sessions Court would take some
+
+time and that they would receive further communication from
+
+the Advocate.     It is further stated that petitioner No.1 was
+
+apprehended by the West Bengal Police in certain cases
+
+relating to the affairs of the petitioner's firm and petitioner
+
+No.1 had to remain in the judicial custody considerably for a
+
+long time. It is further stated that petitioner No.1 was also
+
+apprehended by the Rajasthan Police and he had to remain in
+
+the judicial custody for about 1½ years.
+</p>
+<p id="p_18">
+</p><p id="p_19">      10.    Admittedly, the present revision petitions are
+
+filed in the year 2017. The petitioners have not stated as to
+
+when petitioner No.1 was apprehended by the West Bengal
+
+Police and during which period he was apprehended by the
+<span class="hidden_text" id="span_6">                                  8</span>
+
+
+
+
+Rajasthan Police and remained in judicial custody. The
+
+petitioners have not produced a piece of document to show
+
+that petitioner No.1 was in judicial custody in any of the cases
+
+registered against him and the period for which he was in
+
+judicial custody.
+</p>
+<p id="p_20">
+</p><p id="p_21">       11.   It is also stated in the affidavit that the petitioners
+
+had lost sight of the appeals preferred by them and did not
+
+make any enquiry with regard to the appeals nor could
+
+contact their Advocate with regard to filing of the appeals.
+
+This   shows   that   the   petitioners   were   not   diligent   in
+
+prosecuting the appeals and pursuing the cases filed by them.
+
+The reasons stated in the affidavit cannot be construed as
+
+sufficient cause so as to condone an inordinate delay of 3060
+
+days in preferring the revision petitions.
+
+
+</p><p id="p_22">       12.   The Judgments relied upon by the learned counsel
+
+for the petitioners are not applicable to the facts and
+
+circumstances of the present cases.       Even otherwise, in the
+
+case    of   ESHA      BHATTACHARJEE           VS.     MANAGING
+
+COMMITTEE OF RAGHUNATHPUR NAFAR ACADEMY AND
+<span class="hidden_text" id="span_7">                                  9</span>
+
+
+
+
+OTHERS [Supra] at para 21.10, the Hon'ble Apex Court has
+
+observed that;
+</p>
+<p id="p_23">
+</p><blockquote id="blockquote_1">               "If the explanation offered is concocted or
+       the grounds urged in the application are fanciful,
+       the courts should be vigilant not to expose the
+       other    side   unnecessarily     to   face   such   a
+       litigation."</blockquote><p id="p_24">
+
+
+</p><p id="p_25">       Petitioners have failed to satisfactorily explain the
+
+inordinate     delay   in   preferring    the   revision    petitions.
+
+Accordingly, I.A. No.1/2017 filed seeking condonation of
+
+delay of 3060 days in preferring the revision petitions in the
+
+respective petitions are dismissed. Consequently, the revision
+
+petitions are dismissed.
+</p>
+<p id="p_26">
+
+
+</p><p id="p_27">                                               Sd/-
+</p><p id="p_28">                                              JUDGE
+
+
+Ksm*
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

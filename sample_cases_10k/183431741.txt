@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Raj Narayan Bhagat &amp; Ors. vs The State Of Bihar on 18 June, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/183431741/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:183431741">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/455468/">Section 307 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/162506/">Section 447 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/185764/">Section 311 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/763672/">Section 148 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/183431741/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/183431741/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.307">sec.307</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20307">section 307</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Raj Narayan Bhagat &amp; Ors. vs The State Of Bihar on 18 June, 2015</div><pre id="pre_1">                     IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                   Criminal Miscellaneous No. 20099 of 2015
+                           Arising Out of PS.Case No. -271 Year- 2014 Thana -PAKRIDAYAL District-
+                                              EASTCHAMPARAN(MOTIHARI)
+                  ======================================================
+                  1. Raj Narayan Bhagat Son of Late Ramfal Bhagat
+                  2. Sonelal Bhagat @ Sona Lal Bhagat Son of Ram Narayan Bhagat
+                  3. Munilal Bhagat Son of Ram Narayan Bhagat
+                  4. Anuthalal Bhagat Son of Raj Narayan Bhagat null
+                  5. Lalan Bhagat Son of Raj Narayan Bhagat
+                  6. Pradeep Bhagat Son of Raj Narayan Bhagat
+                  7. Chandrika Bhagat Son of Late Devilal Bhagat
+                  8. Harendra Bhagat Son of Late Lochan Bhagat
+                  9. Rajesh Bhagat Son of Harendra Bhagat
+                  10. Ashok Bhagat Son of Late Harendra Bhagat
+                  11. Mahendra Bhagat Son of Late Lochan Bhagat
+                  12. Gajendra Bhagat @ Gandra Bhagat Son of Late Lochan Bhagat
+                  13. Santosh Bhagat Son of Late Devi Lal Bhagat
+                  14. Chunchun Bhagat Son of Late Devi Lal Bhagat
+                  15. Dinesh Bhagat @ Kasar Bhagat Son of Devi Lal Bhagat.
+                   All resident of village - Chaita Devi Rai Tola, Police Station - Pakaridayal,
+                  District - East Champaran.
+
+                                                                                   .... ....   Petitioners
+                                                         Versus
+                  The State of Bihar
+
+                                                                  .... .... Opposite Party
+                  ======================================================
+                  Appearance :
+                  For the Petitioner/s     :  Mr. Anil Kumar
+                  For the Opposite Party/s   : Mrs. Veena Kumari Jaiswal (App)
+                  ======================================================
+                  CORAM: HONOURABLE MR. JUSTICE RAKESH KUMAR
+                  ORAL ORDER</pre>
+
+<p id="p_1">2.   18-06-2015                  Heard Sri Anil Kumar, learned counsel for petitioners
+
+                  and Smt. Veena Kumari Jaiswal, learned Addl. Public Prosecutor.
+
+</p><p id="p_2">                                 Fifteen petitioners, apprehending their arrest in
+
+                  Pakaridayal P.S. Case No. 271 of 2014 registered for the offence
+
+                  under <a href="/doc/1258372/" id="a_1">Sections 147</a>, <a href="/doc/763672/" id="a_2">148</a>, <a href="/doc/999134/" id="a_3">149</a>, <a href="/doc/162506/" id="a_4">447</a>, <a href="/doc/185764/" id="a_5">311</a>, <a href="/doc/1011035/" id="a_6">323</a>, <a href="/doc/455468/" id="a_7">307</a>, <a href="/doc/1101188/" id="a_8">379</a> &amp; <a href="/doc/555306/" id="a_9">504</a> of
+
+                  the Indian Penal Code, have prayed for grant of anticipatory bail.
+<span class="hidden_text" id="span_1"> Patna High Court Cr.Misc. No.20099 of 2015 (2) dt.18-06-2015</span>
+
+<span class="hidden_text" id="span_2">                                           2/3</span>
+
+
+
+
+</p><p id="p_3">                             Learned counsel for petitioners submits that ofcourse,
+
+             <a href="/doc/455468/" id="a_10">section 307</a> of the I.P.C. has been incorporated in the body of the
+
+             F.I.R., on perusal of the F.I.R. as well as injury report, it is evident
+
+             that no offence under <a href="/doc/455468/" id="a_11">Section 307</a> of the I.P.C. is made out. He
+
+             further submits that on perusal of the F.I.R. itself, it is evident that
+
+             land dispute in between the parties was going on since long and
+
+             there was litigation in between the parties. He further submits that
+
+             in this case, alleged occurrence had taken place on 31-10-2014,
+
+             however; much belatedly on 09-11-2014, F.I.R. was lodged. From
+
+             the petitioners' side also, one another F.I.R. was lodged for the
+
+             offence under <a href="/doc/455468/" id="a_12">Section 307</a> &amp; other allied sections of the <a href="/doc/1569253/" id="a_13">I.P.C</a>.,
+
+             vide Pakaridayal P.S. Case No. 275 of 2014.
+</p>
+<p id="p_4">                             Learned Addl. Public Prosecutor has opposed the
+
+             prayer of anticipatory bail.
+</p>
+<p id="p_5">                             Besides hearing, I have also perused the materials
+
+             available on record. It appears that there is general and omnibus
+
+             allegation and in the occurrence, no lethal weapon has been used.
+
+             It is also a fact that litigation in between the parties was going on.
+
+</p><p id="p_6">                              In view of the facts and circumstances, the Court is of
+
+             the opinion that it is a fit case for extending the privilege of
+
+             anticipatory bail to all the petitioners.
+</p>
+<p id="p_7">                              Accordingly, let the aforesaid petitioners, namely;
+<span class="hidden_text" id="span_3">        Patna High Court Cr.Misc. No.20099 of 2015 (2) dt.18-06-2015</span>
+
+<span class="hidden_text" id="span_4">                                                  3/3</span>
+
+
+
+
+</p><p id="p_8">                    1.Raj Narayan Bhagat, 2. Sonelal Bhagat @ Sona Lal Bhagat,
+
+</p><p id="p_9">                    3.Munilal Bhagat, 4. Anuthalal Bhagat, 5. Lalan Bhagat,
+
+</p><p id="p_10">                    6.Pradeep Bhagat, 7. Chandrika Bhagat, 8. Harendra Bhagat,
+
+</p><p id="p_11">                    9.Rajesh Bhagat, 10. Ashok Bhagat, 11. Mahendra Bhagat,
+
+</p><p id="p_12">                    12.Gajendra Bhagat @ Gandra Bhagat, 13. Santosh Bhagat,
+
+</p><p id="p_13">                    14.Chunchun Bhagat and 15. Dinesh Bhagat @ Kasar Bhagat be
+
+                    enlarged on bail in the event of their arrest or surrender before the
+
+                    court below within a period of one month from today on
+
+                    furnishing bail-bonds of Rs. 10,000/- (ten thousand) each with two
+
+                    sureties of the like amount each to the satisfaction of learned Sub-
+
+                    Divisional       Judicial      Magistrate,        Sikrahana   at   Motihari   in
+
+                    connection with Pakaridayal P.S. Case No. 271 of 2014, subject to
+
+                    condition as laid down under <a href="/doc/1692057/" id="a_14">Section 438(2)</a> of the Cr.P.C.</p><pre id="pre_2">
+
+
+
+                                                                              (Rakesh Kumar, J.)
+Anay
+
+
+ U        T
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

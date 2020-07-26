@@ -1,0 +1,360 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mrs Rita Bhalla &amp; Anr vs State (Govt Of Nct Of Delhi) &amp; Anr on 23 September, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/148955366/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 16 docs 
+      
+        - [<A HREF="/search/?formInput=cites:148955366">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/99487/">Section 156(3) in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1439698/">The Part B States (Laws) Act,   1951</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/518086/">Section 160 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/4266/">Section 308 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/378667/">Section 154(1) in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 0 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/186066295/">Rita Bhalla vs The State on 5 September, 2019</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/148955366/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/148955366/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/148955366/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Mrs Rita Bhalla &amp; Anr vs State (Govt Of Nct Of Delhi) &amp; Anr on 23 September, 2016</div><pre id="pre_1">*    IN THE HIGH COURT OF DELHI AT NEW DELHI
+%                                      Decided on: 23rd September , 2016
+
++         CRL.M.C. 3532/2016
+
+     MRS RITA BHALLA &amp; ANR
+                                                         ..... Petitioner
+                     Represented by:     Mr.Manish Bhasin, Adv.
+
+                     versus
+
+     STATE (GOVT OF NCT OF DELHI) &amp; ANR
+                                                         ..... Respondent
+                     Represented by:     Mr. Amit Ahlawat, APP with
+                                         ASI Satyabir Singh PS
+                                         Mianwali Nagar.
+
++         CRL.M.C. 3533/2016
+
+     ARPIT BHALLA &amp; ANR
+                                                         ..... Petitioner
+                     Represented by:     Mr.Manish Bhasin, Adv.
+
+                     versus
+
+     STATE (GOVT OF NCT OF DELHI) &amp; ANR
+                                                         ..... Respondent
+                     Represented by:     Mr. Amit Ahlawat, APP with
+                                         ASI Satyabir Singh PS
+                                         Mianwali Nagar.
+
+
+CORAM:
+HON'BLE MS. JUSTICE MUKTA GUPTA
+
+
+MUKTA GUPTA, J. (ORAL)
+</pre>
+<span class="hidden_text" id="span_1">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                  Page 1 of 6</span>
+<p id="p_1"> Crl.M.A. 14934/2016 in CRL.M.C. 3532/2016
+Crl.M.A. 14936/2016 in CRL.M.C. 3533/2016
+
+      Exemptions allowed subject to just exceptions.
+</p><p id="p_2">CRL.M.C. 3532/2016 &amp; Crl.M.A. 14935/2016 (stay)
+CRL.M.C. 3533/2016 &amp; Crl.M.A. 14937/2016 (stay)
+
+</p><p id="p_3">1.    The four petitioners in the two writ petitions are family members and
+seek quashing of the order dated 28th October, 2015 whereby directions were
+issued by the learned Metropolitan Magistrate to register FIR on the
+complaint of respondent No.2, dismissing the complaint case bearing No.
+CC 63/1/15 and application under <a href="/doc/99487/" id="a_1">Section 156(3)</a> Cr.P.C. and quashing of
+the order dated 29th August, 2016 in Criminal Revision No.47/2/15 passed
+by the learned ASJ remanding back the matter to the learned Metropolitan
+Magistrate giving liberty to the respondent No.2 to file an affidavit in
+support of her application under <a href="/doc/99487/" id="a_2">Section 156(3)</a> Cr.P.C. and thereafter to
+proceed in accordance with law.
+</p><p id="p_4">2.    Learned counsel for the petitioner contends that on the incident dated
+11th November, 2013 two FIRs were registered one being on the complaint
+of    Arpit    Bhalla    i.e.     FIR   No.102/2014      under     <a href="/doc/838469/" id="a_3">Sections
+452</a>/<a href="/doc/1540253/" id="a_4">326</a>/<a href="/doc/4266/" id="a_5">308</a>/<a href="/doc/180217/" id="a_6">506</a>/<a href="/doc/986493/" id="a_7">218</a>/<a href="/doc/1897847/" id="a_8">120B</a>/<a href="/doc/37788/" id="a_9">34</a> IPC against the husband of respondent No.2
+and the other co-accused and the other being FIR No.354/2013 under <a href="/doc/518086/" id="a_10">Section
+160</a> IPC on the complaint of the Police Officer ASI Satbir Singh against both
+Arpit Bhalla and Iqbal Singh. It is alleged that the complainant respondent
+No.2 filed the complaint case bearing No.63/1/15 after FIR was registered
+against her husband and others on the complaint of Arpit Bhalla belatedly
+after more than one and a half year of the incident and thus learned Trial
+
+
+<span class="hidden_text" id="span_2">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                     Page 2 of 6</span>
+ Court could not have taken any action thereon. Further, directions under
+<a href="/doc/99487/" id="a_11">Section 156(3)</a> Cr.P.C. have been passed without application of mind and the
+learned ASJ without noting the contentions of the petitioners remanded back
+the matter only for taking the affidavit of the complainant Baljeet Kaur on
+record and thereafter passing appropriate orders in accordance with law.
+</p><p id="p_5">3.    On 11th November, 2013 a quarrel took place wherein Arpita Bhalla
+his father A.C. Bhalla, mother Rita Bhalla and sister Pratishtha Bhalla were
+on one side and Iqbal Singh and his wife Baljeet Kaur were on the other side.
+Both the parties are neighbor being residents of A-194 and A-193 Ashoks
+Enclave, Peera Garhi, Delhi respectively. Pursuant to the quarrel on the
+complaint of ASI Satbir Singh FIR No. 342/2013 under <a href="/doc/518086/" id="a_12">Section 160</a> IPC was
+registered on the same day and both Arpit Bhalla and Iqbal Singh were
+named as accused. Arpit Bhalla made a complaint to the Police and since no
+action was taken on his complaint he filed a complaint before the learned
+Metropolitan Magistrate in 2013 itself whereon FIR No. 102/2014 was
+registered at PS Mianwali Nagar under <a href="/doc/1439698/" id="a_13">Sections 452</a>/<a href="/doc/1439698/" id="a_14">326</a>/<a href="/doc/1439698/" id="a_15">308</a>/<a href="/doc/1439698/" id="a_16">506</a>/<a href="/doc/1439698/" id="a_17">218</a>/<a href="/doc/1439698/" id="a_18">120-</a>
+B/34 <a href="/doc/1569253/" id="a_19">IPC</a> on 19th February, 2014. Baljeet Kaur filed a complaint as noted
+above being complaint case No.63/1/15 wherein she gave the complete
+history and the incident that took place on the evening/ night of 11 th
+November, 2013. In the complaint she alleged that she was filthily abused
+by accused No.1 to 3 i.e. Arpit Bhalla and his parents and accused No.4 i.e.
+sister of Arpit Bhalla also tried to let her dog loose on the husband of the
+complainant, allegations under <a href="/doc/203036/" id="a_20">Section 354</a> IPC were leveled against
+A.C.Bhalla and that Arpit Bhalla beat her on the face and ear. The fact that
+two FIRs one on the complaint of ASI Satbir Singh and the other on the
+complaint of Arpita Bhalla were registered was mentioned in the complaint.
+</p>
+<span class="hidden_text" id="span_3">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                      Page 3 of 6</span>
+<p id="p_6"> It was also stated that the MLC report and CCTV footage of the alleged
+place of occurrence was also handed over which showed that her modesty
+was outraged besides abusive language being used however still no FIR was
+registered on her complaint. The learned Metropolitan Magistrate vide the
+order dated 28th October, 2015 directed registration of FIR on the complaint
+of Baljeet Kaur under appropriate sections of law and directed the SHO to
+file a final report or charge-sheet under <a href="/doc/1439698/" id="a_21">Section 173</a> (2) <a href="/doc/445276/" id="a_22">Cr.P.C</a>. as per the
+result of investigation on completion thereof.
+</p><p id="p_7">4.    Assailing this order dated 28th October, 2015 learned counsel for the
+petitioner states that there is no application of mind by the learned Trial
+Court while directing registration of FIR.
+</p><p id="p_8">5.    A perusal of the impugned order which spans into two and a half
+pages noted the allegations and that on 11th November, 2013 the accused
+persons attacked the complainant and her husband and outraged the modesty
+of the complainant and even after the incident they were still using the
+abusive language. Relying upon the decision of the Supreme Court in Lalita
+Kumari Vs. Govt. of U.P. (2014) 2 SCC 1 the Court noted that since the
+complaint discloses commission of a cognizable offence the Police was
+bound to register the FIR. However the Court further cautioned that the
+order will not be treated as a direction to the SHO to immediately arrest the
+accused and that they will first investigate the matter and find out whether
+actually any offence was committed or not and the investigating officer may
+arrest the accused only if the circumstances so warrant. Thus it cannot be
+held that the Court did not apply itself while passing this order.
+</p><p id="p_9">6.    However, needless to state that when the petitioner took the matter to
+revision, the learned ASJ noting the facts also noted that no affidavit in
+
+<span class="hidden_text" id="span_4">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                         Page 4 of 6</span>
+ support of the complaint was filed and remanded back the matter for re-
+consideration.     Supreme Court in the decision reported as Priyanka
+Srivastava and Anr. Vs. State of Uttar Pradesh &amp; Ors. (2015) 6 SCC 287
+held:
+</p><blockquote id="blockquote_1">        "30. In our considered opinion, a stage has come in this
+        country where <a href="/doc/99487/" id="a_23">Section 156(3)</a> CrPC applications are to be
+        supported by an affidavit duly sworn by the applicant who seeks
+        the invocation of the jurisdiction of the Magistrate. That apart,
+        in an appropriate case, the learned Magistrate would be well
+        advised to verify the truth and also can verify the veracity of the
+        allegations. This affidavit can make the applicant more
+        responsible. We are compelled to say so as such kind of
+        applications are being filed in a routine manner without taking
+        any responsibility whatsoever only to harass certain persons.
+        That apart, it becomes more disturbing and alarming when one
+        tries to pick up people who are passing orders under a statutory
+        provision which can be challenged under the framework of the
+        said Act or under <a href="/doc/1712542/" id="a_24">Article 226</a> of the Constitution of India. But it
+        cannot be done to take undue advantage in a criminal court as
+        if somebody is determined to settle the scores.
+</blockquote><blockquote id="blockquote_2">        31. We have already indicated that there has to be prior
+        applications under <a href="/doc/378667/" id="a_25">Sections 154(1)</a> and <a href="/doc/1622626/" id="a_26">154(3)</a> while filing a
+        petition under <a href="/doc/99487/" id="a_27">Section 156(3)</a>. Both the aspects should be
+        clearly spelt out in the application and necessary documents to
+        that effect shall be filed. The warrant for giving a direction that
+        an application under <a href="/doc/99487/" id="a_28">Section 156(3)</a> be supported by an
+        affidavit is so that the person making the application should be
+        conscious and also endeavour to see that no false affidavit is
+        made. It is because once an affidavit is found to be false, he will
+        be liable for prosecution in accordance with law. This will
+        deter him to casually invoke the authority of the Magistrate
+        under <a href="/doc/99487/" id="a_29">Section 156(3)</a>. That apart, we have already stated that
+        the veracity of the same can also be verified by the learned
+        Magistrate, regard being had to the nature of allegations of the
+        case. We are compelled to say so as a number of cases
+        pertaining to fiscal sphere, matrimonial dispute/family disputes,
+
+
+<span class="hidden_text" id="span_5">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                          Page 5 of 6</span>
+       commercial offences, medical negligence cases, corruption
+      cases and the cases where there is abnormal delay/laches in
+      initiating criminal prosecution, as are illustrated in Lalita
+      Kumari[(2014) 2 SCC 1 : (2014) 1 SCC (Cri) 524] are being
+      filed. That apart, the learned Magistrate would also be aware
+      of the delay in lodging of the FIR."
+</blockquote>
+<p id="p_10">7.    In view of the law laid down by the Supreme Court it cannot be held
+that the impugned order of the learned ASJ remanding the matter to the
+learned Metropolitan Magistrate seeking affidavit of the complainant in
+support of the complaint and then passing of directions as warranted suffers
+from any illegality.
+</p><p id="p_11">8.    I find no merit in the two petitions. The petitions and applications are
+dismissed.
+</p>
+<p id="p_12">                                                         (MUKTA GUPTA)
+                                                            JUDGE
+SEPTEMBER 23, 2016
+'ga'
+
+
+
+
+<span class="hidden_text" id="span_6">CRL.M.C. 3532/2016 &amp; CRL.M.C. 3533/2016                      Page 6 of 6</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

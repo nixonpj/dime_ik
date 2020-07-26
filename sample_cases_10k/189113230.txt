@@ -1,0 +1,608 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>The Management Contested The ... vs Unknown on 22 January, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/189113230/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/500379/">The Industrial Disputes Act,   1947</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/189113230/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/189113230/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=khatri">khatri</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=KK%20SHARMA">KK SHARMA</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conciliation%20proceedings">conciliation proceedings</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=back%20wage%20and%20reinstatement">back wage and reinstatement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20full%20and%20final%20settlement">no full and final settlement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=idbi">idbi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=assistant%20commissioner%20of%20labour">assistant commissioner of labour</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=final%20claim">final claim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=full%20back%20wages">full back wages</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">The Management Contested The ... vs Unknown on 22 January, 2008</div><div class="doc_author">Author: Sh. Sudesh Kumar</div>
+
+<pre id="pre_1">IN THE COURT OF SH. SUDESH KUMAR PRESIDING OFFICER
+     LABOUR COURT No.XX FAST TRACK KKD. COURTS DELHI
+
+ID 36/2006 (Old No.184/1995)          BETWEEN
+
+
+THE MANAGEMENT OF
+M/s COOLADE BEVERAGES LTD
+60, Shivaji Marg,
+New Delhi 110 015                                ...MANAGEMENT
+
+            AND
+
+WORKMEN RAVINDER SHARMA &amp; K.K.KHATRI
+c/o All India Industrial &amp;Commercial Workers' Union
+161-E, Kamla Nagar,
+Delhi 110 007                                 ....WORKMEN
+
+Date of receipt of reference             20.7.1995
+Date of hearing the final arguments      Not heard as the matter got
+                                         settled between the parties
+Date of award                            22.1.2008
+
+A W A R D
+
+            Workmen Ravinder Sharma &amp; KK Khatri              have raised an
+
+Industrial dispute against the management of M/s Coolade Beverages Ltd,
+
+for termination of their services by the management and on being satisfied
+
+with regard to existence of an Industrial Dispute between the workmen &amp;
+
+the management the appropriate Government vide order no. F.24(1237)/95-
+
+Lab/20545-50 dated 18.7.1995 referred the Industrial Dispute to the Court
+
+with the following terms of reference:
+
+            Whether the services of S/Sh.Ravinder Sharma &amp; KK Khatri
+            have been terminated illegally and/or unjustifiably by the
+            management, and if so, to what relief are they entitled and
+            what directions are necessary in this respect?
+                                     -2-                     ID     36/2006
+
+               Workmen Ravinder Sharma &amp; KK Khatri filed their separate
+
+statements of claim. Workman Ravinder Sharma has stated that he was
+
+appointed   with the management with effect from 16.9.1985 and was
+
+designated as Supervisor. He was performing all his duties with his own
+
+hands and for the name sake, he was a Supervisor. His last drawn salary
+
+was Rs.5,222/- per month. The management had been changing the
+
+designation of the workman from time to time and lastly he was designated
+
+as Assistant Marketing Manager but during all this period, his duties were
+
+not changed. He was neither authorized to appoint anybody or to charge
+
+sheet anybody nor to terminate anybody. He had no financial power. The
+
+workman could not understand the malafides of the management for
+
+changing his designation from time to time but lastly when his services
+
+were abruptly terminated illegally and unjustifiably without any charge
+
+sheet, notice or enquiry and even without completing any legal formalities
+
+by the management, then he was told by the management that his
+
+designations have been changed by the management intentionally so that he
+
+may not be covered within the definition of workman under the <a href="/doc/500379/" id="a_1">ID Act</a>. The
+
+management sent one cheque amounting to Rs.25,297.75 which the
+
+workman received under protest without prejudice to his claim and
+
+contentions including his claim for reinstatement in service with continuity
+
+of service and full back wages. The workman filed complaint before the
+                                     -3-                     ID 36/2006
+
+Assistant Labour Commissioner. The management did not turn up before
+
+the Assistant Labour Commissioner. The workman filed claim before the
+
+Conciliation officer. The management did not co-operate in the conciliation
+
+proceedings and the conciliation proceedings failed and the matter was
+
+referred to the Court for adjudication. Accordingly it has been prayed that
+
+the management may be directed to reinstate the workman with continuity
+
+of service and full back wages along with consequential benefits.
+
+               Workman KK Khatri in his statement of claim has stated
+
+that he was appointed with the management with effect from 1.10.1985
+
+and his services were terminated with effect from 6.1.1995 without any
+
+charge sheet, notice or enquiry and his last drawn salary was Rs.3,040/- per
+
+month. Initially he was kept as a Salesman cum driver, but he had to
+
+perform miscellaneous other duties and had to work for more than 12 hours
+
+a day without any overtime. The management decided to terminate him
+
+and he was designated as Depot Incharge but his duties remained the same.
+
+He was neither authorized to appoint anybody or to charge sheet anybody
+
+nor to disburse any payment. He was Depot Incharge for name sake only.
+
+His services were terminated illegally, wrongfully and unjustifiably with
+
+effect from 6.1.1995 and he was paid Rs.19,210.02 through two cheques
+
+which the workman accepted under protest without prejudice to his claim.
+
+The workman through his Union filed a complaint before the Assistant
+                                     -4-                     ID 36/2006
+
+Labour Commissioner but the management did not turn up before the
+
+Assistant Labour Commissioner. The workman filed his claim before the
+
+Conciliation officer but the management did not co-operate in the
+
+conciliation proceedings and the conciliation proceedings failed and the
+
+matter was referred to the Court for adjudication. Accordingly it has been
+
+prayed that the management may be directed to reinstate the workman with
+
+continuity of service and full back wages along with consequential benefits.
+
+
+
+               The management contested the claim of the workmen and
+
+filed separate written statements to the claim of both the workmen. In
+
+reply to the statement of claim of workman Ravinder Sharma, it has been
+
+submitted that the applicant is not a workman within the meaning and
+
+definition of section 2(s) of the Industrial Dispute Act 1947. He was
+
+employed as Assistant Marketing Manager who was responsible to ensure
+
+that the Company achieves the sales target and the promotion scheme in
+
+respect of company's products are effectively implemented in the market by
+
+ensuring that the dealers/retailers are provided with the benefits under such
+
+scheme. He was overall Incharge of the Salesman and 17 Salesman, 4
+
+Sales Executives and two Salesclerks were working under his control &amp;
+
+supervision. He used to recommend to the Marketing Manager grant of
+
+annual increments, promotions and transfers from one route to another. He
+                                     -5-                     ID 36/2006
+
+also used to recommend the applications of the employees for loan and he
+
+was also responsible for timely delivery of company's products in the
+
+market. He was also Officer responsible in respect of grant of leave, grant
+
+of compensatory leave, against extra work done, verification of attendance
+
+record and such other supervisory, administrative, managerial and sales
+
+promotion activities. He was also authorized to give special discount to the
+
+Dealers to promote the sales of the company's products. In discharge of his
+
+such duties, he used to report directly to the Marketing Manager &amp; the
+
+Senior Marketing Manager. The applicant was one of the highest paid
+
+employees in the establishment. He was paid an amount of Rs.5,282/-per
+
+month including basic salary, house rent allowance, conveyance
+
+reimbursement etc and he was being paid average Rs.2,000/- per month as
+
+target incentive. The applicant joined the services of the management on
+
+16.9.1985</pre><p id="p_1"> and he was designated as Sales Supervisor and thereafter with
+
+effect from 1.4.1988 he was promoted as Senior Sales Supervisor.
+
+However on 9.8.1993 he voluntarily resigned from the services of the
+
+company. Thereafter he again approached the management and requested
+
+for employment and he again joined the services of the company on
+
+23.8.1993 as Assistant Marketing Manager. the post held by him at the
+
+time, he resigned from the company. The management has denied the other
+
+averments made by the claimant in his statement of claim and has
+</p><p id="p_2">                                      -6-                        ID 36/2006
+
+submitted that the services of the applicant were discharged strictly in
+
+accordance with his contract of employment and subsequently the applicant
+
+settled his dues in full &amp; final and received an amount of Rs.25,297.75. The
+
+reference is wholly misconceived and untenable. Accordingly it has been
+
+prayed that an award may be passed holding that the dispute is not
+
+maintainable and the applicant is not entitled to any relief.
+
+</p><p id="p_3">               In reply to the statement of claim of workman KK Khatri, it
+
+has been submitted that the applicant is not a workman within the meaning
+
+and definition of section 2(s) of the Industrial Dispute Act 1947. He was
+
+employed as Depot Incharge who was responsible to ensure timely
+
+movement of company's fleet of vehicles         for sending out company' s
+
+products to the market.       He was independently responsible for the
+
+performance of duties by the 22 Salesman. working under his supervision
+
+and control who operate on 19 routes in parts of Trans-Yamuna &amp; Central
+
+Delhi. Such salesman would report to the applicant for their requirement of
+
+the company's products and also to redress any problem encountered by
+
+them in respect of either company's vehicle, products or company's
+
+activities in the market. The applicant was responsible for the 15 staff
+
+employed in the Shipping department such as checkers, supervisors and
+
+workers. The applicant was also responsible for security arrangements
+
+including the security report which was submitted to him by the Security
+</p><p id="p_4">                                     -7-                      ID 36/2006
+
+supervisors. Such reports were duly considered by him and thereafter the
+
+reports were sent for necessary &amp; appropriate action to the factory manager
+
+or to the Marketing Manager.       The applicant was also responsible for
+
+procurement of stocks from the factory and to ensure that no flavour or
+
+product was either in short supply or not delivered to the customers as per
+
+their requirements. He had full, complete and independent authority in the
+
+discharge of these duties.    It has been denied that the services of the
+
+applicant were terminated on 6.1.1995. It has been submitted that in fact
+
+the applicant tendered his resignation from the services of the company on
+
+6.1.1995 which was duly accepted and thereafter he was paid his dues in
+
+full &amp; final for which he issued a clean receipt. He also collected a service
+
+certificate from the management. The management has denied all other
+
+allegations made by the applicant against the management. It has been
+
+stated that the management attended the conciliation proceedings but the
+
+reference has been made without consideration of the true facts.
+
+Accordingly it has been prayed that an award may be passed in favour of
+
+the management along with costs.
+</p>
+<p id="p_5">
+
+</p><p id="p_6">          Both the workmen filed their separate rejoinder and controverted
+
+the averments made by the management and reiterated their stand.
+</p><p id="p_7">                                       -8-                  ID 36/2006
+
+           From the pleadings of the parties, following issues were framed:
+
+</p><p id="p_8">1. Whether both the claimants are not workmen as alleged?OPM
+
+</p><p id="p_9">2. As per terms of reference?
+</p>
+<p id="p_10">
+</p><p id="p_11">               When the matter was at the stage of workmen evidence,
+
+boththe parties arrived at a settlement.
+</p>
+<p id="p_12">
+
+</p><p id="p_13">                  Workman Ravinder Sharma has stated that he has settled
+
+the matter with the management for Rs.50,000/-. He received Rs.50,000/-
+
+through Bank Draft No. 297214 dated 16.1.2008 drawn on IDBI Bank, KG
+
+Marg, New Delhi from the management today in the Court towards full
+
+&amp; final settlement of his claim against the management. Now he has no
+
+claim against the management.        He will not claim reinstatement, back
+
+wages or any       other monetary or non monetary benefit from the
+
+management. The matter may be disposed of in terms of settlement. Joint
+
+application which is Ex.C-1 bears his signatures at point A. The receipt
+
+dated 22.1.2008 Ex.C-2 bears his signatures at point A. Statement of
+
+workman Ravinder Sharma recorded.
+</p>
+<p id="p_14">                  Sh.Deepak Changa son of Sh.KK Changa Manager
+
+(Accounts) of the management has stated that the matter has been settled
+
+with the workman for Rs.50,000/- towards full &amp; final claim of the
+
+workman against the management. He has paid Rs.50,000/- through Bank
+</p><p id="p_15">                                      -9-                     ID 36/2006
+
+Draft No. 297214 dated 16.1.2008 drawn on IDBI Bank, KG Marg, New
+
+Delhi to the workman today in the Court towards full &amp; final settlement of
+
+the claim of the workman against the management. Now the workman has
+
+no claim against the management.           The workman shall not claim
+
+reinstatement, back wages and/or any other monetary or non monetary
+
+benefit from the management. The matter may be disposed of in terms of
+
+settlement. Joint application which is Ex.C-1 bears his signatures at point B.
+
+Statement of Sh.Deepak Changa - Manager (Accounts) of the management
+
+recorded.
+</p>
+<p id="p_16">
+
+</p><p id="p_17">                 Workman KK Khatri         has stated that he has settled the
+
+matter with the management for Rs.50,000/-. He has received Rs.50,000/-
+
+through Bank Draft No. 297215 dated 16.1.2008 drawn on IDBI Bank, KG
+
+Marg,New Delhi from the management today in the Court towards full &amp;
+
+final settlement of his claim against the management. Now he has no
+
+claim against the management.       He will not claim reinstatement, back
+
+wages or any       other monetary or non monetary benefit from the
+
+management. The matter may be disposed of in terms of settlement. Joint
+
+application which is Ex.C-3 bears his signatures at point A. The receipt
+
+dated 22.1.2008 Ex.C-4 bears his signatures at point A. Statement of
+
+workman KK Khatri recorded.
+</p><p id="p_18">                                    -10-                    ID 36/2006
+
+                 Sh.Deepak Changa son of Sh.KK Changa Manager
+
+(Accounts) of the management has stated that the matter has been settled
+
+with the workman for Rs.50,000/- towards full &amp; final claim of the
+
+workman against the management. He has paid Rs.50,000/- through Bank
+
+Draft No. 297215 dated 16.1.2008 drawn on IDBI Bank, KG Marg, New
+
+Delhi to the workman today in the Court towards full &amp; final settlement of
+
+the claim of the workman against the management. Now the workman has
+
+no claim against the management.          The workman shall not claim
+
+reinstatement, back wages and/or any other monetary or non monetary
+
+benefit from the management. The matter may be disposed of in terms of
+
+settlement. Joint application which is Ex.C-3 bears his signatures at point
+
+B.    Statement of Sh.Deepak Changa Manager (Accounts) of the
+
+management recorded.
+</p>
+<pre id="pre_2">                 In view of the statements of     both the workmen and
+
+statement of Manager (Accounts) of the       management,      I am of the
+
+</pre><p id="p_19">considered opinion that the matter has been settled between the parties and
+
+now there is no dispute between the parties. The workmen Ravinder
+
+Sharma &amp; KK Khatri have received Rs.50,000/- (Rupees fifty thousand
+
+only) each, through Bank Drafts from the management towards full and
+
+final settlement of their claim against the management. Now the workmen
+
+Ravinder Sharma &amp; KK Khatri have no claim against the management and
+</p><p id="p_20">                                     -11-                   ID 36/2006
+
+they will not claim reinstatement, back wages or any other monetary and/or
+
+non monetary benefit from the management. Accordingly, now there is no
+
+dispute between the workmen Ravinder Sharma &amp; KK Khatri and the
+
+management. As such, the      award is passed in terms of the settlement
+
+between the parties and the reference is answered accordingly. Copies of
+
+the award be sent to the appropriate Government for publication. File be
+
+consigned to the record room after necessary compliance.</p><pre id="pre_3">
+
+Announced in the open court
+on this 22nd day of January 2008               (SUDESH KUMAR)
+                                   Presiding Officer - Labour Court No.XX
+                                   (Fast Track) Karkardooma Courts Delhi
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

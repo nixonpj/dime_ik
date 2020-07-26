@@ -1,0 +1,372 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Kallappa Rudrappa Chawadi vs The Land Tribunal Ranebennur on 2 January, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/50989555/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/50989555/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/50989555/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/50989555/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=occupancy%20rights">occupancy rights</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=veerabhadrappa">veerabhadrappa</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Kallappa Rudrappa Chawadi vs The Land Tribunal Ranebennur on 2 January, 2013</div><div class="doc_author">Author: Subhash B.Adi</div>
+
+<pre id="pre_1">                           :1:
+
+
+           IN THE HIGH COURT OF KARNATAKA
+
+              CIRCUIT BENCH AT DHARWAD
+
+       DATED THIS THE 2ND DAY OF JANUARY 2013
+
+                         BEFORE
+
+       THE HON'BLE MR.JUSTICE SUBHASH B. ADI
+
+          WRIT PETITION No.13333/2006 (LR)
+
+BETWEEN:
+
+1. KALLAPPA RUDRAPPA CHAWADI
+ S/O. RUDRAPPA CHAWADI SINCE DECEASED
+BY HIS LRS.,
+
+a)   SMT. GANGAVAA, W/O.KALLAPPA
+AGED ABOUT 45 YEARS,
+OCC: AGRICULTURIST
+
+b)   KUM. PARIMALA
+D/O KALLAPPA CHAWADI
+AGED ABOUT 15 YEARS,
+(MINOR REP BY
+HER GUARDIAN HER MOTHER
+PETITIONER NO.1(A)
+
+BOTH ARE R/AT SANNA SANGAPURA VILLAGE
+RANEBENNUR TALUK
+DIST HAVERI.
+
+                                     ... PETITIONERS
+
+(By Sri : S R HEGDE, ADV., )
+
+
+AND
+
+1.    THE LAND TRIBUNAL,
+                          :2:
+
+
+RANEBENNUR
+BY ITS SECRETARY
+TAHSILDAR
+RANEBENNUR
+
+2. THE STATE OF KARNATAKA
+BY ITS SECRETARY
+FOR DEPARTMENT OF REVENUE,
+M.S. BUILDING
+BANGALORE - 01
+
+3. VEERABHADRAPPA KALLAPPA CHAWADI
+SINCE DECEASED BY HIS LRS.,
+
+a) KALLAPPA VEERABHADRAPPA CHAWADI
+S/O. VEERABHADRA KALLAPPA CHAWADI
+AGED ABOUT 50 EYARS
+
+b) SMT KALLAVVA
+W/O. RUDRAIAH NANDIGUDIMATH
+D/O. VEERABHADRAPPA KALLAPPA CHAWADI
+
+
+BOTH ARE AGRICULTURISTS
+R/AT TUMBINAKATTI POST AND VILLAGE
+RANEBENNUR TALUK
+DIST HAVERI
+
+                                      ... RESPONDENTS
+
+(By Sri Y.V. RAVIRAJ, AGA FOR R1 AND R2
+SRI MAHANTESH I. SHIGLI, ADV., FOR R3(A) AND (B))
+
+
+     THIS WRIT PETITION IS FILED PRAYING TO - QUASH THE
+IMPUGNED ORDER DT. 19.2.2004, PASSED BY THE LAND
+TRIBUNAL, RANEBENNUR, THE R1 HEREIN, VIDE ANNEXURE
+N. GRANT AN AD-INTERIM ORDER TO STAY THE
+OPERATION OF THE IMPUGNED ORDER DT. 19.2.2004,
+PASSED BY THE LAND TRIBUNAL, RANEBENNUR, THE R1
+                               :3:
+
+
+HEREIN, VIDE ANNEXURE N. AND TO STAY ALL FURTHER
+PROCEEDINGS THEREON, PENDIGN DISPOSAL OF THE
+ABOVE WRIT PETITION.
+
+    THIS PETITION COMING ON FOR PRELIMINARY
+HEARING THIS DAY, THE COURT MADE THE FOLLOWING:
+
+
+                          ORDER
+</pre>
+
+<p id="p_1">       Petitioner has called in question the order of the Land
+
+Tribunal, Ranebennur, dated 19.02.2004.
+
+
+
+</p><p id="p_2">       2.    The deceased respondent No.3 had made an
+
+application under Section 45 of the Karnataka Land Reforms
+
+Act, in Form No.7 inter alia claiming grant of occupancy
+
+rights in his favour. However, during the pendency of the
+
+proceeding before the Land Tribunal, he died and his legal
+
+representatives R3(a) and R3(b) were brought on record. The
+
+Land   Tribunal,   by   the   impugned   order,   has   granted
+
+occupancy rights in favour of respondent Nos.3(a) and 3(b).
+
+As against the said order, the petitioner is before this Court.
+
+
+
+</p><p id="p_3">       3.    The facts, which are not in dispute are that, the
+
+deceased respondent No.3 had made an application in
+<span class="hidden_text" id="span_1">                                :4:</span>
+
+
+respect of land bearing Sy. Nos.12/1 and 9/1 measuring 7
+
+Acres 22 guntas and 4 Acres 27 guntas of Sanna Sangapura
+
+Village.   Earlier,   the   Land   Tribunal,   by   order   dated
+
+26.09.1977, had rejected the application of the deceased
+
+respondent No.3 as against which, respondent No.3 had filed
+
+writ petition in W.P. No.20965/1993. This Court, by order
+
+dated 29th September 1999, quashed the order of the Land
+
+Tribunal and remitted the matter to the Tribunal for fresh
+
+enquiry.     Before the Tribunal,     Respondent Nos.3(a) and
+
+3(b) produced the record of rights for the period from 1950-
+
+1951 to 1973-1974, wherein the name of the deceased
+
+respondent No.3 is shown in Column No.12(2) as the person
+
+cultivating the land as a tenant. Respondent No.3 had taken
+
+the land on lease for a period of sixteen years on payment of
+
+rent at Rs.62.50Ps. per year and in this regard, he had paid
+
+Rs.1,000/- as advance lease amount.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">      4.     Considering the entry of the name of the
+
+deceased respondent No.3 in cultivators` column and the
+
+registered lease deed, wherein the deceased respondent No.3
+<span class="hidden_text" id="span_2">                                :5:</span>
+
+
+was a lessee, the Land Tribunal has granted occupancy
+
+rights to the legal representatives of respondent No.3.   On
+
+the contrary, no evidence is produced to show or deny the
+
+said facts in this writ petition.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">      5.     Petitioners claims that, out of five members of
+
+the Tribunal, only three members have signed the order.
+
+Therefore, the impugned order is illegal. Further, the copy of
+
+the order was not sent to the petitioners as required under
+
+Section 48(A) (6) if the Karnataka Land Reforms Act, and
+
+lease deed produced by respondents 3(a) and 3(b) dated
+
+10.05.1949 is not a lease, but it is a mortgage.
+
+
+
+</p><p id="p_8">      6.     On interpretation of the documents, it is found
+
+that, though the document, stipulates payment of rent at the
+
+rate of Rs.62.50Ps. per year and in this regard, Rs.1,000/-
+
+was received in advance, there is nothing to suggest that the
+
+said document amounts to a mortgage. Nor it is the case of
+
+the petitioners that they had sought for redemption of the
+
+mortgage.
+</p><span class="hidden_text" id="span_3">                               :6:</span><p id="p_9">
+
+
+</p><p id="p_10">      7.    Having   regard    to   the   material    documents
+
+produced by respondents 2 and 3, the Tribunal has
+
+conferred the occupancy rights in their favour.      I do not find
+
+that, there is any error in the order passed by the Land
+
+Tribunal.
+</p>
+<p id="p_11">
+</p><p id="p_12">      Accordingly, the petition stands dismissed.
+
+
+</p><p id="p_13">                                SD/-
+</p><p id="p_14">                               JUDGE
+
+
+
+
+sma
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

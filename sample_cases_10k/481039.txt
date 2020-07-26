@@ -1,0 +1,391 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: Nookiah vs Unknown on 22 February, 1954</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/481039/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 24 docs 
+      
+        - [<A HREF="/search/?formInput=cites:481039">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/124499472/">The Provincial Small Cause Courts Act, 1887</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/323239/">Section 435 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1290514/">Section 439 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/770661/">Section 436 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/481039/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/481039/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20411">section 411</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=411">411</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20jurisdiction">criminal jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appellate%20jurisdiction">appellate jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=revisional%20jurisdiction">revisional jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20439">s 439</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20439">section 439</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=435">435</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=original%20jurisdiction">original jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=high%20court%20as%20a%20criminal%20court">high court as a criminal court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jurisdiction%20of%20HC">jurisdiction of HC</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jurisdiction%20of%20high%20court">jurisdiction of high court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.%20268">s. 268</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appeal%20does%20not%20lie">appeal does not lie</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appellate%20jurisdiction%20of%20high%20court">appellate jurisdiction of high court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=high%20court%20original%20jurisdiction%20">high court original jurisdiction </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jury">jury</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conferring%20of%20jurisdiction">conferring of jurisdiction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=revisional%20power">revisional power</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=436">436</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">In Re: Nookiah vs Unknown on 22 February, 1954</div><div class="doc_citations">Equivalent citations: AIR 1954 Mad 918, (1954) IIMLJ 406</div>
+
+<div class="doc_author">Author: G Menon</div>
+
+<div class="doc_bench">Bench: G Menon, Rajagopalan</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+Govinda Menon, J.
+</p> 
+
+<p id="p_2"> 1. The first accused in case No. 14 of the Fourth Criminal Sessions of 1953 was charged with two offences. The first was under Section 332, I. P. C., In that he voluntarily caused hurt to a public servant, viz., police constable Masilamani, by injuring him with fingernails while the accused was in his custody. The second charge was under Section 333 I. P. C., that in the course of the same transaction the  accused caused grievous hurt to one Govindaswami, another police constable, while in the discharge of his duties as such public servant by twisting and breaking his left ring finger. So far as the second charge was concerned the Jury unanimously found him not guilty. 
+</p> 
+
+<p id="p_3"> With regard to the first charge, i.e., of an offence under Section 332 I. P. C., for voluntarily causing hurt to Masilamani, the jury were divided in their opinion and as many as six members of the Jury were unable to agree in their conclusions. Such being the case, under Section 305 clause (4) Crl. P. C. the learned Judge directed that the jury be discharged and the accused be tried afresh at the first Criminal Sessions of 1954. Against this order directing a retrial, the first accused has sought to prefer a criminal revision case to this court under Sections 435 and 439, Criminal P. C. The matter was posted before court for preliminary arguments as regards the maintainability of the revision before the same was numbered, since the learned counsel for the petitioner argued that with the introduction of Section 411-A in<a href="/doc/445276/" id="a_1"> the Criminal Procedure Code</a>, the High Court exercising its ordinary criminal jurisdiction and trying an offender at the sessions, is subordinate to the appellate side in that an appeal lies from the original trial either when the accused is acquitted or when he is convicted, the revisional jurisdiction conferred under <a href="/doc/323239/" id="a_2">Sections 435</a> and <a href="/doc/1290514/" id="a_3">439</a>, Criminal P. C. is also attracted and therefore it is open to the petitioner to canvass the correctness of the order of retrial by showing that the verdict of the jury was the result of misdirections and non-directions contained in the learned Judge's charge to the Jury. 
+</p> 
+
+<p id="p_4"> It was further argued that it was not incumbent upon the learned Judge to order a retrial but that he has the power to make an entry under Section 308 Criminal P. C. that the accused need not be tried again. According to the learned counsel these are questions of law which can be successfully urged in revision. 
+</p> 
+
+<p id="p_5"> 2. We have heard elaborate arguments regarding the maintainability from Mr. Chinnappa Reddi the learned counsel for the petitioner and Mr. N. Koteswara Rao, who appeared for the State Prosecutor. Our 'prima facie' impression that no revision can He has been confirmed after the matter has been discussed threadbare at the hearing, and we therefore give our reasons for holding that <a href="/doc/1761003/" id="a_4">Sections 434</a>, <a href="/doc/323239/" id="a_5">435</a> and <a href="/doc/1290514/" id="a_6">439</a>, Criminal P. C. would not enable the appellate side to interfere with non-appealable orders of the learned Judge presiding over the Sessions, or correct, or rectify mistake or error, if any, committed during the trial at the sessions. 
+</p> 
+
+<p id="p_6"> 3. The revisional powers of the High Court conferred under <a href="/doc/1290514/" id="a_7">Section 439</a>, Criminal P. C. can be exercised in the case of any proceeding, the record of which has been called for by itself or which has been reported for orders or which otherwise comes to its knowledge. This contemplates three contingencies of which the first is the calling for the records of a case by the High Court, the second is that some court has reported to the High Court and solicited its orders and the third, which is practically 'ejusdem generis' with the earlier one, that the matter comes to the knowledge of the High Court otherwise, i.e., by a party putting an application or the High Court 'suo motu1 acting. 
+</p> 
+
+<p id="p_7"> So far as the power to call for the records is concerned, the same is laid down in <a href="/doc/323239/" id="a_8">Section 435</a>, Crl. P. C., which is to the effect that the High Court and other courts mentioned therein with which we are not now concerned, may call for an examination of the record of any proceeding before an inferior criminal court situate within the local limits of its Jurisdiction for the purpose of satisfying itself etc. That is, the High Court can call for the records of a proceeding before an inferior criminal court.' Beading therefore <a href="/doc/323239/" id="a_9">Sections 435</a> and <a href="/doc/1290514/" id="a_10">439</a>, Crl. P. C. together, in the case of a High Court before it exercises jurisdiction, in the first of the contingencies mentioned above, the record has to be called for from an inferior criminal court. 
+</p> 
+
+<p id="p_8"> It is argued by the learned counsel for the accused, that the Judge sitting on the original criminal sessions of the High Court is an "inferior" court to the appellate side which hears the appeal and therefore it is competent for the appellate side to call for the record of the sessions when approached by a party for that purpose or 'suo motu' by the appellate side itself. 
+</p> 
+
+<p id="p_9"> We would have had no difficulty in repelling this argument, had it not been for two decisions which have been brought to our notice by the. learned counsel. The first of them is the judgment of Chagla C. J. and Bhagwati J. in '<a href="/doc/368732/" id="a_11">Krishnaji Vithal v. Emperor</a>', AIR 1949 Bom 29 (A), where the learned Judges in similar circumstances have held that the High Court in sessions is an inferior court to the High Court on the appellate side and therefore a revision lies from the order of the High Court in sessions to the appellate side. The learned Judges conceded that the High Court acting in its, original criminal jurisdiction is not a court subordinate to the appellate side of the High Court, but they say that to equate a subordinate court with an inferior court is wrong in principle and such being the case the expression "inferior court" in <a href="/doc/1290514/" id="a_12">Section 439</a>, Crl. P. C. does not carry with it any stigma or suggestion that the court is under the administrative orders of the superior court. 
+</p> 
+
+<p id="p_10"> The learned Judges give expression to their conclusion in the following passage: "In our opinion inferior criminal court only means judicially inferior to the High Court.    Now if one  turns  to <a href="/doc/909219/" id="a_13">Section  6</a>,  the  first  class of criminal courts are courts of session, and courts of session are undoubtedly judicially inferior to the High Court.    The result of the amendment by Act 26 of 1943 is really to put the High Court acting in its original criminal jurisdiction practically in the same category as the court of session, or, perhaps a different criminal court was constituted, which  was the High Court 'acting in its original criminal jurisdiction and an appeal was permitted from that court to the High Court, just as appeals are permitted from the different courts enumerated in <a href="/doc/909219/" id="a_14">Section 6</a>, Crl. P. C. A court is inferior to another court when  an appeal lies from the former to the latter, and the same is the view taken of this expression, by the Calcutta High Court in  'Nobin Krishto Mookerjee   v.   Russick Lair,   10 Cal 268 (B), where the Bench consisting of Mcdonnel and Field JJ. held that inferior criminal court, must be construed to mean 'judicially inferior', that is, a court over which the court or magistrate proceeding under <a href="/doc/323239/" id="a_15">Section 435</a> of the Code has appellate jurisdiction."
+</p> 
+
+<p id="p_11">4. From the above passage, it is clear that what impelled the learned Judges to come to the conclusion was that by the amendment by Act 26 of 1943, a new court is created which is a different criminal court and  an appeal was permitted  from that court to the High Court, and secondly when an appeal lies from one to another, the original court is an inferior court to the appellate court. 
+</p> 
+
+<p id="p_12"> Neither of the two reasons relied upon by the learned Judges commends itself to us. For one thing, a reading of <a href="/doc/445276/" id="a_16">Section 411-A</a>, Crl. P. C. itself shows that there Is no creation of such an inferior court. The section begins by saying that any person convicted on a trial held by a High Court in the exercise of its  original criminal Jurisdiction may appeal to the High Court. This surely means that there is only one court and an appeal lies from one section of it to another. It is impossible' to give a different connotation to the words "High Court" when the same occur in different portions of the same paragraph. The definition of the term "High Court" in <a href="/doc/1329373/" id="a_17">Section 4</a>, Sub-section (1), Clause (i) of the Crl. P. C. does not allow any other interpretation to be put upon these words. It is an inclusive definition and is not explanatory. In relation to any local area, except the Andamans and Nicobar Islands, High Court means the highest criminal court for that area other than the Supreme Court, &amp; where no such court is established under any law for the time being in force, such officer as the State Government may appoint in that behalf. We cannot therefore read two different meanings to the term "High Court", occurring in different parts of the same Sub-paragraph of <a href="/doc/445276/" id="a_18">Section 411-A</a>. 
+</p> 
+
+<p id="p_13"> No doubt in <a href="/doc/445276/" id="a_19">Section 411-A</a> (1) (b) the words used are "appellate court" and from this the learned counsel contends that the Bench hearing the appeal is a different court from that exercising original criminal Jurisdiction in sessions. But the intention js made clear in Sub-section (3), where mention is made of a Division court of the High Court, equating that Division court with the appellate court in Sub-section (1)(b). In Sub-section (4) also it is stated that an appeal lies to the Supreme Court from any order made on appeal by a Division Court of the High Court in respect of which order the High Court certifies that it is a fit case for such appeal. Note the contiguity of the words "Division court of the High Court" and "High court". The Legislature does not certainly intend by using the two expressions in collocation or practically in juxtaposition to lay down two different institutions. 
+</p> 
+
+<p id="p_14"> 5. In this connection we may usefully refer to <a href="/doc/363396/" id="a_20">Sections 266</a> and <a href="/doc/345896/" id="a_21">267</a>, Cr. P. C. where in relation to the original criminal sessions of the High Court, the expression used is High Court, and is separately defined for the purpose. 
+</p> 
+
+<p id="p_15"> 6. Sub-section (2) of <a href="/doc/445276/" id="a_22">Section 411-A</a> clarifies the position still further when the State Government is given the authority to direct the Public Prosecutor to present an appeal to the High Court from any order of acquittal passed by the High Court in exercise of its original criminal jurisdiction. How could there be an appeal to the High Court from an order of acquittal passed by the High Court, in the exercise of its original criminal jurisdiction, unless the two courts are. the same, because in so far as the court exercising original criminal jurisdiction is concerned, the expression used is the ''High Court". Therefore what is contemplated is a court functioning in two divisions, an original division from whose judgments an appeal may lie to an Appellate Bench. The two constitute one and the same court, without any inferiority  or superiority. 
+</p> 
+
+<p id="p_16"> Further light is thrown on this aspect by the use of the words in <a href="/doc/445276/" id="a_23">Section 411-A</a> (l) (b) "the Judge who tried the case". If the sessions court is  different court, we would not have the description "the Judge who tried the case". It is therefore clear that a correct interpretation of the section itself shows that the original side of the High Court in exercising criminal jurisdiction is not an inferior court to the appellate side when hearing an appeal. 
+</p> 
+
+<p id="p_17"> 7. Powers of the appellate court in disposing of appeals are contained in <a href="/doc/1487146/" id="a_24">Section 423</a>, Crl. P. C. which has not undergone any serious transformation since the enactment of <a href="/doc/445276/" id="a_25">Section 411-A</a> except by the addition to it in paragraph 1 of the following expression: 
+</p><p id="p_18">  "<a href="/doc/445276/" id="a_26">Section 411-A</a>, Sub-section (2) or <a href="/doc/1791573/" id="a_27">Section 417</a>". 
+</p>
+
+ 
+
+<p id="p_19"> and in dealing with the powers of the appellate court Sub-section (1), Clause (b) of that section lays down that m an appeal from a conviction, the appellate court can order the accused person to be retried by a court of competent jurisdiction subordinate to such appellate court. 
+</p> 
+
+<p id="p_20"> It is nobody's case that the original side is a court subordinate to the appellate court and such being the case, it would be difficult to hold that a remand for a fresh trial by the appellate Bench to the original court is competent. But the matter does not arise here and we express no opinion on that. From the Statement of Objects and Reasons published in the Gazette of India, Parts IV and V relating to Bill No. 11 of 1943, which eventually became Act 26 of 1943, it is clear that the intention was only to give a restricted right of appeal by the enactment of <a href="/doc/445276/" id="a_28">Section 411-A</a>. Paragraph 1 of the Statement of Objects and Reasons read as follows: 
+</p><p id="p_21">  "At the instance of the Bombay High Court the Bombay Government proposed to the Central Government in May 1941 that legislation should be undertaken to provide for a restricted right of appeal in criminal cases against the decisions  of a High Court exercising its original jurisdiction on the lines contained in the Criminal Appeal Act, 1907 (7 Edw VII, C. 23)." 
+</p> 
+
+<p id="p_22"> Reasons were given why such a restricted right of appeal should be given. If, as a matter of fact, the legislature intended that the appellate Bench should exercise revisional jurisdiction, it would certainly have made It clear in the Statements of Objects and Reasons itself. For one thing it is provided by clause 15 of the Letters Patent that an appeal lies from the decision of a single Judge either in the exercise of the original jurisdiction, or sitting on the appellate side, to a Bench of  the High Court in certain matters. But by that restricted right of appeal, nobody has so far thought of arguing that all the provisions of <a href="/doc/1346484/" id="a_29">Section 115</a>, C. P. C. are attracted by which an appellate Bench can exercise revisional Jurisdiction in civil matters over cases decided by a single Judge either sitting on the original side or on the appellate side. The legislature at the time it enacted Act 26 of 1943 was fully aware of the fact that in civil matters there is no right of revision against orders passed on the original side and that there can be a right of appeal only if an order passed by an Original side Judge is a judgment. 
+</p> 
+
+<p id="p_23"> With that knowledge, if the legislature really, wanted to provide for a right of revision, it could easily have made the matter clear and explicit in case a revision is contemplated. That by the conferment of an appellate power to a Bench no new court is created is clear from certain observations contained in the Full Bench judgment in 'S.M. Nathaniel in re', AIR 1949 Mad 481 (CX In that case the question that was debated was whether Act 26 of 1943 was invalid as being 'ultra vires' the Central legislature, and the Full Bench held that it is not. 
+</p> 
+
+<p id="p_24"> The following observation of the learned Chief Justice at page 487 of the Report is worth quoting: 
+</p><p id="p_25">  "But the learned Advocate General tried to maintain that by <a href="/doc/445276/" id="a_30">Section 411-A</a> a new court was being constituted, and therefore, it was only the Provincial Legislature which had the power to pass a law providing for such constitution, as that subject has specially been assigned to it by Entry I in List II. He referred us to the Act of Parliament contained in 7 Edw. VII-C. 23, by which a court of Criminal Appeal was established in England, cosisting of some of the Judges of the Court of King's Bench. That Act is not relevant here because it cannot be said that the High Court as such did not have appellate criminal jurisdiction before Act 26 of 1943. Clause 27 of the Letters Patent constitutes the High Court as a court of Criminal Appeal and clause 26 gives the High Court appellate jurisdiction even in respect of sentences and orders, passed or made in a criminal trial before the courts of original criminal jurisdiction which may be constituted by one or more Judges of the High Court. In my opinion, the power and jurisdiction conferred by clause 26 is really in the nature of appellate jurisdiction and power. It has already been mentioned that under Section 449 of the Code the High Court was already a court exercising appellate criminal jurisdiction in certain cases. The fact that further jurisdiction was superadded to the jurisdiction already possessed by the High Court does not amount to the constitution of a new court. I also consider that it would be an undue straining of the language to construe 'organisation' as comprising providing a right of appeal." 
+</p> 
+
+<p id="p_26"> 8. These observations are binding on us as having emanated from a Full Bench &amp; as such we cannot now brush it aside &amp; agree with the observations of a Division Bench of the Bombay High Court when it stated that Act 26 of 1943 constituted a new court. 
+</p> 
+
+<p id="p_27"> Even earlier, nearly 29 years ago it was sought to be argued in a case reported in  '<a href="/doc/932147/" id="a_31">Kalyanji v. Ram Deen  Lala</a>', AIR 1925 Mad 609(D), that the original side of the High Court was separate court from the appellate side, relying on certain observations in  '<a href="/doc/1932822/" id="a_32">Muniswami  Mudaliar v. Rajaratnam Pillai</a>', AIR 1922 Mad 495  (FB)   (E).    The learned Judges who took part in that judgment, Wallace and Madhavan Nair JJ. did not accept the contention and held that the original side and the appellate side constitute one undivided court.    At page 611 Wallace J. observed as follows: 
+</p><p id="p_28">  "The  difficulties  that  would  follow  in holding that the High Court is not one court but is as many courts as  there are varieties of original and appellate Jurisdictions comprised in it are much greater than the difficulty of reconciling the language of <a href="/doc/621703/" id="a_33">Section 195</a> (3) with  'AIR 1922 Mad 495  (E)'.    I am not prepared to sustain either of  these preliminary objections and they both fail" 
+</p> 
+
+<p id="p_29"> Madhavan Nair J. also at page 613 quoting from  'Jamnadass v. Sabapathi Chetti', 36 Mad 138 (F) held that the original side of the High Court is not a different court from the appellate side. Under these circumstances, even after the enactment of <a href="/doc/445276/" id="a_34">Section 411-A</a> one ought to pause before coming to the conclusion that the two sides of the High Court are different courts. 
+</p> 
+
+<p id="p_30"> 9. The second reason given by the learned Judges of the Bombay High Court, relying upon certain observations contained in-- 10 Cal 268 (B)' is that a court is inferior to another court when an "appeal lies from the former to the latter" and therefore when an appeal is provided from a Judge or Judges trying a sessions case on the original criminal jurisdiction of the High Court, that is an inferior court to the appellate Bench hearing an appeal from it. 
+</p> 
+
+<p id="p_31"> The word inferior is synonymous with the word "subordinate". See pages 1104 and 2069 of Webster's Dictionary. Therefore, if the original side is an inferior court it also is a subordinate court but that is not the contention advanced by the learned counsel as he concedes that the original side is not subordinate to the appellate side.    
+</p> 
+
+<p id="p_32"> Except citing the decision in  10 Cal 268 (B)', the learned Judges 01 the Bombay High Court did. not advance any other reason for holding that it an appeal lay from one court to another, then, the former court is interior to the latter. Apparently, the attention of the learned Judges of the Bombay High Court was not invited to the fact that -- '10 Cal 268 (B)' has been held to be not good law by a Full Bench of five Judges of the same High Court in  '<a href="/doc/148895/" id="a_35">Opendro Nath v. Dukhini Bewa</a>', 12 Cal 473 (FB) (G) Field J. who was one of the Judges constituting the Full Bench and who was also a member of the Division Bench which decided  '10 Cal 268 (B)' revised his view and agreed with the tour other Judges who were of opinion that the better view was that expressed in 'In the matter of the petition of Padmanabha', 8 Mad 18 (FB) (H) and  'Queen Empress v. Piryagopal', 9 Bom 100 (I) which took completely an opposite view. It is clear from the judgment in'12 Cal 473 (FB) (G)' that -- 10 Cal 268 (B)' was no longer held to be good law even in Calcutta  
+ 
+
+</p><p id="p_33"> 10. In -- '8 Mad 18 (FB) (H) a Full Bench of four Judges of our High Court entirely dissented from -- '10 Cal 268 (B)' &amp; this dissent has been accepted as proper and correct by the later Full Bench of the Calcutta High Court in -- '12 Cal 473 (FB) (G)'. 
+</p> 
+
+<p id="p_34"> Under these circumstances, in our opinion, if the attention of the learned Judges of the Bombay High Court had been invited to the later decisions, of the Madras, Bombay and Calcutta High Courts, which have completely differed from tne earlier view of the Calcutta High Court, probably the learned Judges would not have followed --  '10 Cal 268 (B)' as embodying the correct principle. We regret our inability to accept the opinion of the learned Judges of the Bombay High Court which mainly relied upon a decision of the Calcutta High Court, which had not been accepted as good law in subsequent rulings. 
+</p> 
+
+<p id="p_35"> In --  '8 Mad 18 (FB) (H)' this court has held' that a District Magistrate has powers to call for, and examine, the record of a proceeding before a Sub-Divisional Magistrate of the first class even though no appeal lay from the latter to the former. The learned Judges clarified the position by making a distinction as to meaning of the word "subordinate" and "inferior" when used in <a href="/doc/323239/" id="a_36">Sections 435</a>, <a href="/doc/770661/" id="a_37">436</a>, and <a href="/doc/848468/" id="a_38">437</a>. They say that the term "inferior" had to be used in <a href="/doc/323239/" id="a_39">Sections 435</a> and <a href="/doc/770661/" id="a_40">436</a> because in both the sections the court of Session and the District Magistrate are combined and the other magistrates, though subordinate to the District Magistrate, are-not so generally to the court of session. It was-therefore necessary in <a href="/doc/323239/" id="a_41">Sections 435</a> and <a href="/doc/770661/" id="a_42">436</a>, to employ a term applicable to their relations to the magistracy both to the supervising authority and the appellate tribunal, so say the learned Judges. But when they came to <a href="/doc/848468/" id="a_43">Section 437</a> in which the District Magistrate is dealt with separately from the court, of session, they held the use of the term "inferior" was no longer necessary and accordingly they found that the term used is "subordinate". 
+</p> 
+
+<p id="p_36"> Inferiority   does  not  therefore  denote  subordination.    For  example,  provincial  court  of small! causes may be a court inferior to the District Court, but  is  certainly   not   subordinate   to it, because under the <a href="/doc/124499472/" id="a_44">Provincial  Small  Cause Courts Act</a> a District Judge has no supervising or revision authority over the Court of Small Causes.    Therefore though in common parlance, as has already been shown by reference to Webster's Dictionary, the terms "inferior" and "subordinate" may have the same meaning, still under certain conditions. It I cannot be said that they are equal. One thing is therefore clear that the decision in  '8 Mad 18 (FB) (H)' and  '12 Cal 473 (FB) (G)' which have dissented from  '10 Cal 268 (B)' do not lend support to the view that because an appeal lay Irom one court to another, the original court is an inferior court to the appellate court. 
+</p> 
+
+<p id="p_37"> With all respect we find ourselves unable to follow the reasoning of the learned Judges of the Bombay High Court in  'AIR 1949 Born 29 (A)'. 
+</p> 
+
+<p id="p_38"> 11. Mr. Chinnappa Reddi next invited our attention to a Full Bench decision of the Lahore High Court reported in --  '<a href="/doc/463613/" id="a_45">Wahid-ud-Din v. Makhan Lal</a>', AIR 1944 Lah 458 (J). There the learned Judges had to consider the import of <a href="/doc/124499472/" id="a_46">Section 110</a>, C. P. C. and they held that for the purpose of that section a Judge sitting singly, not on the original side but on the appellate side, cannot be considered to be a court immediately below the Bench hearing the Letters Patent Appeal. In the discussion, Din Mohamed J. at page 460 of the report tries to make a distinction between a Judge sitting on the original side of the High Court and a Bench of appellate Judges and was inclined to take the view that a Judge on the original side may be considered to be a Judge immediately below the Bench. 
+</p> 
+
+<p id="p_39"> We do not think that for the purpose of our present discussion any help can be derived from this decision at all. What the learned Judge says is that a Judge sitting on the original side is merely discharging the functions of a trial court and to all intents and purposes, therefore, he is a court of first instance and when an appeal is lodged against his order, as a court he is immediately below the court which hears the appeal. Observations of the Privy Council in --  'Toolsey Fersaud v. Benayek Misser', 23 Cal 918 (PC) (K) were referred to. For the purpose of <a href="/doc/124499472/" id="a_47">Sections 109</a> and <a href="/doc/124499472/" id="a_48">110</a>, O. P. C., it might be conceded that a Judge who decides a suit on the original side may be a court immediately below; but what we have to decide here is whether such a Judge constitutes an "inferior" court. No light is thrown upon that expression by the Full Bench judgment quoted above; nor can we say that the observations of their Lordships of the Judicial Committee in  '23 Cal 918 (PC) (K)' would be of any guide in deciding this question. If at all, there are observations which would show that such a court is not an "inferior" court at all. 
+</p> 
+
+<p id="p_40"> 12. A third contention advanced by the learned counsel is with reference to the first part of Sub-sec. 4 of <a href="/doc/124499472/" id="a_49">Section 439</a>, Cr. P. C., which is to the effect that nothing in the rest of <a href="/doc/124499472/" id="a_50">Section 439</a> would apply to an entry made under <a href="/doc/124499472/" id="a_51">Section 273</a>. 
+</p> 
+
+<p id="p_41"> <a href="/doc/124499472/" id="a_52">Section 273</a> (1), Cr. P. C. says that in trials before the High Court when it appears to the High Court, at any time before the commencement of the trial of the person charged, that any charge or any portion thereof is clearly unsustainable, the Judge may make on the charge an entry to that effect. The procedure contemplated here is that after a case has been committed for trial before the High Court and when it comes up before the Judge, before the commencement of the proceedings, if the Judge is clearly of opinion that any charge or any portion thereof is clearly unsustainable, he may make on the charge an entry to that effect. The effect of making such an entry is that of staying those proceedings upon the charge or portion of the charge 'sine die'. 
+</p> 
+
+<p id="p_42"> What is urged by Mr. Chinnappa Reddi is that if the High Court, in its revisional side, has no jurisdiction to interfere with orders passed by a High Court Judge trying a sessions case there was no necessity for the insertion of the first part of Sub-section (4) of <a href="/doc/124499472/" id="a_53">Section 439</a>. The answer to this argument is contained in the observations of Oldfield J. 'in  '<a href="/doc/74006/" id="a_54">Kunhammad Haji v. Emperor</a>', AIR 1923 Mad 426 at p. 427 (L) where the learned Judge says that notwithstanding the reference in, <a href="/doc/124499472/" id="a_55">Section 439</a> to <a href="/doc/124499472/" id="a_56">Section 273</a> which deals with a question of procedure ordinarily peculiar to trials in the High Court, it does not empower a High Court to revise the judgment of one or more of its own Judges. The learned Judge also referred to the observations of Mitter J. 'In the matter of Gibbons', 14 Cal 42 (FB) (M) to the effect that this clause was inserted 'ex abundante cautela' to prevent any possible conflict with the Letters Patent or other legislation by which the High Courts are affected. It is therefore impossible to consider that at any time there existed a revisional Jurisdiction in a Bench of Judges over orders passed by a singlej Judge Of the same court. That one Judge of a High Court cannot be said to be subordinate to a Bench has been recently held by a Divisional Bench of this court in  'Sahada Reddi v. Venkata, Reddi',  (N). It is not necessary for us to expatiate upon this self-evident proposition. 
+</p> 
+
+<p id="p_43"> 13. Yet another decision which we have to consider is that of the Calcutta High Court reported in  '<a href="/doc/193692857/" id="a_57">Parbati Devi v. State',  (O</a>). Though there are observations in that judgment to the effect that the appellate Bench may exercise powers under <a href="/doc/124499472/" id="a_58">Section 439</a>, Cr. P. C., still ,the actual decision turned upon the application of the inherent power contained in <a href="/doc/124499472/" id="a_59">Section 561-A</a>. The learned Judges do not definitely lay down that there is any revisional jurisdiction in the appellate Bench. In fact the decision in  'AIR 1949 Bom 29 (A)' was referred to by the learned Judges but they did not agree with the observations contained therein. Furthermore what is stated is that when an appeal under <a href="/doc/124499472/" id="a_60">Section 411-A</a> is being heard by the .High Court, it can exercise jurisdiction under the revisional powers. 'Ex debito justiciae' at the hearing of the appeal, if the court is satisfied that certain matters have to be set right then it can exercise its revisional jurisdiction is what has been held by the Calcutta Judges. But as a matter of fact, they are not quite definite on the point, and they have also invoked powers under <a href="/doc/124499472/" id="a_61">Section 561-A</a>. 
+</p> 
+
+<p id="p_44"> R. P. Mookerjee J. in  ' (O)' refers to the anomalous situation created by the interpretation of the sections<a href="/doc/445276/" id="a_62"> of the Criminal Procedure Code</a> in holding that an appellate Bench can have revisional jurisdiction over a single Judge, but still the learned Judge, not without hesitation, has expressed the opinion that it has such power. The basis of the reasoning of the learned Judges, as we understand it, is the fact that <a href="/doc/124499472/" id="a_63">Section 411-A</a> mentioned in <a href="/doc/124499472/" id="a_64">Section 423</a> and therefore while hearing the appeal from the original side, the appellate court has got jurisdiction in certain respects over the original court, which a superior court has over a subordinate court. 
+</p> 
+
+<p id="p_45"> We do not think that this by itself would show that the appellate court, without an appeal before it can exercise any revisional jurisdiction under <a href="/doc/124499472/" id="a_65">Section 439</a> by calling for the records at the request of a party or 'suo motu'. For the reasons given above, we are not inclined to hold that the decision in  ' (O)' can be of any material help to the contentions put forward by Mr. Chinnappa Reddi. 
+</p> 
+
+<p id="p_46"> 14. On behalf of the State our attention was invited to the observation contained in-- 14 Cal 42 (PB) (M)' where the opening words of Section, 439 have been construed by the Calcutta High Court. What the Full Bench says is that for exercising the powers of revision conferred by that section one of the three conditions mentioned there is necessary and they are: (1) the record of any proceeding should have been called for by the High Court; (2) the record of any proceeding has been reported for orders of the High Court; and (3) the record of any proceeding which otherwise comes to the knowledge of the High Court. It is only in these three instances that the High Court can exercise its revisional Jurisdiction. 
+</p> 
+
+<p id="p_47"> At pages 47 and 48 of the report in the above case, Petheram C. J. in considering <a href="/doc/124499472/" id="a_66">Section 439</a> lays down the following: 
+</p><p id="p_48">  "The  only other section relied upon is <a href="/doc/124499472/" id="a_67">Section 439</a>. That section opens in this way, 'In the case of any proceeding the record of which has been called for by itself, or which has been reported for orders, or which otherwise comes to its knowledge, the High Court may' etc. In my opinion, the first lour lines of that section show beyond all possibility of doubt, that the record which is referred to in that section is the record of the same court other than that of the High Court, because it is obvious that what is meant is, the record of the case which has been called up and brought before the High Court, and not the record of the case which is in the High Court itself and which it therefore has in its possession and has no need to call for." 
+</p> 
+
+<p id="p_49"> 15. The three other Judges who took part in the Full Bench decision agreed with the learned Chief Justice. Therefore, in the present case if, as a necessary pre-requisite to the application of <a href="/doc/124499472/" id="a_68">Section 439</a> the record must be the record of some Court other than the High Court as we are of opinion that the original side of the High Court is not a separate court, <a href="/doc/124499472/" id="a_69">Section 439</a> cannot be invoked for the purpose of revising the order made by a Judge sitting in Sessions. Therefore it seems to us that we have no revisional powers over the order passed by Ramaswami J. and the contemplated revision should be summarily rejected.
+</p> 
+
+<p id="p_50">Rajagopalan, J. 
+</p> 
+
+<p id="p_51"> 16. I had the advantage of reading in advance the judgment which my learned brother has just delivered. I respectfully agree with the reasoning and conclusions of my learned brother. In view however of the importance of the subject I should like to place on record some of my reasons for reaching the same conclusion. 
+</p> 
+
+<p id="p_52"> 17. Before the enactment of <a href="/doc/124499472/" id="a_70">Section 411-A</a>, Criminal P. C. by the amending Act 26 of 1943, it was well settled that a Division Bench of a High Court could exercise no revisional jurisdiction under <a href="/doc/124499472/" id="a_71">Section 439</a>, Criminal P. C. over the orders or judgments of a Judge or Judges of that court: Bee '14 Cal 42 (PE) (M)'. A Divisional Bench of a High Court had no appellate jurisdiction either until <a href="/doc/124499472/" id="a_72">Section 411-A</a> provided for an appeal either conviction or against acquittal after trial held by the High Court in the exercise of its original criminal jurisdiction. The revisional jurisdiction of the High Court was left untouched by this amendment, in the sense that it was not enlarged in express terms. As pointed out by my learned brother. Act 26 of 1943 was designed only to create a limited right of appeal against decisions in trials held by the High Court in the exercise of its original criminal jurisdiction. 
+</p> 
+
+<p id="p_53"> The real question for determination in the proceedings before us now is whether the result of <a href="/doc/124499472/" id="a_73">Section 411-A</a>, Criminal P. C. is to make the High Court exercising its original criminal Jurisdiction an inferior court within the meaning of <a href="/doc/124499472/" id="a_74">Section 435</a>, Criminal P. C. that is, a court inferior to the Division court of the High Court referred to in clause 3 of <a href="/doc/124499472/" id="a_75">Section 411-A</a>, Criminal P. C. 
+</p> 
+
+<p id="p_54"> 18. The scheme<a href="/doc/445276/" id="a_76"> of the Criminal Procedure Code</a> is to treat revisional jurisdiction as different from and independent of appellate Jurisdiction.   The distinction is stressed even with reference to the High Court in the definition of the High Court in 8. 4(j)<a href="/doc/445276/" id="a_77"> of the Criminal Procedure Code</a>. " 'High Court' means the highest court of criminal appeal or revision for any local area......" 
+</p> 
+
+<p id="p_55"> Appellate jurisdiction does not necessarily carry with it revisional jurisdiction also. Absence of appellate jurisdiction in no way affects the exercise of revisional jurisdiction if that has been specifically conferred on a court. The High Court exercises no appellate jurisdiction over Magistrates other than the Presidency Magistrates but it has expressly invested with revisional jurisdiction over Magistrates. The District Magistrate exercises no appellate jurisdiction over First Class Magistrates including Sub-Divisional Magistrates. But as they are Magistrates subordinate to him he has revisional jurisdiction; see  '8 Mad 18 (PB) (H)'. 
+</p> 
+
+<p id="p_56"> A Sub-Divisional Magistrate may have appellate jurisdiction over the Magistrate within his sub-division, but it is only a limited revision jurisdiction that is conferred on the sub-Divisional Magistrate-and even that only where he is specially empowered by the Government to exercise powers under <a href="/doc/124499472/" id="a_78">Section 435</a>, Criminal P. C. Even so he has only power to call for records under <a href="/doc/124499472/" id="a_79">Section 435</a>, Criminal p. C. He cannot exercise any of the powers enumerated in <a href="/doc/124499472/" id="a_80">Section 436</a>, Criminal P. C. A First Class Magistrate may be empowered to hear appeals but he cannot be empowered under <a href="/doc/124499472/" id="a_81">Section 435</a>, Criminal P. C. to exercise revision jurisdiction. Appellate Jurisdiction with a total absence of revisional jurisdiction does not therefore appear to be unintelligible or inconsistent with the scheme of the criminal<a href="/doc/1645922/" id="a_82"> Procedure Code</a>. This does not of course answer the question whether the High Court exercising its original criminal jurisdiction is an inferior court in relation to the Division court of a High Court exercising appellate jurisdiction under <a href="/doc/124499472/" id="a_83">Section 411-A</a>, Criminal P. C. 
+</p> 
+
+<p id="p_57"> 19. The language of Sub-sections (1) and (2) of <a href="/doc/124499472/" id="a_84">Section 411-A</a>, Criminal P. C. should suffice to answer the question in the negative. The appeal provided for by <a href="/doc/124499472/" id="a_85">Section 411-A</a>, Criminal P. C. is from the High Court exercising its original criminal jurisdiction to the High Court, that is, from the High Court to the same High Court. 
+</p> 
+
+<p id="p_58"> As pointed out by the Full Bench in  'AIR 1949 Mad 481 (C)', no new court was established when <a href="/doc/124499472/" id="a_86">Section 411-A</a>, Criminal P. C. was enacted, the appellate Jurisdiction the High Court already had, was enlarged. I am not concerned in this case with the question whether when a new appellate court or tribunal is created, the court whose decisions can be appealed from to the appellate court so established is a court inferior within the meaning of <a href="/doc/124499472/" id="a_87">Section 435</a>, Criminal P. C. in relation to that appellate court. 
+</p> 
+
+<p id="p_59"> The question before me is very much more limited and has to be answered primarily with, reference to the language of <a href="/doc/124499472/" id="a_88">Section 411-A</a>, Criminal p. C. which in essence provides for an appeal from the High Court to the same High Court. The Judge-or Judges exercising original criminal jurisdiction are not thereby constituted an inferior court in relation to the Judges constituting a division court of the same High Court exercising appellate jurisdiction. Neither expressly nor by necessary intendment does <a href="/doc/124499472/" id="a_89">Section 411-A</a> constitute the High Court exercising its original criminal Jurisdiction inferior to itself when it exercises the special appellate jurisdiction conferred upon it. by <a href="/doc/124499472/" id="a_90">Section 411-A</a>, Criminal P. C. 
+</p> 
+
+<p id="p_60"> 20. The illustration given by Erie C. J. in Ex Fernandez', (1861) 142 349 (P) fully explains the position of the High Court even after the enactment of <a href="/doc/124499472/" id="a_91">Section 411-A</a>, Criminal P. C. The learned Chief Justice observed at page 368: 
+</p><p id="p_61">  "Now can it be suggested that the Chief Justice sitting at 'nisi prius' is a Judge of an inferior court, merely because one puisne judge or more constituting the court in bane might grant and make absolute a rule for a new trial in a case tried before the Chief Justice? This reduces the argument for the applicant to an absurdity. There never has been any doubt, there can be none, that the Chief Justice or any other Judge sitting at 'nisi prius' possesses for the purpose of the trial all the powers of the court in bane necessary for the effectual trial of a cause, including of course, the power to compel witnesses to give evidence, and to deal with them according to law for improperly refusing to do so. The court held for that purpose is the superior court itself, sitting usually, taut not necessarily by one of its ordinary members with a jurisdiction limited for the time 'to certain special matters', but with all powers of a superior court of record as to such matters and their incidents." 
+</p> 
+
+<p id="p_62"> To adapt the words of Erle C. J. the High Court for the purpose of exercising its original criminal jurisdiction is the superior court itself sitting usually but not necessarily, by one of its ordinary members with a jurisdiction limited for the time to certain special matters but with all the powers of a superior court of record in the High Court, as to such matters and their incidents. 
+</p> 
+
+<p id="p_63"> 21. In denying any revisional jurisdiction to the High Court under <a href="/doc/124499472/" id="a_92">Section 439</a>, Criminal P. C., over the judgment of a Divisional Bench of the same High Court, the Full Bench of the Calcutta High Court pointed out in  '14 Cal 42 (FB) (M)' that the requirement of that section (which is also that of <a href="/doc/124499472/" id="a_93">Section 435</a>) to call for the record etc., could, not be satisfied because the first four lines of that section (<a href="/doc/124499472/" id="a_94">Section 439</a>) show beyond all possibility of doubt that the record which is referred to in that section is the record of some court, other than that of the High Court because it is obvious that what is meant is the record of the case which has been called up and brought before the High Court, and not the record of the case which is in the High Court itself, and which therefore has in its possession, and has no need to call for. That statutory requirement is still there and the observations of Petheram C. J. apply with equal force to the orders passed by the High Court in the exercise of its original criminal jurisdiction. 
+</p> 
+
+<p id="p_64"> No doubt in dealing with the exercise of appellate powers <a href="/doc/124499472/" id="a_95">Section 423(1)</a>, Criminal P. C., requires that the appellate court "shall then send for the record of the case if such record is not already in court." If such record is not already in court in <a href="/doc/124499472/" id="a_96">Section 423(1)</a>, Criminal P. C., is not obviously identical with the requirements of <a href="/doc/124499472/" id="a_97">Section 439(1)</a>, Criminal P. C. the relevant portion of which runs: 
+</p><p id="p_65">  "In the case of any proceedings record of which has been called for by itself or which has been reported for orders or which otherwise comes to its knowledge." 
+</p> 
+
+<p id="p_66"> Further appeal powers have been expressly conferred on the High Court under <a href="/doc/124499472/" id="a_98">Section 411-A</a>, Criminal P, C., and they can be exercised independent of the fact, whether every power conferred by 8. 423, Criminal P. C. can be exercised or not by the High Court in the exercise of its special appellate Jurisdiction under <a href="/doc/124499472/" id="a_99">Section 411-A</a>, Criminal P. C. 
+</p> 
+
+<p id="p_67"> I agree with my learned brother that the question whether the High Court exercising its original criminal jurisdiction is a court "subordinate" within the meaning of <a href="/doc/124499472/" id="a_100">Section 423(l)(b)</a>, Criminal P. C. to the Division Court of the High Court exercising, the appellate jurisdiction conferred upon it by <a href="/doc/124499472/" id="a_101">Section 411-A</a>, Criminal P. C., does not arise for consideration in these proceedings before us; and I refrain from expressing any opinion on that question. 
+</p> 
+
+<p id="p_68"> In my opinion, the question whether the "Division Court" in the exercise of such appellate powers can send for or is bound to send for the record of the case as required by <a href="/doc/124499472/" id="a_102">Section 423(1)</a>, Criminal P. C., does not arise either for consideration in a ease, where we are concerned only with the revisional jurisdiction and not appellate jurisdiction. It is enough for the purposes of this case to point out that the powers under <a href="/doc/124499472/" id="a_103">Section 439</a>, Criminal P. C. as explained in --  '14 Cal 42 (FB) (M)' are still the same even after the enactment of <a href="/doc/124499472/" id="a_104">Section 411-A</a>, Criminal P. C., by the <a href="/doc/1596533/" id="a_105">Amending Act</a> 26 of 1943.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

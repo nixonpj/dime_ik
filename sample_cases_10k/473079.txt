@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>United India Insurance Co. Ltd. vs Pratibha Rathi And Ors. on 17 November, 1994</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/473079/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:473079">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1910042/">Section 96(2) in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1550024/">Section 96 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1281733/">Mangilal vs Parasram And Ors. on 3 November, 1969</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/152999974/">Section 149(2) in The Motor Vehicles Act, 1988</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/473079/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/473079/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2096%20">section 96 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=negligent%20driving">negligent driving</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mplj">mplj</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">United India Insurance Co. Ltd. vs Pratibha Rathi And Ors. on 17 November, 1994</div><div class="doc_citations">Equivalent citations: 1995 (0) MPLJ 250</div>
+
+<div class="doc_author">Author: U Bhat</div>
+
+<div class="doc_bench">Bench: U Bhat, T Shankar</div>
+
+<p id="p_1">ORDER
+ 
+
+U.L. Bhat, C.J.
+</p> 
+
+<p id="p_2">1. Bhagwandas Rathi sustained fatal injuries in a motor vehicle accident in 1987. His heirs filed a claim application before the Motor Accidents Claims Tribunal claiming Rs. 18,69,600/- as compensation from the owner and insurer of the vehicle. The owner and the insurer filed separate objections. The Tribunal held that the accident was a result of rash and negligent driving of the vehicle which was insured. The Tribunal passed an award for Rs. 2.5 lacs and directed the insurer to pay the same. The insurer has filed this appeal challenging the quantum of compensation awarded.
+</p> 
+
+<p id="p_3">2. We have heard the learned counsel for the appellant on the question of maintainability of appeal in the light of <a href="/doc/1910042/" id="a_1">Section 96(2)</a> of the Motor Vehicles Act, 1939, corresponding to <a href="/doc/152999974/" id="a_2">Section 149(2)</a> of the Motor Vehicles Act, 1988.
+</p> 
+
+<p id="p_4">3. The provisions of the two Acts are almost identical. Sub-section (1) of <a href="/doc/1550024/" id="a_3">Section 96</a> states that if a judgment is obtained against the insurer, the insurer shall, subject to the provisions of <a href="/doc/1550024/" id="a_4">Section 96</a>, pay to the person entitled to the benefit of the decree, any sum not exceeding the sum assured payable thereunder as also costs and interest, as if he were the judgment-debtor.
+</p> 
+
+<p id="p_5">4. Sub-section (2) of <a href="/doc/1550024/" id="a_5">Section 96</a> reads thus :
+</p>  
+
+<p id="p_6">"(2) No sum shall be payable by an insurer under sub-section (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the Court of the bringing of the proceedings, or in respect of any judgment so long as execution is stayed thereon pending an appeal; and an insurer to whom notice of the bringing of any such proceeding is so given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely :
+</p>  
+
+<p id="p_7">(a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provisions of <a href="/doc/1406947/" id="a_6">Section 105</a>; or
+ 
+
+</p><p id="p_8">(b) that there has been a breach of a specified condition of the policy, being one of the following conditions, namely :
+</p> 
+
+<p id="p_9">(i) a condition excluding the use of the vehicle -
+</p> 
+
+<p id="p_10">(a) for hire or reward, where the vehicle is one the date of the contract of insurance a vehicle not covered by a permit to ply for hire or reward, or
+ 
+
+</p><p id="p_11">(b) for organised racing and speed testing, or
+ 
+
+</p><p id="p_12">(c) for a permit not allowed by the permit under which the vehicle is used, where the vehicle is a transport vehicle, or
+ 
+
+</p><p id="p_13">(d) without side-car being attached, where the vehicle is a motor cycle;
+</p> 
+
+<p id="p_14">(ii) a condition excluding driving by a named person or persons or by any person who is not duly licensed, or by any person who has been disqualified for holding or obtaining a driving licence during the period of disqualification; or
+ 
+
+</p><p id="p_15">(iii) a condition excluding liability for injury caused or contributed to by conditions of war, civil war, riot or civil commotion; or
+ 
+
+</p><p id="p_16">(c) that the policy is void on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular."
+</p> 
+
+<p id="p_17">5. Sub-section (2) bars the insurer from raising any defence to the claim for compensation except in the circumstances permitted by the provisions in clauses (a) to (c). Clauses (a) to (c) provide the grounds which can be raised by the insurer in defending an action. The ground that compensation claimed is excessive is not one permitted by clauses (a) to (b). The clear and unambiguous language of <a href="/doc/1910042/" id="a_7">Section 96(2)</a> prevents the insurer from raising any defence not permitted by clauses (a) to (c) therein.
+</p> 
+
+<p id="p_18">6. Contract of insurance is in the nature of a contract of indemnity. To effectuate a contract of indemnity, a decree has to be first obtained against the insured and thereupon the liability of the insurer to discharge the decree arises. A contract of insurance is a contract by which the insurer promises to save the insured from the loss caused to him by the conduct of any other person. Under <a href="/doc/301393/" id="a_8">Section 125</a> of the Indian Contract Act, 1872, the promisee, acting within the scope of his authority, is entitled to recover from the promisor all damages which he may be compelled to pay in any suit in respect of any matter to which the promise to indemnify applies. It is this principle which is incorporated in <a href="/doc/1550024/" id="a_9">Section 96</a> of the Act. Under the common Law, an insurer is not entitled to be made a party to the action against the insured but such a right has been given to the insurer under <a href="/doc/1910042/" id="a_10">Section 96(2)</a> of the Act. It is a statutory right and its content and amplitude necessarily depend upon the provisions of the Statute. The Supreme Court in Itbar Singh's case, AIR 1959 SC 1331, field :-
+</p><p id="p_19"> "The statute has no doubt created a liability in the insurer to the injured person but the statute has also expressly confined the right to avoid that liability to certain grounds specified in it. It is not for us to add to those grounds and therefore to the statute for reasons of hardship. We are furthermore not convinced that the statute causes any hardship: First, the insurer has the right, provided he has reserved it by the policy to defend the action in the name of the assured and if he does so, all defences open to the assured can then be urged by him and there is no other defence that he claims to be entitled to urge. He can thus avoid all hardships if any, by providing for a right to defend the action in the name of the assured and this he has full liberty to do. Secondly, if he has been made to pay something which on the conduct of the policy he was not bound to pay, he can under the proviso to sub-section (3) and under sub-section (4), recover it from the assured."
+</p> 
+
+<p id="p_20">[See also <a href="/doc/1281733/" id="a_11">Mangilal v. Parasram and others</a>, 1970 MPLJ 1 (FB) = 1970 ACJ 86, (M. P.); <a href="/doc/368132/" id="a_12">National Insurance Co. Ltd. v. Magikhia Das</a> and. others, 1976 ACJ 239, (Orissa); <a href="/doc/1854419/" id="a_13">United India Fire and General Insurance Co. Ltd. and Anr v. Lokshmi Shori Ganjoo and others</a>, 1983 TAC 249, (J and K); <a href="/doc/1017694/" id="a_14">New India Assurance Co. Ltd. and Anr v. Smt. Nathiben Chatrabhuj and others</a>, AIR 1982 Guj. 116 - all decisions of the Full Benches.]
+ 
+
+</p><p id="p_21">7. There can be only two ways of overcoming the restrictions imposed by <a href="/doc/1910042/" id="a_15">Section 96(2)</a>. The contract of insurance may stipulate that the insurer would be at liberty to raise defences on behalf of the insured. In such a case, the insurer can raise all defences which are available to the insured without reference to the restrictions in <a href="/doc/1910042/" id="a_16">Section 96(2)</a>. The restrictions will not apply because the defences are raised on behalf of the insured.
+</p> 
+
+<p id="p_22">8. The second way is the one contemplated in sub-section (2) of section HOC of 1939 Act (similar to <a href="/doc/11278644/" id="a_17">Section 169</a> of the Motor Vehicles Act, 1988).
+</p> 
+
+<p id="p_23">9. Section HOC deals with the procedure and powers of Claims Tribunals. Sub-section (2A) reads thus :
+</p>  
+
+<p id="p_24">"(2A) Where in the course of enquiry, the Claims Tribunal is satisfied that -
+</p>  
+
+<p id="p_25">(i) there is collusion between the person making the claim and the person against whom the claim is made, or
+ 
+
+</p><p id="p_26">(ii) the person against whom the claim is made has failed to contest the claim,
+ 
+
+it may, for reasons to be recorded by it in writing, direct that the insurer who may be liable in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have the right to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made."
+</p> 
+
+<p id="p_27">The above provision enables the Tribunal to implead the insurer as a party to the proceeding in case it is satisfied that there is collusion between the claimant and the person against whom the claim is made or the person against whom the claim is made has failed to contest the claim and upon such impleadment, the insurer shall have right to contest the claim on all or any of the grounds that are available to the insurer. The order to be passed by the Tribunal has to be supported by reasons to be recorded in writing. The reasons relate to the grounds contemplated in clauses (i) and (ii) of sub-section (2A). This statutory provision will apply even in cases where initially the insurer has been impleaded. At appropriate stage, where the Tribunal is satisfied, it may record its satisfaction to enable the insurer to raise defences available to the insured.
+</p> 
+
+<p id="p_28">10. The appellant has no contention that it had reserved in the policy the right to raise defences on behalf of the insured and that it had invoked this right before the Tribunal. The appellant has also no contention that before the Tribunal there was any attempt to invoke the provisions of <a href="/doc/785258/" id="a_18">Section 110C(2A)</a> or that the Tribunal passed an order in its favour. Hence, there can be no doubt that the insurer could not have raised before the Tribunal defence regarding the quantum of compensation payable.
+</p> 
+
+<p id="p_29">11. It is true that <a href="/doc/1910042/" id="a_19">Section 96(2)</a> and <a href="/doc/785258/" id="a_20">Section 110C(2A)</a> in terms do not refer to the appellate stage. That does not mean that the insurer can by filing an appeal or contesting an appeal, raise contentions which are foreign to the scope of <a href="/doc/1910042/" id="a_21">Section 96(2)</a> and which have not been attempted to be invoked before the Tribunal under <a href="/doc/785258/" id="a_22">Section 110C(2A)</a> or in respect of which the insurer had not made reservation in the policy or had not invoked the reservation before the Tribunal. An appeal is continuation of the original proceedings. Statutory restrictions imposed on a party in raising defences before the Tribunal will lose all efficacy if those restrictions are to be confined to the original proceedings and not to the stage of an appeal which is only the continuation of original proceedings. If a party has a right to raise a particular contention before the original forum, that right must subsist in the appellate forum also. If a party is statutorily prevented from raising a particular contention in the original forum, that disability will operate at the appellate stage also. There is no provision in the Act which expressly or by necessary implication confines the restrictions of <a href="/doc/1910042/" id="a_23">Section 96(2)</a> only to the forum of the Tribunal. In the circumstances, it must follow that the restrictions contained in <a href="/doc/1910042/" id="a_24">Section 96(2)</a> will apply in the appellate forum also.
+</p> 
+
+<p id="p_30">12. Learned counsel for the appellant invited our attention to the decision of a Division Bench of this Court in <a href="/doc/677154/" id="a_25">Parmanand and Ors. v. Manohardas</a>, 1990 MPLJ 466 = 1990 ACJ 888 and contended that the decision is an authority for the proposition that an insurer at the appellate stage can raise a defence in terms of <a href="/doc/1910042/" id="a_26">Section 96(2)</a>. In that case, the Tribunal passed an award against the driver and owner and the insurer involved in the accident and directed them to pay the amount due, jointly and severally and all the three preferred a single appeal in the High Court. The claimant raised a preliminary objection regarding maintainability of the joint appeal on the ground that none of the appellants is a 'person aggrieved' within the meaning of section HOD which permits an appeal against the award by any person aggrieved. The argument was that the compensation amount would be payable by the insurer and not by the owner in view of the insurance policy and the amount awarded is within the limits of insurance policy and, therefore, the driver and owner are not "aggrieved' persons. Regarding the insurer, it was urged that the bar under <a href="/doc/1910042/" id="a_27">Section 96(2)</a> has to be invoked and hence the insurer is not a person "aggrieved". The Division Bench of this Court overruled the preliminary objection after referring to the provisions of <a href="/doc/1910042/" id="a_28">Sections 96(2)</a> and <a href="/doc/785258/" id="a_29">110C(2A)</a> of the Act. The Court held that notwithstanding that the compensation is required to be paid by the insurer, and the amount is within the limits of the policy, the driver and the owner would be persons 'aggrieved' since each of them has suffered an adverse finding, the driver regarding rash and negligent driving and the owner regarding his constructive liability. Therefore, it was held, as 'persons aggrieved' they are entitled to maintain appeal. It was also held that the driver who is primarily and the owner who is constructively liable for the amounts awarded are aggrieved by the finding regarding quantum of compensation. The Court held as follows :
+</p><p id="p_31"> "21...... It is held that this appeal is competent for challenging the finding of rash and negligent driving as also the amount of compensation payable, at the instance of the driver and the owner of the vehicle, who are entitled to maintain this appeal, the insurer being entitled to consequential benefit, in the event of the appeal succeeding."
+</p> 
+
+<p id="p_32">As we understand the above decision, it is clearly an authority for the proposition that the driver and the owner can file appeal challenging the finding regarding rash and negligent driving and the amount of compensation and that only the driver and owner can file such an appeal but the insurer can ultimately get the benefit of consequences of appeal, if any. The decision itself is an authority for the proposition that the insurer cannot file an appeal disregarding the restrictions on the defences contemplated under <a href="/doc/1910042/" id="a_30">Section 96(2)</a> of the Act.
+</p> 
+
+<p id="p_33">13. For the reasons indicated above, we hold that the appeal is not maintainable and accordingly dismiss it.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,1001 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Union Of India vs J.D.Naharwal &amp; Ors. on 11 August, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/17978172/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/367586/">Article 14 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/105097616/">Ku. Sashikala Khatri vs Union Of India on 31 August, 2015</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/17978172/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/17978172/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/17978172/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20civil%20service">state civil service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20administrative%20service">indian administrative service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=vacancy%20year%20">vacancy year </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=substantive%20vacancies">substantive vacancies</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dpc">dpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20review%20dpc"> review dpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20of%20haryana%20">state of haryana </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=vacancies%20to%20be%20filled%20up">vacancies to be filled up</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=when%20vacancy%20carry%20forward">when vacancy carry forward</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=member%20of%20service">member of service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointment%20and%20selection">appointment and selection</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=special%20circumstances">special circumstances</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=substantive%20capacity%20on%20probation%3A%20supremecourt">substantive capacity on probation: supremecourt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=union%20public%20service%20commission">union public service commission</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=affairs%20of%20state">affairs of state</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=state%20services">state services</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=zone%20of%20consideration">zone of consideration</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mool%20chand">mool chand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hiralal%20shah">hiralal shah</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=praveen%20kumar">praveen kumar</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Union Of India vs J.D.Naharwal &amp; Ors. on 11 August, 2010</div><div class="doc_author">Author: Mool Chand Garg</div>
+
+<pre id="pre_1">*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++       W.P.(C) 6474/2003
+                                                  Date of Reserve: 03.08.2010.
+                                                  Date of Decision: 11.08.2010.
+
+        UNION OF INDIA                                     ..... Petitioner
+                                Through   Mr.Atul Nanda, Adv.
+
+                        Versus
+
+        J.D. NAHARWAL &amp; ORS.                                .... Respondents</pre>
+<pre id="pre_2">                       Through            Mr.G.D.Gupta, Sr.Adv. with
+                                          Mr.S.K.Sinha, Adv. for R-1.
+                                          Mr. Naresh Kaushik, Adv. for UPSC.
+                                          Mr. Yashpal Rangi, Adv. for R-3/State
+                                          of Haryana.
+                                          None for R-5 &amp; 6.
++       W.P.(C) 7220/2003
+
+        PRAVEEN KUMAR &amp; ANR.                               ..... Petitioners
+                     Through              Mr.L.R.Khatana, Adv.
+
+                        versus
+
+        J.D. NAHARWAL &amp; ORS.                                .... Respondents
+                       Through            Mr.G.D.Gupta, Sr.Adv. with
+                                          Mr.S.K.Sinha, Adv. for R-1.
+                                          Mr. Atul Nanda, Adv. for R-2.
+                                          Mr. Naresh Kaushik, Adv. for
+                                          R-3/UPSC.
+                                          Mr. Yashpal Rangi, Adv. for
+                                          R-4/State of Haryana.
+                                          None for R-5 &amp; 6.
+        CORAM:
+        HON'BLE MR. JUSTICE PRADEEP NANDRAJOG
+        HON'BLE MR. JUSTICE MOOL CHAND GARG
+
+1.     Whether reporters of Local papers may be
+       allowed to see the judgment?
+2.     To be referred to the reporter or not?
+3.     Whether the judgment should be reported in
+       the Digest?
+
+:       MOOL CHAND GARG,J
+
+</pre><p id="p_1">1.      We are concerned in this writ petition with the issue of filling up of
+the vacancies in the Indian Administrative Service by promotion which is
+
+<span class="hidden_text" id="span_1">W.Ps.(C) 6474/2003, 7220/2003                                   Page 1 of 17</span>
+ to be filled in accordance with the provisions contained in the Indian
+Administrative Service (fixation of Cadre Strength) Regulations, 1954. The
+Central Government has also framed the Indian Administrative Service
+(Recruitment) Rules, 1954 which provides that there are three methods of
+recruitment to the IAS; i.e.:
+</p>
+<pre id="pre_3">        (a)     By a competitive examination;
+        (b)     By promotion of a [substantive] member of a State Civil
+                Service;
+        (c)     by selection, in special cases from among persons, who
+</pre><p id="p_2">                hold in a substantive capacity gazetted posts in
+                connection with the affairs of a State and who are not
+                members of a State Civil Service.
+</p>
+
+<p id="p_3">2.      As per clause (a) of sub rule 1 of Rule 4, the recruitment is by
+competitive examination. Clause (b) provides for recruitment by promotion
+of a substantive member of the State Civil Service. Clause (c) stipulates
+following mode:
+</p>
+<blockquote id="blockquote_1">        "By selection, in special cases from among persons, who hold in
+        a substantive capacity gazette posts in connection with the
+        affairs of a State and who are not members of a State Civil
+        Service."
+</blockquote>
+<p id="p_4">3.      In so far as recruitment by promotion or selection for appointment to
+State and joint cadre is concerned it is regulated by Rule 8 of 1954 Rules,
+which reads as under:
+</p>
+<blockquote id="blockquote_2">        "8. Recruitment by promotion or selection for appointment
+        to State and Joint Cadre:-(1) The Central Government may, on
+        the recommendations of the State Government concerned and
+        in consultation with the Commission and in accordance with
+        such regulations as the Central Government may, after
+        consultation with the Sate Governments and the Commission,
+        from time to time, make, recruit to the Service persons by
+        promotion from amongst the 23[substantive] members of a
+        State Civil Service.
+</blockquote>
+<blockquote id="blockquote_3">        8(2) The Central Government may, in special circumstances
+        and on the recommendation of the State Government concerned
+        and in consultation with the Commission and in accordance
+        with such regulations as the Central Government may, after
+        consultation with the State Government and the Commission,
+        from time to time, make, recruit to the Service any person of
+<span class="hidden_text" id="span_2">W.Ps.(C) 6474/2003, 7220/2003                               Page 2 of 17</span>
+         outstanding ability and merit serving in connection with the
+        affairs of the State who is not a member of the State Civil
+        Service of that State 24[but who holds a gazetted post in a
+        substantive capacity].
+</blockquote>
+<blockquote id="blockquote_4">        8(3)(a) Where a vacancy occurs in a State Cadre which is to be
+        filled under the provision of this rule, the vacancy shall be filled
+        by promotion of a member of the State Civil Service or, as the
+        case may be, by selection of any other officer serving in
+        connection with the affairs of that State.
+</blockquote>
+<blockquote id="blockquote_5">        (b) Where a vacancy occurs in a Joint Cadre which is to be filled
+        under the provision of this rule, the vacancy shall, subject to
+        any agreement in this behalf, be filled by promotion of a
+        member of the State Civil Service of any of the States
+        constituting the group or as the case may be, by selection of
+        any other officer serving in connection with the affairs of any
+        such State(s)."
+</blockquote>
+
+<p id="p_5">4.      Central Government has also framed the Indian Administrative
+Service (Appointment by Promotion) Regulations, 1995 (herein referred to
+as „the Promotion Regulations, 1955).           Appointment by selection is
+governed by the Indian Administrative Service (Appointment by selection),
+Regulations, 1997 (herein referred to as Regulations 1997).
+</p>
+<p id="p_6">5.      In the year 2001 four vacancies were earmarked in the State quota
+for inclusion in Indian Administrative Service from the State of Haryana
+two posts were earmarked for officials who were members of State Civil
+Service whereas the other two were earmarked for Non-State Civil Services
+in accordance with sub-Clause (c ) Sub-rule 1 of Rule 4 of 1954
+Regulations as aforesaid.       Sh. J.D.Naharwal, respondent No.1 was a
+member of the Haryana State Civil Service (Executive Branch) having
+joined the service in September, 1983 and was an aspirant to be included
+in Indian Administrative Service.       Sh.   Jai   Paul   Singh   Dahiya      was
+another aspirant who wanted his inclusion from category of Non-SCS
+officers.
+</p>
+<p id="p_7">6.      However, on account of the deficiency in supply of information
+regarding eligible candidates to be considered in the category of Non-SCS
+officers, UPSC in exercise of the powers available with it as per Regulations
+
+<span class="hidden_text" id="span_3">W.Ps.(C) 6474/2003, 7220/2003                                  Page 3 of 17</span>
+ 5(1)(c) of the Regulations of 1997 declared that it was not practicable to
+hold a meeting of the Selection Committee during the relevant year i.e. in
+the year 2001 in the circumstances explained in the letter dated
+04.02.2002 and accordingly Union of India decided to carry forward those
+two vacancies in the next year 2002. It may be observed here that Shri
+J.D.Naharwal who was not even in the zone of consideration in the year
+2001 if the vacancies meant for State Civil Service were to be confined only
+to two made a representation assailing the aforesaid decision to carry
+forward the vacancies to the next year as it was his stand that those
+vacancies remaining unfilled with respect to the category of Non-SCS
+officers were then required to be considered available for SCS officers of the
+State cadre in the year 2001 itself and if that would have been done the
+said Shri Naharwal being member of State Civil Services would have been
+in the zone of consideration if vacancies stood increased to 4.
+</p>
+<p id="p_8">7.      As his representation was not considered, Shri J.D.Naharwal
+aggrieved from the aforesaid, declaration and decision taken by Union of
+India, arrayed as the first respondent in both the aforesaid writ petition,
+and one Jai Paul Singh Dahiya who filed a separate writ petition bearing
+No 3414/2003 which now stands dismissed in default vide order dated
+03.08.2010        assailed      the   aforesaid   declaration   before   the       Central
+Administrative Tribunal to set aside the aforesaid action of the Union of
+India and to direct inclusion of these 2 posts as part of the State Civil
+Services officers cadre for the year 2001 itself and to fill them up by
+holding a review DPC.            Sh. Jai Paul Dahiya on the other hand wanted
+carrying forward of these vacancies in the quota of Non-SCS officers for the
+next year.
+</p>
+<p id="p_9">8.      The application filed by Shri Jai Paul Singh Dahiya was registered as
+OA No. 115/2003 while that of Shri J.D.Naharwal was registered as OA
+No. 2042/2002 and both these applications were decided by a common
+order by the Central Administrative Tribunal Principal Bench vide order
+dated 02.05.2003.
+</p>
+
+
+<span class="hidden_text" id="span_4">W.Ps.(C) 6474/2003, 7220/2003                                       Page 4 of 17</span>
+<p id="p_10"> 9.      Vide impugned order the Tribunal dismissed the application filed by
+Sh.Jai Paul Singh Dahiya but allowed the application of Shri J.D.Naharwal
+the first respondent and gave the following directions:
+</p>
+
+<blockquote id="blockquote_6">        28. O.A. No.2042/2002 in the case of J.D.Naharwal is
+        allowed and it is directed that:-
+</blockquote>
+<blockquote id="blockquote_7">        (a)   the decision to fill up the vacancies in the Indian
+        Administrative Service of Haryana Cadre from amongst non-
+        State Civil Service Officers during the year 2001 is quashed;
+</blockquote>
+<blockquote id="blockquote_8">        (b)  the decision to carry forward two vacancies earmarked for
+        non-State Civil Service officers is also quashed;
+</blockquote>
+<blockquote id="blockquote_9">        (c)   the vacancies, if any would revert back to the State Civil
+        Service Officers eligible for the year 2001; and
+</blockquote><blockquote id="blockquote_10">        (d)   a review Departmental Promotion Committee should be
+        held to prepare the revised list of the remaining eligible State
+        Civil Service officers who may be within the zone of
+        consideration.
+</blockquote>
+<p id="p_11">10.     Aggrieved by the aforesaid directions UOI has filed Civil Writ Petition
+No. 6474/2003 praying for setting aside the order passed by the Tribunal
+and to permit them to carry forward the aforesaid 2 vacancies to the year
+2002.      Praveen Kumar, the second writ petitioner has filed CWP No.
+7220/2003        without        having   approached   the   Central     Administrative
+Tribunal and coming directly to this Court for seeking a similar direction
+as prayed for by Union of India. According to him, if vacancies are carried
+forward to the next year, he would come in the zone of consideration for
+the next year as a member of Haryana State Civil Service, even though he
+was not in the zone of consideration for the year 2001 and even if the
+vacancies are considered as part of the quota meant for State Civil Service
+for the said year.
+</p><p id="p_12">11.     It is the submission of both the petitioners that the directions given
+by the Tribunal could not be given as they are in the teeth of Regulation 5
+of the 1955 Regulations.             Submissions were that after the vacancies
+earmarked for Non-SCS Officers for the year 2001 are not filled up and if they
+are filled up from amongst those Officers who belong to SCS Cadre it will disturb
+the ratio/quota maintained between the Non-SCS Officers and SCS officers.            It
+
+
+<span class="hidden_text" id="span_5">W.Ps.(C) 6474/2003, 7220/2003                                         Page 5 of 17</span>
+ is also contended that there is no provision in the Rules for holding year
+wise DPC.        It is also contended of the petitioner that there is also no
+provision for holding review DPC with reference to the particular year.
+</p>
+<p id="p_13">12.     According to the petitioners the system of carrying forward of
+vacancies is inbuilt into Regulation 5 of the aforesaid Regulations,
+vacancies of each year are determined with reference to substantive
+vacancies of 1st January of the year. It is also submitted that first proviso
+of Regulation 5(1) provides that no meeting of the Committee shall be held
+and the selected list for the year in question shall be prepared when there
+are no substantive vacancies or the Central Government in consultation
+with the State Government decides that recruitment shall be made during
+the year to substantive vacancies. This Rule clearly indicates that it is not
+necessary that determination of vacancies and preparation of the Select
+List must be done for each of the year.        It is further argued that the
+vacancy which is not filled up in a particular year gets merged with the
+pool of vacancies to be determined for the subsequent year(s) and there is
+no concept of wait list and review DPC in the Rules or in the Regulations.
+Learned counsel further argues that method of recruitment to be adopted
+for the purpose of filling up particular vacancy or vacancies during
+particular year is to be determined by the Central Government in
+consultation with the Commission and the State Government concerned.
+Where a vacancy occurs in a State Cadre which is to be filled under the
+provisions of Rule 8, the vacancy shall be filled by promotion of the
+member of State Civil Service or as the case may be, by selection of any
+other office serving in connection with the affairs of the States. This is the
+position contained in Rule 4(2)(a)(b) and Rule 8(3)(a) of the IAS
+Recruitment Rules, 1955.
+</p>
+<p id="p_14">13.     To support their contentions they also relied upon a judgment of the
+Hon‟ble Supreme Court in the case of Tamil Nadu Administrative Service
+Officers Association &amp; Anr. Vs. Union of India &amp; Ors. (2000) 5 SCC 728
+where in para 32 of the judgment it has been held:
+</p>
+
+
+<span class="hidden_text" id="span_6">W.Ps.(C) 6474/2003, 7220/2003                                Page 6 of 17</span>
+<blockquote id="blockquote_11">         "32. We think that this is a matter of policy which will be
+        uniformly applicable after the amendments. Further, vacancies
+        which are not filled up in one year will automatically get carried
+        forward to the next year if they become actual vacancies by
+        then. Therefore, the challenge of the petitioners that this
+        amendment is arbitrary and violative of <a href="/doc/367586/" id="a_1">Article 14</a> of the
+        Constitution cannot be accepted."
+</blockquote>
+<p id="p_15">14.     The Tribunal however having considered the matter in detail in the
+light of the rule position did not find favour with the Union of India who
+was a party before the Tribunal. The Tribunal has observed:
+</p>
+<blockquote id="blockquote_12">        17. We have already referred to above that the term "year"
+        means the period commencing on the first day of January and
+        ending on the 31st December of the same year. The Regulations
+        of 1955 prescribe that no meeting of the Committee shall be
+        held and no list for the year shall be prepared if substantive
+        vacancies do not exist or the Central Government in
+        consultation with the State Government decides that no
+        recruitment shall be made during the year to the substantive
+        vacancies. But it is mandatory that the select has to be
+        prepared separately for each year from the date the Committee
+        could not meet as on the 31st December of each year. To this
+        extent, there is little controversy. The Supreme Court in the
+        case of P.M.Bayas Vs. Union of India &amp; Ors. (1993) 3 SCC 319
+        was considering the Recruitment Rules of 1954 particularly the
+        expression "in special cases from among persons" in Rule 4(1)(c)
+        of the said Rules and the expression "In special circumstances"
+        in Rule 8(2) of the said Rules.       The relevant rules were
+        interpreted and it was held:-
+</blockquote>
+<blockquote id="blockquote_13">        9. We may examine the scheme of the Rules and Regulations.
+        Rule 4(1) of the Rules provides four sources of recruitment to
+        the IAS. The competitive examination and by promotion of
+        substantive members of the State Civil Service are the two main
+        sources of recruitment. Rule 4(1)(c) provides recruitment to IAS
+        "by selection, in special cases from among persons, who hold in
+        a substantive capacity gazetted posts in connection with the
+        affairs of a State and who are not members of the State Civil
+        Service". "In special cases from among persons" means the
+        selection as special cases of the persons who have established
+        their outstanding merit and ability while serving the State.
+        Members of the State Civil Service who are not 'outstanding' but
+        are only 'good' and 'very good' are also eligible to be considered
+        for appointment to IAS but under Rule 8(2) of the Rules, it is
+        only an 'outstanding' officer who is eligible. It is the outstanding
+        merit and ability which makes him a 'special case' in terms of
+        Rule 8(2) of the Rules. Rule 8(2) of the Rules read with
+        Regulation 3 of the Regulations lays down the procedure for
+<span class="hidden_text" id="span_7">W.Ps.(C) 6474/2003, 7220/2003                                  Page 7 of 17</span>
+         making the special selection provided under Rule 4(1)(c) of the
+        Rules. The Central Government, being the appointing authority
+        to the IAS, has to be finally satisfied about the existence of the
+        "special circumstances" as a condition precedent for making
+        special recruitment. The "special circumstances" are to be
+        spelled-out from Rule 8(2) of the Rules read with Regulation 3 of
+        the Regulations. Rule 8(2) which talks of "outstanding ability
+        and merit" when read with Regulation 3(1) and 3(4A) of the
+        Regulations makes it clear that the "special circumstances"
+        required to be seen are (i) the existence of officers with 12 years
+        of continuous service in a gazetted post under the State
+        Government other than State Civil Service Officers - who are of
+        outstanding merit and ability and (ii) the satisfaction of the
+        State Government that, in public interest, it is necessary to
+        consider such officers for promotion to the IAS.
+</blockquote>
+<blockquote id="blockquote_14">        18. Similarly in the case of Union of India &amp; Ors. Vs.
+        Vipinchandra Hiralal Shah, JT 1996 (9) S.C. 686, the
+        controversy was about the failure of the selection committee to
+        meet during a particular year to prepare the select list for
+        promotion to the Indian Administrative Service. The Supreme
+        Court held that if for any reason the selection committee is not
+        able to meet during a particular year, the committee when it
+        meets next, should while making the selection, prepare a
+        separate list for each year keeping in view the number of
+        vacancies in that year. In paragraph 11, the findings returned
+        were:-
+</blockquote>
+<blockquote id="blockquote_15">        "11. It must, therefore, held that in view of the provisions
+        contained in Regulation 5, unless there is a good reason for not
+        doing so, the Selection Committee is required to meet every year
+        for the purpose of making the selection from amongst State civil
+        Service officers who fulfil the conditions regarding eligibility on
+        the first day of the January of the year in which the Committee
+        meets and fall within the zone of consideration as prescribed in
+        Clause (2) of Regulation 5. The failure on the part of the Selection
+        Committee to meet during a particular year would not dispense
+        with the requirement of preparing the Select List for that year. If
+        for any reason the Selection Committee is not able to meet during
+        a particular year, the Committee when it meets next, should,
+        while making the selection, prepare a separate list for each year
+        keeping in view the number of vacancies in that year after
+        considering the State Civil Service officers who were eligible and
+        fall within the zone of consideration for selection in that year."
+</blockquote>
+<blockquote id="blockquote_16">        19. From the aforesaid decisions, it is clear that the clubbing
+        of vacancies per year is not permissible. As a general rule, the
+        promotion to the Indian Administrative Service has to be made
+        from the State Civil Service officers and the persons not
+        belonging to the State Civil Service come as an exception. They
+        can only be taken into service as per their fixed quota but
+<span class="hidden_text" id="span_8">W.Ps.(C) 6474/2003, 7220/2003                                  Page 8 of 17</span>
+         subject to their satisfying the necessary norms which we have
+        already referred to above and require no repetition.
+</blockquote>
+<blockquote id="blockquote_17">        20. The Regulations of 1997 explicitly deals with this
+        controversy. At the risk of repetition, we mention that term
+        "year" means the period commencing on the first day of
+        January and ending 31st December of the same year. Rule 4 of
+        the Regulations of 1997 specifically deals with the cases of
+        persons not belonging to the State Civil Service but serving in
+        connection with the affairs of the State.
+</blockquote>
+<blockquote id="blockquote_18">        21. Regulation 5 refers to the representation of a list of
+        suitable officers by the committee. Necessarily, the selection of
+        suitable officers has to be made and meeting held for the year in
+        question but an important aspect of the same is that no
+        meeting of the committee has to be held and no lit of any non-
+        State Civil Service officers is to be prepared if there are no
+        substantive vacancies and the Commission declares that it is
+        not practicable to hold a meeting of the Committee during that
+        year. This declaration of the Union Public Service Commission is
+        a very important act because once such a declaration is issued,
+        no meeting should be held to fill up the vacancies from the non-
+        State Civil Service officers. In the case of J.D.Naharwal, our
+        attention has been drawn towards an order issued by the Union
+        Public Service Commission dated 09.01.2002 which reads as
+        under:-
+</blockquote>
+<blockquote id="blockquote_19">                "I am directed to refer to the subject mentioned above and
+                to say that a proposal for convening the selection
+                committee meeting for selection of Non-SCS Officers for
+                appointment to the IAS of Haryana Cadre during the year
+                2001 was received from the Govt. of Haryana on
+                26.12.2001. The Govt. of India had determined the
+                number of vacancies available for Non-SCS officers as
+                2(two). The State Govt. had recommended the names of
+                four officers against the two vacancies.
+</blockquote>
+<blockquote id="blockquote_20">                2.    Since the proposal of the State Govt. was
+                incomplete, a letter was issued on 27.12.2001 requesting
+                the State Govt. to furnish the deficient information and
+                records. They were also requested to furnish some more
+                names since a maximum of 10 officers could be
+                considered against two vacancies. The State Govt. vide
+                their Fax message dated 27.12.2001 &amp; 28.12.2001
+                furnished some of the deficient information and records.
+                However, the clarification furnished by them regarding
+                the eligibility of some of the officers was not complete.
+                The proposal of the State Govt. having been received in
+                the Commission‟s office only a few days before the end of
+                the year, the deficiencies could not be made good by the
+                State Govt. within the stipulated time.       As per the
+<span class="hidden_text" id="span_9">W.Ps.(C) 6474/2003, 7220/2003                                 Page 9 of 17</span>
+                 provisions of the IAS (Appointment by Selection)
+                Regulations, 1997, the Select List for the year 2001 for
+                appointment of Non-SCS officers was to be prepared
+                latest by 31.12.2001. In the circumstances explained
+                above, the meeting of the selection committee for
+                preparation of a Select List of Non-SCS officers (IAS-
+                Haryana Cadre) could not be held during the year 2001.
+</blockquote>
+<blockquote id="blockquote_21">                3.    Accordingly, in exercise of the powers conferred by
+                clause (c) of Regulation 5(1) of the IAS(Appointment by
+                Selection) Regulations, 1997, the Commission declare
+                that it was not practicable to hold the meeting of the
+                Selection Committee for selection of Non-SCS officers for
+                appointment to the IAS of Haryana Cadre during the year
+                2001.
+</blockquote>
+<blockquote id="blockquote_22">        In other words, the Union Public Service Commission
+        specifically declared that it was not practicable to hold the
+        meeting of the selection committee for selection of non-state
+        Civil Service officers for appointment to the Indian
+        Administrative Service of Haryana Cadre during the year 2001.
+</blockquote>
+<blockquote id="blockquote_23">        22. Can we say that this declaration by the Union Public
+        Service Commission is meaningless? The answer would be that
+        it is meaningful. The purpose of making such a provision is
+        obvious. Once such a declaration is issued, the right of
+        consideration by the non-State Civil Service officers is lost. The
+        exercise if any is, therefore, in futility. This is for the added
+        reason that the primary right for consideration is that of the
+        State Civil Service officers and consideration of non-State Civil
+        Service officers is an exception. There is no provision to carry
+        forward the said vacancies for the non-State Civil Service
+        officers. It cannot be so carried forward particularly when such
+        a declaration as referred to above had been issued. The
+        clubbing of vacancies otherwise is not permitted.
+</blockquote>
+<blockquote id="blockquote_24">        25. It is unfortunate that a different stand is being taken by
+        the State of Haryana. In fact, the letter of 13.12.2000 written
+        by the Ministry of Personnel, Public Grievances and Pensions
+        addressed to the Chief Secretary, Government of Haryana
+        States otherwise and supports the applicants‟ view which
+        reads:-
+</blockquote>
+<blockquote id="blockquote_25">        "I am directed to refer to the communications from the Govt. of
+        India 1st and 2nd cited and the State Government response
+        thereto third cited regarding determining the vacancies for
+        recruitment by promotion to the State IAS cadre during the year
+        1998, 1999 and 2000 as for posts for each year and to say as
+        follows:
+</blockquote>
+
+<span class="hidden_text" id="span_10">W.Ps.(C) 6474/2003, 7220/2003                                 Page 10 of 17</span>
+<blockquote id="blockquote_26">         2.     In view of the position explained by the State
+        Government, in slight modification of para 4 of the letter 1st
+        cited, it has been decided that recruitment by promotion form
+        among the State Civil Service officer of Haryana to IAS Haryana
+        Cadre may be considered upto 2 posts during 1998, upto 4
+        posts during 1999 and upto 4 posts during 2000.
+</blockquote>
+<blockquote id="blockquote_27">        3.     In terms of the provisions contained in the selection
+        regulations, the decision in regard to the recruitment from this
+        channel is to be taken during the calendar year itself and there is
+        no provision for carry over of vacancies or preparation of year-
+        wise select lists in the subsequent year. In view of the proposal
+        of the State Government to defer recruitment by selection from
+        Non-SCS during the year, in terms of the provisions contained in
+        Rule 4(2)(b) of the IAS(Recruitment) Rules, 1954, read with the
+        provisions contained in Regulation 3 of the IAS (Appointment by
+        Selection) Regulations, 1997, it has been decided that the number
+        of posts against which recruitment may be considered to IAS
+        Haryana cadre from among Non-State Civil Service officers of
+        Haryana during 2000 is NIL."
+</blockquote>
+<blockquote id="blockquote_28">        In other words, it was stated that there is no provision for
+        carrying forward of vacancies to the subsequent years. We find
+        ourselves in agreement with the same keeping in view the rules
+        on the subject and, therefore, it must be held that two
+        vacancies regarding which declaration was given under
+        Regulation 5 of the Regulations of 1997, the respondents
+        cannot carry forward the vacancies and in the case of
+        J.D.Naharwal, they would revert back to the same year to State
+        Civil Services Officers.
+</blockquote>
+<p id="p_16">15.     Sh.L.R.Khatana, Advocate who appears for Sh.Praveen Kumar
+reiterates the submission made by the Union of India before the Tribunal
+and submits that in view of Regulation 5 of Regulations of 1997, the
+vacancies which remain unfilled in the year 2001 though would revert
+back to the quota of Haryana State Civil Services officials but would have
+to be carried forward to the next year.
+</p>
+<p id="p_17">16.     The first respondent opposes the aforesaid arguments relying upon
+the judgment of the Supreme Court in Vipinchandra Hiralal Shah, relied
+upon by the Tribunal in para 18 of the impugned decision, and the
+judgment delivered by a Division Bench of this Court in the case of Union
+of India Vs. State of U.P. Thr. Chief Secretary Govt. of U.P. CWP 1106/2008
+decided on 05.02.2009 wherein the entire issue has been discussed
+threadbare.
+</p><span class="hidden_text" id="span_11">W.Ps.(C) 6474/2003, 7220/2003                                  Page 11 of 17</span>
+<p id="p_18"> 17.     We have already noted the judgment of the Supreme Court in
+Vipinchandra Hiralal Shah's case in para 18 of the order of the Tribunal
+above. We may now also refer to some of the paragraphs of Justice
+A.K.Sikri‟s judgment wherein the issue has been fully gone into while
+dealing with State Civil Service officers of the State of U.P. It has been
+held by the Dvision Bench that the vacancies which remained unfilled in
+the year 2001 earmark for Non-SCS officers will revert back to the State
+Civil Services officers and will have to be filled up from amongst the
+eligible candidates in that very year by holding a review DPC.
+</p>
+<p id="p_19">18.     The relevant paragraphs of this judgment are reproduced hereunder:
+</p>
+<blockquote id="blockquote_29">        We are concerned in this writ petition with the issue of filling up
+        of the vacancies in the Indian Administrative Service by
+        promotion which is to be filled in accordance with the
+        provisions contained in the Indian Administrative Service
+        (fixation of Cadre Strength ) Regulations, 1955. The Central
+        Government has also framed the Indian Administrative Service
+        (Recruitment), 1954 which provide that there are three methods
+        of recruitment to the IAS. As per clause (a) sub rule 1 the
+        recruitment is by competitive examination. Clause (b) provides
+        for recruitment by promotion of a substantive member of the
+        State Civil Service. Clause (c) with which we are concerned
+        stipulates following mode:
+</blockquote>
+<blockquote id="blockquote_30">        "By selection, in special cases from among persons, who hold in
+        a substantive capacity gazette posts in connection with the
+        affairs of a State and who are not members of a State Civil
+        Service."
+</blockquote>
+<blockquote id="blockquote_31">        As per this clause, non State Civil Service personnel can also be
+        recruited by selection, Rule 2(g) defines State Civil Service.
+        Appointment to the service as per Rule 6, in so far as
+        recruitment by promotion or selection for appointment to State
+        and joint cadre is concerned, is regulated by Rule 8 of 1954
+        Rules. As per this promotions are to be made from amongst the
+        substantive members of State Civil Service. However, sub rule
+        (2) of Rule 8      provides another channel as well, namely,
+        selection from non State Civil Service and this provision
+        specifically mentions that it would be from amongst those
+        persons who are of outstanding ability and merit serving in
+        connection with the affairs of the State but not the member of
+        the State Civil Service. We shall refer to this regulation at
+        length at the appropriate stage, as it is the interpretation of this
+        rule which is material for determining the controversy that we
+        are faced with in this writ petition.
+</blockquote><span class="hidden_text" id="span_12">W.Ps.(C) 6474/2003, 7220/2003                                  Page 12 of 17</span>
+<blockquote id="blockquote_32">         Coming back to the rule position for making appointment to the
+        IAS by the promotion method from amongst State Civil Service
+        employees, the Central Government has also framed the Indian
+        Administrative Service (Appointment by Promotion) Regulations,
+        1995 (herein referred to as „the Promotion Regulations, 1955).
+        Appointment by selection is governed by the Indian
+        Administrative Service (Appointment by selection), Regulations,
+        1977 (herein referred to as Regulations 1997).
+</blockquote>
+<blockquote id="blockquote_33">        In the State of UP the selection to the IAS service by
+        promotional method was to be made in the year 2001, 2002,
+        2004 and onwards. For certain reasons, to be stated herein
+        after, certain vacancies for these years could not be filled up
+        i.e. one vacancy for the year 2001, 2 vacancies for the year 2002
+        and 7 vacancies for the year 2004. All these vacancies were
+        carried forward by the Central Government to the year 2005 to
+        be filled up along with the vacancies of 2005. Some officers who
+        were eligible for consideration in the previous year challenged
+        this action of the petitioner herein. In so far as this writ petition
+        is concerned, it may be mentioned that two OAs , namely, OA
+        No. 1097/2006 and OA No. 1137/2006 were filed by some such
+        officers (Respondent Nos. 3 to 7 herein) . The action of the
+        petitioner/Central Government was challenged on the ground
+        that vacancy of a particular year should have been filled in that
+        year only and even if it could not be filled for certain reasons,
+        there should be a review DPC for that year to fill up the said
+        vacancy. It was also argued that even if the vacancies to be
+        filled up are related to SCS Cadre and candidates from said
+        cadre were not available, then the vacancies should have been
+        filled from the employees belonging to the officers of State Civil
+        Service. The Tribunal found favour with these submissions of
+        respondent Nos. 3 to 7 (applicants in the said OAs). OA No.
+        1137/2006 has accordingly been allowed vide judgment dated
+        15.12.2006. In this judgment various aspects are argued by
+        learned counsel for either side which have been discussed by
+        the Tribunal in detail with the aid of various judgments of the
+        Supreme Court. Some of them, which are relevant for which
+        purposes, would be adverted to at the appropriate stage.
+</blockquote>
+<p id="p_20">19.     The Division Bench after taking note of Rule 5 of the Regulations of
+1954 further observed:
+</p>
+<blockquote id="blockquote_34">        It is the submission of the petitioner (UOI) that aforesaid
+        directions could not be given which are in the teeth of
+        Regulation 5 of the 1955 Regulations. Submission was that
+        after the vacancies earmarked for Non-SCS Officers for the year
+        2004 are filled up from amongst those Officers who belong to
+        SCS Cadre it will disturb the ratio/quota maintained between
+<span class="hidden_text" id="span_13">W.Ps.(C) 6474/2003, 7220/2003                                   Page 13 of 17</span>
+         the Non-SCS Officers. It is also contended that there is no
+        provision in the Rules for holding year wise DPC. It is also the
+        contention of the petitioner that there is also no provision for
+        holding review DPC with reference to the particular year. Since
+        these arguments are predicated on the position contained in
+        Rule 5 of the Regulations 1955, we deem it appropriate to
+        reproduce that Rule which is as under:-
+</blockquote><blockquote id="blockquote_35">        5.PREPARATION OF LIST OF SUITABLE OFFICERS:-
+</blockquote>
+<blockquote id="blockquote_36">        5(1)Each Committee shall ordinarily meet every year and
+        prepare a list of such members of the State Civil Service as are
+        held by them to be suitable for promotion to the service. The
+        number of members of the State Civil Service to be included in
+        the list shall be determined by the Central Government in
+        consultation with the State Government, concerned, and shall
+        not exceed the number of substantive vacancies as on the first
+        day of January of the year in which the meeting is held, in the
+        posts available for them under Rule 9 of the Recruitment Rules.
+        The date and venue of the meeting of the Committee to make
+        the selection shall be determined by the Commission;
+</blockquote>
+<blockquote id="blockquote_37">             Provided that no meeting of the Committee shall be held,
+        and no list for the year in question shall be prepared when;
+</blockquote>
+<blockquote id="blockquote_38">        (a)   There are no substantive vacancies as on the first day of
+        January of the year in the posts available for the members of
+        the State Civil Service under Rule 9 of the Recruitment Rules;
+        or
+
+</blockquote><blockquote id="blockquote_39">        (b)   The Central Government in consultation with the State
+        Government decides that no recruitment shall be made during
+        the year to the substantive vacancies as on the first day of
+        January of the year in the posts available for the members of
+        the State Civil Service under Rule 9 of the Recruitment Rules;
+</blockquote>
+<blockquote id="blockquote_40">        (c) The Commission, either on its own or on a proposal made by
+        the Central Government or the State Government, considers
+        that it is not practicable to hold a meeting of the Committee
+        during the year, in the facts and circumstances of each case.
+</blockquote>
+<blockquote id="blockquote_41">              Provided further that where no meeting of the Committee
+        could be held during a year for any reason other than that
+        provided for in the first proviso as and when the Committee
+        meets again, the Select List shall be prepared separately for
+        each year during which the Committee could not meet as on
+        31st December of each year.
+</blockquote>
+<blockquote id="blockquote_42">        EXPLANATION :- In case of Joint Cadres, a separate select list
+        shall be prepared in respect of each State Civil Service.
+</blockquote>
+<blockquote id="blockquote_43">        The submission of learned counsel for the petitioner (UOI) is
+        that the system of carry forward of vacancies is inbuilt into
+<span class="hidden_text" id="span_14">W.Ps.(C) 6474/2003, 7220/2003                               Page 14 of 17</span>
+         Regulation 5 of the aforesaid Regulations, vacancies of each
+        year are determined with reference to substantive vacancies of
+        1st January of the year. It is also submitted that first proviso of
+        Regulation 5(1) provides that no meeting of the Committee shall
+        be held and the selected list for the year in question shall be
+        prepared when there are no substantive vacancies or the
+        Central Government in consultation with the State Government
+        decides that recruitment shall be made during the year to
+        substantive vacancies. This Rule clearly indicates that it is not
+        necessary that determination of vacancies and preparation of
+        the Select List must be done for each of the year. It is further
+        argued that the vacancy which is not filled in a particular year
+        gets merged with the pool of vacancies to be determined for the
+        subsequent year(s) and there is no concept of wait list and
+        review DPC in the Rules or in the Regulations. Learned counsel
+        further argues that method of recruitment to be adopted for the
+        purpose of filling up particular vacancy or vacancies during
+        particular year is to be determined by the Central Government
+        in consultation with the Commission and the State
+        Government concerned. Where a vacancy occurs in a State
+        Cadre which is to be filled under the provisions of Rule 8, the
+        vacancy shall be filled by promotion of the member of State Civil
+        Service or as the case may be, by selection of any other office
+        serving in connection with the affairs of the States. This is the
+        position contained in Rule 4(2)(a)(b) and Rule 8(3)(a) of the IAS
+        Recruitment Rules, 1955.
+</blockquote>
+<blockquote id="blockquote_44">        Though the aforesaid arguments may appear to be attractive in
+        the first blush, it loses its sheen and force when we consider
+        these arguments with reference to other provisions of the
+        relevant Rules and Regulations and the manner they are
+        interpreted by the Supreme Court. We observe that all these
+        aspects are considered by the Tribunal in greater details and
+        therefore, it would not be necessary to unnecessary burden this
+        judgment by repeating the same, more so when after reading
+        the judgment of the Tribunal, we are in agreement with those
+        reasons and the conclusions of the Tribunal. Therefore, we
+        would be indicating our reasons in brief to support the
+        conclusion arrived at by the learned Tribunal.
+</blockquote>
+<p id="p_21">20.     Thus the Division Bench held that the directions given by the
+Tribunal to hold a review DPC to fill up those vacancies if remained
+unfilled on account of non-availability         of Non-SCS officers in that
+particular area from amongst the members of service who were within the
+zone of consideration was legal and valid as it was in the tune with
+principles of law laid down of the Supreme Court in the case of Union of
+India &amp; Ors. Vs. Vipinchandra Hiralal Shah (supra)
+<span class="hidden_text" id="span_15">W.Ps.(C) 6474/2003, 7220/2003                                  Page 15 of 17</span>
+</p><p id="p_22"> 21.     In the present case also there was no nomination of Non-SCS
+officers as no list could be prepared because the meeting of the selection
+Committee could not take place for considering the nomination of Non-
+SCS officers in the year 2001 in the State of Haryana also.
+</p>
+<p id="p_23">22.     This is also the view taken by the Tribunal in the case before us.
+Accordingly, we hold that directions given by the Tribunal which are in
+accordance with a decision of the Division Bench of this Court and the
+issue is no more res integra. In so far as Praveen Kumar is concerned, in
+addition to the reasons as aforesaid we also find that he having
+approached this Court directly is not even otherwise entitled to maintain
+the writ petition. Further the Hon‟ble Supreme Court in Civil Appeal No.
+2653-54 of 2010 arising out of SLP (C ) No. 7686-7687/2009) in the case
+of Rajeev Kumar and Anr. Vs. Hemraj Singh Chauhan &amp; Ors has observed:
+</p>
+<blockquote id="blockquote_45">        12. The Constitution          Bench       explained      the said
+        statement      of     law   by reiterating         in the next
+        sentence:
+</blockquote><blockquote id="blockquote_46">        "..By this, we mean that it will not be open for litigants to
+        directly approach the High Court even in cases where they
+        question the vires of statutory         legislations (except, as
+        mentioned, where the legislation which           creates      the
+        particular Tribunal      is   challenged)     by overlooking the
+        jurisdiction of the Tribunal concerned.
+</blockquote>
+<blockquote id="blockquote_47">        13. On a proper reading of these two sentences, it is clear:
+</blockquote><blockquote id="blockquote_48">        (a)    The Tribunals will function as the only Court of first
+        instance in respect of the areas of law for which they have
+        been constituted.
+</blockquote><blockquote id="blockquote_49">        (b) Even where any challenge is made to         the    vires    of
+        legislation, excepting the legislation under which Tribunal has
+        been set up, in such cases also, litigants will not be     able to
+        directly approach the High Court overlooking the jurisdiction of
+        the Tribunal'.
+</blockquote>
+<blockquote id="blockquote_50">        14. The aforesaid propositions have been repeated again by the
+        Constitution Bench in the penultimate paragraph 99 at page
+        311 of the report in the following words:
+</blockquote><blockquote id="blockquote_51">        "...The Tribunals will, nevertheless, continue to act like courts
+        of first instance in respect of the areas of law for which they
+        have      been constituted. It will not,    therefore, be open for
+        litigants to directly approach the High Courts even in cases
+        where they question the vires of statutory legislations (except
+        where the legislation which creates the particular Tribunal is
+<span class="hidden_text" id="span_16">W.Ps.(C) 6474/2003, 7220/2003                                 Page 16 of 17</span>
+         challenged) by overlooking the jurisdiction of the Tribunal
+        concerned...."
+</blockquote>
+<blockquote id="blockquote_52">        15.    In   view    of    such    repeated     and    authoritative
+        pronouncement by the Constitution Bench of this Court, the
+        approach made to the High Court for the first time by these
+        appellants in respect of their service disputes over        which
+        C.A.T. has jurisdiction, is not legally sustainable. The Division
+        Bench of the High Court, with great respect, fell into an error by
+        allowing the appellants to treat the High Court as a Court of
+        first instance in respect of their service           disputes, for
+        adjudication of which C.A.T. has been constituted.
+</blockquote><p id="p_24">23.     Before parting with the case, we may note that in the case which
+was decided by our co-ordinate bench in respect of the employees of U.P.
+State on account of carrying forward the vacancies of the year 2001, 2002
+and 2004 this Court has observed that not only the vacancies were carried
+forward but they were not even filled up. As on the date of the judgment
+delivered by the co-ordinate bench on 05.02.2009 there were 106
+vacancies which were to be filled up under the promotion quota thereby
+seriously affecting the functioning of the administration and denying the
+dues of the State Services Officers in the quota of Indian Administrative
+Services. The case of Haryana also appears` to be no exception.
+</p>
+<p id="p_25">24.     Accordingly, both the writ petitions are dismissed with no orders as
+to costs.
+</p>
+
+
+
+<p id="p_26">                                              MOOL CHAND GARG, J
+
+
+
+
+                                              PRADEEP NANDRAJOG, J
+AUGUST 11, 2010
+anb
+
+
+
+
+<span class="hidden_text" id="span_17">W.Ps.(C) 6474/2003, 7220/2003                                  Page 17 of 17</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

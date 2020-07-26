@@ -1,0 +1,688 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sanjay Shah vs Sh. Narender Budhiraja on 28 February, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/105249342/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:105249342">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/150051/">Rangappa vs Sri Mohan on 7 May, 2010</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/193064100/">M/S Laxmi Dyechem vs State Of Gujarat &amp; Ors on 27 November, 2012</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/324041/">Jaipal Singh Rana vs Swaraj Pal Singh And Anr. on 22 February, 2008</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/14125/">Thiruvengada Pillai vs Navaneethammal &amp; Anr on 19 February, 2008</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/105249342/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/105249342/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/105249342/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Sanjay Shah vs Sh. Narender Budhiraja on 28 February, 2017</div><pre id="pre_1">               IN THE COURT OF Ms. REKHA RANI
+           DISTRICT &amp; SESSIONS JUDGE (WEST) : DELHI
+
+Case No.            CA - 54458/16, 54459/16, 54460/16, 54461/16 &amp;
+                    54462/16 
+
+Sanjay Shah
+S/o Sh. Ram Gulam
+R/o A­379, Shyam Colony,
+Near Shiv Mandir, Budh Vihar,
+Phase­II, Delhi­110086.                                                . . . . Appellant
+
+                    versus
+
+Sh. Narender Budhiraja
+S/o Late Sh. Khajan Chand
+R/o S­1/78, Old Mahavir Nagar,
+New Delhi­110018.                                                      . . . . Respondent
+
+Date of institution                                :         23.06.2016
+Judgment Reserved on                               :         20.02.2017
+Date of pronouncement                              :         28.02.2017
+
+AND
+
+Case No.            CA - 54499/16
+
+Sh. Narender Budhiraja
+S/o Late Sh. Khajan Chand
+R/o S­1/78, Old Mahavir Nagar,
+New Delhi­110018.                                                      . . . . Appellant
+
+                              versus
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page1of17
+ Sanjay Shah
+S/o Sh. Ram Gulam
+R/o A­379, Shyam Colony,
+Near Shiv Mandir, Budh Vihar,
+Phase­II, Delhi­110086.                                                . . . . Respondent 
+
+Date of institution                                :         28.07.2016
+Judgment Reserved on                               :         20.02.2017
+Date of pronouncement                              :         28.02.2017
+
+
+JUDGMENT
+</pre>
+
+<p id="p_1">1.        Vide this common judgment, I shall dispose off five appeals
+instituted   on   23.06.2016   by   the   appellant/   convict   Sanjay   Shah
+whereby  the  appellant   has  assailed   the  impugned  judgments  dated
+21.04.2016 and orders on sentence dated 16.05.2016 passed by Ms
+Aakanksha Vyas, Ld. MM (N.I. Act), West, Delhi in five Complaint
+Cases bearing CC NO.4380/1/12,   4379/1/12, 4378/1/12, 4381/1/12
+&amp;   4382/1/12   respectively   under   Section   138   of   the   Negotiable
+Instruments Act (in short 'N.I. Act').
+</p><p id="p_2">          Vide   this   common   judgment,   I   shall   also   dispose   off   the
+criminal   appeal   bearing   CA   NO.54499/16,   preferred   by   the
+complainant/ respondent herein assailing the orders on sentence dated
+16.05.2016 on the ground that lesser punishment has been awarded to
+the   accused,   which   is   sought   to   be   enhanced   and   grant   of
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page2of17
+ compensation   to   the   extent   of   double   the   cheques   amount   is   also
+prayed.
+</p><p id="p_3">          The   appeal   filed   by   the   complainant   is   accompanied   by   an
+application for condonation of delay in filing the same. In view of
+reasons stated in the application, the said application is allowed and
+the appeal is heard on merits in the interest of justice..</p><pre id="pre_2">
+
+
+2.        For the sake of convenience, the particulars of each case are
+drawn in tabular form which are as under :­
+Appeal No.           Complaint No. Cheque         Imprisonment                      Compensation
+                                   number,   date                                   awarded
+                                   &amp; amount
+CA­54458/16 CC­4380/1/12 No.002915      SI   for   three Rs.7,500/­
+                         dt. 11.01.12 months             (ID­   SI   for   two
+                         for Rs.6,000/­                  months)
+CA­54459/16 CC­4379/1/12 No.002913      SI   for   three Rs.7,500/­
+                         dt. 09.01.12 months             (ID­   SI   for   two
+                         for Rs.6,000/­                  months)
+CA­54460/16 CC­4381/1/12 No.002912      SI   for   three Rs.7,500/­
+                         dt. 07.01.12 months             (ID­   SI   for   two
+                         for Rs.6,000/­                  months)
+CA­54461/16 CC­4378/1/12 No.002920    SI   for   three Rs.5,50,000/­
+                         dt. 15.01.12 months           (ID­   SI   for   two
+                         for   Rs.                     months)
+                         5,00,000/­
+CA­54462/16 CC­4382/1/12 No.002916      SI   for   three Rs.7,500/­
+                         dt. 13.01.12 months             (ID­   SI   for   two
+                         for Rs.6,000/­                  months)
+ 
+
+
+
+
+</pre><p id="p_4">CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page3of17
+</p><p id="p_5"> 3.        The   case   of   the   complainant   in   all   the   aforesaid   complaint
+cases is that on 22.10.2011, he advanced a loan of Rs.5,24,000/­ to
+the appellant and appellant assured to repay the same by 20.01.2012
+for which an affidavit was executed by him. For repayment of the
+said   loan,   appellant   issued   five   post   dated   cheques   as   aforesaid.
+However,   upon   presentation,   all   the   aforesaid   five   cheques   were
+dishonoured on account of insufficient funds. Hence, the complainant
+demanded  the cheques  amount as aforesaid  by legal notices dated
+01.02.2012 but no payment was made by the appellant. Having no
+alternative, the complainant filed the aforesaid complaint cases.
+</p>
+
+<p id="p_6">4.        The   appellant   prayed   for   his   acquittal   by   assailing   the
+impugned judgments and orders on sentence interalia pleading that :­
+
+
+      •   Ld. Trial  Court  failed  to consider  the defence raised by the
+          appellant that he had borrowed a sum of Rs.20,000/­ only from
+          the   complainant   which   was   agreed   to   be   repayable   in   daily
+          installments of Rs.240/­ per day;
+</p><p id="p_7">      •   Ld. Trial Court failed to consider the defence of the appellant
+          that   he   had   already   paid   68   installments   (Rs.240/­   per   day)
+          receipt   of   which   amount   was   acknowledged   by   the
+          complainant vide document duly proved as Ex.DW1/A;
+      •   Ld.  Trial   Court   ignored  the   sanctity  of   document  proved   as
+          Ex.DW1/A vide which respondent in his own handwriting and
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page4of17
+           under   his   signatures   acknowledged   that   he   had   received   an
+          amount   of   Rs.240/­   per   day   from   the   appellant   towards
+          liquidation of the loan of Rs.20,000/­ only;
+      •   Ld. Trial Court failed to appreciate the defence of the appellant
+          that the cheques in question bear his signatures but he had not
+          filled in other particulars in the cheques which cheques were
+          issued as security against the loan amount of Rs.20,000/­ only;
+      •   Ld. Trial Court failed to appreciate the fact that complainant
+          failed   to   disclose   the   source   from   where   he   arranged   to
+          advance the loan amount;
+</p><p id="p_8">      •   Ld. Trial Court failed to consider the fact that the stamp paper
+          was   purchased   in   the   year   2010   and   the   same   was   used   in
+          January 2012 for preparation of affidavit qua loan transaction
+          and that complainant failed to explain the long gap;
+      •   Ld. Trial Court failed to consider the fact that particulars of the
+          cheques   in   question   do   not   find   mention   in   the   affidavit
+          Ex.CW1/A;
+</p>
+
+<p id="p_9">5.        TCRs   of   aforesaid   five   complaint   cases   were   requisitioned
+which have been received and perused. I have heard Ld. counsel for
+the appellant and the complainant.
+</p>
+
+<p id="p_10">6.        Perusal of TCRs shows that on appreciation of pre­summoning
+evidence   recorded   under   Section   200   <a href="/doc/445276/" id="a_1">Cr.P.C</a>.,   the   appellant   was
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page5of17
+ summoned and he was served with notice under Section 251 <a href="/doc/445276/" id="a_2">Cr.P.C</a>.
+on 01.03.2014 in all  the complaint cases to which he pleaded not
+guilty and claimed trial.
+</p><p id="p_11">          The appellant while replying to notice u/s 251 <a href="/doc/445276/" id="a_3">Cr.P.C</a>. in all the
+complaint cases, clearly admitted that the five cheques in question
+bear his signatures. He, however, added that he did not fill­in the
+particulars. 
+</p><p id="p_12">          Since, the appellant himself admitted that he issued the cheques
+in question, presumption under Sections 118 and 139 of N.I. Act can
+be   drawn,  placing   reliance   on   the   judgment   of   the   Hon'ble   Apex
+Court in  <a href="/doc/150051/" id="a_4">Rangappa vs. Mohan</a> AIR 2010 SC 1989  which is to the
+effect that :­
+                    "Once the cheque relates to the account of the accused
+                    and  he accepts and admits the signatures on the said
+                    cheque,   then   initial   presumption   as   contemplated
+                    under Section 139 of the Negotiable Instruments Act
+                    has   to   be   raised   by   the   Court   in   favour   of   the
+                    respondent."
+</p>
+
+
+<p id="p_13">7.        The plea of the appellant that he did not fill in other particulars
+in the cheques in question can be discarded by placing reliance on the
+judgment of Hon'ble High Court in case  Ravi Chopra Vs. State &amp;
+Anr., Crl. M.C. 5211/2006 and Crl. M.A. No. 8864/2006, wherein it
+was held that:
+</p><p id="p_14">                    "where the accused facing the trial for the offence u/s
+                    138 is disputing the signature on the cheque  itself,
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page6of17
+                     then this is a permissible defence within the scope of
+                    Section 138 of NI Act but where the signature are
+                    admitted,  although   the   cheques   are   issued  in   blank
+                    there is an implied authority given to the payee to fill
+                    up the instrument. Section 20 of NI Act also say so."
+</p>
+
+
+<p id="p_15">          Reliance in this regard may also be placed on the Judgment of
+Hon'ble High Court in <a href="/doc/324041/" id="a_5">Jaipal Singh Rana vs. Swaraj Pal</a>, 149 (2008)
+DLT 882  wherein it was observed that there is no law that requires
+that particulars of the entire cheque should be filled in by the drawer
+himself and further on the judgment of Hon'ble High Court of Delhi
+in  <a href="/doc/143232225/" id="a_6">Vijender   Singh   vs.   Eicher   Motors   Limited   &amp;   Anrs</a>.     Crl.   M.C.
+1454/2011 decided on 05.05.2011  wherein it was observed that any
+person   who   issues   blank   signed   cheque   should   understand   the
+consequences of doing so.
+</p><p id="p_16">          The   appellant   having   himself   admitted   that   he   signed   the
+cheques in question and by handing over the cheques in question to
+the complainant gave him express and implied authority to fill in his
+name as payee. 
+</p>
+
+<p id="p_17">8.        Now, having drawn presumption in favour of the complainant
+in terms of judgment of Hon'ble Apex Court in  <a href="/doc/150051/" id="a_7">Rangappa vs. Mohan</a>
+(supra), onus is shifted to the appellant to create a dent in the case of
+the complainant. 
+</p>
+
+
+<p id="p_18">CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page7of17
+</p><p id="p_19"> 9.        Ld.   counsel   for   the   appellant   vehemently   contended   that
+document   Ex.DW1/A   shows   that   appellant   had   already   made   the
+payments as reflected therein and this document indicates that loan
+was duly liquidated but the complainant with a view to extort more
+money from the complainant, did not return the security cheques and
+filed the aforesaid complaint cases.
+</p>
+
+<p id="p_20">10.       Ld.   Trial   Court   dealt   with   the   said   contention   and   rightly
+observed in the impugned judgments which is reproduced for ready
+reference as under :­
+                  "I now come to Ex.DW1/A i.e. the document placed
+                on record by the accused. It is pertinent to note that
+                neither in his statement under section 251 or during
+                the   cross­examination   of   the   complainant   or   in   his
+                statement   under   section   313   <a href="/doc/445276/" id="a_8">CrPC</a>   or   in   his
+                application under section 145(2) of the NI Act, any
+                mention has been made of this document. This fact is
+                disconcerting as this document purportedly contains
+                an acknowledgement of the complainant with respect
+                to the loan amount allegedly taken by the accused in
+                the sum of Rs.20,000/­ only and payments of daily
+                installments   of   Rs.240/­   made   by   the   accused.   The
+                record reflects that this document came to light for
+                the first time during the examination in chief of the
+                accused. The complainant has denied his signatures
+                on this document or the preparation of this document.
+                Under section 67 of the Indian Evidence Act 1872,
+                where a document is alleged to be signed or written
+                by   a   person,   the   signature   and   handwriting   of   that
+                person must be proved. No other evidence has been
+                led by the accused to establish the same in respect of
+                Ex.DW1/A.   Viewed   in   the   totality   of   the
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page8of17
+                 circumstances   in   which   this   document   has   been
+                brought   on   record,   this   document   cannot   be   relied
+                upon."
+</p>
+
+<p id="p_21">11.       Further, it is also reflected from the TCRs that appellant did not
+reply  to   the  legal   demand   notices   of   the   complainant  although   he
+admitted   in   reply   to   notice   under   Section   251   <a href="/doc/445276/" id="a_9">CrPC</a>   that   he   had
+received the said legal demand notices. So, Ld. Trial Court rightly
+observed that :­
+               "the   conduct   of   the   accused   in   not   replying   to   the
+               notices   of   the   complainant   is   a   relevant   fact   and
+               entitles the court to draw a presumption under <a href="/doc/989759/" id="a_10">section
+               114</a> of the Indian Evidence Act that there is a truth in
+               the averments of the complainant. Reliance is placed
+               upon the decision of the Supreme Court in <a href="/doc/150051/" id="a_11">Rangappa
+               v.   Sri   Mohan</a>  (judgment   of   Supreme   Court   dated
+               07.05.2010   in   Criminal   Appeal   No.1020   of   2010),
+               where it has been held that :­
+                      "the very fact that the accused had failed to
+                      reply to the statutory notice under <a href="/doc/1834702/" id="a_12">Section
+                      138</a>   of   the   Act   lead   to   the   inference   that
+                      there   was   merit   in   the   complainant's
+                      version."
+</p>
+
+<p id="p_22">          It   is   relevant   to   note   that   as   per   case   of   the   appellant   he
+borrowed a petty amount of Rs.20,000/­ only from the complainant.
+Admittedly, he signed five cheques in favour of the complainant. It
+does not stand to reason as to why for a small amount of Rs.20,000/­
+only, the appellant would have issued five cheques. It further does not
+stand   to   reason   as   to   why   the   cheques   were   signed   at   all   by   the
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page9of17
+ appellant when as per his own case, he had discharged his liability
+vide Ex.DW1/A. There is nothing on record that the appellant had
+ever written to the complainant that he had returned the loan amount
+to the complainant. There is nothing on record to prove that appellant
+ever   mentioned to  the complainant  that as  he had  repaid the  loan
+amount, the five cheques in question be returned to him.
+</p>
+
+<p id="p_23">12.       Perusal of TCR shows that the appellant remained inconsistent
+in   putting   his   defence   while  replying  to   notice  under   Section  251
+<a href="/doc/445276/" id="a_13">CrPC</a> in all the five complaint cases. In complaint case bearing CC
+NO.4378/1/12, he stated that he borrowed a sum of Rs.20,000/­ from
+the   complainant   and   that   he   had   already   repaid   part   amount   of
+Rs.16,320/­ leaving unpaid balance amount of Rs.3,680/­. Whereas in
+complaint cases bearing CC NO.4380/1/12, 4379/1/12, 4381/1/12 and
+4382/1/12, the appellant stated that he borrowed a sum of Rs.5000/­
+from   the   appellant   and   that   he   has   already   repaid   the   entire   said
+amount to the complainant.
+</p>
+
+<p id="p_24">13.       The next defence taken by the appellant is that the stamp paper
+on   which   document/   affidavit   Ex.CW1/A   was   prepared,   was
+purchased in the year 2010 but the same was used in January 2012 for
+preparation   of   affidavit   qua   loan   transaction   and   that   complainant
+failed to explain the long gap. Ld. Counsel for the appellant argued
+that loan document Ex.CW1/A is not legally valid document in view
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page10of17
+ of the register of Notary Public not having been proved before the Ld.
+Trial Court. Ld. Trial Court dealt with these contentions and rightly
+observed   in   the   impugned   judgments   which   are   reproduced   as
+under :­
+                "Ex.CW1/A records that the accused herein obtained a
+                loan of Rs.5,24,000/­ for the purpose of purchasing a
+                property on 22.10.2011 and agreed to repay the same
+                on 20.01.2012. This document bears the signatures of
+                the   accused   and   at   the   bottom   it   bears   the   date   of
+                execution i.e. 06.01.2012. The stamp present on the
+                back   side   of   this   document   clearly   shows   that   the
+                stamp   paper   from   the   document   was   purchased   in
+                2010 whereas the document itself has been executed
+                in   2012.   It   is   also   evident   from   a   perusal   of   the
+                document that the deponent i.e. the accused has been
+                identified by none other than the complainant himself.
+</p>
+<p id="p_25">                "In his statement under 313 <a href="/doc/445276/" id="a_14">CrPC</a> as well as in his
+                application under section 145(2) NI Act, the accused
+                stated that the complainant had taken his signatures on
+                a blank stamp paper. The accused has also nowhere
+                unequivocally   denied   his   signatures   on   Ex.CW1/A.
+                Thus, the signatures of the accused on Ex.CW1/A are
+                admitted.  As  the   accused   has   already   admitted   his
+                signatures   on   this   document,  therefore   any
+                contradiction in the testimony of the complainant with
+                respect   to   the   name   of   the   purchaser   of   the   stamp
+                paper   or   the   fact   that   the   complainant   does   not
+                remember the name of the vendor of the stamp paper
+                is not material."
+</p>
+<p id="p_26">                "Now,   where   a   person   admits   his   signatures   on   a
+                document, it is to be presumed that it was filled before
+                he signed it. Reliance is placed upon the judgment of
+                the Delhi High Court in Mukesh Gupta vs. P.K. Bajaj
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page11of17
+                 and   Anr.  (decision   dated   20.11.2006   in   CS   (OS)
+                No.1615/2003).   However,   this   is   a   rebuttable
+                presumption and can be dislodged by leading evidence
+                to   the   contrary.   Having   said   this,   however,   I   am
+                unable to accept that the salient features of Ex.CW1/A
+                as   detailed   above   impinge   the   credibility   or   legal
+                validity of this document. To begin with, I am unable
+                to accept the contention that the  said document has
+                been executed on an expired stamp paper. There is no
+                provision in the Stamp Act 1899 which prescribes the
+                validity period of a stamp paper. Even Section 54 of
+                the Stamp Act which has presumably been relied upon
+                by the Ld. Counsel only provides that where a stamp
+                paper   purchased   has   not   been   used,   then   upon
+                presentation of such a stamp paper to the Collector,
+                the Collector shall repay the value of the stamp paper
+                to   the   purchaser.   I   am   also   supported   in   this
+                conclusion by the judgment of the Supreme Court in
+                <a href="/doc/14125/" id="a_15">Thiruvengada   Pillai   vs.   Navaneethammal   &amp;   Anr</a>.
+                (judgment dated 19.02.2008 of the Supreme Court in
+                Writ Petition (civil) 290 of 2001 wherein the Supreme
+                Court rejected the objection raised to the validity of a
+                sale agreement executed on a stamp paper purchased
+                more than six months back."
+</p>
+
+<p id="p_27">14.       Further   defence   of   the   appellant   is   that   the   complainant   is
+completely silent about the cheques in question in Ex.CW1/A which
+fact is sufficient to disbelieve the case of the complainant. 
+          Perusal   of   document   Ex.CW1/A   shows   that   it   is   dated
+06.01.2012 whereas the cheques in question bear subsequent dates.
+Therefore, obviously the particulars of the cheques could not have
+been mentioned in Ex.CW1/A.
+</p>
+
+<p id="p_28">CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page12of17
+</p><p id="p_29"> 15.       Ld. counsel for the appellant argued that the complainant has
+not   proved   his   financial   capability   for   advancement   of   huge   loan
+amount to the appellant. He further contended that complainant failed
+to disclose the source from which he managed such a huge amount of
+Rs.5,24,000/­.   He   further   submitted   that   it   is   unbelievable   that
+complainant   would   have   advanced   a   huge   loan   amount   to   the
+appellant who is a poor weekly market vendor having no capability to
+repay   the   same.   He   also   submitted   that   complainant   has   failed   to
+produce   his   income­tax   returns   indicating   advancement   of   loan
+amount to the complainant in the relevant year. 
+          The contention of the appellant/accused that the complainant's
+failure to file any income tax returns reflecting the advancement of
+the loan in question to the accused is fatal flaw in the complainant's
+case can be discarded by placing reliance on the Judgment in Krishna
+P. Murajkar Vs. Joe Ferrao­ 2013 ACD 942 Bombay, which is to the
+effect:­
+                "Any default in paying tax is a matter between the
+                defaulter   and   revenue   authorities   and   it   is   not   a
+                ground   in   law   to   deny   avenues   open   to   the
+                complainant for recovering the loan amount". 
+</p>
+
+<p id="p_30">16.       Ld. counsel  for  the complainant emphatically  submitted that
+the complaint cases were filed way back in the year 2012 and since
+then the appellant has not indicated any bonafide intention to repay
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page13of17
+ the loan amount which is evident from his conduct before the Ld.
+Trial Court as well as this Court.                             
+</p>
+
+<p id="p_31">17.       Hon'ble Apex Court in case of M/s Laxmi Dyechem v. State of
+Gujraj &amp; Ors., Criminal Appeal Nos. 1870­1909 of 2012, decided on
+27.11.2012 qua Section 138 of NI Act observed that:
+</p><blockquote id="blockquote_1">                   " ... the object underlying the provision contained in the
+                   said Chapter was aimed at securing faith in the efficacy
+                   of   banking   operations   and   giving   credibility   to
+                   negotiable   instruments   in   business   and   day   to   day
+                   transactions by making dishonour of such instruments
+                   an offence ...".
+</blockquote>
+
+<p id="p_32">18.       The Hon'ble Apex Court in case titled State of Tamil Nadu v.
+M.K. Kandaswami, (1975) 4 SCC observed that:­
+                    "while interpreting a penal provision u/s 138 of <a href="/doc/1132672/" id="a_16">NI
+                    Act</a>,   endevour   should   be   made   to   preserve   the
+                    workability and efficacy of the statute rather than an
+                    interpretation   that   would   render   the   law   otiose   or
+                    sterile." 
+</p>
+
+<p id="p_33">19.                 In Goa Plast(P) Ltd. Vs. Chico Ursula D'Souza, Hon'ble
+Supreme Court, while dealing with the objects of the Act, observed as
+follows:­
+                  "26...   The   object   and   the   ingredients   under   the
+                  provisions, in particular, Sections 138 and 139 of the
+                  Act   cannot   be   ignored.     Proper   and   smooth
+                  functioning of all business transactions, particularly,
+                  of  cheques  as  instruments,  primarily  depends  upon
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page14of17
+                   the   integrity   and   honesty   of   the   parties.     In   our
+                  country,   in   a   large   number   of   commercial
+                  transactions,   it   was   noted   that   the   cheques   were
+                  issued even merely as a device not only to stall but
+                  even   to   defraud   the   creditors.     The   sanctity   and
+                  credibility   of   issuance   of   cheques   in   commercial
+                  transactions   was   eroded   to   a   large   extent.
+</p><p id="p_34">                  Undoubtedly,   dishonour   of   a   cheque   by   the   bank
+                  causes incalculable loss, injury and inconvenience to
+                  the payee and the entire credibility of the business
+                  transactions within and outside the country suffers a
+                  serious setback.   Parliament, in order to restore the
+                  credibility of cheques as a trustworthy substitute for
+                  cash payment enacted the aforesaid   provisions.  The
+                  remedy   available   in   a   civil   court   is   a   long   drawn
+                  matter   and   unscrupulous   drawer   normally   take s
+                  various   pleas   to   defeat   the   genuine   claim   of   the
+                  payee."
+</p>
+
+
+
+<p id="p_35">20.       Admittedly, the loan was taken in the year 2011. Instead of
+making efforts to pay back the consideration, appellant tried every
+trick in the trade to retain unjust enrichment. He has been able to
+procrastinate   the   proceedings   by   taking   false   &amp;   frivolous   pleas   to
+avoid repayment of the loan taken by him. He has not shown any
+bonafide intention to make the payments towards the loan taken in
+since the year 2011 and even after filing of the complaint cases. The
+conduct of the appellant is, therefore, not in consonance with the aim
+and objective of the Act as discussed above in <a href="/doc/193064100/" id="a_17">M/s Laxmi Dyechem v.
+State of Gujraj &amp; Ors</a>. (supra), Goa Plast(P) Ltd. Vs. Chico Ursula
+
+
+CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page15of17
+ D'Souza   (supra)   and   State   of   Tamil   Nadu   v.   M.K.   Kandaswami
+(supra). 
+</p>
+
+<p id="p_36">21.       Keeping   in   view   the   said   aim   of   the   Act   and   the   fact   that
+defence   put   forth   by   the   appellant   lacks   credibility,   I   endorse   the
+conviction recorded by the Ld. Trial Court rejecting the defence put
+up by the appellant. In view of the foregoing reasons, the aforesaid
+appeals filed by the appellant are dismissed. 
+</p>
+
+<p id="p_37">22.       Now coming to appeal bearing CA No. 54499/16 vide which
+the complainant has assailed the orders on sentence dated 16.05.2016
+on   the   ground   that   lesser   punishment   has   been   awarded   to   the
+respondent. It is submitted on behalf of the complainant that having
+prosecuted the cases for over more than four years, the complainant
+has remained deprived of his money. As per Section 138 of the Act,
+the accused can be punished with imprisonment for a term which may
+be extended to two years or with fine which may extend to twice the
+amount of the cheque or with both. 
+</p>
+
+<p id="p_38">23.       Keeping in view the facts and circumstances of the case and
+the aim and objectives of the Act, it is held that Ld. Trial Court has
+already granted a reasonable sentence and compensation in all the
+aforesaid five complaint cases. Accordingly, the appeal bearing CA
+No.54499/16 filed by the complainant is also dismissed. 
+</p>
+<p id="p_39">CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page16of17
+</p><p id="p_40"> 24.       Ld.   Trial   Court   is   directed   to   secure   the   presence   of   the
+appellant/ convict for undergoing the sentence as imposed vide orders
+on   sentence   dated   16.05.2016   in   all   the   aforesaid   five   complaint
+cases.
+</p><p id="p_41">          TCRs be sent back forthwith along with copy of this judgment.
+          Copy of this judgment be placed in all the six appeal files.
+</p><p id="p_42">          Appeal files be consigned to Record Room.
+</p>
+
+<pre id="pre_3">Announced in Open Court                                        ( Rekha Rani )
+today this the 28th day of                        District &amp; Sessions  Judge / (West)
+February, 2017                                                Tis Hazari Courts, Delhi
+
+
+
+
+</pre><p id="p_43">CA No.54458­62/16 &amp; 54499/16          Sanjay Shah vs. Narender Budhiraja                              Page17of17
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

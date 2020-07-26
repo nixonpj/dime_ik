@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: John Wyeth (India) Limited ... vs Unknown on 18 August, 1987</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/917114/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1187271/">Section 392 in The Companies Act,   1956</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/917114/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/917114/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wyeth">wyeth</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=john">john</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=geoffrey%20manners">geoffrey manners</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=company%20petition">company petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=regional%20director">regional director</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=trade%20union">trade union</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=udyog">udyog</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=savarkar">savarkar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ethics">ethics</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">In Re: John Wyeth (India) Limited ... vs Unknown on 18 August, 1987</div><div class="doc_citations">Equivalent citations: 1988 63 CompCas 233 Bom, (1988) ILLJ 481 Bom</div>
+
+<div class="doc_author">Author: M S Manohar</div>
+
+<div class="doc_bench">Bench: S V Manohar</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+  Mrs. Sujata V. Manohar, J. 
+</p> 
+
+<p id="p_2"> 1. Geoffrey Manners and Co. Ltd, who are the petitioners in Company Petition No. 659 of 1986, propose to transfer what is described in the scheme as the "drug undertaking" of Geoffrey Manners and Co. Ltd. to John Wyeth (India) Ltd. who are the petitioners in Company Petition No. 358 of 1986. Under this scheme, all assets, machinery and equipment as described in the scheme as also leasehold and tenancy rights in the premises occupied by the drug undertaking, permits, quota rights, industrial and other licences relating to the drugs which are being manufactured at the said drug undertaking at Ghatkopar as also all privileges, rights and benefits in relation thereto are being transferred to John Wyeth (India) Ltd. Geoffrey Manners and Co. Ltd. held 60 per cent. of shares in John Wyeth (India) Ltd. It is the case of both the companies that until now, at the said drug undertaking, Geoffrey Manners and Co. Ltd. were manufacturing various drugs for John Wyeth (India) Ltd. Now, the said drug undertaking is being transferred to John Wyeth (India) Ltd. on terms and conditions which are set out in the scheme. Thus, only one of the undertakings of the transferor company is being transferred to the transferee company. 
+</p> 
+
+<p id="p_3">2. This scheme has been unanimously approved by the shareholders of both the companies. The present petitions, however, are being opposed by Bharatiya Kamgar Sena, Bombay, which is the trade union to which, inter alia, the workers of Geoffrey Manners and Co. Ltd. who are engaged in the activities of the said drug undertaking, belong. The opposition is, therefore, on behalf of the employees of Geoffrey Manners and Co. Ltd. working at the said drug undertaking either in their factory at Ghatkopar or in their offices at Veer Savarkar Marg, Bombay, and at Udyog Bhavan, Ballard Estate, Bombay, as also all employees including the field staff of the Ethicals Division of Geoffrey Manners and Co. Ltd. since all these work in the drug undertaking which is being transferred under the said scheme. Under the scheme, all these employees are being compulsorily transferred to John Wyeth (India) Ltd. They have pointed out that Geoffrey Manners and Co. Ltd. is a prosperous company and has made good profits over the years. As against this, John Wyeth (India) Ltd. is a loss-making concern. The employees, therefore, will be adversely affected by their transfer to John Wyeth (India) Ltd. They have also pointed out that they have filed a complaint under the Maharashtra Recognition of Trade Unions and Prevention of Unfair Labour Practices Act, before the Industrial Court at Bombay, complaining about the said compulsory transfer on various grounds which are set out in their complaint. The complaint is numbered as complaint ULP No. 649 of 1987. 
+</p> 
+
+<p id="p_4">3. In this connection, Mr. J. B. Chinai, who appears for John Wyeth (India) Ltd., has given a summary of the results of the said company from the years 1973-74 up to 1986-87. It seems that from 1973-74 till 1982-83, John Wyeth and brother Ltd. (India branch) were carrying on business in India. Throughout this period, this company made profits ranging from 36.97 lakhs per year to Rs. 15.21 lakhs per year. Only in the year 1982-1983, the said company made a loss of Rs. 2.69 lakhs. Thereafter, John Wyeth(India) Ltd. was constituted and the business is now being carried on by John Wyeth (India) Ltd. For the year 1983-84, the company made a profit of Rs. 32.21 lakhs before tax and a profit of Rs. 7.40 lakhs after tax. In the year 1984-85, the company made a loss of Rs. 32.42 lakhs after tax. In the year 1985-86, the company made a loss of Rs. 4.35 lakhs after tax and in the year 1986-87, it is estimated that the company will make a profit of Rs.27 lakhs after tax. Looking to these figures, it cannot be said that the transferee company is wholly a loss- making concern or it in suhc a condition that it will not survive. The company has also produced its balance-sheet estimated as on October 31, 1986, and from this balance-sheet also it cannot be said that the substratum of the company is gone or that it is not in a position to function. 
+</p> 
+
+<p id="p_5">4. My attention was drawn by MR. Puri, learned advocate for the Bharatiya Kamgar Sena, to certain notes made by the auditors in the balance-sheet of John Wyeth (India) Ltd. relating to a writ petition filed by John Wyeth and Brothers Ltd. (Indian Branch) against Government of India in respect of the selling price of certain drugs, in respect of which an appeal is pending in the Supreme Court. I am informed by Mr. Puri that in view of certain orders which have been passed in similar other petitions, the company is likely to lose in this petition. If so, the company may become liable to pay a sum of about Rs.87 lakhs. There iis, therefore, some substance in this grievance which is made by the workmen. Mr. Chinoi, on behalf of both the companies, states that under the scheme, there is no desire to compulsorily transfer the workmen engaged in the drug undertaking to John Wyeth (India) LTd. He submits that under the scheme, protection is given to those employees of the drug undertaking who wish to join John Wyeth (India) Ltd., under clause 9(a) of the scheme which is as follows: 
+</p><p id="p_6">  "9(a) JWIL undertakes to engages on and from the effective date all permanent employees of GM engaged in the drug activity of GM at their factory at Ghatkopar, Bombay, and also at their offices at Veer Savarkar MArg, Bombay, and at Udyog Bhavan, Ballard Estate, Bombay, and all employees (including the field staff) of the Ethicals Division of GM located all over India, and who are in the employment of GM on the same terms and conditions on which they are engaged as on the effective date by GM without any interruption of services as a result of the transfer. JWIL agrees that the services of all such employees with GM up to the effective date shall be taken into account for purpose of all retirement benefits to which they may be eligible in GM on the effective date. JWIL further agrees that for the purpose of payment of any retrenchment compensation, such past service with GM shall also be taken into account." 
+</p> 
+
+<p id="p_7">5. In the scheme, however, under clause (1), the definition of "Drug undertaking" includes under clause 1(c) all permanent employees of Geoffery Manners and Co. Ltd. engaged in the said undertaking at their factory at Ghatkopar, Bombay, at their offices at Veer Savarkar Marg, Bombay, and at Udyog Bhavan, Ballard Estate, Bombay, and all employees, including the field staff of the Ethicals Division located all over India. Under clause 4(a), the entire drug undertaking of Geoffrey Manners and Co. Ltd. stands transferred to John Wyeth (India) Limited. Under the scheme, therefore, the said workmen get automatically transferred to John Wyeth (India) LTd., although with the safeguards provided under clause 9(a). I have not been shown any provision of law under which workmen can be compulsorily transferred from one company to another. 
+</p> 
+
+<p id="p_8">6. Mr. Chinoy, on behalf of both the companies, is agreeable that the scheme should be modified so that the workers of the drug undertaking are not thus transferred. The scheme is, therefore, by consent of both the companies and their directors, hereby modified in pursuance of the provisions of clause 14 of the scheme as also under <a href="/doc/1187271/" id="a_1">section 392</a> of the Companies Act so as to exclude from the definition of "drug undertaking" sub-clause (c) in clause (1). Sub-clause 1(c) is deleted from the scheme. Further, under the scheme, the employees who are engaged in the drug undertaking as covered by the description given in the original sub-clause 1(c) shall have the option to join Wyeth (India) Limited if they so desire. The option shall be exercised within one month of the effective date as defined in the scheme or within such other time as may be agreed upon between the parties. In the event of any employee or employees so joined John Wyeth(India) Ltd., they shall be protected by the provisions of clause 9 of the said scheme. The employees who elect to remain with Geoffrey Manners and Co. Ltd. shall be entitled to all such rights and remedies as they may be entitled to in law. They shall be entitled to proceed with the pending complaint under the Maharashtra Recognition of Trade Unions and Prevention of Unfair Labour Practices Act. 
+</p> 
+
+<p id="p_9">7. The Regional Director, Company Law Board, has filed an affidavit setting out that the ratio of shares in the transferee company which is being issued to the shareholders of the transferor company is not fair because the drug undertaking is being transferred at the written down values of Rs. 20 lakhs. This value of the drug undertaking is only the written down value. No material is placed before me to show that the ratio of 5 shares in John Wyeth (India) Ltd. being allotted for every 72 shares in Geoffrey Manners &amp; Co. Ltd. is unfair. Both the shareholders of the transferor company as well as the transfer company have unanimously approved of the scheme and of the number of shares being given to the shareholders of the transferor company in the transfer company. At the meeting of shreholders of Geoffery Manners and Co. Ltd., shareholders holding 27,36,000 shares out of a subscribed and issued capital of 28,80,000 shares voted in favour of the scheme. None else was present or voted against it. At the meeting of shareholders of John Wyeth (India) Ltd., votes were case in favour of the scheme by the shareholders holding the entire issued and subscribed shareholding of 3,00,000 shares in the company. 
+</p> 
+
+<p id="p_10">8. It should also be remembered that only one of the undertaking of the transferor company is being transferred to the transferee company. The Regional Director has pointed out that John Wyeth (India) Ltd. incurred a loss of Rs. 32 lakhs in 1984-85. The fact that for the year ending OCtober 31, 1985, M/s John Wyeth (India ) Ltd. showed a loss of about Rs.32 lakhs cannot be taken in isolation. It has to be viewed in the light of the overall assets and general reserves of M/s John Wyeth (India) Ltd. as against liabilities. For the year ending October 31, 1986, the company estimates a profit after tax of about Rs. 27 lakhs. In these circumstances and looking at the fact that the shareholders of both the companies have unanimously accepted the ratio of shares to be allotted, there is no reason to refuse sanction to the scheme. Both the companies are closely held companies and the transferred company has a 60 per cent. shareholding in the transferor company. The scheme, therefore, also does not affect the public at large. 
+</p> 
+
+<p id="p_11">9. In the circumstances, the scheme modified as aforesaid is sanctioned. There will also be an order in terms of prayers (b) (c), (d) and (e). The complaint filed by the Bharatiya Kamgar Sena against Geoffrey Manners and Co. Ltd., referred to above, may be decided on merits. The company to pay to the Regional Director, Company Law Board, the costs of this petition fixed at Rs. 300. 
+</p> 
+
+<p id="p_12">10. Company Petition No.658 of 1986 is on behalf of John Wyeth (India) Ltd., the transferor company. There will be the same order as above in this petition, save and except that no directions are required in this petition regarding the complaint pending before the Industrial Court since this complaint is not on behalf of the workers of John Wyeth (India) Ltd. 
+</p> 
+
+<p id="p_13">11. On the application of Bharatiya Kamnagar Sena, the operation of this order is stayed for a period of two weeks. Bharatiya Kamgar Sena to give 48 hours notice to both companies of any application that may be preferred by them. 
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

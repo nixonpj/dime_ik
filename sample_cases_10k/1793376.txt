@@ -1,0 +1,205 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: Bhagat Bros. Ltd. vs Unknown on 11 June, 1925</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1793376/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/257409/">The Indian Companies (Amendment) Act,   1930</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1793376/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1793376/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20indian%20companies%20act"> indian companies act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=209%20">209 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20209%20">section 209 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=company%20in%20liquidation">company in liquidation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=remuneration">remuneration</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=khardah%20co%20ltd">khardah co ltd</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=khardah%20company">khardah company</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20retrospective%20effect">no retrospective effect</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=winding%20up">winding up</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=khardah">khardah</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20acts">indian acts</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=meeting%20of%20creditors">meeting of creditors</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=voluntary%20winding%20up">voluntary winding up</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">In Re: Bhagat Bros. Ltd. vs Unknown on 11 June, 1925</div><div class="doc_citations">Equivalent citations: AIR 1925 Cal 809</div>
+
+<div class="doc_author">Author: C Ghosh</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ C.C. Ghosh, J.
+</p> 
+
+<p id="p_2">1. This is an application on behalf of the Khardah Company, Limited, for an order that the appointment of A.F.P. Allan as a joint liquidator with Mr. S.K. Day of the Company known as Bhagat Brothers, Limited, at the same remuneration as the said Mr. S.K. Day is receiving may be confirmed and ratified by this Court with retrospective effect from the 4th July 1921.
+</p> 
+
+<p id="p_3">2. The facts shortly stated are as follows: By an extraordinary resolution passed at a meeting of the shareholders of Bhagat Brothers, Limited, held on the 6th June 1911, it was resolved that the said Company be wound up voluntarily and that Mr. S.K. Day, Incorporated Accountant be appointed liquidator. Mr. Day convened a meeting of the creditors of the said Company under the provisions of <a href="/doc/257409/" id="a_1">Section 209</a> of the Indian Companies Act and it was held on the 4th July 1921 when the following resolution was unanimously passed-''That this meeting is of opinion that Mr. Allan of Messrs. Viney and Thurston be appointed and failing his acceptance Mr. Smith of Messrs. Norman Hamilton and Co. be appointed co-liquidator with Mr. S.K. Day on the same remuneration as Mr. Day." Mr. Allan accepted the appointment and thereupon entered upon the duties of joint liquidator with Mr. Day of the said Company and since continued so to act. It is stated that by inadvertance on the part of the petitioner and other creditors of the Company no application was made to the Court for the appointment of Mr. Allan as liquidator jointly with Mr. Day of the said Company and that the omission to do so was not discovered till the 5th May 1925. By an order made on the 5th September 1921, on the application of Messrs. Day and Allan as liquidators of the said company a scheme of arrangement for the sale of the assets of the Company to one Ram Kumar Bhagat in consideration of the payment by the said Ram Kumar Bhagat to the liquidators of a sum equivalent to a dividend of ten per cent on the amount of all admitted claims and dealing with certain other matters was approved of by the Court. It was not then brought to the notice of the Court that no application had bean made under the provisions of <a href="/doc/257409/" id="a_2">Section 209</a>, Sub-clause (2) of the <a href="/doc/257409/" id="a_3">Indian Companies Act</a> for the appointment of Mr. Allan jointly with Mr. Day as liquidator of the above company. It appears that the liquidation proceedings have been carried on jointly by Messrs. Allan and Day and that the costs of the liquidation of the Company upto the present time have amounted to a sum of Rs. 40,392 annas 12 pies 11 including a sum of Rs. 23,000 appropriated and paid out of the assets on account of their remuneration by Messrs. Allan and Day as such liquidators, such sum being received by the liquidators in equal shares. Mr. Allan is desirous of retiring from business in India and he and Mr. Day called a meeting of the creditors of the Company on the 14th May 1925 when it was brought to the notice of the creditors that Mr. Allan had not been appointed by the Court as a joint liquidator. At the said meeting a resolution was adopted to the effect that the Khardah Company, Limited, be instructed to make the necessary application to the Court to ratify Mr. Allan's appointment as joint liquidator. The Khardah Company, Limited, have therefore made the present application.
+</p> 
+
+<p id="p_4">3. The application is opposed by Mr. Sen on behalf of Messrs. Champalal Gunohand Lal who are creditors of the Company he contends that no application under <a href="/doc/257409/" id="a_4">Section 209</a>, Sub-clause (2) having been made for the appointment of Mr. Allan as liquidator jointly with Mr. Day, the Court has now no jurisdiction to sanction such appointment with retrospective effect..
+</p> 
+
+<p id="p_5">4. Formerly voluntary liquidations were sometimes run through by a liquidator nominated by the directors without regard to the wishes or rights of the creditors and to prevent this state of things happening Section 188 of the English Companies Act which corresponds to <a href="/doc/257409/" id="a_5">Section 209</a> of the Indian Companies Act was enacted. This section has established a new procedure giving the creditors greatly extended powers in regard to the appointment of a liquidator in a voluntary winding up. By this section every liquidator appointed by the Company in a voluntary winding up must, within 7 days after his appointment "send notice by post to all persons who appear to him to be creditors of the Company," convene a meeting of creditors for a day not less than twenty-one days nor more than one month after his appointment and specifying the place and hour and must advertise notice of the meeting once in the Official Gazette and once in some local newspaper circulating in the district where the registered office or principal place of business of the Company was situate. At this meeting the creditors are to determine whether an application shall be made to the Court for the appointment of any person in place of or jointly with the liquidator appointed by the Company and if the creditors so resolve, an application may be made accordingly to the Court at any time not later than fourteen days after the date of the meeting by any creditor appointed for the purpose at the said meeting. <a href="/doc/257409/" id="a_6">Under the Indian Companies Act</a> provision is made that the Court may by order at any time extend the time for making an application such as is hereinbefore referred to for such period as the Court thinks proper. On such an application being made the practice in England is (and in my opinion it is desirable that the same practice should be followed here) to require an affidavit by the liquidator appointed by the Company proving that the meeting of creditors was duly convened and an affidavit by the chairman of the meeting stating the number of creditors present, the total amount of debts owing to them, the number of creditors voting for or against any resolution and the total amount of debts owing to them in each case, and if a resolution for the appointment of a liquidator has been passed whether there has been any solicitation on behalf of the person nominated.
+</p> 
+
+<p id="p_6">5. On the application being heard the Court may remove the liquidator appointed by the Company and appoint another person or may appoint some person to act jointly with the liquidator appointed by the Company or make such other order as having regard to the interests of the creditors and contributories of the Company may seem just.
+</p> 
+
+<p id="p_7">6. These being the provisions of the law on the subject, Mr. Page who appears for the Khardah Company, Limited, has referred me to 3 cases in support of his application. The first is the case of the Indian Zoedone Company, In re. (1884) 26 ch.D.70, where the Court in a case where there was a question whether the sole voluntary liquidator had been properly appointed confirmed him in the office in order that the question might be quieted. This was a case under Sub-section (2) of Sect. 141 of the English Companies Act of 1882 which corresponds with Sub-section 8 of Section 207 of the <a href="/doc/257409/" id="a_7">Indian Companies Act</a>. In my opinion looking at the facts of the case referred to it has no bearing upon the present application. The next case upon which reliance was placed by Mr. Page is that of the Sunlight Incandescent Gas Lamp Co., In re. (1900) 2 Ch. 728, where the facts were as follows: A company went into voluntary liquidation and two persons B. &amp; M. were appointed liquidators. B having retired F was appointed liquidator in his place to act with M. M. applied for leave to take certain misfeasance proceedings but was opposed by F and thereupon the Registrar made an order appointing K additional liquidator to act jointly with M and F. Mr. Justice Wright held that Sect. 141 of the English Companies Act, 1862 was sufficiently wide to give the Court power to appoint K in the circumstances set out. In my opinion this case also has no bearing on the present application. Mr. Page's third case was that of In re, Allison, Johnson and Foster, Ltd. (1904) 2 K.B. 327, where the facts were as follows: One Birkenshaw was appointed liquidator in a voluntary winding up. The proceedings at which he was appointed liquidator were set aside as invalid, ab initio by Mr. Justice Farwell. Birkenshaw thereafter put forward a claim as a creditor for work done and expenses incurred by him while purporting to act as liquidator. The Court (Lord Alverstone, C.J., Wills and Kennedy, JJ.) held that Birkenshaw was not entitled to be paid anything for services rendered as liquidator but in so far as any work by him had been useful to the Company for business purposes unconnected with the voluntary liquidation or had been used by the official liquidator in the subsequent Company winding up with full knowledge of the facts he was entitled to claim reasonable remuneration. This case as I read it is against Mr. Page's contention and does in no way support the present application. To my mind the decision of the question raised in the present application turns entirely on the provisions of Sub-clauses (2) and (3) of Sect. 209 of the <a href="/doc/257409/" id="a_8">Indian Companies Act</a>. No doubt in a proper case I can extend the time for making an application for the appointment of a person as joint liquidator but I doubt very much whether having regard to the language of the section I have power to make such an appointment as is prayed for with retrospective effect from the 4th July 1921. In my view when an application is made under Sub-clause (2) of Section 209 of the Indian Companies Act the Court, if I may say so, is not required to register by a formal order the recommendation of the creditors of the company as to the person to be appointed joint liquidator. The Court may or may not act under Sub-clause (3) of <a href="/doc/257409/" id="a_9">Section 209</a> on the resolution of the creditors. The matter is entirely discretionary with the Court, and in England no appeal is allowed against the order which the Court may make on such an application (Section 188 of the English Companies Act). It follows therefore that till an order is made appointing a person to act as joint liquidator such person cannot take upon himself the duties of a joint liquidator and therefore the assumption of the duties of a joint-liquidator on the part of such a person does not give him any rights whatsoever. The fact that the Court made an order on the 5th September 1921 approving a scheme of arrangement for the sale of the assets of the Company on the application of Messrs. Day and Allan in ignorance of the fact that Mr. Allan had not been appointed liquidator cannot affect the determination of the question raised on the present application. The proviso to Subclause (2) does not in any view enable me to make the order prayed for.
+</p> 
+
+<p id="p_8">7. The conclusion to which I have come is that I have no jurisdiction to make an appointment such as is prayed for with retrospective effect from the 4th July 1921.
+</p> 
+
+<p id="p_9">8. I do not propose to deal with the matters relating to question of remuneration etc. raised in the affidavit on behalf of Champalal Gunchandlal for in my opinion they do not arise at the present stage.
+</p> 
+
+<p id="p_10">9. The result therefore is that the application must stand dismissed with costs.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

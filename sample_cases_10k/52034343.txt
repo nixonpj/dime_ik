@@ -1,0 +1,477 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Sanjay Kamti on 10 April, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/52034343/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/924354/">Haryana State Lotteries, Iqbal ... vs Govt. Of Nct Of Delhi &amp; Ors. on 17 July, 1998</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/382540/">Mr. Pawan Kumar Chadha vs Adm (Hq) Revenue Department, ... on 17 August, 2009</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/52034343/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/52034343/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adarsh">adarsh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=333">333</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fir%20number">fir number</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2025/54/59%20of%20the%20arms%20act">section 25/54/59 of the arms act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arms%20act%2025%2C%2054%2C%2059">arms act 25, 54, 59</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=secret%20informer">secret informer</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Sanjay Kamti on 10 April, 2013</div><div class="doc_author">Author: Mr.Deepak Dabas</div>
+
+<pre id="pre_1">         IN THE COURT OF SH. DEEPAK DABAS
+    METROPOLITAN MAGISTRATE (N­05): ROHINI : DELHI
+
+FIR No.                  333/2007
+ID No.                   02404R0384542007
+U/s.                     25/54/59  <a href="/doc/1934415/" id="a_1">Arms Act</a>
+PS                       Adarsh Nagar
+State                    vs.      Sanjay Kamti
+
+                                      JUDGMENT
+</pre>
+<pre id="pre_2">1. Sr. No of case          53/3
+2. Date of commission of offence
+                           29.6.2007
+3. Name of complainant     HC Savender Singh 
+4. Name of accused         Sanjay Kamti
+                           s/o. Sh. Thakur Kamti
+                           r/o. Jhuggi No. C­154
+                           Sarai Peepalthala 
+                           near Himachal Bhawan 
+                           Delhi.
+</pre><pre id="pre_3">5. Offence complained of   u/s. 25/54/59 <a href="/doc/1934415/" id="a_2">Arms Act</a>
+6. Plea of accused         Pleaded not guilty
+7. Final order             Acquitted
+8. Date of such order      10.4.2013
+BRIEF REASONS FOR SUCH DECISION:­
+
+</pre><p id="p_1">      1.                 The   facts   in   brief   of   the   present   case   as   per 
+
+             prosecution version are that on 29.6.2007, the complainant i.e. 
+
+333/2007­ Adarsh Nagar                                                              page1/
+              HC Savender Singh was on patrolling duty alongwith Ct. Ashok 
+
+             Kumar in the area.   It is alleged that at about 7.30 PM when 
+
+             they reached at Sushila Road, Adarsh Nagar a secret informer 
+
+             informed   that   a   person   is   standing   with   intention   to  commit 
+
+             some crime at 80foota Road, Adarsh Nagar with illegal knife 
+
+             and   said   person   could   be   apprehended   if   raid   is   conducted 
+
+             immediately.  It is further alleged that complainant requested 4­
+
+             5 passersby to join the raiding party but none agreed and left 
+
+             expressing   their   inability   and   then   a   raiding   party   was 
+
+             constituted by.  It is further alleged that thereafter they reached 
+
+             the spot and apprehended the accused at the instance of secret 
+
+             informer   and   on   conducting   formal   search   of   accused   one 
+
+             buttondar   knife   was   recovered   from   right   side   pocket   of   his 
+
+             pant.   It is further alleged that the knife was measured and its 
+
+             sketch was prepared and pulanda was prepared after sealing it 
+
+             with seal of SS and took the same into possession.   ON the 
+
+             basis   of   the   said   allegations   case   was   got   registered   against 
+
+             accused and investigation was carried out.
+
+</p><p id="p_2">      2.                  After   completion   of   investigation,   chargesheet   was 
+
+333/2007­ Adarsh Nagar                                                                  page2/
+              filed.   Accused was summoned and provisions of <a href="/doc/1934415/" id="a_3">section 207</a> 
+
+             cr.p.c. were complied with.
+</p>
+<p id="p_3">      3.                 The particulars of offence were explained to accused 
+
+             and charge for offence punishable u/s. 25/54/59 <a href="/doc/1934415/" id="a_4">Arms Act</a> was 
+
+             framed   against   accused   to   which   he   pleaded   not   guilty   and 
+
+             claimed trail and accordingly the case was fixed for prosecution 
+
+             evidence.
+</p>
+<p id="p_4">      4.                 During   the   course   of   trial   prosecution   examined 
+
+             following four witnesses in support of its case.
+
+</p><p id="p_5">      5.                 PW1 is ASI Dinesh Kumar i.e. the duty officer; PW2 
+
+             is HC Jai Bhagwan i.e. second IO;  PW3 is HC Savender Singh 
+
+             i.e. the complainant/ first investigating officer and PW4 is HC 
+
+             Ashok Kumar.
+</p>
+<p id="p_6">      6.                 Thereafter,   prosecution   evidence   was   closed   today 
+
+             i.e. on 10.4.2013 and statement of accused was also recorded 
+
+             wherein accused denied the evidence that has come on record 
+
+             against him. However, accused choose not to lead evidence in 
+
+             his defence.
+</p>
+<p id="p_7">      7.                 I   have   heard   Ld   APP   for   the   State   as   well   as   Ld 
+
+333/2007­ Adarsh Nagar                                                                    page3/
+              counsel for accused and have also gone through the file.
+
+</p><p id="p_8">      8.                 PW1 ASI Dinesh Kumar merely proved the FIR i.e. 
+
+             Ex. PW1/A.
+</p>
+<p id="p_9">      9.                 PW2 HC Jai Bhagwan is the second IO.  He deposed 
+
+             regarding receipt of copy of FIR;  reaching the spot alongwith 
+
+             PW4;  preparing site plan and arrest of accused etc.
+
+</p><p id="p_10">      10.                PW3 HC Savender is the complainant/ first IO. He 
+
+             deposed  regarding patrolling duty alongwith PW4; receipt of 
+
+             secret   information;     apprehension   of   accused;   recovery   of 
+
+             buttondar knife from the possession of accused;   getting case 
+
+             registered through PW4;  arrival of second IO at the spot etc.
+
+</p><p id="p_11">      11.                PW4 is HC Ashok Kumar.  The testimony of PW4 is 
+
+             similar to that of PW3 as he was alongwith the IO at the time of 
+
+             apprehension of accused and recovery of knife from possession 
+
+             of accused.
+</p>
+<p id="p_12">      12.                Accused   in   his   statement   recorded   u/s.   281/   313 
+
+             cr.p.c. denied the evidence that has come on record against him. 
+
+             Accused choose not to lead evidence in his defence.
+
+</p><p id="p_13">      13.                In   the   present   case,   prosecution  has   produced   and 
+
+333/2007­ Adarsh Nagar                                                              page4/
+              examined four witnesses.   The testimony of PW1 is of formal 
+
+             nature being the duty officer.  The testimony of PW2, PW3 and 
+
+             PW4 is material one. 
+</p>
+<p id="p_14">      14.                 As per prosecution story, the complainant i.e. PW3 
+
+             was   on   patrolling   duty   alongwith   PW4   when   accused   was 
+
+             apprehended at the instance of secret informer and a knife was 
+
+             allegedly recovered from the possession of accused. 
+
+</p><p id="p_15">      15.                 Perusal of testimony of PW3 and PW4 shows that 
+
+             the sketch of knife is Ex. PW3/A and the seizure memo is Ex. 
+
+             PW3/B.  PW3 and PW4 have stated in their testimony recorded 
+
+             in court that the aforesaid two documents were prepared by IO 
+
+             prior to the registration of the present case. However, perusal of 
+
+             abovesaid documents i.e. Ex. PW3/A and Ex. PW3/B clearly 
+
+             shows that the FIR Number and other particulars of the present 
+
+             case are mentioned on the said documents.  No explanation has 
+
+             come from the prosecution as to how the FIR Number surfaced 
+
+             on   those   documents   which   were   prepared   prior   to   the 
+
+             registration   of   the   case.     This   fact   casts   a   doubt   upon   the 
+
+             testimony of PW3 and PW4 because if the said documents were 
+
+333/2007­ Adarsh Nagar                                                                   page5/
+              prepared prior to the registration of the present case, then how 
+
+             the FIR Number as well as other particulars of the present case 
+
+             surfaced   on   the  said  documents.  At  this  stage,  reference  can 
+
+             also be made of a case titled as <a href="/doc/382540/" id="a_5">Pawan Kumar vs. Delhi Admn</a>.  
+
+             1987 CC Cases­585 Delhi wherein Hon'ble High Court of Delhi 
+
+             had held that the mention of FIR Number on recovery memo 
+
+             etc. which were prepared prior to lodging the FIR creates doubt 
+
+             and benefit should go to the accused. 
+</p>
+<p id="p_16">      16.                 As   per   prosecution   story,   the   knife   was   recovered 
+
+             from   the   possession   of   accused   from   public   place.     It   is 
+
+             pertinent to mention that the place from where the accused was 
+
+             allegedly apprehended is a busy place and lot of shops/ houses 
+
+             are located in the vicinity. PW3 and PW4 have deposed in their 
+
+             examination in chief that 4­5 passersby to join the investigation 
+
+             but none agreed.  However, inspite of it IO had failed to join any 
+
+             public witness in the investigation of present case.   No efforts 
+
+             were made by the IO to call witnesses from the nearby shops/ 
+
+             houses.   At  this stage, reference can also be made to a case 
+
+             titled   as  <a href="/doc/924354/" id="a_6">Nanak   Chand   vs.   State   of   Delhi</a>   reported   as   1992  
+
+333/2007­ Adarsh Nagar                                                                page6/
+              Cr.L.J­ 55  wherein it was held that the recovery was from a 
+
+             street with houses on both sides and shops nearby.  And, yet no 
+
+             witness from the public has been produced.   Not that in every 
+
+             case   the   police   officials   are   to   be   treated   as   unworthy   of 
+
+             reliance   but   their   failure   to   join   witnesses   from   the   public 
+
+             especially   when   they   are   available   at   their   elbow,   may   cast 
+
+             doubt.   
+</p>
+<p id="p_17">      17.                 It is also pertinent to mention that as per prosecution 
+
+             version the seal after use was handed over by PW3 to PW4. 
+
+             Both PW3 and PW4 are police officials and were posted in the 
+
+             same police station on the relevant date and time.  Seal was not 
+
+             handed over to any independent witness.  In such a situation the 
+
+             possibility of tampering with the case property cannot be ruled 
+
+             out. 
+</p>
+<p id="p_18">      18.                 It is also pertinent to mention that as per prosecution 
+
+             version PW3 alongwith PW4 were on patrolling duty in the area 
+
+             but   the   prosecution   has   failed   to   produce   documentary 
+
+             evidence/DD in this regard.  This fact also creates a doubt in the 
+
+             prosecution version.  
+</p>
+<p id="p_19">333/2007­ Adarsh Nagar                                                                 page7/
+</p><p id="p_20">       19.                Thus,   in   view   of   the   facts   and   circumstances   and 
+
+             discussion made hereinabove, I am of the considered view that 
+
+             prosecution has failed to prove its case against accused beyond 
+
+             reasonable doubt.   Hence, accused is hereby acquitted in the 
+
+             present case.  
+</p>
+<pre id="pre_4">ANNOUNCED IN OPEN COURT                        DEEPAK DABAS
+on 10th of April, 2013                                  MM:N­05:ROHINI:DELHI
+
+
+
+
+333/2007­ Adarsh Nagar                                                               page8/
+ 333/2007­  AN
+10.4.2013
+Present:    Ld APP for the State.
+</pre><p id="p_21">            Accused is present on bail alongwith Ld counsel.
+            PW4 examined and are discharged.
+</p><p id="p_22">            No other PW is present today.
+</p><p id="p_23">            Perusal   of   the   record   shows   that   material   witnesses 
+
+have already been examined.  Hence, PE is closed.
+
+</p><p id="p_24">                         Statement   of   accused   has   been   recorded   separately. 
+
+Accused has stated that he do not want to lead DE.
+
+</p><p id="p_25">                         Final arguments heard.  File perused.
+</p>
+<p id="p_26">                         Vide my separate judgment of even date announced in 
+
+open court today, accused is hereby acquitted in the present case. 
+
+Bail   bonds   are   cancelled.     Surety   is   discharged.     Original 
+
+documents, if any of surety on record be returned after cancellation 
+
+of   endorsement   thereon.     File   be   consigned   to  record   room   after 
+
+necessary compliance.</p><pre id="pre_5">
+
+                                                                 DEEPAK DABAS
+                                                         MM:N­05:DELHI:10.4.2013
+
+
+
+
+333/2007­ Adarsh Nagar                                                              page9/
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,558 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Air India Limited vs M/S Nouvelle Travel Mart (P) Ltd on 1 August, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/189467747/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/257409/">The Indian Companies (Amendment) Act,   1930</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1373507/">Punjab And Sind Bank vs M/S. Manjit Properties Private ... on 24 January, 1994</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1555740/">United Bank Of India vs Sh. Naresh Kumar And Ors on 18 September, 1996</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/189467747/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/189467747/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/189467747/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Air India Limited vs M/S Nouvelle Travel Mart (P) Ltd on 1 August, 2017</div><pre id="pre_1">   IN THE COURT OF SH. HARISH KUMAR : ADDL. DISTRICT
+ JUDGE -13 : CENTRAL DISTRICT ; TIS HAZARI COURTS : DELHI
+
+                        CS No. 10084/16 (Old No. 166/16)
+
+In re :-
+
+Air India Limited
+Having its Registered Office at
+Airlines House,
+113, Gurudwara Rakab Ganj Road,
+New Delhi-110 001
+(Erstwhile National Aviation Company
+of India Ltd. And earlier Indian Airlines Ltd.)
+
+
+                                                                                  ........ Plaintiff
+
+
+                                         Versus
+
+
+1.       M/s Nouvelle Travel Mart (P) Ltd.
+         6, Rachina Building (2nd Floor),
+         13/30, Ajmal Khan Road,
+         Karol Bagh, New Delhi-110 005
+
+2.       Mrs. Tarveen Kaur
+         Managing Director
+         M/s Nouvelle Travel Mart (P) Ltd.
+         80/20, Malviya Nagar,
+         New Delhi-110 012
+
+3.       Mr. J.P. Singh
+         S/o Late Sh. Inam Singh
+         Director
+         M/s Nouvelle Travel Mart (P) Ltd.
+         F-63, Naraina Vihar, New Delhi
+
+4.       Mr. Inam Singh (Deceased)
+         Through Legal Heir
+         Defendant No. 3 Mr. J.P. Singh
+
+                                                                        .......... Defendants
+
+
+CS No. 10084/16   M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.     Page No. 1 of 11
+          Date of institution of present suit               :         30.11.1992
+         Date of receiving in this court                   :         17.02.2016
+         Date of hearing arguments                         :         17.07.2017
+         Date of Judgment                                  :         01.08.2017
+
+                         Suit for Recovery of Rs.5,68,209/-
+
+
+JUDGMENT
+</pre>
+<p id="p_1">                  This judgment shall dispose of the suit filed by the plaintiff
+for recovery of Rs.5,68,209/- towards balance principal sum together
+with accrued interest @ 18.5% and pendentelite and future interest
+@24%.
+</p>
+
+<p id="p_2">1.                Briefly stated case of the plaintiff is that Indian Airlines is
+statutory corporation established under Section 3 of Indian Airlines Act
+and is a body corporate having perpetual succession and common
+seal. Mr. V.S. Raghvan, Manager (Personal Service) has been
+authorised on behalf of plaintiff corporation to sign, verify the plaint and
+institute the suit to recover the dues on behalf of the plaintiff and
+against the defendants.
+</p>
+
+<p id="p_3">2.                Defendants no. 2 to 4 are the Directors of defendant no. 1
+company duly incorporated under the provision of <a href="/doc/257409/" id="a_1">Indian Companies
+Act</a>. It has been further mentioned that plaintiff corporation engaged
+and appointed defendant company as its approved agent for selling
+Indian Airlines Tickets w.e.f. 16.12.1988 vide letter dated 30.011.1988.
+The said appointment was on credit basis and as such defendant
+company furnished security by way of bank guarantee of Rs.7,00,000/-
+under the said agreement. Defendants were authorised to sell Indian
+Airlines tickets for and on behalf of the plaintiff corporation w.e.f.
+16.12.1988 and detail account showing the sale of tickets done by the
+defendants were required to be submitted every fortnightly to the
+plaintiff corporation along with sale proceeds regularly. For the above
+CS No. 10084/16     M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 2 of 11
+ services i.e. sale of ticket fixed commission on the valuation of the
+ticket was payable to the defendant company by the plaintiff
+corporation.
+</p>
+
+<p id="p_4">3.                It has been alleged that under the terms and conditions of
+the contract of appointment the defendant was required to submit
+statement of sale of ticket every fortnightly along with remittance of
+sale proceeds of tickets sold by the defendant company regularly.
+However, defendant failed to submit the statement of sale of ticket for
+the fortnight period ending 31.07.1991 and for the period commencing
+from 01.08.1991 to 15.08.1991. The defendants defaulted in remitting
+the sale proceed of the ticket sold by the defendants for the aforesaid
+fortnight. Thus defendants owe a sum of Rs.11,70,990/- on account of
+unpaid amount towards sale of tickets for the aforesaid period. It has
+been further mentioned that on crediting and debiting the various
+amounts for the various periods in the accounts of defendants, a sum
+of Rs.11,56,439/- was due and payable towards principal sum by the
+defendant to the plaintiff corporation. It has been further stated that
+transaction between the parties was purely commercial in nature and
+as such defendants are liable to pay interest on the said amount
+@18.5% per annum and thus a sum of Rs.96,574/- was debited to the
+accounts of defendants towards interest upto 31.07.1992.
+</p>
+
+<p id="p_5">4.                It has been further mentioned that plaintiff bank invoked
+the bank guarantee and the proceeds of bank guarantee amounting to
+Rs.5,53,013/- was appropriated towards the outstanding. It has been
+further mentioned that on 26.11.1992 a sum of Rs.43,406/- was
+disbursed to the plaintiff corporation on behalf of the defendants by
+IATA, Singapore which amount was duly credited to the account of
+defendants, leaving balance dues of Rs.5,09,607/-. It has been
+mentioned that defendants are jointly and severally liable to pay a sum
+
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 3 of 11
+ of Rs.58,602/- on account of dishonorment of two cheques with reason
+not arranged for by banker and thus plaintiff has filed the present suit
+to claim the amount of Rs.5,68,209/-after issuing legal notice dated
+20.01.1992 demanding the said amount Rs.5,68,209/- but neither any
+reply nor any payment has been received except by defendant No. 3
+and 4. Hence, plaintiff has filed the present suit for recovery of said
+amount.
+</p>
+
+<p id="p_6">5.                Notice of the suit was sent to the defendants, however,
+despite service defendants no. 1 and 2 neither appeared nor filed
+written statement and accordingly they were proceeded against ex-
+parte. Defendants no. 3 and 4 filed separate written statements
+thereby raising preliminary objection that suit is not maintainable; suit
+is bad for misjoinder of parties as defendant no. 3 is neither a Director
+of defendant no. 1 nor a guarantor in any manner; that the plaintiff did
+not approach the court with clean hands; the plaintiff has not disclosed
+that plaintiff was duly informed regarding the resignation of defendant
+no. 3 w.e.f. 01.05.1989. The resolution to this effect was passed on
+29.04.1989 and was duly approved by the Chairperson of defendant
+no. 1 and Bank and RoC was duly intimated about the same. It has
+been mentioned that Resolution dated 29.04.1989 clearly speaks
+beyond the shadow of any doubt that Resignation Letter dated
+15.04.1989 submitted by defendant no. 3 was accepted by the
+company w.e.f. 01.05.1989.
+</p>
+
+<p id="p_7">6.                It has been mentioned that plaintiff was accordingly
+informed about the resignation of defendant no. 3 from defendant no.
+</p><p id="p_8">1. It has been further mentioned that Sh. Manjit Singh as Managing
+Director of defendant no. 1 not only informed IATA but also to the
+agency Interline Panel-9 (India) regarding the necessary information of
+the resignation of Sh. J.P. singh defendant no. 3. It has been pleaded
+
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 4 of 11
+ that since defendant no. 3 resigned from the company w.e.f.
+01.05.1989 defendant no. 3 is neither personally nor constructively
+liable and hence, suit is not maintainable against him. On merits,
+defendant no. 3 has questioned authority of Sh. V.S. Raghvan to
+institute the present suit on behalf of the plaintiff and entire contents of
+the plaintiff has been denied.
+</p>
+
+<p id="p_9">7.                In the written statement of defendant no. 4 similar stand
+has been taken. He too submitted that he had resigned from defendant
+no. 1 and his resignation is effective from 01.05.1989 and that other
+concerned authorities were duly informed including RoC.
+</p>
+
+<p id="p_10">8.                From the pleadings of the parties following issues were
+framed vide order dated 11.03.2002:-
+</p>
+
+<blockquote id="blockquote_1">              1. Whether the suit has been filed, signed and verified by the
+                  duly authorised person? OPP
+</blockquote><blockquote id="blockquote_2">              2. Whether the suit is bad for misjoinder of parties as per
+                  preliminary objection of the written statement?
+</blockquote><blockquote id="blockquote_3">              3. Whether the defendants are jointly and severally liable for
+                  the suit amount?
+</blockquote><blockquote id="blockquote_4">              4. Whether the plaintiff is entitled to recover any amount, if
+                  so, to what amount and at what rate?
+</blockquote><blockquote id="blockquote_5">              5. Relief
+
+
+</blockquote><p id="p_11">9.                In support of its case plaintiff examined Mr. Joginder Singh
+as PW1 who filed his affidavit in examination in chief Ex. PW1/A and
+relied upon various documents. He was cross-examined by the
+defendants. Thereafter, plaintiff closed its evidence.
+</p>
+
+<p id="p_12">10.               Defendant no. 3 examined himself as DW-1 and filed his
+
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 5 of 11
+ affidavit in examination in chief Ex. DW1/A.
+</p>
+
+<p id="p_13">11.               During the pendency name of plaintiff changed and it
+became National Aviation Company of India Ltd. and subsequently it
+became Air India Limited.
+</p>
+
+<p id="p_14">12.               Defendant no. 4 expired and his LR i.e. defendant no. 3
+was already on record.
+</p>
+
+<p id="p_15">13.               After appreciating pleadings, evidence, material on record
+and arguments of Ld. Counsel for the parties, issues wise findings are
+as under:-
+</p>
+
+<p id="p_16">ISSUE No. 1:      Whether the suit has been filed, signed and
+verified by the duly authorised person? OPP
+
+</p><p id="p_17">14.               Onus to prove this issue is upon the plaintiff. Plaintiff
+witness in his examination-in-chief did not depose a single word about
+the person who signed, verified and instituted the plaint and about said
+person's authority. Plaintiff also did not place on record any document
+to show that Mr. V.S. Raghvan was the Principal Officer of the plaintiff
+company. There is no cross-examination on this point nor any
+suggestion has been given to this effect. Since onus is upon the
+plaintiff, therefore, it was required of the plaintiff to lead some evidence
+on record to prove the authority of the person who has signed, verified
+and instituted the present plaint. Hon'ble Supreme Court in <a href="/doc/1555740/" id="a_2">Union
+Bank of India vs. Naresh &amp; Ors</a> AIR 1997 Supreme Court 3 held
+that where suits are instituted or defended on behalf of public
+corporation, public interest should not be permitted to be
+defeated on a mere technicality. Procedural defects which do not
+go to the root of the matter should not be permitted to defeat the
+just cause. There is sufficient power in the courts, under the code
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 6 of 11
+ of Civil Procedure, to ensure that injustice is not done to any
+party who had a just case. As far as possible a substantive right
+should not be allowed to be defeated on account of a procedural
+irregularity which is curable. It was further held that in cases
+where pleadings have been signed by one of its officer a
+Corporation can ratify the said action of its officer in signing the
+pleadings. Such ratification can be expressed or implied. The
+court, on the basis of the evidence on record, and after taking all
+the circumstance of the case, specially with regard to the conduct
+of the trial, can come to the conclusion that Corporation had
+ratified the act of signing of the pleadings by it's officer.
+</p>
+
+<p id="p_18">15.               Since plaintiff has been continuing with the present suit
+and deputing its officer not only for the conducting the case but also
+deputed its officer/person to depose on behalf of the plaintiff goes to
+show that plaintiff has ratified the act of officer who has signed the
+present plaint on behalf of the plaintiff and therefore, impliedly goes to
+show that suit has been instituted by an officer of the plaintiff who was
+authorised to do so or whose act has been ratified.
+</p><p id="p_19">                  Hence, issue no. 1 is decided in favour of the plaintiff and
+against the defendant.
+</p>
+
+<p id="p_20">ISSUE No. 2 :-   Whether the suit is bad for misjoinder of parties
+as per preliminary objection of the written statement?
+</p>
+<p id="p_21">ISSUE No. 3 :-      Whether the defendants are jointly and severally
+liable for the suit amount?
+</p>
+<p id="p_22">16.               Both the issues are taken up together as they are inter
+connected and requires appreciation of same facts and evidence. It
+has already been noted above that defendants no. 1 and 2 have not
+contested the matter. Therefore, so far as submission of the plaintiff
+against the defendant no. 1 is concerned that has gone undisputed as
+
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 7 of 11
+ defendants no. 1 and 2 did not contest the present matter. Plaintiff has
+placed on record the appointment letter dated 30.11.1992 Ex. PW1/3,
+certificate of appointment dated 16.12.1988 Ex. PW1/4, Statement of
+sales and refund for the period 16.07.1991 to 31.07.1991 Ex. PW1/5 to
+Ex./ PW1/15, Statement of sales and refund for the period from
+01.08.1991 to 15.08.1991 Ex. PW1/16 to ex. PW1/23, Statement of
+Account Ex. PW1/27 to Ex. PW1/31, Statement showing the details of
+amount due from defendant no. 1 Ex. PW1/15. All this goes to show
+that the amount claimed by the plaintiff is due against the defendant
+no. 1 and contents thereof have gone unrebutted and unchallenged so
+far as defendants no. 1 and 2 are concerned.
+</p>
+
+<p id="p_23">17.               So far as defendants no. 3 and 4 are concerned they have
+pleaded that they resigned from defendant no. 1 on 29.04.1989 which
+was duly accepted by defendant no. 1 effective from 01.05.1989.
+Defendant summoned the record from RoC and witness DW-2 brought
+the summoned record i.e. Form No. 32 as per which Form 32 record
+was submitted by defendants no. 3 and 4 in the office of RoC on
+12.05.1989. It has been further mentioned that other documents such
+as resignation from Director with copies of other documents submitted
+by defendant No. 3 and defendant No. 4 were received on 22.05.1989.
+He exhibited the Form as Ex. DW2/1. He also brought the copy of
+resignation submitted by defendants no. 3 and 4 along with Board
+Resolution Ex. DW2/2 (colly.) and DW2/3 (colly.).
+</p>
+
+<p id="p_24">18.               In cross-examination of DW2 no suggestion was given that
+defendants no. 3 and 4 have not submitted their resignation or that
+Form no. 32 was not issued or that record brought by the witness was
+not of RoC or that there is not such record in the RoC.
+</p>
+
+<p id="p_25">19.               Defendant also examined one Record Keeper from Debtt
+Recovery Tribunal- III who brought the record of TA No. 43/02 and DRT
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 8 of 11
+ III (4.A. No. 749/95) and suit no. 741/93 of Delhi High Court titled as
+<a href="/doc/1373507/" id="a_3">Punjab &amp; Sind Bank vs. M/s Novel Mart Ltd. &amp; ors. Final</a> order passed
+on 26.02.2004 in the said case by DRT was exhibited as Ex. DW3/1
+wherein defendant No. 3 and 4 were party therein as respondent No. 4
+and 5 respectively and DRT based on resignation letter dismissed the
+claim of the Bank therein against defendants no. 3 and 4 herein.
+</p>
+
+<p id="p_26">20.               Admittedly defendants no. 3 and 4 has specifically proved
+resignation from defendant no. 1 in the year 1989 itself i.e. w.e.f.
+01.05.1989 whereas present transaction involved in the suit are of
+period of July and August 1991. Therefore, defendants no. 3 and 4 are
+not even remotely could be said to have acted in the transaction under
+dispute. Defendants no. 3 and 4 having resigned from the defendant
+no. 1 cannot be held personally liable at least for the transaction
+having taken place after their resignation. Hence, defendants no. 3 and
+4 were neither necessary nor proper parties. Hence, the suit is bad for
+misjoinder of the party.
+</p>
+
+<p id="p_27">21.               It is otherwise settled principle of law that company is a
+juristic person in itself and in order to make the Director of the
+defendant's company personally liable some specific allegations has to
+be levelled against the Directors so as to make them liable and in order
+to invoke the "lifting of corporate veil" plaintiff must plead and prove the
+grounds in the plaint requiring "lifting of corporate veil". Bare perusal of
+the plaint of the present case shows that no allegation of personal
+nature has been leveled against any of the directors and no ground
+has been set up for "lifting of corporate veil". If no ground for lifting of
+corporate veil is pleaded the Directors are personally not liable in civil
+matters, therefore, Directors cannot be made jointly and severally
+liable in the absence of specific pleadings and evidence to this effect.
+</p>
+
+
+<p id="p_28">CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 9 of 11
+</p><p id="p_29"> 22.               Hence, the directors of the defendant company particularly
+defendants no. 3 and 4 are not liable for any liabilities of the Company.
+</p><p id="p_30">                  Hence, issues no. 2 and 3 are decided against the plaintiff
+and in favour of defendants no. 3 and 4.
+</p>
+
+<p id="p_31">ISSUE No. 4 :- Whether the plaintiff is entitled to recover any
+amount, if so, to what amount and at what rate?
+</p>
+<p id="p_32">23.               Onus to prove this issue is upon the plaintiff. Plaintiff has
+already duly proved that defendant No.1 was duly appointed for sale of
+tickets and has failed to furnish statement of accounts of sale of tickets
+for the period w.e.f. 16.07.1991 to 15.08.1991. Plaintiff has also
+successfully proved that a sum of Rs.5,68,209/- was due against the
+defendant no. 1. Accordingly, plaintiff is entitled to recover the said
+sum. As defendant no. 1 is not contesting the present matter nor its
+Director defendant no. 2 has contested the present matter. Accordingly,
+plaintiff is entitled to recover the said amount from defendant no. 1 and
+from defendant no. 2 to the extent to which he is liable as the Director
+of the company under the Companies Law. Admittedly the transaction
+between the parties is of commercial in nature and therefore, plaintiff is
+entitled compensation by way of interest for the period for which it
+remained deprived of the said amount.
+</p>
+
+<p id="p_33">24.               Section 34 of CPC provides for grant of interest pendente-
+lite at any rate not exceeding 6% and future interest at any rate not
+exceeding contractual rate and if there is no contractual rate than not
+exceeding the rate at which nationalised banks advance loan. Keeping
+in mind the said provision interest of justice would be served if plaintiff
+is granted simple interest @ 6% per annum from the date of institution
+of the suit till the passing of decree till its realization.
+</p>
+
+<p id="p_34">25.               In view of the above discussion, plaintiff is held entitled to
+CS No. 10084/16    M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 10 of 11
+ recover a sum of Rs. 5,68,209/- along with simple interest @ 6% per
+annum from the date of institution of the suit till realization.
+</p>
+
+<p id="p_35">RELIEF
+                  In view of the above, suit of the plaintiff is dismissed
+against defendant No. 3 and 4 and is allowed only against defendants
+no. 1 and 2. A decree for recovery of sum of Rs. 5,68,209/- (Rupees
+Five Lakhs sixty eight thousand and two hundred nine only) is hereby
+passed in favour of the plaintiff and against the defendant No. 1 and 2
+only along with simple interest @ 6% per annum from the date of
+institution of the suit till actual realization.
+</p><p id="p_36">                  Cost of the suit is also awarded in favour of plaintiff.
+                  Decree sheet be prepared accordingly.
+</p><p id="p_37">                  File be consigned to Record Room after necessary
+compliance.</p><pre id="pre_2">
+
+
+                                                                 (Harish Kumar)
+Announced in open Court                                        ADJ-13(Central)/THC
+(Judgment contains 11 pages)                                    Delhi/01.08.2017
+
+
+
+
+CS No. 10084/16     M/s Indian Airlines   vs.   M/s Nouvelle Travel Mart (P) Ltd.   Page No. 11 of 11
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

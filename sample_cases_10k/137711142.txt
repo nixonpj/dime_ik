@@ -1,0 +1,772 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>G Venkat Rao vs The State Of Karnataka on 10 July, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/137711142/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 6 docs 
+      
+        - [<A HREF="/search/?formInput=cites:137711142">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/57488768/">Section 14 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/152603276/">Section 13 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/141446058/">Rashtriya Kisan Mazdoor ... vs The State Of Uttar Pradesh ... on 23 October, 2018</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/52229129/">The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/137711142/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/137711142/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/137711142/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">G Venkat Rao vs The State Of Karnataka on 10 July, 2019</div><div class="doc_author">Author: Chief Justice Prasad</div>
+
+<pre id="pre_1">                            1
+
+
+
+     IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+          DATED THIS THE 10TH DAY OF JULY, 2019
+
+                        PRESENT
+
+      THE HON'BLE MR. ABHAY S. OKA, CHIEF JUSTICE
+
+                          AND
+
+     THE HON'BLE MR. JUSTICE H.T. NARENDRA PRASAD
+
+         WRIT PETITION NO.3041/2016 (GM-RES-PIL)
+
+BETWEEN
+
+1.    G. VENKAT RAO
+      S/O G. SATYANARAYANA
+      AGED ABOUT 43 YEARS
+      VENKATRAMANAGAR CAMP
+      BURMA CAMP POST
+      SINDHANOOR-584128
+      RAICHUR DISTRICT
+      KARNATAKA
+
+2.    G.NAGESHWAR RAO
+      S/O G.RAMA RAO
+      AGED ABOUT 65 YEARS
+      VENKATRAMANAGAR CAMP
+      BURMA CAMP POST
+      SINDHANOOR - 584 128
+      RAICHUR DISTRICT
+      KARNATAKA
+
+3.    M.V.RAMA RAO
+      S/O MADHAV RAO
+      AGED ABOUT 46 YEARS
+      K.GUDDINNI CAMP
+      MANVI - 584 123
+      RAICHUR DISTRICT
+      KARNATAKA
+                            2
+
+
+
+
+4.   MYNENI MADHAV RAO
+     S/O RAMAIAH
+     AGED ABOUT 70 YEARS
+     K.GUDDINNI CAMP
+     MANVI - 584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+5.   D.LAKSHMINARASIMHA RAJU
+     S/O VENKATRAMA RAJU
+     AGED ABOUT 49 YEARS
+     K.GUDDINNI CAMP
+     MANVI - 584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+6.   R.SRINIVAS RAJU
+     S/O R SEETHA RAMA RAJU
+     AGED ABOUT 49 YEARS
+     SANGAPUR CAMP
+     MANVI - 584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+7.   M.L.V. PRASAD
+     S/O SEETHA RAMAIAH
+     AGED ABOUT 50 YEARS
+     KOLI CAMP
+     NEERMANVI POST
+     MANVI-584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+8.   VEMURI PARAMESHWAR RAO
+     S/O RATTHAIAH
+     AGED ABOUT 72 YEARS
+     HARVI RADHAKRISHNA CAMP
+     HARVI POST
+     MANVI-584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+                          3
+
+
+
+
+9.   C H SURESH
+     S/O C H KOTESHWAR RAO
+     AGED ABOUT 40 YEARS
+     HARVI RADHAKRISHNA CAMP
+     HARVI POST, MANVI-584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+10. S. SUDHEER KUMAR
+    S/O S. SHIVRAM KRISHNA
+    AGED ABOUT 32 YEARS
+    MADAGIRI POST
+    MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+11. G RANGANATH
+    S/O BUDDAIAH
+    AGED ABOUT 42 YEARS
+    HARVIBASAVANNA CAMP
+    MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+12. Y SURYA BHASKAR RAO
+    S/O PAPARAO
+    AGED ABOUT 59 YEARS
+    NO.102/1,JALAPUR CAMP
+    LAKKAMDINNI POST
+    MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+13. A NAGESHWAR RAO
+    S/O A SUBBA RAO
+    AGED ABOUT 67 YEARS
+    JALAPUR CAMP, SIRWAR
+    MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+                            4
+
+
+
+14. V NARASIMHA REDDY
+    S/O NARAYAN REDDY
+    AGED ABOUT 54 YEARS
+    BALIJAPALLI, GHANPUR
+    MANDALM, WANAPARTH
+    MAHABOOBNAGAR
+    TELANGANA
+
+15. SMT. PRAMILA BAI INNANI
+    W/O VITTAL DAS INNANI
+    AGED ABOUT 57 YEARS
+    5-2-2/1, NETAJI NAGAR
+    RAICHUR-584 101
+    KARNATAKA
+
+16. SMT. SUREKHA BAI INNANI
+    W/O RADHESHAM INNANI
+    AGED ABOUT 52 YEARS
+    5-2-2, NETAJI NAGAR
+    RAICHUR-584 101
+    KARNATAKA
+
+17. N RAMESH S/O SHANKAR
+    AGED ABOUT 35 YEARS
+    NO.1-47/2, KANAGARTHI
+    ODELA, KARIMNAGAR
+    TELANGANA
+
+18. M GANGARAJU
+    S/O RAMACHANDRAM
+    AGED ABOUT 50 YEARS
+    NO.L-279
+    NIJALINGAPPA COLONY
+    RAICHUR-584 101
+    KARNATAKA
+
+19. P TULYANANDA RAO
+    S/O RAMA RAO
+    AGED ABOUT 54 YEARS
+    MUTYALA RAO COMPLEX
+    GUNJ ROAD
+                           5
+
+
+
+   RAICHUR-584 101
+   KARNATAKA
+
+20. G SRINIVAS
+    S/O G NAGESHWAR RAO
+    AGED ABOUT 35 YEARS
+    VENKATRAMANAGAR CAMP
+    BURMA CAMP POST
+    SINDHANOOR-584 128
+    RAICHUR DISTRICT
+    KARNATAKA
+
+21. C.H. SRINIVAS RAO
+    S/O KUTUMBH RAO
+    AGED ABOUT 51 YEARS
+    HARVI RADHAKRISHNA CAMP
+    HARVI POST, MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+22. S. SATYANARAYANA
+    S/O S. CHANDRANNA
+    AGED ABOUT 38 YEARS
+    VADDEMAAN
+    CHINNACHINTAL
+    MAHABOOBNAGAR
+    TELANGANA
+
+23. SMT. G. PADMAVATHI
+    W/O G. NAGESHWAR RAO
+    AGED ABOUT 56 YEARS
+    VENKATRAMNAGAR CAMP
+    BURMA CAMP POST
+    SINDHANOOR-584 128
+    RAICHUR DISTRICT
+    KARNATAKA
+
+24. SRINATH SHARMA
+    S/O GOPALACHARI
+    AGED ABOUT 47 YEARS
+    YEDIRA
+    MAHABOOBNAGAR TALUKA
+                           6
+
+
+
+   AND DISTRICT
+   TELANGANA STATE
+
+25. M. JAGADEESHWARA REDDY
+    S/O NARASIMHA REDDY
+    AGED ABOUT 53 YEARS
+    VELTURU, PEDDAMANDA
+    MAHABOOBNAGAR
+    TELANGANA STATE
+
+26. S. SHIVARAM RAJU
+    S/O RANGA RAJU
+    AGED ABOUT 41 YEARS
+    KADLUR-584 101
+    RAICHUR DISTRICT
+    KARNATAKA
+
+27. D. SUBBARAJU
+    S/O D. RAMARAJU
+    AGED ABOUT 41 YEARS
+    KADLUR-584 101
+    RAICHUR DISTRICT
+    KARNATAKA
+
+28. VEERARJUN
+    S/O ACCHA RAO
+    AGED ABOUT 55 YEARS
+    NO.1-11-38/27
+    BASAVESHWAR COLONY
+    RAICHUR-584 101
+    KARNATAKA
+
+29. DATLA RAMARAJU
+    S/O D SUBBARAJU
+    AGED ABOUT 42 YEARS
+    KADLUR-584 101
+    RAICHUR DISTRICT
+    KARNATAKA
+
+30. D. BALAHOSENI
+    S/O DASTAGIRI
+    AGED ABOUT 37 YEARS
+                           7
+
+
+
+   KONEJEDU VILLAGE
+   PANYAM, KURNOL
+   ANDRA PRADESH
+
+31. K.P. TIRUPALU
+    S/O SUBBARAYADU
+    AGED ABOUT 60 YEARS
+    KONEJEDU VILLAGE
+    PANYAM, KURNOL
+    ANDRA PRADESH
+
+32. SMT. VENU KUMARI
+    W/O E. SATYANARAYANA
+    AGED ABOUT 53 YEARS
+    MOODILLA CAMP
+    MADAGIRI POST
+    MANVI TALUK
+    PIN CODE-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+33. SRI E. SRINIVAS
+    S/O E. SATYANARAYANA
+    AGED ABOUT 40 YEARS
+    MOODILLA CAMP, MADAGIRI POST
+    MANVI TALUK
+    PIN CODE-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+34. SMT. K. RAGHAVAMMA
+    W/O K. GOPALAKRISHNAIAH
+    AGED ABOUT 58 YEARS
+    MADAGIRI CAMP, MADAGIRI POST
+    MANVI TALUK
+    PIN CODE-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+35. K GOPALAKRISHNAIAH
+    S/O VENKATESHWARULU
+    AGED ABOUT 68 YEARS
+                           8
+
+
+
+     MADAGIRI CAMP, MADAGIRI POST
+     MANVI TALUK, PIN CODE- 584 123
+     RAICHUR DISTRICT
+     KARNATAKA
+
+36. SRI U SRIKANTH
+    S/O RAMAKOTESHWAR RAO
+    AGED ABOUT 25 YEARS
+    MADAGIRI CAMP, MADAGIRI POST
+    MANVI TALUK, PIN CODE-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+
+37. VADDE VENKATRATNAM
+    S/O VENKATAPPAIAH
+    AGED ABOUT 60 YEARS
+    MADAGIRI CAMP
+    MADAGIRI POST
+    MANVI-584 123
+    RAICHUR DISTRICT
+    KARNATAKA
+                                      ... PETITIONERS
+
+(BY SRI S.P. KULKARNI, ADVOCATE)
+
+AND:
+
+1.   THE STATE OF KARNATAKA
+     REP BY ITS CHIEF SECRETARY
+     VIDHANA SOUDHA
+     BANGALORE - 560 001
+
+2.   THE DEPUTY COMMISSIONER
+     RAICHUR DISTRICT
+     RAICHUR - 584 101
+     KARNATAKA STATE
+
+3.   STATE BANK OF INDIA
+     STRESSED ASSETS MANAGEMENT
+     GROUP BRANCH, 2ND FLOOR
+     OFFICE COMPLEX BUILDING
+     LMO CAMPUS, NO. 65
+                            9
+
+
+
+       ST.MARKS ROAD
+       BANGALORE - 560 001
+       REP BY ITS CHIEF MANAGER
+       AND AUTHORISED OFFICER
+
+4.     M/S. VISHWA SHANTHI AGRO INDUSTRIES
+       SY.NO.31/2, BIJENEGERA
+       RAICHUR TALUK AND DISTRICT
+       PIN CODE-584 101
+       KARNATAKA STATE
+       REP BY ITS MANAGING PARTNER
+       K.V.KRISHNA RAO
+                                      ... RESPONDENTS
+
+(BY SRI D. NAGARAJ, AGA FOR R-1 &amp; 2;
+ SRI P L VIJAYKUMAR, ADVOCATE FOR R-3;
+ SRI VISHWANATH R. HEGDE, ADVOCATE FOR R-4)
+
+
+       THIS WRIT PETITION IS FILED UNDER ARTICLES 226
+AND 227 OF THE CONSTITUTION OF INDIA PRAYING THAT IN
+THE PUBLIC INTEREST OF THE PETITIONERS, DIRECT
+RESPONDENT NOS.1 TO 3 HEREIN TO RELEASE/PAY TO
+THE PETITIONERS IMMEDIATELY THE PRICE TOWARDS THE
+PADDY BAGS BEING SOLD BY EACH ONE OF THEM TO THE
+RESPONDENT       NO.4   INDUSTRY   AS   REFLECTED   IN
+ANNEXURES-B &amp; B1 TO B36, WHICH IS IN THE CUSTODY OF
+RESPONDENT NO.3 BANK IN PREFERENCE TO THE CLAIM/
+RIGHT OF RESPONDENT NO.3 BANK AT THE EARLIEST &amp;
+ETC.
+
+       THIS WRIT PETITION COMING ON FOR DICTATING
+ORDERS THIS DAY, CHIEF JUSTICE MADE THE FOLLOWING:
+                                      10
+
+
+
+                                  ORDER
+</pre>
+<p id="p_1">          The submissions of the learned counsel appearing for the
+
+petitioners were heard on the earlier date.
+</p>
+<p id="p_2">          2.     The petitioners in this petition under <a href="/doc/1712542/" id="a_1">Article 226</a> of the
+
+Constitution of India are farmers. According to their contention,
+
+they supplied paddy bags to the fourth respondent.               On 11th
+
+February 2014, an order was passed under Section 14 of the
+
+Securitisation and Reconstruction of Financial Assets and
+
+<a href="/doc/198257891/" id="a_2">Enforcement of Security Interest Act</a>, 2002 (for short 'the
+
+<a href="/doc/52229129/" id="a_3">SARFAESI Act</a>') directing possession to be taken of the secured
+
+assets of the fourth respondent.          The third respondent -Bank
+
+seized the industry of the fourth respondent and took physical
+
+possession of the industry as well as the paddy bags. The prayer
+
+in this petition under <a href="/doc/1712542/" id="a_4">Article 226</a> of the Constitution of India is that
+
+the first to third respondents should be directed to release/pay to
+
+the petitioners the price of the paddy bags. The second prayer is
+
+to direct the respondents to follow the guidelines and directions
+
+issued in a decision of the Allahabad High Court in the case of
+
+<a href="/doc/141446058/" id="a_5">RASHTRIYA KISAN MAZDOOR SANGATHAN (REGD.) THRU
+
+CONVENOR vs STATE OF U.P. AND</a> 2 OTHERS1. It is pointed
+
+<span class="hidden_text" id="span_1">1</span>
+    PIL No. 29523 of 2014
+<span class="hidden_text" id="span_2">                                  11</span>
+
+
+
+out that the decision of the Allahabad High Court has been
+
+confirmed by the Apex Court by the order dated 13th October
+
+2014.
+</p>
+<p id="p_3">        3.   There are objections filed by the third respondent -
+
+Bank. The first contention therein is that an alternative remedy is
+
+available.   It is stated that the fourth respondent was enjoying
+
+credit facilities from the third respondent -Bank. It is contended
+
+that the rice/paddy supplied by the petitioners was pledged with
+
+the third respondent -Bank. A reference is made to the
+
+proceedings filed before the Debt Recovery Tribunal. An order
+
+was passed under <a href="/doc/57488768/" id="a_6">Section 14</a> of the SARFAESI Act for taking
+
+possession of the mortgaged factory, land and building and other
+
+assets of the fourth respondent. It is pointed out that the assets
+
+were disposed of in public auction and the sale proceeds have
+
+been credited to the loan account of the fourth respondent. It is
+
+pointed out that the petitioners have no claim on the secured
+
+assets in the form of stock of rice pledged to the Bank in 2009. It
+
+is further pointed out that the petitioners cannot claim the price of
+
+rice which was sold by them in December 2013 and December
+
+2014 to the fourth respondent.
+</p><span class="hidden_text" id="span_3">                                   12</span><p id="p_4">
+
+
+
+</p><p id="p_5">      4.     The submission of the learned counsel appearing for
+
+the petitioners is based on the aforesaid decision of the Allahabad
+
+High Court. He has taken us through the relevant part of the
+
+findings recorded by the Allahabad High Court which are
+
+confirmed by the Apex Court by summarily dismissing the Special
+
+Leave Petition. In this petition, a contention is raised that the total
+
+value of paddy stored by the petitioners and other farmers with the
+
+fourth respondent is worth about Rs.4,40,00,000/-. He invited our
+
+attention to the observations made by the Allahabad High Court
+
+which are on page 113 of the said judgment.
+</p>
+<p id="p_6">
+</p><p id="p_7">      5.     We have considered the submissions.               In the
+
+objections filed by the third respondent, reliance was placed on
+
+the order passed by the Competent Authority under <a href="/doc/57488768/" id="a_7">Section 14</a> of
+
+the SARFAESI Act. It records that the possession of the
+
+mortgaged factory, land and building along with other secured
+
+assets was taken by the said bank. In fact, the inventory report
+
+annexed as Annexure-C to the writ petition is relied upon. The
+
+inventory is of 20th November 2015. It is further stated in the
+
+objections that the secured assets were disposed of by a public
+
+auction on 29th November 2017.         In fact, the third respondent
+
+relied upon the stock of Sona Brown Rice pledged and deposit of
+<span class="hidden_text" id="span_4">                                 13</span>
+
+
+
+warehouse receipts issued between 24th November 2008 and 6th
+
+December 2008. The pledged rice was disposed of by the third
+
+respondent and the sale proceeds have been credited to the loan
+
+account of the fourth respondent.
+</p>
+<p id="p_8">
+</p><p id="p_9">      6.    Thus, the position which emerges is that the power
+
+was exercised under <a href="/doc/57488768/" id="a_8">Section 14</a> by the Magistrate for taking over
+
+possession of the secured assets. The paddy which was seized
+
+has been disposed of by the third respondent and the amount is
+
+credited to the overdue account of the fourth respondent.
+
+
+</p><p id="p_10">      7.    We fail to understand as to how the Bank is expected
+
+to pay the price of paddy supplied by the petitioners to the fourth
+
+respondent. The action under <a href="/doc/152603276/" id="a_9">Section 13</a> and the direction of the
+
+Magistrate under <a href="/doc/57488768/" id="a_10">Section 14</a> of the SARFAESI Act have not been
+
+questioned by the petitioners. The remedy of the petitioners and
+
+similarly placed persons is against the fourth respondent for
+
+recovery of the price of paddy and by no stretch of imagination,
+
+any direction can be issued against the Bank.
+
+
+</p><p id="p_11">      8.    Relying upon the decision of the Allahabad High
+
+Court, the learned counsel appearing for the petitioners submits
+
+that in the interest of farmers, this Court has to intervene. In the
+<span class="hidden_text" id="span_5">                                 14</span>
+
+
+
+facts of the case, the paddy crop has already been sold by the
+
+third respondent and the sale proceeds have been credited to the
+
+loan account of the fourth respondent. Hence, the decision of the
+
+Allahabad High Court cannot be applied apart from the fact that it
+
+does not bind this Court. Therefore, no relief can be granted
+
+against the third respondent -Bank. Hence, there is no merit in
+
+the petition and the same is accordingly rejected.
+
+
+</p><p id="p_12">      9.    We make it clear that the statutory remedies available
+
+to the petitioners can be always adopted in accordance with law.
+
+
+
+
+</p><p id="p_13">                                              Sd/-
+</p><p id="p_14">                                         CHIEF JUSTICE
+
+
+
+
+                                                Sd/-
+</p><p id="p_15">                                               JUDGE
+
+
+
+
+bkv
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,582 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Francis.A vs The Kerala State Electricity ... on 5 January, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/31203277/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/237570/">The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/188690/">State Of Kerala And Two Ors. vs K. Kesavan Nair, Security Officer ... on 27 November, 1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/31203277/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/31203277/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/31203277/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kseb">kseb</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kerala%20state%20electricity%20board">kerala state electricity board</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=terminal%20benefit%20">terminal benefit </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20seshadri"> seshadri</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ksr">ksr</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Francis.A vs The Kerala State Electricity ... on 5 January, 2010</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+                          IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                              PRESENT:
+
+                   THE HONOURABLE MR. JUSTICE DAMA SESHADRI NAIDU
+
+                TUESDAY,THE 7TH DAY OF OCTOBER 2014/15TH ASWINA, 1936
+
+                                    WP(C).No. 23168 of 2014 (U)
+                                        ----------------------------
+
+PETITIONER :
+-----------------------
+
+            FRANCIS.A,
+            PUTHENVEETTIL, SHANTHI NAGAR,
+           THAIKATTUKARA(P.O),ALUVA- 683 106
+
+            BY ADVS.SRI.ELVIN PETER P.J.
+                          SRI.T.G.SUNIL (PRANAVAM)
+                          SRI.K.R.GANESH
+
+RESPONDENT(S):
+----------------------------
+
+        1. THE KERALA STATE ELECTRICITY BOARD LTD.,
+            REPRESENTED BY ITS SECRETARY, VAIDYUTHI BHAVANAM,
+            PATTOM, THIRUVANANTHAPURAM, PIN -695 004
+
+        2. THE CHIEF ENGINEER (H.R.M),
+            KERALA STATE ELECTRICITY BOARD LTD.,
+            VAIDYUTHI BHAVANAM, PATTOM, THIRUVANANTHAPURAM,
+            PIN -695 004
+
+        3. THE DEPUTY CHIEF ENGINEER,
+            KERALA STATE ELECTRICITY BOARD LTD.,
+            VAIDYUTHI BHAVANAM, PERUMBAVOOR -683 542.
+
+        4. THE ASSISTANT EXECUTIVE ENGINEER,
+            KERALA STATE ELECTRICITY BOARD LTD.,
+            REGIONAL STORES DIVISION, ALUVA- 683 101.
+
+             R1 TO R4 BY ADV. SRI.K.S.ANIL, SC, KSEB
+
+            THIS WRIT PETITION (CIVIL) HAVING COME UP FOR ADMISSION
+            ON 07-10-2014, THE COURT ON THE SAME DAY DELIVERED THE
+            FOLLOWING:
+
+
+sts
+
+WP(C).No. 23168 of 2014 (U)
+----------------------------------------
+
+                                           APPENDIX
+
+PETITIONER(S)' EXHIBITS
+-------------------------------------
+
+EXHIBIT P1           COPY OF THE COMMUNICATION DATED 5/1/2010 ISSUED BY THE
+                     DY.CHIEF ENGINEER,ELECTRICAL CIRCLE, VAKATARA TO THE
+                     EXECUTIVE ENGINEER, REGIONAL STORES, KSEB, ALUVA
+
+EXHIBIT P2           COPY OF THE COMMUNICATION DATED 26/11/2010 ISSUED BY THE
+                     DEPUTY CHIEF ENGINEER,ELECTRICAL CIRCLE, IRINJALAKUDA TO
+                     THE EXECUTIVE ENGINEER, REGIONAL STORES, KSEB, ALUVA
+
+EXHIBIT P3           COPY OF THE LETTER DATED 8/11/2011 ISSUED BY THE CHIEF
+                     ENGINEER(DISTRIBUTION CIRCLE),ERNAKULAM, TO THE EXECUTIVE
+                     ENGINEER, REGIONAL STORES, KSEB , ALUVA
+
+EXHIBIT P4           COPY OF THE REPRESENTATION DATED 22/11/13 SUBMITTED BY THE
+                     PETITIONER BEFORE THE 4TH RESPONDENT
+
+EXHIBIT P5           COPY OF THE REPRESENTATION DATED 3/12/2013 SUBMITTED BY
+                     THE PETITIONER BEFORE THE CHIEF ENGINEER(DISTRIBUTION
+                     CENTRAL) ERNAKULAM.
+
+EXHIBIT P6           COPY OF THE REPRESENTATION DATED 4/12/13 FILED BY THE
+                     PETITINER BEFORE THE DY.CHIEF ENGINEER, ELECTRICAL CIRCLE,
+                     PERUMBAVOOR
+
+EXHIBIT P7           COPY OF THE REPRESENTATION DATED 9/1/14 SUBMITTED BY THE
+                     PETITIONER BEFORE THE CHIEF ENGINEER(SCM),
+                     KSEB,THIRUVANANTHAPURAM.
+
+EXHIBIT P8           COPY OF THE REPRESENTATION DATED 23/8/14 SUBMITTED BY THE
+                     PETITIONER BEFORE THE CHIEF INTERNAL AUDITOR IN THE OFFICE
+                     OF THE IST RESPONDENT
+
+EXHIBIT P9           COPY OF THE REPRESENTATION DATED 22/8/14 SUBMITTED BY THE
+                     PETITIONER BEFORE THE DEPUTY CHIEF ENGINEER, KSEB,
+                     PERUMBAVOOR.
+
+
+RESPONDENT(S)' EXHIBITS:                        NIL
+
+
+
+
+                                                    /TRUE COPY/
+
+
+                                                    P.S.TO.JUDGE
+sts
+
+
+
+                   Dama Seshadri Naidu, J.
+
+               ---------------------------------------------
+
+                W.P.(C)No.23168 of 2014 U
+
+              ----------------------------------------------
+
+          Dated this the 7th day of October, 2014
+
+
+                           JUDGMENT
+</pre>
+<p id="p_1">       Heard the learned counsel for the petitioner and the
+
+learned Standing Counsel for the respondents, apart from
+
+perusing the record. Since the issue lies in a narrow
+
+compass, this Court proposes to dispose of the writ petition
+
+at the admission stage itself.
+</p>
+<p id="p_2">       2. Briefly stated, the petitioner having worked as
+
+Regional   Audit     Officer,       on      attaining       the age of
+
+superannuation retired from service on 31.07.2014. Despite
+
+his numerous representations, so far, his retirement
+
+benefits have not been settled and paid by the authorities.
+
+Under those circumstances he has approached this Court.
+
+</p><p id="p_3">       3. The learned counsel for the petitioner has
+
+strenuously contended that after repeated representations,
+
+<span class="hidden_text" id="span_1">WPC 23168/14                    2</span>
+
+
+both oral and written, when the petitioner approached the
+
+authorities enquiring why his terminal benefits had not
+
+been settled so far, he was informed by the authorities that
+
+the Non Liability Certificate for the period from 07.03.2005
+
+to 31.10.2008 had not been issued by the department
+
+concerned to process his pension papers further. On his
+
+further enquiry, the petitioner has come to know that no
+
+disciplinary proceedings of whatever nature has been
+
+pending. The alleged cause for not issuing the Non Liability
+
+Certificate is based on an issue concerning purchase of
+
+certain UG cable material from a company at Chennai
+
+against the additional purchase order dated 05.02.2007,
+
+made by the then Executive Engineer of the Board.
+
+</p><p id="p_4">       4. The learned counsel has contended that at the
+
+relevant time, i.e., from the years 2005 to 2008, the
+
+petitioner had been working as Senior Superintendent with
+
+the responsibility of only verifying the bills. According to the
+
+learned counsel, the very Executive Engineer, who raised
+
+<span class="hidden_text" id="span_2">WPC 23168/14                 3</span>
+
+
+the bill and got payment on the strength of the said bill,
+
+allegedly without prior sanction, has later been duly
+
+promoted and is said to be presently working as a Director
+
+in the respondent Board.
+</p>
+<p id="p_5">       5. The learned counsel has also strenuously
+
+contended that the petitioner had no role at all in raising
+
+the bill and the subsequent payment; even otherwise, apart
+
+from some initial correspondence on the issue, no
+
+proceedings, either judicial or departmental, have been
+
+initiated against the petitioner or even against the then
+
+Executive Engineer, presently the Director. The learned
+
+counsel has also drawn the attention of this Court to Rule 3
+
+Part III Kerala Service Rules (KSR) to emphasise the time
+
+limit that has been cast on the authority to initiate
+
+disciplinary proceedings against any alleged misconduct on
+
+the part of an employee. The learned counsel has placed
+
+reliance on a judgment of a learned Division Bench in
+
+<a href="/doc/188690/" id="a_1">Kerala State Electricity Board v. Kesavan</a> (2014 (3) KLT
+
+<span class="hidden_text" id="span_3">WPC 23168/14                   4</span>
+
+
+SN 57 (C.No.73)). Summing up his submissions, the learned
+
+counsel has submitted that even going by the statement
+
+filed by the respondent Board, it is difficult to discern any
+
+justification for the denial of pensionary benefits to the
+
+petitioner, despite his repeated representations to get what
+
+is constitutionally and statutorily a protected right.
+
+Accordingly, he urged this Court to allow the writ petition.
+
+</p><p id="p_6">        6. Per contra, the learned Standing Counsel, in tune
+
+with the pleadings in the statement filed by the third
+
+respondent, has submitted that though there is not much
+
+dispute that no proceedings, either judicial or disciplinary,
+
+are pending against the petitioner, the fact, however,
+
+remains that so far the Non Liability Certificate for the
+
+period from 07.03.2005 to 31.10.2008 has not been
+
+produced. With a particular reference to paragraph 8 of the
+
+statement, the learned Standing Counsel has further
+
+submitted that the petitioner, then being the Senior
+
+Superintendent, ought to have properly scrutinised the bills
+
+<span class="hidden_text" id="span_4">WPC 23168/14                   5</span>
+
+
+raised by the then Executive Engineer and could have taken
+
+immediate steps in that regard. In any event, the issue
+
+concerning raising of the bill, which has been adverted to in
+
+the submission of the learned counsel for the petitioner, has
+
+not been closed, and as such, it is difficult to accede to the
+
+request of the petitioner to pay his terminal benefits before
+
+putting an end to the controversy of unauthorised payment
+
+based on the bills referred to above.
+</p>
+<p id="p_7">       7. To begin with, it can be very clearly seen recorded
+
+in the fourth paragraph of the statement filed by the third
+
+respondent    that  no    proceedings,   either   judicial  or
+
+disciplinary, are seen initiated against the petitioner as per
+
+his service records. There is no gainsaying the fact that the
+
+respondents, in the statement, have pleaded about a
+
+particular departmental transaction between 2005 and
+
+2008 concerning purchase of UG cable from a company at
+
+Chennai against the additional purchase order dated
+
+05.02.2007, made by the then Executive Engineer of the
+
+<span class="hidden_text" id="span_5">WPC 23168/14                    6</span>
+
+
+Board. The entire issue revolves around the aspect of
+
+effecting payment without getting sanction regarding re-
+
+fixation of price of the said material. Be that as it may, it is
+
+not in dispute that the petitioner does not have any direct
+
+role either in raising the bill or in ensuring payment thereof
+
+without getting sanction regarding re-fixation of price. The
+
+then Executive Engineer is said to have already been
+
+promoted and is presently working as a Director in the
+
+Board. It is discernible from the record that there was some
+
+initial correspondence departmentally, but it ended way
+
+back in 2008.
+</p>
+<p id="p_8">       8. Given the importance of the issue that a retired
+
+employee has been struggling to get his terminal benefits,
+
+the right to which he is entitled, as has been reiterated by
+
+this Court as well as by the Honourable Supreme Court, the
+
+inaction on the part of the respondent Board in settling the
+
+terminal dues of the petitioner cannot easily be brushed
+
+aside. Even statutorily Rule 3 Part III KSR, especially sub-
+
+<span class="hidden_text" id="span_6">WPC 23168/14                    7</span>
+
+
+clause (2) thereof, mandates that no departmental
+
+proceedings shall be initiated in respect of an event which
+
+took place more than four years.
+</p>
+<p id="p_9">       9. In the first place, the respondents themselves have
+
+placed on record that till this day no proceedings have been
+
+initiated. Even the issue, which is said to have come in the
+
+way of the petitioner not getting his Non Liability
+
+Certificate, happened in the year 2008. The departmental
+
+correspondence on the issue ceased by 04.09.2008. In
+
+terms of Rule 3 Part III KSR, at this juncture, the
+
+respondent    Board      cannot    initiate any  disciplinary
+
+proceedings against an employee, assuming that there was
+
+any lapse on his part while he had been discharging the
+
+functions of a Senior Superintendent way back from 2005 to
+
+2008. A learned Division Bench of this Court in Kesavan's
+
+case (supra) has also categorically held that the retiral
+
+benefit like gratuity, being a property as enshrined in
+
+<a href="/doc/237570/" id="a_2">Article 300A</a> of the Constitution, cannot be deprived or
+
+<span class="hidden_text" id="span_7">WPC 23168/14                  8</span>
+
+
+withheld without any statutory prescription.
+
+</p><p id="p_10">       10. In the facts and circumstances, this Court is of
+
+the considered opinion that there is no justification of
+
+whatever nature for the respondent to tarry on the issue of
+
+settling the terminal benefits of the petitioner. Accordingly,
+
+this Court directs the authorities to duly process the
+
+application of the petitioner and settle all his terminal
+
+benefits as expeditiously as possible, at any rate, within a
+
+period of two months from the date of receipt of a copy of
+
+this judgment.
+</p>
+<p id="p_11">       With the above direction, the writ petition is
+
+disposed of. No order as to costs.
+</p>
+<p id="p_12">
+
+
+</p><p id="p_13">                                Dama Seshadri Naidu, Judge
+
+
+tkv
+
+
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

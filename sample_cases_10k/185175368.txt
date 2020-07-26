@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>L.S. Industries vs Xerox Ltd. &amp; Anr on 31 August, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/185175368/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/185175368/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/185175368/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">L.S. Industries vs Xerox Ltd. &amp; Anr on 31 August, 2018</div><pre id="pre_1">227          IN THE HIGH COURT OF PUNJAB AND HARYANA
+                      AT CHANDIGARH
+
+                                                  CR No. 7774 of 2016 (O&amp;M)
+                                                  Date of Decision: 31.08.2018
+L.S. Industries Limited
+                                                                       .....Petitioner
+
+                                         Versus
+
+Xerox India Limited and another
+                                                                  ........Respondents
+
+CORAM: HON'BLE MR. JUSTICE DEEPAK SIBAL
+
+Present:     Mr. Deepak Sabherwal, Advocate
+             for the petitioner.
+
+             Mr. Vikas Bahl, Senior Advocate with
+             Mr. Gunjan Rishi, Advocate
+             for respondents No.1.
+
+             None for respondent No.2.
+
+DEEPAK SIBAL, J. (ORAL)
+</pre>
+<p id="p_1">             In view of the statement made on behalf of the petitioner before
+
+the Hon'ble Supreme Court in SLP (C) No.25293 of 2015, learned counsel
+
+for the petitioner seeks to withdraw the present petition.
+
+</p><p id="p_2">             Dismissed as withdrawn.
+
+
+</p><p id="p_3">                                                      (DEEPAK SIBAL)
+                                                         JUDGE
+31.08.2018
+sandeep
+
+
+             Whether Speaking/Reasoned :                 Yes/No
+             Whether Reportable                   :      Yes/No
+
+
+
+
+                                1 of 1
+<span class="hidden_text" id="span_1">             ::: Downloaded on - 08-10-2018 00:47:52 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

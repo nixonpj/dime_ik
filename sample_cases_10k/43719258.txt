@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>1 State vs . Kasim on 2 August, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/43719258/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/43719258/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/43719258/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lalit%20kumar">lalit kumar</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">1 State vs . Kasim on 2 August, 2008</div><div class="doc_author">Author: Sh. Lalit Kumar</div>
+
+<pre id="pre_1">                                            1                             State Vs. Kasim
+
+                  IN THE COURT OF SHRI LALIT KUMAR, M.M
+                          KARKARDOOMA COURTS: DELHI
+
+                                                                     FIR No : 149/08
+                                                                     U/s : 25 <a href="/doc/1934415/" id="a_1">Arms Act</a>
+                                                                     P.S : Seema Puri
+                                                                      State Vs. Kasim
+
+JUDGEMENT
+</pre><pre id="pre_2">1. Sl. No. of the case                                : 152/08
+2. Date of institution of the case                    : 06.06.2008
+3. Name of complainant                                : State
+4. Date of commission of offence                      : 08.05.2008
+5. Name of accused, parentage &amp; address               : Kasim s/o
+                                                        Sh. Tohit Alam r/o Village
+                                                        Gurgao, P.O Luhagra, PS
+                                                        Bahadur Ganj, District Kishan
+                                                        Ganj, Bihar.
+6. Offence complained of or proved                    : 457/380/411 <a href="/doc/1569253/" id="a_2">IPC</a>
+7. Plea of accused                                    : Accused pleaded not guilty
+8. Final order                                        : Convicted
+9. Date of such order                                 : 02.08.2008
+
+
+</pre><p id="p_1">              BRIEF REASONS FOR THE DECISION OF THE CASE
+
+
+</p><p id="p_2">1.            The case of the prosecution is that on 08.05.2008 at about 2.00 pm at
+     Old Seema Puri, Delhi on accused committed lurking house trespass in night
+     into the house of complainant Sh. Khalil, and attempted to commit theft by
+     removing his household articles, and subsequently caught red handed at the
+     spot, and the present FIR was registered. On completion of other formalities,
+     present challan was filed in the court by the IO through SHO.
+</p>
+
+<p id="p_3">2.            Copies of documents were supplied to the accused. Charge U/s
+     457/380/511 <a href="/doc/1569253/" id="a_3">IPC</a> was framed against the accused to which he pleaded not guilty
+     and claimed for trial. Later, accused has expressed his intention to plead guilty.
+     Separate plea of guilt of accused is recorded.
+</p><p id="p_4">                                             2                           State Vs. Kasim
+
+</p><p id="p_5">3.             The prosecution has examined only one witness in order to
+     substantiate its case.
+</p>
+
+<p id="p_6">4.             I have heard arguments of Ld. APP for the State, and accused, and
+     have perused the record very carefully.
+</p>
+
+<p id="p_7">5.             To prove its case, prosecution has examined first witness as PW1 Sh.
+</p><p id="p_8">     Khalil, the complainant of the case. He has supported the prosecution story, and
+     deposed on the lines of his statement ex. PW1/A.            He deposed that on
+     08.05.2008, at about 2.00 am when he was sleeping in his house, he heard some
+     noise of utensils. On this he woke up, and saw accused taking away their
+     household items. He apprehended the accused, and called the police. He has
+     proved site plan Ex.PW1/B, arrest memo of Accused ex.PW1/C, and personal
+     search memo ex. PW1/D.
+</p>
+
+<p id="p_9">6.             However, during the course of prosecution evidence, accused pleaded
+     guilty to the charge framed against him.    In the light of aforesaid evidence and
+     the plea of guilt of the accused, he is convicted for the offence punishable u/s 25
+     <a href="/doc/1934415/" id="a_4">Arms Act</a>.
+</p>
+
+<p id="p_10">DICTATED &amp; ANNOUNCED IN
+THE OPEN COURT ON 02.08.2008
+
+                                                         (LALIT KUMAR)
+                                                  METROPOLITAN MAGISTRATE
+                                                KKD COURTS, SHAHDARA, DELHI
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

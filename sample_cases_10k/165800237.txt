@@ -1,0 +1,387 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs 1. Ravinder @ Rinku, S/O Sh. Bishan ... on 17 December, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/165800237/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/165800237/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/165800237/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=RAHUL">RAHUL</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=307/34">307/34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=star%20witness">star witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=star">star</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=2012%20supreme%20court">2012 supreme court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=surety%20bond">surety bond</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs 1. Ravinder @ Rinku, S/O Sh. Bishan ... on 17 December, 2013</div><div class="doc_author">Author: Sh. Rakesh Kumar</div>
+
+<pre id="pre_1">              IN THE COURT OF SH. RAKESH KUMAR
+          ADDL. SESSIONS JUDGE­02 (NORTH EAST)
+                     KARKARDOOMA COURTS, DELHI
+                                                                                         
+
+                                                  SC No.48/2012
+                                                  FIR No.129/2012
+                                                  PS Gokul Puri 
+                                                  U/s 307/323/365/34 <a href="/doc/1569253/" id="a_1">IPC</a>
+   
+
+State Versus  1.                     Ravinder @ Rinku, S/o Sh. Bishan Lal,
+                                     R/o B­455, Gokal Puri, Delhi. 
+                                 2.  Dev Chauhan @ Sunny, S/o Madan Lal,
+                                     R/o A­99, Gali No.1, Soniya Vihar, 
+                                     Ist Pusta, Delhi. 
+                                 3. Rahul, S/o Sh. Ombir,
+                                     R/o B­698, Gali No.12, Soniya Vihar,
+                                     Ist Pusta, Delhi. 
+  
+
+
+                    Received on Assignment. :               05.07.2012.
+                    Date of Arguments.      :               17.12.2013.
+                    Date of Judgment.       :               17.12.2013.
+
+­: J U D G M E N T :­
+
+1.</pre><p id="p_1">       The above named accused persons were booked by SHO 
+   PS Gokal Puri U/s 307/323/365/34 <a href="/doc/1569253/" id="a_2">IPC</a> and have faced trial for 
+   having committed the offence punishable U/s 307/34 <a href="/doc/1569253/" id="a_3">IPC</a> with 
+   the allegations that on 11.04.2012 at about 9.00 p.m at A­Block, 
+   near Press Wali Gali, Gokal Puri, Delhi within the jurisdiction of 
+   PS Gokal Puri, they all in furtherance of their common intention, 
+   gave   beatings   to   the   complainant   namely   Vijay   and   accused 
+   Rahul gave churi (knife) blows on the person of complainant, 
+   while accused Dev Chauhan caught hold of him and inflicted 
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                     Page No. 1 of pages 7
+     injuries on the persons of complainant with intent to kill him. 
+</p>
+<p id="p_2">2.              FACTUAL MATRIX:­
+              ­:                  
+</p>
+<p id="p_3">           It  is  the  case  of  the  prosecution  that  on  11.04.2012  on 
+    receipt of DD No.48A to the effect that "Masjid ke piche bank ke  
+    pass,   A­Block   husband   ko   chaku   maar  diya",   SI   Avtar   Singh 
+    alongwith Ct. Jai Kumar reached at GTB Hospital where they 
+    collected   the   MLC  No.A­1559/12  of   one   Ashok  S/o   Vijay  Pal 
+    upon which doctor mentioned as "alleged H/O physical assault 
+    (sharp injury) at 9 p.m on 11.04.2012 at Gokal Puri, Delhi".  The 
+    doctor   found   patient   fit   for   statement   and   result   was   under 
+    observation.  Accordingly, IO recorded the statement of injured 
+    Ashok,   wherein   he   alleged   that  11.04.12   at   about   9.00   p.m, 
+    accused Ravinder @ Rinku called him and accordingly he came 
+    out from his house at IIIrd Fllor, in the gali and he found that 
+    Ravinder   @   Rinkoo   alongwith   Dev   Chauhan   and   Rahul,   to 
+    whom he know prior to the incident, were also standing there. 
+    When he asked   Ravinder as to why he called him, on this he 
+    took him about 15­20 meters away from his house and told him 
+    that  "holi wale din tuh bada badmash ban raha tha"  and while 
+    saying these words they all started giving beatings to him with 
+    kicks and fist blows. When he resisted, accused Ravinder and 
+    Dev Chauhan caught hold of him and Ravinder told to Rahul 
+    "aaj iska kaam tamam kar de, isne hume bada pareshan kar 
+    rakha hai, aaj bhi isne state bank ke saame meri motorcycle ki 
+    chabi nikal kar mujhe behan ki gaali di thi".   While saying so, 
+    accused Rahul attacked upon him with Chhuri with intent to kill 
+    him and he gave many churi (knife) blows to him. Some how, 
+    after releasing his hand, he hold the chhuri (knife) of Rahul and 
+    raised alarm and on hearing his noise his wife and Rahul etc. 
+    (his colleagues) came there and on seeing them Ravinder, Dev 
+    Chauhan   and   Rahul   ran   away   from   there.   His   wife   and 
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                    Page No. 2 of pages 7
+    colleague Rahul took him to GTB Hospital. From the statement 
+   and MLC, offence punishable U/s 307/34 <a href="/doc/1569253/" id="a_4">IPC</a> were found to be 
+   committed and accordingly SI/IO prepared a rukka and got the 
+   FIR registered in the instant case by sending Ct. Jai Kumar to 
+   PS alongwith rukka.  Thereafter, the investigation in the matter 
+   was carried out and during that course at the instance of Rahul 
+   (who was working with injured Ashok), IO prepared Site Plan. 
+   Exhibits were collected from the spot.  Photographs of the wall 
+   having blood stains on it were taken by the IO from his mobile 
+   camera.   Thereafter, IO alongwith Ct. Jai Kumar went to GTB 
+   Hospital   where   the   statement   of   the   wife   of   injured   was 
+   recorded   and   clothes   of   injured   were   taken   into   police 
+   possession. On the pointing out and identification of the sister in 
+   law   (bhabi)   of   injured   Ashok,   accused   Ravinder   @   Rinku, 
+   Rahul and Dev Chauhan were arrested in this case and their 
+   disclosure   statements   were   recorded   in   this   case.   At   the 
+   instance   of   accused   Rahul,   weapon   of   offence   i.e.   knife   was 
+   recovered. Statements of witnesses were recorded. Result on 
+   the   MLC   of   injured   was   obtained   which   came   as   grievous. 
+   Thereafter, on completion of investigation charge sheet U/s 307/ 
+   323/365/34   <a href="/doc/1569253/" id="a_5">IPC</a>   was  filed   before   the   court   of   concerned 
+   Metropolitan Magistrate.
+</p><p id="p_4">3.         After supply of copies etc, Ld.MM committed the case to 
+   the   court   of   Sessions   where   after   due   deliberation   charge 
+   charge   under   Sec.307/34   <a href="/doc/1569253/" id="a_6">IPC</a>   was   framed   against   all   the 
+   accused persons, to which they pleaded not guilty and claimed 
+   trial. Thereafter, the case was fixed for prosecution evidence. 
+</p><p id="p_5">4.          To prove its case, the prosecution has cited as many as 
+   fifteen   witnesses   out   of   them   it   has  examined   five   witnesses 
+   including the star witness i.e. PW­4 Ashok Kumar (injured) but 
+   he has not supported the case of the prosecution at all and rest 
+   of   the   witnesses   are   official   witnesses,   who   deposed   in   their 
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                    Page No. 3 of pages 7
+    respective   testimonies   about   role   played   by   them   during   the 
+   course of  investigation.  PW­4  Ashok  Kumar  has categorically 
+   stated that the person, who stabbed him was of short hight and 
+   that person is not present in the court. He categorically denied 
+   that   all   the   accused   persons   are   the   same   persons,   who 
+   inflicted injuries to him.  
+</p><p id="p_6">          Although   the   said   witness   i.e.   PW­4   Ashok   Kumar   was 
+   cross examined on behalf of the prosecution at great length but 
+   nothing   incriminating   material   could   be   extracted   from   the 
+   mouth of said witness. 
+</p><p id="p_7">5.        It  is pertinent to mention here that in this case process 
+   were issued to PWs Nutan (wife of injured), Rahul (employee of 
+   injured)   and   Sushma   twice   i.e.   for   30.09.2013   &amp;   25.11.2013 
+   through   DCP   and   SHO   concerned   respectively,   for   their 
+   appearance and recording of their statements but they could not 
+   be  served  and produced  as  their  process  received  back  with 
+   report   left   the   given   address.   Even   for   today,   the   process 
+   against the said witnesses were directed to be served through 
+   DCP (North East) but result remained the same (i.e. the process 
+   received   with   the   report  the   addresses  have   left   the   address 
+   and have gone to unknown place). 
+</p><p id="p_8">6.        In   the   case   in   hand,   where   the   star   witness   of   the 
+   prosecution i.e. PW­4 Ashok Kumar (complainant/injured) has 
+   completely   turned   hostile   and   has  not   supported   the   story  of 
+   prosecution  on  the point  of  identities  of the  accused  persons 
+   and   the   other   public   witnesses   are   untraceable   and   their 
+   whereabouts are not known, I had no option but to close the 
+   prosecution   evidence   as   no   fruitful   purpose   could   have   been 
+   served   by   continuing   the   trial   by   examining   the   remaining 
+   witnesses as it would be a futile exercise and accordingly the 
+   prosecution evidence was closed vide the order of even date. 
+   Since   there   is   nothing   incriminating   against   the   accused 
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                   Page No. 4 of pages 7
+    persons has been brought on record, so statement of accused 
+   persons u/s 313 <a href="/doc/445276/" id="a_7">Cr.P.C</a> is also dispensed with.   
+</p><p id="p_9">7.        Having heard the respective rival submissions of Ld. Addl. 
+   PP for the State and Ld. counsel for the accused persons and in 
+   view   of   the   circumstances   where   the   star   witness   of   the 
+   prosecution i.e. PW­4 Ashok Kumar has not supported the case 
+   of the prosecution, I have no option but to acquit all the accused 
+   persons of the charges. All the accused persons stand acquitted 
+   accordingly.   Their   existing   Bail   Bonds   and   Surety   Bonds   are 
+   extended for the period of six months in terms of the order of 
+   the Hon'ble High Court. 
+</p><p id="p_10">8.        File   be   consigned   to   Record   Room   after   completion   of 
+   necessary formalities.    
+</p>  
+<pre id="pre_2">(Announced in Open court                               (RAKESH KUMAR) 
+       th
+on 17  December, 2013)                      Addl. Sessions Judge/North East,
+                                                 Karkardooma Courts, Delhi 
+
+
+
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                 Page No. 5 of pages 7
+                                                   SC No.48/2012  
+                                                  FIR No.129/2012
+                                                  PS Gokul Puri 
+                                                  U/s 307/323/365/34 <a href="/doc/1569253/" id="a_8">IPC</a>
+                                                  State Vs. Ravinder @ Rinku etc.
+
+
+17.12.2013
+</pre><p id="p_11">Present: Sh. Dharam Chand, Ld. Counsel for all the accused.
+</p><p id="p_12">           All the accused are present on bail with counsel.
+           Today the case is fixed for prosecution evidence but no 
+PW is present. 
+</p><p id="p_13">           In this case process were issued to PWs Nutan (wife of 
+injured), Rahul (employee of  injured) and Sushma  twice i.e.  for 
+30.09.2013   &amp;   25.11.2013   through   DCP   and   SHO   concerned 
+respectively,   for   their   appearance   and   recording   of   their 
+statements but they could not be served and produced and their 
+process received back with report "left the given address". Even 
+for today, the process for the said witnesses were directed to be 
+served through DCP (North East) but result remained the same 
+and the process again received back unserved with the report "the 
+addresses have left the address and have gone to unknown 
+place". 
+</p><p id="p_14">              It is submitted by Ld. Counsel for accused persons that 
+the prosecution has been failed to produce the witnesses i.e. PWs 
+Nutan (wife of injured), Rahul (employee of injured) and Sushma 
+before the court despite issuance of process thrice and every time 
+result remained the same.  It is also submitted by Ld. Counsel for 
+accused  persons   that   since   the   star   witness  of   prosecution   i.e. 
+PW­4 Ashok Kumar has not supported the case of prosecution at 
+all   and   other   PWs   could   not   be   produced   before   court   by   the 
+prosecution for their examination, so prosecution evidence may be 
+
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                            Page No. 6 of pages 7
+ closed as the continuation of trial will be a futile exercise. 
+</p><p id="p_15">             Ld.   Addl.   PP   for   the   State   requested   for   one   more 
+opportunity for getting the said witness summoned for recording of 
+their evidence.
+</p><p id="p_16">             In   the   case   in   hand,   where   the   star   witness   of   the 
+prosecution   i.e.   PW­4   Ashok   Kumar   (complainant/injured)   has 
+completely   turned   hostile   and   has   not   supported   the   story   of 
+prosecution on the point of identities of the accused persons and 
+the other public witnesses are untraceable and their whereabouts 
+are not known, I do not find any reason to give further opportunity 
+to   the   prosecution   as   it   will   remain   a   futile   exercise   in   the 
+circumstances stated herein above.   Resultantly, the prosecution 
+evidence   is   hereby   closed.   Since   there   is   nothing   incriminating 
+against   the   accused   persons   has   been   brought   on   record,   so 
+statement of accused persons u/s 313 <a href="/doc/445276/" id="a_9">Cr.P.C</a> is also dispensed 
+with.   
+</p><p id="p_17">             Vide a separate judgment, all the accused are acquitted 
+of   the  charges   levelled   against   them.  Their  existing  Bail  Bonds 
+and Surety Bonds are extended for the period of six months in 
+terms of the order of the Hon'ble High Court. 
+</p><p id="p_18">             File be consigned to Record Room after completion of 
+necessary formalities.
+</p>
+<p id="p_19">                                                              (RAKESH KUMAR)
+                                                                ASJ­02 (NE)/KKD/DELHI
+                                                                     17.12.2013     
+
+
+
+
+State Vs. Ravinder @ Rinku etc. (SC No.48/2012)                              Page No. 7 of pages 7
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

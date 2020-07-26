@@ -1,0 +1,291 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Harakchand And Ors. vs The State Of Rajasthan And Ors. on 5 December, 1969</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/844057/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:844057">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1317393/">The Limitation Act, 1963</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/880040/">Section 3 in The Limitation Act, 1963</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/156750285/">Section 2(22) in The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1489134/">The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1433021/">Section 30 in The Limitation Act, 1963</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 12 docs
+      
+        - [<A HREF="/search/?formInput=citedby:844057">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/1464081/">Prakash Chander vs Smt. Sunder Bai And Anr. on 17 February, 1979</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/902736/">Jabar Chand Jain vs Firm Mangalchand Champalal on 1 February, 1977</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1043265/">Kodumal vs The Rajasthan Small Industiries ... on 11 October, 1976</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/957923/">Motilal And Kanku Bai vs District Judge And Ors. on 1 September, 1977</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1206314/">Mehboob Alam And Anr. vs Smt. Nasira Begum And Ors. on 28 February, 1977</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/844057/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/844057/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20115">sec 115</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=material%20irregularity">material irregularity</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20115%20cpc">section 115 cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cpc%20section%20115%20%20filter%3A%20%20order%201%20rule%2010%20%282%29%20of%20cpc%20order%2022%20rule%204%20%284%29%20cpc">cpc section 115  filter:  order 1 rule 10 (2) of cpc order 22 rule 4 (4) cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20115%20code%20of%20civil%20procedure">section 115 code of civil procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=civil%20procedure%20code%20115">civil procedure code 115</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cpc%20section">cpc section</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=exercise%20of%20jurisdiction%20not%20vested">exercise of jurisdiction not vested</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jurisdiction%20cases">jurisdiction cases</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=question%20on%20jurisdiction%20">question on jurisdiction </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=wrong%20court">wrong court</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=writ%20of%20certiorari">writ of certiorari</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=irregularity%20is%20not%20illegality">irregularity is not illegality</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=assumption%20of%20jurisdiction%20">assumption of jurisdiction </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhandari">bhandari</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Rajasthan High Court</div>
+<div class="doc_title">Harakchand And Ors. vs The State Of Rajasthan And Ors. on 5 December, 1969</div><div class="doc_citations">Equivalent citations: 1969 WLN 457</div>
+
+<div class="doc_author">Author: D Bhandari</div>
+
+<div class="doc_bench">Bench: D Bhandari, C Bhargava, S Modi</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+D.M. Bhandari, C.J.
+</p> 
+
+<p id="p_2">1. In the suit filed by Harakchand and others plaintiffs the Additional District and Sessions Judge, Jalore refused to admit in evidence a document produced by the plaintiffs on the ground that the document was not registered. The plaintiffs have filed a revision application under Section 115 of the Code of Civil Procedure challenging the order passed by the trial court. This revision application was placed for hearing before one of us sitting as a single Judge. A preliminary objection was raised that the order passed by the trial court cannot be revised under Section 115 of the Civil Procedure Code. The learned Judge referred the case to the Division Bench after noticing the conflict of judicial opinion in this respect. The Division Bench has referred the matter to the Full Bench. In this way thit; case has come before us.
+</p> 
+
+<p id="p_3">Section 115 of the Code of Civil Procedure runs as follows:
+</p>  
+
+<p id="p_4">115. The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears-
+</p>  
+
+<p id="p_5">(a) to have exercised a jurisdiction not vested in it by law, or
+ 
+
+</p><p id="p_6">(b) to have failed to exercise a jurisdiction so vested, or
+ 
+
+</p><p id="p_7">(c) to have acted in exercise of its jurisdiction illegally or with material irregularity,
+ 
+
+the High Court may make such order in the case as it thinks fit.
+</p> 
+
+<p id="p_8">3. The main point to be decided in this case is whether the case of the plaintiff falls within clause(c) of Section 115.But it would not be out of place to briefly survey the law on other two Clauses so that the proper scope of all the three may be app. Clauses (a) &amp; (b) deal with exercise of jurisdiction not vested in a court of law of failure to exercise jurisdiction so vested. The power of the High Court to interfere in revision in such cases is part of the jurisdiction vested in the highest court in the State to regulate the proceedings in a subordinate court so that there may not be illegal assumption of jurisdiction by a court or failure to exercise jurisdiction which is vested in a court. In England such jurisdiction is exercised by issuing writ of certiorari or prohibitio as the case may be. In a way the jurisdiction which could be exercised in England by issuing a writ of certiorari or prohibitio with respect to the orders of Tribunals exercising judicial or quasi-judicial jurisdiction is to be exercised to a limited extent by the High Court under Section 115 C.P.C. with regard to the orders of the subordinate courts. This is part of the suprintending power of High Court. For the legislative history of Section 115 reference maybe made to Shiva Nithaji, Applicant v. Joma Kashinath and two Ors. Opponents. ILR 7 Bombay 341. Before the framing of the Constitution only the three chartered High Courts could issue writs in the nature of certiorari or prohibitio, but every High Court in India was invested with the authority to revise the order passed by subordinate courts under Section 115 <a href="/doc/154574279/" id="a_1">C.P.C. In Majore S.S. Khanna Appellant v. Brig</a>. F.J. Dhillon, Respondent AIR 1964 Supreme Court 497 Hidayatullah, J. (as he then was) observed as follows:
+</p><p id="p_9"> The power which this Section confers is clearly of the nature of proceedings on a writ of Certiorari. But it differs from that power in many ways.... The power given by Section 115 of the Code is clearly limited to the keeping of the Subordinate Courts within the bounds of their jurisdiction. It does not comprehend the power exercisable under the writ of Prohibitio of Mandamus. It is also not a full power of Certiorari in as much as it arises only in a case of jurisdiction and not in a case of error. It has been ruled by the Judicial Committee and also by this Court that the Section is concerned with jurisdiction and jurisdiction alone involving a refusal to exercise jurisdiction where one exists or an assumption of jurisdiction where none exists and lastly acting with illegality or material irregularity. Where there is no question or jurisdiction in this manner the decision cannot be corrected for it has also been ruled that a Court has jurisdiction to decide wrongly as well as rightly. But once a flaw of jurisdiction is found the High Court need not quash and remit as the practice in English Law under the writ of Certiorari but pass such order as it thinks fit.
+</p> 
+
+<p id="p_10">4. In the well known case of <a href="/doc/1959866/" id="a_2">T.C. Basappa v. T. Nagappa</a> an Anr. 1955 Supreme Court Reports 250 (258) the circumstances under which a writ of certiorari may be issued have been discussed. In this connection we may refer to the following observations in that case:
+</p><p id="p_11"> Certiorari may lie and is generally granted when a court has acted without or in excess of its jurisdiction. The want of jurisdiction may arise from the nature of the subject-matter of the proceeding or from the absence of some preliminary proceeding or the Court itself may not be legally constituted or suffer from certain disability by reason of extraneous circumstances. When the jurisdiction of the Court depends upon the existence of some collateral fact, it is well settled that the Court cannot by a wrong decision of the fact give it jurisdiction which it would not otherwise possess. A Tribunal may be competent to enter upon an enquiry but in making the enquiry it may act in flagrant disregard of the rules of procedure or where no particular procedure is prescribed, it may violate the principles of natural justice. A writ of certiorari may be available in such cases.
+</p> 
+
+<p id="p_12">It may be mentioned that if the statute had entrusted aTribunal the power of finally deciding whether or not it has jurisdiction and the court decides certain facts in the exercise of such power and assumes jurisdiction, there is no want of jurisdiction in the court because the statute had conferred powers to decide all the facts including preliminary facts on which further exercise of jurisdiction depends but if the statute confers jurisdiction if certain facts exist and not otherwise then the court cannot by wrongly deciding that such facts exist assume jurisdiction. In this connection we may refer to the following observation of Lord Esher, M.R. In the Queen v. The Commissioner for Special Purposes of the Income-Tax 1888 XXI Queen's Bench Division 313 (319):
+</p><p id="p_13"> When an inferior court or tribunal or body, which has to exercise the power of deciding facts, is first established by Act of Parliament, the legislature has to consider what powers it will give that tribunal or body, it may in effect say that, if a certain state of facts exists and is shown to such tribunal or body before it proceeds to do certain things it shall have jurisdiction to do such things, but not otherwise. There it is not for them conclusively to decide whether that state of facts exists, and, if they exercise the jurisdiction without its existence, what they do may be questioned, and it will be held that they have acted without jurisdiction. But there is another state of things which may exist. The legislature may entrust the tribunal or body with a jurisdiction, which includes the jurisdiction to determine whether the preliminary state of facts exists as the jurisdiction, or finding that it does exist, to proceed further or do something more. When the legislature are establishing such a tribunal or body with limited jurisdiction, they also have to consider, whatever jurisdiction they give them, whether there shall be any appeal from their decision, for otherwise there will be none. In the second of the two cases I have mentioned it is an erroneous application of the formula to say that the tribunal cannot give themselves jurisdiction by wrongly deciding certain facts to exist, because the legislature gave them jurisdiction to determine all the facts, including the existence of the preliminary facts on which the further exercise of their jurisdiction depends.
+</p> 
+
+<p id="p_14">5. The same view has been reiterated in a number of English cases. The same principle is applicable in construing Clauses (a) and (b) of Section 115 C.P.C. In some cases an erroneous decision on a question of fact may be revised by the High Court when the statute confers jurisdiction on the court only on the existence of certain facts and not otherwise. But we may repeat that when the court has been invested with the power or authority to determine finally all questions of fact dealing with jurisdiction, its decision cannot be revised under Section 115 C.P.C. simply on the ground that it has wrongly determined the questions of fact.
+</p> 
+
+<p id="p_15">6. A wrong decision of law may also be revised by the High Court under Section 115(a) and (b) if by giving such decision the court has assumed jurisdiction not vested in it or has failed to exercise jurisdiction vested in it. But such decision must have resulted in assumption of jurisdiction not vested in a court of failure to exercise jurisdiction vested in it, otherwise merely because a decision on the question of law is wrong, the case cannot fall either under clause Clause (a) or Clause (b). There are provisions of law which lay down that no court can exercise jurisdiction when certain circumstances exist in a case. One such provision is section 11 of the Code of Civil Procedure, which lays down that no court shall try any suit or issue if the conditions mentioned in that section exist. The effect of Section 11 is that the court has no power to exercise jurisdiction if the case falls within Section 11 C.P.C. A court may proceed to enquire into a case erroneously decision that a particular suit or issue is not resjudicata but such decision can be revised by the High Court inasmuch as by giving an erroneous decision a court has assumed jurisdiction not vested in it.
+</p> 
+
+<p id="p_16">7. The same can be said about <a href="/doc/880040/" id="a_3">Section 3</a> of the Limitation Act which also bars the jurisdiction of a court to entertain a suit barred by limitation. The erroneous decision on a question of wrong assumption of jurisdiction or failure to exercise jurisdiction. It is because of the nature of the provisions of Section 11 C.P.C. and <a href="/doc/880040/" id="a_4">Section 3</a> of the Limitation Act that make erroneous decision of law a question of jurisdiction.
+</p> 
+
+<p id="p_17">8. It is for thase reasons that the Privy Council has said in Joy Chand Lal Babu Applellant v. Kamalasha Chaudhury and Ors. Respondents AIR 1949 Privy Council 239 as follows:
+</p><p id="p_18"> Mr. Pringle for the appellant admitted that no appeal lay from the order passed by the subordinate Judge, and he did not challenge the revisional jurisdiction on that ground. Their Lordships accept this admission and express no opinion upon its correctness. Mr. Pringal based his objection on the principle laid down by this Board in Rajah Amir Hassan Khan v. Sheo Baksh Singh 11 I.A. 237 : 11 Cal. 6 P.C. and Balakrishna Udayay v. Vasudeva Aiyar 44 I.A. 261 : A.I.R. 1947 P.C. 71 and now firmly established, that a subordinate Court does not act illegally or with material irregularity because it decides wrongly a matter within its competence. A court has jurisdiction to decide a case wrongly as well as rightly. Mr. Pringle is on safe ground, but the learned Subordinate Judge, having held that this was a commercial loan, was bound to go on to consider what effect that decision had upon the respondents' application, and, since the Act in terms does not apply to commercial loans, the learned Judge was bound, upon his finding, to dismiss the application without determining whether or not the respondents brought themselves within <a href="/doc/1433021/" id="a_5">Sections 30</a> and <a href="/doc/1317393/" id="a_6">36</a> of the Act as they claimed to do. In so doing, on the assumption that his decision that the loan was a commercial loan was erroneous, be refused to exercise a jurisdiction vested in him by law, and it was open to the High Court to act in revision under Sub-section (b) of <a href="/doc/1317393/" id="a_7">Section 115</a>. There have been a very large number of dexisions of Indian High Court on <a href="/doc/1317393/" id="a_8">Section 115</a>, to many of which their Lordships have referred. Some of such decision prompt the observation that High Courts have not aways appreciated that although error in a decision of a Subordinate Court does not by itself involve that the subordinate Court has acted illegally or with material irregularity so as to justify interference in revision under Sub-section (c), nevertheless, if the erroneous decision results in the subordinate Court exercising a jurisdiction not vested in it by under Sub-section (a) or Sub-section (b), and Sub-section (c) can be ignored. The cases of <a href="/doc/565597/" id="a_9">Babu Ram v. Munna Lal</a> 49 All. 454 : A.I.R. 1927 All. 358 and <a href="/doc/1555246/" id="a_10">Hari Hikaji v. Naro Vishvanath</a> 9 Bom. 432, may be mentioned as cases in which a subordinate Court by its own erroneous decision (erroneous that is in the view of the High Court), in the one case on a point of limitation and in the other on a question of resjudicata, invested itself with a jurisdiction which in law it did not possess, and the High Court held wrongly their Lordships there in, that it had no power to interfere in revision prevent such a result. In the present case their Lordships are of opinion that the High Court upon the view which it took that the loan was not a commercial loan, had power to interfere in revision under Sub-section, (b) of <a href="/doc/1317393/" id="a_11">Section 115</a>.
+</p> 
+
+<p id="p_19">9. Having made these general observations with regard to Clauses (a) and (b) Section 115 C.P.C. we proceed to consider Clause (c) By a series of decisions of the highest authorites, it has been held that Clause (c) is also confined to question of jurisdiction. In Balakrishna Udayar-Appellant and Vasudeva Aiyar-Resppondent 44 Indian Appeals 261 their Lordships of the Privy Council have observed that, "The section applies to jurisdiction alone, the irregular exercise or non-exercise of it, or the illegal assumption of it: The Section is not directed against conclusions of law or feet in which the question of jurisdiction is not involved."
+</p> 
+
+<p id="p_20">10. <a href="/doc/1806917/" id="a_12">In N.S. Venkatagiri Ayyangar and Anr. Appllents v. The Hindu Religious Endowments Board, Madras-Respondents</a> AIR 1949 Privy Council 156 it has been observed that "<a href="/doc/1317393/" id="a_13">Section 115</a> applies only to cases in which no appeal lies, and, where the order of the trial Court, right or wrong, shall be final. The section empowers the High Court to satisfy itself upon three matters : (a) That the order of the subordinate Court is within its jurisdiction; (b) That the case is one in which the Court ought to exercise jurisdiction; (c) that in exercising jurisdiction the Court ha not-acted illegally, that is, in breach of some provision of law, or with material irregularity, that is, by committing some error of procedure in course of the trial which is material in that it may have affected the ultimate decision. If the High Court is satisfied upon hose three matters, it has no power to interfere because it differs, however profoundly, from the conclusions of the subordinate Court upon questions of fact or law. There can be no justification whatsoever for the view that <a href="/doc/1317393/" id="a_14">Section 115(c)</a> was intended to authorise the Ch Court to interfere and correct gross and palpable errors of subordinate Courts It would indeed be difficult to formulate any standard by which the degree of error of subordinate Courts could be measured.
+</p> 
+
+<p id="p_21">11. Thus Clause (c) is applicable only if the subordinate court appears to have acted in the exercise of its jurisdiction illegally or with material irregularity. This clause is to be construed as meaning "if the subordinate court appears to have acted in the matter of exercise of its jurisdiction illegally or with material irregularity" not as meaning "if the subordinate court appears to have Illegality or material irregularity must have occurred in the manner in which the jurisdiction of the subordinate court is exercised, i.e. in the manner in which that case is heard or decided. Jenkins C.J. in Sheo Prasad Bunshidhur v. Ramchander Haribux and <a href="/doc/980840/" id="a_15">Kalooram Sitaram v. Ram Chander Haribux ILR</a> (1914) 41 Calcutta 323 observed:
+</p><p id="p_22"> It appears to me that <a href="/doc/1317393/" id="a_16">Section 115</a> can only be called in aid when the failure of justice if any has been due to one or other of the faults of procedure indicated in that section. Bose J. sitting as a Judge of the Nagpur High Court took the same view in Narayan Sonaji Sagne-Applicant v. Sheshrao Vithoba and Ors. Non-Applicants AIR 1946 Nag. 258 (F.B.). He observed : "I am clear that the words "illegally" and "material irregularity do not cover either errors of factor of law. They donot refer to the decision arrived at but to the manner in which it is reached. The errors contemplated material defects of procedure and not to errors of either law or fact after the formalities which the law prescribes have been duly complied with in letter and in spirit.
+</p> 
+
+<p id="p_23">These observations were quoted with approval by their Lordships of the Supreme Court in <a href="/doc/948916/" id="a_17">Keshardeo Chamria-Appellant V. Radha Kissen Chamaria and Ors. Respondents</a> AIR 1953 Supreme Court 23. Thereafter there has been series of decisions of the Supreme Court in which this view has been adhered to Reference in this connection may be made to Mahindra Land and Building Corporation Ltd. Appellant v. Bhutnath Banerjee and Ors. Respondents  Pandurang Dhondi Chougue and others, Appellants v. Maruti Hari Jadhav and Ors. Respondents AIR 1966 Supreme Court 153, Sunder lal (In both the appeals). Appellant v. Paramsukhdas and Ors. (in both the appeals). Respondents AIR 1968 Supreme Court 360, Prem Raj, Appellant v. The D.L.P. Housing and Construction (Private) Ltd. and Anr. Respondents . The latest case of the Supreme Court on this point is Messrs. D.L.P. Housing and Construction Company Pvt. Ltd;, New Delhi-Appellant v. Sarup Singh and Ors. Respondents Civil Appeal No. 1575 of 1989 decided on 12.9.1969.
+</p> 
+
+<p id="p_24">12. The sum &amp; substance of the matter is that unless an error of law or fact committed by the subordinate court has arisen because (1) there is illegal assumption of jurisdiction, or (2) there is failure to exercise it, or (3) there is illegality or material irregularity committed in the manner in which it is exercised, the order passed by the Subordinate court cannot be revised simply on the ground that the order is erroneous either on a point of fact or on a point of law. Their Lordships of the Privy Council in Rajah Amir Hassan Khan-Plaintiff and Sheo Bakshsingh-Defendant XI Indian Appeals 237 held that the subordinate court has perfect jurisdiction to decide the case and even if it decided wrongly, it did not exercise its jurisdiction illegally or with mate-rial irregularity.
+</p> 
+
+<p id="p_25">13. The provisions of the C. P. Code are based on principles of natural justice or are designed effectual hearing to the parties while deciding controversies raised in the proceeding before the Court. Some of these provisions are mandatory and some of the provisions are discretionary. Obviously, if the court exercised its jurisdiction one way or the other while administering discretionary provisions, there will be seldom any ground for revision unless the irregularity is of such material nature that the high Court considers a fit case is made out for interference in revision. So far as mandatory provisions of procedure are concerned, the High Court may interfere in revision in a proper case, because the subordinate court has committed an illegality in the manner it is exercising its jurisdiction. Even in such cases, the High Court may decline to interfere because the extraordinary power of supervision granted to the High Court under Section 115 C.P.C. is not to be exercised unless a very good case has been made out for exercise of such power.
+</p> 
+
+<p id="p_26">14. In this case if has been argued before us that by wrongly construing a document, the trial court held that it was admissible in evidence, while on a proper construction of document, it was inadmissible in evidence because of the provisions of the <a href="/doc/1489134/" id="a_18">Registration Act</a> and that the trial court thus proceeded to incorporate on record inadmissible evidence which would eventually be taken in consideration while finally deciding the case. Whether a particular evidence was admissible according to law or not is a question of law which the trial court was entitled to decide and if any error has been committed in deciding that question, it cannot be said that such error was in any way an error in the manner of exercise of jurisdiction.
+</p> 
+
+<p id="p_27">15. The Supreme Court in Pandurang Dhondi Chougule and Ors. case AIR 1966 Supreme Court 1355 supra has taken the view that even if the subordinate court has wrongly construed the decree, the High Court was not justified in reversing the finding of the subordinate court under Section 115 of the Code. Gajendragadkar C.J. who delivered the judgment on behalf of the Court observed as follows:
+</p><p id="p_28"> The construction of a decree like the construction of a document of title is no doubt a point of law. Even so, it cannot be held to justify the exercise of the High Court's revisional jurisdiction under Section 115 of the Code because it has no relation to the jurisdiction of the Court. Like others matters which are relevant and material in determining question or the adjustment of debts, the question about the existence of the debt has been left to the determination of the Courts which are authorised to administer the provisions of the Act, and even if in dealing with such questions the trial court or the District Court commits an error of law, it cannot be said that such an error would necessarily involve the question of the said court's jurisdiction within the meaning of Section 115 of the Code.
+</p> 
+
+<p id="p_29">16. The same is true when the court is construing a document for the purpose of deciding whether it is admissible for want of registration-Construction of a document is no doubt a question of law. But simply because it is a question of law, it does not mean that in construing a document as having particular import, the subordinate court acted with illegality or material irregularity in the exercise of its jurisdiction. Wanchoo C. J. (as he then was) in Moonlal v. Sampatlal IRL (1952) 2 Raj. 1010 has taken the view that the finding of a trial court that a document is not a promissory note and was admissible in evidence on payment of duty and penalty could be reversed by the High Court under Section 115 C.P.C. With utmost respect we are of the opinion that this view is not correct. Similarly the observations of this Court in Poonam Chand v. Bastiram Deokishan 1969 R.L.W. 248 that the question as to whether a document is admissible or not admissible is a matter of procedure is not correct. A construction of a document is a part of proceedings of a Court and if these proceedings are conducted properly and a mistake is made in construing the document, the order assed by the court is not revisable.
+</p> 
+
+<p id="p_30">17. We respectfully agree with the decision of the Division Bench of the Gujarat High Court in Shah Prabhudas Lahwardas-Appellant v. Coparceners of a Joint Hindu Family of Shah Bhogilal and Ors. Opponents AIR 1968 Guj. 236 in which it has been held that error of law by the subordinate court in deciding whether a document was a promissory note within the meaning of <a href="/doc/156750285/" id="a_19">Section 2(22)</a> of the Stamp Act or not was not concerned with the jurisdiction of the subordinate court and, therefore none of the three Clauses of Section 115 C.P.C. were attracted to the case.
+</p> 
+
+<p id="p_31">18. We are therefore of the opinion that no revision lies in this case. The revision application is dismissed with costs.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

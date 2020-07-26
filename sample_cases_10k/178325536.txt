@@ -1,0 +1,773 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>H.Amajathkhan vs The Government Of Tamil Nadu on 20 August, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/178325536/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/178325536/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/178325536/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/178325536/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">H.Amajathkhan vs The Government Of Tamil Nadu on 20 August, 2019</div><pre id="pre_1">                                                                          W.P.No.19667 of 2019
+
+                                 IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                  Date:20.08.2019
+
+                                                       CORAM
+
+                                    THE HON'BLE MR. JUSTICE V.PARTHIBAN
+
+                                               W.P.No.19667 of 2019
+
+                      H.Amajathkhan                                              ...Petitioner
+
+                                                         Vs.
+
+                      1.The Government of Tamil Nadu,
+                        Rep. By its Secretary,
+                        Environmental and Forest Department,
+                        Secretariat, Fort St. George,
+                        Chennai – 600 009.
+
+                      2.The Principal Chief Conservator of Forests,
+                        Head of the Forest Department,
+                        Panagal Building,
+                        Saidapet, Chennai – 600 015.
+
+                      3.The District Forest Officer,
+                        Villupuram Forest Division,
+                        Villupuram.                                           ...Respondents
+
+                      Prayer: Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of Constitution of India, for
+                      issuance of Writ of Certiorarified Mandamus to call for the records
+                      pertaining to the proceedings of the 3rd respondent in Na.Ka.No.8061/
+                      2018/Pa1 dated 14.06.2019 and quash the same as illegal,
+                      incompetent and ultravires and consequently direct the respondents to
+                      regularize the service of the petitioner as driver from the date of his
+                      initial appointment i.e. 01.12.1997.
+
+                                  For Petitioner       : Mr.R.Jayaprakash
+                                  For Respondents      : Mr.G.B.Rajesh
+                                                         Government Advocate (Forest)
+
+
+                      1/14
+
+
+http://www.judis.nic.in
+                                                                             W.P.No.19667 of 2019
+
+
+                                                       ORDER
+</pre>
+<p id="p_1">                             The petitioner was appointed as Jeep Driver in the Forest
+
+                      Department on 01.12.1997. According to him, he was continued in
+
+                      service without any break. Since he has been continued in service and
+
+                      serving the department on regular basis, the petitioner was hoping
+
+                      that his service will be regularised at some time. While so, the State
+
+                      Government has issued G.O.No.22, P &amp; AR Department, dated
+
+                      28.02.2006 providing for absorption of employees who were working
+
+                      in various departments on temporary basis and who have completed
+
+                      10 years of service as on 02.01.2006. In pursuance of the same, the
+
+                      Forest Department has issued G.O.(Ms).No.95, Environment and
+
+                      Forest (FR-II) Department dated 07.08.2009 regularising the service
+
+                      of plot watchers/social forestry worker on completion of 10 years of
+
+                      their service on daily wages in the supernumerary post. As per the said
+
+                      G.O., the Conservators of the Forests and the District Forest Officer in
+
+                      the respective region were requested to verify the watchers and
+
+                      drivers from the records available with them for the purpose of
+
+                      regularising their services in the regular time scale of pay.
+</p>
+
+
+
+<span class="hidden_text" id="span_1">                      2/14</span>
+
+
+<p id="p_2">http://www.judis.nic.in
+                                                                          W.P.No.19667 of 2019
+
+</p><p id="p_3">                             2.In view of the development as above, the petitioner appears to
+
+                      have sent a detailed representation on 22.09.2017 to the respondents
+
+                      seeking regularisation of his service based on the above mentioned
+
+                      Government Orders. Since his representation was not disposed of, the
+
+                      petitioner was constrained to approach this Court in W.P.No.17784 of
+
+                      2018 and the writ petition was disposed of on 31.01.2019 directing the
+
+                      respondents to consider his representation in the light of the order
+
+                      passed by this Court in W.P.(MD).No.11106 of 2013 dated 01.12.2016
+
+                      and W.P.Nos.19456 to 19458 of 2013 dated 04.09.2017 within a
+
+                      period of eight weeks.
+</p>
+
+
+<p id="p_4">                             3.In pursuance of the above direction, the 3rd respondent had
+
+                      passed an order on 14.06.2019 rejecting the claim of the petitioner
+
+                      herein on the ground that he has not completed 10 years of service on
+
+                      01.01.2006 in terms of G.O.22 dated 28.02.2006.
+</p>
+
+
+<p id="p_5">                             4.Mr.R.Jayaprakash, learned counsel for the petitioner would
+
+                      submit that the issue of regularisation of daily wage employees in the
+
+                      Forest Department has been settled in favour of the employees
+
+                      repeatedly by this Court. He would straightaway draw the attention of
+
+
+
+<span class="hidden_text" id="span_2">                      3/14</span>
+
+
+http://www.judis.nic.in
+                                                                            W.P.No.19667 of 2019
+
+                      this Court a detailed order passed by this Court on 15.12.2017 in
+
+                      W.P.No.22740 of 2010. This Court, considering similar claim, has
+
+                      passed a detailed order by referring to the earlier decisions and
+
+                      allowed the claim of the petitioner therein. The objection has raised
+
+                      before this Court in the present writ petition have also been considered
+
+                      and the same was discountenanced. The consideration of the order
+
+                      passed by this Court in the said writ petition, as found in paragraphs 6
+
+                      to 12, are extracted hereunder:
+</p>
+<blockquote id="blockquote_1">                                   “6. In the counter, it is stated that in para-4, it is
+                             admitted that the petitioner had been employed as driver
+                             and has been continued till date. First      of all, in the
+                             counter affidavit, it is stated that he was engaged on daily
+                             wages and therefore, not covered under any service rules.
+                             The petitioner having already approached this Court
+                             seeking regularization and the writ petition having been
+                             disposed of by directing the authorities concerned to
+                             consider the representation and the same having been
+                             considered as rejected, he cannot seek the same prayer in
+                             this writ petition.</blockquote>
+<p id="p_6">                                   7. Per contra, learned counsel for the petitioner
+                             would submit that admittedly, the petitioner continued as
+                             driver in service from 1997 as on date, many of the
+                             drivers who were appointed like the petitioner had been
+                             regularised on obligation of G.O.Ms.No.22, P &amp; A R
+
+
+<span class="hidden_text" id="span_3">                      4/14</span>
+
+
+http://www.judis.nic.in
+                                                                               W.P.No.19667 of 2019
+
+                             Department, dated 28.02.2006, on the basis of the
+                             direction issued by this Court.     Learned counsel for the
+                             petitioner relied upon the decision by this Court in
+                             W.P.No.19465     to   19458   of   2013   dated   04.09.2017
+                             wherein this Court has considered the similar claim of the
+                             drivers employed in the Forest Department and allowed
+                             the writ petition on the basis of earlier orders passed by
+                             this Court by the learned Single Judge as well as the
+                             Division Bench. The order passed by this Court in the
+                             above said writ petition, in regard to the facts and
+                             conclusion were in found in para 3 to 10 are extracted
+                             below:
+</p><p id="p_7">                                     “3.The case of the petitioners is as follows:
+                                     The petitioners were appointed as Driver on
+                             27.07.1998 and 04.11.1998, in Dharmapuri Forest
+                             Division.      According to the petitioners, they were
+                             appointed through Employment Exchange and they have
+                             been working continuously as Driver from the date of
+                             initial appointment till the date of filing the writ petitions
+                             and also till today.
+</p><p id="p_8">                                     4.It appears that the petitioners have approached
+                             this Court earlier and obtained certain directions to dispose
+                             of the representations for regularising their services but
+                             unfortunately, the claim of the petitioners was rejected by
+                             the second respondent on 07.10.2008. In the writ petition
+                             Numbers 19456 and 19457 of 2013, the first respondent
+                             passed an order on 09.05.2013, rejected the claim for
+                             regularisation on the ground that they have not completed
+                             10 years of service as per the G.O.Ms.No.22 of P &amp; A R
+                             Department dated 01.01.2006. The other writ petitioner
+                             case (W.P.No.22 of 2013) has not been rejected this Court
+                             seeking issue of Writ of Mandamus for regularisation of his
+                             service.
+</p><p id="p_9">                                     5.The sum and substance of the writ petitions is that
+
+
+<span class="hidden_text" id="span_4">                      5/14</span>
+
+
+http://www.judis.nic.in
+                                                                            W.P.No.19667 of 2019
+
+                             the rejection of the request for regularisation as per
+                             G.O.Ms.No.22 of P &amp; A R Department, dated 01.01.2006,
+                             is invalid and cannot be countenanced in law. According to
+                             the learned counsel appearing for the petitioners, one of
+                             the Drivers, viz., S.Murugan, whose claim was also
+                             rejected under the same impugned order dated
+                             09.05.2013, has approached this Court in W.P.(MD)
+                             No.11106 of 2013, wherein, this Court by order dated
+                             01.12.2016, allowed the writ petition by quashing the
+                             same impugned order, insofar as the petitioner is
+                             concerned, held that the petitioner therein is entitled to
+                             regularisation from the date of initial appointment on
+                             completion of ten years of service on that date.
+</p><p id="p_10">                                    6. Upon notice, learned Additional Government
+                             Pleader entered appearance and submitted that the
+                             petitioners herein are not entitled to regularization since
+                             they had not completed ten years of service as on
+                             01.01.2006, in terms of G.O.Ms.No.22 of P &amp; A R
+                             Department, dated 01.01.2006.
+</p><p id="p_11">                                    7. At this, the learned counsel appearing for the
+                             petitioners would submit that the said objection was also
+                             raised in respect of the other driver who was approached
+                             this Court earlier in W.P.(MD) No.11106 of 2013 and this
+                             Court in the said order dated 01.12.2016, had repulsed
+                             and over ruled such argument stating that the petitioner
+                             therein was entitled to regularization on completion of ten
+                             years of service from the date of his initial appointment.
+                             The learned counsel for the petitioner would further submit
+                             the order passed by the learned Single Judge was
+                             confirmed in W.A.(MD).No.686 of 2017, vide order dated
+                             12.07.2017.
+</p><p id="p_12">                                    8. Since the petitions herein are squarely covered by
+                             the order passed by this Court as aforesaid, this Court
+                             cannot take a different view in the matter. Moreover, the
+                             objection raised by the learned counsel appearing for the
+                             respondents was considered and overruled and therefore,
+                             the similar objection which is raised by the learned counsel
+                             for the respondents cannot be entertained as being valid
+                             and substantive.
+</p><p id="p_13">                                    9. In view of the above submissions, this Court has
+
+
+<span class="hidden_text" id="span_5">                      6/14</span>
+
+
+http://www.judis.nic.in
+                                                                            W.P.No.19667 of 2019
+
+                             no hesitation in allowing these writ petitions and the
+                             impugned order passed by the first respondent dated
+                             09.05.2013, insofar as the two petitioners are concerned,
+                             are set aside and all the petitioners are directed to be
+                             regularised from the date of completion of ten years from
+                             the date of initial appointment with all attendant and
+                             consequential benefits. The direction shall be complied
+                             with by the first respondent within a period of two months
+                             from the date of receipt of a copy of this order.
+</p><p id="p_14">                                    10. With the above direction, the writ petitions are
+                             allowed. No costs. Consequently, connection miscellaneous
+                             petitions are closed.”
+
+
+</p><p id="p_15">                                   8.Learned counsel for the petitioner would submit
+                             that the above said order is a valid one.
+</p><p id="p_16">                                   9.At this, the learned Additional Government Pleader
+                             appearing for the respondents would submit that in the
+                             instant case, the petitioner was not recruited by the
+                             Employment Exchange. Therefore, he cannot seek a
+                             direction whatsoever in the above orders.         The said
+                             submissions on behalf of the respondents is unacceptable
+                             for the reason that the petitioner having been appointed
+                             by the respondent administration and extracted the work
+                             admittedly till date for nearly 20 years, it is not open to
+                             the respondents to raise an issue of sponsorship of
+                             employment exchange. Moreover, as particularly pointed
+                             out by the learned counsel for the petitioner that the issue
+                             is directly covered by the orders    passed by the learned
+                             Single Judge as well as Division Bench as found in the
+                             observations made in the aforesaid decision by this Court
+                             on 04.09.2017.
+</p>
+
+<span class="hidden_text" id="span_6">                      7/14</span>
+
+
+<p id="p_17">http://www.judis.nic.in
+                                                                              W.P.No.19667 of 2019
+
+</p><p id="p_18">                                   10.In view of issue being covered in the above said
+                             orders, this Court    cannot take a different view in the
+                             instant case and therefore, this Court has no hesitation in
+                             allowing the writ petition and the impugned order Pro.
+                             C.No.52469 of 2008 S2 dated           .03.2009 (Singed on
+                             16.04.2009) is set aside and with a consequential direction
+                             to the respondents to regularise the service of the
+                             petitioner as driver from the date of petitioner's initial
+                             appointment    with   all   attendant    and    consequential
+                             benefits.
+</p><p id="p_19">                                   11.It is also made clear that on such regularization,
+                             the petitioner is not entitled to arrears of different wages
+                             however, he is entitled to other service benefits as fixed.
+                             The said direction shall be complied with within a period
+                             of eight weeks from the date of receipt of a copy of this
+                             order.
+</p><p id="p_20">                                   12.In view of the above observations and directions,
+                             this Writ petition stands allowed. No costs.”
+
+
+
+</p><p id="p_21">                             5.Thereafter, the matter was taken on appeal by the Department
+
+                      in W.A.No.2796 of 2018 and the Division Bench of this Court dismissed
+
+                      the Appeal on 02.01.2019 thereby confirming the order passed by this
+
+                      Court. The operative portion of the observations made by the Division
+
+                      Bench of this Court, as found in paragraphs 8 to 11, are extracted
+
+                      hereunder:
+</p>
+<span class="hidden_text" id="span_7">                      8/14</span>
+
+
+<p id="p_22">http://www.judis.nic.in
+                                                                             W.P.No.19667 of 2019
+
+                                    “8.Perusal of paragraph No.7 of the judgment, dated
+                             4.9.2017, made in W.P.Nos.19465 to 19458 of 2013,
+                             would show that the learned Single Judge has relied on an
+                             earlier order of this Court, in W.P.(MD)No.11106 of 2013,
+                             wherein, similar objections by the State Government have
+                             been over ruled by the learned Single Judge and the said
+                             order has been affirmed by a Hon'ble Division Bench of
+                             this Court, in W.A.No.686 of 2017, dated 12/7/2017. It
+                             has been brought to out notice that as against the
+                             judgment of the Hon'ble Division Bench, made in
+                             W.A.No.686 of 2017 SLP filed has been dismissed by the
+                             Hon'ble Supreme Court, in SLP (Civil) Diary No.29276 of
+                             2018, on 4/9/2018. It is also brought to our knowledge
+                             that the Principal Chief Conservator of Forests, vide Letter
+                             No.S2/20972/2014, dated 25/5/2018, has already made a
+                             recommendation to the Government to regularise the
+                             services of 34 drivers which includes the name of the
+                             petitioner herein.
+</p><p id="p_23">                                    9.It is not appropriate on the part of the appellants,
+                             to move for regularization of the respondent herein, and at
+                             the same time, challenge the order of regularization,
+                             passed by the learned Single Judge. This conduct of the
+                             Government is not appreciated.
+</p><p id="p_24">                                    10.In view of the fact that recommendation has
+                             already been made to regularise 34 drivers including the
+                             petitioner, as a special case, and in view of the fact that
+                             similarly placed persons have been granted with the
+                             benefit, by the Government and the Supreme Court has
+                             also not thought it fit, to entertain the SLP against the
+                             order dated 12/7/2017, passed by the learned Division
+                             Bench, in Writ Appeal No.686 of 2017, we do not deem it
+                             necessary to set aside the judgment of the learned Single
+                             Judge.
+</p><p id="p_25">                                    11.In view of the above, Writ Appeal is dismissed.
+                             No costs. Consequently, the connected Miscellaneous
+                             Petition is closed.”
+
+
+
+
+<span class="hidden_text" id="span_8">                      9/14</span>
+
+
+http://www.judis.nic.in
+                                                                             W.P.No.19667 of 2019
+
+
+
+</p><p id="p_26">                              6.The learned counsel would also submit that as against the
+
+                      order passed by the Division Bench of this Court in W.A.No.2796 of
+
+                      2018, Review Application No.115 of 2019 was filed and the same was
+
+                      dismissed, by clarifying as under:
+</p>
+<blockquote id="blockquote_2">                                     “5.Order made in W.P.No.22740 of 2010, dated
+                              15.12.2017, is to regularise the respondent, as driver,
+                              from the date of his initial appointment. He was found
+                              eligible for regularization on completion of 10 years of
+                              service. Therefore, directions have been issued to
+                              regularise his services on completion of 10 years, but from
+                              the date of initial appointment.</blockquote>
+<p id="p_27">                                     6.In the light of the above discussion and decisions,
+                              we are not inclined to review the order made in
+                              W.A.No.2796 of 2018, dated 02.01.2019. Accordingly, the
+                              review application is dismissed.”
+
+
+
+</p><p id="p_28">                              7.Therefore, the learned counsel would submit that the issue has
+
+                      been settled. He would also draw the attention of this Court to the
+
+                      proposal of the 2nd respondent dated 08.11.2011 in which the name of
+
+                      the petitioner is found at Serial No.9 along with the name of the other
+
+                      petitioners, who were covered by the above said decision of the
+
+                      learned Single Judge, which was confirmed in the writ appeal.
+</p>
+<p id="p_29">                      Therefore, in all fours, the claim of the petitioner is liable to be
+
+                      allowed.
+</p>
+
+
+<span class="hidden_text" id="span_9">                      10/14</span>
+
+
+<p id="p_30">http://www.judis.nic.in
+                                                                           W.P.No.19667 of 2019
+
+
+
+</p><p id="p_31">                              8.Per contra, the learned Government Advocate appearing for
+
+                      the respondents would submit that as per G.O.22, P &amp; A.R.
+</p>
+<p id="p_32">                      Department, dated 28.02.2006, he ought to have been completed 10
+
+                      years as on 02.01.2006 and this petitioner has not completed 10 years
+
+                      of service and therefore, his claim could not be considered for
+
+                      regularisation.
+</p>
+
+
+<p id="p_33">                              9.This Court is unable to appreciate the stand of the Department
+
+                      when the fact of the matter is that the petitioner has been appointed
+
+                      as early as 1997 and continued in service till date. In fact, when the
+
+                      2nd respondent himself has thought fit to send a proposal for
+
+                      regularisation of the service of the petitioner herein along with few
+
+                      others, who are eligible for such conferment of benefits under the
+
+                      G.O.22 dated 28.02.2006, it does not lie in the mouth of the
+
+                      respondent department to take a different stand that the petitioner has
+
+                      not completed 10 years of service as on 01.01.2006. As rightly
+
+                      contended by the petitioner, the issue of regularisation of the
+
+                      employees employed in the Forest Department in the State of Tamil
+
+                      Nadu is no more res integra for the reason that the decision passed by
+
+
+
+<span class="hidden_text" id="span_10">                      11/14</span>
+
+
+http://www.judis.nic.in
+                                                                             W.P.No.19667 of 2019
+
+                      this Court has been confirmed in the Appeal and against which, a
+
+                      review was filed and the review was also rejected and therefore, the
+
+                      issue of regularisation has come a full circle and in the light of the
+
+                      decisions as aforementioned, the respondents cannot have any
+
+                      objections for regularisation of the petitioner herein as well.
+</p>
+
+
+<p id="p_34">                                10.Once the Department has extracted work from the petitioner
+
+                      from more than 21 years, it is opposed to fair play, equity and good
+
+                      conscience to deny the regularisation only on the specious ground that
+
+                      he was appointed in 1997 and has not completed 10 yeas of service as
+
+                      on 01.01.2006, he was not employed through Employment Exchange.
+</p>
+<p id="p_35">                      Such ground is no more open to the Department to urge in view of the
+
+                      orders passed by this Court overruling such objections. The other
+
+                      objections raised by the Department in regard to non-completion of 10
+
+                      years is also without any substance or basis, since the 2nd respondent
+
+                      himself has recommended the case for regularisation as far as the
+
+                      petitioner herein is concerned along with others in terms of G.O.22, P
+
+                      &amp; AR Department, dated 28.02.2006. Therefore, this Court is of the
+
+                      view that in all fours, the petitioner has made out a case for grant of
+
+                      relief.
+</p>
+
+
+<span class="hidden_text" id="span_11">                      12/14</span>
+
+
+<p id="p_36">http://www.judis.nic.in
+                                                                            W.P.No.19667 of 2019
+
+
+
+</p><p id="p_37">                              11.In the said circumstances, the Writ Petition is allowed. The
+
+                      impugned order passed by the 3rd respondent in Na.Ka.No.8061/2018/
+
+                      Pa1 dated 14.06.2019 is hereby set aside and the respondents are
+
+                      directed to grant the benefit of regularisation of the petitioner from the
+
+                      date of his initial appointment and grant him all attendant benefits
+
+                      except for the differential wages for the period in question. The
+
+                      respondents are directed to pass appropriate orders in this regard
+
+                      within a period of four weeks from the date of receipt of a copy of this
+
+                      order. No costs.
+</p>
+
+
+<p id="p_38">                                                                             20.08.2019
+
+                      Sgl
+
+                      To
+
+</p><p id="p_39">                      1.The Government of Tamil Nadu,
+                        The Secretary,
+                        Environmental and Forest Department,
+                        Secretariat, Fort St. George,
+                        Chennai – 600 009.
+</p>
+<p id="p_40">                      2.The Principal Chief Conservator of Forests,
+                        Head of the Forest Department,
+                        Panagal Building, Saidapet, Chennai – 600 015.
+</p><p id="p_41">                      3.The District Forest Officer,
+                        Villupuram Forest Division,
+                        Villupuram.
+</p>
+
+<span class="hidden_text" id="span_12">                      13/14</span>
+
+
+<p id="p_42">http://www.judis.nic.in
+                                                      W.P.No.19667 of 2019
+
+</p><p id="p_43">                      4.The Government Advocate,
+                        High Court, Madras.
+</p><p id="p_44">                                                        V.PARTHIBAN, J.
+</p>
+<p id="p_45">                                                                      Sgl
+
+
+
+
+                                                   W.P.No.19667 of 2019
+
+
+
+
+<span class="hidden_text" id="span_13">                      14/14</span>
+
+
+http://www.judis.nic.in
+                              W.P.No.19667 of 2019
+
+                                     20.08.2019
+
+
+
+
+<span class="hidden_text" id="span_14">                      15/14</span>
+
+
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

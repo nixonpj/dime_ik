@@ -1,0 +1,936 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Balaji Govind Jadhav And Ors vs The State Of Mah And Anr on 28 February, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/134321343/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/100581/">Section 5 in The Limitation Act, 1963</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/134321343/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/134321343/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/134321343/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Balaji Govind Jadhav And Ors vs The State Of Mah And Anr on 28 February, 2019</div><div class="doc_bench">Bench: P.R. Bora</div>
+
+<pre id="pre_1">                                  {1}              CA 5048 OF 2017 &amp; ORS
+
+
+            IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                       BENCH AT AURANGABAD
+
+                 922 CIVIL APPLICATION NO.5048 OF 2017
+                          IN X-OBJST/4998/2017
+
+               BHIMRAO SADASHIV TATTAPURE
+                          VERSUS
+  THE EXECUTIVE ENGINEER, MINOR IRRIGATION DIVISION LATUR
+                         AND ORS
+                            ...
+
+                923 CIVIL APPLICATION NO.5060 OF 2017
+            IN X-OBJST/5313/2017 WITH CA/5061/2017 IN X-
+                           OBJST/5330/2017
+
+           NIRMALABAI MAHADAV WADKAR AND ORS
+                          VERSUS
+  THE EXECUTIVE ENGINEER, MINOR IRRIGATION DIVISION LATUR
+                         AND ORS
+                            ...
+
+                 928 CIVIL APPLICATION NO.5833 OF 2017
+                         IN X-OBJST/25154/2015
+
+                       DATTU RAMCHANDRA SHINDE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                 929 CIVIL APPLICATION NO.6366 OF 2017
+                         IN X-OBJST/14087/2017
+
+                     DARBAR GAJESING AND ORS
+                             VERSUS
+           THE SPECIAL LAND ACQUISITION OFFICER, UTPH-1,
+                         JALGAONAND ANR
+                                ...
+
+                 930 CIVIL APPLICATION NO.7289 OF 2017
+                         IN X-OBJST/16217/2016
+
+
+
+
+::: Uploaded on - 04/03/2019              ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                    {2}              CA 5048 OF 2017 &amp; ORS
+
+
+            UTTAM MANOHAR WAGH AND OTHERS
+                          VERSUS
+  THE EXECUTIVE ENGINEER, MINOR IRRIGATION DIVISION, BEED
+                        AND ANR
+                            ...
+
+                 931 CIVIL APPLICATION NO.7321 OF 2017
+                         IN X-OBJST/28631/2016
+
+          SHANKAR GANPATI LAMB DIED AND ORS
+                        VERSUS
+   GODAWARI MINOR IRRIGATION DEVELOPMENT CORPORATION
+           THROUGH ITS EXE. ENGINEER AND ORS
+                           ...
+
+           932 CIVIL APPLICATION NO.7396 OF 2017
+  IN X-OBJST/16349/2017 WITH CA/4227/2012 IN FA/677/2011
+
+                       YAMUNABAI TRYAMBAK DHANGAR
+                                  VERSUS
+                      THE COLLECTOR, JALGAON AND ORS
+                                     ...
+
+           933 CIVIL APPLICATION NO.7494 OF 2017
+  IN X-OBJST/16347/2017 WITH CA/4225/2012 IN FA/682/2011
+
+                       TRYAMBAK LALCHAND DHANGAR
+                                  VERSUS
+                      THE COLLECTOR, JALGAON AND ORS
+                                     ...
+
+                 934 CIVIL APPLICATION NO.7963 OF 2017
+                          IN X-OBJST/7933/2017
+
+           PARWATIBAI MADHAV SIRSAT AND ORS
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                 935 CIVIL APPLICATION NO.8538 OF 2017
+                          IN X-OBJST/7923/2017
+
+
+
+
+::: Uploaded on - 04/03/2019               ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                    {3}              CA 5048 OF 2017 &amp; ORS
+
+
+
+              BHAGWAN RAM SIRSAT AND ANR
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                 936 CIVIL APPLICATION NO.8540 OF 2017
+                          IN X-OBJST/7936/2017
+
+            SHRIRANG EKNATH SIRSAT AND ANR
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                 937 CIVIL APPLICATION NO.8576 OF 2017
+                         IN X-OBJST/17166/2017
+
+                          ABHIMAN BHAVSING NIKAM
+                                  VERSUS
+                      THE COLLECTOR, JALGAON AND ORS
+                                     ...
+
+           938 CIVIL APPLICATION NO.8625 OF 2017
+  IN X-OBJST/28271/2016 WITH CA/9699/2012 IN FA/158/2015
+
+            NAGORAO DIGAMBARRAO KANDHARKAR AND ORS
+                             VERSUS
+               THE STATE OF MAHARASHTRA AND ORS
+                               ...
+
+                 939 CIVIL APPLICATION NO.9166 OF 2017
+                          IN X-OBJST/7946/2017
+
+                  BHAGWAN RAM SIRSAT
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                 940 CIVIL APPLICATION NO.9199 OF 2017
+
+
+
+
+::: Uploaded on - 04/03/2019               ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                    {4}              CA 5048 OF 2017 &amp; ORS
+
+
+  IN X-OBJST/16343/2017 WITH CA/4226/2012 IN FA/683/2011
+
+                       GOPICHAND SARICHAND JADHAV
+                                  VERSUS
+                      THE COLLECTOR, JALGAON AND ORS
+                                     ...
+
+           941 CIVIL APPLICATION NO.9207 OF 2017
+  IN X-OBJST/27755/2016 WITH CA/4950/2013 IN FA/226/2015
+
+    ASHOK SAMBHAJI SURYAWANSHI DIED THR LRS MANGALBAI
+                        ANDORS
+                         VERSUS
+         THE STATE OF MAHARASHTRA AND ANOTHER
+                           ...
+
+                 942 CIVIL APPLICATION NO.9498 OF 2017
+                         IN X-APLST/14143/2017
+
+          MADHAV GANPATRAO GAWANDE AND ANR
+                         VERSUS
+   MAHARASHTRA STATE ROAD TRANSPORT CORPORATION THR.
+         DIV.CONTROLLER, DIV. OFFICE AURANGABAD
+                            ...
+
+                 943 CIVIL APPLICATION NO.9551 OF 2017
+                          IN X-OBJST/7931/2017
+
+                MANIK RAM SIRSAT AND ORS
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                944 CIVIL APPLICATION NO.10012 OF 2017
+                          IN X-OBJST/7831/2017
+
+            HARISHCHANDRA GOVIND SIRSAT AND ANR
+                           VERSUS
+      THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV.
+                              ...
+
+
+
+
+::: Uploaded on - 04/03/2019               ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                  {5}               CA 5048 OF 2017 &amp; ORS
+
+
+                945 CIVIL APPLICATION NO.10786 OF 2017
+                         IN X-OBJST/26890/2017
+
+      THE COMMISSIONER, JALGAON MUNICIPAL CORPORATION
+                  JALGAON SAHAR, JALGAON
+                           VERSUS
+               SHYAM VASUDEO SARAF AND ANR
+                             ...
+
+                946 CIVIL APPLICATION NO.13129 OF 2017
+                          IN X-OBJST/4971/2017
+
+                  KIRAN VASANT KIVANDE
+                          VERSUS
+  THE EXECUTIVE ENGINEER, MINOR IRRIGATION DIVISION LATUR
+                         AND ORS
+                            ...
+
+                947 CIVIL APPLICATION NO.13130 OF 2017
+                          IN X-OBJST/4973/2017
+
+   DHONDIRAM SHANKAR WADKAR (DIED) SHOBHA DHONDIRAM
+                     WADKAR AND ORS
+                          VERSUS
+  THE EXECUTIVE ENGINEER, MINOR IRRIGATION DIVISION LATUR
+                         AND ORS
+                            ...
+
+           948 CIVIL APPLICATION NO.13333 OF 2017
+  IN X-OBJST/9641/2017 WITH CA/8554/2011 IN FA/1239/2012
+   WITH CA/4745/2014 IN FA/1239/2012 WITH CA/13334/2017
+       IN X-OBJST/10427/2017 WITH CA/13335/2017 IN X-
+                      OBJST/37037/2015
+
+                    MANIK RAM SIRSAT
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                949 CIVIL APPLICATION NO.13394 OF 2017
+                         IN X-OBJST/16305/2017
+
+
+
+
+::: Uploaded on - 04/03/2019              ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                     {6}              CA 5048 OF 2017 &amp; ORS
+
+
+
+                      PRMNATH VAIJINATH SONVANE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                950 CIVIL APPLICATION NO.13395 OF 2017
+                         IN X-OBJST/28261/2017
+
+                        BALAJI GOVIND JADHAV AND ORS
+                                   VERSUS
+                          THE STATE OF MAH AND ANR
+                                      ...
+
+          951 CIVIL APPLICATION NO.13396 OF 2017
+ IN X-OBJST/37033/2015 WITH CA/8570/2011 IN FA/1236/2012
+  WITH CA/4829/2014 IN FA/1236/2012 WITH CA/13398/2017
+                    IN X-OBJST/3205/2016
+
+                  DHANABAI LALCHAND PARDESHI
+                             VERSUS
+          THE EXECUTIVE ENGINEER, M.I.D. JALGAON AND ANR
+                               ...
+
+                952 CIVIL APPLICATION NO.13399 OF 2017
+                         IN X-OBJST/32255/2016
+
+                       MANOHAR SHANKAR BEMBADE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                953 CIVIL APPLICATION NO.13418 OF 2017
+                          IN X-OBJST/7861/2017
+
+                 NARHARI EKNATH SIRSAT
+                          VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+                954 CIVIL APPLICATION NO.13419 OF 2017
+
+
+
+
+::: Uploaded on - 04/03/2019                ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                        {7}              CA 5048 OF 2017 &amp; ORS
+
+
+                               IN X-OBJST/7848/2017
+
+                  BABU PIRAJI GITE AND ORS
+                          VERSUS
+   THE EXECUTIVE ENGINEER LATUR MEDIUM PROJECT DIVISION
+                      LATUR AND ANR
+                              ...
+
+           955 CIVIL APPLICATION NO.13428 OF 2017
+   IN X-OBJST/7835/2017 WITH CA/3011/2012 IN FA/164/2013
+
+                 GANGADHAR GANPATI GITE
+                          VERSUS
+  THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIVISION,
+                     LATUR AND ANR
+                            ...
+
+           956 CIVIL APPLICATION NO.13433 OF 2017
+   IN X-OBJST/7865/2017 WITH CA/3009/2012 IN FA/163/2013
+
+                 ANTARAM BASWANT SIRSAT
+                          VERSUS
+  THE EXECUTIE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+                         AND ANR
+                            ...
+
+           957 CIVIL APPLICATION NO.13434 OF 2017
+   IN X-OBJST/9632/2017 WITH CA/2972/2012 IN FA/159/2013
+
+    SAYED HABIB S/O SAYED KASIM (DIED) LRS SAYED MUKHTAR
+                       HABIB AND ORS
+                           VERSUS
+   THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIVISION
+                       LATUR AND ANR
+                             ...
+
+           958 CIVIL APPLICATION NO.13438 OF 2017
+   IN X-OBJST/7868/2017 WITH CA/3015/2012 IN FA/161/2013
+
+               BALAJI MAHADU GITE AND ORS
+                         VERSUS
+ THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIV. LATUR
+
+
+
+
+::: Uploaded on - 04/03/2019                   ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                       {8}              CA 5048 OF 2017 &amp; ORS
+
+
+                                   AND ANR
+                                      ...
+
+              959 CIVIL APPLICATION NO.13439 OF 2017
+          IN X-OBJST/33730/2017 WITH CA/13441/2017 IN X-
+                         OBJST/33734/2017
+
+                             VENKAT MUKTAJI MALISE
+                                    VERSUS
+                           THE STATE OF MAH. AND ANR
+                                       ...
+
+              960 CIVIL APPLICATION NO.13447 OF 2017
+          IN X-OBJST/32269/2016 WITH CA/13448/2017 IN X-
+            OBJST/32264/2016 WITH CA/13449/2017 IN X-
+            OBJST/32267/2016 WITH CA/13450/2017 IN X-
+                         OBJST/32262/2016
+
+                          SANDEEP ASHOK UGILE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                961 CIVIL APPLICATION NO.13451 OF 2017
+                         IN X-OBJST/32259/2016
+
+                          ASHOK NAMDEO UGILE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                 962 CIVIL APPLICATION NO.2302 OF 2018
+                         IN X-OBJST/39406/2017
+
+                         BABAN DEVIDAS NARWADE
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ORS
+                                   ...
+
+                 963 CIVIL APPLICATION NO.2580 OF 2018
+                          IN X-OBJST/2394/2018
+
+
+
+
+::: Uploaded on - 04/03/2019                  ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                   {9}              CA 5048 OF 2017 &amp; ORS
+
+
+  MAHADAPPA SIDRAMAPPA MENKUDALE DIED LRS USHA KUMAR
+                MENKUDALE AND OTHERS
+                        VERSUS
+        THE STATE OF MAHARASHTRA AND ANOTHER
+                          ...
+
+                 964 CIVIL APPLICATION NO.2892 OF 2018
+                         IN X-OBJST/35317/2015
+
+       ANNUBAI PITAMBAR KOLI SINCE DECEASED THR. LRS
+                 RAGHUNATH AND ANOTHER
+                          VERSUS
+   THE EXECUTIVE ENGINEER DHULE MEDIUM PROJECT DIVISION
+                    NO.1 AND ANOTHER
+                            ...
+
+                 965 CIVIL APPLICATION NO.3271 OF 2018
+                          IN X-OBJST/8762/2017
+
+                   DATTU GYANBA SIRSAT
+                          VERSUS
+   THE EXECUTIVE ENGINEER, LATUR MEDIUM PROJECT DIVISION
+                      LATUR AND ANR
+                             ...
+
+                966 CIVIL APPLICATION NO.4639 OF 2018
+                         IN X-OBJST/7980/2018
+                 WITH CA/2913/2014 IN CA/2912/2014
+                  WITH CA/2915/2014 IN FA/268/2015
+                  WITH CA/2917/2014 IN FA/273/2015
+                  WITH CA/2919/2014 IN FA/272/2015
+                  WITH CA/2921/2014 IN FA/270/2015
+                  WITH CA/2923/2014 IN FA/274/2015
+                  WITH CA/2925/2014 IN FA/269/2015
+                  WITH CA/2927/2014 IN FA/271/2015
+                  WITH CA/2929/2014 IN FA/275/2015
+               WITH CA/4640/2018 IN X-OBJST/7973/2018
+               WITH CA/4641/2018 IN X-OBJST/7975/2018
+               WITH CA/4642/2018 IN X-OBJST/7971/2018
+               WITH CA/4647/2018 IN X-OBJST/7964/2018
+               WITH CA/4649/2018 IN X-OBJST/7961/2018
+               WITH CA/4650/2018 IN X-OBJST/7969/2018
+
+
+
+
+::: Uploaded on - 04/03/2019              ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                   {10}              CA 5048 OF 2017 &amp; ORS
+
+
+               WITH CA/4651/2018 IN X-OBJST/7967/2018
+               WITH CA/4653/2018 IN X-OBJST/7978/2018
+
+                CHANDRAKALA BHANUDAS CHOLE AND ANR
+                               VERSUS
+                 THE STATE OF MAHARASHTRA AND ANR
+                                 ...
+
+          967 CIVIL APPLICATION NO.5353 OF 2018
+ IN X-OBJST/37512/2017 WITH CA/13933/2011 IN FA/166/2017
+
+                    BHAGWAN DHONDIBA GARJE AND ORS
+                                 VERSUS
+                    THE STATE OF MAHARSHTRA AND ANR
+                                   ...
+
+                 968 CIVIL APPLICATION NO.5827 OF 2018
+                         IN X-OBJST/11459/2018
+
+                     ASHOK PANDHARI KADAM AND ORS
+                                 VERSUS
+                   THE STATE OF MAHARASHTRA AND ANR
+                                   ...
+
+                 969 CIVIL APPLICATION NO.6131 OF 2018
+                          IN X-OBJST/8606/2018
+
+   NEHRU BABURAO SONWANE DIED LRS USHABAI AND OTHERS
+                         VERSUS
+         THE STATE OF MAHARASHTRA AND ANOTHER
+                           ...
+
+                970 CIVIL APPLICATION NO.6183 OF 2018
+            IN X-OBJST/17373/2017 WITH CA/11412/2013 IN
+                             FA/2061/2014
+
+         JAGGANATH VISHWANATH SONWANE THR POWER OF
+           ATTORNEY HOLDER BHALCHANDRA J SONWANE
+                            VERSUS
+            THE STATE OF MAHARASHTRA AND ANOTHER
+                              ...
+
+
+
+
+::: Uploaded on - 04/03/2019              ::: Downloaded on - 22/03/2019 13:45:20 :::
+                                        {11}                 CA 5048 OF 2017 &amp; ORS
+
+
+            971 CIVIL APPLICATION NO.6198 OF 2018
+   IN X-OBJST/33677/2017 WITH CA/6021/2014 IN FA/77/2009
+
+                MANGALABAI BHIMRAO JADHAV
+                          VERSUS
+      THE GODAWARI MARATHWADA IRRIGATION DEVELOPMENT
+         CORPORATION THR ITS EX. ENGINEER AMBAJOGAI
+                             ...
+               Respective Counsel for Applicant/s present.
+        S/Shri A.M. Phule, P.M. Kulkarni and S.J. Salgare, AGPs for
+                Respondent-State (in respective matters).
+             Respective Counsel for Respondent/s present.
+                                       ...
+
+                                      CORAM : P.R.BORA, J.
+</pre>
+<pre id="pre_2">                                      DATE:       28th February, 2019
+
+ PER COURT:-
+
+ 1.               All      these   applications      are       filed      seeking
+
+</pre><p id="p_1"> condonation of delay, which has occurred in filing the cross-
+
+ objections by the respective original claimants in respective
+
+ appeals. The appeals are filed either by the acquiring body
+
+ or by the State Government against the judgments and
+
+ Awards passed in Land Acquisition References (LARs). The
+
+ period of delay varies in every application.                           In some
+
+ applications when the delay is of a shorter period, delay
+
+ caused in some of the matters is of a huge period. In every
+
+ application attempt has been made to justify the said delay
+
+ and variety of reasons are assigned.
+</p>
+<p id="p_2">
+
+
+<span class="hidden_text" id="span_1">::: Uploaded on - 04/03/2019                      ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+</p><p id="p_3">                                       {12}               CA 5048 OF 2017 &amp; ORS
+
+
+</p><p id="p_4"> 2.               Under Sub-rule (1) of Rule 22 of Order 41 of the
+
+ Code of Civil Procedure (for short the Code), a power has
+
+ been conferred upon the Appellate Court to extend the time
+
+ to file cross-objection. The Appellate court can grant such
+
+ further time as it may see fit to allow.
+</p>
+<p id="p_5">
+
+</p><p id="p_6"> 3.               The issue as about condonation of delay in filing
+
+ the cross-objection was for consideration before this Court
+
+ in the case of State of Maharashtra Vs. Kalu Ladku Mhatre -
+
+ 2011 (4) Mh.L.J. 741. I deem it appropriate to reproduce
+
+ herein below the discussion made by this court in regard to
+
+ the said issue in paras 5 to 7 of the said judgment, which
+
+ read thus, -
+</p>
+<p id="p_7">
+</p><blockquote id="blockquote_1">                  "5. I have given careful consideration to the
+                  submissions. The first issue is regarding the
+                  condonation of delay in filing the Cross
+                  Objection. A Reference will have to be made to
+                  Sub Rule (1) of Rule 22 of Order XLI of the said
+                  Code which reads thus:
+</blockquote><blockquote id="blockquote_2">                      "Any respondent, though he may not have
+                      appealed from any part of the decree,
+                      may not only support the decree [but may
+                      also state that the finding against him in
+                      the Court below in respect of any issue
+                      ought to have been in his favour; and may
+                      also take any cross-objection] to the
+                      decree which he could have taken by way
+                      of appeal, provided he has filed such
+                      objection in the Appellate Court within one
+                      month from the date of service on him or
+
+
+
+
+<span class="hidden_text" id="span_2">::: Uploaded on - 04/03/2019                   ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+                                        {13}                CA 5048 OF 2017 &amp; ORS
+
+
+                        his pleader of notice of the day fixed for
+                        hearing the appeal, or within such further
+                        time as the Appellate Court may see fit to
+                        allow."
+</blockquote>
+<blockquote id="blockquote_3">                  6. Thus, under Sub Rule (1) of Rule 22 of Order
+                  XLI of the said Code, a power has been
+                  conferred upon the Appellate Court to extend
+                  the time to file Cross Objection. The Appellate
+                  Court can grant such further time as it may
+                  see fit to allow. The Sub-Rule (1) of Rule 22
+                  does not lay down that sufficient cause is
+                  required to be shown by the respondent. As
+                  the said Code vests the power to extend the
+                  time to file Cross-Objection in the Appellate
+                  Court, it is not at all necessary for the
+                  respondent in Appeal to invoke <a href="/doc/100581/" id="a_1">Section 5</a> of
+                  the Limitation Act, 1963. <a href="/doc/100581/" id="a_2">Section 5</a> of the
+                  Limitation Act reads thus:
+</blockquote><blockquote id="blockquote_4">                        "Extension of prescribed period of
+                        certain cases - Any appeal or any
+                        application, other than an application
+                        under any of the provisions of Order XXI of
+                        the Code of Civil Procedure, 1908, may be
+                        admitted after the prescribed period, if the
+                        appellant or the applicant satisfied the
+                        Court that he had sufficient cause for not
+                        preferring the appeal or making the
+                        application within such period."
+</blockquote>
+<blockquote id="blockquote_5">                  7. The last part of Sub Rule (1) of Rule 22 of
+                  Order XLI deals with the grant of extension of
+                  time for filing of Cross Objection and <a href="/doc/100581/" id="a_3">Section 5</a>
+                  of the Limitation Act deals with the extension
+                  of time to prefer an Appeal. <a href="/doc/100581/" id="a_4">Section 5</a> of the
+                  Limitation Act incorporates a condition
+                  precedent of the appellant satisfying the
+                  Appellate Court that he had sufficient cause
+                  for not preferring the Appeal within the
+                  prescribed period of limitation. Sub Rule (1) of
+                  Rule 22 of Order XLI does not incorporate the
+                  stringent requirement of establishing a
+                  sufficient cause. Thus, a wide power to extend
+                  the time to file Cross- Objection has been
+                  vested in the Appellate Court. Though there is
+                  no requirement of establishing sufficient cause
+
+
+
+
+<span class="hidden_text" id="span_3">::: Uploaded on - 04/03/2019                     ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+                                        {14}               CA 5048 OF 2017 &amp; ORS
+
+
+                  within the meaning of <a href="/doc/100581/" id="a_5">Section 5</a> of the
+                  Limitation Act, in the application for seeking
+                  extension of time to file Cross-Objection, brief
+                  reasons for delay will have to be set out. A
+                  wider discretion has been conferred on the
+                  Appellate Court under the Sub Rule (1) of Rule
+                  22 than what is conferred by <a href="/doc/100581/" id="a_6">Section 5</a> of the
+                  Limitation Act. The power to extend time
+                  under Sub Rule (1) of Rule 22 of Order XLI of
+                  the Code has to be liberally exercised in case
+                  where a Cross-Objection is sought to be filed
+                  before the Appeal is heard for final hearing."
+</blockquote>
+
+
+<p id="p_8"> 4.               In the aforesaid matter, First Appeal which was
+
+ filed in the year 2002 was listed on Board for final hearing,
+
+ for the first time, in June 2011. Thereafter cross-objection
+
+ was filed. The reason, as was assigned in justification of the
+
+ delay caused in preferring the application was that, the
+
+ respondent had instructed his Advocate to file the cross-
+
+ objection, however, he was informed that the court fees is
+
+ required to be paid and for various reasons the court fees
+
+ could not be arranged by the said respondent.
+
+
+
+</p><p id="p_9"> 5.               In the matters which are before this Court for
+
+ consideration,            similar   reasons   are   assigned           by     the
+
+ respective respondents-claimants in justification of the
+
+ delay caused in filing the cross-objections by them.                            As
+
+ observed by this Court in the cited judgment, sub-rule (1) of
+
+
+
+
+<span class="hidden_text" id="span_4">::: Uploaded on - 04/03/2019                    ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+                                      {15}               CA 5048 OF 2017 &amp; ORS
+
+
+ Rule 22 of Order 41 of the Code does not incorporate the
+
+ stringent requirement of establishing a sufficient cause.
+
+ This Court has further observed in the cited judgment that a
+
+ wide power to extend time to file cross-objection has been
+
+ vested in the Appellate court. It has also observed that the
+
+ power to extend the time under sub-rule (1) of Rule 22 of
+
+ Order 41 of the Code has to be liberally exercised in a case
+
+ where cross-objection is sought to be filed before the appeal
+
+ is listed for final hearing. Having regard to the view taken
+
+ by this Court in the case cited supra, though I am inclined to
+
+ condone the delay, while exercising such discretion in
+
+ favour of the respondents-claimants, it appears to me that
+
+ since the respondents-claimants did not file the cross-
+
+ objection within the period as stipulated in sub-rule (1) of
+
+ Rule 22 of Order 41 of the Code, it would not be unjust and
+
+ improper if they are disentitled of the interest for the period
+
+ of delay in the event their cross-objections are allowed and
+
+ consequently the amount of compensation is enhanced on
+
+ the said enhanced amount of compensation.
+
+
+
+</p><p id="p_10"> 6.               In the result, following order is passed, -
+
+
+
+
+<span class="hidden_text" id="span_5">::: Uploaded on - 04/03/2019                  ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+</p><pre id="pre_3">                                             {16}              CA 5048 OF 2017 &amp; ORS
+
+
+                                           ORDER
+
+
+          i.       The delay occasioned in filing the cross-
+          objections            by   the    respective     respondents-
+          claimants            in    the    respective     appeals,          is
+          condoned.
+
+
+          ii.      The         cross-objections    be    registered          in
+          accordance with law.
+
+
+          iii.     It is clarified that in the event of their
+</pre><p id="p_11">          success in the cross-objections, resulting in
+          enhancement in the amount of compensation,
+          the respondents-claimants shall not be entitled
+          for the interest of the period of delay on the
+          enhanced amount of compensation.
+</p>
+<p id="p_12">
+          iv.      Registry to list the respective appeals along
+          with      the        cross-objections    therein       for     final
+          disposal in their chronology.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">                                                             (P.R.BORA)
+                                                               JUDGE
+
+
+
+          SPT
+
+
+
+
+<span class="hidden_text" id="span_6">::: Uploaded on - 04/03/2019                        ::: Downloaded on - 22/03/2019 13:45:20 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

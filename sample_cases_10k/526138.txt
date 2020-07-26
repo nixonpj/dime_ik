@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Babulal And Bros. vs Commissioner Of Income-Tax on 16 January, 1989</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/526138/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1951329/">Section 154 in The Income- Tax Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1940213/">Section 256(1) in The Income- Tax Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/526138/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/526138/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=closing%20stock%20">closing stock </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">Babulal And Bros. vs Commissioner Of Income-Tax on 16 January, 1989</div><div class="doc_citations">Equivalent citations: 1989 177 ITR 451 MP</div>
+
+<div class="doc_author">Author: G Sohani</div>
+
+<div class="doc_bench">Bench: G Sohani, K Agrawal</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+  G.G. Sohani, Actg. C.J.  
+</p> 
+
+<p id="p_2"> 1. By this application under <a href="/doc/1940213/" id="a_1">Section 256(1)</a> of the Income-tax Act, 1961 (hereinafter referred to as "the Act"), the Income-tax Appellate Tribunal, Indore Bench, Indore, has referred the following question of law to this court for its opinion : 
+</p><p id="p_3">  "Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that in implementing the Tribunal's order for the assessment year 1972-73, the Income-tax Officer was justified in revising the assessment for the year 1973-74 in the absence of any rectification order having been passed by the Appellate Assistant Commissioner ?" 
+</p> 
+
+<p id="p_4"> 2. The material facts giving rise to this reference, briefly, are as follows : While framing the assessment for the assessment year 1972-73, the Income-tax Officer made an addition of Rs. 7,918 to the income of the assessee on account of undervaluation of the closing stock. This addition was confirmed on appeal by the Appellate Assistant Commissioner. While framing the assessment for the assessment year 1973-74, the Income-tax Officer did not make any corresponding increase in the value of the opening stock in the subsequent accounting year, even though the Income-tax Officer had made an addition of Rs. 7,918 in the closing stock of the earlier accounting year. The assessee, therefore, preferred an appeal before the Appellate Assistant Commissioner who directed that necessary adjustment be made in the opening stock in the assessment for the assessment year 1973-74. Now, in the second appeal preferred by the assessee from the order passed in appeal by the Appellate Assistant Commissioner for the assessment year 1972-73, the Tribunal directed deletion of Rs. 7,918 made by the Income-tax Officer on account of alleged undervaluation of closing stock. In the meanwhile; in pursuance of the order passed by the Appellate Assistant Commissioner relating to the assessment for the assessment year 1973-74, the Income-tax Officer had passed a consequential order making the necessary adjustment in the opening stock. Thereafter, the Income-tax Officer rectified the order in view of the order passed by the Tribunal relating to the assessment for the assessment year 1972-73. Against this order of rectification, an appeal was preferred before the Appellate Assistant Commissioner which was dismissed. The second appeal preferred by the assessee was also dismissed by the Tribunal. Aggrieved by the order passed by the Tribunal, the assesses sought reference and it is at the instance of the Tribunal that the aforesaid question of law has been referred to this court for its opinion. 
+</p> 
+
+<p id="p_5"> 3. Shri Nema, learned counsel for the assessee, contended that, by the order passed by the Appellate Assistant Commissioner on the appeal arising out of the order of assessment passed by the Income-tax Officer for the assessment year 1973-74, the Income-tax Officer was directed to adjust the amount of Rs. 7,918 in the value of the opening stock for the accounting year in question and hence the Income-tax Officer had no power to rectify the order passed by the Appellate Assistant Commissioner even though that order had become erroneous in the light of the order passed by the Tribunal in the second appeal relating to the assessment year 1972-73. The contention advanced on behalf of the assessee deserves to be upheld. An authority cannot proceed to rectify the mistake in the order of any higher authority. The Income-tax Officer, no doubt, had jurisdiction under <a href="/doc/1951329/" id="a_2">Section 154</a> of the Act to rectify a mistake in the order passed by him, but he had no jurisdiction to rectify the mistake in the order passed by the Appellate Assistant Commissioner. It is no doubt true that after the order passed by the Tribunal in appeal preferred by the assessee relating to the assessment year 1972-73, the order passed by the Appellate Assistant Commissioner directing adjustment in the opening stock deserved to be rectified as it became erroneous. But rectification in that order could be effected only by the Appellate Assistant Commissioner who had passed that order. The Income-tax Officer had no jurisdiction to  rectify the mistake in the order passed by the Appellate Assistant Commissioner, Consequently, the Tribunal was not right in holding that in implementing the Tribunal's order for the assessment year 1972-73, the Income-tax Officer was justified in revising the assessment for the year 1973-74, in the absence of any rectification order having been passed by the Appellate Assistant Commissioner. 
+</p> 
+
+<p id="p_6"> 4. For all these reasons, our answer to the question referred to this court is in the negative and in favour of the assessee. In the circumstances of the case, parties shall bear their own costs of this reference.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

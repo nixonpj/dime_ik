@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Anjali vs Haryana Urban Development ... on 21 March, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/135465824/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/135465824/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/135465824/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Anjali vs Haryana Urban Development ... on 21 March, 2017</div><pre id="pre_1">           IN THE HIGH COURT OF PUNJAB AND HARYANA
+                        AT CHANDIGARH
+                                        CWP-3632-2015 (O&amp;M)
+                                     Date of decision: 21.03.2017
+
+Anjali                                                        .....Petitioner
+                            versus
+Haryana Urban Development Authority and others
+                                                              ......Respondents
+
+CORAM: Hon'ble Mr.Justice Kuldip Singh
+
+Present:     None for the petitioner
+             Ms.Bhupinder Kaur, Advocate for the respondents
+
+1. Whether Reporters of Local Newspapers may be allowed to see the
+judgment ?
+2. To be referred to the Reporters or not ?
+3. Whether the judgment should be reported in the Digest?
+
+
+Kuldip Singh, J. (Oral)
+</pre>
+<p id="p_1">             Written statement on behalf of the respondents filed in Court is
+
+taken on record. From perusal of the same, it comes out that Family Pension
+
+Payment Order No.1781 dated 28.2.2017 for pensionary benefits has been
+
+sanctioned subject to condition for submission of requisite documents i.e.
+
+self photographs, copy of bank pass book, copy of Aadhar Card, copy of
+
+death certificate and affidavits regarding the fact that the Petitioner is neither
+
+remarried nor shall remarry in future and neither drawing medical from any
+
+other department nor is in the service in any department.
+
+</p><p id="p_2">             In view of the matter, the present petition has become
+
+infructuous and is disposed of accordingly. The petitioner shall supply all
+
+the requisite documents to the respondents.
+</p>
+<pre id="pre_2">21.03.2017                                           (Kuldip Singh)
+gk                                                      Judge
+
+
+Whether speaking/ reasoned:                          Yes
+Whether Reportable:                                  No
+
+
+
+
+                                       1 of 1
+<span class="hidden_text" id="span_1">                    ::: Downloaded on - 25-03-2017 23:19:04 :::</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

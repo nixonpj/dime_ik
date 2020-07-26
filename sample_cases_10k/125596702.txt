@@ -1,0 +1,339 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sameer Wason &amp; Anr. vs Agya Ram Sood on 20 April, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/125596702/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:125596702">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/679372/">The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/367290/">Section 14 in The Delhi Rent Act,   1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/683145/">Chander Kishore Sharma And Anr. vs Kampa Wati on 4 July, 1983</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/572499/">Mohan Lal Goela vs Siri Krishan on 8 August, 1977</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1106478/">Gulzar Singh And Anr. vs Chand Gupta on 24 September, 1985</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/125596702/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/125596702/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/125596702/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Sameer Wason &amp; Anr. vs Agya Ram Sood on 20 April, 2018</div><pre id="pre_1">$~3
+       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                         Decided on:- 20th April, 2018
+
++      CM (M) 1367/2011 &amp; CM No. 21211/2011
+
+       SAMEER WASON &amp; ANR.                          ..... Petitioners
+                   Through:            Mr. P.K. Rawal, Adv.
+
+                          versus
+
+       AGYA RAM SOOD                                 ..... Respondent
+                   Through:            Mr. P.P. Ahuja, Adv.
+
+CORAM:
+HON'BLE MR. JUSTICE R.K.GAUBA
+
+                   ORDER (ORAL)
+</pre><p id="p_1">1.     The petitioners claim to be landlords qua the respondent in
+respect of premises described as shop on ground floor in property no.
+53, Old Rajinder Nagar Market, Delhi, the tenancy statedly having
+been created by Rent Agreement dated 15.07.1988.             They had
+instituted a case for eviction (petition no. E-185/1998) in the Court of
+Additional Rent Controller on 21.12.1998 invoking grounds under
+Section 14 (1) (a), (b) and (j) of <a href="/doc/679372/" id="a_1">Delhi Rent Control Act</a>, 1958. The
+case was contested by the respondent on all counts, evidence having
+been led by each side. It eventually resulted in judgment dated
+02.06.2003 whereby the Additional Rent Controller having found the
+respondent guilty of being in default of payment of rent within the
+mischief of <a href="/doc/367290/" id="a_2">Section 14</a> (1) (a), closed the proceedings by granting the
+benefit of protection under <a href="/doc/367290/" id="a_3">Section 14</a> (2) of <a href="/doc/679372/" id="a_4">Delhi Rent Control Act</a>,
+
+
+<span class="hidden_text" id="span_1">CM (M) 1367/2011                                          Page 1 of 6</span>
+ 1958, the respondent (tenant) having complied with the order under
+<a href="/doc/1987465/" id="a_5">Section 15</a> (1). There has been no challenge brought to the findings in
+that regard or the result on that score by either side, the judgment of
+the Additional Rent Controller to that extent having attained finality.
+The Additional Rent Controller held, by the said judgment dated
+02.06.2003, that the petitioners had failed to prove their case on the
+ground under <a href="/doc/367290/" id="a_6">Section 14</a> (1) (j) of <a href="/doc/679372/" id="a_7">Delhi Rent Control Act</a>, 1958. The
+said ground was not pressed by any appeal before the Rent Control
+Tribunal and, thus, also needs quietus. The ground of sub-letting
+under <a href="/doc/367290/" id="a_8">Section 14</a> (1) (b) of <a href="/doc/679372/" id="a_9">Delhi Rent Control Act</a>, 1958, however,
+persists and has come up for fresh consideration before this Court
+through the petition at hand.
+</p><p id="p_2">2.     The Additional Rent Controller had granted eviction order on
+the petition under <a href="/doc/367290/" id="a_10">Section 14</a> (1) (b) of <a href="/doc/679372/" id="a_11">Delhi Rent Control Act</a>, 1958
+holding the respondent-tenant to have sub-let the premises. The
+respondent-tenant had challenged the said finding and result. The
+appeal (RCT 82/2009 old no. RCA 504/2003) was allowed by the
+Additional Rent Control Tribunal by judgment dated 12.08.2011 and it
+was held that the petitioners had failed to prove sub-letting. Thus, the
+eviction order was set aside and the petition on that ground was
+dismissed.
+</p><p id="p_3">3.     Having heard the learned counsel on both sides and having gone
+through the record, including the pleadings and the evidence (copies
+whereof were submitted at the hearing), this Court finds no merit in
+the petition.
+</p>
+
+
+<span class="hidden_text" id="span_2">CM (M) 1367/2011                                          Page 2 of 6</span>
+<p id="p_4"> 4.     The case for eviction on the ground under <a href="/doc/367290/" id="a_12">Section 14</a> (1) (b),
+<a href="/doc/679372/" id="a_13">Delhi Rent Control Act</a>, 1958 was set out in the eviction petition thus:-
+</p>
+
+<blockquote id="blockquote_1">       "That the respondent has already sub-letted, assigned
+       and otherwise parted with the tenancy premises and the
+       respondent tenant is not at all in possession thereof and
+       sub tenant is in exclusive possession of tenancy shop. As
+       per terms and conditions of the rent agreement the
+       respondent has no right to sub-let, assign or otherwise
+       part with the possession of the tenancy premises, hence
+       the present petition on the ground of sub-letting".
+</blockquote>
+<p id="p_5">5.     The above ground was contested with following averments in
+the written statement:-
+</p><blockquote id="blockquote_2">       "14 (1) (b). Sub-Para-under-reply is absolutely wrong
+       and false and is emphatically denied. The allegations in
+       the Sub-Para-under-reply are merely repetition of the
+       earlier allegations of the petition and a suitably
+       reply/written statement to the same has already been give
+       above, which, for the sake of brevity, is not being
+       reproduced herein, and it is prayed that the same may
+       please be read as part of the reply to the Sub-Para-
+       under-reply. The petition, being false, frivolous and
+       baseless, is liable to be dismissed, with punitive costs. It
+       is wrong and is denied that the respondent has Sub-
+       letted, assigned or otherwise parted with the tenancy
+       premises or the respondent is not in possession thereof or
+       that it is any alleged sub-tenant who is in possession of
+       the tenancy shop. The terms of the agreement of rent are
+       matters of record, however, the respondent has not
+       violated any of the terms of said agreement date 18.7.88
+       of rent. The petitioner on the alleged ground of sub-
+       letting is false, baseless ad malafide, and is having no
+       substance or truth in the same. The respondent himself is
+       in use, occupation and possession of the tenanted shop,
+       wherein he in the company of his son, has been running
+
+
+<span class="hidden_text" id="span_3">CM (M) 1367/2011                                            Page 3 of 6</span>
+          the business if stationer, books, etc. (including cold
+         drinks)".
+</blockquote><p id="p_6">6.       The second petitioner appeared in evidence (as AW-2), reliance
+being placed additionally on the evidence of certain other witnesses,
+the prime effort of the petitioners to prove that the respondent had sub-
+let the shop to his son Arun Sood, and that he was in exclusive use of
+the premises, running his business in the name and style of M/s Sood
+Store.     These facts were sought to be demonstrated, inter alia, by
+photographs (Ex. AW-2/22, 26 and 28), and the evidence of Chander
+Pal (AW-1), Section Officer from Mahanagar Telephone Nigam
+Ltd.(MTNL) and Rajesh Anand (AW-4), Clerk-cum-cashier, Oriental
+Bank of Commerce, old Rajinder Nagar, New Delhi. The respondent,
+on the other hand, examined himself (as RW-2), also examining Gulab
+Singh (RW-1), another official from the aforementioned bank in
+addition to other witnesses including his son Arun Sood (RW-4). The
+photographs depict display of the sign board of Sood Stores across the
+subject premises. The respondent, in his evidence, did not deny the
+presence of his son Arun Sood in the premises, his argument being
+that he is assisted in the business run from the premises by his said
+son, it also being not disputed that the son was engaged in the business
+of Sood Store which was run simultaneously from the premises, it
+being the case of the respondent that he continues to be in possession
+and control of the tenanted shop.
+</p><p id="p_7">7.       The evidence of the official witnesses from MTNL would show
+that a telephone connection in the name of Arun Sood, son of the
+respondent was installed in the premises. The evidence of the official
+
+
+<span class="hidden_text" id="span_4">CM (M) 1367/2011                                           Page 4 of 6</span>
+ witnesses of the bank would show that Arun Sood, the son of the
+respondent had opened a bank account in the name of Sood Stores.
+</p><p id="p_8">8.     The learned counsel for the petitioners read extensively from
+the evidence and the judgment of the Additional Rent Controller to
+argue that the petitioners had proved the presence of a stranger in the
+premises and, therefore, had discharged the burden of proof on the
+ground of sub-letting and further that there was no satisfactory
+explanation offered by the respondent and consequently the eviction
+order granted by the Additional Rent Controller should not have been
+disturbed by the Additional Rent Control Tribunal. Per contra, the
+counsel for respondent relied on the judgment of the Additional Rent
+Control Tribunal and argued that mere proof of existence of a
+telephone connection in the name of the son and use of the address of
+the suit shop by the son for opening a bank account in the name of M/s
+Sood Store does not bring home the case of sub-letting, the evidence
+of the respondent about he having continued to be in possession and
+control being credible and rightly accepted by the appellate forum.
+</p><p id="p_9">9.     Having accorded consideration to the rival submissions in the
+light of pleadings and the evidence on record, this Court finds the
+view taken by the Additional Rent Control Tribunal to be based on
+correct appreciation of facts and proper application of law. There is no
+evidence worth the name to show that while allowing his son to
+simultaneously run the business of Sood Stores from the subject
+premises, the respondent has effaced himself from the tenanted shop.
+His evidence, duly supported by that of other witnesses including his
+son (AW-4), as indeed that of Amarjit Singh (RW-3), Secretary of the
+
+
+<span class="hidden_text" id="span_5">CM (M) 1367/2011                                          Page 5 of 6</span>
+ Market Association, leaves no room for doubt that the respondent-
+tenant continues to be not only in use and occupation of the premises
+but also engaged in the business run therefrom.
+</p><p id="p_10">10.     There is no evidence of any monetary consideration flowing
+from the son of the respondent to him for use of the subject premises
+by the former. It is not a case of the tenanted premises having been
+partitioned or any particular portion having been rendered in exclusive
+use of a stranger by the tenant. In these circumstances, the view taken
+by the Additional Rent Control Tribunal with reference to the rulings
+in <a href="/doc/1106478/" id="a_14">Gulzar Singh Ors. vs. Sri Chand Gupta</a> 29 (1986) Delhi Law Times
+50; <a href="/doc/170207539/" id="a_15">Jaganath vs. Chander Bhan &amp; Ors</a>. AIR 1988 Supreme Court
+1362; <a href="/doc/1602657/" id="a_16">Niranjan Lal Kanodia vs. Harbans Lal</a> 1995 (34) DRJ 14;
+<a href="/doc/572499/" id="a_17">Sohan Lal vs. Siri Pal &amp; Ors</a>. 48 (1992) DLT 65; <a href="/doc/683145/" id="a_18">Chander Kishore
+Sharma &amp; Ors. vs. Kampa Wati</a> 24 (1983) Delhi Law Times 316;
+<a href="/doc/1905957/" id="a_19">Bhagwan P Sajnani vs. Ranbir Singh</a> 29 (1986) Delhi Law Times 45
+and <a href="/doc/233278/" id="a_20">Nirmal Kanta vs. Ashok Kumar</a> AIR 2008 Supreme Court 1768
+does not call for any interference.
+</p><p id="p_11">11.    The petition and the pending application are, thus, dismissed.
+</p>
+
+<p id="p_12">                                                      R.K.GAUBA, J.
+</p>
+<p id="p_13">APRIL 20, 2018
+nk
+
+
+
+
+<span class="hidden_text" id="span_6">CM (M) 1367/2011                                           Page 6 of 6</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

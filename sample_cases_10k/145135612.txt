@@ -1,0 +1,432 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Harmeet Singh And Others vs State Of Punjab And Another on 23 January, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/145135612/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:145135612">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1679850/">Section 482 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/538436/">Section 498A in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/91933/">Section 320 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/988620/">Section 406 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/811682/">Kulwinder Singh And Ors. vs State Of Punjab And Anr. on 8 August, 2007</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/145135612/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/145135612/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.482%20of%20criminal%20procedure%20code">sec.482 of criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20482%20criminal%20procedure%20code">section 482 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20482%20crpc">section 482 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=crpc%20sec.482">crpc sec.482</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=482%20crpc">482 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=482%20criminal%20procedure%20code">482 criminal procedure code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=u/s%20482%20of%20cr.p.c">u/s 482 of cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20320">section 320</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=320">320</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Harmeet Singh And Others vs State Of Punjab And Another on 23 January, 2013</div><pre id="pre_1">Crl. Misc. No. M-6420 of 2012 (O&amp;M)                                 -1 -
+
+        IN THE HIGH COURT OF PUNJAB AND HARYANA
+                     AT CHANDIGARH.
+
+                            Crl. Misc. No. M-6420 of 2012 (O&amp;M)
+                            Date of Decision: 23.1.2013.
+
+Harmeet Singh and others                            ........Petitioners
+
+                                 Vs.
+
+State of Punjab and another                        ......Respondents
+
+CORAM:       HON'BLE MRS. JUSTICE SABINA
+
+Present:     Mr. I.S.Mann, Advocate
+             for the petitioners.
+
+             Mr. Jasdev Singh Brar, AAG, Punjab.
+
+             Mr. Vinod Khunger, Advocate
+             for respondent No. 2.
+
+                    .....
+
+SABINA, J.
+</pre>
+
+<p id="p_1">             Petitioners have filed this petition under <a href="/doc/1679850/" id="a_1">Section 482</a>
+
+of the Code of Criminal Procedure, 1973 for quashing of the FIR
+
+No. 69 dated 13.10.2011, under <a href="/doc/988620/" id="a_2">Section 406</a>, <a href="/doc/538436/" id="a_3">498-A</a> of the Indian
+
+Penal Code ('<a href="/doc/1569253/" id="a_4">IPC</a>' for short), registered at Police Station Muktsar
+
+Sadar, District Sri Muktsar Sahib (Annexure P-1) and all the
+
+subsequent proceedings arising therefrom in view of compromise
+
+dated 9.2.2012 (Annexure P-2) arrived at between the parties.
+
+</p><p id="p_2">             Learned counsel for the petitioners as well as learned
+
+counsel for respondent No. 2 have submitted that now the
+
+parties have amicably settled their dispute
+
+             Vide order dated 22.11.2012, parties were directed to
+
+appear before the Trial Court and the Trial Court was directed to
+
+record the statements of the parties and send its report qua the
+
+validity of the compromise effected between the parties.
+
+</p><p id="p_3">             In pursuance to the said order, Trial Court has
+ Crl. Misc. No. M-6420 of 2012 (O&amp;M)                                  -2 -
+</p>
+<p id="p_4">recorded the statements of the parties and has reported that the
+
+compromise effected between the parties was genuine.
+
+</p><p id="p_5">             As per the Full Bench judgment of this Court in
+
+<a href="/doc/811682/" id="a_5">Kulwinder Singh and others vs. State of Punjab</a>, 2007 (3)
+
+RCR (Criminal) 1052, High Court has power under <a href="/doc/1679850/" id="a_6">Section 482</a>
+
+Cr.P.C. to allow the compounding of non-compoundable offence
+
+and quash the prosecution where the High Court felt that the
+
+same was required to prevent the abuse of the process of any
+
+Court or to otherwise secure the ends of justice. This power of
+
+quashing is not confined to matrimonial disputes alone.
+
+</p><p id="p_6">             Hon'ble the Apex Court in the case of <a href="/doc/393489/" id="a_7">Nikhil
+
+Merchant vs. Central Bureau of Investigation and another JT</a>
+
+2008 (9) SC 192 in para Nos. 23 and 24 has held as under:-
+
+</p><blockquote id="blockquote_1">             "23. In the instant case, the disputes between the
+
+             Company and the Bank have been set at rest on the
+
+             basis   of   the    compromise   arrived   at    by   them
+
+             whereunder the dues of the Bank have been cleared
+
+             and the Bank does not appear to have any further
+
+             claim against the Company. What, however, remains
+
+             is the fact that certain documents were alleged to
+
+             have been created by the appellant herein in order to
+
+             avail of credit facilities beyond the limit to which the
+
+             Company was entitled. The dispute involved herein
+
+             has overtones of a civil dispute with certain criminal
+
+             facets. The question which is required to be answered
+
+             in this case is whether the power which independently
+
+             lies    with this court     to   quash     the    criminal
+
+             proceedings pursuant to the compromise arrived at,
+ Crl. Misc. No. M-6420 of 2012 (O&amp;M)                               -3 -
+</blockquote>
+<blockquote id="blockquote_2">             should at all be exercised?
+</blockquote>
+<blockquote id="blockquote_3">             24.On an overall view of the facts as indicated
+
+               hereinabove and keeping     in mind the decision of
+
+               this Court in B.S.Joshi's case (supra) and the
+
+               compromise arrived at between the Company and
+
+               the Bank as also clause 11 of the consent terms
+
+               filed in the suit filled by the Bank, we are satisfied
+
+               that this is a fit case where technicality should not
+
+               be allowed to stand in the way in the quashing of
+
+               the criminal proceedings, since, in our view, the
+
+               continuance of the same after the compromise
+
+               arrived at between the parties would be a futile
+
+               exercise."</blockquote><blockquote id="blockquote_4">
+
+</blockquote><blockquote id="blockquote_5">             In case of Shiji @ Pappu and others Vs. Radhika
+
+and another 2012 (1) R.C.R. (Criminal) 9, the Hon'ble Apex
+
+Court in para No.13 has held as under:-
+</blockquote>
+<blockquote id="blockquote_6">             13.    It is manifest that simply because an offence is
+
+             not compoundable under <a href="/doc/895891/" id="a_8">Section 320</a> IPC is by itself
+
+             no reason for the High Court to refuse exercise of its
+
+             power under <a href="/doc/1679850/" id="a_9">Section 482</a> Cr.P.C. That power can in
+
+             our opinion be exercised in cases where there is no
+
+             chance of recording a conviction against the accused
+
+             and the entire exercise of a trial is destined to be an
+
+             exercise in futility. There is a subtle distinction
+
+             between compounding of offences by the parties
+
+             before the trial Court or in appeal on one hand and
+
+             the exercise of power by the High Court to quash the
+
+             prosecution under <a href="/doc/1679850/" id="a_10">Section 482</a> Cr.P.C. On the other.
+</blockquote><blockquote id="blockquote_7"> Crl. Misc. No. M-6420 of 2012 (O&amp;M)                                -4 -
+
+</blockquote><blockquote id="blockquote_8">             While a Court trying an accused or hearing an appeal
+
+             against conviction, may not be competent to permit
+
+             compounding of an offence based on a settlement
+
+             arrived at between the parties in cases where the
+
+             offences are not compoundable under <a href="/doc/91933/" id="a_11">Section 320</a>,
+
+             the High Court may quash the prosecution even in
+
+             cases where the offences with which the accused
+
+             stand charged are non-compoundable. The inherent
+
+             powers of the High Court under <a href="/doc/1679850/" id="a_12">Section 482</a> Cr.P.C.
+
+             are not for that purpose controlled by <a href="/doc/91933/" id="a_13">Section 320</a>
+
+             Cr.P.C. Having said so, we must hasten to add that
+
+             the plenitude of the power under <a href="/doc/1679850/" id="a_14">Section 482</a> Cr.P.C.</blockquote><blockquote id="blockquote_9">
+
+</blockquote><blockquote id="blockquote_10">             by itself, makes it obligatory for the High Court to
+
+             exercise the same with utmost care and caution. The
+
+             width and the nature of the power itself demands that
+
+             its exercise is sparing and only in cases where the
+
+             High Court is, for reasons to be recorded, of the clear
+
+             view that continuance of the prosecution would be
+
+             nothing but an abuse of the process of law. It is
+
+             neither necessary nor proper for us to enumerate the
+
+             situations in which the exercise of power under
+
+             <a href="/doc/1679850/" id="a_15">Section 482</a> may be justified. All that we need to say
+
+             is that the exercise of power must be for securing the
+
+             ends of justice and only in cases where refusal to
+
+             exercise that power may result in the abuse of the
+
+             process of law. The High court may be justified in
+
+             declining interference if it is called upon to appreciate
+
+             evidence for it cannot assume the role of an appellate
+ Crl. Misc. No. M-6420 of 2012 (O&amp;M)                              -5 -
+</blockquote>
+<blockquote id="blockquote_11">             court while dealing with a petition under <a href="/doc/1679850/" id="a_16">Section 482</a>
+
+             of the Criminal Procedure Code. Subject to the above,
+
+             the High Court will have to consider the facts and
+
+             circumstances of each case to determine whether it is
+
+             a fit case in which the inherent powers may be
+
+             invoked."</blockquote><blockquote id="blockquote_12">
+
+</blockquote><blockquote id="blockquote_13">             Since the parties have arrived at a compromise and
+
+have decided to live in peace, no useful purpose would be served
+
+in allowing the criminal proceedings to continue.</blockquote><p id="p_7">
+
+</p><p id="p_8">             Accordingly, this petition is allowed. FIR No. 69 dated
+
+13.10.2011, under <a href="/doc/988620/" id="a_17">Section 406</a>, <a href="/doc/538436/" id="a_18">498-A</a> IPC, registered at Police
+
+Station Muktsar Sadar, District Sri Muktsar Sahib (Annexure
+
+P-1) and all the consequential proceedings, arising therefrom, are
+
+quashed.
+</p>
+<p id="p_9">
+
+
+</p><p id="p_10">                                              (SABINA)
+                                               JUDGE
+January 23, 2013
+Gurpreet
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

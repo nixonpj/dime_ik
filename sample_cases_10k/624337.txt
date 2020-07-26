@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: Rampuria Cotton Mills Ltd. vs Unknown on 29 January, 1958</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/624337/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:624337">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/257409/">The Indian Companies (Amendment) Act,   1930</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/365890/">Section 16 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/948485/">Article 65 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1960266/">Section 13 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1987265/">Section 106 in The Companies Act,   1956</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/624337/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/624337/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=special%20resolution">special resolution</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.106%20">sec.106 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.%20106">sec. 106</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=classes%20of%20shares">classes of shares</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=share%20holder">share holder</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20107">section 107</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shareholders%20rights">shareholders rights</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cotton%20mill">cotton mill</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=article%2065">article 65</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20indian%20companies%20act"> indian companies act</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">In Re: Rampuria Cotton Mills Ltd. vs Unknown on 29 January, 1958</div><div class="doc_citations">Equivalent citations: AIR 1959 Cal 253, 63 CWN 11</div>
+
+<div class="doc_author">Author: H Bose</div>
+
+<div class="doc_bench">Bench: H Bose</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+H.K. Bose, J.
+</p> 
+
+<p id="p_2">1. This is an application under <a href="/doc/257409/" id="a_1">Section 107</a> of the Indian Companies Act 1956 for an order that the variation of the rights of the holders of the ordinary shares in a company known as Rampuria Cotton Mills Ltd. in terms of a purported resolution dated 18-5-1957 be cancelled and the Company, its Directors, servants and agents be restrained by an injunction from giving effect to the said variation or to the said resolution dated 18-5-1957. 
+</p> 
+
+<p id="p_3"> 2. The Company to which this application relates is a public limited company which was incorporated under the name and style of Rampuria Cotton Mills Ltd. under the provisions or the <a href="/doc/257409/" id="a_2">Indian Companies Act</a> in 1941. The authorised capital of the company is Rs. 4000,000/- divided into 3,50,000 ordinary shares of Rs.  10/- each and 5,00,000 deferred shares of Re. 1/- each. The issued share capital of the Company at all material times has been 2,00,000 ordinary shares of Rs.  10/-each and Rs.  5,00,000 deferred shares of Re, 1/-each. The subscribed and paid up capital of the Company is as follows: 
+</p>   
+
+<p id="p_4"> (a)  20,300     ordinary shares  of  Rs.   10/-  fully paid up in cash. 1,74,475 ordinary shares of Rs.  10/- each issued as fully paid up otherwise than in cash, aggregating in  all   1,94,775   ordinary  shares. 
+</p> 
+
+<p id="p_5"> (b) 5,00,000 deferred shares of Re. 1/- each issued as fully paid up otherwise than in cash. The present directors of the company are six in number and their names are set out in paragraph 6 of the petition, the last two being ex-officio directors appointed by the managing agents. Under the Articles of Association of the company, a firm known as the firm of Hazarimull Hiralal were constituted as the first managing agents of the company and it was provided that the said firm and their successors in business would continue to be the managing agents of the company. This firm was composed of three branches of the Rampuria family consisting of three brothers, each of whom had one-third share therein. The brothers were Baha-durmull, Hazarimal and Hiralal. The only adult member of the branch of Bhadulmull was Bhanwar-lal Rampuria. This Bhanwarlal died on 18-11-1947 leaving him surviving the petitioner Sushila Rampuria, who was his sole widow, and Kamal Singh and Surendra Kumar, two sons who were minors at the time. This Sushila Rampuria, Kamal Singh Rampuria and Surendra Kumar along with one Sampatlal Rampuria are the petitioners in this application and they claim to be holders of not less than 10 per cent of the issued ordinary shares capital of the said company. It appears that disputes and differences arose between the partners or the said firm and the parties agreed to refer the disputes to arbitration by an agreement dated 28-3-1950. The said reference was however set aside by S.R. Das Gupta, J. on 9-1-1951. But prior to that, on 3-1-1951, one Sekharchand Rampuria filed a suit in this court for dissolution of the partnership and other reliefs, being suit No. 198 of 1951. By an order dated 23-2-1953, A.K. Sarkar, J. directed that the matters in the suit be referred to the arbitration of one Shri Mangturam Jaipuria.   
+</p> 
+
+<p id="p_6"> 3. The order of reference, inter alia, provided that 5,00,000 deferred shares and 44,475 ordinary shares in the Rampuria Cotton Mills Ltd. of the face value of Rs.  9,43,750/- held in the name of Hazarimull Heeralal together with the managing agency held by Hazarimull Heeralal should be auctioned by the arbitrator and sold to the highest bidder. Pursuant to such provision the arbitrator on 21-6-1953 put up for auction between the parties the said shares and at the said auction the rights of the said shares were purchased by Jaichandlal Rampuria, Ratanlal Rampuria and Manakchand Rampuria and the petitioners in this application ceased to have any interest in the said shares and the said rights. 
+</p> 
+
+<p id="p_7"> 4. On 10-9-1953 the arbitrator made his award. There were two applications made for setting aside the award but ultimately on or about 13-9-1956 the parties mutually settled and adjusted the disputes in the said suit No. 198 of 1951. 
+</p> 
+
+<p id="p_8"> 5. In paragraph 18 of the petition it is alleged that on or about 18-4-1957 a notice was issued under the signature of Nathmull Rampuria as a director of the company convening a meeting on 18-5-1957 for the purpose of considering and it thought fit,   passing  with  or  without  modifications the under mentioned resolutions: 
+</p><p id="p_9">  (A) AS   SPECIAL   RESOLUTION:  
+</p> 
+
+<p id="p_10"> 6. Clause (2) Resolved that Clause (5) of the Memorandum of Association of the company be amended by substituting the figure (6) in the fifth line of second paragraph of the said clause in the place of the fingure '10', 
+ 
+
+</p><p id="p_11"> 7. An explanatory statement was also appended to this special resolution No. 2 which runs as follows: 
+</p><p id="p_12">  "The limit of dividends to be declared on ordinary shares before any dividends can be paid to the deferred share-holders is very high. In fact, the company has paid dividends on deferred shareholders only on three occasions. The disproportionate voting rights enjoyed by the deferred shareholders are no longer possible but restrictions on dividends shall remain. In order to remove this anomaly and put the deferred shares on as far as possible equal footing with the ordinary shares, the limit of 10 per cent is being reduced to 6 per cent".  
+</p> 
+
+<p id="p_13"> 8. In paragraphs 19 and 20 of the petition it is stated that pursuant to the said notice a meeting was held on the 18th of May 1957 at No. 147 Cotton Street, Calcutta. The petitioners objected to the resolution (A) (2) which purported to vary the right of the holders of ordinary shares by reducing their right to dividend from the rate of 10 per cent to 6 per cent. 
+</p> 
+
+<p id="p_14"> 9. In paragraphs 21 and 22 of the petition it is alleged that notwithstanding the objection of the petitioners the directors of the company who controlled the majority of the ordinary shares and controlled all the deferred shares passed the said resolution on the strength of the majority of the voting rights which they commanded. The petitioners thereupon demanded a poll and the result of the poll was 1,95,975 votes in favour of the resolution and 37,100 votes against the resolution. 
+</p> 
+
+<p id="p_15"> 10. In paragraph 23 of the petition it is alleged that the said meeting held on 18-5-1957 was not a properly constituted meeting. In the said paragraph <a href="/doc/948485/" id="a_3">Article 65</a> of the Articles of Association is set out as follows; 
+</p><p id="p_16">  "Whenever the capital by reason of the issue of preference shares or otherwise is divided into different classes of shares, all or any of the rights and privileges attached to each class may be modified, commuted, affected, abrogated, or dealt with by agreement between the company and any person purporting to contract on behalf of that class, provided such agreement is ratified in writing by the holders of at least three-fourths in nominal value of the issued shares of the class or is confirmed by an extra-ordinary resolution passed at a separate general meeting of the holders of shares of that class and all the provisions hereinafter contained as to general meetings shall, mutatis mutandis, apply to every such meeting, but so that the quoram thereof shall be members holding or representing by proxy one-fifth of the nominal amount of the issued shares of the class. This clause is not to derogate from any power the company would have had if this clause were omitted."  
+</p> 
+
+<p id="p_17"> 11. It may be pointed out at this stage that this <a href="/doc/948485/" id="a_4">Article 65</a> contemplates that variation or modification of the rights of a class of share-holders can be effected only by means of an agreement between the companv and any person purporting to contract on behalf of that class subject to the proviso that such agreement is ratified in writing by the holders of at least three-fourths in nominal value of the issued shares of that class or such agreement is confirmed by an extraordinary resolution passed at a separate general meeting of the holders of shares of that class. So it is only through the instrumentality of an agreement of the nature contemplated in the Article that any variation of a class right is permissible. 
+</p> 
+
+<p id="p_18"> 12. In paragraph 24 of the petition it is stated as follows: 
+</p><p id="p_19">  "Your petitioners state that in terms of the said provisions of the Articles of Association the said proposed resolution which modified and/or affected the rights of the holders of ordinary shares could only be considered at a separate meeting, of the holders of the shares of that class and could not be considered at any meeting which was not a meeting exclusively of the holders of that class, of shares. As will appear from the notice the said, meeting was a meeting of all the shareholders of the said company. Your petitioners state that any resolution passed at any such meeting modifying or affecting the rights of the holders of the ordinary shareholders was wholly illegal, null and void and wholly inoperative and ineffective."  
+</p> 
+
+<p id="p_20"> 13. In paragraph 25 of the petition it is stated as follows: 
+</p><p id="p_21">  "Your petitioners are holders of not less in the aggregate than 10 per cent of the issued ordinary snares of the company and did not consent to or vote in favour of the resolution varying the rights enjoyed by the holders of ordinary snares."  
+</p> 
+
+<p id="p_22"> 14. In paragraph 26 of the petition it is, inter alia, stated as follows; 
+</p><p id="p_23">  "Your petitioners state that the said resolution was moved mala fide and is oppressive on your petitioners who are minority shareholders ....The said purported resolution is not at all passed in the interest of the holders of ordinary shares and no benefit accrues to them. .... Your petitioners stated that the said purported resolution is in any event unjust and unfair and has not been passed bona fide in the interest of or for the benefit of the holders of ordinary shares."  
+</p> 
+
+<p id="p_24"> 15. In paragraph 27 of the petition it is, inter alia, stated as follows: 
+</p><p id="p_25">  "The explanatory note attached to the said notice dated 18th April 1957 is wholly misleading and incorrect in material particulars."  
+</p> 
+
+<p id="p_26"> 16. In paragraph 31 there is a further reference to the said resolution and it is pointed out that the effect of the resolution was to unfairly reduce the benefit which had been given to the holders of ordinary shares and to wrongfully bestow additional rights 'to the deferred shareholders in the surplus profits of the company. 
+</p> 
+
+<p id="p_27"> 17. In the prayer portion of the petition, prayer (a) is as follows: 
+</p><p id="p_28">  "That the variation of the rights of holders of ordinary shares and of your petitioners as holders of ordinary shares of Rampuria Cotton Mills Limited in terms of the purported resolution dated 18th May 1957 be cancelled."  
+</p> 
+
+<p id="p_29"> 18. In prayer (b) an injunction is asked for restraining the directors, their servants and agents from giving effect to the variation or to the resolution dated 18th May, 1957 resolving upon the variation of the rights of the holders of ordinary shares. 
+</p> 
+
+<p id="p_30"> 19. It is thus clear from an analysis of the various paragraphs in the petition and the prayers of the petition that the entire case of the petitioners is based on the footing that the variation of the rights of the shareholders by reducing their right to dividend from 10 per cent to 6 per cent was effected by the sanction of the resolution being No. A(2) of the Special Resolutions which was passed at the meeting of the 18th May 1957 and as this resolution was not passed at a separate meeting of the ordinary shareholders of the company and as the effect of the resolution was to unfairly prejudice the rights of the holders of the ordinary shares as a class, the variation which was effected by the said resolution should be cancelled. 
+</p> 
+
+<p id="p_31"> 20. In the affidavit-in-opposition affirmed by Kanwarlal Rampuria it is pointed out that the variation was effected by means of an agreement which is Annexure E to the said affidavit and which was entered into between the company and Kanwarlal Rampuria and which was consented to and ratified by a large number of ordinary shareholders whose names appear as signatories to the said agreement. It has also been pointed out with reference to the correspondence which are annexed to this affidavit-in-opposition and the minutes of the meeting which was held on the 18th May 1957 that the attention of the shareholders present at the meeting was drawn to the agreement dated 12th April 1957 which was ratified later on, on different dates by the different signatories to the agreement and prior to the date of the meeting in which the resolution was passed altering Clause 5 of the Memorandum which dealt with this right of dividend of the ordinary shareholders, and the petitioners had also inspection of this agreement at the attorney's office upon appointment made for the purpose. In the affidavit in reply the factum and validity of the Agreement has been challenged. But such questions which involve the taking of evidence would have to be agitated in a separate suit if the petitioners are really serious about this challenge. 
+</p> 
+
+<p id="p_32"> 21. Mr. R. Chaudhury, one of the learned counsel appearing for the company, has raised a preliminary objection to the maintainability of this application and he has submitted that the petitioners are not entitled to claim any relief on the basis of the case as set out in the petition and the prayers as framed. His main argument is that as no relief has been claimed challenging the variation as effected by the agreement and the only prayer in the petition asking for relief is on the basis that the variation was carried out by means of a resolution passed at the extraordinary meeting of share-holders on the 18th May 1957, the petitioners should not be granted any relief in this application. It appears to me that this contention of Mr. Chaudhury should be given effect to. As I have already indicated, when analysing the various allegations in the petition that there is no mention of any agreement being entered into between the company and any shareholder for carrying out this variation although this was the only mode prescribed by <a href="/doc/948485/" id="a_5">Article 65</a> of the Company's articles for effecting a modification or variation of the rights of share-holders of any particular class. The petitioners must be presumed to know that the only mode of variation of such class rights as contemplated in <a href="/doc/948485/" id="a_6">Article 65</a> was by an agreement which could either be ratified by the other shareholders of that class or which in the alternative could be confirmed by a resolution at a separate meeting of the holders of shares of that class. 
+</p> 
+
+<p id="p_33"> 22. The validity of the resolution dated 18th May, 1957 has been challenged on the ground that as there was no separate class meeting of the ordinary shareholders of the company, there was be effective variatioa made by such resolution.  
+</p> 
+
+<p id="p_34"> 23. Mr. S. Sen appearing on behalf of the petitioners has answered this preliminary objection by submitting that no variation of any right of a class of shareholders can be effective nor is it complete until a special resolution by altering Clause 5 of the Memorandum is passed at a properly constituted meeting of the company, and the resolution dated 18th May 1957 was the last and final step which it was necessary to take in order to completely effectuate the variation. 
+</p> 
+
+<p id="p_35"> 24. Mr. Sen has also raised a further point that as Clause 5 of the Memorandum which is sought to be modified by the resolution dated 18th May 1957 is a condition contained in the Memorandum, no alteration of this clause could be made even by a special resolution passed at a meeting of the shareholders as was sought to be done at the extraordinary meeting held on the 18th May 1957. 
+</p> 
+
+<p id="p_36"> 25. In support of his argument Mr. Sen has drawn the attention of the court to Form No. 598 given in the Palmer's Precedents, 17th Edition at page 1075 and the learned counsel has argued that no fault can be found with the petition which is before this court inasmuch as the same has been drawn exactly in the form which is set out in Palmer's Book at page 1075. 
+</p> 
+
+<p id="p_37"> 26. It may be pointed out, however, that the drafting of this Form No. 598 is based on the special nature of the Article which authorises the modification of the rights of shareholders of the class concerned in that case. In paragraph 5 of the form of the petition reference is made to Article &amp; of the Company's articles which is set out at page 408 of the Palmer's book as follows: 
+</p><p id="p_38">  "If at any time the share capital is divided into different classes of shares, the rights attached to any class (unless otherwise provided by the terms of issue of shares of that class) may, whether or not the company is being wound up, be varied with the consent in writing of the holders of three-fourths of the issued shares of that class or with the sanction of an extraordinary resolution passed at a separate general meeting of the holders of the shares of that class."  
+</p> 
+
+<p id="p_39"> 27. It appears that in the case of Form No. 598-the resolution passed at an extraordinary general meeting of the company sanctioning the variation was confirmed by a resolution passed at a separate meeting of the classes of shareholders who were present at the meeting and accordingly in prayer (1) of Form No. 598 it was stated that the variation of the rights of the two classes of shares purported to be effected by the said resolution might be cancelled and disallowed. 
+</p> 
+
+<p id="p_40"> 28. Reference has also been made to Form 61 in Lord Atkin's Encyclopaedia of Forms and Precedents, Vol. 6 at page 165. It may be pointed out that the prayers of the petition set out at page 167 do not mention anything about any resolution as having purported to effect the variation. Prayer 1 in the said form is as follows : 
+</p><p id="p_41">  "That the variation of the rights (of the preference shareholders or as the case may be) may be cancelled and disallowed."  
+</p> 
+
+<p id="p_42"> 29. In this form also, in paragraph 8 of the petition, it is stated that a general meeting of the company was at first held and on the same day immediately thereafter, a separate general meeting of the particular class was held at the same place. So the case contemplated in the petition is a case where variation is effected by a resolution passed at a separate meeting of the class of shareholders whose rights are sought to be varied. 
+</p> 
+
+<p id="p_43"> 30. In the case before me, as I have pointed out already, the variation is effected by means of an agreement entered into between the company and a shareholder and such agreement is ratified by other shareholders of the same class. There was no separate meeting of the shareholders held at any time for confirming the agreement and therefore it cannot be said that the variation in this case was carried out by passing a resolution confirming the agreement by which the modification of the right was made. As to when a variation of a right or a class of shareholders as contemplated by <a href="/doc/257409/" id="a_7">Section 106</a> read with <a href="/doc/257409/" id="a_8">Section 107</a> of the Indian Companies Act 1956 can be said to have been effectually made, indications are furnished by the terms of those very sections. Before <a href="/doc/257409/" id="a_9">Section 106</a> of the Act begins there is a heading given to that section as "Variation of shareholders' rights" and in the marginal note of that section the words "alteration of rights of holders of special classes of shares" find place. Similarly, the marginal note of <a href="/doc/257409/" id="a_10">Section 107</a> is to the effect--"Rights of dissentient shareholders". A perusal of <a href="/doc/257409/" id="a_11">Section 106</a> makes it clear that it is legitimate for a company to reserve to itself by a clause in the memorandum of Articles of Association the power or authority to vary the rights attached to any class of shares in the company in which the share capital is divided into different classes of shares, but this must be subject to the condition that (a) the specified proportion of the holders of the class of shares not being less than 3/4th of the issued shares    of that class must consent    to such    variation, or    (b) such variation must be sanctioned by a resolution passed at a separate meeting of the holders of those shares and supported by the votes of holders of any specified proportion not being less than 3/4ths of these shares. In Sub-section (2) of sec 106 it is provided that any clause in the memorandum or Articles of a company which was in force before the commencement of this Act which specifies      the proportion which is less than 3/4th shall be read as specifying the proportion of 3/4th in place of the less proportion specified. It is, therefore, clear from this section that there is a statutory sanction accorded to the provision in    a memorandum or Articles of    a company authorising variation of the rights of shareholders of a particular class, but this sanction prescribes that the specified proportion for giving consent to or for sanctioning a resolution    confirming the variation shall in no case be    less    than three-fourth. <a href="/doc/257409/" id="a_12">Section 107</a> of the. <a href="/doc/1353758/" id="a_13">Companies Act</a> provides that if variation in the manner authorised by the Articles and in the manner contemplated in <a href="/doc/257409/" id="a_14">Section 106</a> takes place, then holders of not less than 10 per cent in the aggregate of the issued shares of that class who did not consent to or vote in favour of the resolution for the variation, may apply    to the    court to have the variation cancelled. The opening words of <a href="/doc/257409/" id="a_15">Section 107</a> "If in pursuance of any provision such as is referred to in <a href="/doc/257409/" id="a_16">Section 106</a> the rights attached to any class of shares are at any time varied" indicate that if a variation is effected by reason of the combined operation of <a href="/doc/257409/" id="a_17">Section 106</a> of the Act and the particular clause in the Memorandum or the Articles of Association of the company which authorised the variation, the variation can be said to be complete and effectually made. No other step need be    taken to clothe the variation with    the character    of a full-fledged variation. It is quite clear from the reading of <a href="/doc/257409/" id="a_18">Section 106</a> and <a href="/doc/257409/" id="a_19">Section   107</a> of the Act that    variation of a right of a class of shareholders can be effected by two different ways i.e. by consent given of the specified proportion and by sanctioning it by a resolution passed at a separate meeting of the holders of the shares of that class, not being less    than 3/4th of the issued shares of that class. That a    variation becomes complete by the very fact of consent    of the requisition proportion being given to such variation is further made clear by Sub-section (2) of <a href="/doc/257409/" id="a_20">Section 107</a> of the Act which provides the period of limitation within which an application for cancellation of the variation can be made by the aggrieved shareholders. The said Sub-section (2) is as follows : 
+</p><p id="p_44">  "An application under this section shall be made within 21 days after the date, on which the consent was given or the resolution was passed as the case may be ....."  
+</p> 
+
+<p id="p_45"> This provision for calculation of the period of limitation of 21 days from the date of consent indicates that tire consent itself completes the variation. 
+</p> 
+
+<p id="p_46"> 31. Mr. R. Chowdhury has very rightly pointed out that the resolution which was passed at the Extraordinary General Meeting held on the 18th of May 1957 altering Clause 5 of the Memorandum was a special resolution which it was necessary for the company to pass for the purpose of effecting alteration of the clause in the Memorandum by reason of the provision of <a href="/doc/365890/" id="a_21">Section 16</a> of the Companies Act 1956 read with <a href="/doc/257409/" id="a_22">Section 31</a> of the said Act. This special resolution which was passed on the 18th of May had not the object of completing the variation but its sole object was to bring about alteration in clause 5 of the Memorandum. If the argument on behalf of the petitioners to the effect that a variation is not complete and effectual until a special resolution is passed, is accepted, the persons responsible for the variation may, by postponing the passing of the special resolution for an indefinite perioot, and by causing the period of limitation of 21 days to expire, make it impossible in every case, for the aggrieved shareholders to avail of the remedy of an application contemplated in Sub-section (2) of <a href="/doc/257409/" id="a_23">Section 107</a> and thus render this provision practically nugatory. 
+</p> 
+
+<p id="p_47"> 32. A good deal of argument has been advanced by both parties on the question as to whether this clause 5 in the Memorandum could be at all altered by passing a special resolution for the purpose, Mr. Chowdhury has argued that clause    5 cannot    be regarded as "a condition in the Memorandum as is contemplated in <a href="/doc/1951553/" id="a_24">Section   16(1)</a> of the Companies Act, 1956 because it is clear from Sub-section (2) of <a href="/doc/365890/" id="a_25">Section 16</a> that only those provisions which were required by, <a href="/doc/1960266/" id="a_26">Section 13</a> of the Act or any other specific provision in ; the Act to be stated in the Memorandum of the company,  shall be deemed to be conditions  contained in the Memorandum, and the other provisions which are to be found in the memorandum but which are not required to be inserted in the Memorandum by reason of <a href="/doc/1960266/" id="a_27">Section 13</a> of the Act or any other section of the Act can be altered in the same manner as the Articles of the Company." This is made clear    by Sub-section (3) of <a href="/doc/365890/" id="a_28">Section   16</a>: and Sub-section (4) of <a href="/doc/365890/" id="a_29">Section 16</a> provides that all references to the Articles of a company shall be construed as references to the other provisions referred to in Sub-section (3) of <a href="/doc/365890/" id="a_30">Section 16</a>. Now, a reference to <a href="/doc/1960266/" id="a_31">Section   13</a> of the Act of 1956 makes it clear that there is no provision in <a href="/doc/1960266/" id="a_32">Section 13</a> which requires the right to a dividend to be inserted in    the Memorandum  of  Association  of the company,  nor is there any other provision in the Act   which enjoins that a right to dividend    in respect    of    any class of shares is one which should be inserted in the Memorandum. 
+</p> 
+
+<p id="p_48"> 33. Therefore, it is clear that the clause in the nature of Clause (5) with which we are concerned in this application cannot be regarded as a condition within the meaning of <a href="/doc/1951553/" id="a_33">Section 16(1)</a> of the Act, I hold that Clause (5) of the Memorandum is not a condition and it can be altered, by a special resolution. But assuming that it is a condition and not alterable at all, then in that case the resolution of the 18th May 1957 was an altogether ineffective resolution, and it cannot be said to have effected any variation at all. So there was no variation in terms of the Resolution dated 18th May 1957 which can be cancelled, as asked for in prayer (a) of the petition. 
+</p>
+ 
+
+<p id="p_49"> 34. Mr. Sen drew the attention of the Court to <a href="/doc/1141440/" id="a_34">Alexander v. Thomas</a> AIR 1933 P. C. 39 at p. 42 for the purpose of showing that if a memorandum prescribes the classes of shares into which the capital is to be divided and the rights to be attached to such shares respectively, the company has no power to alter that provision by a special resolution. 
+</p> 
+
+<p id="p_50"> 35. Mr. Chaudhury, on the other hand, has referred to the decision of the Judicial Committee reported in Ram Kissen Das Dhanuka v. Satya Cha-ran Law 77 Ind App. 128 at pp. 132-133 : (AIR 1950 P. C. 81 at p. 83) for the purpose of supporting his argument that as a matter of construction of the Articles and Memorandum read with <a href="/doc/1987265/" id="a_35">Section 106</a> and <a href="/doc/417134/" id="a_36">107</a> of the Act, it should be held that the clause in the memorandum in the present case could be altered by a special resolution. It is, however, not necessary to express any decisive opinion on this point as in my view, passing of a special resolution is not an essential ingredient for the purpose of making the variation of a right of a class of a shareholder complete. The variation becomes complete as soon as the requirements of <a href="/doc/1987265/" id="a_37">Section 106</a> read with <a href="/doc/257409/" id="a_38">Section 107</a> of the Indian Companies Act have been fulfilled. It may be that to avoid complications and for giving practical effect to the variation it is necessary or advisable to alter the particular clause in the Memorandum or Articles which deals with the right sought to be varied, by passing a special resolution for the purpose, but the variation is complete then the requisite consent or sanction of the resolution is given to the variation, as provided in <a href="/doc/257409/" id="a_39">Section 106</a> read with <a href="/doc/257409/" id="a_40">Section 107</a> of the Act of 1956. 
+</p> 
+
+<p id="p_51"> 36. I may, however, point out that in connection with the argument whether clause 5 in the memorandum can at all be altered by a special resolution, attention of the Court has been drawn to Halsbury, Vol. VI, 3rd Edition, p.223, paragraphs 459 and 460 and to Gower's Company Law, 1954 Edn. pages 489, 492, 493, 521 and 522 and Mr. Chaudhury has drawn the attention of the Court to Palmer's Company Precedents at p. 409, 17th Edn., Vol. 1, Part 1 and to page 492, last paragraph of Gower's Company Law and <a href="/doc/311282/" id="a_41">Section  23(2)</a> of the English Act but it is not necessary to prolong this judgment by a detailed discussion of the passages to which reference has been made. 
+</p> 
+
+<p id="p_52"> 37. I gave an opportunity to the petitioners to amend their petition if they were so advised. The learned Counsel took time to consider the matter and ultimately decided not to make any application for amendment. 
+</p> 
+
+<p id="p_53"> 38. In my view, this objection to the maintainability of the application should be upheld and accordingly, this application is dismissed with costs. Certified for Counsel. The operation of the order is stayed for one month. 
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

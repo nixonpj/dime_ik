@@ -1,0 +1,355 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Siraj @ Sirajudheen vs The State Of Kerala on 15 March, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/140700316/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/160278245/">Narinder Singh &amp; Ors vs State Of Punjab &amp; Anr on 27 March, 2014</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/69949024/">Gian Singh vs State Of Punjab &amp; Anr on 24 September, 2012</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/140700316/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/140700316/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/140700316/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Siraj @ Sirajudheen vs The State Of Kerala on 15 March, 2019</div><pre id="pre_1">          IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                           PRESENT
+
+         THE HONOURABLE MR. JUSTICE ALEXANDER THOMAS
+
+FRIDAY, THE 15TH DAY OF MARCH 2019 / 24TH PHALGUNA, 1940
+
+                   Crl.MC.No. 2043 of 2019
+
+   CRIME NO. 91/2019 OF CHAVARA POLICE STATION, KOLLAM
+
+
+
+PETITIONER/S:
+
+
+     1       SIRAJ @ SIRAJUDHEEN
+             AGED 18 YEARS
+             S/O. SALIM, KADAKETHU PADEETATHIL, MULLAKARI,
+             PANAMANA VILLAGE, KOLLAM DISTRICT.
+
+     2       KABEER,
+             AGED 29 YEARS
+             S/O. ALIYARU KUNJU,
+             KADAKETHU PADEETATHIL,
+             MULLAKARI, PANAMANA VILLAGE, KOLLAM DISTRICT.
+
+     3       SHANAVAS,
+             AGED 26 YEARS
+             S/O. SHASHUL HAMEED, KADAKETHU PADEETATHIL,
+             MULLAKARI, PANAMANA VILLAGE, KOLLAM DISTRICT.
+
+     4       MUHAMMED,
+             AGED 46 YEARS
+             S/O. ALIYARU KUNJU,
+             KADAKETHU PADEETATHIL,
+             MULLAKARI, PANAMANA VILLAGE, KOLLAM DISTRICT.
+
+     5       SALIM,
+             AGED 51 YEARS
+             S/O. ALIYARU KUNJU,
+             KADAKETHU PADEETATHIL,
+             MULLAKARI, PANAMANA VILLAGE, KOLLAM DISTRICT.
+
+             BY ADV. SRI.K.RAKESH
+ Crl.MC.No. 2043 of 2019
+                              ..2..
+
+
+
+
+RESPONDENT/S:
+
+       1       THE STATE OF KERALA
+               REPRESENTED BY THE PUBLIC PROSECUTOR, HIGH
+               COURT OF KERALA, ERNAKULAM KOCHI 682 031.
+
+       2       THE STATION HOUSE OFFICER
+               CHAVARA POLICE STATION, KOLLAM DISTRICT 691
+               583.
+
+       3       RUKHIYA BEEVI
+               AGED 69 YEARS
+               W/O. JAMALUDEEN KUNJU, KUNNATHU MEKKATHIL,
+               MULLACKERI, PANMANA P.O.,
+               KARUNAGAPPALLY TALUK, KOLLAM DISTRICT 691 583.
+
+       4       ZEENATH
+               AGED 45 YEARS
+               W/O. SHAJI,
+               KUNNATHU MEKKATHIL,
+               MULLACKERI, PANMANA P.O.,
+               KARUNAGAPPALLY TALUK, KOLLAM DISTRICT 691 583.
+
+       5       SHAJI
+               S/O. JAMALUDEEN KUNJU,
+               KUNNATHU MEKKATHIL MULLACKERI, PANMANA P.O.,
+               KARUNAGAPPALLY TALUK,
+               KOLLAM DISTRICT 691 583.
+
+       6       SAJEEV, AGED 38 YEARS, S/O. JAMALUDEEN KUNJU,
+               SUMAYYA MANZIL, MULLACKERI, VADAKKUMTHALA
+               P.O., KOLLAKA, KARUNAGAPPALLY TALUK, KOLLAM
+               DISTRICT 690 536.
+
+               BY ADV. SRI.K.S.PRAVEEN
+
+OTHER PRESENT:
+            SRI.SAIGI JACOB PALATTY, PUBLIC PROSECUTOR FOR
+            R1 AND R2, SRI..K.S.PRAVEEN FOR R3 TO R6
+
+THIS CRIMINAL MISC. CASE HAVING COME UP FOR ADMISSION ON
+15.03.2019, THE COURT ON THE SAME DAY PASSED THE
+FOLLOWING:
+ Crl.MC.No. 2043 of 2019
+                                      ..3..
+
+                      ALEXANDER THOMAS, J.
+               --------------------------------------------------
+                         Crl.M.C. No. 2043 of 2019
+               --------------------------------------------------
+                  Dated this the 15th day of March, 2019
+
+
+                                 ORDER
+</pre>
+<p id="p_1">  The petitioners herein are the accused in the impugned Anx.A FIR in
+
+  Crime No.91/2019 of Chavara Police Station, Kollam district,
+
+  registered for offences punishable under Secs.143, 147, 148, 294(b),
+
+  323, 324, 341 &amp; 354 of the <a href="/doc/1569253/" id="a_1">IPC</a>. It is stated that now the entire
+
+  disputes between the petitioners and 4th respondent-defacto
+
+  complainant and respondents 3, 5 &amp; 6, who are the victims, have been
+
+  settled amicably and that the they have sworn to Anx.B, C, D &amp; E
+
+  affidavits before this Court, wherein it is stated that they have settled
+
+  the entire disputes with the petitioners and that they have no
+
+  objection for quashment of the impugned criminal proceedings
+
+  pending against the petitioners. It is in the light of these aspects that
+
+  the petitioners have preferred the instant Crl.M.C. with the prayer to
+
+  quash the impugned criminal proceedings against them.
+
+</p><p id="p_2">2. In a catena of decisions, the Apex Court has held that, in appropriate
+
+  cases involving even non-compoundable offences, the High Court can
+
+  quash prosecution by exercise of the powers under Sec.482 of the
+
+  <a href="/doc/1233094/" id="a_2">Cr.P.C</a>., if the parties have really settled the whole dispute or if the
+
+  continuance of the prosecution will not serve any purpose. Here, this
+ Crl.MC.No. 2043 of 2019
+                                     ..4..
+</p>
+<p id="p_3">  Court finds a real case of settlement between the parties and it is also
+
+  found that continuance of the prosecution in such a situation will not
+
+  serve any purpose other than wasting the precious time of the court,
+
+  when the case ultimately comes before the court. On a perusal of the
+
+  petition and on a close scrutiny of the investigation materials on
+
+  record and the affidavit of settlement and taking into account the
+
+  attendant facts and circumstances of this case, this Court is of the
+
+  considered opinion that the legal principles laid down by the Apex
+
+  Court in the cases as in <a href="/doc/69949024/" id="a_3">Gian Singh v. State of Punjab</a> reported in
+
+  2013 (1) SCC (Cri) 160 = (2012) 10 SCC 303 and <a href="/doc/160278245/" id="a_4">Narinder Singh
+
+  and others v. State of Punjab</a> and anr. reported in (2014) 6
+
+  SCC 466, more particularly paragraph 29 thereof, could be applied in
+
+  this case to consider the prayer for quashment.
+
+</p><p id="p_4">3. Accordingly, it is ordered in the interest of justice that the impugned
+
+  Anx.A FIR in Crime No.91/2019 of Chavara Police Station, Kollam
+
+  district, and all further proceedings arising therefrom pending against
+
+  the petitioners will stand quashed.
+</p>
+<p id="p_5">  With these observations and directions, the Criminal Miscellaneous
+
+  Case stands finally disposed of.
+</p>
+<p id="p_6">                                                    Sd/-
+</p><p id="p_7">                                              ALEXANDER THOMAS
+                                                   JUDGE
+bka/
+ Crl.MC.No. 2043 of 2019
+                                  ..5..
+</p>
+<p id="p_8">
+
+
+                             APPENDIX
+PETITIONER'S/S EXHIBITS:
+</p>
+<p id="p_9">ANNEXURE A                TRUE COPY OF THE FIR AND FIS IN CRIME
+                          NO. 91/2019 OF CHAVARA POLICE STATION
+                          DATED 24.1.2019.
+</p>
+<p id="p_10">ANNEXURE B                THE AFFIDAVIT SWORN TO BY THE 3RD
+                          RESPONDENT DATED 1.3.2019.
+</p>
+<p id="p_11">ANNEXURE C                THE AFFIDAVIT SWORN TO BY THE 4TH
+                          RESPONDENT DATED 1.3.2019.
+</p>
+<p id="p_12">ANNEXURE D                THE AFFIDAVIT SWORN TO BY THE 5TH
+                          RESPONDENT DATED 1.3.2019.
+</p>
+<p id="p_13">ANNEXURE E                THE AFFIDAVIT SWORN TO BY THE 6TH
+                          RESPONDENT DATED 1.3.2019.
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

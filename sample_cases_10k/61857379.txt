@@ -1,0 +1,441 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Balasubramanian vs The Superintendent Of Police on 4 December, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/61857379/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:61857379">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/34053555/">The Indecent Representation of Women (Prohibition) Act, 1986</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/124708675/">Section 4 in The Indecent Representation of Women (Prohibition) Act, 1986</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/493243/">Article 19(2) in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1218090/">Article 19 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/61857379/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/61857379/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/61857379/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=art.19">art.19</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indecency">indecency</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=art%2019">art 19</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adal%20padal">adal padal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=art.19%282%29">art.19(2)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20art%2019%282%29"> art 19(2)</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Balasubramanian vs The Superintendent Of Police on 4 December, 2014</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+
+Dated: 04.12.2014
+
+CORAM
+THE HONOURABLE MR. JUSTICE  M.VENUGOPAL
+
+Writ Petition (MD) No.19717 of 2014
+
+Balasubramanian			...	Petitioner
+
+
+Vs
+
+
+1.The Superintendent of Police,
+  Sivagangai District,
+  Sivagangai.
+
+2.The Inspector of Police,
+  Sivagangai Taluk Police Station,
+  Sivagangai.				...	Respondents
+
+
+	
+Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India praying
+for the issuance of a writ of mandamus directing the Respondents herein to
+grant permission to conduct the "Aadalum Paadalum" dance programme on
+09.12.2014 from 10.00 p.m to 12.00 p.m in pursuant to the Eruthukattu
+Thiruvizha festival of the "Sree Ayyanar  Ezhaikathal Amman Thirukovil"
+situated at Thamarakki Village,  Sivagangai Taluk,  Sivagangai District,
+considering the Petitioner's representation dated 03.12.2014 and pass such
+further or other orders.
+
+!For petitioner ...	Mr.D.Ramesh Kumar
+^For respondents...	Mr.V.Muruganandam, AGP
+
+
+:O R D E R
+</pre>
+<p id="p_1">	Heard both sides.
+</p>	
+<p id="p_2">	2.According to the Petitioner, the petitioner is a member of "Sree
+Ayyanar Ezhaikathal Amman Thirukovil Committee".  He belongs to Thamarakki
+Village,  Sivagangai Taluk,  Sivagangai District.   In the said village,
+there is a temple called "Sree Ayyanar Ezhaikathal Amman Thirukovil".  It has
+a rich heritage.  For the past 50 years, in the said temple, festivals and
+cultural activities were conducted.
+</p>
+<p id="p_3">	3.During this year, 'Eruthukattu Thiruvizha' festival for the year 2014
+falls on 09.12.2014.  For the past several years, they have conducted
+cultural programmes for the said festival.  They have also proposed to
+conduct cultural activities, traditional programmes and Aadalum Padalum on
+09.12.2014 between 10.00 p.m to 12.00 p.m.  It is also represented on behalf
+of the petitioner that the petitioner had sent a representation on 03.12.2014
+through post addressed to the second respondent, seeking permission to
+conduct the Aadal Padal programme and the same was reportedly received by the
+second respondent/Police on 27.11.2014 (As informed by the learned Additional
+Government Pleader also before this Court) in connection with 'Eruthukattu
+Thiruvizha' festival and till date, the representation is pending on the file
+of the second respondent.  As a matter of fact, the second respondent has not
+accorded permission for the said Aadal Padal programme in issue.
+</p>
+
+<p id="p_4">	4.In response, the learned Additional Government Pleader appearing for
+the respondents submits that if permission is granted, the conduct of 'Aadal
+Padal programme' on 09.12.2014, based on the representation of the
+petitioner, then there is a possibility of cropping up of law and order
+problem.
+</p>
+<p id="p_5">	5. It is to be noted that that the  commission of an act under<a href="/doc/1569253/" id="a_2"> the
+Indian Penal Code</a> is punishable as an offence.  Similarly, the act done
+contrary to the <a href="/doc/34053555/" id="a_3">Indecent Representation of Women (Prohibition) Act</a>, 1986,
+then the same becomes an offence.  In reality, one cannot  assume or presume
+of any illegal act/any illegality even before the grant of license for the
+conduct of 'Adal Padal programme' at Chellampatti Village of the Petitioner
+to be held on 31/10/2014.
+</p>
+<p id="p_6">	6.  It cannot be gainsaid that <a href="/doc/142493754/" id="a_4">Section 2</a> (c) of the <a href="/doc/34053555/" id="a_5">Indecent
+Representation of Women (Prohibition) Act</a>, 1986, defines
+	?Indecent representation of women? means the depiction in any manner of
+the figure of a woman, her form or body or any part thereof in such a way as
+to have the effect of being indecent, or derogatory to, or denigrating,
+women, or is likely to deprave, corrupt or injure the public morality or
+morals.?
+</p>
+
+<p id="p_7">	7.  As a matter of fact, <a href="/doc/96293110/" id="a_6">Section 3</a> of the Act, 1986 refers to
+Prohibition of advertisements containing indecent representation of woman.
+Also that <a href="/doc/124708675/" id="a_7">Section 4</a> of the Act enjoins Prohibition of Publication or Sending
+by post of books, pamphlets, etc., containing indecent representation of
+women.
+</p>
+<p id="p_8">	8. In this connection, this Court very significantly points out that
+there must be a subsisting right enforceable in a Court of Law on an
+individual and there must be a corresponding duty for issuance of Writ of
+Mandamus.  An aggrieved person must have a legal right and he must aver that
+there is an infringement of public duty.  At this stage, this Court worth
+recalls and recollects the decision of the DIRECTOR OF SETTLEMENTS, A.P AND
+OTHERS Vs. M.R.APPARAO AND ANOTHER {(2002) 4 SUPREME COURT CASES 638},
+wherein it is held that 'the powers of the High Courts under <a href="/doc/1712542/" id="a_8">Art.226</a> of the
+Constitution of India though a discretionary one and no limits can be placed
+upon their discretion, they must be exercised along with recognised lines and
+subject to certain  self-imposed limitations'.
+</p>
+<p id="p_9">	9. Apart from the above, on behalf of the Petitioner, no Statute or
+Enactment is cited or relied upon which confers a right upon the Petitioner
+to conduct/hold 'Adal Padal programme'.
+</p>
+<p id="p_10">	10.  One cannot brush aside an important fact that India is a signatory
+to the Convention of Elimination of All Forms of Discrimination against Women
+and the same is adopted by the United Nations  General Assembly in the year
+1979.  Further,  <a href="/doc/19636/" id="a_9">Art.6</a> of the Convention enjoins that the state parties to
+take appropriate steps to suppress all forms of trafficking and exploitation
+of women.	
+</p>
+<p id="p_11">	11. Also, that Section 3 of the (Tamil Nadu) Dramatic Performance Act,
+1954 (which came into force on 12/1/1955) speaks of 'Power of the State
+Government to prohibit objectionable performances.'  <a href="/doc/124708675/" id="a_10">Section 4</a> of the Act,
+1954 also deals about the Power of the Commissioner of Police in the
+Presidency Town or the District elsewhere to prohibit objectionable
+performances temporarily.  <a href="/doc/110770027/" id="a_11">Section 5</a> of the Act mentions about the 'Service
+of order of Prohibition'.  In fact, <a href="/doc/45559669/" id="a_12">Section 6</a> of the Act, 1954 deals about
+the penalty for disobeying the order referred to in <a href="/doc/96293110/" id="a_13">Sections 3</a> and <a href="/doc/124708675/" id="a_14">4</a> and the
+same being served on the person concerned.
+</p>
+<p id="p_12">	12. It is true that <a href="/doc/1378441/" id="a_15">Art.19 (1) (a)</a> of the Constitution speaks of free
+speech and expression, but the same is subject to restrictions under <a href="/doc/1218090/" id="a_16">Article
+19 (ii</a>), in the considered opinion of this Court.  Also that a Script or Play
+or Drama will be considered as an objectionable one only when it falls within
+any of six  sub-clauses mentioned in <a href="/doc/142493754/" id="a_17">Section 2</a> (i) of the Tamil Nadu Dramatic
+Performance Act, 1954.  The provisions of the Tamil Nadu Dramatic Performance
+Act, 1954 would certainly fall well within the bounds of <a href="/doc/1218090/" id="a_18">Art.19</a> of the
+Constitution of India, as opined by this Court.
+</p>
+<p id="p_13">	13. Undoubtedly, the right to freedom of speech and expression is a
+valuable and cherished the right possessed by a Citizen of our Country.  It
+is always open to the State Government to impose/make such reasonable
+restrictions which are permissible as envisaged under <a href="/doc/493243/" id="a_19">Art.19 (2)</a> of the
+Constitution of India.
+</p>
+<p id="p_14">	14.  Added further, no person can be deprived by his fundamental
+rights.  The State by its legislative power is entitled to regulate the
+fundamental rights by imposing reasonable restrictions.  However, the said
+restrictions must be  related to <a href="/doc/493243/" id="a_20">Art.19 (2)</a> of the Constitution of India.
+Each restriction must be a reasonable  one.  The restriction to be imposed
+can only be within the authority of Law.  A restriction cannot be exercised
+merely by an executive power without any Law to back it.  In this connection,
+this Court pertinently points out the decision of the Hon'ble Supreme Court
+in THE SUPERINTENDENT, CENTRAL PRISON, FATEHGARH AND ANOTHER Vs. Dr.RAAM
+MANOHAR LOHIA {AIR 1960 SUPREME COURT CASES  633 (V 47 C 100)}, whereby and
+whereunder, it is observed and held as under:-
+</p>
+<p id="p_15">	?Concept of  'public order' in India before the amendment of <a href="/doc/1218090/" id="a_21">Art.19</a> by
+the Constitution (First Amendment) Act 1951, in America and in England
+compared, AIR 1950 SC 124and air 1950 SC 129 and AIR 1952 SC 329 AND (1940)
+310 US 296, Ref.
+</p>
+<p id="p_16">	By the amendment of <a href="/doc/493243/" id="a_22">Art.19 (2)</a> by the Constitution (First Amendment)
+Act, 1951 the wide concept of 'public order' is split up under different
+heads.  All the grounds mentioned in cl (2) can be brought under the general
+head 'public order' in its most comprehensive sense.  But the juxtaposition
+of the different grounds indicates that though sometimes they tend to
+overlap, they must be ordinarily intended to exclude each other.  'Public
+order' is, therefore, something which is demarcated from the others.  In that
+limited sense, particularly in view of 'public order' is synonymous with
+public peace, safety and tranquillity.  It is the absence of disorder
+involving breaches of local significance in contradistinction to national
+upheavals, such as revolution, civil strife and war, affecting the security
+of the State.
+</p>
+<p id="p_17">	The distinction between the phrases ?in the interest of public order?
+and ?for the maintenance of public order?, does not ignore the necessity for
+intimate connection between the Act and the public order sought to be
+maintained by the Act. (S) AIR 1957 SC 896, expl.:(S) AIR 1957 SC 620.Ref.
+</p>
+<p id="p_18">	The limitation that the restrictions shall be ?reasonable?, brings
+about the same result.  In order to be reasonable, the limitation must have a
+proximate connection with ?public order? and not one far-fetched,
+hypothetical, problematical or too remote. AIR 1950 FC 67, Ref. and applied.?
+</p>
+<p id="p_19">	15.  In view of the fact that the petitioner is desirous of conducting
+the Aadal Padal festival on 09.12.2014 at 07.00 p.m  at Thamarakki Village,
+Sivagangai Taluk, Sivagangai District in connection with the festival of
+"Sree Ayyanar  Ezhaikathal Amman Thirukovil", this Court grants permission to
+the petitioner to conduct the aforesaid programme in the aforesaid place on
+09.12.2014 between 07.00 p.m and 10.00 p.m, subject to the following
+conditions:-
+</p>	
+<p id="p_20">	(i).   The 'Adal Padal Programme' should be conducted by the Petitioner
+in an organised and peaceful atmosphere without causing any Law &amp; Order
+problem.
+</p>
+<p id="p_21">	(ii).  The Petitioner is directed to file an affidavit before the
+second Respondent/The Inspector of Police, Sivagangai Taluk Police Station,
+Sivagangai to the effect that there will not be  any obscene or vulgar dance
+during the performance by any one of the participants or others.
+</p>
+<p id="p_22">	(iii).  The Petitioner is permitted only to use box type loud speaker
+(and not cone type loud speaker) with 80 decibels sound.
+</p>
+<p id="p_23">	(iv).  The Petitioner is to provide adequate parking facility/place for
+parking of vehicles/two wheelers/four wheelers/bicycles/vehicles for the
+visitors of the programme, who come to witness the programme in question.
+</p>
+<p id="p_24">	(v).  The Petitioner is directed to provide adequate light and sound
+facilities for the programme in question.
+</p>
+<p id="p_25">	(vi).  In case, if the scheduled programme is to be conducted at an
+inside auditorium, strictly, the Petitioner is to make provision for two
+exits.
+</p>
+<p id="p_26">	(vii).  The Petitioner is to provide separate sitting place for
+men/women/children to view the programme in question.
+</p>
+<p id="p_27">	(viii). The Petitioner/Organising Member is directed to apply for
+necessary licence by means of writing addressed to the second Respondent/The
+Inspector of Police, Sivagangai Taluk Police Station, Sivagangai is to accord
+necessary permission to the Petitioner to conduct the 'Adal Padal programme'
+in question on 09.12.2014 scheduled between 07.00 p.m., and 10.00 p.m., of-
+course by imposing necessary conditions/restrictions.
+</p>
+<p id="p_28">	(ix).  The Petitioner/Oraganising Committee Member  is to remit the
+necessary money before the Government Treasury under the proper head of
+account for providing Police 'Bando-bust' and the receipts thereof should be
+produced before the second Respondent/The Inspector of Police, Sivagangai
+Taluk Police Station, Sivagangai, prior to the commencement of the programme.
+</p>
+<p id="p_29">	(x).  The Petitioner is to record the entire 'Adal Padal programme' if
+any through video form and to handover a copy of the video to the second
+Respondent Police.
+</p>
+<p id="p_30">	(xi).  It is made quite clear that in this scheduled programme which is
+to take place on 10.12.2014 between 07.00 p.m., and 10.00 p.m., at the
+Petitioner's village, if any problem/problems crop up, then, the
+Petitioner/Organisers is/are to own full responsibility.
+</p>
+<p id="p_31">	(xii).  If the Petitioner/any organising Committee Member
+violates/violate any one of the conditions as aforesaid, then the  second
+Respondent/The Inspector of Police, Sivagangai Taluk Police Station,
+Sivagangai, is to take necessary action in the manner known to law and in
+accordance with Law (including the one under the  <a href="/doc/34053555/" id="a_23">Indecent Representation of
+Women (Prohibition) Act</a>, 1986, (60 of 1986) and to put an end to the said
+programme.
+</p>
+<p id="p_32">	(xiii).  More importantly and pertinently, if the
+M.VENUGOPAL,J.,
+VS
+Programme/programmes exceeds/exceed the time limit determined by this Court
+between 07.00 and 10.00. p.m., on 10.12.2014  evening, then the
+Respondent/Police without any haziness/hesitation whatsoever is directed to
+step in immediately and stop the 'Adal Padal programme/cultural/dance/drama
+programme'.
+</p>
+<p id="p_33">	17.  With the aforesaid directions, the Writ Petition stands disposed
+of.  No costs.
+</p><p id="p_34">04.12.2014
+vs.
+</p><p id="p_35">Index:  Yes/No
+website:  yes/No
+To
+</p><p id="p_36">1.The Superintendent of Police,
+  Sivagangai District,
+  Sivagangai.
+</p><p id="p_37">2.The Inspector of Police,
+  Sivagangai Taluk Police Station,
+  Sivagangai.	
+</p>
+<p id="p_38">W.P.(MD) No.19717 of 2014</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

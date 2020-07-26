@@ -1,0 +1,587 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>The Corporation Of Trivandrum vs C.Udayakumar on 12 February, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/653059/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/653059/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/653059/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/653059/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=494">494</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=497">497</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=joseph%20kurian">joseph kurian</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kurian">kurian</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=till%20realisation">till realisation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sankaran">sankaran</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=claims%20damages">claims damages</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">The Corporation Of Trivandrum vs C.Udayakumar on 12 February, 2007</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+AS No. 491 of 1997()
+
+
+
+1. THE CORPORATION OF TRIVANDRUM
+                      ...  Petitioner
+
+                        Vs
+
+1. C.UDAYAKUMAR
+                       ...       Respondent
+
+                For Petitioner  :SRI.N.NANDAKUMARA MENON
+
+                For Respondent  :SRI.V.N.ACHUTHA KURUP (SR.)
+
+The Hon'ble MR. Justice KURIAN JOSEPH
+The Hon'ble MR. Justice K.T.SANKARAN
+
+ Dated :12/02/2007
+
+ O R D E R
+                 KURIAN JOSEPH &amp; K.T.SANKARAN,JJ.
+
+                         -----------------------------------------
+
+                     A.S.Nos.491, 492, 494 &amp; 497  of  1997
+
+                         -----------------------------------------
+
+                  Dated this the 12th day of  February, 2007
+
+
+                                      JUDGMENT
+</pre>
+
+<p id="p_1">Kurian Joseph,J.
+</p>
+<p id="p_2">
+</p><p id="p_3">       These   appeals   are   at   the   instance   of   the   defendants.       The
+
+
+plaintiffs are the respondents.   The suits were filed claiming damages.
+
+
+Since   there   is   no   serious   dispute   as   to   the   factual   position,   it   is   not
+
+
+necessary to reproduce the whole averments or contentions.   The suits
+
+
+were   instituted   claiming   damages   for   the   loss   alleged   to   have   been
+
+
+suffered by the plaintiffs on account of a fire in the Exhibition ground
+
+
+in   connection   with   the   All   India   Agricultural,   Industrial   and   Arts
+
+
+Exhibition,1988, on 19-9-1988.  The stalls, fencing etc. were destroyed
+
+
+and thus the loss.  The defendant Corporation contended that it had no
+
+
+liability to compensate for the loss in terms of the contract.   The trial
+
+
+court addressed the question regarding liability and found on the basis
+
+
+of   evidence   that   the   kitchen   attached   to   the   stall   was   having   only   a
+
+
+thatched   roof.     It   was   contrary   to   the   instruction   in   Ext.A3.
+
+
+Inflammable  materials were used for the kitchen stall.  It has also come
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_1">                                            -:2:-</span>
+
+
+out   in   evidence   of   DW1   that   the   fire   started   from   the   kitchen   and   it
+
+
+spread over to the other stalls.  Thus it was rightly concluded that if the
+
+
+kitchen   stall   was  erected  by   using   non-inflammable   materials   as   per
+
+
+Ext.A3 instruction it would not have been destroyed by fire and there
+
+
+would not have been any possibility for the fire to spread to other stalls
+
+
+and thus there was culpable negligence.   Exts.P6 and P7 are the reports
+
+
+on the extent and approximate damages suffered by the parties and as a
+
+
+matter   of   fact   the   defendant/appellant   Corporation   itself   had   taken   a
+
+
+decision--Ext.B8 dated 31-1-1989 to compensate the loss.   The court
+
+
+below on the basis of evidence mainly discussed above and decreed the
+
+
+suits as follows:-
+</p>
+<p id="p_4">
+</p><blockquote id="blockquote_1">                             "The   plaintiff   in   O.S.No.834/91   is   allowed   to
+
+                     recover a sum of Rs.89,200/- as damages with interest
+
+                     thereon at 12% per annum from 1-2-89 till realisation
+
+                     and   proportionate   costs   from   the   assets   of   the
+
+                     defendant-Corporation.
+</blockquote>
+<blockquote id="blockquote_2">
+</blockquote><blockquote id="blockquote_3">                             The   plaintiff   in   O.S.1165/91   is   allowed   to
+
+                     recover a sum of Rs.6,17,460/- with interest thereon at
+
+                     12%   per   annum   from   1-2-1989   till   realisation   and
+
+                     proportionate   costs   from   the   assets   of   the   defendant-
+
+                     Corporation.</blockquote><p id="p_5">
+
+
+</p><p id="p_6">                             The   plaintiff   in   OS.No.1151/91   is   allowed   to
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_2">                                            -:3:-</span>
+
+
+                     recover a sum of Rs.1,62,200/- with interest thereon at
+
+                     12%   per   annum   from   1-2-1989   till   realisation   and
+
+                     proportionate   costs   from   the   assets   of   the   first
+
+                     defendant-Corporation.
+</p>
+<p id="p_7">
+</p><p id="p_8">                            The plaintiff in O.S.879/91 is allowed to recover
+
+                     a sum of Rs.27,000/- with interest thereon at 12% per
+
+                     annum from 1-2-1989 till realisation and proportionate
+
+                     costs   from   the   assets   of   second   defendant
+
+                     Corporation."
+</p>
+<p id="p_9">
+In all the appeals, there is a direction to deposit the principal amount
+
+
+and liberty is also granted to withdraw the same.
+
+
+</p><p id="p_10">       2.     Sri.Nandakumara   Menon,   learned   counsel   appearing   for   the
+
+
+appellant, though   raised several  contentions,  had  to  confine  emphasis
+
+
+mainly on two aspects, in view of Ext.B8 resolution of the Corporation
+
+
+itself   regarding   the   loss:   (1)   the   decree   with   regard   to   interest   with
+
+
+effect  from  1-2-1989   is   patently   wrong,   unjust   and   unreasonable;   (2)
+
+
+the plaintiff in O.S.No.879/1991 had not in fact suffered any damages.
+
+
+</p><p id="p_11">       3.     As   far   as   the   case   of   the   plaintiff   in   O.S.No.879/1991   is
+
+
+concerned, the contention is that Exts,B6 and B7 reports had not taken
+
+
+note   of   the   loss   suffered   by   the   plaintiff   therein.     The   plaintiff   was
+
+
+examined as P.W.4.  Ext.A19 is the allotment letter of the stall.   There
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_3">                                            -:4:-</span>
+
+
+is   no   dispute   that   he   had   paid   the   required   charges   including   that   of
+
+
+water   and   electricity.     There   is   also   no   dispute   that   the   stall   was
+
+
+completely gutted by fire.  Based on the statement filed by the plaintiff
+
+
+before   the   Enquiry   Commission   and   marked   as   Ext.A25,   Ext.A26
+
+
+notice   as   acknowledged   by   Ext.A27,   were   also   issued   claiming
+
+
+damages. The various bills produced by the plaintiff indicated that the
+
+
+plaintiff had purchased materials worth more than Rs.50,000/-. Though
+
+
+it was difficult to assess the exact extent of damages, taking note of the
+
+
+totality of evidence a rough  estimate of Rs.20,000/- was made by the
+
+
+court  below  as  damages in  respect  of  the  items  available  in   the  stall.
+
+
+Towards the damages caused to the Yezdi Motor  Bike, in view of the
+
+
+admission   made   by   DW1,   an   amount   of   Rs.7,000/-   was   fixed   as   the
+
+
+loss and thus a decree for Rs.27,000/- was passed.
+
+
+</p><p id="p_12">       4.  Sri.Nandakumara Menon vehemently contended that there was
+
+
+no   evidence   at   all   so   as   to   sustain   the   decree.     We   are   afraid   the
+
+
+contentions cannot be appreciated.  Even in the written statement, it is
+
+
+admitted   that   stall   No.54   was   allotted   to   the   plaintiff.     It   is   also
+
+
+admitted   in   the   written   statement   that   "the   plaintiff   incurred   some
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_4">                                            -:5:-</span>
+
+
+losses   due   to   destruction   of   items   kept   in   the   stall".     That   apart   as
+
+
+properly discussed in the judgment by the trial court, the fact that the
+
+
+stall was completely gutted by fire is admitted and that serious damage
+
+
+was caused to the motor bike is also admitted.  The dispute is only with
+
+
+regard   to   the   quantum.     On   the   basis   of   the   bills   produced   by   the
+
+
+plaintiff   only   the   assessment   has   been   made   to   Rs.20,000/-.     Yet
+
+
+another contention was that there was no permission to take the motor
+
+
+bike near the stall.  The court below has rightly rejected the contention
+
+
+on   the   basis   of   evidence   holding   that   there   was   nothing   available   on
+
+
+evidence to show that there was no permission to take the motor bike
+
+
+near the stall.   Thus in the facts and circumstances of the case and on
+
+
+the basis of the available materials in evidence and also the evidence of
+
+
+PW4 and DW1 it cannot be said that the court below erred in awarding
+
+
+the damages to  the tune of Rs.20,000/- for  the  items  kept  in the stall
+
+
+and to the tune of Rs.7,000/- for the damages caused to the motor bike.
+
+
+</p><p id="p_13">       5.     As   far   as   interest   is   concerned,   there  cannot  be   any  dispute
+
+
+that   under   Section   34   of   the   Code   of   Civil   Procedure   a   plaintiff   is
+
+
+entitled to interest  at reasonable rates  from the date of the suit  to the
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_5">                                            -:6:-</span>
+
+
+date   of   the   decree   on   the   principal   sum   in   addition   to   any   interest
+
+
+adjudged on such principal sum for any period prior to the institution
+
+
+of the suit with further interest not exceeding 6% per annum.  The trial
+
+
+court granted interest at 12% with effect from 1-2-1989 solely on the
+
+
+basis of Ext.B8 resolution of the Corporation dated 31-1-1989. But it
+
+
+has   to   be   appreciated   that   though   the   Corporation   resolved   to
+
+
+compensate the loss suffered by the stall owners, the implementation of
+
+
+the decision was subject to sanction from the Government.  There is no
+
+
+case for  the plaintiffs   that despite sanction from the  Government,  the
+
+
+Corporation did not disburse the amounts.  On the contrary the stand by
+
+
+the   Corporation   is   that   the   Government   refused   to   grant   sanction.
+
+
+Therefore,   the   plaintiffs   are   not   in   any   case   entitled   to   interest   with
+
+
+effect from 1-2-1989,  the day following Ext.B8 resolution.   Similarly
+
+
+the   transaction   admittedly   being   not   commercial   and   the   suits   being
+
+
+only for damages, the plaintiffs are entitled only to 6% interest from the
+
+
+date of the judgment.  Accordingly the decree and judgment in all these
+
+
+cases   are   modified   in   the   matter   of   interest.     The   plaintiffs   will   be
+
+
+entitled to interest at the rate of 12%  only from the date of institution
+
+
+A.S. Nos.491,492,494 &amp; 497/1997
+
+<span class="hidden_text" id="span_6">                                       -:7:-</span>
+
+
+of the suit till the date of decree and thereafter at the rate of 6% till the
+
+
+date of deposit of the principal amount.
+</p>
+<p id="p_14">
+</p><p id="p_15">        The appeals   are  partly  allowed  as indicated  above.    The  parties
+
+
+will suffer their respective costs.
+</p>
+<p id="p_16">
+
+
+
+</p><p id="p_17">                                                (KURIAN JOSEPH, JUDGE)
+
+
+
+
+
+                                                (K.T.SANKARAN, JUDGE)
+
+ahg.
+</p>
+<p id="p_18">
+  KURIAN JOSEPH &amp;
+
+ K.T.SANKARAN, JJ.
+</p>
+<p id="p_19">
+
+
+
+A.S.Nos.491, 492, 494 &amp;
+
+      497  of  1997
+
+
+     JUDGMENT
+
+
+
+
+
+   12th February, 2007
+
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

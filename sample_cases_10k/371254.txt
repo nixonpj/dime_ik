@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Poulose vs Arulraj on 5 December, 2006</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/371254/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/560467/">The State Of Maharashtra vs Dr. Praful B. Desai on 1 April, 2003</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/371254/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/371254/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/371254/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ramanathapuram">ramanathapuram</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=video%20conferencing">video conferencing</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Conferencing%20">Conferencing </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=video%20conferencing%20and%20evidence">video conferencing and evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=what%20is%20revision%20in%20criminal%20cases">what is revision in criminal cases</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=video%20evidence">video evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=oath%20against%20oath">oath against oath</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=relieving%20and%20relieved%20">relieving and relieved </a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Poulose vs Arulraj on 5 December, 2006</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+
+
+DATED : 05/12/2006
+
+
+CORAM:
+THE HONOURABLE MR.JUSTICE M.JEYAPAUL
+
+
+CRL.R.C. No.405 of 2006
+and
+M.P.No.3032 of 2006
+
+
+Poulose			...	Petitioner
+
+Vs.
+				
+1. Arulraj
+2. Selvarani
+3. Anitha
+4. Immanuvel
+5. Raja Emerson Tahore @ Tahore
+
+6. The State by
+   The Inspector of Police,
+   Rameswaram Town Police Station,
+   Ramanathapuram District.
+   In Crime No.157/2003		...	Respondents
+
+
+
+Prayer
+
+
+Criminal Revision Case  against the order dated 2.5.2006 passed in
+Crl.M.P.No.349 of 2006 in S.C.No.73 of 2005 on the file of the Chief Judicial
+Magistrate, Ramanathapuram. 				
+
+!For Petitioner  	..	Mr.K.Jeganathan
+				
+^For RR 1 to 5		..	Mr.M.Ajmalkhan
+For R6			..	Mr.P.Rajendran,
+			  	Govt. Advocate (Crl. Side)
+
+:ORDER
+</pre>
+
+<p id="p_1">	The revision is preferred against the order passed in Crl.M.P. No.349 of
+2006 in S.C.No.73 of 2005
+</p><p id="p_2">	2. The revision petitioner is Prosecution Witness No.I in S.C.No.73 of
+2005 on the file of the learned Chief Judicial Magistrate, Ramanathapuram for
+offences under sections 366, 368, 376, 387 read with 34and 109<a href="/doc/1569253/" id="a_1"> of the Indian
+Penal Code</a>.
+</p><p id="p_3">	3. The charge is that on 27.11.2003, Miss.Persin, the minor daughter of
+the petitioner, who was aged 17 years old, was kidnapped by the fourth accused
+with the connivance of the other accused and raped by him in illegal custody.
+</p><p id="p_4">	4. During the course of investigation of this case, the daughter of the
+petitioner was allegedly rescued from the custody of the accused and produced
+before the learned District Munsif cum Judicial Magistrate, Rameswaram.  The
+custody of the minor girl Persin was entrusted to the petitioner who is the
+father of the said girl on condition that the minor girl should be produced
+before the court as and when required.
+</p><p id="p_5">	5. The learned Chief Judicial Magistrate, Ramanathapuram issued a notice
+on 18.4.2006 calling upon the petitioner herein to produce the girl for the
+purpose of examination as the case is pending for quite a long time for her
+examination.
+</p><p id="p_6">	6. The petitioner filed Crl.M.P.No.349 of 2006 seeking to withdraw the
+aforesaid notice mandating the petitioner to produce his daughter as the
+undertaking given by him had lapsed on account of the majority attained by his
+daughter Persin.
+</p><p id="p_7">	7. The learned Chief Judicial Magistrate, Ramanathapuram, having adverted
+to the facts and circumstances under which the undertaking was given by the
+petitioner to produce the minor as and when called upon by the court, dismissed
+the application observing therein that though the daughter of the petitioner has
+attained majority, he is bound to produce her inasmuch as the petitioner has not
+chosen to relieve himself from such an obligation by producing the minor just
+prior to her attaining majority.
+</p><p id="p_8">	8. The aforesaid order is under challenge before this court.  The learned
+counsel appearing for the petitioner would contend that the undertaking given by
+the petitioner stands terminated the moment the minor daughter of the petitioner
+has become major. As such, she has every right to go abroad on her own volition.
+The petitioner has no control over her on attaining her majority.  He is
+incapable of abiding by the undertaking given by him at the time when his
+daughter was a minor.  It is further submitted by the learned counsel for the
+petitioner that as the minor daughter of the petitioner is now in foreign
+country, the petitioner is prepared to bear the entire expenditure for recording
+evidence of his daughter by video conferencing. 	
+</p><p id="p_9">	9. The learned counsel appearing for the respondents would submit that the
+petitioner cannot shirk his responsibility by saying that his daughter has
+become major. As he has not chosen to relieve himself from the undertaking given
+before the court, he cannot validly contend that he is not able to comply with
+the mandates of the court as the person in his custody has become major. He
+further contends that the video conferencing facility, which is not available in
+the premises of the Chief Judicial Magistrate, Ramanathapuram, cannot also be
+effectively utilised. Further his submission is that recording of evidence by
+video conferencing has many shortcomings.
+</p><p id="p_10">	10. This court, for the effective disposal of this Criminal Revision Case,
+sought for a report from the learned Chief Judicial Magistrate, Ramanathapuram
+as to the availability of video conferencing facility in Ramanathapuram for the
+purpose of recording evidence of the daughter of the petitioner.  But, the
+learned Chief Judicial Magistrate, Ramanathapuram has submitted before this
+court through his report that no such facility was available in Ramanathapuram.
+Now, it is brought to the notice of this court that such a facility is available
+in Madurai.
+</p><p id="p_11">	11. Coming to the obligation of the petitioner arisen out of the
+undertaking given by him while taking the custody of his minor daughter, the
+court finds that the petitioner should have alerted the learned Chief Judicial
+Magistrate, Ramanathapuram on the eve of attaining majority by the daughter of
+the petitioner herein so as to ensure her appearance before the court without
+fail for the Trial of the case.  If the petitioner has sought for discharge from
+such obligation even at the time when the daughter of the petitioner was in
+India, the Trial Court would have taken some steps  to ensure the presence of
+the daughter of the petitioner at the relevant point of time.  Of course, the
+daughter of the petitioner is a free bird immediately on attaining majority.
+Her shackle is automatically broken the moment she attains majority.  But, as
+the petitioner has failed in his duty to inform the court and get himself
+relieved of the obligation to produce his daughter before the court, the
+petitioner has graduated to the position of a surety who has courted an
+obligation to produce his daughter who has since become major.  Having connived
+with his daughter in her departure from this country, the petitioner cannot take
+a valid contention that he lost  control over his daughter.  Therefore, the
+court finds that the learned Chief Judicial Magistrate, Ramanathapuram has
+rightly directed the petitioner herein to produce his daughter, who by his act
+of commission and omission, has become a surety for the appearance of his
+daughter.
+</p><p id="p_12">	12. Now, the daughter of the petitioner is in Britain.  Her attendance
+cannot be procured without an amount of delay, expense or inconvenience. Now,
+the petitioner has come forward with a solution for the impasse in the trial on
+account of the absence of his daughter.  He is now prepared to shoulder the
+entire financial burden that may be caused on account of examination of his
+daughter by exploiting video conferencing facility.
+</p><p id="p_13">	13. The Honourable Supreme Court in <a href="/doc/560467/" id="a_2">STATE OF MAHARASHTRA v. DR.PRAFUL
+B.DESAI</a> (2003 SCC (CRI.) 815) has given green signal for utilising the latest
+video conferencing facility for the purpose of recording evidence of course on
+certain contingencies and also on complying with certain conditions.
+</p><p id="p_14">	14. It is submitted that the daughter of the petitioner is willing to
+adduce evidence through video conferencing facility. Great Britain is found to
+be a  country having extradition treaty with India.  Under the laws of the said
+country, contempt of court and perjury are punishable.
+</p><p id="p_15">	15. Therefore, a Commissioner of Oath has to be engaged by the learned
+Chief Judicial Magistrate, Ramanathapuram to record the evidence of Miss.Persin,
+the daughter of the petitioner herein,  who is in Britain,  by using video
+conferencing facility at Madurai.  The accused and/or his pleader shall be
+present when the evidence is recorded by video conferencing.  The Commissioner
+of Oath appointed by the learned Chief Judicial Magistrate has the discretion to
+fix up the time for video conferencing, taking into account the convenience and
+inconvenience of the parties concerned.  He shall ensure that the witness in the
+foreign shore  is not coached or tutored  or prompted at the time of recording
+evidence through video conferencing.  He shall also ensure that the witness in
+the foreign shore gives evidence in a room in the Consulate or Embassy of our
+country in the foreign shore.
+</p><p id="p_16">	16. Therefore, while dismissing the Criminal Revision Case confirming the
+order passed by the learned Chief Judicial Magistrate, Ramanathapuram, the
+latter is directed to appoint a Commissioner of Oath to record evidence of
+Miss.Persin, the daughter of the petitioner in S.C.No.73 of 2005 through video
+conferencing at Madurai and to submit a report with the deposition recorded in
+the light of the aforesaid observation made by this court.  The entire
+expenditure involved in recording the evidence through video conferencing in
+S.C.No.73 of 2005 shall be borne by  the petitioner herein.  The connected
+Miscellaneous Petition is closed.
+</p>
+
+<p id="p_17">ssk.
+</p>
+
+<p id="p_18">To
+
+</p><p id="p_19">1. The Chief Judicial Magistrate,
+   Ramanathapuram.
+</p>
+<p id="p_20">2. The Inspector of Police,
+   Rameswaram Town Police Station,
+   Ramanathapuram District.
+</p>
+<p id="p_21">3. The Public Prosecutor,
+   Madurai Bench of Madras
+   High Court, Madurai.</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

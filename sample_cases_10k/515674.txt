@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ramsingh vs Ramchandra And Anr. on 16 October, 2003</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/515674/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/477485/">Annasaheb Bapusaheb Patil &amp; Ors. ... vs Balwant And Balasaheb Babusaheb ... on 6 January, 1995</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/47838375/">Antitrust - Section 26(2) ... vs Agni Devices Pvt. Ltd. 07/05/2015 ... on 7 May, 2015</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/515674/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/515674/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adverse%20possession%3A%20supremecourt">adverse possession: supremecourt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adverse%20possession">adverse possession</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=jagannath">jagannath</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">Ramsingh vs Ramchandra And Anr. on 16 October, 2003</div><div class="doc_citations">Equivalent citations: 2003 (4) MPHT 558</div>
+
+<div class="doc_author">Author: S Khare</div>
+
+<div class="doc_bench">Bench: S Khare</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+S.P. Khare, J.
+</p> 
+
+<p id="p_2">1. This is defendant's second appeal under Section 100, CPC. The following substantial question of law was formulated by order dated 24-6-85 at the time of admission of this appeal:--
+</p><p id="p_3"> "Whether on the facts and in the circumstances of the case, the Court below erred in not holding that the appellant had acquired the Bhumiswami rights by adverse possession ?"
+</p> 
+
+<p id="p_4">2. It is not in dispute that Jagannath was Bhumiswami of Khasra No. 782/2 area 0.020 hectares of Village Jirapur. The plaintiffs are his heirs. Therefore, they became Bhumiswamis of this land after death of Jagannath.
+</p> 
+
+<p id="p_5">3. The plaintiff's case was that defendant Ram Singh dispossessed them in the year 1977. On the other hand the case of the defendant was that he is in possession of this land from the year 1964-65 and he has acquired title to this land by adverse possession. The Trial Court uphold the plea of adverse possession set up by the defendant. But the Appellate Court reversed it on the ground that the possession of the defendant on the basis of his own evidence was permissive and not adverse. The Appellate Court has relied upon the statement of the defendant in his evidence to this effect that Jagannath had given him the land in dispute for cultivation. The Appellate Court held that Jagannath had granted license of this land to the defendant and after the death of Jagannath also the possession of the defendant continued as a licensee. It has been further found that for the first time the defendant exhibited hostile animus in the year 1978-79 when he submitted an application before the Revenue Court that he was occupancy tenant and has become Bhumiswami of this land. His application under Section 190 of M.P. Land Revenue Code, 1959 was rejected by the Revenue Court.
+</p> 
+
+<p id="p_6">4. Though the possession of the defendant was for more than 12 years it has been held by the First Appellate Court which is a final Court of facts that the possession of the defendant was permissive. This finding is based on the admission of the defendant himself in evidence. Therefore, this finding can not be said to be perverse or unreasonable. The Supreme Court has held in Persinni v. Sukhi, (1993) 4 SCC 375, that the burden is on the person who claims title on the basis of adverse possession to establish that his possession is "adverse to the true owner". Again it has been reiterated in <a href="/doc/477485/" id="a_1">Annasaheb v. Balwant</a>, AIR 1995 SC 895, that the burden is on the defendant to prove affirmatively that he is in possession "in hostile assertion", Le., a possession which is expressly or impliedly in denial of the title of the true owner. The defendant raising the plea must clearly state when the adverse possession commenced and the nature of such possession. This principle has been further reiterated in <a href="/doc/47838375/" id="a_2">M.C. Sharma v. Raj Kumari Sharma</a>, AIR 1996 SC 869.
+</p> 
+
+<p id="p_7">5. In view of the above legal position the finding arrived at by the First Appellate Court that the defendant did not acquire title by adverse possession is correct.
+</p> 
+
+<p id="p_8">6. The appeal is dismissed. Costs as incurred.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

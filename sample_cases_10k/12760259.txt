@@ -1,0 +1,361 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M.Wahiduddin And Ors vs Sri. R.Narayan Rao &amp; Ors on 6 March, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/12760259/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/12760259/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/12760259/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/12760259/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">M.Wahiduddin And Ors vs Sri. R.Narayan Rao &amp; Ors on 6 March, 2018</div><div class="doc_author">Author: S.N.Satyanarayana</div>
+
+<pre id="pre_1">                           1
+
+
+
+
+           IN THE HIGH COURT OF KARNATAKA
+                  KALABURAGI BENCH
+
+       DATED THIS THE 6TH DAY OF MARCH, 2018
+
+                        BEFORE
+
+     THE HON'BLE MR.JUSTICE S.N.SATYANARAYANA
+
+       WRIT PETITION NO.206972/2017 (GM-CPC)
+
+Between:
+
+1.   M. Wahiduddin S/o M. Basheeruddin
+     Aged about 66 years, Occ: Business
+     R/o H.No.1-5-9/1, I.B. Road, Raichur
+
+2.   Viquar Sultana W/o Kaleem
+     Aged about 72 years, Occ: Household
+     R/o H.No.1-5-9/1, I.B. Road, Raichur
+
+3.   Smt. Nikhat Sultana
+     W/o Syed Abrar Hussain
+     Aged about 48 years
+     Occ: Teacher, R/o Datar Nagar
+     Raichur - 584 101
+
+4.   M. Jagadish Goud
+     S/o Sanna Rangappa Goud
+     Aged about 40 years
+     Occ: Agriculturist
+     R/o H.No.1-4-860/4
+     Basheer Bagh Colony
+     I.B. Road, Raichur
+
+5.   Ajay Kumar S/o Govindaraj
+     Aged about 32 years
+     Occ: Business, R/o H.No.1-4-854/7
+     Venkateshwar Colony, I.B. Road
+     Raichur
+                               2
+
+
+
+
+6.     Mohammed Irshad
+       S/o Mohammed Ismail
+       Age: Major, Occ: Business
+       R/o H.No.1-4-856/5, K.B.N. Colony
+       I.B. Road, Raichur
+                                                ... Petitioners
+
+(By Sri R.S. Sidhapurkar, Advocate)
+
+And:
+
+1.     Sri R. Narayan Rao
+       S/o Late Venkob Rao
+       Aged about 64 years, Occ: Business
+       R/o H.No.1-4-156/165-176
+       Sri Raghavendra Nagar Layout
+       I.B. Road, Riachur
+
+2.     Rajkumar S/o late Chandulal
+       Aged about 52 years, Occ: Business
+       R/o H.No.1-4-156/165-176
+       Sri Raghavendra Nagar Layout
+       I.B. Road, Raichur
+
+3.     Dr. K. Ramappa
+       S/o Kyadagi Earanna
+       Aged about 52 years
+       Occ: Medical Profession
+       R/o H.No.6-2-68/108
+       Amarkhed Layout, Raichur
+                                             ... Respondents
+
+(By Sri Venkatesh C. Mallabadi, Advocate for R2;
+ Sri Ameet Kumar Deshpande, Advocate for R3,
+ Notice to R1 held sufficient V/o dated 06.03.18)
+
+       This writ petition is filed under Articles 226 &amp; 227 of
+the Constitution of India, praying to a writ in the nature of
+certiorari and quash the order on IA-XI dated 22.06.2017
+passed in O.S.No.191/2015 pending on the file of Principal
+                              3
+
+
+
+
+Senior Civil Judge &amp; CJM at Raichur, the certified copy of
+which is at Annexure-E, etc.
+
+      This petition is coming on for orders this day, the
+Court made the following:-
+
+                         ORDER
+</pre>
+<p id="p_1">      Petitioners are applicants in O.S.No.191/2015 the
+
+application filed by them under Order I Rule 10 read
+
+with Section 151 of CPC seeking permission to get
+
+themselves impleaded in the said proceedings is rejected
+
+by order dated 22.06.2017.
+</p>
+<p id="p_2">
+</p><p id="p_3">     2.    Admittedly the suit in O.S.No.191/2015 is
+
+between   respondent     Nos.1   to   3   herein.   Where
+
+respondent No.1 is plaintiff and respondent Nos.2 and 3
+
+are the defendant Nos.1 and 2. The said suit is for the
+
+relief of declaration and permanent injunction in respect
+
+of suit schedule properties, which is two open plots
+
+bearing No.169 and 172 each measuring 40 x 60 feet,
+
+which is formed in NA approved layout in land bearing
+
+Sy.Nos.1233 and 1234 referred to as "Sri Raghavendra
+
+Nagar Layout", situated at I.B.Road, Raichur within its
+<span class="hidden_text" id="span_1">                             4</span>
+
+
+
+
+CMC limit and the said plots are provided with
+
+municipal Nos.1-4-156/169 (old) 1-4-811 (New) and 1-
+
+4-156/172 (Old) 1-4-814 (New) in Sri Raghavendra
+
+Nagar layout, Raichur.
+</p>
+<p id="p_4">
+</p><p id="p_5">     3.    The     petitioners   herein     are   claiming
+
+themselves to be owners of the adjacent property who
+
+are claiming easementary rights over aforesaid two
+
+plots, which is subject matter of lis between the
+
+respondent No.1 on the one side and respondent Nos.2
+
+and 3 on the other side. Application seeking impleading
+
+filed by petitioners herein under Order I Rule 10 read
+
+with Section 151 of CPC is registered as I.A.No.11 in the
+
+said suit and same was rejected by order dated
+
+22.06.2017. Wherein the learned Senior Civil Judge &amp;
+
+CJM at Raichur has taken a view that the petitioners
+
+herein    having   independently    filed    a    suit   in
+
+O.S.No.135/2017 for the relief of recognizing their
+<span class="hidden_text" id="span_2">                              5</span>
+
+
+
+
+easementary right over the said land, they are not
+
+necessary parties to this proceedings.
+
+
+</p><p id="p_6">      4.    On    going     through      the   plaint    in
+
+O.S.No.191/2015 as well as O.S.No.135/2017 and also
+
+the application in I.A.No.11 in O.S.No.191/2015 and
+
+order passed thereon this Court is of the considered
+
+opinion that the trial Court i.e. the Court of Senior Civil
+
+Judge &amp; C.J.M., Raichur has rightly considered merits
+
+of the said application with reference to the dispute
+
+between the parties and has rightly opined that the
+
+rights of the petitioners herein is to pursue the suit filed
+
+in O.S.No.135/2017 and not to seek permission to get
+
+themselves impleaded in a suit which is fought between
+
+respondent No.1 on the one side and respondent Nos.2
+
+and 3 on the other side.
+</p>
+<p id="p_7">
+</p><p id="p_8">      5.    Therefore, this Court being in full agreement
+
+with the reason rendered by the learned Senior Civil
+<span class="hidden_text" id="span_3">                              6</span>
+
+
+
+
+Judge &amp; C.J.M. at Raichur in O.S.No.191/2015 by in its
+
+order dated 22.06.2017.
+</p>
+<p id="p_9">
+</p><p id="p_10">      6.     In that view of the matter, this Court is of
+
+the opinion that the present petition does not merit
+
+consideration. Accordingly, the same is required to be
+
+dismissed.
+</p>
+<p id="p_11">
+
+</p><p id="p_12">                                     Sd/-
+</p><p id="p_13">                                    JUDGE
+
+sdu
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

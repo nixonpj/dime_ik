@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Binu @ Vinu vs State Of Kerala on 4 February, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/196217247/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/196217247/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/196217247/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/196217247/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Binu @ Vinu vs State Of Kerala on 4 February, 2019</div><pre id="pre_1">             IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                               PRESENT
+
+          THE HONOURABLE MR. JUSTICE B.SUDHEENDRA KUMAR
+
+     MONDAY ,THE 04TH DAY OF FEBRUARY 2019 / 15TH MAGHA, 1940
+
+                        Crl.MC.No. 121 of 2019
+
+ AGAINST THE ORDER/JUDGMENT IN SC 754/2012 of ASSISTANT SESSIONS
+                         COURT,THRISSUR
+
+    CRIME NO. 259/2012 OF Chavakkad Police Station , Thrissur
+
+
+
+PETITIONER/S/ACCUSED:
+
+
+      1      BINU @ VINU
+             AGED 33 YEARS,
+             S/O.GOPALAN, UPPUNGAL PANCHAVADI EDAKAZHIYOOR P.O.,
+             THRISSUR DISTRICT, PIN-680515.
+
+      2      JITHINRAJ,
+             AGED 26 YEARS, S/O.RAJAN, UPPUNGAL HOUSE, PANCHAVADI,
+             EDAKAZHIYOOR P.O., THRISSUR DISTRICT, PIN-680515.
+
+      3      JIJEESH,
+             AGED 28 YEARS, S/O.RAJAN, UPPUNGAL HOUSE, PANCHAVADI,
+             EDAKAZHIYOOR P.O., THRISSUR DISTRICT, PIN-680515.
+
+      4      MANI
+             AGED 37 YEARS
+             S/O.GOPALAN, UPPUNGAL , PANCHAVADI, EDAKAZHIYOOR
+             P.O., THRISSUR DISTRICT, PIN-680515.
+
+             BY ADVS.
+             SRI.JUSTINE JACOB
+             SRI.K.S.ARUN KUMAR
+
+
+RESPONDENT/S/COMPLAINANT:
+       1     STATE OF KERALA
+             REPRESENTED BY PUBLIC PROSECUTOR, HIGH COURT OF
+             KERALA, ERNAKULAM.
+
+      2      ANISH
+             AGED 27 YEARS
+             S/O.ANANTHAN, NJALIL HOUSE, PANCHAVADI, EDAKAZHIYOOR
+             P.O., THRISSUR DISTRICT, PIN-680515.
+
+      3      BABISH
+             AGED 27 YEARS
+ Crl.MC.No. 121 of 2019
+
+                            2
+
+           S/O.BABU, THAMARASSERIL HOSUE, PANCHAVADI,
+           EDAKAZHIYOOR P.O., THRISSUR DISTRICT, PIN-
+           680515.
+
+     4     SREEJIL
+           AGED 29 YEARS
+           S/O.SAID, ALUKKAL HOUSE, PANCHAVADI
+           EDAKKAZHIYOOR P.O., THRISSUR DISTRICT, PIN-
+           680515.
+
+           BY ADV. SMT.RESMI THOMAS
+           BY PUBLIC PROSECUTOR, SMT. V. SREEJA
+
+
+THIS CRIMINAL MISC. CASE HAVING COME UP FOR ADMISSION ON
+04.02.2019, THE COURT ON THE SAME DAY PASSED THE
+FOLLOWING:
+ Crl.MC.No. 121 of 2019
+
+                               3
+
+
+
+
+                         O R D E R
+</pre>
+
+<p id="p_1">    The petitioners are accused in S.C.No.754 of 2012,
+
+on the files of the court below. The offences alleged are
+
+punishable under Sections 341, 323, 324 and 308 read
+
+with <a href="/doc/37788/" id="a_1">Section 34</a> IPC.
+</p>
+<p id="p_2">
+</p><p id="p_3">    2.   The respondent Nos. 2 to 4 are the injured,
+
+who filed separate affidavit stating that the matter has
+
+been settled and hence they have no further grievance
+
+against the petitioners. The learned Public Prosecutor,
+
+on instructions, has submitted that the matter has
+
+been settled by the parties.
+</p>
+<p id="p_4">
+</p><p id="p_5">    3.   Having heard the learned Counsel for the
+
+petitioners and the learned Counsel for respondent
+ Crl.MC.No. 121 of 2019
+
+<span class="hidden_text" id="span_1">                                 4</span>
+
+Nos. 2 to 4, I am satisfied that the respondent Nos. 2 to
+
+4 filed the affidavit voluntarily.
+
+
+</p><p id="p_6">      4.        Considering the nature of the allegations, I
+
+am of the view that no public interest is involved in the
+
+dispute in this case. In the said circumstances, I am
+
+inclined to quash the final report and further
+
+proceedings against the petitioners in the above said
+
+case, in exercise of the inherent power under <a href="/doc/1233094/" id="a_2">Section
+
+482</a> Cr.P.C., to meet the ends of justice. It is ordered
+
+accordingly.
+</p>
+<p id="p_7">
+</p><p id="p_8">      In the result, this Crl.M.C. stands allowed as above.
+
+</p><p id="p_9">                                             Sd/-
+</p><p id="p_10">                                 B.SUDHEENDRA KUMAR
+RK/04.02.2019
+                                          JUDGE
+ Crl.MC.No. 121 of 2019
+
+<span class="hidden_text" id="span_2">                              5</span>
+
+                         APPENDIX
+
+PETITIONER'S/S EXHIBITS:
+</p>
+<p id="p_11">ANNEXURE A         CERTIFIED COPY OF THE FINAL REPORT IN
+                   S.C.NO.754/2012 ON THE FILES OF HON'BLE
+                   ASSISTANT SESSIONS COURT, THRISSUR
+
+ANNEXURE B         AFFIDAVIT OF 2ND RESPONDENT
+
+ANNEXURE C         AFFIDAVIT OF 3RD RESPONDENT
+
+ANNEXURE D         AFFIDAVIT OF 4TH RESPONDENT
+
+RESPONDENT'S/S EXHIBITS:NIL
+
+                                  //TRUE COPY//
+
+                                    PA TO JUDGE
+
+RK
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

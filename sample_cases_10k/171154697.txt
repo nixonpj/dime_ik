@@ -1,0 +1,465 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>R.Manimaran vs Managing Director on 20 August, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/171154697/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 36 docs 
+      
+        - [<A HREF="/search/?formInput=cites:171154697">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/639570/">The Displaced Persons (Claims) Supplementary Act,   1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/500379/">The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/699626/">Section 2 in The Displaced Persons (Claims) Supplementary Act,   1954</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1360925/">Section 47 in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1638195/">Baljeet Singh vs Delhi Transport Corporation on 10 December, 1999</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/171154697/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/171154697/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/171154697/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=equal%20opportunity">equal opportunity</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=medical%20leave%20">medical leave </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=persons%20with%20disability">persons with disability</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=medical%20certificate">medical certificate</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=charge%20memo">charge memo</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=domestic%20enquiry">domestic enquiry</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=second%20show%20cause%20notice">second show cause notice</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Spinal">Spinal</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=the%20industrial%20disputes%20act%201947">the industrial disputes act 1947</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=alternative%20employment">alternative employment</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=enquiry%20report">enquiry report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=removal%20from%20service">removal from service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=SANCTION%20%20%20filter%3A%20%20%20industrial%20disputes%20act%201947">SANCTION   filter:   industrial disputes act 1947</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=act%20of%20disability%20">act of disability </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=xerox%20copy%20">xerox copy </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=management%20witness%20">management witness </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=xerox">xerox</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conductor">conductor</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=disabilities%20equal%20opportunities%20protection%20of%20rights%20act">disabilities equal opportunities protection of rights act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=right%20to%20equality">right to equality</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">R.Manimaran vs Managing Director on 20 August, 2013</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+ THE HIGH COURT OF JUDICATURE AT MADRAS 
+
+Dated: 20.08.2013
+
+Coram
+								
+THE HONOURABLE Mr. JUSTICE M.VENUGOPAL
+							
+W.P.No.2545 of 2010
+ 
+
+
+
+
+
+
+R.Manimaran							.. Petitioner
+
+Vs.
+
+Managing Director,
+Metropolitan Transport Corporation Limited,
+Anna Salai, 
+Chennai  600 002.						.. Respondent
+
+
+
+
+
+
+PRAYER: Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India praying for issuance of Writ of Certiorarified Mandamus calling for the records of the Respondent relating to the order Proceedings No.8994/Sa.Pi./O.NG)/15/Ma.Po.Ka/2007 dated 25.8.2009 and to quash it and consequently directing the Respondent to provide suitable alternative employment under Sec.47 of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act of 1995, within a time limit.
+
+	For Petitioner		: Mr.C.Manohar
+
+	For Respondent		: Mr.G.Munirathinam
+
+
+
+ORDER
+</pre>
+<p id="p_1">	The Petitioner has preferred the instant Writ Petition praying for issuance of Writ of Certiorarified Mandamus in calling for the records of the Respondent pertaining to the order in Proceedings No.8994/Sa.Pi. /(O.NG)/15/Ma.Po.Ka/2007 dated 25.8.2009 and to quash the same. Further, he has sought for passing of an order by this Court in directing the Respondent to provide suitable alternative employment under <a href="/doc/639570/" id="a_2">Section 47</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act of 1995, within a time limit.
+</p>
+<p id="p_2">The Summation of Essential Facts:
+</p><p id="p_3">	2.The Petitioner initially was selected as trainee driver in the Respondent/Transport Corporation, by an order dated 02.11.1995, after being sponsored by the Employment Exchange. Soon after completion of Training, he was posted to work as Casual Labour Employee (C.L. Driver) in Ayanavaram Depot, by an order dated 26.03.1996. Later, he was posted as a temporary Driver on daily wages at the rate of 112/- per day. His service was regularised with effect from 01.09.1998 by an order dated 31.10.1998. He continued to work in the same Depot as Driver.
+</p>
+<p id="p_4">	3.He continued to work without any problem and in July 2005, due to some malfunction in his spinal cord, he began to feel acute pain in the back. After examining him, the Doctors informed that nerves in the spine that connect all parts of the body in the brain were affected and a surgery was necessary to get cured. Fearing the huge amount he required to spend and also even after surgery, it was not sure of 100% success he was unable to undergo surgery and turned towards Ayurvedic Medicine and treatment. In the meanwhile, his one leg and one arm were also affected to the extent of less movements. It so happened that he had to be in continued treatment for a long period.
+</p>
+<p id="p_5">	4.The Petitioner was unable to attend his duty and he immediately informed the authorities in the Ayanavaram Depot (Controller and the Branch Manager) and also applied for medical leave. He continued to do so because he was not fortunate enough to get his sickness cured in short time. But he continued to keep the authorities informed then and there.
+</p>
+<p id="p_6">	5.The Respondent/Transport Corporation for the first time issued a charge memo dated 06.03.2007 alleging that the Petitioner had not reported for duty and continued to remain absent from 17.07.2005 for more than eight days without prior permission and thereby the daily work in the Depot in operating bus services were affected and this caused revenue loss to the Transport Corporation. He was called upon to offer his explanation to the said charge memo within seven days. Further, he was directed to appear before the Special Grade Assistant Manager (Legal  Disciplinary Proceedings).  The Petitioner in March 2007 was more or less in bed unable to sent a reply and also unable to go and appear before the Authority as directed. In the domestic enquiry, the Management witness had categorically deposed that "Thiru.Manimaran, Driver (Writ Petitioner) (S.No.50053) on 17.7.2005, gave prior medical intimation stating that he was sick and subsequently, on 29.08.2006 gave another prior intimation letter ...". Inspite of the same, the Respondent issued a charge memo calling for his explanation and also directed him to appear before the Authority alleging that he was absent for more than eight days from 17.07.2005, on which day he submitted his leave letter praying for the grant of medical leave to him. Also, it was not known why the Management issued a charge memo to him on 06.03.2007 after 28 months.
+</p>
+<p id="p_7">	6.The Respondent/Transport Corporation issued a show cause notice dated 19.02.2008 to the Petitioner calling upon him to offer his explanation against the provisional conclusion of imposing the extreme punishment of removing from service and that too without conducting any enquiry so as to find out whether the charges were proved or not. He submitted his explanation on 12.03.2008. By means of the second show cause notice dated 19.02.2008, the Respondent/Transport Corporation came to the conclusion that the Petitioner abandoning his service. Further, the Respondent issued a memo dated 18.09.2008 informing that the second show cause notice already issued to him was cancelled without prejudice to the disciplinary proceedings. It was understood that at this stage, the Management decided to conduct an enquiry to find out whether the charges were proved. Accordingly, an enquiry was conducted on the dates 05.01.2009, 21.01.2009 and 04.02.2009 in which the Petitioner participated and adduced evidence. In the enquiry, the Management witness gave evidence which was contrary to the charge of his absence without prior intimation for a period of eight days from 17.07.2005 thereby made it a wrong charge. However, the Enquiry officer rendered a finding that charges were proved. 
+</p>
+<p id="p_8">	7.Based on the finding of the Enquiry Officer, the Respondent issued second show cause notice dated 25.08.2009 calling for the explanation from the Petitioner as to why the provisional conclusion already arrived at for removing him from service should not be confirmed. He submitted his explanation with medical certificates in the office, to the second show cause notice. However, the Management issued the final order of removal, by an order dated 25.08.2009 indicating that no explanation was submitted. Thus, the Respondent pursued the disciplinary proceedings by first issuing a charge memo to the Petitioner for his absence from 17.07.2005 only after 28 months i.e., on 06.03.2007 and then issued a second show cause notice dated 19.02.2008 proposing to remove the delinquent from service, without conducting any enquiry and without giving an opportunity to defend the case and then cancelled this notice by a subsequent memo dated 18.09.2008 etc.
+
+</p><p id="p_9">	8.Since the Petitioner happened to lose the activities of one leg and one arm due to malfunction of spinal cord from 15.11.2005 and only by March 2007, he was able to get some relief due to continuous treatment and from March 2007, he was able to do light duties in the office such as receipt of tapals, distribution of tapals, attending to telephone work, arranging files or records etc. Thereafter, he was removed from service (not on medical ground) but on the charge of absence from 17.07.2005. 
+</p>
+<p id="p_10">	9.He made a representation to the Hon'ble Chief Minister, Deputy Chief Minister on 07.09.2009 praying for providing some light duty in the Transport Corporation. His request was forwarded to the Respondent and he received two replies dated 01.12.2009 and 28.12.2009 for his representation dated 07.09.2009,  in which the reason for inability to order reinstatement was mainly due to his removal from service on disciplinary grounds. The Petitioner is now fit to do some light work. Hence, he filed the present Writ Petition challenging the final order of the Respondent dated 25.08.2009 and seek remedy under the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995.
+</p>
+<p id="p_11">Petitioner's side contentions:
+</p><p id="p_12">	10.The Learned Counsel for the Petitioner contends that as regards the absence of the Petitioner from 17.07.2005 charges were framed for the first time only on 06.03.2007 viz., after 28 months, which amount to denial of reasonable opportunity to show cause resulting in violation of Principle of Natural Justice.
+</p>
+<p id="p_13">	11.The Learned Counsel for the Petitioner urges before this Court that the Respondent had taken own time in conducting an enquiry relating to the charge memo dated 06.03.2007 and in fact, the enquiry was conducted only during the period form 05.01.2009 to 04.02.2009 and there was a delay of 22 months. 	
+</p><p id="p_14">	12.Appearing for the Petitioner, the Learned Counsel for the Petitioner takes a plea that charges were framed against the Petitioner on the ground of his unauthorised absence from 17.07.2005 but the Management witness, in the domestic enquiry, deposed that the Petitioner/Delinquent sent prior medical intimation about his ill health from 17.07.2005. As such, the charges levelled against the Petitioner could not stand a moment's scrutiny and the only conclusion to be arrived at is that the charges were not proved. However, the Enquiry Officer concluded that charges were proved. Therefore, the findings of the Enquiry Officer were perverse one and the same are liable to be set aside.
+</p>
+<p id="p_15">	13.The Learned Counsel for the Petitioner cites the decision in <a href="/doc/142547/" id="a_3">Jagdish Chand V. Labour Commissioner and others</a>, 1995(2) LLJ 410 (P &amp; H) at page 415 in paragraph 13, wherein it is, inter alia, observed as follows:
+</p><p id="p_16">	"13. ... The Court has to bear in mind that the rule of not entertaining the writ petition under <a href="/doc/1712542/" id="a_4">Article 226</a> in a case where equally efficacious alternative remedy is available is a rule of self-imposed restraint and a rule of caution; it is not a rule of law nor it is a rule of thumb, which can be applied in every case to non-suit a petitioner irrespective of the nature of his grievance. Therefore, whenever an objection is raised by a respondent to the maintainability/ entertainability of alternative remedy, the Court must find out as to what is the nature of grievance made by the petitioner and what type of remedy is available to him. The Court cannot be too oblivious to its constitutional duty towards the citizens. Time has come when the people have started feeling that they have been let down by the two organs of the State and they look upon the Courts with a ray of hope. Common man's faith in the system of dispensation of justice still exists. However, failure of the Courts to undo injustice done to the citizens will shake the confidence of the people. The Courts will have to be more vigilant in the discharge of their duty to safeguard the legal and fundamental rights of the individual. The degree of anxiousness demonstrated in the judgments of the Courts to protect the right to property, the right to freedom of speech and expression, the right to trade and business will have to be reflected with greater sense of urgency for protecting the right of life and livelihood. The proliferation of the Government activities has affected the lives of people in a larger volume than it used to be in the pre-independence era and for ten years after independence. Enlargement of the field of State activities has resulted into its direct impact on the lives of the people. Recent times have seen an accelerated increase of arbitrariness in the State actions. The worst is that the public authorities and particularly the administrative authorities have developed an attitude of total insensitiveness towards the needs of the people. This has naturally compelled the people to look upon the Courts for solace and redressal of injustice. No doubt, this has led to an immense increase in the volume of litigation but that should not threaten the courts and there is no need to accept the specious argument or evolve methodologies to non-suit those who are really aggrieved by State action or arbitrariness of public authorities. The Courts have to guard themselves against the allegation of being protector of haves in the society. Denial of relief to the poor and small man on the grounds like availability of alternative remedy will not do any good to the system but will encourage people like Mr.P.Shiv Shankar who criticized the Courts by saying:-
+</p><p id="p_17">"Madhadhipatis like Keshavanda and Zamindars like Golaknath evoked a sympathetic chord nowhere in the whole country except the Supreme Court of India. And the bank magnates, the representatives of the elitist culture of this country ably supported by industrialists, the beneficiaries of independence, got higher compensation by the intervention of the Supreme Court in Cooper's case AIR 1970 SC 564, anti-social elements i.e FERA violators, bride burners and a whole horde or reactionaries have found their haven in the Supreme Court, "(<a href="/doc/681713/" id="a_5">Reference to P.N. Dua v. P.Shiv Shankar</a>, AIR 1988 SC 1208).
+</p>
+<p id="p_18">	14.He also relies on the decision of this Court in <a href="/doc/1573074/" id="a_6">A.Marimuthu V. Tamil Nadu State Transport Corporation (Kumbakonam Division</a>  IV) Ltd., rep. By its Managing Director, Pudukottai and another, (2010) 1 MLJ 517 at page 518 wherein it is held as follows:
+</p><p id="p_19">"In the instant case, the petitioner, who is found to be suffering from colour blindness has been discharged on medical grounds and the stand of the respondents that the requests of other employees, who were similarly placed as that of the petitioner had earlier been rejected and hence, the claim of the petitioner could not be considered, cannot be sustained. Thus, considering the facts and circumstances of the case and in view of the judgments of Supreme Court and other Courts, this Court holds that the petitioner herein is entitled for alternative employment and the rejection made by the respondents by their impugned order is liable to be set aside and is accordingly set aside. The Court directs the respondents to provide such alternative employment to the petitioner from the date of his discharge with pay protection, continuity of service and all other attendant benefits for which he is legally entitled to, except back wages."
+</p><p id="p_20">	15.The Learned Counsel for the Petitioner invites the attention of this Court to the decision of the Hon'ble Supreme Court in Narendra Kumar Chandra V. State of Haryana and others, 1995 LAB. I.C. 309 at page 310 &amp; 311, in paragraph 7, whereby and whereunder, it is observed and held as follows:
+</p><p id="p_21">"7.<a href="/doc/1199182/" id="a_7">Article 21</a> protects the right to livelihood as an integral facet of right to life. When an employee is afflicted with unfortunate disease due to which, when he is unable to perform the duties of the posts he was holding, the employer must make every endeavour to adjust him in a post in which the employee would be suitable to discharge the duties as a Carrier Attendant is unjust. Since he is matriculate, he is eligible for the post of L.D.C. for L.D.C., apart from matriculation, passing in typing test either in Hindi or English at the speed of 15 / 30 words per minute is necessary. For a clerk, typing generally is not a must. In view of the facts and circumstances of this case, we direct the respondent Board to relax his passing of typing test and to appoint him as a L.D.C. Admittedly on the date when he had unfortunate operation, he was drawing the salary in the pay scale of Rs.1400-2300. Necessarily, therefore, his last drawn pay has to be protected. Since he has been rehabilitated in the post of L.D.C. we direct the respondent to appoint him to the post of L.D.C. protecting his scale of pay of Rs.1400-2300 and direct to pay all the arrears of salary."
+</p>
+<p id="p_22">Respondent's side submissions:
+</p><p id="p_23">	16.By way of reply, the Learned Counsel for the Respondent/ Transport Corporation submits that the Petitioner was selected as Trainee Driver as per order dated 02.11.1995 and after completion of training, he was posted as Casual Labour Driver by an order dated 23.06.1996 in Ayanavaram Depot. By an order dated 21.11.1997, he was appointed as Temporary Driver on daily wages and his service was regularised through an order dated 31.10.1998.
+</p>
+<p id="p_24">	17.The Learned Counsel for the Respondent contends that the Petitioner from 17.07.2005 absented himself from duty without prior intimation or sanction of leave for more than eight days viz., till issuance of charge memo dated 06.03.2007. 
+</p><p id="p_25">	18.Furthermore, the Petitioner was not having any medical leave from October 2005 and he availed all the medical leave before October 2005. He submitted his medical intimation on 17.07.2005 and also on 29.08.2006, he had not given any medical intimation for his absence. However, the Branch Manager submitted a report mentioning that the Petitioner who submitted medical intimation on 17.07.2005 and on 29.08.2006 had not turned up for duty. Subsequently, he had not submitted any medical intimation till issuance of charge memo dated 06.03.2007. 
+</p>
+<p id="p_26">	19.The Learned Counsel for the Respondent contends that although the Petitioner was suffering from back pain even in July 2005, he was admitted in 'AYUR KSHETRA', Chennai (an Institute of Ayurvedic Research Private Limited) from 16.06.2005 to 09.03.2006 as an inpatient and the certificate was enclosed in this regard. When the Respondent/ Corporation issued a second show cause notice dated 19.02.2008, till then, he had not produced or furnished any medical certificate. He submitted an explanation on 12.03.2008 and that the show cause notice was cancelled on 18.09.2008. After the cancellation of the said show cause notice, an enquiry was conducted by the Respondent by appointing an Enquiry Officer and that the Petitioner take part in the enquiry on 05.01.2009, 21.01.2009 and 04.02.2009 respectively. As a matter of fact, the Petitioner had not cross examined the Management. He submitted an explanation on 04.02.2009. The Enquiry Officer submitted his report on 26.03.2009. Based on the Enquiry Officer's enquiry report, second show cause notice was issued on 02.05.2009. The Petitioner had not furnished any explanation and he was dismissed from service through an order dated 25.08.2009. 
+</p>
+<p id="p_27">	20.The contention advanced on behalf of the Respondent is that although the Petitioner was affected due to back pain he had not informed the same to the Respondent periodically. Apart from submitting his medical intimation on 17.07.2005 and 29.08.2006, he had not submitted any intimation to the Respondent/Transport Corporation. Therefore, the Respondent issued a charge memo on 06.03.2007 for the reason that he had not submitted any intimation from 29.08.2006.
+</p>
+<p id="p_28">	21.According to the Respondent/Transport Corporation, the Petitioner was issued with a second show cause notice dated 19.02.2008 and the same was cancelled by a memo dated 18.09.2008, because of the fact that the said memo was issued without conducting any enquiry. Later, an enquiry was conducted on 05.01.2009, 21.01.2009 and 04.02.2009.
+</p>
+<p id="p_29">	22.The Learned Counsel for the Respondent submits that it is true that the Management witness deposed in the enquiry that the Petitioner furnished medical intimation on 17.07.2005 and 29.08.2006 and subsequently, he had not submitted any medical intimation and also that he had no medical leave to his credit, in order to grant medical leave. Inasmuch as the Petitioner had not given any periodical medical intimation, a basic report was sent on 27.07.2007 mentioning that he absented himself for duty for more than 8 days from 27.07.2007. A charge memo was issued and an enquiry was conducted adhering to the Principles of Natural Justice and he was removed from service on 25.08.2009. 
+</p>						
+<p id="p_30">	23.Finally, it is contended on behalf of the Respondent that the Transport Corporation furnished a reply to an appeal made by the Petitioner to the Hon'ble Chief Minister on 01.12.2009 mentioning that he was dismissed from service after proper enquiry and therefore, his request could not be considered. In this connection, the Learned Counsel for the Respondent strenuously submits that once an order of dismissal is passed by the Employer, the Petitioner is to seek remedy only through Labour Court. In short, unless an order of dismissal from service in respect of the Petitioner dated 25.08.2009 is set aside by the competent authority, he is not entitled to seek protection under the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995.
+</p>
+<p id="p_31">	24.The Learned Counsel for the Respondent/Transport Corporation, to lend support to his contention that the Petitioner is only to approach the Labour Court to work out his remedy, relies on the order dated 17.06.2009 in W.P.No.24583 of 2004 between P.Rathinam V. The Managing Director, State Express Transport Corporation, (Tamil Nadu Division-I) Limited, Chennai  600 002 and two others, wherein in paragraph 5, it is observed and held as follows:
+</p><p id="p_32">	"5.In the enquiry, several witnesses were examined and documents were relied upon by the department. The explanation given by the petitioner were considered on merits and a final order of dismissal has been passed based on a detailed enquiry report. The provisions of <a href="/doc/500379/" id="a_8">Industrial Disputes Act</a> clearly provide a remedy by way of raising an Industrial Dispute before the Labour Court. Such a right is granted to the petitioner under the statute. No specific ground has been stated by the counsel for the petitioner as to why, the alternate remedy provided under the statute has been bypassed. The remedy under the statute being an effective remedy, the petitioner has without exhausting such remedy has rushed to this court. On going through the grounds raised in the writ petition except stating that there is a total violation of principles of natural justice, all the contentions raised in the writ petition are questions of fact in dispute and that can be raised before the Labour Court and agitated on merits. In such circumstances this court is not inclined to entertain this writ petition challenging the order of dismissal bypassing the alternate remedy provided under the statute. No relief can be granted to the petitioner at this stage."
+</p>
+<p id="p_33">Discussions:
+</p><p id="p_34">	25.It comes to be known that as against the Petitioner the charges were levelled against him as per certified Standing Order No.25(VI) and 25(XLiii) for his absence from 17.07.2005 without prior intimation and also not turning up for duty more than eight days and the practice of not turning up for duty or his continued absence for more than eight days without proper reason or explanation amounts to misconduct like not turned up for duty after sanction of leave. 
+</p>
+<p id="p_35">	26.A perusal of the findings of the Enquiry Officer dated 26.03.2009 indicates that for the show cause notice issued  on 06.03.2007 to the Petitioner, the Petitioner had not submitted any explanation. As such, the Respondent/Transport Corporation perforced to conduct domestic enquiry against the Petitioner. In the domestic enquiry, the Branch Manager's complaint dated 28.02.2007 was marked as Ex.M.1. A charge memo dated 06.03.2007 issued to the Petitioner was marked as Ex.M.2.
+</p>
+<p id="p_36">	27.M.W.1-Traffic Inspector (ABM) - Traffic I.C., in his deposition, before the Enquiry Officer had categorically stated that the Petitioner submitted prior medical intimation mentioning that from 17.07.2005 his health condition was not good and finally submitted one medical intimation on 29.08.2006 and continuously, he had not furnished prior medical intimation, on 27.07.2007 the Branch Manager of the Ayanavaram Depot, 11C Report was sent to Head Office and in view of the fact that the Petitioner had not turned up for duty for more than eight days because of the absence of driver, the buses were not operated in full capacity and caused inconvenience to passengers and also responsible for causing revenue loss to the Transport Corporation. 
+</p>
+<p id="p_37">	28.The Respondent/Transport Corporation provided an opportunity to the Petitioner/Delinquent to cross examine M.W.1 but informed that he was not cross examining M.W.1 and submitted his defence statement viz., Ex.D.1/R.1 on 04.02.2009 and closed his side. The Enquiry Officer, in his enquiry report dated 26.03.2009, has observed that in M.W.1's deposition dated 21.01.2009 and in Ex.M.1 the Petitioner had not intimated about his absence after 27.07.2007. Also, he opined that in regard to the Petitioner's leave from 29.08.2006 till date he had not made any attempt to intimate about his absence. Ultimately, the Enquiry Officer came to the conclusion that the charges levelled against the Petitioner under Standing Order No.25(VI) and 25(XLiii) were proved. But he significantly added in his report that the Petitioner is to be considered sympathetically.
+</p>
+<p id="p_38">	29.At this stage, the Learned Counsel for the Petitioner contends that the Enquiry Officer, in his enquiry report dated 26.03.2009, had not discussed the contents of statement of the Petitioner dated 04.02.2009 and in this regard, the absence of discussion of the statement of the Petitioner dated 04.02.2009 had resulted in perverse finding being rendered by the Enquiry Officer.
+</p>
+<p id="p_39">	30.Another contention advanced on behalf of the Petitioner is that the Petitioner suffered disability twice from the year 2005. In this connection, the Learned Counsel for the Petitioner makes a fervent plea before this Court that a Court of Law may not look into technicalities to be followed, in dealing with the case of the Petitioner. 
+</p>
+<p id="p_40">	31.Continuing further, the Learned Counsel for the Petitioner submits that in a domestic enquiry concerning a delinquent, his past records ought to be taken into account by the authority concerned. However, in the present case, viz., in the second show cause notice in Memo No.8994/Sa.Pi./(O.NG)/15/Ma.Po.Ka/2007 dated 25.08.2009 issued by the Respondent/Transport Corporation, there is no reference to the consideration of back records/past records of the Petitioner. On that score also, it is submitted on behalf of the Petitioner that the final order dated 25.08.2009 passed by the Respondent/Transport Corporation is not legal.
+</p>
+<p id="p_41">	32.Repelling the contentions of the Learned Counsel for the Petitioner, the Learned Counsel for the Respondent/Transport Corporation submits that the Petitioner had not denied the factum of his absence for 18 months and although he comes out with a plea that he took treatment, he had not submitted any doctor certificate or medical certificate admittedly after 29.08.2006.
+</p>
+<p id="p_42">	33.Also, the Learned Counsel for the Respondent/Transport Corporation invites the attention of this Court to the letter dated 12.03.2008 of the Petitioner addressed to the Managing Director of the Respondent/Transport Corporation wherein he had stated that the medical certificate and scan certificate, but in reality, he had not enclosed the same. 
+</p>
+<p id="p_43">	34.However, the Learned Counsel for the Petitioner disputes this fact on the ground that in the said letter dated 12.03.2008, it was mentioned as "received the copy dated 12.03.2008" and a signature was affixed to that effect on behalf of the Respondent/Transport Corporation. Therefore, it could not be said that the medical certificate and scan report were not enclosed by the Petitioner along with his letter dated 12.03.2008. 
+</p>
+<p id="p_44">	35.Apart from the perusal of the xerox copy of the letter dated 12.03.2008 of the Petitioner (addressed to the Managing Director of the Respondent/Transport Corporation] indicates that the Petitioner had prayed for grant of six months medical leave for continuing his treatment and further, requested to drop the disciplinary proceedings against him.
+</p>
+<p id="p_45">Case Laws Scenario:
+</p><p id="p_46">	36.At this stage, this Court fumigates its mind with the excerpts of following decisions which run as under:
+</p><p id="p_47">	(a) In the Judgment in W.A.No.1070 of 2008 dated 25.11.2008 between Krishna Kumar Pateria V. State of M.P. and others reported in MANU/MP/0794/2008, it is inter alia observed that 'Sanction of leave cannot be presumed merely on sending the application'.
+</p><p id="p_48">	(b)In the decision Puratchi Talaivar MGR Transport Corporation Ltd., V. Industrial Tribunal and another, 2004-(Vol.1)-L.L.J.-876 at page 879 in paragraph 12, it is observed as follows:
+</p><p id="p_49">	"12. Further, this medical certificate was given nearly after one month after he stayed from work.  That means the worker had not submitted the medical certificate in accordance with the rules.  The medical leave must be applied along with medical certificate before the date on which he goes on medical leave and the medical leave shall also be sanctioned; before that a worker has no right to go on medical leave.  But in this case, the medical certificate was given only when he wanted to join duty.  The medical certificate given is only a fitness certificate.  As per the rules a medical certificate is required to grant medical leave and the fitness certificate is required for permitting him to join duty.  Hence, in the present case neither had the certificate been given as per the rules nor the certificate contained all particulars that a medical certificate should contain.  Further, the grant of medical leave is not automatic; the authority has the right even to refuse such leave as per the rules.  That is, unless the leave was granted to worker, he has no right to stay away from work.  Under those circumstances, the authorities are not bound to grant medical leave; the worker has no such right to get the leave just because he procured a medical certificate and produced it when (sic) he wanted to come to work."
+</p>
+<p id="p_50">	(c)In the decision of the Hon'ble Supreme Court in <a href="/doc/1231540/" id="a_9">North West Karnataka Road Transport Corporation V. H.H.Pujar</a>, 2008 (3) L.L.N. 651, at page 653 in paragraph 5, it is observed as follows:
+</p><p id="p_51">	"5. Reliance was placed, as earlier stated, on the non-compliance with the departmental instruction that statements of passengers should be recorded by inspectors.  These are instructions of prudence, not rules that bind or vitiate in the violation.  In this case, the Inspector tries to get the statements but the passengers declined, the psychology of the latter in such circumstances being understandable, although may not be approved.  We cannot hold that merely because statements of passengers were not recorded the order that followed was invalid.  Likewise, the re-evaluation of the evidence on the strength of co-conductor's testimony is a matter not for the Court but for the Administrative Tribunal.  In conclusion, we do not think the Courts below were right in overturning the finding of the domestic tribunal. 					
+</p>
+<p id="p_52">	(d)In the decision <a href="/doc/547812/" id="a_10">Ashok Kumar Aggarwal V. Delhi Vidyut Board</a>, 2004-II-L.L.J.-603, it is held that 'Petitioner-Executive Engineer in respondent-Board impugned in this petition his dismissal from service. The High Court dismissed the petition. It observed that the petitioner remained absent without leave; his services were terminated after following procedure laid down by Regulations and no infirmity was shown therein'.
+</p>
+<p id="p_53">	(e)In the decision of the Hon'ble Supreme Court in <a href="/doc/1235412/" id="a_11">Divisional Controller, KSRTC (NWKRTC) V. A.T.Mane</a>, (2005) 3 Supreme Court Cases 254, it is held that 'When an employee is found guilty of misappropriating a corporation's funds, there is nothing wrong in the corporation losing confidence or faith in such an employee and awarding punishment of dismissal'.
+</p><p id="p_54">	(f)In the decision of the Hon'ble Supreme Court in <a href="/doc/1709735/" id="a_12">Managing Director, North-East Karnataka Road Transport Corporation V. K.Murti</a>, (2006) 12 Supreme Court Cases 570, at special page 573, in paragraph 7, it is held as follows:
+</p><p id="p_55">"7.We have heard learned counsel appearing for the appellant-Management and perused the records. In our opinion, the order passed by the High Court is erroneous on the face of the record. The High Court, in our opinion, ought to have seen that the misconduct was duly established in the enquiry and despite it, the Labour Court had persuaded itself to reinstate the delinquent in service. The learned Single Judge also confirmed the order passed by the Labour Court. In our opinion, the High Court was not justified in altering the quantum of punishment when the enquiry was held to be fair and proper, charge was proved and no evidence was led before the Labour Court while questioning the order of the Disciplinary Authority dismissing the delinquent workman. Likewise, the High Court also failed to notice the order removing the name of the respondent from the list of badli conductors. The High Court has also erred in taking note of the fact that the punishment imposed on the delinquent official was not shockingly disproportionate to the gravity of the misconduct proved against him coupled with his history and he being a badli conductor. In our opinion, the Division Bench have erred in rejecting the plea of the Management that the Labour Court was not justified in ordering reinstatement of the respondent as regular employee on the ground that such a plea was not raised before the learned Single Judge when as a matter of fact the plea had been taken both before the Labour Court and the learned Single Judge of the High Court."			
+</p>
+<p id="p_56">	37.That apart, this Court aptly points out that 'Ordinarily, remaining on leave, remaining absent by a workman does not prove that he is incapable of performing his duties'.
+</p>
+<p id="p_57">Analysis:
+</p><p id="p_58">	38.In regard to the plea taken on behalf of the Petitioner that he can challenge the order dated 25.08.2009, dismissing him from service, passed by the Respondent before this Court in Writ Proceedings and further, seek remedy under the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, this Court pertinently points out that <a href="/doc/639570/" id="a_13">Section 47</a> of the Act provides for security of tenure to an employee who acquires disability during his service. No doubt, it applies to all Corporations established by an Act of Parliament or State Legislatures, any authority or body controlled or aided by the Government or a local authority or a Government Company as defined under <a href="/doc/1430621/" id="a_14">Section 617</a> of the Companies Act, 1956 and includes departments of the Government.
+</p>
+<p id="p_59">	39.Indeed, the ingredients of <a href="/doc/1360925/" id="a_15">Section 47</a> of the Act provides that 'No establishment shall dispense with, or reduce in rank, an employee who acquires a disability during his service'. The first proviso to <a href="/doc/1360925/" id="a_16">Section 47</a> of the Act speaks to the effect that if an employee, after acquiring disability is not suitable for the post he was holding, could be shifted to some other post with the same pay scale and service benefits that he was given. The second proviso to <a href="/doc/1360925/" id="a_17">Section 47</a> refers to the fact that if it is not possible to adjust the employee against any post, he may be kept on a supernumerary post until a suitable post is available or he attains the age of superannuation, whichever is earlier. Also, the Section provides that no promotion shall be denied to a person merely on the ground of his disability.
+</p>
+<p id="p_60">	40.The term "dispense with" includes simple discharge as also termination after following due process.  The suitability of an employee who acquires disability for the post that he was holding is to be ascertained on the basis of impartial medical examination and certification by the medical authority. In matters relating to dispensing with service or reduction in rank or shifting to some other post, the same is to be done after adhering to the Principles of Natural Justice i.e. providing the employee of an opportunity of hearing in the matter before the decision is taken, in the considered opinion of this Court.
+</p>
+<p id="p_61">	41.It may not be out of place for this Court to recollect and call up the decision of the Hon'ble Supreme Court in <a href="/doc/1576104/" id="a_18">Kunal Singh V. Union of India and another</a>, AIR 2003 SC at page 1623 wherein it is held that 'the benefit of <a href="/doc/1360925/" id="a_19">Section 47</a> cannot be denied when disability was acquired during service'. Undoubtedly, 'The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act', 1995, is a special Act which prevails having regard to <a href="/doc/945929/" id="a_20">Section 72</a> of the Act which enjoins that the Act is to be in addition to and not in derogation of any other law. In short, the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 prevails over other general enactments. Its provisions are not circumscribed by the provisions of any other law or rules etc. for the benefit of persons with disabilities.
+</p>
+<p id="p_62">	42.It cannot be gainsaid that the ingredients of <a href="/doc/639570/" id="a_21">Section 47</a> of the Persons with Disabilities  (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 is to be looked at as a beneficial legislation keeping in mind the protection of the rights of the disabled so as to enable them to lead a normal avocation/life. Further, this Court's mind is reminiscent with the decision in <a href="/doc/1638195/" id="a_22">Baljeet Singh V. Delhi Transport Corporation</a>, 2000 (1) LLN 564 (Delhi High Court), wherein it is held that 'The intention of <a href="/doc/639570/" id="a_23">Section 47</a> is not to uproot those in employment and quashed the premature retirement of several employees who had acquired disability during service'.
+</p><p id="p_63">	43.It is true that the Petitioner's removal from service can also  be assailed as per <a href="/doc/1418464/" id="a_24">Section 2(A)</a> of the Industrial Disputes Act, 1947, being an Industrial Dispute in which case the Petitioner may approach the concerned Labour Court to seek appropriate remedy.
+</p><p id="p_64">	44.It is to be pointed out that <a href="/doc/699626/" id="a_25">Section 2(i)</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 defines "disability" meaning (i)blindness; (ii)low vision; (iii)leprosy cured; (iv)hearing impairment; (v)locomotor disability; (vi)mental retardation; (vii)mental illness. Further, <a href="/doc/699626/" id="a_26">Section 2(o)</a> of the Act defines "locomotor disability" which means 'disability of the bones, joints or muscles leading to substantial restriction of the movement of the limbs or any form of cerebral palsy'. Added further, <a href="/doc/699626/" id="a_27">Section 2(t)</a> of the Act refers to the "person with disability" which means 'a person suffering from not less than forty per cent of any disability as certified by a medical authority'.  <a href="/doc/699626/" id="a_28">Section 2(m)</a> of the Act speaks of "institution for persons with disabilities" means an institution for the reception, care, protection, education, training, rehabilitation or any other service of persons with disabilities.  <a href="/doc/699626/" id="a_29">Section 2(w)</a> of the Act deals with "rehabilitation" which refers to a process aimed at enabling persons with disabilities to reach and maintain their optimal physical sensory, intellectual, psychiatric or social functional levels. 
+</p>
+<p id="p_65">	45.In this connection, it may not be out of place for this Court to cite the decisions in <a href="/doc/252147/" id="a_30">V.Balasubramaniam V. Tamil Nadu State Express Transport Corporation</a> represented by its Managing Director, Pallavan Salai, Chennai, 2011 (2) C.L.T. 584 wherein it is observed as follows:
+</p><p id="p_66">"The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 being a beneficial legislation, it is the duty cast upon the State Corporation to give backwages to the Petitioner, who was discharged from service on 06.12.2004, after the Act came into force. Also, it was held that the Petitioner was entitled to claim not only an alternative employment, but also benefits conferred under <a href="/doc/639570/" id="a_31">Section 47</a> of the Act."
+</p>
+<p id="p_67">	46.It is true that the very opening part of <a href="/doc/639570/" id="a_32">Section 47</a> of the Act, 1995 clearly enjoins that 'no establishment shall dispense with, or reduce in rank, an employee who acquires a disability during his service'. Undoubtedly, an employee, who acquires disability during his service, is sought to be protected under <a href="/doc/639570/" id="a_33">Section 47</a> of the Act, particularly. If such employee acquiring such disability is not protected, would not only suffer himself, but there is a possibility that all those who depend on him would also suffer. It cannot be gainsaid that the language of <a href="/doc/639570/" id="a_34">Section 47</a> of the Act is plain and there is statutory obligation enjoined on an employer to protect an employer acquiring disability during service. 
+</p>
+<p id="p_68">	47.This Court fittingly points out the decision in <a href="/doc/1578659/" id="a_35">C.Narayanan V. The Deputy Director-cum-Principal In</a> charge, Government Industrial Training Institute, Chennai  600 021 and another, 2011 (1) CTC 577, wherein it is, among other things, held that 'Person who acquires disability during his employment cannot be inflicted with any decision to dispense with his services or reduce in rank on ground of such disability'.
+</p>
+<p id="p_69">Glimpse of Decided Cases:
+</p><p id="p_70">	48.That apart, this Court cites the following decisions to prevent an aberration of Justice and to promote substantial cause of Justice:
+</p><p id="p_71">	(a)In the decision of the Hon'ble Supreme Court in <a href="/doc/585883/" id="a_36">Narendra Kumar Chandla V. State of Haryana and others</a>, (1994) 4 Supreme Court Cases 460 at page 462 &amp; 463 wherein in paragraphs 6 &amp; 7, it is, inter alia, observed and held as follows:
+</p><p id="p_72">	"6. ... Admittedly, the appellant is not possessed of the qualifications. He is only matriculate. As a result we cannot give any direction to appoint him as UDC.
+</p><p id="p_73">	7.<a href="/doc/1199182/" id="a_37">Article 21</a> protects the right to livelihood as an integral facet of right to life. When an employee is afflicted with unfortunate disease due to which, when he is unable to perform the duties of the posts he was holding, the employer must make every endeavour to adjust him in a post in which the employee would be suitable to discharge the duties. Asking the appellant to discharge the duties as a Carrier Attendant is unjust. Since he is a matriculate, he is eligible for the post of LDC. For LDC, apart from matriculation, passing in typing test either in Hindi or English at the speed of 15/30 words per minute is necessary. For a Clerk, typing generally is not a must. In view of the facts and circumstances of this case, we direct the respondent Board to relax his passing of typing test and to appoint him as an LDC. Admittedly on the date when he had unfortunate operation, he was drawing the salary in the pay scale of     Rs 1400-2300. Necessarily, therefore, his last drawn pay has to be protected. Since he has been rehabilitated in the post of LDC we direct the respondent to appoint him to the post of LDC protecting his scale of pay of Rs 1400-2300 and direct to pay all the arrears of salary."
+</p>
+<p id="p_74">	(b)In the decision <a href="/doc/1638195/" id="a_38">Baljeet Singh V. Delhi Transport Corporation</a>, 2000 (1) L.L.N. 564, it is held that 'Intention of Section 47 of the Persons With Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 is clear and unambiguous, namely, not to dispense with service of person who incurs disability during service. Even if he is not suitable for the post he is holding, as a result of disability, he is to be shifted to some other post with same pay and service benefits'.
+</p>
+<p id="p_75">	(c)In the decision of the Hon'ble Supreme Court in <a href="/doc/1988800/" id="a_39">Union of India V. Devendra Kumar Pant and others</a>, (2009) 14 Supreme Court Cases 546, it is held that 'The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 does not extend uniform protection to all disabled persons and that protection has been extended depending upon the kind of disability and the protection required for a specified purpose and that the provisions of the Act cannot therefore be applied mechanically'. Also, it is held that 'The intention of the Act is not to jeopardise safety and security or to reduce standards of safety and efficiency'.
+</p>
+<p id="p_76">	(d)In the decision <a href="/doc/1146060/" id="a_40">A.P. State Road Transport Corporation, Hyderabad and others V. M.V. Ramana Rao</a>, 2004-Vol.1-L.L.J. 361, it is held that 'Hearing impairment due to disease 'Tinnitus' of Driver, held, must be presumed to have taken place during his service and said impairment was disability under <a href="/doc/699626/" id="a_41">Section 2(i)</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 and was entitled to be provided suitable employment'.
+</p>
+<p id="p_77">	(e)In the decision APSRTC, Muesheerabad, Hyderabad and others V. K.Moses, 2012-IV-LLJ-74 (AP) at page 75, it is held that 'The primary obligation to give alternative employment to a disabled employee was on the employer, as per <a href="/doc/639570/" id="a_42">Section 47</a> of Persons with Disabilities Act, 1995'.
+</p>
+<p id="p_78">	(f)In the decision <a href="/doc/124984163/" id="a_43">A.Seshaiah V. Commandant, Central Industrial Security Force Unit</a> reported in MANU/AP/0221/ 2005 at paragraphs 13 to 17, it is observed and held as follows:
+</p><p id="p_79">	"13.The only plea raised by the respondent, to resist the claim of the appellant was that, in view of the notification dated 10-09-2002, issued by the Central Government, they are not under obligation to extend the benefit under the Act, to the appellant. The relevant portion of the counter affidavit reads as under:
+</p><p id="p_80">"The Government has exempted the Paramilitary Forces of the Central Government from the purview of applications of <a href="/doc/639570/" id="a_44">section 33</a> of the persons with Disabilities (Equal Opportunities Protection of Right and Full Participation) Act, 1995 (1 of 1996) as per the notification 10.09.2002 (COPY ENCLOSED AS MATERIAL PAPER-I). Therefore, the petitioner does not have any legal right to claim by virtue of aforesaid Act)."
+</p><p id="p_81">	14.This plea weighed with the learned single Judge. However, on a close examination of the matter, it is evident that the notification dated 10-09-2002, relied upon by the respondent, is the one, issued under proviso to <a href="/doc/639570/" id="a_45">Section 33</a>, and not the one, under proviso to <a href="/doc/639570/" id="a_46">Section 47</a>. As observed earlier, both these sections have different purposes, to serve. The exemption from <a href="/doc/639570/" id="a_47">Section 33</a>, in respect of the Paramilitary Force, including C.I.S.F., at the most, relieves the Central Government from its obligation to reserve posts in favour of physically disabled persons, while undertaking recruitment of "combatant personnel". Even this exemption is not in respect of non-combatant personnel in those organizations.
+</p><p id="p_82">	15.On the strength of notification issued under proviso to <a href="/doc/639570/" id="a_48">Section 33</a> of the Act, the respondent cannot relieve himself of his obligation under <a href="/doc/639570/" id="a_49">Section 47</a>. Unfortunately, this important distinction was not noticed, when the writ petition was dismissed; obviously it was not properly presented. Once it has emerged that <a href="/doc/639570/" id="a_50">Section 47</a> of the Act continues to apply to C.I.S.F., and other paramilitary organizations, the respondent cannot deny the benefit thereof, to the appellant. It was not pleaded by the respondent that the appellant is not fit, to discharge non-combatant duties.
+</p><p id="p_83">	16.The importance of the protection accorded by the Parliament, under <a href="/doc/639570/" id="a_51">Section 47</a> of the Act, to the persons, who acquire disability, while in service; was emphasized by the Supreme Court in its judgment in <a href="/doc/1576104/" id="a_52">Kunal Singh v. Union of India</a> 2003 Lab.IC 1133. It was observed that a statutory duty is cast upon, an employer under <a href="/doc/639570/" id="a_53">Section 47</a>, and where two interpretations are possible, the one, which advances the object under the Act, shall be preferred to that, which obstructs such object or paralyses the purposes underlying the Act.
+</p><p id="p_84">	17.For the foregoing reasons, the writ appeal is allowed, and the order of the learned single Judge is set aside. The appellant shall be taken back into service forthwith, and shall be extended the benefit of <a href="/doc/639570/" id="a_54">Section 47</a> of the Act. There shall be no order as to costs."
+</p>
+<p id="p_85">	(g)In the decision of the Hon'ble Supreme Court in <a href="/doc/136050/" id="a_55">Delhi Transport Corporation V. Sardar Singh</a>, 2004-III-L.L.J.-543, wherein it is held as follows:
+</p><p id="p_86">"Conductors of appellant-Delhi Transport Corporation were absent from duty for long periods without obtaining leave in advance as required in Standing Order No.4 of the Corporation.  Consequently they were dismissed/removed  from service and the Corporation sought approval  of the dismissal/removal as there was a pending industrial dispute.  The Tribunal refused the approval.  Fortunes of litigation swayed between the Corporation and the Conductors in the High Court, with the result the Corporation had to come up before the Supreme Court in these appeals.  The Supreme Court allowed them in two of which it remitted the matter to the Tribunal for fresh consideration. It referred to Standing Orders 4 and 19 (h) and observed absence from leave without sanction for long period prima facie showed lack of employee's interest in work. Unauthorised absence could be treated as misconduct."
+</p>
+<p id="p_87">	(h)In the decision of the Hon'ble Supreme Court in <a href="/doc/1727786/" id="a_56">Anand Bihari and others V. Rajasthan State Road Transport Corporation, Jaipur Through</a> its Managing Director and another, (1991) 1 Supreme Court Cases 731 at special page 732 wherein it is observed as follows:
+</p><p id="p_88">"The expression "ill-health" used in sub-clause (c) has to be construed relatively and in its context. It must have a bearing on the normal discharge of duties. It is not any illness but that which interferes with the usual orderly functioning of the duties of the post which would be attracted by the sub-clause. Conversely, even if the illness does not affect general health or general capacity and is restricted only to a particular limb or organ but affects the efficient working of the work entrusted it will be covered by the phrase. For it is not the capacity in general but that which is necessary to perform the duty for which the workman is engaged which is relevant and material and should be considered for the purpose. Therefore, any disorder in health which incapacitates an individual from dis- charging the duties entrusted to him or affects his work adversely or comes in the way of his normal and effective functioning can be covered by the said phrase. The phrase has also to be construed from the point of view of the consumers of the concerned products and services. If on account of a workman's disease or incapacity or debility in functioning, the resultant product or the service is likely to be affected in any way or to become a risk to the health, life or property of the consumer, the disease or incapacity has to be categorised as all-health for the purpose of the sub-clause, otherwise, the purpose of production for which the services of the workman are engaged will be frustrated and worse still in cases such as the present one they will endanger the lives and the property of the consumers, Hence the Court should place a realistic and not a technical or pedantic meaning on the said phrase. Therefore, the said phrase would include cases of drivers such as the present ones who have developed a defective or sub-normal vision or eye-sight which is bound to interfere with their normal working as drivers. Accordingly the termination of the services of the drivers in the present case being covered by sub-clause (c) of <a href="/doc/699626/" id="a_57">Section 2(00)</a> would not amount to         retrenchment within the meaning of <a href="/doc/699626/" id="a_58">Section 2(00)</a> of the Act. Hence the termination per se is not illegal because the provisions of <a href="/doc/639570/" id="a_59">Section 25-F</a> have not been followed while effecting it."
+</p>
+<p id="p_89">	Also, in the decision, at page 733 and 734, it is, inter alia, observed as follows:
+</p><p id="p_90">	"The workmen are not denizens of an Animal Farm to be eliminated ruthlessly the moment they become useless to the establishment. They have not only to live for the rest of their life but also to maintain the members of their family and other dependents, and to educate and bring up their children. Their liability in this respect at the advanced age at which they are thus retired stands multiplied. They may no longer be of use to the Corporation for the job for which they were employed, but the need of their patronage to others intensifies with the growth in their family responsibilities."
+</p>
+<p id="p_91">	(i)In the decision <a href="/doc/184808/" id="a_60">Ramaswamy Murugesh V. S.G.Bhonsale and another</a>, 2005 (4) Mh.L.J. 127, it is held that 'The expression continued ill-health in sub-clause (c) of <a href="/doc/1418464/" id="a_61">Section 2(oo)</a> of the Industrial Disputes Act, 1947 does not mean uninterrupted continued ill-health but what it means is ill-health for considerable period'.
+</p>
+<p id="p_92">	(j)In the decision Subhash Ramchandra Dumbre V. Maharashtra State Co-operative Agricultural and Rural Development Bank Limited and others, (2010) II LLJ 632 Bombay, in paragraph 5, it is held as follows:
+</p><p id="p_93">	"5.The submission made by the learned Counsel for the petitioner cannot be accepted. Perusal of the judgment of the Industrial Court clearly reveals that the Industrial Court had rightly noticed that the finding of the Labour Court was patently perverse. The Labour Court had proceeded on the footing that no inquiry had been held and therefore, the order of termination was illegal since it amounted to stigma. The Industrial Court rightly, in my view, noticed that the question of holding inquiry in the present case did not arise. In the present case, the complainant admittedly was on leave for long period on the ground of illness and as such, the Industrial Court correctly held that the bank was justified in issuing notice of termination by paying compensation of discharge simplicitor and for such a discharge, no inquiry was necessary. The Industrial Court also, in my view, correctly observed that the question of getting the petitioner examined by a doctor on the panel of respondent did not arise since admittedly, the complainant was on leave for long period and the obligation was on the complainant to see whether his leave is sanctioned or there is any balance leave on record and as such, there was no question of getting the complainant examined by a doctor from the panel of the bank. There are number of judgments of this Court wherein it has been held that if the Industrial Court in revision finds that the finding recorded is perverse, it can certainly reappreciate the evidence. He submitted that the Industrial Court ought to have remanded the matter back. The submission made by the petitioner has no substance. The ratio laid down by the judgment placed by the respondent squarely applies to the present case. Hence, there is no merit in the submission made by the petitioner."
+</p>
+<p id="p_94">Findings:
+</p><p id="p_95">	49.As far as the present case is concerned, the Petitioner took MRI Cervical Spine scan on 06.01.2006 and the same reads thus:
+</p><p id="p_96">"TECHNIQUE:</p><pre id="pre_2">
+TIWSE, T2WFRESE 	-	Sagittal
+T2GRE				-	Axial
+VERTEBRAE:
+There  is evidence of anterior and posterior osteophytes from C3, C4 and C5 vertebrae. Posterior osteophytes  are seen indenting the epidural fat and ventral thecal sac.  The posterior longitudinal ligament appears ossified at C3, C4 and C5 levels.  The ossified ligament is seen narrowing spinal canal with extradural thecal sac and spinal cord compression. 
+The study show the cervical spines well  and they display normal signal  characters in all sequences.  The cervical vertebral pedicles, laminae, transverse and spinous processes show normal alignment, MR morphology and signal pattern. 
+IV DISC:
+C3-C4, C4-C5 IV discs  show broad based disc bulge indenting epidural fat and ventral thecal sac, narrowing spinal  canal and both neural foramina with extradural spinal cord compression. 
+Rest of IV disc appear  normal
+	
+
+
+
+
+---------------------------------------------------------
+LEVEL			SAGITTAL DIAMETER OF SPINAL CANAL
+---------------------------------------------------------
+C3-C4 IV DISC				07 mm
+---------------------------------------------------------
+C4-C5 IV DISC				07 mm
+---------------------------------------------------------
+C5-C6 IV DISC				09 mm
+---------------------------------------------------------
+C6-C7 IV DISC				09 mm
+---------------------------------------------------------
+
+
+
+
+</pre><p id="p_97">	50.It appears that the Petitioner was admitted into a Government Hospital (as seen from the xerox copy of record dated 19.01.2006). In the said record, S/B Chief NS IV has made the following endorsement: "Pt. may be discharged and transferred to Neurology Dept (NS IV) NS N4 wd." Also, the Petitioner produced the Xerox copy of Medical Certificate dated 18.03.2007 by Doctor of Ayur Kshetra, Chennai wherein it is mentioned as follows:
+</p><p id="p_98">	"This is to certify that Mr.Manimaran  aged 49 years, Driver (50053) staying at No.I Kullakkavai street, Brioly Nagar, Otteri, Chennai  12 was suffering from severe Sonvanga vatam and cervical spondylosis. He  had undergone a full course of Panchakarma treatment from this hospital from 16.02.06 to 09.03.06 as an inpatient.  At the time of admission he was not able to walk or sit with severe pain on back and other joints. After the Panchakarma treatment all pain subsided and he was able to walk and sit. But the normal strength was not there.  Still he is continuing treatment from this hospital as O.P.basis.  
+</p><p id="p_99">	At present his health condition is better than before, even though he is not fit to Drive vehicles."
+</p>
+<p id="p_100">	51.Further, a mere running of the eye over the certificate dated 15.09.2008 (enclosed in the typed set of papers) produced from the said Kshetra, inter alia, mentions that '... Now his health condition is better than before, even though he is not fit to Drive vehicles'.
+</p>
+<p id="p_101">	52.The Learned Counsel for the Petitioner refers to Standing Order No.27(vii)(f) which refers to the effect that 'In awarding punishment', the punishing authority shall take into account the gravity of the acts of commission and omissions, the previous records of the workmen and or any other extenuating or aggravating circumstances that may exist and submits that even though, the Enquiry Officer, in his Enquiry Report dated 26.03.2009, had found that the charges levelled against the Petitioner were proved, yet, he made a significant mention that the case of the Petitioner should be considered sympathetically. But this aspect was not taken into account at the time of passing of the impugned order dated 25.08.2009 by the Respondent/Joint Managing Director of the Transport Corporation in removing the Petitioner from service.
+</p>
+<p id="p_102">	53.As far as the present case is concerned, on behalf of the Petitioner, a plea is taken before this Court that the Enquiry Officer, in his Enquiry Report dated 26.03.2009, had not discussed about the defence statement dated 04.02.2009 submitted by the Petitioner. Also, that a closer scrutiny of the contents in para 6 of the affidavit filed by the Petitioner in the Writ Petition indicates that the Petitioner refers to the matter pertaining to the conduct of domestic enquiry and the deposition of Management Witness M.W.1 (K.Tamilarasan). Further, in paragraph 8 of the averments made in the Writ Petition filed by the Petitioner in categorical terms pointed out that 'However, the Enquiry Officer wanted to be loyal to the Management which engaged him as enquiry officer by giving a finding to the effect the charges are proved'.  In effect, the Petitioner assails the conduct of domestic enquiry held against him by the Management/Transport Corporation. Moreover, according to the Learned Counsel for the Petitioner, the findings of the Enquiry Officer dated 26.03.2009 are perverse. 
+</p><p id="p_103">	54.In this connection, this Court very relevantly points out that there is no prescribed limitation in industrial dispute since the legislature, purposely in its wisdom has not mentioned any period of limitation as per the decision in <a href="/doc/59350908/" id="a_62">Mani Ram V. Presiding Officer, Labour</a> Court, Ambala, 1997-II-LLR-868 (P &amp; H).
+</p>
+<p id="p_104">	55.Also that, the <a href="/doc/1317393/" id="a_63">Limitation Act</a> does not apply to proceedings under the <a href="/doc/500379/" id="a_64">Industrial Disputes Act</a> as per the decision of the Hon'ble Supreme Court in <a href="/doc/1644513/" id="a_65">Ajaib Singh V. The Sirhind  Co-operative Marketing</a>  cum  Processing Service Society Limitation, AIR 1999 SC 1351. 
+</p>
+<p id="p_105">	56.That apart, this Court, in the interest of Justice, points out the decision in <a href="/doc/1458061/" id="a_66">Bhavnagar Zilla Sehakavi Sangh Limited V. Dhiren P. Parekh</a>, 2007-LLR-133 (Gujarat), it is held that 'Service Rules will not supersede the provisions of <a href="/doc/500379/" id="a_67">Industrial Disputes Act</a>'.
+</p><p id="p_106">	57.More pertinently, this Court points out the decision in <a href="/doc/1554942/" id="a_68">State of Haryana V. Bihar Singh</a>, 2006-3-LLN-759, wherein it is held that 'When a dispute involves observance or enforcement of any of the rights or obligations created under the <a href="/doc/500379/" id="a_69">Industrial Disputes Act</a>, the only remedy will be under the said Act'. 
+</p><p id="p_107">	58.As a matter of fact, no universal formula can be prescribed on limitation for a reference under the <a href="/doc/500379/" id="a_70">Disputes Act</a>. This Court aptly points out the decision of the Hon'ble Supreme Court in <a href="/doc/133533/" id="a_71">Management Ludlow Jute Mills V. Sheikh Moymur</a>, 2005-II-LLR-237 wherein it is held as follows: 
+</p><p id="p_108">"An individual dispute becomes an industrial dispute when the workman raises a demand upon the employer and the same is rejected and/or remains unresolved."
+</p>
+<p id="p_109">	59.Be that as it may, as a logical corollary, this Court opines that if the Petitioner raises an industrial dispute relating to his removal from service before the competent forum, then, it is imperative for that forum preliminarily to find out whether the conduct of domestic enquiry held against him is just, fair and proper one, in the eye of law. Further, when enquiry is found to be defective, an employer can adduce supporting evidence, as per the decision in <a href="/doc/832829/" id="a_72">Mumbai Cricket Association V. Pramod G. Shinde</a>, 2011-LLR-386 (Bom.). In fact, it is for the adjudicator to decide about the termination of the Petitioner under the <a href="/doc/500379/" id="a_73">Industrial Disputes Act</a>, 1947, as opined by this Court. But, the Petitioner has not approached the appropriate forum under the <a href="/doc/500379/" id="a_74">Industrial Disputes Act</a>, 1947 relating to his punishment of removal from service, as ordered by the Respondent/Transport Corporation through communication dated 25.08.2009. Although the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act of 1995, being a special legislation and the provisions of this Act and the rules made thereunder are in addition to and not in derogation of any other law for time being in force etc., in the instant case on hand, as against the Petitioner, a domestic enquiry was conducted by the Management/ Transport Corporation and the Enquiry Officer submitted his findings dated 26.03.2009 holding that the charges levelled against him were proved and finally, the impugned order of punishment of removal from service was imposed on the Petitioner by order dated 25.08.2009. In this regard, it is to be pointed out that the Petitioner submitted medical intimation on 17.07.2005 and 29.08.2006. Thereafter, admittedly he had not submitted any medical intimation and further, he had no medical leave to his credit. Only after obtaining a basic report from the authority concerned on 27.07.2007 stating that the Petitioner absented for duty from more than 8 days from 27.07.2007, a charge memo was issued and enquiry was conducted adhering to the principles of natural justice. At this stage, it is significant for this Court to point out that the Petitioner had not cross examined M.W.1 and in the enquiry submitted only his defence statement Ex.D.1 dated 04.02.2009. 
+</p>
+<p id="p_110">	60.It cannot be ignored that the object of <a href="/doc/500379/" id="a_75">Industrial Disputes Act</a>, 1947 is to impart social justice to workman. Ordinarily, he is to avail that remedy under <a href="/doc/1377486/" id="a_76">Section 2A</a> of the Industrial Disputes Act. If a workman is dismissed, discharged or terminated, he can work out his available remedy as per the decision in <a href="/doc/1606454/" id="a_77">M.R.Achar V. Syndicate Bank</a>, 2006 L.L.R. 1087 (Karnataka). Admittedly, raising of an industrial dispute by a workman upon employer is a condition precedent to refer it for adjudication.
+</p>
+<p id="p_111">	61.Be that as it may, in the instant case, the Petitioner has pleaded in para 11 of his affidavit in the Writ Petition that he lost activities of one leg and one arm due to malfunctioning of spinal cord from 15.11.2005 and only by March, 2007 he was able to get some relief due to continuous treatment and from March 2007, he was able to do light duties in the office such as receipt of tapals, distribution of tapals, attending to telephone work, arranging files or records etc. Further, he averred that he was removed from service (not on medical grounds) but on the charge of absence from 17.07.2005. As a matter of fact, the Petitioner has not produced any medical certificate or record before this Court to show that he lost activities of one leg and one arm due to malfunction of spinal cord from 16.11.2005 etc. Also, he averred in para 12 of the Writ Affidavit that 'all along for nearly 2 years, he was unable to do any work'. 
+</p>
+<p id="p_112">	62.It is significant for this Court at this stage to point out that in the Writ Petition, the Petitioner produced some records relating to his Spiral (Helical) CT/Open MRI Scan and xerox copy of Government Hospital record to show that he took treatment and he was required to be discharged. The xerox copies of medical certificates filed in the typed set of papers issued by Doctor of Ayur Kshetra, Chennai points out that the Petitioner's health condition was better than before, even though he was not fit to drive vehicles. In effect, the Petitioner had not produced any conclusive materials/evidence before this Court to find out that he acquired disability and therefore, not suitable to the post he was holding prior to his termination and therefore, he is entitled to avail the benefits showered under <a href="/doc/639570/" id="a_78">Section 47</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995. As such, this Court opines that the Petitioner cannot approach this Court invoking the Writ Jurisdiction claiming the relief to provide him suitable alternative employment under <a href="/doc/639570/" id="a_79">Section 47</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995. Inasmuch as, his removal from service was ordered by the Respondent through communication dated 25.08.2009,  (after conduct of domestic enquiry in which he took part), then, this Court is of the cocksure opinion that the Petitioner is to approach the competent forum under the <a href="/doc/500379/" id="a_80">Industrial Disputes Act</a>, 1947 to work out his remedy. Further, without exhausting his remedy before the appropriate forum under the <a href="/doc/500379/" id="a_81">Industrial Disputes Act</a>, 1947 and unless the order of dismissal dated 25.08.2009 passed by the Respondent is set aside by the competent forum in the peculiar circumstances of the case, this Court comes to the conclusion that the Petitioner is not entitled to seek the relief under <a href="/doc/639570/" id="a_82">Section 47</a> of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, [notwithstanding the fact that the special legislation provisions are in addition to and not in derogation of any other law etc.]. Viewed in that perspective, the Writ Petition fails.
+</p>
+<p id="p_113">	63.In the result, the Writ Petition is dismissed, leaving the parties to bear their own costs. It is made clear that the dismissal of the present Writ Petition by this Court will not preclude the Petitioner to work out his remedy before the competent forum under the <a href="/doc/500379/" id="a_83">Industrial Disputes Act</a>, 1947, raising all factual and legal pleas on the merits of the subject matter in issue. 
+</p>
+
+
+
+
+
+
+
+<p id="p_114">Sgl								    
+
+To
+
+Managing Director,
+Metropolitan Transport Corporation Limited,
+Anna Salai
+Chennai 600 002
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

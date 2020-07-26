@@ -1,0 +1,415 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>V.Imayavarman vs The Pondicherry State on 12 January, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/175006874/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 20 docs 
+      
+        - [<A HREF="/search/?formInput=cites:175006874">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/52229129/">The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/176453901/">Section 5 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/93577912/">Section 2 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/198257891/">The Security Interest (Enforcement) Rules, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1129081/">BANKING REGULATION ACT,1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/175006874/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/175006874/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/175006874/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">V.Imayavarman vs The Pondicherry State on 12 January, 2017</div><pre id="pre_1">        
+
+ 
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED: 12.01.2017
+
+CORAM:
+
+THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+and
+THE HONOURABLE MR.JUSTICE M.GOVINDARAJ
+
+W.P.No.40041 of 2016
+
+
+V.Imayavarman								..	Petitioner
+
+versus
+
+1.The Pondicherry State 
+   Co-op. Bank Limited
+   Post Box No.34
+   No.204, East Coast Road
+   Olandaikeerapalayam
+   Mudaliarpet Post
+   Puducherry - 605 004
+
+2.The Authorised Officer
+   The Pondicherry State Co-op.
+   Bank Limited
+   Post Box No.34
+   No.204, East Coast Road
+   Olandaikeerapalayam
+   Mudaliarpet Post
+   Puducherry - 605 004
+
+3.The Manager (SARFAESI Act)
+   Pondicherry State
+   Co-op Bank Limited
+   Post Box No.34
+   No.204, East Coast Road
+   Olandaikeerapalayam
+   Mudaliarpet Post
+   Puducherry - 605 004 						.. 	Respondents 
+	
+	Writ Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India, praying for a Writ of Certiorari, to call for the entire records in pursuant to two possession notices both dated 19.12.2014 issued by the 2nd respondent to the petitioner's father and the consequential letter vide PSCB.HO/883/2016-17/<a href="/doc/52229129/" id="a_2">SARFAESI Act</a> dated 14.09.2016 issued by the third respondent to the petitioner and quash all of them.
+
+		For Petitioners		: Mr.T.P.Prabhakaran
+
+		For Respondents		: Mr.P.Suresh
+
+
+ORDER
+</pre><p id="p_1">(Order of the Court was made by S.MANIKUMAR, J.)
+
+	Writ petition has been filed to issue a writ of certiorari, to call for the records relating to the possession notice, dated 19.12.2014, issued by the Authorised Officer, The Pondicherry State Co-operative Bank Limited, Puducherry and also the consequential letter in PSCB.HO/883/2016-17/SARFAESI ACT dated 14.09.2016 issued by the Manager (SARFAESI Act), Pondicherry State Co-operative Bank Limited, and to quash the same.
+</p><p id="p_2">	2. Brief facts leading to the filing of the writ petition are as follows:
+</p><p id="p_3">	The petitioner has submitted that his father had mortgaged the properties comprised in S.Nos.187/2 and 187/3 of Embalam Village, Nettapakkam Commune Panchayat, Bagoor Taluk, Pondicherry District with the respondent-bank, borrowed a sum of Rs.8,25,000/- and executed a mortgage deed dated 19.07.2004 in favour of the Pondicherry State Co-operative Bank Ltd., Puducherry. Petitioner's father paid some amount to the respondent-Co-operative Bank and committed default in discharge of the said loan.
+</p>
+<p id="p_4">	3. Material on record discloses that the 2nd respondent-Bank has issued two demand notices dated 10.10.2014 under <a href="/doc/122562177/" id="a_3">Section 13(2)</a> of the SARFAESI Act, 2002, demanding petitioner's father to pay Rs.3,38,905/- and Rs.12,68,657/- respectively. Subsequently, the respondent has also issued two possession notices both dated 09.12.2014 under <a href="/doc/26129616/" id="a_4">Section 13(4)</a> of SARFAESI Act, 2002 and intimated petitioner's father that two properties in Embalam Revenue Village (63) Re-Survey No.187/2, Cadastre No.461/17, Patta No.259 to the extent of 00.01.92 Hectares or 192 Sq. meter and Embalam Revenue village R.S.Nos.187/3, Cadastre No.461/17 Pt. Patta No.377 to the extent of 00.01.50 or 150 sq. meter, have been mortgaged.
+</p><p id="p_5">	4. The petitioner's father died on 29.10.2015. According to the petitioner, he was not aware of any of the proceedings initiated by the bank against his father, as mentioned above. He further submitted that he was not aware of the above mentioned mortgage deed executed by his father in favour of the respondent-Co-operative bank.
+</p>	
+<p id="p_6">	5. The petitioner has further submitted that the Manager (SARFAESI Act), Pondicherry State Co-operative Bank Ltd., Puducherry, third respondent herein, issued a letter vide PSCB HO/883/2016-17/<a href="/doc/52229129/" id="a_5">SARFAESI Act</a>, dated 14.09.2016, informing the petitioner that the above mentioned properties have been under symbolic possession of the respondent's Co-operative bank with effect from the date of serving of possession notice to his father on 09.12.2014. Only after receipt of the said notice, the petitioner came to know of the above mentioned proceedings initiated by the bank. He further submitted that after the death of his father, he has paid a sum of Rs.7,94,650/- to the respondents co-operative bank, towards discharge of liabilities.
+</p>
+ 
+<p id="p_7">	6. After receiving the above said amount, the third respondent has issued a letter, dated 14.09.2016, instructing the petitioner not to erect any machinery or make alteration to the building failing which the bank would be forced to take necessary legal steps against him, as per law. Aggrieved over the same, the present writ petition has been filed. After setting out the facts in brief, on the issue, as to whether, a Co-operative Bank has jurisdiction to invoke the provisions of <a href="/doc/52229129/" id="a_6">SARFAESI Act</a>, 2002, on 15.11.2016, we issued notice to the respondents, returnable by 22.11.2016 and recorded as follows:
+</p><p id="p_8">	"Mr.T.P.Prabakaran, learned counsel for the petitioner made statement across the bar that the petitioner would not make any alteration to the building. Submission is placed on record.
+</p><p id="p_9">	6. On the aspect, as to whether, the petitioner would erect any machinery or not, learned counsel for the petitioner submitted that he would revert back, after getting instructions."
+</p>	
+<p id="p_10">	7. Pondicherry State Co-operative Bank Ltd., first respondent herein, has filed a counter affidavit and the the same is adopted by respondents 2 and 3.
+</p>
+<p id="p_11">	8. The respondents, inter alia, have contended that during July' 2004, father of the writ petitioner S.Veerappan, resident of Embalam Post, Nettapakkam Commune, Puducherry, availed two types of loans amounting to Rs.8,25,000/- (M.T.Loan Rs.6,75,000/- and CCL Rs.1,50,000/-) from the respondent-bank. In consideration of the above loans, on 19.07.2004, he had furnished security by mortgaging of the properties comprising in S.No.187/2 and 187/3 to the extent of 00.3A.42C or 382 Sq.Mts. situate in Embalam Village, in favour of the respondent Co-operative Bank.
+</p>
+<p id="p_12">	9. It is the further submission of the respondents that the petitioner's father paid only Rs.10,763/- in respect of CCL Loan and did not pay the remaining outstanding dues and thus became a defaulter, in repayment of loans amount, as follows:
+</p><p id="p_13">Sl.No.
+</p><p id="p_14">Name of Loan
+Principal
+Interest
+Total
+</p><p id="p_15">1.
+M.T.Loan
+Rs.6,75,000/-
+</p><p id="p_16">Rs.6,01,969/-
+</p><p id="p_17">Rs.12,76,969/-
+</p><p id="p_18">2.
+CCL
+Rs.3,38,905/-
+</p><p id="p_19">Nil
+Rs.3,38,905/-
+</p>
+<p id="p_20">For the past 10 years, the Bank is not able to recover the loan amount. The date of receipt of loan by the petitioner's father, was on 09.07.2004 and he did not come forward to pay the outstanding overdue loan amount, for over a decade. The respondents' Bank has allowed long time to settle the dues. According to the Bank, the attitude of the Petitioner's father showed that he had no intention to pay the balance outstanding amount.
+</p><p id="p_21">	10.	The respondent bank was started in the year 30th October' 1958 and doing Banking Financial business. As per Section 2(c) of the Securitization and Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_7">Enforcement of Security Interest Act</a>, 2002,  "bank" means, a multi-state Co-operative Bank or such other bank which the Central Government may by notification specify for the purpose of the abovesaid Act, and "banking company" shall have the meaning assigned to it in clause (e) of Section 5 of the Bank Regulation Act, 1949 (10 of 1949). Accordingly, Pondicherry State Co-operative Bank Limited, can invoke the provisions of the Securitization and Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_8">Enforcement of Security Interest Act</a>, 2002.
+</p>
+<p id="p_22">	11. The bank has decided to invoke the <a href="/doc/52229129/" id="a_9">Provisions of the SARFAESI Act</a>, 2002. A demand notice, dated 10.10.2014, was issued for settlement of the dues. Despite the same, no steps were taken by the borrower to pay the amount in installments. In order to recover the dues, two possession notices dated 09.12.2014 were issued, under Sub Section (4) of <a href="/doc/152603276/" id="a_10">section 13</a> of the Act.  Possession notices were duly acknowledged by the borrower, by affixing his signature, along with two witnesses and that the petitioner's family was well aware of the facts. The Petitioner has been living with his father, as joint family in Embalam Village. During the life of his father, after acknowledging "The Possession Notice" on 09.12.2014, when the petitioner's father sought time till 31.01.2015, in his written communication, dated 06.01.2015, made to the bank, the petitioner herein stood as a witness to the request of his father. Therefore, the Petitioner cannot take a stand that he was not aware of the action taken by the respondents Bank.
+</p>
+<p id="p_23">	12. The bank has further contended that on 29.10.2015, the borrower died. The contention that the petitioner was not aware of any of the proceedings taken out by the Bank against his father, is not correct. The petitioner was a witness, to the letters, dated 28.03.2012 and 06.01.2015 respectively, given by his father.
+</p>
+<p id="p_24">	13.	The bank has further contended that when a person, who had availed loan from the bank, and mortgaged his property, in favour of the Bank, fails to discharge the same, his legal heir would incur the liability to discharge the loan and they cannot disown the same, by stating that the Bank has no power to invoke the provisions of the <a href="/doc/52229129/" id="a_11">SARFAESI Act</a>, 2002. Banker money is public money and that the Bank is answerable to the depositor. Therefore, every borrower or his legal heir, as the case may be, is answerable to the banker. The borrower died on 29.10.2015 and that the petitioner was aware of the entire facts, on receipt of notice, dated 14.09.2016, issued by the Manager, under the provisions of <a href="/doc/52229129/" id="a_12">SARFAESI Act</a>, 2002.
+</p>
+<p id="p_25">	14.	The Bank has further submitted that the petitioner was taking action to put up a Flour Mill in the existing building. Possession notice, dated 09.12.2014, was served on the petitioner's father and that the said notice was also conspicuously affixed on the building with proper acknowledgement of two neighbours, as witnesses. When such notice was affixed on the building and served on the borrower, the petitioner cannot contend that he was not aware of the same, moreso, when at the time of issuing <a href="/doc/26129616/" id="a_13">Section 13(4)</a> notice, the petitioner was living with his father, as joint family. 
+</p>
+<p id="p_26">	15.	The Bank has denied the contention that the petitioner has paid a sum of Rs.7,94,650/- (Rupees Seven Lakh Ninety Four Thousand Six Hundred and Fifty Only) to the Bank. According to the Bank, the petitioner has paid Rs.1,00,000/- (Rupees One Lakh Only) only, on 04.01.2016 and 04.03.2016 (Rupees Fifty Thousand Only, on each dates) respectively, after the death of his father, dated 29.10.2015. Action of the petitioner in erecting the machineries for starting Flour Mill in the existing Rice Mill building, under symbolic possession of the bank, is violative of the provisions of the Act, 2002 and the rules, framed thereunder.
+</p>	
+<p id="p_27">	16.	The Bank has further submitted that possession notice issued, invoking the <a href="/doc/52229129/" id="a_14">Provisions of the SARFAESI Act</a>, 2002, is valid, as the words,  "Banking Company" shall have the meaning, as assigned to it, in clause (c) of <a href="/doc/1223029/" id="a_15">Section 5</a> of the Banking Regulation Act, 1949 (10 of 1949). The respondents have further submitted that irrespective of the fact, as to whether a bank, Co-operative, Private or Public, as the case may be, every bank is regulated by the same Banking Laws and therefore, a Co-operative Bank can very well invoke the <a href="/doc/52229129/" id="a_16">Provisions of the SARFAESI Act</a>, 2002. Therefore, it is contended that the  proceedings initiated by the respondent's Co-operative Bank are sustainable and valid in eye of law. 
+</p>
+<p id="p_28">	17.	It is also submitted that vide S.O.105, dated 28th January, 2003, published in the Gazette of India, Extra, Pt. II Se, 3 (ii) dated 28th January 2003, Central Government have specified that co-operative banks, as defined in clause (cci) of <a href="/doc/1223029/" id="a_17">Section 5</a> of Banking Regulations Act, 1949, as banks, within the meaning of <a href="/doc/87858235/" id="a_18">section 2(1)(c)</a> of SARFAESI Act, 2002. This notification finds reference in the decision of the Hon'ble  Supreme Court in Greater Bombay Co-operative Bank Ltd., v. United Yam tex (P) Ltd.. and others reported in (2007) 6 SCC 236. In the light of the above, the respondent is also a bank, for the purpose of <a href="/doc/52229129/" id="a_19">SARFAESI Act</a>, 2002.
+</p>
+<p id="p_29">	18.	The bank has further submitted that when a person invokes the equitable and extraordinary jurisdiction of this Court, under <a href="/doc/1712542/" id="a_20">Article 226</a><a href="/doc/1331149/" id="a_21">/227</a> of the Constitution of India, he must approach the Court, with clean hands. Judicial process should not be an instrument of oppression or abuse. He who seeks equity, must do equity. The legal maxim Jur Naturae acqum est neminem cum alterius detrimento et injuria fieri locupletiorem means that it is the law of nature that one should not be enriched by the loss or injury to another. According to the Bank, there is suppression of facts and the petitioner is not entitled to any equity.
+</p>
+<p id="p_30">	Heard the learned counsel for the parties and perused the materials available on record.
+</p><p id="p_31">	19.	The issue, as to whether, a co-operative bank can invoke the provisions of the <a href="/doc/52229129/" id="a_22">SARFAESI Act</a>, 2002, is no longer res integra. After considering the statutory provisions of <a href="/doc/52229129/" id="a_23">SARFAESI Act</a>, 2002, <a href="/doc/1129081/" id="a_24">Banking Regulations Act</a>, 1949, decision of the Hon'ble Apex Court in <a href="/doc/1516582/" id="a_25">Greater Bombay Co-operative Bank Ltd., v. United Yarn Tex (P) Ltd</a>., reported in 2007 (6) SCC 236, a Hon'ble Division Bench of this Court in <a href="/doc/1385940/" id="a_26">Raj Kumar Khemka v. Union of India</a> reported in 2009 (1) CTC 657, at Paragraphs 14 to 25, held as follows:
+</p><p id="p_32">	"14. Almost similar issue fell for consideration before the Supreme Court in the case of "Greater Bomay Coop. Bank Ltd." (supra) reported in 2007 (6) SCC 236, but that was a case in which action was taken by a Co-operative Bank under the provisions of the RDB Act and not under the provisions of the <a href="/doc/52229129/" id="a_27">SARFAESI Act</a>.  However, while dealing with the matter, the Supreme Court discussed the relevant provisions of the <a href="/doc/1129081/" id="a_28">Banking Regulation Act</a>, 1949 (for short, 'the B.R. Act'), the <a href="/doc/52229129/" id="a_29">SARFAESI Act</a>, the RDB Act and other Acts.
+</p><p id="p_33">	15. Before discussing the observations and the findings of the Supreme Court in the said case of "Greater Bomay Coop. Bank Ltd." (2007(6)SCC 236), it is relevant to notice and quote certain provisions of the <a href="/doc/1129081/" id="a_30">Banking Act</a> and the <a href="/doc/52229129/" id="a_31">SARFAESI Act</a>,  for comparison of the same with the RDB Act.
+</p><p id="p_34">	16. Section 5(c) of the B.R. Act defines 'banking company', which reads hereunder:
+</p><p id="p_35">	"5(c)'banking company' means any company which transacts the business of banking in India;"
+</p><p id="p_36">	Subsequently, instead of amending the original Clause (c) of Section 5 of the B.R. Act, a separate Clause (cci) was added in <a href="/doc/176453901/" id="a_32">Section 5</a> to cover the Co-operative Bank, to mean "a State co-operative bank, a Central co-operative bank and a primary co-operative bank". In the introduced Clause (ccv) of <a href="/doc/176453901/" id="a_33">Section 5</a>, "primary co-operative bank" means "a co-operative society, other than a primary agricultural credit society". The above said Clauses 5(cci) and (ccv) were noticed by the Supreme Court in the said decision (2007(6)SCC 236) in the case of "Greater Bombay Coop. Bank Ltd.", wherein the Apex Court observed that the primary object or the principal business of the "Co-operative bank" should be the transaction of banking business.
+</p><p id="p_37">	17. There is no definition of "bank" under the B.R. Act, though it defines the 'banking' under <a href="/doc/176453901/" id="a_34">Section 5(b)</a>, 'banking company' under <a href="/doc/176453901/" id="a_35">Section 5(c)</a> and 'banking policy' under <a href="/doc/176453901/" id="a_36">Section 5(ca)</a>.	
+</p><p id="p_38">	'Banking company' has also been defined under Section 2(e) of RDB Act and <a href="/doc/93577912/" id="a_37">Section 2(d)</a> of the SARFAESI Act, as per which, the 'banking company' shall have the meaning assigned to it in Clause (c) of Section 5 of the B.R Act.	
+</p><p id="p_39">	On the other hand, though the 'bank' has not been defined under the provisions of the B.R. Act, the following definition of 'the Bank' has been shown under Section 2(d) of the RDB Act and under <a href="/doc/93577912/" id="a_38">Section 2(c)</a> of the SARFAESI Act, respectively:
+</p><p id="p_40">	"RDB Act: <a href="/doc/93577912/" id="a_39">Section 2(d)</a>:
+</p><p id="p_41">	"banks" means--
+</p><p id="p_42">	(i) a banking company;
+</p><p id="p_43">	(ii) a corresponding new bank;
+</p><p id="p_44">	(iii) State Bank of India;
+</p><p id="p_45">	(iv) a subsidiary bank; or	
+</p><p id="p_46">	(v) a Regional Rural Bank;"
+</p><p id="p_47">	"<a href="/doc/52229129/" id="a_40">SARFAESI Act</a>: <a href="/doc/93577912/" id="a_41">Section 2(c)</a>:	
+</p><p id="p_48">	"banks" means--
+</p><p id="p_49">	(i) a banking company; or	
+</p><p id="p_50">	(ii) a corresponding new bank; or	
+</p><p id="p_51">	(iii) the State Bank of India; or	
+</p><p id="p_52">	(iv) a subsidiary bank; or	
+</p><p id="p_53">	(v) such other bank which the Central Government may, by notification,* specify for the purposes of this Act;"
+</p><p id="p_54">	*(The Central Government has specified "Co-operative Banks" as defined in clause (cci) of <a href="/doc/1223029/" id="a_42">Section 5</a> of the Banking Regulation Act, 1949 (10 of 1949) as "bank", vide S.O.105(E), dated 28.1.2003, published in the Gazette of India, Ext., Pt.II, S.3(ii), dated 28.1.2003)."
+</p><p id="p_55">	There is a distinction in the definition of the 'bank' as shown in the RDB Act and the <a href="/doc/52229129/" id="a_43">SARFAESI Act</a>. While the first four clauses of the definition of the 'bank' i.e. (i) a banking company, (ii) a corresponding new bank, (iii) State Bank of India and (iv) a subsidiary bank, are common in both the RDB Act and the <a href="/doc/52229129/" id="a_44">SARFAESI Act</a>, under <a href="/doc/93577912/" id="a_45">Section 2(c)(v)</a> of the SARFAESI Act, the Central Government had been empowered to notify such other Bank for the purposes of the Act, and those provisions are absent in the RDB Act.
+</p><p id="p_56">	18. We have taken into consideration the aforesaid provisions as in the case of "Greater Bombay Coop. Bank Ltd." (2007(6)SCC 236) (supra), while deciding the question of the applicability of the provisions of the RDB Act in regard to the Co-operative Societies, though the Supreme Court has not decided the question of the applicability of the provisions of the <a href="/doc/52229129/" id="a_46">SARFAESI Act</a> in regard to the Co-operative Societies/Banks, it discussed the relevant provisions of the B.R. Act vis-a-vis <a href="/doc/52229129/" id="a_47">SARFAESI Act</a>.
+</p><p id="p_57">	19. The relevant provisions of Section 5(cci) and 5(ccv) of the B.R. Act, as also the Notification contained in S.O.No.105(E), dated 28.1.2003 issued by the Central Government in exercise of the powers conferred under <a href="/doc/176453901/" id="a_48">Section 5(c)(v)</a> of the SARFAESI Act, were noticed, but the question of validity of <a href="/doc/176453901/" id="a_49">Section 5(c)(v)</a> of the SARFAESI Act has not been doubted by the Supreme Court in the said case (2007 (6) SCC 236). For this purpose, it is necessary to quote relevant observations of the Supreme Court in the said case, as hereunder:
+</p><p id="p_58">	"<a href="/doc/1129081/" id="a_50">The Banking Regulation Act</a>, 1949 (the BR Act)	
+</p><p id="p_59">	37. <a href="/doc/52229129/" id="a_51">This Act</a> was brought into force on 16-3-1949. Section 3 of the BR Act clearly provides that the Act would apply to cooperative societies in certain cases, subject to the provisions of Part V of the Act. The BR Act defines "banking company" under <a href="/doc/176453901/" id="a_52">Section 5(c)</a> as follows:
+</p><p id="p_60">	"5.(c) banking company means any company which transacts the business of banking in India;"
+</p><p id="p_61">	38. In <a href="/doc/176453901/" id="a_53">Section 5(d)</a> "company" means any company as defined in <a href="/doc/1330413/" id="a_54">Section 3</a> of the Companies Act, 1956 (1 of 1956) and includes a foreign company within the meaning of <a href="/doc/52229129/" id="a_55">Section 591</a> of that Act.
+</p><p id="p_62">	39. Chapter V of the BR Act was inserted by Act 23 of 1965 w.e.f. 1-3-1966. <a href="/doc/52229129/" id="a_56">Section 56</a>. <a href="/doc/52229129/" id="a_57">Section 56</a> of the Act provides that the provisions of this Act, as in force for the time being, shall apply to, or in relation to, banking companies subject to the following modifications, namely:
+</p><p id="p_63">	"56.(a) throughout this Act, unless the context otherwise, requires,--	
+</p><p id="p_64">	(i) references to a banking company or the company or such company shall be construed as references to a cooperative bank;
+</p><p id="p_65">	(ii) * * *"
+</p><p id="p_66">	The purpose and object of modifications were to regulate the functioning of the cooperative banks in the matter of their business in banking. The provisions of <a href="/doc/52229129/" id="a_58">Section 56</a> itself start with the usual phrase "unless the context otherwise requires" is to make the regulatory machinery provided by the BR Act to apply to cooperative banks also. The object was not to define a cooperative bank to mean a banking company, in terms of Section 5(c) of the BR Act. This is apparent from the fact that instead of amending the original clause (c) of <a href="/doc/176453901/" id="a_59">Section 5</a> separate clause (cci) was added to cover the "cooperative bank" to mean "a State cooperative bank, a Central cooperative bank and a primary cooperative bank". In clause (ccv) "primary cooperative bank" means "a cooperative society, other than a primary agricultural credit society". The primary object or principal business of the "cooperative bank" should be the transaction of banking business.
+</p><p id="p_67">	40. The modifications given in clause (a) of <a href="/doc/52229129/" id="a_60">Section 56</a> are apparently suitable to make the regulatory machinery provided by the BR Act to apply to cooperative banks also in the process of bringing the cooperative banks under the discipline of Reserve Bank of India and other authorities. A cooperative bank shall be construed as a banking company in terms of <a href="/doc/52229129/" id="a_61">Section 56</a> of the Act. This is because the various provisions for regulating the banking companies were to be made applicable to cooperative banks also. Accordingly, <a href="/doc/52229129/" id="a_62">Section 56</a> brought cooperative banks within the machinery of the BR Act but did not amend or expand the meaning of "banking company" under <a href="/doc/176453901/" id="a_63">Section 5(c)</a>. On a plain reading of every clause of Section 56 of the BR Act, it becomes clear that what is contained therein is only for the purpose of application of provisions that regulate banking companies to cooperative societies. According to the expression "cooperative societies" used in <a href="/doc/52229129/" id="a_64">Section 56</a> means a "cooperative society", the primary object or principal business of which is the transaction of banking business. In other words, first it is a cooperative society, but carrying on banking business having the specified paid-up share capital. Other definitions also make it clear that the entities are basically cooperative societies.
+</p><p id="p_68">	The Securitisation and Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_65">Enforcement of Security Interest Act</a>, 2002 (the Securitisation Act)
+</p><p id="p_69">	41. Parliament had enacted the Securitisation and Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_66">Enforcement of Security Interest Act</a>, 2002 ("the Securitisation Act") which shall be deemed to have come into force on 21-6-2002. In Section 2(d) of the Securitisation Act same meaning is given to the words "banking company" as is assigned to it in clause (e) of Section 5 of the BR Act. Again the definition of "banking company" was lifted from the BR Act but while defining "bank", Parliament gave five meanings to it under <a href="/doc/93577912/" id="a_67">Section 2(c)</a> and one of which is "banking company". The Central Government is authorised by <a href="/doc/93577912/" id="a_68">Section 2(c)(v)</a> of the Act to specify any other bank for the purpose of the Act. In exercise of this power, the Central Government by notification dated 28-1-2003, has specified "cooperative bank" as defined in Section 5(cci) of the BR Act as a "bank" by lifting the definition of "cooperative bank" and "primary cooperative bank" respectively from <a href="/doc/52229129/" id="a_69">Section 56</a>, clauses 5(cci) and (ccv) of Part V. Parliament has thus consistently made the meaning of "banking company" clear beyond doubt to mean "a company engaged in banking, and not a cooperative society engaged in banking" and in Act 23 of 1965, while amending the BR Act, it did not change the definition in <a href="/doc/176453901/" id="a_70">Section 5(c)</a> or even in <a href="/doc/176453901/" id="a_71">Section 5(d)</a> to include cooperative banks; on the other hand, it added a separate definition of "cooperative bank" in <a href="/doc/176453901/" id="a_72">Section 5(cci)</a> and "primary cooperative bank" in Section 5(ccv) of Section 56 of Part V of the BR Act. Parliament while enacting the Securitisation Act created a residuary power in <a href="/doc/93577912/" id="a_73">Section 2(c)(v)</a> to specify any other bank as a bank for the purpose of that Act and in fact did specify "cooperative banks" by notification dated 28-1-2003.
+</p><p id="p_70">	42. The context of the interpretation clause plainly excludes the effect of a reference to banking company being construed as reference to a cooperative bank for three reasons: firstly, <a href="/doc/176453901/" id="a_74">Section 5</a> is an interpretation clause; secondly, substitution of "cooperative bank" for "banking company" in the definition in <a href="/doc/176453901/" id="a_75">Section 5(c)</a> would result in an absurdity because then <a href="/doc/176453901/" id="a_76">Section 5(c)</a> would read thus: "cooperative bank" means any company, which transacts the business of banking in India; thirdly, <a href="/doc/52229129/" id="a_77">Section 56(c)</a> does define "cooperative bank" separately by expressly deleting/inserting clause (cci) in <a href="/doc/176453901/" id="a_78">Section 5</a>. Parliament in its wisdom had not altered or modified the definition of "banking company" in Section 5(c) of the BR Act by Act 23 of 1965.
+</p><p id="p_71">	43. As noticed above, "cooperative bank" was separately defined by the newly inserted clause (cci) and "primary cooperative bank" was similarly separately defined by clause (ccv). The meaning of "banking company" must, therefore, necessarily be strictly confined to the words used in Section 5(c) of the BR Act. If the intention of Parliament was to define the "cooperative bank" as "banking company", it would have been the easiest way for Parliament to say that "banking company" shall mean "banking company" as defined in <a href="/doc/176453901/" id="a_79">Section 5(c)</a> and shall include "cooperative bank" and "primary cooperative bank" as inserted in clauses (cci) and (ccv) in <a href="/doc/176453901/" id="a_80">Section 5</a> of Act 23 of 1965.
+</p><p id="p_72">	20. From the aforesaid findings of the Supreme Court (at paragraph 40), it will be evident that the modifications given in Clause (a) of Section 56 of B.R. Act, are to make regulatory measures provided by the B.R. Act to apply to Co-operative Banks also, in bringing the Co-operative Banks under the discipline of the Reserve Bank of India and other authorities. A Co-operative Bank shall be construed as a 'banking company' in terms of Section 56 of the B.R. Act. This is because, the various provisions of regulating banking business were to be made applicable to Co-operative Banks also.
+</p><p id="p_73">	As per the said Section 56 of the B.R. Act, though it may not be bring the Co-operative Banks within the meaning of the 'banking company', but that does not preclude the Central Government to bring a Co-operative Bank under the definition of "banking" as distinct from the 'banking company'.
+</p><p id="p_74">	21. Under Entry 32 of List II (State List) of Seventh Schedule of the Constitution of India, though the "State" has been empowered with regard to "Co-operative Societies", but under Entry 43 read with Entry 45 of List I (Union List) of Seventh Schedule of the Constitution of India, the Central Government has the power of regulation in making laws with regard to "banking", distinct from "banking business". Therefore, it cannot be asserted that the Central Government had no power to introduce <a href="/doc/93577912/" id="a_81">Section 2(c)(v)</a> of the SARFAESI Act, nor the Notification contained in S.O.No.105(E), dated 28.1.2003, can be held to be unconstitutional.
+</p><p id="p_75">	We accordingly hold that 'the respondent-Co-operative Bank' has jurisdiction to proceed under <a href="/doc/152603276/" id="a_82">Section 13</a> of the SARFAESI Act, in view of Notification in S.O.No.105(E), dated 28.1.2003, read with <a href="/doc/93577912/" id="a_83">Section 2(c)(v)</a> of the SARFAESI Act and the first issue is decided accordingly.
+</p><p id="p_76">	22. Apart from the aforesaid facts, it is not in dispute that the petitioners have not challenged the validity of any of the aforesaid provisions; it is the borrower-guarantor who have submitted before the DRT having moved in appeal (application) under <a href="/doc/112742697/" id="a_84">Section 17</a> of the SARFAESI Act, therefore, they cannot challenge the jurisdiction of the DRT."
+</p>
+<p id="p_77">	20.	Material on record shows that Reserve Bank of India, Rural Planning and Credit Department, Chennai, has granted licence to Puducherry State Co-operative Bank Ltd., Puducherry, to carry on banking business. In the letter, dated 08.03.2002, submitted by Mr.Veerappan (since deceased), the borrower and father of the petitioner, the petitioner has signed as a witness. Letter, dated 08.03.2002, is extracted hereunder:
+</p>
+
+<p id="p_78">g[Jr;nrhp
+08/03/2012
+
+tpLeh;.
+</p><p id="p_79">	S.tPug;gd;. j-bg/rPdpthrd;.
+</p><p id="p_80">	rhe;jp khlu;d; iu!; kpy;.
+</p><p id="p_81">	Vk;gyk;/
+bgUeh;.
+</p><p id="p_82">	cah;jpU nkyhd ,af;Feh; mth;fs;
+</p><p id="p_83">	g[Jit khepyf; Tl;Lwt[ t';fp ypl;.
+</p><p id="p_84">	jiyikahfk;. g[Jr;nrhp/
+
+Iah. 
+</p>
+<p id="p_85">	bghUs;: 	t';fp fld; - jtiz jtwpa[s;sJ - 
+</p><p id="p_86">			,Urhy; bra;a fhy mtfhrk; nfhUjy;
+</p><p id="p_87">			- bjhlh;ghf/
+</p><p id="p_88">-----
+</p>
+<p id="p_89">	ehd; j';fsJ Vk;gyk; t';fp fpisapd; K:ykhf fle;j 2004y; vdJ rhe;jp khlu;d; iu!; kpy; bjhHpy; elj;j ntz;o kj;jpa fhy fld; kw;Wk; jdpegh; buhf;ff; fld; bgw;wpUe;njd;/ nkw;go ,uz;L fld;fisa[k; vd;dhy; rhptu fl;l Koatpy;iy/ Mjyhy; ,e;j ,uz;L fld; fzf;FfSk; jtiz fle;Js;sd/ nkw;go fld;fis tR{y; bra;a[k; bghUl;L jh';fs; vdJ brhj;jpd; kPJ epiwntw;W eltof;if nkw;bfhz;Oh;fs;/ mJ jw;nghJ eYitapy; cs;sJ/
+	,d;W 8/3/2012y; j';fs; Kd; Vw;gl;l ngr;Rthh;j;ijapd;go ehd; U:/40.000-= (U:gha; ehw;gjhapuk;)I tUk; 20/03/2012f;Fs; nkw;go fld; fzf;fpy; brYj;jptpl rk;kjpf;fpnwd;/ nkYk; tUk; nk 2012f;Fs; kPjKs;s midj;J fld; ghf;fpfisa[k; tl;o Kjw;bfhz;L brYj;jptpLfpnwd; vd ,jd; K:yk; j';fSf;F cWjp TWfpd;nwd;/ mt;thW brYj;jhtpoy; jh';fs; vdJ brhj;jpd; kPJ midj;J tpw;gid eltof;ifa[k; vLf;f rk;kjpf;fpnwd;/
+,g;gof;F
+xg;gk;-=
+(S/tpug;gd;)
+
+rhl;rp: 	xg;gk;
+</p><p id="p_90">		,katuk;gd;
+</p>
+	
+<p id="p_91">	21.	Same is the case in letter of the borrower, dated 06.01.2015, submitted to the Manager, Puducherry Co-operative Bank Ltd., Puducherry, in which, the petitioner has signed as a witness and the same is extracted: 
+</p><p id="p_92">g[Jr;nrhp
+06/01/2015
+
+tpLeh;.
+</p><p id="p_93">	S.tPug;gd;. 
+</p><p id="p_94">	rhe;jp iu!;kpy;.
+</p><p id="p_95">	nkl;Lj; bjU.
+</p><p id="p_96">	Vk;gyk; m";ry;.
+</p><p id="p_97">    g[Jr;nrhp 605106/
+
+bgUeh;.
+</p><p id="p_98">	cah;jpU nkyhsh; mth;fs;
+</p><p id="p_99">	g[Jit khepyf; Tl;Lwt[ t';fp.
+</p><p id="p_100">	Vk;gyk;;. g[Jr;nrhp/
+
+	bghUs;: 	t';fp flid igry; bra;jy; bjhlh;ghf/
+
+ma;ah.
+</p><p id="p_101">	nkw;Twpa tpyhrj;jpy; trpj;J tUf;fpnwd;/ fle;j khjj;jpy; vdJ mlkhd ,lk; Vyj;jpw;F te;jJ/ Vyk; rk;ke;jkhd fld; bjhifia kw;Wk; kPl;rpd;w njjptiu tl;o kw;Wk; ,ju bryt[fs; cl;gl 31/01/2015 md;WUs; flid KHikahf fl;o Kof;fpd;nwd;/ mg;go jtWk; gl;rj;jpy; jh';fs; eltof;iff;F cl;gLfpnwd;/
+	fld; tiffs; (NFS/CCL IND) ,j;Jld;/
+,g;gof;F
+xg;gk;-=
+(S/tpug;gd;)
+
+rhl;rp: 	xg;gk;
+</p><p id="p_102">		,katuk;gd;
+</p>
+<p id="p_103">	22.	When the petitioner has signed as a witnesss, to the letters, dated  08.03.2002 and 06.01.2015, respectively, submitted by the borrower/his father, it is not open to him to contend that he was not aware of the loan transaction. It is the considered view of this Court that having full knowledge of the loan availed by his father, steps taken by the secured creditor, the petitioner has suppressed the above facts, in the supporting affidavit and feigned ignorance of the same. At this juncture, this Court deems it fit to consider a decision in <a href="/doc/1231549/" id="a_85">Arunima Baruah v. Union of India</a> reported in 2007 (6) SCC 120, wherein, the Hon'ble Supreme Court held as follows:
+</p><p id="p_104">	"12. .......It is also trite that a person invoking the discretionary jurisdiction of the court cannot be allowed to approach it with a pair of dirty hands. But even if the said dirt is removed and the hands become clean, whether the relief would still be denied is the question.
+</p><p id="p_105">	13. In Moody v. Cox [(1917) 2 Ch. 71: (1916-17) All ER Rep 548 (CA)], it was held: (All ER pp. 555 I-556 D)
+	"When one asks on what principle this is supposed to be based, one receives in answer the maxim that anyone coming to equity must come with clean hands. I think the expression clean hands is used more often in the textbooks than it is in the judgments, though it is occasionally used in the judgments, but I was very much surprised to hear that when a contract, obtained by the giving of a bribe, had been affirmed by the person who had a primary right to affirm it, not being an illegal contract, the courts of equity could be so scrupulous that they would refuse any relief not connected at all with the bribe. I was glad to find that it was not the case, because I think it is quite clear that the passage in Dering v. Earl of Winchelsea [(1787) 1 Cox Eq Cas 318: 2 Bos &amp; P 270], which has been referred to, shows that equity will not apply the principle about clean hands unless the depravity, the dirt in question on the hand, has an immediate and necessary relation to the equity sued for." 
+</p><p id="p_106">	14. In Halsburys Laws of England, 4th Edn., Vol. 16, pp. 874-76, the law is stated in the following terms:
+</p><p id="p_107">	1303. He who seeks equity must do equity.In granting relief peculiar to its own jurisdiction a court of equity acts upon the rule that he who seeks equity must do equity. By this it is not meant that the court can impose arbitrary conditions upon a plaintiff simply because he stands in that position on the record. The rule means that a man who comes to seek the aid of a court of equity to enforce a claim must be prepared to submit in such proceedings to any directions which the known principles of a court of equity may make it proper to give; he must do justice as to the matters in respect of which the assistance of equity is asked. In a court of law it is otherwise: when the plaintiff is found to be entitled to judgment, the law must take its course; no terms can be imposed.
+</p><p id="p_108">	*	* *
+	1305. He who comes into equity must come with clean hands.A court of equity refuses relief to a plaintiff whose conduct in regard to the subject-matter of the litigation has been improper. This was formerly expressed by the maxim he who has committed iniquity shall not have equity, and relief was refused where a transaction was based on the plaintiffs fraud or misrepresentation, or where the plaintiff sought to enforce a security improperly obtained, or where he claimed a remedy for a breach of trust which he had himself procured and whereby he had obtained money. Later it was said that the plaintiff in equity must come with perfect propriety of conduct, or with clean hands. In application of the principle a person will not be allowed to assert his title to property which he has dealt with so as to defeat his creditors or evade tax, for he may not maintain an action by setting up his own fraudulent design.
+</p><p id="p_109">	The maxim does not, however, mean that equity strikes at depravity in a general way; the cleanliness required is to be judged in relation to the relief sought, and the conduct complained of must have an immediate and necessary relation to the equity sued for; it must be depravity in a legal as well as in a moral sense. Thus, fraud on the part of a minor deprives him of his right to equitable relief notwithstanding his disability. Where the transaction is itself unlawful it is not necessary to have recourse to this principle. In equity, just as at law, no suit lies in general in respect of an illegal transaction, but this is on the ground of its illegality, not by reason of the plaintiffs demerits.	
+
+</p><p id="p_110">	23.	<a href="/doc/1593707/" id="a_86">In Udayami Evan Khadi Gramodyog Welfare Sanstha v. State of U.P</a>., reported in 2008 (1) SCC 560, at Paragraph 16, the Hon'ble Supreme Court held as follows:
+</p><p id="p_111">	"15. A writ remedy is an equitable one. A person approaching a superior court must come with a pair of clean hands. It not only should not suppress any material fact, but also should not take recourse to the legal proceedings over and over again which amounts to abuse of the process of law.  <a href="/doc/660608/" id="a_87">In Advocate General, State of Bihar v. M/s.Madhya Death Khair Industries and Anr</a>. [1980 (3) SC 311, this Court was of the opinion that such a repeated filing of writ petitions amounts to criminal contempt."
+</p>
+<p id="p_112">	24.	As rightly contended by the Bank, the petitioner, who has approached this Court, with unclean hands, suppressed knowledge of the loan transaction, steps taken by the bank for recovery, is not entitled to any equitable relief. 
+</p>
+<p id="p_113">	25.	During the hearing of this writ petition, the writ petitioner has undertaken not to make any alteration to the building and in this regard, Mr.T.P.Prabhakaran, learned counsel appearing for the petitioner has made submissions. While dismissing the writ petition, it is made clear that the statement made across the bar, shall not be breached. If there is any breach, the bank is at liberty to seek for appropriate relief, including invoking the provisions of the <a href="/doc/1396751/" id="a_88">Contempt of Courts Act</a>, 1971. Though on the facts and circumstances, it is a fit case for imposing costs, we refrain from doing so, hoping that the petitioner would honour the statement made before this Court. 
+</p>
+<p id="p_114">	26.	In the light of the discussion and decisions, there is no ground to issue a Writ of Certiorari, as prayed for. Writ Petition is liable to be dismissed and accordingly, dismissed. No costs.
+</p>
+<p id="p_115">(S.M.K., J.) (M.G.R., J.)
+										   12.01.2017
+Index	: Yes
+Internet : Yes
+
+skm
+
+
+
+
+S.MANIKUMAR, J.
+</p><p id="p_116">AND
+M.GOVINDARAJ, J.
+</p><p id="p_117">skm
+
+
+
+
+
+
+W.P.No.40041 of 2016
+
+
+
+
+
+
+
+
+12.01.2017
+          </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

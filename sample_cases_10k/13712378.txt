@@ -1,0 +1,383 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>R.Ayyanar vs The District Collector on 9 March, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/13712378/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/13712378/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/13712378/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/13712378/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">R.Ayyanar vs The District Collector on 9 March, 2018</div><pre id="pre_1">        
+
+ 
+
+BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT               
+
+DATED: 09.03.2018  
+
+CORAM   
+
+THE HONOURABLE MR.JUSTICE M.SATHYANARAYANAN                
+and 
+THE HONOURABLE MRS.JUSTICE R.HEMALATHA             
+
+W.P.(MD)No.4860 of 2018  
+and 
+W.M.P.(MD)Nos.4859 &amp; 4860 of 2018    
+
+R.Ayyanar                                                 .. Petitioner
+
+Vs.
+
+1. The District Collector,
+    Virudhunagar District,
+    Virudhunagar.
+
+2. The Assistant Director,
+    Geology and Mines Department, 
+    Collectorate, Virudhunagar,
+    Virudhunagar District.                                           ... Respondents
+
+PRAYER : Writ Petition is filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of Constitution of India,
+to issue a Writ of Certiorari, calling for records relating to the impugned
+Tender Notification issued by the first respondent in
+Na.Ka.No.K.V.1/811/2017, dated 02.2018, which is published in Virudhunagar 
+District Gazette Notification No.5, dated 16.02.2018 and to quash the same in
+respect of Schedule Serial No.12 and 13 quarry site in Survey No.705/1 and
+705/II, at Kottaiyur Village, Srivilliputhur Taluk, Virudhunagar District
+respectively alone.
+
+!For Petitioner      : Mr.D.Selvanayagam
+
+For Respondents : Mr.A.K.Baskarapandian,  
+                                          Special Government Pleader 
+                        
+
+:ORDER  
+</pre><p id="p_1"> (Order of the Court was made by M.SATHYANARAYANAN,J.)      
+
+        The writ petition is filed as a 'Public Interest Litigation' by a
+resident of Kottaiyur, Maharajapuram (Via), Srivilliputhur Taluk,
+Virudhunagar District, who said to have carried on agricultural oriental
+business including selling paddy, dal, banana, coconut, etc., and he is also
+an income tax assessee. The grievance expressed by the petitioner is that the
+first respondent had invited tender for granting licence to quarry rough
+stone in Survey No.705/1 and 705/2 at Kottaiyur Village, Srivilliputhur,
+Virudhunagar District, apart from inviting applications in respect of 11
+other sites in Rajapalayam and Vembakottai Taluks.
+</p>
+<p id="p_2">        2. The learned counsel for the petitioner has drawn the attention of
+this Court to the typed set and additional typed set and would submit that
+even prior to the issuance of the impugned Notification, dated 24.02.2018,
+objections were resisted as to the restarting of the stone quarry in the said
+Survey Numbers and in this regard, meetings were also conducted by the 
+residents of Kottaiyur Village and that apart, the Grama Sabha has also
+passed a resolution and forward the same to the first respondent and without
+properly considering their objections, sentiments, the respondents are
+proceeding with the auction. It is the further submission of the learned
+counsel for the petitioner that the tender process in respect of the said
+survey numbers cannot go on, for the reasons enumerated in Paragraph No.3 of
+the affidavit filed in support of this writ petition and it is relevant to
+extract the same:
+</p><p id="p_3">        (i) The proposed quarry site place nearest 50 Meter distance a 100
+years old Pethanaswamy Temple is situated in Survey No.695. 
+</p><p id="p_4">        (ii) There is a river bed viz., Settikuichi river bed, is there in
+Survey No.695 within the distance of 250 meters to the proposed quarry site.
+</p><p id="p_5">        (iii) Another Kadapillaiyarkulam Kanmai is there within 250 meters of
+the proposed quarry site.
+</p><p id="p_6">        (iv) The private coir company along functioning with 60 daily wages
+employees and the same was closed temporarily, it may run any time in future.
+</p><p id="p_7">        (v) From Mavoothu Tank to Kottaiyur Village Drinking Water Pipe line is
+crossed over the proposed quarry site.
+</p><p id="p_8">        (vi) There is the State Highways Road from Madurai to Watrap is crossed
+near the quarry site within 200 meter distance.
+</p><p id="p_9">        (vii) There are 7000 family members are residing Kottaiyur 2nd Grade
+Panchayat Village.
+</p><p id="p_10">        (viii) There is another Reserve Forest is situated 10 KM away from the
+quarry site viz., Sathuragiri Forest Division and Sundarapandian Forest
+Range. 
+</p><p id="p_11">        (ix) There is a Grizzled Squirrel Wildlife sanctuary at Shenbaga
+Thoppu, Srivilliputhur, within 20 kms.
+</p><p id="p_12">        (x) There cannot be any quarry within the sanctuary limit 25
+kilometers.
+</p>        
+<p id="p_13">        3. Attention of this Court has also been invited to the photographs and
+vehement submission of the learned counsel for the petitioner is that in the
+event of the permission being accorded to quarry rough stone, definitely
+explosives would be used and it would definitely cause nuisance and air
+pollution and it would also affect the water body and that apart, about 20
+kms. away, a Grizzled Squirrel Wildlife Sanctuary at Shenbaga Thoppu is
+located and within 10 kms., forests, comes under the jurisdiction of
+Sathuragiri Forest Division and Sundarapandian Forest Range, are also located
+and it will also lead to psychological and     environmental disaster and
+therefore, prays for appropriate orders to quash the impugned Notification
+insofar as the commencement of the quarrying operation in Survey No.705/1 and
+2 of Kottaiyur Village, Srivilliputhur, Virudhunagar District.
+</p>        
+<p id="p_14">        4. The writ petition was listed for admission on 07.03.2018, and this
+Court, after taking into consideration the submissions made by the learned
+counsel for the petitioner, directed the learned Special Government Pleader,
+who had accepted notice on behalf of the respondents 1 and 2 to get
+instructions as to the latest position. Accordingly, the files relating to
+the Notification have been produced before this Court and the learned Special
+Government Pleader has also submitted a Letter dated 08.03.2018, in
+Roc.No.KV1/811/2017, addressed by the Deputy Director of Geology and Mining,  
+Virudhunagar to the learned Special Government Pleader. A perusal of the
+files would disclose that the objections submitted by the petitioner and the
+village people have been forwarded to the Srivilliputhur Revenue Thasildar
+and the Revenue Tahsildar has caused an inspection of the site on 07.09.2017
+and has submitted his report through his communication, dated 15.09.2017,
+addressed to the first respondent.
+</p>        
+<p id="p_15">        5. The Deputy Director of Geology and Mining, Virudhunagar has also
+caused an inspection and he has noted that within a distance of 300 metres,
+there are no residence and it is also located 100 meters away from Alagapuram
+to Watrap Road and beyond 500 meters, water bodies are also situated and 
+within the distance of 50 meters from the quarry site, there is no electric
+line, water resources and no other permanent structures are there and to
+reach the quarry site, access is also available and also indicated that in
+the event of quarrying operation continuing,  the local residents would also
+get employment and against which, made a false complaint. 
+</p>        
+<p id="p_16">        6. In response to the same, the learned counsel for the petitioner has
+invited the attention of this Court to the additional typed set and would
+submit that the assignment Patta have been granted to the people belonging to
+the Scheduled Caste community in land in Survey No.859/2 of Ilanthaikulam
+Village, Srivilliputhur Taluk, Virudhunagar District, has also located
+closure to the water body and in the event of the superstructure being put up
+by the said assignee also, they may be put to difficulty and hardship on
+account of the running of the stone quarry and prays for appropriate orders
+to quash the impugned Notification insofar as the Survey No.705/1 and 2 is
+concerned. 
+</p>        
+<p id="p_17">        7. This Court has carefully considered the rival submissions and also
+perused the materials placed before this Court.
+</p>        
+<p id="p_18">        8. It is relevant to extract Chapter V of Tamil Nadu Minor Mineral
+Concession Rules, 1959, 
+</p><p id="p_19">        36. General restrictions in respect of quarrying operations :-
+        (1) The quarrying permit holder or the lessee or their men shall not
+work or carry on or allow to be worked or carried on any mining operations at
+or to any point within a distance of 50 metres from any railway line except
+with the previous written permission of the Railway administration concerned
+or under or beneath any rope way or any rope way trestle or station except
+under and in accordance with the written permission of the authority owning
+the rope way or from any reservoir, canal or other public works such as
+public roads and buildings 1[ ]1 except with the previous written permission
+of the Collector of the district or any other officer authorised by the State
+Government in this behalf and otherwise than in accordance with such
+instructions, restrictions and conditions, either general or special, which
+may be attached to such permission. The said distance of 50 metres shall be
+measured in the case of railway, reservoir or canal horizontally from the
+outer toe of the bank or the outer edge of the cutting, as the case may be,
+and in case of building horizontally from the plinth thereof. In the case of
+village roads no working shall be carried out within a distance of 10 metres
+and except with the previous permission of the Collector of the District or
+any other officer duly authorised by the State Government in this behalf and
+otherwise than in accordance with such directions, restrictions and
+additions, either general or special, which may be attached to such
+permission:
+</p><p id="p_20">        Provided that notwithstanding anything contained in any law for the
+time being in force or any provision in any lease deed or agreement already
+executed under these Rules, there shall be no quarrying of sand in any river
+bed or adjoining area or any other area which is located within 500 metres
+radial distances from the location of any bridge, water supply system,
+infiltration well or pumping installation of any of the local bodies or
+Central or State Government Department or the Tamil Nadu Water Supply and  
+Drainage Board head works or any area identified for locating water supply
+schemes by any of the above mentioned Government Departments or other bodies.   
+</p>        
+<p id="p_21">        9. Rule 36 of Section V deals with General Restrictions in respect of
+Quarrying Operations.
+</p>        
+<p id="p_22">        10. It is the submission of the learned Special Government Pleader that
+the auction has also been taken place in pursuant to the impugned
+Notification and out of 13 quarries, in respect of 5 quarries, the auction
+was successful and the successful bidder has also remitted 10% of lease
+amount i.e., Rs.30,03,200/- and in respect of S.F.No.705, which is the
+subject matter of the present writ petition, the stone quarry was auctioned
+for an amount of Rs.40,10,000/- in favour of one Krishnakumar and the
+successful bidder in respect of the quarry has also remitted 10% of the lease
+amount and it was also deposited in the Government account and the mandate  
+cast upon the Official respondents as well as the Department of Geology and
+Mining, Rule 36 would be only complied with and also the quarrying operation
+would not cause any inconvenience to the nearby sanctuaries and forests and
+the other submission on instruction, is placed on record.
+</p>
+<p id="p_23">        11. The Revenue Officials as well as the Deputy Director of Geology and
+Mining has carried out the inspection, in pursuant to the complaint /
+representation submitted by the petitioner and other village people and found
+that the location of the stone quarry is well within the norms. It is also to
+be noted at this juncture that previously quarrying operation was carrying on
+in the very same Survey Number and after expiry of the licence, it was not
+carried out for some time. Now, the respondents thought it fit to revive the
+stone quarry and in respect of the Survey No.705/1 and 2, the auction was
+also successful and therefore, this Court is not inclined to interfere with
+the same. 
+</p>        
+<p id="p_24">        12. In the result, the writ petition is dismissed and however, it is
+made clear that the first respondent as well as the Deputy Director of
+Geology and Mining, Virudhunagar District shall carry out periodical
+inspection and if required, surprise inspection in respect of the stone
+quarry site in Survey No.705/ 1 and 2 of Kottaiyur Village, Srivilliputhur,
+Virudhunagar District and depending upon the result of the inspection, shall
+take appropriate action in accordance with law. No costs. Consequently, the
+connected Miscellaneous Petition is closed.
+</p>
+
+<p id="p_25">To
+
+</p><p id="p_26">1. The District Collector,
+    Virudhunagar District,
+    Virudhunagar.
+</p>
+<p id="p_27">2. The Assistant Director,
+    Geology and Mines Department, 
+    Collectorate, Virudhunagar,
+    Virudhunagar District.
+</p>
+<p id="p_28">.
+          </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

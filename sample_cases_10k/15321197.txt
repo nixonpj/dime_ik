@@ -1,0 +1,696 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Shri Kislaya Chandra Jha vs Unknown on 4 April, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/15321197/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1113485/">the Competition Act, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/500379/">The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1056316/">Section 25F in The Industrial Disputes Act,   1947</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/15321197/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/15321197/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=continuity%20of%20service">continuity of service</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=full%20back%20wages">full back wages</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=consequential%20benefits">consequential benefits</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=25f">25f</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2025f">section 25f</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=overtime">overtime</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Shri Kislaya Chandra Jha vs Unknown on 4 April, 2015</div><div class="doc_author">Author: Sh. Narinder Kumar</div>
+
+<pre id="pre_1">                  IN THE COURT OF SHRI NARINDER KUMAR
+                  ADDITIONAL DISTRICT &amp; SESSIONS JUDGE
+                  PRESIDING OFFICER : LABOUR COURT-XIX
+                      KARKARDOOMA COURTS : DELHI.
+
+LIR/D No. 1142/2011 (Instituted on 22.2.2010)
+Unique Case ID No. 02402C0 051832010
+
+Shri Kislaya Chandra Jha S/o Shri Tej Narayan Jha
+C/o Universal Prowtist Labour Federation (Regd.)
+F-30/5, Opposite A-92,
+Okhla Industrial Area Phase-2,
+New Delhi - 110 020                        ............CLAIMANT/WORKMAN
+      Versus
+
+M/S Uni Air Cargo Pvt. Ltd.
+A-111, Mahipalpur Extension
+Road No. 4, Gali No. 10,
+New Delhi - 110 037                          ............MANAGEMENT
+
+               Date of institution of the case    : 22.02.2010
+               Date of passing the Award          : 04.04.2015
+
+AWARD
+       Claimant named above, filed his statement of claim directly before this
+
+Court under <a href="/doc/500379/" id="a_1">Section 10-4(A)</a> of the Industrial Disputes Act (hereinafter referred
+
+to as the Act), challenging termination of his service by the management,
+
+named above, on 01.6.2009, from the post of Cargo Assistant.
+
+Case of claimant/workman :
+
+2.     In brief, case of the claimant, as per his statement of claim is that he
+
+joined with the management as Cargo Assistant on 01.7.1993 and the last
+
+drawn monthly wages, drawn by him were @ Rs.5000/-.
+
+       On 08.2.2007, while he was handling/loading a box weighing 1400 kgs,
+
+at the godown of the management, his right foot got injured. Management
+
+
+LIR/D No. 1142/2011                                                       1 of 12
+ assured him of compensation, but ultimately did not pay any amount. It is case
+
+of the claimant that, from time to time, he has been raising demands like
+
+appointment letter, attendance card, payslip, yearly casual leave, overtime,
+
+bonus, leave book etc. but the management did not provide him any such
+
+facility. Ultimately, on 01.6.2009, the management expelled him from service
+
+without making him payment for the month of May 2009, towards overtime,
+
+earned leave, bonus or any amount towards provident fund. He was not served
+
+with any notice or paid any service compensation . As alleged by the claimant,
+
+his services have been termination in violation of <a href="/doc/1056316/" id="a_2">Section 25-F</a> of the Act.
+
+       As regards steps taken by him after termination of his serice, workman
+
+has alleged that he sent demand notice dt. 29.8.2009 to the management, but
+
+the management failed to give any response. Case of claimant is that he is
+
+entitled to reinstatement with continuity in service and full back wages
+
+alongwith all consequential benefits, having remained unemployed ever since
+
+termination of his services.
+
+Version of Management :
+
+3.     In its written statement, management has pleaded that the management
+
+company was incorporated as a private limited company on 10.10.2001,
+
+although it started functioning from July 1996. In this way, management has
+
+denied the claim of claimant that he started working with the management
+
+since 1993.
+
+       Case of the management is that actually the claimant joined the
+
+management in October 1996. He absented from duty w.e.f. 15.4.2010.
+
+LIR/D No. 1142/2011                                                           2 of 12
+          Management has denied incident dt. 08.2.2007 while pleading that the
+
+claimant was not detailed for any loading/unloading of goods on that day.
+
+Rather, on that day, during the process of loading by the Loading Party of
+
+Param Cargo Movers, the claimant entered in drunken condition and a packet
+
+weighing 1400 kgs fell on his right leg. He was immediately removed to Indian
+
+Spinal Injury Centre, Vasant Vihar, New Delhi. The entire expenditure to the
+
+tune of Rs.1,55,000/-, for treatment of the claimant, was borne by the
+
+management.
+
+         After the claimant suffered injuries on 08.2.2007, in the manner indicated
+
+above, he remained on leave up to March 2008, i.e. for about a year. Payment
+
+of this period was made to the claimant at his residence. He joined office in
+
+April 2008 and upto 15.4.2009, his services were utilized for light duties. Case
+
+of management is that the claimant was duly paid all his payment and other
+
+expenses upto 15.4.2009 and he acknowledged the same.
+
+         Management has denied to have removed the claimant from service but
+
+pleaded that he started absenting from duty from 15.4.2010 (sic-actually
+
+15.04.2009) without intimation and as such management has not violated any
+
+statutory provisions.
+
+         On the aforesaid pleas, management has prayed for rejection of the
+
+claim.
+
+
+
+Points for determination :
+4.             From the pleadings of the parties, following issues were framed on
+
+
+LIR/D No. 1142/2011                                                          3 of 12
+ 29.7.2010 :
+       1.</pre><p id="p_1"> Whether the services of the workman have been
+           terminated illegally and/or unjustifiably by the
+           management? OPW
+</p><p id="p_2">       2. Relief.
+</p><p id="p_3">Evidence :
+</p><p id="p_4">5.     In order to prove his case, workman has stepped into witness box as
+
+WW1 and tendered in evidence his affidavit Ex.WW1/A and documents
+
+Ex.WW1/1 to WW1/4.
+</p>
+<p id="p_5">       On the other hand, management has examined MW1 - Shri Kuldeep
+
+Singh - its Director. MW1 has tendered in evidence his affidavit Ex.MW1/A and
+
+documents Ex.MW1/1 to MW1/5.
+</p>
+<p id="p_6">6.             I have heard learned Authorized Representatives for the parties
+
+and have gone through the record.
+</p>
+<p id="p_7">Discussion :
+</p>
+<p id="p_8">Issue No. 1 (Whether the services of the workman have been terminated
+illegally and/or unjustifiably by the management?)
+
+</p><p id="p_9">7.     As noticed above, workman has come up with the averments that he got
+
+employed with the management as Cargo Assistant in the year 1993, but
+
+management has denied that he joined in the year 1993. Plea of management
+
+is that he joined in October 1996. Despite opportunity, workman did not file any
+
+rejoinder so as to controvert the plea put forth by the management that he
+
+actually joined in October 1996.
+</p>
+<p id="p_10">       In his affidavit, the claimant has testified having joined the management
+
+on 01.07.1993 but at the same time further testified that he was so appointed
+
+verbally and no appointment letter was issued to him. Workman, at no point of
+
+LIR/D No. 1142/2011                                                       4 of 12
+ time reported the matter to labour office regarding non issuance of appointment
+
+letter to him by the management, although he had joined on 01.07.1993. He
+
+has placed on record Ex. WW1/III i.e. Copy of Identity Card which depicts his
+
+employee code and date of joining as 01.07.1994. There is nothing on record to
+
+suggest that this identity card was not issued by the management or that the
+
+same is a forged and fabricated document. In his cross examination, the
+
+workman was suggested that his identity card was issued in the year 1994 and
+
+the workman admitted this suggestion.
+</p>
+<p id="p_11">       From the above evidence available on record, it stands proved that the
+
+workman was employed with the management on 01.07.1994 as Cargo
+
+Assistant.
+</p>
+<p id="p_12">Incident dated 08.02.2007
+
+</p><p id="p_13">8.     As testified by the workman in his affidavit Ex. WW1/A, while performing
+
+duties in the store/godown of the management on 08.02.2007, in the process of
+
+loading and unloading, his right leg got injured and as a result, he is not in the
+
+capacity to do the job he used to perform earlier. He has further testified that
+
+management incurred some medical expenditure but did not provide him
+
+compensation in Workman's <a href="/doc/1113485/" id="a_3">Compensation Act</a>, despite repeated assurances.
+
+Ultimately w.e.f. 01.06.2009 he was refused employment and his earned wages
+
+for the month of May 2009 and overtime wages were withheld. He was also not
+
+paid the contributions made towards PF.
+</p>
+<p id="p_14">               On the other hand, management has come up with the version that
+
+on 08.02.2007, while loading party of Param Cargo Movers was busy in loading
+
+LIR/D No. 1142/2011                                                         5 of 12
+ process, the claimant, while under the influence of liquor, came there and
+
+suffered injury on his right leg due to fall of a parcel weighing 1400 kg.
+
+Management has also pleaded to have removed the workman to Indian Spinal
+
+Injury, Vasant Vihar, Delhi.
+</p>
+<p id="p_15">9.             It was suggested by the management to the workman (WW1) in
+
+his cross examination that he suffered injury on his right leg on 08.02.2007 due
+
+to his own fault, but the workman denied this suggestion. However, he admitted
+
+that management had taken him to hospital. He admitted to have given in
+
+writing his statement to the Investigating Officer of criminal matter but denied to
+
+have stated therein that he had suffered injuries due to his own negligence.
+
+</p><p id="p_16">               Ex. WW1/M1 is copy of statement of claim given before ASI Ram
+
+Singh of PS Vasant Kunj. When attention of the witness/workman was drawn to
+
+this statement, in his cross examination, he admitted that the same is in his
+
+handwriting.
+</p>
+<p id="p_17">               It is true that in Ex. WW1/M1 given in writing by the workman to
+
+the police, it stands recorded that on 08.02.2007 at about 6 pm when he was in
+
+the process of loading of a heavy wooden box, with the aid of others in a Tata
+
+407, the wooden box lost balance while he was placing a brick under it. As a
+
+result, the box fell on his right let and he suffered injury. He specifically
+
+mentioned therein that persons from the management immediately removed
+
+him to hospital. Even Sh. Kuldeep Singh, employer of the management also
+
+reached the hospital. In that statement, he did not attribute any negligence or
+
+wrongful act to anyone else. In this manner, he opted not to initiate legal action
+
+LIR/D No. 1142/2011                                                          6 of 12
+ against anyone.
+</p>
+<p id="p_18">10.    The fact remains that the workman suffered injury on his right leg on
+
+08.02.2007 in the course of employment, while serving as Cargo Assistant.
+
+Admittedly, he was got medically treated and medical expenditure was incurred
+
+by the management, although, according to the workman, management
+
+incurred medical expenditure only to some extent.
+
+</p><p id="p_19">               On the other hand, management has come up with the plea that all
+
+medical expenses were borne by it. Workman has not led any evidence to
+
+suggest as to how much he had to incur from his own pocket for his medical
+
+treatment due to aforesaid injury suffered in the course of employment.
+
+Termination/Abandonment:
+</p>
+<p id="p_20">11.    Workman has testified that management terminated his services w.e.f.
+
+01.06.2009, but management has pleaded that the workman has been
+
+absenting from duties without leave w.e.f. 15.04.2009.
+
+</p><p id="p_21">       It was suggested to the workman (WW1) in his cross examination that he
+
+did not report for duty with the management since 15.04.2009. The workman
+
+denied this suggestion. He further denied to have left for his native village in
+
+Kabirpur and to have returned in May 2009 or to have received balance
+
+towards salary for the month of April/May 2009. He also denied to have left job
+
+with the management. He further denied to have remained on leave from 2007
+
+to May 2009. In the next breath, he admitted that he was at his house for 18
+
+months, for which he was paid salary by the management. But it is not clear in
+
+his statement as to which period of 18 months he referred to.
+
+</p><p id="p_22">LIR/D No. 1142/2011                                                       7 of 12
+        Management alleges that he was made all payments and other expenses
+
+upto 15.04.2009. Management has proved on record attendance register
+
+collectively exhibited as Ex. MW1/4. As per this register, which is from April
+
+2006 to May 2009, the workman was on leave w.e.f. 09.02.2007 to 31.03.2008.
+
+From 01.04.2008 his presence stands recorded as per this document. Then in
+
+April 2009, he has been shown to be on leave i.e. from 15.04.2009 onwards.
+
+</p><p id="p_23">       He was not shown absent from that date i.e. 15.04.2009. Had he been
+
+shown absent from 15.04.2009 onwards, then the matter would have been
+
+otherwise. Since he was shown to be on leave from 15.04.2009 onwards, it
+
+was for the management to issue notice to the workman calling upon him either
+
+to report for duties or explain his absence. In his cross examination MW1 has
+
+admitted that he has not placed on record any such letter said to have been
+
+sent to the workman calling upon him to join duties. MW1 further admitted to
+
+have not issued any charge sheet to the workman for his absence.
+
+</p><p id="p_24">12.    On his part, the workman issued demand notice dated 29.08.2009 to the
+
+management. Management has admitted to have received demand notice but
+
+at the same time pleaded to have replied the same. It is so available in the
+
+cross examination of MW1. The reply is dated 12.09.2009. It is significant to
+
+note that in this document, the management nowhere alleged that the workman
+
+had started absenting from 15.04.2009 or that despite letters/reminders he was
+
+not attending his job. Had he been absenting, as pleaded by the management,
+
+this fact must have found specific mention in this reply to the demand notice.
+
+</p><p id="p_25">       From the material available on record, this court finds that workman has
+
+LIR/D No. 1142/2011                                                        8 of 12
+ proved that the management terminated his services and management has
+
+failed to prove that it is a case of absenteeism or abandonment of service of the
+
+workman. This issue is decided accordingly in favour of the workman and
+
+against the management.
+</p>
+<p id="p_26">Relief
+
+</p><p id="p_27">13.      As noticed above, workman got employed with the management on
+
+01.07.1994. He was in continuous service with the management. During
+
+employment when he suffered injury, he proceeded on leave but ultimately
+
+joined in April 2008. Under <a href="/doc/1113485/" id="a_4">Section 25F</a> of the Act, management was required
+
+to comply with the following pre-conditions before terminating his services:-
+
+</p><blockquote id="blockquote_1">               No workman employed in any industry who has been in
+         continuous service for not less than one year under an employer
+         shall be retrenched by that employer until-
+</blockquote><blockquote id="blockquote_2">               a.     the workman has been given one month's notice in
+         writing indicating the reasons for retrenchment and the period of
+         notice has expired, or the workman has been paid in lieu of such
+         notice, wages for the period of the notice
+               b.     the workman has been paid, at the time of
+         retrenchment, compensation which shall be equivalent to fifteen
+         days' average pay (for every completed year of continuous
+         service) or any part thereof in excess of six months; and
+               c.     notice in the prescribed manner is served on the
+         appropriate Government (or such authority as may be specified
+         by the appropriate Government by notification in the Official
+         Gazette.)
+               Herein, it is not case of the management that one month's notice
+
+
+
+LIR/D No. 1142/2011                                                          9 of 12
+ was issued to the claimant or he was paid in lieu of such notice, wages for the
+
+notice period or that management sought requisite prior permission of the
+
+government.
+</blockquote>
+<p id="p_28">14.            As a result, this court finds that this is a case where management
+
+has not complied with the conditions precedent as provided u/s 25F of the Act.
+
+So the management terminated the services of the workman in violation of
+
+provisions of <a href="/doc/1113485/" id="a_5">Section 25F</a> of the Act.
+</p>
+<p id="p_29">               In view of the above findings, this issue is decided in favour of
+
+workman and against the management.
+</p>
+<p id="p_30">ISSUE No. 2/Relief :
+</p>
+<p id="p_31">15.            In view of the findings recorded above that the management
+
+terminated services of the workman illegally without complying with the
+
+conditions as laid down in <a href="/doc/1113485/" id="a_6">Section 25F</a> of the Act, this court finds that workman
+
+is entitled to reinstatement in service with continuity in service and other
+
+consequential benefits.
+</p>
+<p id="p_32">On the point of back wages
+
+</p><p id="p_33">16.            Workman has testified in his affidavit that ever since termination of
+
+his service, he has not been able to get any employment. Learned AR(M) has
+
+referred to the cross examination of the workman wherein he admitted that he
+
+has been running a panwari shop at his house and as such, submitted that
+
+workman is not entitled to any back wages. Management has not led any
+
+evidence to suggest that ever since 01.06.2009 the workman gainfully got
+
+employed anywhere else.
+</p>
+<p id="p_34">LIR/D No. 1142/2011                                                          10 of 12
+                As to what is to be taken into consideration while granting back
+
+wages, in Deepali Gundu Surwase Vs. Kranti Junior Adhyapak
+
+Mahavidyalaya (D.Ed.) &amp; Others CDJ 2013 SC 765, Hon'ble Apex Court has
+
+observed as under:-
+</p>
+<blockquote id="blockquote_3">       "The very idea of restoring an employee to the position which he
+       held before dismissal or removal or termination of service implies
+       that the employee will be put in the same position in which he
+       would have been but for the illegal action taken by the employer.
+       The injury suffered by a person , who is dismissed or removed or
+       is otherwise terminated from service cannot easily be measured
+       in terms of money. With the passing of an order which has the
+       effect of severing the employer-employee relationship, the latter's
+       source of income gets dried up. Not only the employee
+       concerned, but his entire family suffers grave adversities. They
+       are deprived of the source of sustenance. The children are
+       deprived of nutritious food and all opportunities of education and
+       advancement in life. At times, the family has to borrow from the
+       relatives and other acquaintance to avoid starvation. These
+       sufferings continue till the competent adjudicatory forum decides
+       on the legality of the action taken by the employer. The
+       reinstatement of such an employee, which is preceded by a
+       finding of the competent judicial/quasi judicial body or court that
+       the action taken by the employer is ultra vires the relevant
+       statutory provisions or the principles of natural justice, entitles
+       the employee to claim full back wages. If the employer wants to
+       deny back wages to the employee or contest his entitlement to
+       get consequential benefits, then it is for him/her to specifically
+       plead and prove that during the intervening period the employee
+       was gainfully employed and was getting the same emoluments.
+       The denial of back wages to an employee, who has suffered due
+       to an illegal act of the employer would amount to indirectly
+       punishing the employee concerned and rewarding the employer
+       by relieving him of the obligation to pay back wages including the
+       emoluments".
+</blockquote>
+<p id="p_35">17.            It is true that in his cross examination, workman has admitted that
+
+he has been running a panwari shop at his house, but in the same breath he
+
+explained that it was being run by his son Sumit, a student of X standard and
+
+
+LIR/D No. 1142/2011                                                          11 of 12
+ that too in the evening shift. He further stated that the shop remained closed
+
+when his son was away to school. In view of the above discussion and in view
+
+of the well settled law, when management has not been able to lead any cogent
+
+and convincing evidence, that the workman remained gainfully employed w.e.f.
+
+01.06.2009, he is held entitled to full back wages w.e.f. 01.06.2009.
+
+</p><p id="p_36">18.            In view of the findings on the aforesaid issue, the workman is held
+
+entitled to reinstatement with continuity in service, full back wages and other
+
+consequential benefits.
+</p>
+<p id="p_37">               Let copy of Award be sent for publication and file be consigned to
+
+Record Room.
+</p>
+<p id="p_38">ANNOUNCED IN OPEN COURT
+ON 04th Day of April 2015
+                                                (Narinder Kumar)
+                                         Addl. District &amp; Sessions Judge
+                                        Presiding Officer Labour Court-XIX
+                                           Karkardooma Courts, Delhi
+
+
+
+
+LIR/D No. 1142/2011                                                          12 of 12
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

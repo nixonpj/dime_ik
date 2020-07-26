@@ -1,0 +1,381 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sri Shivanna vs Sri Chandrashekar B K on 19 June, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/47621265/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/47621265/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/47621265/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/47621265/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Sri Shivanna vs Sri Chandrashekar B K on 19 June, 2019</div><div class="doc_author">Author: S.N.Satyanarayana</div>
+
+<pre id="pre_1">                            1
+
+       IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+           DATED THIS THE 19TH DAY OF JUNE 2019
+
+                         BEFORE
+
+        THE HON'BLE MR. JUSTICE S.N.SATYANARAYANA
+
+          WRIT PETITION NO.5811 OF 2018 [KLR-RES]
+
+
+BETWEEN:
+
+SRI SHIVANNA
+S/O CHIKKA MUNIYAPPA,
+AGED ABOUT 52 YEARS,
+R/AT ENDARASANAHALLI VILLAGE,
+KUNDANA HOBLI,
+DEVANAHALLI TALUK,
+BENGALURU RURAL DISTRICT.                 ... PETITIONER
+
+(BY SRI. M. SHIVAPRAKASH, ADV )
+
+AND:
+
+1.     SRI CHANDRASHEKAR B K
+       S/O K KRISHNAPPA,
+       AGED ABOUT 40 YEARS,
+       R/AT NO. 108,
+       6TH MAIN, 2ND CROSS,
+       WCR, SIDDAGANGA
+       CHOULTRY ROAD,
+       MANJUNATHA NAGARA,
+       BENGALURU - 560 010.
+
+2.     THE ASSISTANT COMMISSIONER
+       BENGALURU NORTH DIVISION,
+       KHANDAYA BHAVANA, K.G.ROAD,
+       BENGALURU - 560 009.
+                           2
+
+3.   THE DEPUTY COMMISSIONER
+     BENGALURU DISTRICT,
+     K.G.ROAD,
+     BENGALURU - 560 009.
+
+4.   THE TAHASILDAR
+     BENGALURU NORTH (ADDL) TALUK,
+     YELAHANKA,
+     BENGALURU - 560 064
+
+5.   THE REVENUE INSPECTOR
+     ARAKERE CIRCLE,
+     HESARAGHATTA HOBLI,
+     BENGALURU NORTH TALUK,
+     BENGALURU DISTRICT - 560 064
+
+6.   SRI K PRABHAKAR REDDY
+     S/O LATE SUNDARA RAMA REDDY,
+     AGED ABOUT 67 YEARS,
+     NO.204, 9TH CROSS,
+     H.M.T.LAYOUT, R.T.NAGAR,
+     BENGALURU - 560 032.
+
+7.   SRI SONNAPPA
+     S/O NARAYANAPPA,
+     KUNDANA VILLAGE,
+     KUNDANA HOBLI,
+     DEVANAHALLI TALUK,
+     BENGALURU RURAL DISTRICT - 562 110
+                                        ... RESPONDENTS
+(BY SRI. MANJUNATH G. KANDEKAR, ADV., FOR R1;
+SRI. VENKATESH DODDERI, AGA FOR R2 TO R5]
+
+     THIS WRIT PETITION IS FILED UNDER ARTICLES 226 AND
+227 OF THE CONSTITUTION OF INDIA PRAYING TO QUASH THE
+ORDER DTD 20.08.2017 PASSED IN R.P.319/12-13 BY THE R-3
+VIDE ANNEXURE-A.
+
+    THIS WRIT PETITION COMING ON FOR PRELIMINARY
+HEARING, THIS DAY, THE COURT MADE THE FOLLOWING:
+                                  3
+
+
+
+                             ORDER
+</pre>
+<p id="p_1">     Learned Additional Government Advocate takes notice
+
+for Respondents 2 to 5. Insofar as Respondent No.1 is
+
+concerned, he has already entered appearance by caveat
+
+through learned counsel Sri. Manjunath G. Kandekar, who is
+
+present before this Court.
+</p>
+<p id="p_2">
+</p><p id="p_3">     2.    Petitioner   herein       is   claiming   that    he   has
+
+purchased land bearing Sy. No.17/3 of Sreeramanahalli
+
+Village, Hesaraghatta Hobli, Bengaluru North Taluk, under
+
+registered sale deed from Respondent No.7 as General Power
+
+of Attorney holder of Respondent No.6 and sought for
+
+registration of khata of the said land in his name.           In the
+
+meanwhile, it is seen that the Respondent No.6, after granting
+
+general power of attorney in favour of Respondent No.7 with
+
+reference to the same land, has independently transacted
+
+with other persons in creating confusion regarding title of the
+
+petitioner with reference to the very same land.            When the
+
+matter stood thus, it is seen that the mutation entries said to
+<span class="hidden_text" id="span_1">                                  4</span>
+
+
+have made in favour of the petitioner was subject matter of
+
+challenge     before     the      Respondent         No.2-Assistant
+
+Commissioner in proceedings No.RA.625/2007-08, which
+
+came to be disposed of by order dated 18.06.2010 vide
+
+Annexure-L.
+</p>
+<p id="p_4">
+</p><p id="p_5">      3.    The grievance of the petitioner is that the said
+
+order at Annexure-L was challenged nearly after two years by
+
+the Respondent No.1 who is also claiming title on the very
+
+same property under a registered sale deed executed by
+
+Respondent No.6 himself in his individual capacity. The said
+
+revision petition registered as R.P. No.319/2012-13 came up
+
+for   consideration    before   the   Respondent      No.3-Deputy
+
+Commissioner     which    is    disposed   of   by    order   dated
+
+28.08.2017 which is at Annexure-A to the writ petition.
+
+
+</p><p id="p_6">      4.    The petitioner herein is challenging the said order
+
+on    the   premise    that     the   Respondent      No.3-Deputy
+
+Commissioner did not have any right to entertain the revision
+
+petition in RP No.319/2012-13 to interfere with the order of
+<span class="hidden_text" id="span_2">                                   5</span>
+
+
+the Respondent No.2 dated 18.06.2010. Admittedly, there is
+
+dispute between the petitioner, Respondent No.1 as well as
+
+Respondents 6 and 7 in this proceedings with reference to
+
+title to the land bearing Sy. No.17/3 of Sreeramanahalli
+
+Village,   Hesaraghatta       Hobli,   Bengaluru   North   Taluk,
+
+measuring 3 acres 9 guntas, which is subject matter of two
+
+sale deeds, thereby indicating that there is dispute of title
+
+with reference to the said land.
+</p>
+<p id="p_7">
+</p><p id="p_8">      5.    In that view of the matter, the order of the
+
+Respondent No.2 directing the Tahsildar to register the khata
+
+of the said property in the name of one of the persons is not
+
+permissible.   Therefore, the revenue entries which is now
+
+registered in the name of the petitioner shall be continued as
+
+subject to litigation in OS No.167/2009 and the same shall
+
+continue as it is, until the said suit is decided on merit with
+
+reference to the title to the property bearing Sy. No.17/3 of
+
+Sreeramanahalli    Village,     Hesaraghatta   Hobli,   Bengaluru
+
+North Taluk.    Therefore, the order of the Respondent No.2
+<span class="hidden_text" id="span_3">                                 6</span>
+
+
+appears to be correct which cannot be interfered. It is made
+
+clear that the Tahsildar shall refer to the order passed in this
+
+writ petition as well as pendency of original suit in OS
+
+No.167/2009 on the file of the Principal Civil Judge [Sr. Dn.,],
+
+Bengaluru Rural District, and the same shall be subject to
+
+outcome of the said suit.       The necessary entries shall be
+
+carried out immediately in the RTC of Sy. No.17/3 of
+
+Sreeramanahalli    Village,   Hesaraghatta     Hobli,   Bengaluru
+
+North Taluk, within two weeks from today.
+
+
+</p><p id="p_9">       6.   With   such observation,    this    writ    petition is
+
+disposed of.
+</p>
+<p id="p_10">
+</p><p id="p_11">       Learned Additional Government Advocate to file memo
+
+of appearance within two weeks.
+</p>
+<p id="p_12">
+
+
+</p><p id="p_13">                                              Sd/-
+</p><p id="p_14">                                             JUDGE
+
+
+
+AN/-
+</p>  
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

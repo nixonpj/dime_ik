@@ -1,0 +1,902 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Tarun Kumar Chowdhury vs Union Of India (Uoi) And Ors. on 17 May, 1989</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1402858/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1402858">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/551882/">Amar Kant Choudhary vs State Of Bihar &amp; Ors on 3 January, 1984</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/365151/">Baldev Raj Chadha vs Union Of India &amp; Ors on 18 August, 1980</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1268556/">Brij Mohan Singh Chopra vs State Of Punjab on 11 March, 1987</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1342309/">Article 310 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/399893/">Gurdial Singh Fijji vs State Of Punjab &amp; Others on 9 March, 1979</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/1059028/">Rajyaguru K.H. vs Secretary, Gujarat Electricity ... on 8 April, 2002</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/40036598/">Babuddin vs M/O Railways on 18 October, 2019</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/34856228/">Ram Swaroop vs M/O Railways on 18 October, 2019</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/100471988/">Abdul Wahid vs M/O Railways on 18 October, 2019</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/71597438/">Naroo Singh vs M/O Railways on 18 October, 2019</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1402858/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1402858/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=confidential%20report">confidential report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=calcutta%20port">calcutta port</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=compulsory%20retirement">compulsory retirement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kolkata%20port%20trust">kolkata port trust</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dumping">dumping</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adverse%20entry%20">adverse entry </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=annual%20confidential%20report">annual confidential report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=annual%20confidential%20reports%20%20%20filter%3A%20%20%20acr%20union%20of%20india%20vs%20case%20laws">annual confidential reports   filter:   acr union of india vs case laws</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=river">river</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fundamental%20rules">fundamental rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=premature%20retirement">premature retirement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adverse%20remarks">adverse remarks</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=work%20order">work order</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=annual%20report">annual report</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reviewing%20officer">reviewing officer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=government%20employee">government employee</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=deviation">deviation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rule%2056%28j%29%20of%20the%20fundamental%20rules%20">rule 56(j) of the fundamental rules </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=56%20j%20fundamental%20rules">56 j fundamental rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=doubtful%20integrity">doubtful integrity</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">Tarun Kumar Chowdhury vs Union Of India (Uoi) And Ors. on 17 May, 1989</div><div class="doc_citations">Equivalent citations: (1992) ILLJ 30 Cal</div>
+
+<div class="doc_author">Author: A K Sengupta</div>
+
+<div class="doc_bench">Bench: A K Sengupta</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+Ajit Kumar Sengupta, J. 
+</p> 
+
+<p id="p_2"> 1. In this writ petition the petitioner has challenged the validity of the order dated December 9, 1987 passed by the then Chairman, Calcutta Port Trust, under Rule 56(J) of the Fundamental Rules compulsorily retiring the petitioner from service. The petitioner preferred an appeal before the Appellate Authority against such compulsory retirement which was rejected. At the time when the said Order was passed, the petitioner was holding the post of Senior Executive Engineer. It is contended on behalf of the petitioner that the said Order of compulsory retirement under Rule 56(J) of the Fundamental Rules is illegal and without jurisdiction and the said Rule 56(J) has no application to the facts and circumstances of this case. It is further contended that the said Order has been passed maliciously behind the back of the petitioner without observing the fundamental principles of natural justice, fair play and equitable justice and particularly overlooking and ignoring the material facts regarding the efficiency and credibility of the petitioner during his long service career. The contention of the petitioner is that the compulsory retirement in this case means victimisation without there being any justification. It is further contended that the said Order of compulsory retirement has been made in violation of the procedure laid down in Rule 56(J) of the Fundamental Rules as no Review Committee was appointed six months before the petitioner attained the age of 50 years. It is further contended that the specific act of misconduct has been concocted or manufactured for the oblique reason to retire the petitioner compulsorily.
+</p> 
+
+<p id="p_3">2. It is contended by the Respondents that the Fundamental Rules are applicable to the case of the employees of the Board of Trustees for the Port of Calcutta, as the Fundamental Rules were adopted by the Commissioners of the Port of Calcutta with all its amendments by Resolution No. 270 passed at the meeting of the Commissioners dated March 20, 1984. This was duly sanctioned by the Central Government. It is also contended by the respondents that the records produced would show that sufficient materials were before the Review Committee to arrive at the decision to compulsorily retire the writ petitioner. It has also been contended there is a right of appeal and the petitioner also preferred an appeal which was rejected. It was submitted that after the order of compulsory retirement was passed by the Chairman, Calcutta Port Trust, it was merged into the order of the Appellate Authority and unless it can be shown that the order of the Appellate Authority is defective in law, the petitioner is not entitiled to succeed.
+</p> 
+
+<p id="p_4">3. To appreciate the contentions of the parties, it is necessary to set out the backgrounds of this case. Sometime in the month of July, 1960 petitioner was appointed as Assistant Engineer by the Calcutta Port Trust (previously Calcutta Port Commissioners). He was promoted to the post of Junior Executive Engineer in September, 1965 and was posted at Durgachawk, Haldia for commencement of the Haldia Dock Project along with other ancillary works. The petitioner was thereafter again promoted to the post of Senior, Executive Engineer in March, 1975. The petitioner was considered for the post of Deputy Chief Engineer in terms of the recommendations made by the Competent Authority in February, 1987. There was no adverse report and/or remark made during the long tenure of service and no communication whatsoever was ever made at any point of time till the date of the order of compulsory retirement. Throughout his long service tenure for more than 27 years, the petitioner contended that he had been discharging his duties and functions attached to the posts efficiently, honestly and sincerely. He was successful in using unconventional materials for the first time in the construction of Noorpur Spurs River Hooghly and he published a paper on the said subject in the Irrigation and Power Journal, Government of India. As Senior Executive Engineer the petitioner took charge of final dock basin dredging work at Haldia Dock sometime in 1975 and he completed the work within the stipulated time schedule and earned a rebate of Rs. 90 lakhs for the Port Trust from the Dredging Corporation of India. The petitioner was often assigned with important assignments which were carried into execution to the entire satisfaction of the authorities concerned. The petitioner's article on the subject of "Development of manually usable composite materials for use in River Graining Work in the Hoogly Estuary" was highly appreciated and accepted by the Institute of Engineers (India). The petitioner attended his office and discharged his duties and functions on both December 9 &amp; 10, 1987. On December 10, 1987 suddenly the petitioner was served with an order dated December 9, 1987, issued by the Chairman, Calcutta Port Trust under Rule 56(J) of the Fundamental Rules purporting thereby to retire the petitioner from service compulsorily with effect from the forenoon of December 10, 1987 and a cheque of three months pay, in lieu of notice was enclosed therewith. Petitioner was left with about 6 years to attain the normal age of superannuation i.e. 58 years. Petitioner was never communicated and/or served with any communication adverse to the interest of the Calcutta Port Trust.
+</p> 
+
+<p id="p_5">4. It is necessary to consider the proceedings of the Meeting of the Review Committee held on November 25, 1987 where the decision was taken to compulsorily retire two of the officers including the petitioner. The Review Committee consisted of the Chairman, Deputy Chairman, Chief Engineer and Secretary of the Calcutta Port Trust. The order/decision of the Review Committee as regards the petitioner is as follows:
+</p><p id="p_6">  "As regards Shri T.K. Chowdhury, the Committee observed that the concerned officer had exhibited lack of integrity by showing undue favour to certain private contractors. General reputation of Shri Chowdhury was reported to be unsatisfactory. After going through the performance of the concerned officer, general reputation, effectiveness of work and doubtful integrity, the Committee recommended that, in the public interest, Shri T.K. Chowdhury, Sr. Executive Engineer, should be compulsorily retired under F.R. Section 56(J) immediately." 
+</p> 
+
+<p id="p_7">It would therefore appear from the proceeding of the Review Committee that the Committee considered the Vigilance Reports received from the Chief Vigilance Officer, Records have been produced. It appears that an Investigation report dated July 7, 1986 regarding alleged undue favour shown by Shri T.K. Chowdhury, Sr. Executive Engineer, River Training to the Contractor was submitted which is as follows:
+</p>   
+
+<p id="p_8">"The Chief Vigilance Officer
+ 
+
+</p><p id="p_9">1.. Introductory: An information was received regarding violation of terms and conditions of the contractual agreements in the work of dumping of laterite boulders at Northern Guide Wall of Nayachara Island.
+</p> 
+
+<p id="p_10">2. Name of the suspect: Shri T.K. Chowdhury, Sr. Executive Engineer, River Training.
+</p> 
+
+<p id="p_11">3. Facts as available from the records:- (a) An advertised tender was floated on June 19, 1984 for execution of the above work and the same was opened on July 20, 1984. This tender relates to supply and dumping of laterite boulders at Northern Guide Wall during 1984-85.
+</p> 
+
+<p id="p_12">(b) According to terms and conditions of the tender, the materials were to be supplied and delivered at Nayachara Island and being stacked and measured there and then dumped/placed at Northern Guide Wall.
+</p> 
+
+<p id="p_13">(c) Cost on account of hire of boats, boatman labour charges for loading/unloading, towage and dumping as well as labelling and dressing whatsoever was included in the rates.
+</p> 
+
+<p id="p_14">(d) According to estimate and tender, 20,000 cubic metre of job was to be executed by the contractors.
+</p> 
+
+<p id="p_15">(e) M/s. T.K. Chowdhury &amp; Bros, quoted the lowest rates for the entire works. Lowest rate Rs. 33,38,509.50 was 9.55 % less than the estimated amount of Rs. 36,91,000.00. Messrs. Build India Construction was the second lowest tenderer. But this firm agreed to execute the work at the rates quoted by Messrs. T.K. Chowdhury.
+</p> 
+
+<p id="p_16">(f) Tender Committee accordingly recommended for awarding contract as follows:
+</p>   
+
+<p id="p_17">(a) Messrs. T.K. Chowdhury &amp; Bros. Rs. 18,36, 180.22 (55% of the total)
+ 
+
+</p><p id="p_18">(b) Messrs. Build India Construction. Rs 15, 02, 329.28 (45% of the total). 
+</p> 
+
+<p id="p_19">This proposal was sanctioned vide Resol. No. 223 of 10th Meeting held on August 31, 1984.
+</p> 
+
+<p id="p_20">4. Accordingly, work orders were placed to both the firms on September 17, 1984. Stipulated time for completion of works was upto March 3, 1985. A provision was made in the work order in respect of liquidated damage as follows:-
+</p><p id="p_21">  "If the work is not completed within the period, notice will be served on the firm, inter alia intimating permission to continue the work and complete without prejudice with the rights of the members in the matter of imposition of liquidated damage at the stipulated rates from the date following the date on which the completion period expired. Recovery of liquidated damage will be made from the bill, falling due after expiry of the completion period." 
+</p> 
+
+<p id="p_22">5. Transporting of materials to Nayachara Island was to be carried out either from the Nischintapur side or from Pathikali side. Pathikali is nearer to Nayachara Island. As a matter of fact, for transporting and dumping of materials, there was to be two operations i.e. Pathikali side to Nayachara Island and then to Northern Guide Wall.
+</p> 
+
+<p id="p_23">6. Tenderers quoted rates in all probability on inspection of site (Provision for such inspection was made in the tender) cost of unloading of materials, stacking and subsequent loading at Nayachara, and dumping at Guide Wall was included in the tender. But change of site was a major deviation from the terms and conditions of tender.Consequent to this change, both the contractors saved lumpsum amount.
+</p> 
+
+<p id="p_24">7. Shri T.K. Chowdhury, Sr. Executive Engineer approached Dy. C.E. (RT) for change of site from Nayachara to Pathikali for stacking and measurement explaining the difficulties. Shri Chowdhury also intimated him verbally that there would be no reduction in cost of operation on the part of contractors owing to change in measurement site from Nayachara to Pathikali. He accepted this contention as he had no separate machinery other than his Sr. Executive Engineer to examine any proposal and initialled and sent to C.E. for consideration under his signature. He now admits that there had been some saving on the part of contractors for changing the site.
+</p> 
+
+<p id="p_25">8. Due to change of the site from Nayachara Island to Pathikali there would have been saving of transportation cost of laterite boulders. This was conveyed to Sr. Executive Engineer by the Site Engineers.
+</p>   
+
+<p id="p_26">(a) Shri A. Dev, Jr. Executive Engineer (RT) vide his Letter No. RT/IIIF/MC54/73 dated April 15, 1985 informed the Senior Executive Engineer (RT) that Pathakali was the transit point for transporting materials to Nayachara. By operating from Pathakali the contractors will save the cost of transportation of the materials from Pathikali to Nayachara, rate to the tune of Rs. 40/- per cubic metre.
+</p> 
+
+<p id="p_27">(b) The same views were expressed by Shri T.K. Chatterjee, Jr. Executive Engineer to Shri. T.K. Chowdhury, Sr. Executive Engineer that there would be major tender deviation for change of site. In the changed context, the contractors were not required to undertake loading, unloading and transporting at Nayachara and therefore the contractors could save Rs. 35/- (approx) per cubic metre.
+</p> 
+
+<p id="p_28">(c) According to Shri H.B. Chowdhury, Asst. Engineer, the reduction of rate would have been Rs. 55/- per cubic metre for change of site.
+</p> 
+
+<p id="p_29">(d) Shri. T.K. Chowdhury, Sr. Executive Engineer, was informed about the above reduction of rates due to change of site from Nayachara to Pathikali by separate memos sent by Shri. T.K. Chatterjee, J.E.E., A. Dev, J.E.E., H.N. Chowdhury, A.E. A. Sain, A.E.
+</p> 
+
+<p id="p_30">(e) According to Shri Arabinda Sain, Asst. Engineer, for change of site there would be less operation, so the reduction of rate would have been Rs. 40/- per cubic metre (approx). He also sent a memo to Shri. T.K. Chowdhury, Sr. Executive Engineer. 
+</p> 
+
+<p id="p_31">9. The objection raised by above four Site Engineers were not forwarded by Shri. T.K. Chowdhury to his Senior Officers, as a result financial aspect of the case could not be considered by the Senior Officers of the C.E's Department.
+</p> 
+
+<p id="p_32">10(a). In the year 1984-85, M/s. Build India Construction was awarded contract for 9000 cubic metre. But they executed 7046.90 cubic metre till May 17, 1985. Left over job stood for 1953.10 cubic metre.
+</p> 
+
+<p id="p_33">(b) M/s. T.K. Chowdhury was awarded contract for 11000 cubic metre. But they executed only 3171.80 cubic metre till April 7, 1985. Left over job stood for 7828.20 cubic metre. Total works executed by both the contractors stood 7046.90 plus 3170.80 = 10,218.70 cubic metre out of 20,000 cubic metre.
+</p> 
+
+<p id="p_34">11. Analysis of saving on the cost as per rate of tender is summarised below:-</p><pre id="pre_1">
+ 
+  
+  As per item 2 of the tender
+  Rs. 50.00 per cubic metre
+
+ 
+  Less cost of transportation from Pathikali to Guide Wall Plus other allied expenses as distance between Pathikali to Guide Wall is much more than Pathikali to Nayachara
+  Rs. 20.00 per cubic metre
+
+ 
+  
+  Rs. 30.00    per cubic metre
+
+ 
+  Less 9.55% on Rs. 50 in accordance    with    the offer of the contractors
+  Rs.   4.78   per cubic metre
+
+ 
+  Approx. minimum saving
+  Rs. 25.22 per cubic metre
+
+ 
+  So, the total saving of the cost would have been 10,218.70 X 25.22
+  = 2,57,715.61 (approx)
+
+
+
+ 
+
+</pre><p id="p_35">12. Inspite of the allotted jobs not being executed by M/s Build India Construction, all outstanding dues and even the security deposit amounting to Rs. 74,255/- was released. In respect of M/s T.K. Chowdhury . &amp; Bros, their outstanding dues and the security deposit amount have not yet been paid.
+</p> 
+
+<p id="p_36">13. Unattended job for the year 1984/85 was included in the tender for 1985/86. Rate for 1984/85 was Rs. 186.55 less 9.55 per cubic metre and that of 1985/86 was Rs. 206.40 plus 9.5% per cubic metre. Fresh contract was given to M/s. Build India Construction for an amount of Rs. 30,88,776/- for the year 1985/86.
+</p> 
+
+<p id="p_37">14. Summary of the irregularities based on facts and documentary evidence on record:
+</p>   
+
+<p id="p_38">(a) Inspite of extension of time, allotted jobs could not be completed by both the contractors. There are instances when they failed to dump the materials at the site or progress of the works got delayed due to fault of the party. No liquidated damage as per provision made in the work order was imposed on the contractors. Even the outstanding dues and the security deposit amount in favour of M/s. Build India Construction was released.
+</p> 
+
+<p id="p_39">(b) Although M/s Build India Construction could not execute the allotted job, it was awarded fresh contract for same type of job amounting to Rs. 30,88,776/- for the year 1985-86 at higher rate than that of 1984-85.
+</p> 
+
+<p id="p_40">(c) Dy. Chief Engineer (RT's) letter to Chief Engineer proposing change of dumping and measurement site to Pathikali did not contain the correct picture of operation as regards financial aspect is concerned.
+</p> 
+
+<p id="p_41">(d) Tenderers quoted rates in all probability on inspection of site (provision for such inspection was made in the tender.) Cost of unloading of materials, stacking and subsequent loading to boats at Nayachara and dumping at Guide Wall was included in the Tender. But change of site was a major deviation from the terms and condition of tender. Consequent to this change, both the contractors saved lumpsum amount.
+</p> 
+
+<p id="p_42">(e) Unattended job for the year 1984-85 was included in the tender for the year 1985-86. Rate per cubic metre for the year 1984-85 was Rs. 184.55 less 9.55 % Rate per cubic metre for the year 1985-86 was Rs. 206.40 Plus 9.5%. Therefore, Calcutta Port Trust had to incur an additional expenditure to the tune of Rs. 2, 13,722.40 (approx). 20,000 cubic metre - 10,218 cubic metre = 9781.30 cubic metre X 21.85 (206.40 - 184.55) = 2.13,722.40 (approx) for non fulfilment of the contractual agreement in the year 1984-85. 
+</p> 
+
+<p id="p_43">14. Opinion as to whether allegations are proved or not:
+</p>   
+
+<p id="p_44">a) As the sequences of operation from Pathikaii to Guide Wall was less than that of Nayachara, the suspect officer had done nothing but increased the quantum of earnings of the contractors and thereby shown favour.
+</p> 
+
+<p id="p_45">b) No penal action was taken by the suspect officer for non-fulfilment of the contractual
+agreement. On the other hand security deposit amounting to Rs. 74,255 was released in
+favour of M/s. Build India Construction Ltd.
+</p><p id="p_46">It was a favour to the contractor. :
+</p> 
+
+<p id="p_47">c) The objections raised by the Site Engineers were not forwarded by Shri T.K. Chowdhury to the higher authorities and, therefore, the financial aspect of the change in the programme could not be appreciated, when the proposal for change of site from Nayachara to Pathikali was approved which caused financial gain to the Contractors and loss to the Calcutta Port Trust.
+</p> 
+
+<p id="p_48">d) There isprima facie evidence against Shri T.K. Chowdhury, Sr. Ex. Engineer of showing undue favour to the two Contractors, which exhibits highly irresponsible conduct and lack of integrity.
+</p> 
+
+<p id="p_49">Sd/- 
+</p>
+<p id="p_50">20.7.86 
+
+Submitted
+ 
+
+That is the beginning of the end.
+</p> 
+
+<p id="p_51">As directed by the Chief Vigilance Officer one B.K. Biswas and another made visual inspection of the house of Shri T.K. Chowdhury and submitted their report on July 26, 1986 which is as follows:
+</p><p id="p_52">  "The Chief Vigilance Officer, Calcutta Port Trust. 
+</p> 
+
+<p id="p_53">As ordered by you, we made a visual inspection of the house of Shri T.K. Chowdhury, Sr. Executive Engineer under Chief Engineer Department, but in the year 1982 at Salt Lake, on July 26, 1986. There it was found that the house was rented to a person.
+</p> 
+
+<p id="p_54">After disclosing our identity we took the chance to talk to the tenant and entered into the house. It was found that the floors were fitted with costly mosaic tiles. Also, it was noticed that there was a mazanine floor and one side of the room there it was fitted with costly glass panes. Moreover, all the rooms of the building were found with in-built wooden Almirahs, Cupboards etc. In addition to these, the house was found surrounded by about 4 ft. high walls.
+</p> 
+
+<p id="p_55">From the appearance, other costlly fittings and area of the land, it is mentioned that the cost of the building should have been of about Rs. 2.50 lakhs, if not more.
+</p> 
+
+<p id="p_56">For your kind information.
+</p> 
+
+<p id="p_57">Submitted 
+
+Sd/- B.K. Biswas 26.7.86 
+
+ Sd/-  
+</p>
+<p id="p_58">26.7.86." 
+</p> 
+
+<p id="p_59">5. It appears that a statement was made by one A.P. Chakraborty, Ex-Chief Engineer, on October 20, 1986 in connection with laterite boulders dumped at Nayachara Guide Wall in the year 1984-85. In his report, he said "apart from certain irregularities made in respect of deviation on items of work the most material point is to be examined if by deviating the operational procedures for dumping if at all any advantage was afforded to the executing agency. This is of primary importance in the whole issue."
+</p> 
+
+<p id="p_60">6. On November 28, 1986 Shri D.K. Sammaddar, Asst. Engineer, H.S.D., submitted a report as regards the estimate of the building of Shri T.K. Chowdhury to the Chief Vigilance Officer by a letter which is a follows:
+</p>   
+
+<p id="p_61">"To 
+
+The Chief Vigilance Officer, 
+
+Calcutta Port Trust. 
+</p>
+<p id="p_62">      (Through Chief Hydraulic Engineer)
+ 
+
+Sir,
+           
+
+Re: Estimate of a Building
+ 
+
+As desired by the Chief Vigilance Officer, Calcutta Port Trust vide his letter No. Nil dated November 26, 1986, the estimate for the building is drawn and given below:-
+</p> 
+
+<p id="p_63">1700 sq. ft. @ Rs. 175/- per sq. ft. = Rs. 2,97,500/- (Assuming the present market value for one sq. it. of plinth area of a single storeyed residential building at Calcutta Region as Rs. 175/- only).
+</p> 
+
+<p id="p_64">This includes cost of mosaic flooring and other costly fittings but excludes the cost of boundary wall. The cost of water supply, sanitary fittings and electrical installations-are : covered by the above estimated value.
+</p> 
+
+<p id="p_65">With regards,
+ 
+
+Yours faithfully,  
+Sd/- D. Samaddar 
+
+28.11.86 
+
+(D.K. Sammaddar)  
+
+Asst. Engineer, H.S.D" 
+</p> 
+
+<p id="p_66">  C.V.O 
+
+Forwarded Please  
+
+ Sd/- Mazumdar  
+
+for CVE  
+
+Dated: 
+</p> 
+
+<p id="p_67">7. The petitioner was served with the order of compulsory retirement on December 9, 1987 when his age was 51 years 9 months 15 days. The petitioner passed Matriculation Examination and Intermediate Examination in Science from the Calcutta University with Merit Scholarship. He secured the B.Tech in Civil Engineering from LIT. Kharagpur with First Class. Within 15 years of his joining the service he rose from the post of Assistant Engineer to the post of Senior Executive Engineer. In 1977 he saved about Rs. 90 lakhs of Calcutta Port money out of Haldia Dock Basin Dredging Contract of Rs. 400 lakhs. In the year 1979 he published a Technical Paper on Port's Graining Work in 'Irrigation &amp; Power Journal'. In 1984 he was confirmed in the post of Junior Executive Engineer. The said confirmation is in the following terms which will appear from a letter addressed to the Chief Engineer, Calcutta Port Trust, by the Secretary, Calcutta Port Trust dated May, 1984:
+</p>   
+
+<p id="p_68">"The Standing Establishment Committee met on May 11, 1984 to consider confirmation of officers in the post of Jr. Executive Engineer in Chief Engineer's Department. The Committee after going through the ACR/dossiers and performance report recommended confirmation of the following 14 officers in the post of Jr. Executive Engineer:-
+</p>   
+
+<p id="p_69">1. Shri P.K. Mukherjee
+ 
+
+</p><p id="p_70">2. Shri S.K. Ghosh
+ 
+
+</p><p id="p_71">3. Shri D.P. Tagore
+ 
+
+</p><p id="p_72">4. Shri S.K. Chakraborty
+ 
+
+</p><p id="p_73">5. Shri A.C. Chatterjee
+ 
+
+</p><p id="p_74">6. Shri T.K. Chowdhury
+ 
+
+</p><p id="p_75">7. Shri B. Sengupta
+ 
+
+</p><p id="p_76">8. Shri D. Sen
+ 
+
+</p><p id="p_77">9. Shri A. Chakraborty
+ 
+
+</p><p id="p_78">10. Shri B.B. Guha Neogy
+ 
+
+</p><p id="p_79">11. Shri S.K. Majumdar
+ 
+
+</p><p id="p_80">12. Shri P.K. Ghosh
+ 
+
+</p><p id="p_81">13. Shri S. Bose
+ 
+
+</p><p id="p_82">14. Shri A.R. Patra 
+ 
+
+</p><p id="p_83">2. Chairman by his order dated May 21, 1984 has approved of the recommendation of the S.E. Committee.
+</p> 
+
+<p id="p_84">3. It is requested that the necessary action be taken for processing the confirmation R/s. etc. from your end." 
+</p> 
+
+<p id="p_85">8. It is evident that the Standing Establishment Committee after going through the ACR/ dossier and performance report recommended confirmation of the petitioner. In February 7, 1987 he was recommended for consideration for higher post of Deputy Chief Engineer. The letter of the Chief Engineer dated February 7, 1987 addressed to the Secretary is to the following effect:
+</p>   
+
+<p id="p_86">"A copy of letter dated January 30, 1987 from Shri H.S. Majumder, Advocate, is enclosed for your perusal.
+</p> 
+
+<p id="p_87">Earlier, Hon'ble Mr. Justice Suhas Ch. Sen passed an order on February 12, 1985 restraining the Trustees from selecting or appointing anybody in the post of Dy. Chief Engineer till the final disposal of CO. No. 16239 (W) of 1984 by the Hon'ble High Court. Consequently three posts of Dy. Chief Engineer as indicated below are lying vacant: -
+</p>   
+
+<p id="p_88">1. One permanent post in the Calcutta Main Establishment.
+</p> 
+
+<p id="p_89">2. One temporary post attached to S.H.B.P. Project.
+</p> 
+
+<p id="p_90">3. One temporary post in Haldia Dock Project Residual Cell at Calcutta. 
+</p> 
+
+<p id="p_91">In the present order, two temporary posts out of the above three have been allowed to be filled up.
+</p> 
+
+<p id="p_92">In view of the above you are requested to obtain sanction to the filling up of the two posts of Dy. Chief Engineer - one attached to the S.H.B.P. Project and the other in the Haldia Dock Project Residual Cell at Calcutta including two posts of Sr. Ex. Engineer and two posts of Jr. Ex. Engineer in the chain of arrangements.
+</p> 
+
+<p id="p_93">It is also requested that a meeting of the Standing Establishment Committee for Class I posts be arranged for selecting officers for appointment to the vacant posts of Dy. Chief Engineer.
+</p> 
+
+<p id="p_94">The under noted officers of the department will be in the zone of the consideration for appointment to the posts of Dy. Chief Engineer:</p><pre id="pre_2">
+   1. Shri A.R. Majumdar,Sr. Ex. Engineer
+2. Shri A.B. Sarkar    -do-
+3. Shri D.P. Tagore    -do-
+4. Shri S.K. Chakraborty   -do-
+5. Shri A.C. Chatterjee    -do-
+6. Shri T.K. Chowdhury     -do-
+7. Shri B. Sen Gupta, Sr.  -do-
+8. Shri D. Sen            -do-
+9. Shri A. Chakraborty     -do-
+10. Shri B.B. Guha Neog    -do- 
+ 
+
+</pre><p id="p_95"> It may be mentioned here that there already exist two approved panels for filling up posts of Sr. Executive Engineer and Jr. Executive Engineer vide your letter No. 6499/C/CE dt. January 17, 1987.
+</p> 
+
+<p id="p_96">For vigilance clearance in respect of the above officers, the Chief Vigilance Officer is being written to from this office in the meantime." 
+</p> 
+
+<p id="p_97">9. He executed the Project Contracts and the Resume of work done in 1984, 1985 and 1986, which form part of the petitioner's Annual Confidential Report and which are as follows:
+</p>   
+
+<p id="p_98">"Brief Resume of work done in 1984
+ 
+
+From January 1, 1984 to May 31, 1984, 1 was Senior Executive of Roychowk Fish Harbour Project and was looking after completion of Residual Project Works. In addition, maintenance as well as management of Roychowk Fish Harbour were also entrusted to the Project Cell under me. During the period Union Carbide were operating a number of Fishing Trawlers from Roychowk. Infrastructural facilities like round-the-clock power, water supply were required to be provided in the instant case.
+</p> 
+
+<p id="p_99">I was transferred to R.T. Wing from June 1, 1984 with a specific assignment to expedite the works of Comprehensive Scheme, particularly the construction of Northern Guidewall at Nayachara. The work is time-bound and it was programmed to commence the work from October 15 and complete it by March, 1985, i.e. in the best working season in the River. Accordingly an estimate amounting to about Rs. 182 lakhs for 1984-85 was prepared in June, tenders were opened in July, work orders were issued in September after observing all formalities and the work commenced from October 15, 1984 as timed. Since then the work is being monitored to maintain the time schedule.
+</p> 
+
+<p id="p_100">In addition to above works, the Shore Disposal Scheme works at Jellingham have also been placed under me and programme for shifting of dredging pipeline to a new alignment including ancillary works amounting to about Rs. 45 lakhs for 1984-85 was prepared and works taken up.
+</p> 
+
+<p id="p_101">Furthermore, the proposed Protective Works for Haldia Oil Jetty and Haldia River Bank are also looked after by R.T. Comprehensive Cell. The estimated value of above work is about Rs. 20 lakhs for 1984-85." 
+</p> 
+
+<p id="p_102">Brief Resume of the work done by Shri T.K. Chowdhury, Senior Executive Engineer during the period from January 7, 2985 to December 31, 1985,
+ 
+
+Since 1984 I have been entrusted with the work of construction of Northern Guide Wall at Nayachara Rs. 500 lakhs Project under the Comprehensive Scheme for improvement of the draft of River Hooghly.
+</p>   
+
+<p id="p_103">In addition, I was also to look after Shore Disposal Project at Jellingham.
+</p> 
+
+<p id="p_104">2. During the period under review the original target set for 1984-85 valuing about Rs. 180 lakhs for the construction of Northern Guide Wall at Nayachara was almost achieved notwithstanding several constraints.
+</p> 
+
+<p id="p_105">3. Tendering and issuance of work orders for the next phase of above work for 1985-86 valuing about Rs. 190 lakhs have also been : completed and the works are in progress satisfactorily.
+</p> 
+
+<p id="p_106">4. Furthermore, this year I have been given the additional charge of tendering and execution of nourishment of closure of Secondary Channel. The estimated cost of contracts for above work in 1985-86 is about Rs. 110 lakhs. All tendering and issuance of work orders have been completed and the works are in progress.
+</p> 
+
+<p id="p_107">5. As regards Shore Disposal Project works relating to changing the existing work site were taken up and partly completed when a tension to locate a new work site away from Jellingham suspended the works towards the end of the year." 
+</p> 
+
+<p id="p_108">Brief Resume of the work done by Shri T.K Chowdhury, Senior Executive Engineer during the period from January 1, 1986 to December 31, 1986.
+</p>   
+
+<p id="p_109">During 1986, 1 was entrusted with the works of construction of (i) a 2800 M. long Northern Guide-wall, and (ii) a 190 M. long Cross Spur at Nayachara, and also (iii) nourishment of closure of a portion of Secondary Channel under a Comprehensive Scheme for improvement of the draft of the River Hooghly.
+</p> 
+
+<p id="p_110">2. The target set for Northern Guide-Wall and Cross Spur valuing about Rs. 200 lakhs was achieved. About 1900 M. Length of Northern Guide-Wall and full length of Cross Spur were completed. In the process, a new type of R.C. Cage, heavy voluminous but manually usable to solve surface protection problems of the Cross Spur, was developed and successfully used. Some additional bank protection works at Nayachara West were also executed along with the difficult work of restoration of bank connection of Cross Spur to Nayachara.
+</p> 
+
+<p id="p_111">3. The target set for nourishment of closure of Secondary Channel valuing about Rs. 100 lakhs was also achieved notwithstanding various constraints due to proximity of the site to sea. Dumping of the materials along the alignment in a secluded portion of the river far away from shore posed the greatest problem. To this were added shoals in the locality and unpredictable wind and waves which restrained transport of materials to location. The unit weight of main individual material was also found inadequate to withstand drift during high current at site and had to be increased by arranging to tie together adequate number of fillers on boats before dumping. The difficulty in loading heavier material was thus solved while achieving dumping of suitably heavy material at location of channel closure.
+</p> 
+
+<p id="p_112">4. I have also an additional site at Jellingham, where a protective bund work was also completed under difficult labour unrest because of disengagement of about 100 Nos. Jellingham Shore Disposal workers who all reside in the locality." 
+</p> 
+
+<p id="p_113">10. It has not been disputed that no adverse report on any matter was ever communicated to the petitioner. He has allthroughout disclosed his assets after obtaining the necessary permission from the Chairman, It is only once in the middle of 1986 that a Vigilance Officer obtained a statement from him regarding a Contract of the Chief Engineer executed under the guidance and decisions of the Deputy Chief Engineer and Chief Engineer; thereafter no further communication was made. As would appear from the report of the Review Committee that the Review Committee did not at all consider the annual confidential reports of the petitioner, it is surprising that the annual confidential report has not been also placed before this Court obviously because there was nothing adverse in the report. It is evident from the proceeding of the Review Committee that the 'concerned Officer had exhibited lack of integrity and his general reputation was reported to be unsatisfactory.' It is not known how such a conclusion was arrived at by the Review Committee. The effectiveness of work or performance of the concerned officer and integrity could only be raised in the annual confidential report which had not been considered at all by the Review Committee. The aforesaid finding is contrary to the findings in the Annual Confidential Reports. It appears that the report of the Vigilance Officer dated November 6, 1987 with the dossier reproduced hereinbefore were the foundation of the recommendation of the Review Committee. Apart from that, no other paper was placed before the Review Committee.
+</p> 
+
+<p id="p_114">11. Firstly, any adverse remark regarding the performance or integrity, if reflected in the Confidential Report, must have to be communicated. Admittedly, there was no such adverse remark; even if anything was there, it was never communicated to the petitioner. That being the position, the respondents cannot rely on any such adverse remark if there be any. The Government has indicated how the column of "integrity" in the Annual Confideniial Report should be filled up. In this connection, a letter dated May 28, 1986 of the Deputy Chairman addressed to the Chief Engineer is appended below:-
+</p>   
+
+<p id="p_115">"D.O. No. DCH/ACR     May 28, 1986.
+</p> 
+
+<p id="p_116">Dear Shri Chakravarty,
+ 
+
+    Sub: Filling in the column on
+"Integrity" in the Annual Confidential Report Form- Instructions regarding
+ 
+
+ You are aware that there is a specific and separate column on integrity in the Annual Confidential Report form for specific comments of the Reporting Officer,
+ 
+
+</p><p id="p_117">2. The following instructions are issued in regard to filling in the column on integrity:
+</p>   
+
+<p id="p_118">(i) Supervisory officers should maintain a confidential diary in which instances which create suspicion about the integrity of a subordinate should be noted from time to time and action to verify the truth of such suspicions should be taken expeditiously by making confidential enquiries departmentally or by referring the matter to the Chief Vigilance Officer, C.P.T. At the time of recording the annual confidential report, this diary should be consulted and the material in it utilised for filling the column on integrity.
+</p> 
+
+<p id="p_119">(ii) If the column cannot be filled on account of the unconfirmed nature of the suspicions, the column should be left blank and a separate secret note about the doubts and suspicions regarding the officer's integrity should be recorded and followed up.
+</p> 
+
+<p id="p_120">(iii) A copy of the secret note should be sent together with the annual confidential report to the next superior officer who should ensure that the follow-up action is taken with due expedition.
+</p> 
+
+<p id="p_121">(iv) If as a result of the follow-up action an officer is exonerated, his integrity should be certified and an entry made in the report form. If suspicions regarding integrity are confirmed, this fact can also be recorded and duly communicated to the officer concerned.
+</p> 
+
+<p id="p_122">(v) There may be occasions when a reporting officer cannot, in fairness to himself and to the officer reported upon, either certify integrity or make an adverse entry, or even be in possession of any information which would enable him to make a secret report to the head of the department. Such instances can occur when an officer is serving in a remote station and the reporting officer has not had occasion to watch his work closely, or when the officer has worked under the reporting officer only for a brief period or has been on long leave, etc. In such cases, the reporting officer should make an entry in the integrity column to the effect that he has not watched the officer's work for sufficient time to be able to make any definite remark or that he has heard nothing against the officer's integrity, as the case may be. This would be a factual statement to which there can be no objection. But it is necessary that a superior officer should make every effort to form a definite judgment about the integrity of those working under him so that he may be able to make a positive statement.
+</p> 
+
+<p id="p_123">(vi) There may be cases in which, after a secret report/note has been recorded expressing suspicion about an officer's integrity, the enquiries that follow do not disclose sufficient material to remove the suspicion or to confirm it. In such a case, the officer's conduct should be watched for a further period, and in the meantime he should, as far as practicable, be kept away from positions in which there are opportunities for indulging in corrupt practices. 
+</p> 
+
+<p id="p_124">3. These instructions should be brought to the notice of all reporting and reviewing authorities for guidance. It is to be noted that an adverse remark made about the integrity of a public servant should be communicated to him along with other adverse remarks recorded in the annual confidential report.
+</p> 
+
+<p id="p_125">Yours sincerely,
+ 
+
+Sd/-   
+</p>
+<p id="p_126"> (H.S. Sarkar)"
+</p> 
+
+<p id="p_127">12. It does not appear from the records what happened thereafter. On November 6, 1987, the Chief Vigilance Officer by his letter dated November 6, 1987 sent a report regarding the petitioner. The said letter and the report are set out hereinafter:
+</p><p id="p_128">   "No. CVO/133/Con. November 6,1987
+Shri M.K. Kargupta
+Chairman 
+Calcutta Port Trust.
+</p> 
+
+<p id="p_129">Sub: Report regarding Sri. T.K. Chowdhury Senior Executive Engineer (RT) under Chief Engineer's Department.
+</p> 
+
+<p id="p_130">I forward herewith a report regarding Shri T.K. Chowdhury, Senior Executive Engineer for your information.
+</p> 
+
+<p id="p_131">2. It will be seen from the report that the general reputation of Shri Chowdhury is far from satisfactory and he is an officer of doubtful integrity.
+</p> 
+
+<p id="p_132">3. Administrative action under F R 56(J) is recommended against the Officer.
+</p> 
+
+<p id="p_133">Sd/- Chief Vigilance Officer." 
+</p>
+ 
+
+<p id="p_134">Shri T.K. Chowdhury,  
+Sr. Executive Engineer (RT),  
+Chief Engineers Department.
+</p> 
+
+<p id="p_135">Complaint was received against Sri T.K. Chowdhury, Sr. Executive Engineer (R-T.) that he showed undue favour to two contractors, (i) Messrs Build India Construction; (ii) Messrs. T.K. Chowdhury &amp; Bros, while he was In-charge of the work of dumping laterite boulders at Northern Guide Wall near Nayachara Island under comprehensive scheme. Enquiry revealed that as a result of his undesirable conduct the contractors made financial gain of about Rs. 5,00,000/- at the cost of C.P.T. Sri Chowdhury went to the extent of rejecting the suggestions of the Site Engineers, who recommended proportional deduction of the said amount from the bill of the contractors. The objection raised by the site engineers were not forwarded by Sri. T.K. Chowdhury to the higher authorities and by suppressing this fact he prevented them from appreciating the financial aspects of the whole project.
+</p> 
+
+<p id="p_136">From the Annual Property Returns of Sri. T.K. Chowdhury it was found that he has a house at Salt Lake, the total cost of which has been declared Rs. 1,69,500/- (including cost of plot of land measuring 4.30 Cottahs). However, on spot inspection it was found that the actual cost of the said building of 1700 sq. ft. plinth area would not be less than Rs. 2,50,000/-. In addition to mosaic flooring costly materials have been used for various . fittings in the house. The extra cost involved in construction of the said house is reported to be out of his undeclared source of income.
+</p> 
+
+<p id="p_137">The general reputation of Sri. Chowdhury is far from satisfaction. From various reports received by this office, it is found that Sri Chowdhury is an officer of doubtful integrity.
+</p>  
+
+<p id="p_138">  Administrative action under FR 16(3) is recommended against the officer, 
+ 
+
+The particulars of service of the officer is enclosed herewith.
+</p> 
+
+<p id="p_139">Service particulars of Shri. T.K. Chowdhury, Sr. Ex. Engineer (R.T) 
+ 
+
+  
+</p><p id="p_140">  a) Date of Birth
+  27-2-1936
+
+ 
+</p><p id="p_141">  b) Date of appointment
+  1-7-1960
+
+ 
+</p><p id="p_142">  c) Date on which he attained  the  age  of 50 years
+  27-2-1986
+
+ 
+</p><p id="p_143">  d) The date on which he will complete 30 years of service
+  1-7-1990
+
+ 
+</p><p id="p_144">  e) The scale of pay
+  Rs. 1760/- to Rs. 2600/-</p><pre id="pre_3">
+
+ 
+  f) The present basic pay
+  Rs. 2600/-p.m.       plus Rs. 70/- p.m. as stagnation pay.
+
+ 
+  g) The date of superannuation
+  27-2-1994 "
+
+
+
+ 
+
+</pre><p id="p_145">13. On January 17, 1987 the remarks made by the Deputy Chief Engineer in the confidential report of the petitioner for the year ending December 31, 1986 were, in most of the cases, either good or very good. In the report signed on January 17, 1987 under the column "Integrity", it was mentioned that nothing adverse was found against him so far as his integrity was concerned. The Reviewing Officer said that his performance in 1986 was very good and he was fit for promotion. The remarks of the Reviewing Officer were accepted by the Deputy Chairman. For the year ending December 31, 1985 the Reporting Officer made very good remarks about him and his integrity was found to be good. Reviewing Officer agreed with the remarks of the Reporting Officer. He also said that the overall assessment of performance and qualities of the petitioner were good and he was fit for promotion. Similar is the case for 1984 when the Reviewing Officer fully agreed with the Reporting Officer and it was said that he was a capable officer, sincere and diligent, and fit for promotion. The Deputy Chairman agreed with his observations. In 1983 also, it was found that his integrity was good, he was a capable officer and was fit for promotion and that there was nothing adverse. The overall impression one gets from the reports of the various years is that the petitioner is an intelligent, reliable, very good and capable officer. He is very prompt in disposal, his intiative and drive is excellent. His ability in discussion and conversation was good, his capacity to train, help and advise the staff and ability to handle his subordinates was very good. He wins and retains high regard from his colleagues. Such an officer can, under no circumstances, be termed as dead wood.
+</p> 
+
+<p id="p_146">Remarks of the Reporting Officer under the column "Integrity" for various years.
+</p> 
+  
+<span class="hidden_text" id="span_1">  1978</span>
+<p id="p_147">  ... Good
+
+ 
+<span class="hidden_text" id="span_2">  1979</span>
+  ... Good
+
+ 
+<span class="hidden_text" id="span_3">  1980</span>
+  ... Good
+
+ 
+<span class="hidden_text" id="span_4">  1981</span>
+  ... Nothing adverse known
+
+ 
+<span class="hidden_text" id="span_5">  1982</span>
+  ... Nothing adverse known
+
+ 
+<span class="hidden_text" id="span_6">  1983</span>
+  ... Good
+
+ 
+<span class="hidden_text" id="span_7">  1984</span>
+  ... Good
+
+ 
+<span class="hidden_text" id="span_8">  1985</span>
+  ... Good
+
+ 
+<span class="hidden_text" id="span_9">  1986</span>
+  ... Nothing adverse has come to my notice.
+</p>
+
+
+ 
+
+<p id="p_148">14. It will, therefore, be evident that there was no basis at all for the Review Committee to come to its finding that his reputation was bad or he was a man of doubtful integrity.
+</p> 
+
+<p id="p_149">15. The petitioner was compulsorily retired solely on the basis of the report of the Chief Vigilance Officer. The report of the Chief Vigilance Officer could not form part of the service records of the petitioner. The report of the Chief Vigilance Officer was referred to and relied on by the Review Comittee. It is not the assessment or evaluation by the Review Committee. The truth or otherwise of the allegations made in the report of the Chief Vigilance Officer has to be determined and tested in a properly constituted attorney where the petitioner gets an opportunity to explain his conduct and exonerate himself. The report of the Chief Vigilance Officer in my view could not be taken into account in testing the case of the premature retirement of the petitioner. This report could not be taken into account for any reason whatsoever. The reports submitted by the Vigilance Officer had not been furnished to the petitioner. After the incumbent has attained the age of fifty years, reliance on the report of the Chief Vigilance Officer as foundation of the recommendation of the Review Committee and the subsequent decision reached by the Central Government must be held to be tainted with the materials not germane to the service record. This was obtained from outside agency. The vigilance report by its nature is one-sided in the absence of the petitioner's explanation thereto. The conclusion of the Committee regarding lack of integrity of the petitioner is based upon onesided report and cannot be sustained.
+</p> 
+
+<p id="p_150">16. All these happenings resulting in passing of the order of the compulsory retirement were behind the back of the petitioner. The petitioner was not given any opportunity to know as to how the concerned authority came to the finding that there is a prima facie evidence in regard to lack of integrity or general reputation of the petitioner.
+</p> 
+
+<p id="p_151">17. Reference may be made to the case of Supreme Court in <a href="/doc/365151/" id="a_1">Baldev Raj Chadha v. Union of India and Ors</a>. reported in (1980-II-LLJ-459). There, the Supreme Court considered the scope of Rule 56(J) and held (pp.461):
+</p><p id="p_152">  "A break-down of the provision brings out the basic components. The order to retire must be passed only by 'the appropriate authority.' That authority must form the requisite opinion - not subjective satisfaction but objective and bona fide and based on relevant material. The requisite opinion is that the retirement of the victim is 'in public interest' - not personal, political or other interest, but solely governed by the interest of public service. The right to retire is not absolute, though so worded. Absolute power is anathema under our constitutional order. 'Absolute' merely means wide, not more. Naked and arbitrary exercise of power is bad in law. These essentials once grasped, the appellant's submissions become self-evident." 
+</p> 
+
+<p id="p_153">18. Thereafter, the Supreme Court proceeded to hold (p.461-462):
+</p>   
+
+<p id="p_154"> "This takes us to the meat of the matter, viz. whether the appellant was retired because and only because it was necessary in the public interest so to do. It is an affirmative action, not a negative disposition, a positive conclusion, not a neutral attitude. It is a terminal step to justify which the onus is on the Administration, not a matter where the victim must make out the contrary. Security of tenure is the condition of efficiency of service. The Administration, to be competent, must have servants who are not plagued by uncertainly about tomorrow. At the age of 50 when you have family responsibility and the sombre problems of one's own life's evening, your experience, accomplishments and fullness of fitness become an asset to the Administration, if and only if you are not harried or worried by 'what will happen to me and my family' 'where will I go if cashiered?' 'How will I survive when I am too old to be newly employed and too young to be superannuated'? These considerations become all the more important in departments where functional independence, fearless scrutiny and freedom to expose evil or error in high places is the task. And the ombudsmanic tasks of the office of audit vested in the C &amp; AG, and the entire army of monitors and minions under him are too strategic for the nation's financial health and discipline that immunity from subtle threats and oblique over-aweing is very much in public interest. So it is that we must emphatically state that under the guise of 'public interest' if unlimited discretion is regarded acceptable for making an order of premature retirement, it will be the surest menace to public interest and must fail for unreasonableness, arbitrariness and disguised dismissal. To constitutionalise the rule, we must so read it as to free it from the potential for the mischiefs we have just projected. The exercise of power must be bonafide and promote public interest. There is no demonstrable ground to infer malafides here and the only infirmity alleged which deserves serious notice is as to whether the order has been made in public interest. When an order is challenged and its validity depends on its being supported by public interest, the State must disclose the material so that the court may be satisfied that the order is not bad for want of any material whatever, which, to a reasonable man reasonably instructed in the law, is sufficient to sustain the grounds of 'public interest' justifying forced retirement of the public servant. Judges cannot substitute their judgment for that of the Administrator, but they are not absolved from the minimal review well-settled in administrative law and founded on constitutional obligations. The limitations on judicial power in this area are well-known and we are confined to an examination of the material merely to see whether a rational mind may conceivably be satisfied that the compulsory retirement ot the officer concerned is necessary in public interest.
+</p> 
+
+<p id="p_155">We will consider this question to the extent disclosed by the record and in the light of the submissions made by both the parties. The whole purpose of the rule is to weed out the worthless without the punitive extremes covered by <a href="/doc/47623/" id="a_2">Article 311</a> of the Constitution. After all, administration, to be efficient, must not be manned by drones, do-nothings, incompetents and unworthies. They may not be delinquent who must be punished but may be a burden on the administration if by insensitive, insufficient, unintelligent or dubious conduct impede the flow or promote stagnation, in a country where speed, sensitivity, probity, and non- irritative public relations and enthusiastic creativity are urgently needed but paper-logged processes and callous cadres are the besetting sin of the Administration. It is in public interest to retire a never-do-well, but to juggle with confidential reports when a man's career is at stake is a confidence trick contrary to public interest. Moreover, confidential reports are often subjective, impressionistic and must receive sedulous checking as basis for decision making. The appropriate authority, not the court, makes the decision, but, even so, a caveat is necessary to avoid misuse." 
+</p> 
+
+<p id="p_156">19. In that case the Supreme Court considered the report of the Review Committee which runs thus (p.464):
+</p><p id="p_157">  "The Committee after a careful assessment of the performance of the employees concerned as depicted in their confidential reports have come to the conclusion that the persons mentioned below are not able to perform efficiently and effectively the duties of the posts held by them." 
+</p> 
+
+<p id="p_158">20. The Supreme Court also took note of the fact that in that case the confidential reports of 1961-62 to 1970 had been only considered, then the Supreme Court observed as follows (pp. 464-465):
+</p><p id="p_159">  "One wonders how an officer whose continuous service for 14 years crossing the efficiency bar and reaching the maximum salary in the scale and with no adverse entries at least for five years immediately before the compulsory retirement, could be cashiered on the score that long years ago, his performance had been poor, although his superiors had allowed him to cross the efficiency bar without qualms. A short cut may often be a wrong cut. The order of compulsory retirement fails because vital material, relevant to : the decision, has been ignored and obsolete material, less relevant to the decision, has influenced the decision. Any order which materially suffers from the blemish of overlooking or ignoring wilfully or otherwise, : vital facts bearing on the decision is bad in law. Likewise, any action which irrationally digs up obsolete circumstances and obsessively reaches a decision based thereon, cannot be sustained. Legality depends on regard ; or the totality of material facts viewed in a holistic perspective." 
+</p> 
+
+<p id="p_160">21. The Supreme Court, therefore, struck down the order of compulsory retirement.
+</p> 
+
+<p id="p_161">22. In my view, the principles laid down in the aforesaid judgment will equally apply to the facts of this case as enumerated hereinbefore. A person found to be indispensible, who was confirmed on the basis of the confidential reports and was recommended for promotion in February, 1987, all on a sudden became unsuitable and a "dead wood" in December, 1987. The matterials disclosed do not justify the conclusion of the Reviewing Authority.
+</p> 
+
+<p id="p_162">23. The Supreme Court in <a href="/doc/1268556/" id="a_3">Brij Mohan Singh v. State of Punjab</a> reported in (1987-I-LLJ-522) observed as follows (pp: 524-525)
+  
+
+ "The purpose and object of the premature or compulsory retirement of Government employee is to weed out the inefficient, corrupt, dishonest or dead-wood from the Government service. This right of the Government is well established which is generally exercised in accordance with relevant service rules. The scope and ambit of exercise of this absolute power depends on the provisions of Premature Retirement Rules and it is always subject to Constitutional limitations.
+</p> 
+
+<p id="p_163">"The rule does not lay down any criteria, guidelines for the exercise of power, although public interest is specified in the rule, which means power has to be exercised in the public interest as specified in the rules only. The public interest in relation to public administration envisages retention of honest and efficient employees in service and dispensing the services of those who are inefficient, dead-wood or corrupt and dishonest. Therefore, the rule contemplates premature retirement of the inefficient, corrupt or dead-wood which would subserve the public interest." 
+</p> 
+
+<p id="p_164">The Supreme Court thereafter proceed to hold (p.526):
+</p><p id="p_165">  "It is now well settled that while considering the question of premature retirement it may be desirable to make an overall assessment of the Government servant's record, but while doing that, more value should be attached to the confidential reports pertaining to the years immediately preceding such consideration. It is possible that a new entrant to a service may have committed mistakes and for that reason he may have earned adverse entries and if those entries of early years of service are taken into consideration for prematurely retiring a Government employee then perhaps no employee would be safe even though he may have brilliant record of service in later years. This aspect was emphasised by this Court in a number of cases, namely, <a href="/doc/365151/" id="a_4">Baldev Raj Chadha v. Union of India</a>, ; <a href="/doc/1706559/" id="a_5">Brij Bihari Lal Agarwal v. High</a> Court ofM.P. (19S2-I-LLJ-1); <a href="/doc/551882/" id="a_6">Amar Kant Choudhary v. State of Bihar</a> ; and <a href="/doc/703248/" id="a_7">J.D. Srivastava v. State of M.P</a>. (1984-1- LLJ-344). This Court has consistently taken the view that old and stale entries should not be taken into account while considering the question of premature retirement; instead, the entries of recent past of five to ten years should be considered in forming the requisite opinion to retire a Government employee in public interest. It would be unreasonable and unjust to consider adverse entries of remote past and to ignore the good entries of recent past. We are therefore of the opinion that if entries for a period of more than 10 years past are taken into account it would be an act of digging out '. past to get some material to make art order against the employee. In view of this we would confine our scrutiny to the appellant's record of service for the last 10 years prior to the date on which he was prematurely retired." 
+</p> 
+
+<p id="p_166">24. There the Supreme Court considered the 10 years service record of the concerned Officer. The Supreme Court thereafter considered the effect of non- communication of the adverse remarks and also non-disposal of the representation made where adverse remarks had been communicated, (pp. 527-528):
+</p>   
+
+<p id="p_167">"The question which falls for consideration is whether the aforesaid two entries could be taken into consideration in forming the requisite opinion to retire prematurely the appellant from service. There is no doubt that whenever an adverse entry is awarded to a Government servant it must be communicated to him. The object and purpose underlying the communication is to afford an opportunity to the employee to improve his work and conduct and to make representation to the authority concerned against those entries. If such a representation is made, it is imperative that the authority should consider the representation with a view to determine as to whether the contents of the adverse entries are justified or not. Making of a representation is a valuable right to a Government employee and if the representation is not considered, it is bound to affect him in his service career, as in Government service grant of increment, promotion and ultimately premature retirement all depend on the scrutiny of his service records. <a href="/doc/399893/" id="a_8">In Gurdial Singh Fiji v. State of Punjab</a>, , the appellant therein was denied promotion on account of certain adverse entries against which he had made representations to the Government, but for some reason or other those representations could not be considered or disposed of. In view of those adverse entries he was not selected for promotion. This Court while considering the effect of non-consideration of the representation observed:
+</p><p id="p_168">  "The principle is well settled that in accordance with the rules of natural justice, an adverse report in confidential roll cannot be acted upon to deny promotional opportunities unless it is communicated to the person concerned so that he has an opportunity to improve his work and conduct or to explain the circumstances leading to the report. Such an opportunity is not an empty formality, its object, partially, being to enable the superior authorities to decide on a consideratin of the explanation offered by the person concerned, whether the adverse report is justified. Unfortunately, for some reason or another, not arising out of any fault on the part of the appellant, though the adverse report was communicated to him the Government has not been able to consider his explanation and decide whether the report was justified." 
+</p> 
+
+<p id="p_169">After the aforesaid observation, this Court directed the State Government to consider and dispose of the representation made by the appellant and thereafter the Selection Committee was directed to consider his case afresh. <a href="/doc/551882/" id="a_9">In Amar Kant Choudhury v. State of Bihar</a> (supra), the Court again emphasised that adverse report in a confidential roll cannot be acted upon to deny promotional opportunities unless it is communicated to the person concerned so that he has an opportunity to improve his work and conduct or to explain the circumstances leading to the report. Unless the representation against the adverse entry is considered and disposed of it is not just and fair to act upon those adverse entries. These decisions lay down the principle that unless an adverse report is communicated and representation, if any, made by the employee is considered, it cannot be acted upon to deny promotion. We are of the opinion that the same consideration must apply to a case where the adverse entries are taken into account in retiring an employee prematurely from service. It would be unjust and unfair and contrary to principles of natural justice to retire prematurely a Government employee on the basis of adverse entries which are either not communicated to him or if communicated, representations made against those entries are not considered and disposed of. The appellant had submitted his representations against adverse entries for the years 1971-72 and 1972-73 and admittedly those representations were not considered and disposed of and yet the appropriate authority considered those entries in forming opinion that the appellant's premature retirement was in the public interest. We are, therefore, of the opinion that for this reason the order of the State Government is not sustainable in law." 
+</p> 
+
+<p id="p_170">25. There, the Supreme Court set aside the
+ 
+
+order of compulsory retirement.
+</p> 
+
+<p id="p_171">26. One other fact cannot be lost sight of: Rule 56(J) of the Fundamental Rules is not intended for taking any penal action. The rule merely embodies one of the facets of the pleasure doctrine embodied in <a href="/doc/1342309/" id="a_10">Article 310</a> of the Constitution. Various considerations may weigh with the appropriate authority while exercising the power conferred under the rule. There is no denying the fact that in all governmental organisations there is a good deal of "dead wood". It is in public interest to chop off the same. Fundamental Rule 56(J) holds the balance between the rights of individual government servant and the interest of public.
+</p> 
+
+<p id="p_172">27. Although legal issues and facts and circumstances are similar to those raised in Matter No. 2352 of 1987 Suchit Kumar Ghosh v. Calcutta Port Trust, a few facts in this case deserve separate consideration. From the confidential reports it would be evident that the petitioner was an efficient officer. He has written several articles. On November 28, 1988, the Institute of Engineers (India) informed him that his article on "Development of Manually Usable Composite Materials for River Graining in Hooghly Estuary" has been selected for the award of Union Ministry of Irrigation and Power Prize for 1987- 88. If such officer is treated as a dead wood and has to be chopped off, it requires serious rethinking whether the members of the Review Committee should be considered utterly negligent in reviewing the case of this officer and whether anyone or more of them deserve the punishment awarded to the petitioner. In my view the Review Committee in recommending the case of the petitioner for compulsory retirement and the disciplinary authority in making the impugned order of compulsory retirement had proceeded mechanically without application of mind.
+</p> 
+
+<p id="p_173">28. For the reasons aforesaid and in view of the judgment deliverd today in Matter No, 2352 of 1987 (Suchit Kumar Ghosh) (supra), this application is allowed. The order of compulsory retirement dated December 9, 1987 and order of the Central Government, if any, are set aside and quashed.
+</p> 
+
+<p id="p_174">29. The appellate order also suffers from all the infirmities which renedered the order of compulsory retirement void. The appellate authority did not apply its mind to the facts and circumstances of this case. Appellate authority has not considered the entire records of the petitioner. It only endorsed the impugned order of the Chairman without finding out whether such an order is justified having regard to the excellent performance of the petitioner all throughout. It was necessary for the appellate authority to give reasons as the petitioner otherwise has no remedy to challenge the conclusions of the appellate authority. Mere concurrence with the Chairman without anything more would not be sufficient on the facts and circumstances of the case. The failure to disclose reasons by the appellate authority is also violative of the principles of natural justice.
+</p> 
+
+<p id="p_175">30, For the reasons aforesaid, the appellate order is also set aside and quashed.
+</p> 
+
+<p id="p_176">31. I have already indicated in my judgment that the petitioner is not only an excellent officer which has been recorded in a confidential report, he also published several articles. He also held a responsible post in the Ministry of Power during 1987-88. If such an officer is to be chopped off, I do not know if the members of the Review Committee would be able to justify their existence on the basis of their performance and ability. This case shows the mechanical manner in which the respondents have proceeded. I have not awarded cost in any other matter, but this is a case which deserves a separate consideration and accordingly the respondents shall pay costs of this application assessed at 200 GMs.
+</p> 
+
+<p id="p_177">32. By the interim order passed on December 14, 1987 it was directed that the petitioner shall not be treated as retired, but shall not join his duties until the matter is finally disposed of. Since this application has suceeded, the petitioner shall be allowed to resume his duties forthwith on a plain copy of the operative part of this judgment and order. He shall be treated as on duty for the entire period and shall be entitled to all service benefits including monetary benefits. All arrear salaries shall be paid to him within a week from the date of the communication of this order.
+</p> 
+
+<p id="p_178">33. Let a plain copy of the operative part of the judgment and order countersigned by an officer of this Court be made over to the learned Advocate for the petitioner.
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

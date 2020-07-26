@@ -1,0 +1,479 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>James Jacob vs The District Magistrate on 28 November, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/112045979/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/112045979/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/112045979/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/112045979/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=highway">highway</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=national%20highways%20">national highways </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=220">220</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shaji">shaji</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">James Jacob vs The District Magistrate on 28 November, 2013</div><pre id="pre_1">       
+
+  
+
+   
+
+ 
+ 
+                        IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                                           PRESENT:
+
+                     THE HONOURABLE MR.JUSTICE K.SURENDRA MOHAN
+
+                    FRIDAY, THE 23RD DAY OF MAY 2014/2ND JYAISHTA, 1936
+
+                                 WP(C).No. 4236 of 2014 (D)
+                                     ---------------------------
+
+PETITIONER :
+------------------
+
+            JAMES JACOB, AGED 68 YEARS,
+            S/O LATE JACOB, KOLLAMKULAM, PARATHODE P.O
+            KANJIRAPPALLY, KOTTAYAM 686512
+
+            BY ADVS.SRI.SHAJI P.CHALY
+                       SRI.R.SANJITH
+                       SMT.C.S.SINDHU KRISHNAH
+
+RESPONDENTS :
+----------------------
+
+        1. THE DISTRICT MAGISTRATE
+            OFFICE OF THE DISTRICT MAGISTRAT,
+             CIVIL STATION, KOTTAYAM 686001
+
+        2. MUNDAKAYAM SPECIAL GRADE GRAMA PANCHAYATH,
+            KOTTAYAM DISTRICT 686513
+            REPRSENTED BY ITS SECRETARY
+
+        3. REGIONAL TRANSPORT AUTHORITY,
+            OFFICE OF THE REGIONAL TRANSPORT OFFICER,
+            KOTTAYAM 686001
+
+        4. THE EXECUTIVE ENGINEER,
+            N.H (ROADS), DIVISION, MUVATTUPUZHA 686661
+
+        5. SUPERINTENDENT OF POLICE,
+            OFFICE OF THE SUPERINTENDENT OF POLICE
+            KOTTAYAM 686001
+
+        6. JOINT REGIONAL TRANSPORT OFFICER
+            SUB REGIONAL TRANSPORT OFFICE, KANJIRAPALLY
+            PONKUNNAM 686506
+
+        7. AUTORICKSHAW DRIVERS UNION,
+            INTUC, MUNDAKAYAM UNIT
+            KOTTAYAM 686513 REPRESENTED BY ITS SECRETARY
+
+        8. AUTORICKSHAW DRIVERS UNION,
+            BHARATIYAMAZDOOR SANGH (BMS), MUNDAKAYAM UNIT
+            KOTTAYAM 686513, RERPESENTED BY ITS SECRETARY
+
+WP(C).No. 4236 of 2014 (D)
+
+
+    9. AUTORICKSHAW THOZHILALI UNION,
+       KTUC, MUNDAKAYAM UNIT, KOTTAYAM 686513
+       RERPESENTED BY ITS SECRETARY
+
+    10. AUTORICKSHAW DRIVERS UNION,
+       STU, MUNDAKAYAM UNIT,KOTTAYAM 686513
+       RERPESENTED BY ITS SECRETARY
+
+    11. KANJIRAPPALLYTALUK AUTORICKSHAW DIRVERS UNION,
+       CITU, KOTTAYAM 686513, REPRESENTED BY ITS SECRETARY
+
+       R1&amp; R3 TO R6 BY GOVERNMENT PLEADER SRI.G. GOPAKUMAR
+       R2 BY ADV. SRI.LIJI.J.VADAKEDOM
+
+
+       THIS WRIT PETITION (CIVIL) HAVING BEEN FINALLY HEARD ON 23-05-2014,
+THE COURT ON THE SAME DAY DELIVERED THE FOLLOWING:
+
+BP
+
+WP(C).No. 4236 of 2014 (D)
+---------------------------
+
+                                           APPENDIX
+
+PETITIONER(S)' EXHIBITS
+-------------------------------------
+
+P1:       TRUE COPY OF THE OCCUPANCY CERTIFICATES A2 6118/2013
+           DATED 28-11-2013
+
+P2:        TRUE COPY OF THE TAX RECEIPTS BEARING NUMBER 8154455 AND 8154456
+           DATED 29-11-2013.
+
+P3:        TRUE COPY OF THE PHOTOGRAPH SHOWING THE UNAUTHORIZED AUTO
+           PARKING IN FRONT OF THE PETITIONER'S PROPERTY.
+
+P4:        TRUE COPY OF THE RIGHT TO INFORMATION APPLICATION
+           DATED 23-11-2013.
+
+P5:        TRUE COPY OF THE REPLY DATED 10-12-2013.
+
+P6:        TRUE COPY OF THE REPRESENTATION 04-11-2013.
+
+P7:        TRUE COPY OF THE ACKNOWLEDGMENT CARDS
+
+RESPONDENT(S)' EXHIBITS                   :    NIL.
+---------------------------------------
+
+                                                    //TRUE COPY//
+
+
+                                                    P.A. TO JUDGE
+BP
+
+
+
+                  K.SURENDRA MOHAN, J.
+             ---------------------------------------------
+                 W.P.(C) No.4236 of 2014-D
+             ----------------------------------------------
+           Dated this the 23rd day of May, 2014
+
+                         J U D G M E N T
+</pre>
+
+<p id="p_1">     The petitioner, owner of a commercial building by the
+
+side of a public road complains of unauthorised parking of
+
+contract vehicles and auto rickshaws by the side of the road
+
+and in front of his building completely blocking his road
+
+frontage and means of access.             Exhibit P3 photographs
+
+show the manner in which the vehicles are parked.
+
+According to Sri Shaji P. Chaly who appears for the
+
+petitioner, the illegal acts of the vehicles completely
+
+diminishes the utility of his property, the road frontage
+
+being the most important amenity that is available to him.
+
+Therefore, he seeks the issue of appropriate directions for
+
+removal of the obstructions.
+</p>
+<p id="p_2">     2.    The 6th respondent has filed a statement.
+
+Paragraph 2 of the said statement reads as follows:-
+
+</p><p id="p_3">            2.   It is hereby submitted that stringent action
+
+      will be taken in the event of the parking in front of the
+
+<span class="hidden_text" id="span_1">                                   -:2:-</span>
+W.P.(C) No.4236 of 2014-D
+
+      petitioner's building as it is causing any obstruction to
+
+      the free flow of traffic.     No approval is granted for
+
+      establishment of an autorickshaw stand in front of the
+
+      petitioner's building.   The co-operation of the Local
+
+      Government Institution is absolutely necessary for
+
+      establishment of an approved parking place.          This
+
+      respondent is regularly maintaining the traffic at
+
+      Mundakkyam Town and special attention is being taken
+
+      to ensure free flow of traffic.
+</p>
+<p id="p_4">      3.    A counter affidavit has been filed by the second
+
+respondent.         According to the second respondent, the
+
+petitioner's building is abutting the National Highway 220.
+
+Therefore, the said respondent does not have any authority
+
+to remove the unauthorised parking. Paragraphs 4 and 5 of
+
+the counter affidavit read as follows:-
+
+</p><blockquote id="blockquote_1">      4.     The allegation raised in paragraphs 1 to 5 and
+
+      Grounds A to R are misleading, not correct hence denied.
+
+      It is humbly submitted that the building owned by the
+
+      petitioner referred to in Para 1 of the Writ Petition is
+
+      situated at the side of National Highway 220. Earlier the
+
+      said road was the Kottayam-Kumily Road (K.K.Road)
+
+      which was a State Highway.          Later the same was
+
+      upgraded as a National Highway connecting Kollam-
+
+      Theni Road. It is learnt that presently the administration
+
+      of the said road is entrusted with the 4th respondent-
+
+<span class="hidden_text" id="span_2">                                   -:3:-</span>
+</blockquote><p id="p_5">W.P.(C) No.4236 of 2014-D
+
+      Executive       Engineer     (N.H.)    Roads    Division,
+
+      Moovattupuzha      and   with     the Assistant Executive
+
+      Engineer (N.H) Roads Division, Kanjirappally.      In the
+
+      above circumstances it can be seen that the above road
+
+      is not one which is vested with the 2nd respondent-
+
+      Panchayat under the provisions of Kerala Panchayat Raj
+
+      Act and hence the Panchayat does not have an
+
+      administrative authority over the said road.
+
+</p><p id="p_6">      5.     It is further humbly submitted that so far no
+
+      parking stand as provided under the provisions of the
+
+      Kerala Panchayat Raj (Landing Places, and Halting
+
+      Places and Cart Stands and other Vehicles Stands) Rules,
+
+      1995 also is provided in the road margin situated in front
+
+      of the building of the petitioner.
+</p>
+<p id="p_7">      4.    I have heard Advocate Shaji P.Chaly who appears
+
+for the petitioner, the learned Government Pleader as well
+
+as Sri.Liji J. Vadakedom who appears for the second
+
+respondent. Though notice has been served on the other
+
+respondents, there is no appearance for them.
+
+</p><p id="p_8">      5.    The pleadings clearly show that, no parking
+
+facility has been designated by the second respondent who
+
+is the competent authority, in front of the petitioner's
+
+building. It is also stated that, the road itself is part of the
+
+<span class="hidden_text" id="span_3">                                 -:4:-</span>
+W.P.(C) No.4236 of 2014-D
+
+National Highway 220, the control of which is with the
+
+National Highway Authority of India. Therefore, it is stated
+
+that the 4th respondent is the competent authority to remove
+
+the obstruction that has been caused.
+</p>
+<p id="p_9">      6.    The authority that is competent to regulate traffic
+
+on the Highways and to take action for unauthorised
+
+parking of vehicles is the 5th respondent and his
+
+subordinates.           According   to the petitioner, though
+
+representations have been submitted to all the authorities,
+
+there has been no action to remove the obstruction. The
+
+parking of autorickshaws and other commercial vehicles
+
+clearly obstruct the entry into the parking space that has
+
+been provided by the petitioner to his building. The shop
+
+rooms that form part of the building are also rendered
+
+inaccessible. It cannot be disputed that respondents 4 and
+
+5 have a duty to ensure that such unauthorised acts and
+
+obstructions as seen in Exhibit P3 photographs are not
+
+created.     It is only appropriate that the authorities take
+
+<span class="hidden_text" id="span_4">                             -:5:-</span>
+W.P.(C) No.4236 of 2014-D
+
+effective action to keep the frontage of the petitioner's
+
+building free of any such obstruction.
+
+</p><p id="p_10">      For the above reasons, this writ petition is allowed.
+
+Respondents 4 and 5 are directed to ensure that no
+
+commercial vehicles or autorickshaws are parked in front of
+
+the petitioner's building causing obstruction to the
+
+enjoyment thereof by the petitioner and his tenants and the
+
+public who frequent the establishments functioning from
+
+the building in the manner visible in Exhibit P3. It shall be
+
+done effectively, if necessary, by displaying "No Parking"
+
+boards or by other suitable methods and by initiating stern
+
+action against the offenders.
+</p>
+<p id="p_11">
+
+
+</p><p id="p_12">                                             Sd/-
+</p><p id="p_13">                                   K.SURENDRA MOHAN,
+                                            JUDGE
+
+kkj
+
+
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

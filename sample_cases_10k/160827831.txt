@@ -1,0 +1,756 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Nafees Ahmed vs . Ashok Kapoor on 19 November, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/160827831/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/136948773/">Section 166 in The Motor Vehicles Act, 1988</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/160827831/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/160827831/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nafed">nafed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pecuniary%20damages">pecuniary damages</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dayal%20singh">dayal singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=road%20accident%20%20">road accident  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=head%20injuries">head injuries</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=non%20pecuniary%20damages">non pecuniary damages</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Nafees Ahmed vs . Ashok Kapoor on 19 November, 2011</div><div class="doc_author">Author: Sh. Sanjiv Jain</div>
+
+<pre id="pre_1">                                                                Nafees Ahmed Vs. Ashok Kapoor
+                                             1
+
+
+      IN THE COURT OF SHRI SANJIV JAIN PO : MACT­02 :  SOUTH  DISTT.
+                                   SAKET COURTS  :  NEW DELHI.
+In  Suit No. : 852/10
+
+
+1.        Nafees Ahmed
+          S/o Sh. Anish Ahmed
+          R/o Gali No.6, Jama Masjid,
+          Delhi
+          And also at
+          G­595, Gali No.20,
+          Old Mustafabad near Noor Masjid,
+          Delhi - 110 094
+                                                                         ...... Petitioner
+                                   Versus 
+
+
+1.        Sh. Ashok Kapoor                       (Driver)
+          S/o Sh. Bhim Sain Kapoor
+
+2.        Smt. Neelima Kapoor                    (Owner)
+          W/o Sh. Ashok Kapoor
+          Both R/o 102, Jor Bagh
+          New Delhi
+
+3.        ICICI Lombard General Insurance Co. Ltd.
+          Space No. 315, 3rd Floor,
+          Aggarwal City Mall Road,
+          No. 44, Pitampura, New Delhi
+          New Delhi - 110017            (Insurer)
+                                                                     ......Respondents
+
+Suit No. : 852/10                                                                        1/14
+                                                                         Nafees Ahmed Vs. Ashok Kapoor
+                                                  2
+
+
+          Date of Institution                                 :               18.08.2010
+
+          Date of reserving of judgment/order   :                             02.11.2011
+
+          Date of pronouncement                               :               19.11.2011
+
+
+
+J U D G M E N T :
+</pre>
+
+
+<p id="p_1">     1. This petition u/s. 166 &amp; 140 of the <a href="/doc/785258/" id="a_1">M.V. Act</a>, 1988 as amended upto 
+
+          date   (hereinafter   referred   to   as   Act)   has   been   filed  by   Sh.   Nafees 
+
+          Ahmed   claiming   a   compensation   of   Rs.   30,00,000/­   for   the   injuries 
+
+          sustained by him in an accident which took place on 23.06.2010 at 
+
+          about 5.30 AM at Red light (crossing) near Dayal Singh College, Lodhi 
+
+          Road, New Delhi.
+</p>
+<p id="p_2">
+
+</p><p id="p_3">     2. Briefly   the   facts   as   stated   in   the   petition   are   that   on   23.06.2010   at 
+
+          about 5.30 AM, the petitioner was going in his TSR No. DL 1L G 7907 
+
+          to Max Muller Marg.  When he reached the crossing near Dayal Singh 
+
+          college,  Lodhi  Road  all  of a sudden  a  TATA Indigo  car  bearing  no. 
+
+          DL   3C   AY   0680   being   driven   in   a   rash   and   negligent   manner   by 
+
+          respondent   no.1   hit   his   TSR.     Due   to   this   impact,   the   TSR   struck 
+
+
+
+Suit No. : 852/10                                                                                2/14
+                                                                       Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_1">                                                 3</span>
+
+
+          against   the   divider.    It   was   stated   that   the   petitioner  received   head 
+
+          injuries.  He was removed to JPN Apex Trauma Centre, AIIMS Hospital 
+
+          where an operation was done and a part of the bone from his head 
+
+          was planted in his stomach.  It was stated that a case was registered 
+
+          vide FIR 96/10 U/s 279/337 <a href="/doc/1569253/" id="a_2">IPC</a> at P.S. Lodhi Colony.  It is stated that 
+
+          petitioner was an auto rickshaw driver and earning Rs. 10,000/­ p.m.  
+
+
+
+</p><p id="p_4">     3. It was stated that the car was being driven by respondent no.1, owned 
+
+          by respondent no.2 and it was insured with respondent no.3 insurance 
+
+          company.
+</p>
+<p id="p_5">
+
+</p><p id="p_6">     4. Notice of the petition was given to the respondents. The respondent 
+
+          no.1 and 2 did not appear and as such they proceeded against Ex­
+
+          parte vide order dated 24.09.10.  The Respondent No.3 filed its written 
+
+          statement denying the factum of accident.   However, it admitted that 
+
+          the vehicle was insured vide policy no. 3001/56840790/01/000 and it 
+
+          was valid from 19.05.10 to 18.05.2011.  
+</p>
+<p id="p_7">
+
+
+</p><p id="p_8">Suit No. : 852/10                                                                              3/14
+                                                                      Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_2">                                                4</span>
+
+
+</p><p id="p_9">     5. From   the   pleadings,   following   issues   were   framed   vide   order   dated 
+
+          24.09.2010 :­  
+
+</p><p id="p_10">                    (i)     Whether   the   injured   received   injuries   in 
+
+                    road accident on 23.06.10 at 5.30 am at red light, 
+
+                    near Dayal Singh college, B.P. Road, Lodhi road, 
+
+                    New   Delhi   due   to   rash   and   negligent   driving   of 
+
+                    TATA Indigo bearing no. DL 3C AY 0680 driven by 
+
+                    R­1 and insured by R­3?
+</p>
+<p id="p_11">
+
+</p><pre id="pre_2">                    (ii)    To   what   amount   of   compensation   is 
+
+                    petitioner entitled and from whom?
+
+
+
+                    (iii)   Relief. 
+
+
+
+</pre><p id="p_12">     6. The   petitioner   tendered   his   affidavit   in   evidence   Ex.PW1/A   and   the 
+
+          medical   documents,   medical   bills,   prescriptions   and   election   I­card 
+
+          Ex.PW1/1 to Ex.PW1/C.  He averred on the lines of the main petition. 
+
+
+
+</p><p id="p_13">     7. No witness was examined by the respondents.
+
+
+
+
+</p><p id="p_14">Suit No. : 852/10                                                                             4/14
+                                                                       Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_3">                                                 5</span>
+
+
+</p><p id="p_15">     8. I   have   heard   the   arguments   advanced   by   Ld.   Counsel   Ms.   Kanta 
+
+          Chaudhary   for   the   petitioner   and   Sh.   Sameer   Mehndiratta   for   the 
+
+          Insurance company.  
+</p>
+<p id="p_16">
+
+
+</p><p id="p_17">     9. My findings on the issues are as follows :
+
+</p><p id="p_18">                                           I S S U E  N O . 1 
+
+
+</p><p id="p_19">     10. It is well settled law that where petition under <a href="/doc/136948773/" id="a_3">Section 166</a> of the Act is 
+
+          instituted, it becomes the duty of the petitioner to establish rash and 
+
+          negligent  driving.    To   prove   rash   and   negligent  driving   in   a  petition 
+
+          under <a href="/doc/785258/" id="a_4">Motor Vehicles Act</a>, Tribunal need not go into the technicality 
+
+          because   strict   rules   of   procedure   and   evidence   are   not   followed. 
+
+          Basically,   in   road   accident   cases,   Tribunal   is   simply   to   quantify   the 
+
+          compensation  which  is just rational and  reasonable  on  the  basis of 
+
+          inquiry.  The proceedings under <a href="/doc/785258/" id="a_5">Motor Vehicles Act</a> are not akin to the 
+
+          proceedings in a civil suit. Further, roving enquiry is not required to 
+
+          prove the rashness and negligence on the part of the driver as has 
+
+          been   held   in  Kaushumma   Begum   and   others   Vs.   New   India  
+
+          Assurance Co. Ltd. 2001  ACJ 421 SC.  
+</p>
+<p id="p_20">
+
+</p><p id="p_21">Suit No. : 852/10                                                                              5/14
+                                                                 Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_4">                                             6</span>
+
+
+
+
+</p><p id="p_22">     11. To prove the negligence, the petitioner stepped into the witness box as 
+
+          PW­1.  He stated that on 23.06.10 at about 5.30 AM he was going in 
+
+          his TSR no. DL 1R G 7907 from B.P. Marg to Max Muller Marg.  When 
+
+          he reached the crossing near Dayal Singh College, all of a sudden a 
+
+          TATA   Indigo   car   bearing   no.   DL   3C   AY   0680   being   driven   by 
+
+          respondent no.1 in a rash and negligent manner hit his TSR with great 
+
+          force due to which he fell down on the road and sustained multiple 
+
+          injuries.   He stated that a case was registered vide FIR 96/10  at the 
+
+          police station Lodhi Colony.   He placed on record certified copies of 
+
+          FIR, Site plan and proceedings of criminal case, which go to show that 
+
+          the accident had occurred due to the negligence of the car driver i.e. 
+
+          respondent no.1.   Hon'ble High Court of Delhi in case titled ''National 
+
+          Insurance Company Limited V/s  Pushpa Rana''  reported as  2009 
+
+          ACJ 287  has held that whenever criminal proceedings are placed on 
+
+          record on completion of investigation by the police, then that in itself is 
+
+          sufficient proof of the negligent driving of driver of the offending vehicle 
+
+          involved in the accident.  
+</p>
+<p id="p_23">
+
+
+</p><p id="p_24">Suit No. : 852/10                                                                        6/14
+                                                                       Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_5">                                                 7</span>
+
+
+</p><p id="p_25">     12. It   is   therefore,   prima­facie   established   that   the   petitioner   sustained 
+
+          grievous   injuries   in   the   accident   which   occurred   due   to   rash   and 
+
+          negligent   driving   of   offending   vehicle   by   respondent   no.1.     It   is   an 
+
+          admitted fact on record that the vehicle was owned by respondent no.2 
+
+          and it was insured with respondent no.3 insurance company.   Thus, 
+
+          the issue no.1 is decided in favour of the petitioner and against the 
+
+          respondents.  
+</p>
+<p id="p_26">
+
+
+</p><p id="p_27">                                           I S S U E  N O . 2 
+
+
+
+</p><p id="p_28">     13. The petitioner has claimed Rs. 30,00,000/­ as compensation in respect 
+
+          of the injuries sustained by him. In a road accident a person is entitled 
+
+          to compensation for the pecuniary  and non­pecuniary damages. 
+
+
+</p><p id="p_29">     14. It has been held by Hon'ble Apex Court in R.O. Hattangadi V/s Pest  
+
+          Control (India) Pvt. Ltd., AIR 1995 SC 755 that:­
+
+                      "Broadly   speaking,   while   fixing   the   amount   of 
+                      compensation payable to a victim of an accident, the 
+                      damages have to be assessed separately as pecuniary 
+                      damages and special damages.   Pecuniary damages 
+                      are  those  which  the  victim  has  actually   incurred and 
+
+Suit No. : 852/10                                                                              7/14
+                                                                           Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_6">                                                  8</span>
+
+
+                    which   are   capable   of   being   calculated   in   terms   of 
+                    money;   whereas   non­pecuniary   damages   are   those 
+                    which are incapable of being assessed by arithmetical 
+                    calculations.     In   order   to   appreciate   two   concepts 
+                    pecuniary damages may include expenses incurred by 
+                    the claimant: (i) medical attendance; (ii) loss of earning 
+                    of profit up to the date of trial; (iii) other material loss. 
+                    So far as non­pecuniary damages are concerned, they 
+                    may   include   (i)   damages   for   mental   and   physical 
+                    shock, pain and suffering already suffered or likely to 
+                    be suffered in future; (ii) damages to compensate for 
+                    the loss of amenities of life which may include a variety 
+                    of matters i.e. on account of injury, the claimant may 
+                    not be able to walk, run or sit; (iii) damages for the loss 
+                    of   expectation   of   life,   i.e.   on   account   of   injury   the 
+                    normal longevity of the person concerned is shortened; 
+</p><p id="p_30">                    (iv)   inconvenience,   hardship,   discomfort, 
+                    disappointment, frustration and mental stress in life."
+
+
+          Let me assess the compensation which the petitioner is entitled for 
+          under different heads.
+</p>
+<p id="p_31">
+
+          COMPENSATION   FOR   EXPENSES   INCURRED   ON 
+
+          MEDICAL TREATMENT
+
+</p><p id="p_32">     15. PW1 has stated that immediately after the accident he was removed to 
+
+          Trauma centre, AIIMS where his MLC was prepared.  He stated that he 
+
+          received head injury and an operation was done.   A part of bone from 
+
+Suit No. : 852/10                                                                                  8/14
+                                                                     Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_7">                                                9</span>
+
+
+          his head was planted in his stomach.   He remained admitted in the 
+
+          hospital from 23.06.10 to 28.06.10.  He was again admitted on 29.06.10 
+
+          and   discharged   on   the   same   day.     He   submitted   the   medical   bills 
+
+          amounting to Rs. 2,100/­.   On going through the discharge summary, 
+
+          medical papers and the bills, I find that the petitioner might have spent 
+
+          much   more   on   his   medical   treatment.   Looking   into   the   injuries   and 
+
+          facts and circumstances of the case I award a sum of  Rs. 5,000/­  to 
+
+          the petitioner towards medical expenses.  
+
+
+
+
+          COMPENSATION   FOR   PAIN   AND   SUFFERINGS   AND 
+
+          ENJOYMENT OF LIFE :
+</p>
+<p id="p_33">     16. Testimony   of   PW­1   shows  that   he   received   head   injury   and   an 
+
+          operation was conducted.  He remained admitted in the hospital from 
+
+          23.06.10 to 28.06.10.  He was again admitted on 29.06.10.   He had to 
+
+          remain on bed for about 04 months. The injuries had given him lot of 
+
+          pain and sufferings.  Looking into the injuries and the circumstances, I 
+
+          award a sum of Rs. 25,000/­ towards pain and sufferings.  
+
+
+
+
+</p><p id="p_34">Suit No. : 852/10                                                                            9/14
+                                                                      Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_8">                                                10</span>
+
+
+
+          COMPENSATION   FOR   SPECIAL   DIET,   ATTENDANT 
+          CHARGES AND CONVEYANCE CHARGES  :
+</p><p id="p_35">     17. PW1   has  stated   that   he   remained   admitted   in   the   hospital   from 
+
+          23.06.10 to 28.06.10.   He was again admitted on 29.06.10.   He also 
+
+          attended the hospital as an outdoor patient.  He also took the help of 
+
+          the attendant in his day­to­day work. The special diet was advised to 
+
+          him   for   his   early   recovery.     Taking   into   consideration,   the   multiple 
+
+          injuries and all the facts, I award a sum of Rs. 15,000/­ towards special 
+
+          diet, conveyance and attendant charges.  
+</p>
+<p id="p_36">
+
+          COMPENSATION FOR LOSS OF INCOME :
+</p><p id="p_37">     18. Although the petitioner has stated that at the time of accident he was 
+
+          auto rickshaw driver and earning Rs. 10,000/­ per month but he did not 
+
+          file any proof of income.  Medical record and the documents show that 
+
+          he remained confined to bed for about 04 months.  Taking the wages 
+
+          for a skilled person as on date of accident as per schedule i.e. Rs. 
+
+          6,448/­ p.m.,   the total loss of income comes to Rs. 6,448 x 4 = Rs. 
+
+          25,792/­ which is rounded off to Rs. 26,000/­.   I, therefore, award a 
+
+          sum of Rs. 26,000/­ towards Loss of Income.
+
+
+
+</p><p id="p_38">Suit No. : 852/10                                                                            10/14
+                                                                      Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_9">                                               11</span>
+
+
+</p><p id="p_39">     19. Thus   the   total   compensation   awarded   in   favour   of   the   petitioner   is 
+
+          assessed as under :
+</p>
+<pre id="pre_3">          MEDICAL EXPENSES                          :      Rs.   5,000/­
+
+
+          PAIN &amp; SUFFERINGS &amp; 
+          ENJOYMENT OF LIFE                         :      Rs. 25,000/­ 
+
+
+          SPEICAL DIET, ATTENDANT &amp;
+          CONVEYANCE CHARGES                        :      Rs. 15,000/­
+
+
+          LOSS OF INCOME                            :      Rs. 26,000/­
+                                                          ­­­­­­­­­­­­­­­­­­
+          TOTAL                                     :     Rs. 71,000/­  
+                                                          ­­­­­­­­­­­­­­­­­­
+
+
+                                        L I A B I L I T Y 
+
+
+</pre><p id="p_40">     20. As   the   offending   vehicle   was   being   driven   by   respondent   no.1, 
+
+          therefore   primary   liability   to   compensate   the   petitioner   is   that   of 
+
+          respondent   no.1.     The   vehicle   was   owned   by   respondent   no.2, 
+
+          therefore, he become vicariously liable to compensate the petitioner.  It 
+
+          is   an   admitted   position   on   record   that   the   offending   vehicle   was 
+
+          insured   with   respondent   no.3,   Insurance   Company,   therefore, 
+
+
+
+Suit No. : 852/10                                                                            11/14
+                                                                        Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_10">                                                  12</span>
+
+
+          respondent No.3, Insurance Company becomes contractually liable to 
+
+          indemnify the insured for the above mentioned awarded amount to the 
+
+          extent of liability of the insured. 
+</p>
+<p id="p_41">                    In   the   instant   case   no   evidence   is   brought   by   the   Insurance 
+
+          Company to show that there was breach of any insurance policy by the 
+
+          respondent No.1 and 2 or that the respondent no.1 was not having a 
+
+          valid   and   effective   having   Driving   License   at   the   time   of   accident. 
+
+          Thus, I am of the view that respondent No.3 i.e. Insurance Company is 
+
+          liable to pay compensation for the above awarded amount to the extent 
+
+          of liability to the insured. 
+</p>
+<p id="p_42">
+
+
+</p><p id="p_43">                                               R E L I E F 
+
+</p><p id="p_44">     21. In view of my findings I award a sum of  Rs. 71,000/­ (Rs. Seventy 
+
+          One   Thousand   only)  as   compensation   with   interest   @   9   %   per 
+
+          annum from the date of filing the petition till the date of its realization in 
+
+          favour of the petitioner and against the respondent No. 3 on account of 
+
+          its liability.
+</p>
+<p id="p_45">
+
+
+</p><p id="p_46">Suit No. : 852/10                                                                              12/14
+                                                                          Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_11">                                                   13</span>
+
+
+</p><p id="p_47">     22. Respondent No.3, Insurance Company is directed to pay the awarded 
+
+          amount by way of cheque in favour of the petitioner, to be deposited in 
+
+          this   Tribunal,   within   a   period   of   30   days   of   this   order   failing   which 
+
+          Insurance Company shall be liable to pay future interest @ 12% per 
+
+          annum   on   the   awarded   amount   till   its   realization   (for   the   delayed 
+
+          period). 
+</p>
+<p id="p_48">
+
+</p><p id="p_49">     23. Copy of this Judgment be given to the parties for compliance.
+
+
+
+</p><p id="p_50">     24. Nazir   attached   to   the   Tribunal   of   undersigned   is   directed   to   issue 
+
+          notice to the petitioner immediately on deposit of the cheque of the 
+
+          awarded amount by the Insurance Company in this Tribunal so as to 
+
+          facilitate him to get the same released. 
+</p>
+<p id="p_51">
+
+</p><p id="p_52">     25. File   be   consigned   to   Record   Room   after   giving   the   cheque   to   the 
+
+          petitioner.
+</p>
+<p id="p_53">
+Announced in the Open Court 
+        th
+on 19  Day of  November, 2011                                             (SANJIV JAIN)
+                                                                  PO­MACT­02 : SOUTH DISTT.</p><pre id="pre_4">
+                                                                        NEW DELHI : 19.11.2011  
+
+
+Suit No. : 852/10                                                                                 13/14
+                                                                  Nafees Ahmed Vs. Ashok Kapoor
+<span class="hidden_text" id="span_12">                                            14</span>
+
+
+
+                     Nafees Ahmed    Vs.    Ashok Kapoor
+
+
+
+Suit No. 852/10
+
+
+
+19.11.2011
+
+
+
+          Present:      Ld. Counsel for the parties.
+
+</pre><p id="p_54">                        Vide   separate   order   of   even   date   a   compensation   of 
+
+Rs. 71,000/­ (Rs. Seventy One Thousand only) with interest @9% from the 
+
+date of filing the petition till the date of its realization  is passed in favour of 
+
+petitioner. 
+</p>
+<p id="p_55">                        Copy of the award be given to the parties.
+</p>
+<p id="p_56">                        File be consigned to Record Room.
+</p>
+<p id="p_57">
+</p><p id="p_58">                                                                 (SANJIV JAIN)
+                                                           PO­MACT­02 : SOUTH DISTT.</p><pre id="pre_5">
+                                                                 NEW DELHI : 19.11.2011  
+
+
+
+
+Suit No. : 852/10                                                                        14/14
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

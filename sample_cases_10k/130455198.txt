@@ -1,0 +1,670 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Raju on 28 October, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/130455198/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 8 docs 
+      
+        - [<A HREF="/search/?formInput=cites:130455198">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/619940/">Section 363 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1163239/">S. Varadarajan vs State Of Madras on 9 September, 1964</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1613898/">Section 207 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/130455198/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/130455198/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=366%20a">366 a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=aman%20">aman </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20363">ipc 363</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kidnapping">kidnapping</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=366%20A%20of%20Indian%20Penal%20Code">366 A of Indian Penal Code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.366%20ipc%20">s.366 ipc </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=366%20ipc">366 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=363/366%20i.p.c">363/366 i.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20366%20a">section 366 a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20366%20of%20indian%20penal%20code">section 366 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%20366%20of%20ipc">sec 366 of ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.%20366%20%28a%29%20of%20IPC">sec. 366 (a) of IPC</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363%20%26%20366%20indian%20penal%20code%20%20">section 363 & 366 indian penal code  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363%2C366%20ipc">section 363,366 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=penal%20code%20366">penal code 366</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=guardianship">guardianship</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363%20366">section 363 366</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363">section 363</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20363%20a%20of%20indian%20penal%20code">section 363 a of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.363%20ipc">sec.363 ipc</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Raju on 28 October, 2014</div><div class="doc_author">Author: Sh. Vidya Prakash</div>
+
+<pre id="pre_1">FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_1">IPC</a>; P.S. Aman Vihar                                                                D.O.D. 28.10.2014 
+
+
+
+
+     IN THE COURT OF SHRI VIDYA PRAKASH: ADDL. SESSIONS 
+           JUDGE­04 (NORTH): ROHINI COURTS: DELHI 
+
+
+Session Case No. 03/1
+Unique Case ID No.    02404R0259012011
+State            Vs.                    Raju
+                                        S/o Sh. Man Singh
+                                        R/o E­3/248, Veney Enclave,
+                                        Laxmi Vihar, Prem Nagar­III,
+                                        Delhi­110081
+                               
+FIR No.                       :         191/10
+Police Station                :         Aman Vihar
+Under Sections  :                       363/366 <a href="/doc/1569253/" id="a_2">IPC</a>
+
+
+Date of committal to Sessions Court:  03.12.2011                                                                               
+Date on which judgment was reserved: 28.10.2014
+Date on which Judgment pronounced:    28.10.2014
+
+
+                                                        JUDGMENT
+</pre>
+<p id="p_1">                         On 13.06.2010, complainant Uday Raj (PW4) visited PS Aman 
+
+Vihar and lodged complaint that his minor daughter (identity of victim has 
+
+been deliberately withheld and she shall be referred as "V") aged about 16 
+
+years was missing since 11 pm of 23.05.2010 on which DD No. 31A dated 
+
+25.05.2010 was lodged.   He raised suspicion over the accused herein to be 
+
+involved in the kidnapping of his minor daughter, on the basis that accused 
+
+used to visit in the neighbouring house of one Suraj.   On the basis of said 
+
+statement, FIR U/s 363 <a href="/doc/1569253/" id="a_3">IPC</a> was registered in PS Aman Vihar.
+
+
+</p><pre id="pre_2">State V/s  Raju ("Acquitted")                                                                                      Page  1  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_4">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+                         It   is   mentioned   in   the   chargesheet   that     victim   "V"   appeared 
+
+</pre><p id="p_2">through Advocate in the Court of Ld. MM on 14.07.2010 and thereafter, her 
+
+statement   U/s   164   <a href="/doc/445276/" id="a_5">Cr.P.C</a>.   was   got   recorded.    She  was   also  got   medically 
+
+examined in the hospital.  She stated before investigating officer that she had 
+
+married   with   accused   and   the   accused   did   not   use   any   force   against   her. 
+
+During the course of investigation, offence u/s 366 <a href="/doc/1569253/" id="a_6">IPC</a> was also added and 
+
+the accused was formally arrested in this case.  
+</p>
+<p id="p_3">                         After   completion   of   investigation,   chargesheet   had   been   filed 
+
+before the Court.
+</p>
+<p id="p_4">                         After compliance of <a href="/doc/1613898/" id="a_7">section 207</a> Cr.P.C., the case was committed 
+
+to the Court of Sessions and was assigned to Ld. Predecessor of this Court.
+
+</p><p id="p_5">                         After hearing arguments on the point of charge, Ld. Predecessor 
+
+of this Court was pleased to frame the charge u/s 363/366 <a href="/doc/1569253/" id="a_8">IPC</a> against the 
+
+accused   vide order dated 13.01.12 to which accused pleaded not guilty and 
+
+claimed trial.  
+</p>
+<p id="p_6">                         In   support   of   its   case,   prosecution   examined   as   many   as   six 
+
+witnesses  namely   PW1   Smt. Nirmala Devi, PW2 HC  Jai  Singh, PW3  Dr. 
+
+Rajesh Kohli, PW4 Sh. Udai Raj, PW5 Ct. Ravinder Kumar and PW6 i.e 'V'.
+
+</p><p id="p_7">                         Considering the fact that none of the star witnesses relied by the 
+
+prosecution in the present case, had supported the prosecution story on any 
+
+material point, prosecution evidence has been closed as no useful purpose 
+
+would have been served in examining the remaining prosecution witnesses as 
+
+it   would   have   been   an   exercise   in   futility   in   examining   those   prosecution 
+
+witnesses besides wastage of precious time of the Court.
+
+</p><pre id="pre_3">State V/s  Raju ("Acquitted")                                                                                    Page  2  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_9">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+</pre><p id="p_8">                         Since there was no incriminating evidence against the accused, 
+
+his statement u/s 313 <a href="/doc/445276/" id="a_10">Cr.P.C</a>.  had  been dispensed with.
+
+</p><p id="p_9">                         I have heard Sh. Pankaj Bhatia, Ld. Addl. PP on behalf of State 
+
+and ld. counsel Sh. Mahesh Kumar Adv. on behalf of accused.   I have also 
+
+gone through the material available on record.
+</p>
+<p id="p_10">                         Before discussing the submissions made on behalf of both the 
+
+sides,   it   would   be   appropriate   to   discuss,   in   brief   the   testimonies   of   the 
+
+aforesaid  star witnesses examined by prosecution during trial.
+
+
+PUBLIC WITNESSES:­
+
+
+                         PW­1 Smt. Nirmala Devi:   This witness produced the relevant 
+
+record regarding admission of victim "V" in Prathmik Vidyalaya, Sambhawa, 
+
+Gauriganj,   Amethi,   U.P.   in   Class­I   on   01.07.2000   and   proved   the   copy   of 
+
+relevant   page   of   admission   register   as   Ex.PW1/A.     According   to   the   said 
+
+entry, the date of birth of "V" was 01.05.1994.  She deposed that "V" had left 
+
+the school in the year 2005 and School Leaving Certificate Ex.PW1/B was 
+
+issued in this regard.  The said witness has not been cross examined on behalf 
+
+of accused despite grant of opportunity.      
+</p>
+<p id="p_11">                         PW­4 Sh. Udai Raj:­   He is the complainant in this case.   He 
+
+deposed   that   "V"   was   aged   about   16   years   when   she   left   the   house   on 
+
+23.05.2010 at about 11 pm and did not return back.  On 25.05.2010, he lodged 
+
+missing report in respect of his daughter "V" at PS Aman Vihar.  
+
+</p><p id="p_12">                         He   further   deposed   that   on   13.06.2010,   he   went   to   PS   Aman 
+
+
+State V/s  Raju ("Acquitted")                                                                                    Page  3  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_11">IPC</a>; P.S. Aman Vihar                                                                   D.O.D. 28.10.2014 
+
+
+
+Vihar   and   on   the   basis   of   his   statement   Ex.PW4/A,   FIR   in   question   was 
+
+registered.      He further deposed that on enquiry, it was revealed to him that 
+
+accused   had   kidnapped   his   daughter   as   he   used   to   reside   in   his 
+
+neighbourhood.  He was informed by the police after about 1 - 1½ month that 
+
+his   daughter   has   been   recovered   and   he   obtained   his   daughter   from   the 
+
+permission of the Court.  
+</p>
+<p id="p_13">                         During   cross   examination,   he   admitted   that   he   did   not   see 
+
+accused herein taking his daughter.   He also admitted that his daughter was 
+
+not recovered from the possession of the accused and he had merely raised 
+
+suspicion   upon   the   accused   during   chief   examination.     He   had   not   seen 
+
+anybody  kidnapping his daughter.  However, he denied the suggestion that his 
+
+daughter was 18 years of age at the time of incident.                                                           
+
+</p><p id="p_14">                         PW­6 'V':  She deposed that she had developed friendly relations 
+
+with the accused in the year 2010. She, on her own, had left the house and 
+
+accused did not kidnap her from the lawful guardianship of her parents.  
+
+</p><p id="p_15">                         She   further   deposed   that   she   had   gone   to   Tis   Hazari   Court 
+
+alongwith   the   accused   where   they   exchanged   garlands   with   each   other. 
+
+Accused had never pressurized her for getting married with him nor forced 
+
+her to do any illegal act.  She had left the house of her own and no one had 
+
+induced her.  After performing marriage, she had gone to her native village at 
+
+Sultanpur, U.P. and resided with her grand parents who, in­turn, informed her 
+
+parents after which her parents came to native village alongwith some police 
+
+officials and took her to Delhi where she was got medically examined.  She 
+
+
+
+State V/s  Raju ("Acquitted")                                                                                         Page  4  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_12">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+had also made statement U/s 164 <a href="/doc/445276/" id="a_13">Cr.PC</a> before Ld. MM.  She also identified 
+
+her signature at point­A on said statement Ex.PW6/A.   She further deposed 
+
+that her correct date of birth is 01.05.1994.  
+</p>
+<p id="p_16">                         During cross examination, she admitted that she had disclosed 
+
+her date of birth as 16.04.1991 to the accused and had introduced herself to be 
+
+adult/major   at   the   time   of   exchanging   garlands   with   the   accused.     She 
+
+admitted that for a valid marriage as per Hindu rites and rituals, saptpadi is 
+
+mandatory and no saptpadi had taken place between her and accused at any 
+
+point of time. 
+</p>
+<p id="p_17">
+POLICE WITNESSES:­ 
+
+                         PW­2 HC Jai Singh:  This is a formal witness who was working 
+
+as  Duty   Officer   in   PS   Aman   Vihar.     He   deposed   about   factum   regarding 
+
+recording of missing report of "V" vide DD No. 19A on 25/5/10 and proved 
+
+copy thereof as Ex.PW2/A.
+</p>
+<p id="p_18">                         He also deposed about the factum regarding registration of FIR 
+
+and proved  copy of FIR as Ex.PW2/B.  The said witness has not been cross 
+
+examined on behalf of  accused despite grant of opportunity.  
+
+</p><p id="p_19">                         PW­5 Ct. Ravinder Kumar:  This witness had accompanied IO 
+
+to Village Sambhawa, Gauri Ganj, District Sultanpur, U.P. on 16.07.2010 and 
+
+collected age proof of "V" from Primary Government School issued by its 
+
+Principal.
+</p>
+<p id="p_20">                         During cross examination, he denied the suggestion that he did 
+
+
+State V/s  Raju ("Acquitted")                                                                                    Page  5  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_14">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+not collect the said certificate.
+</p>
+<p id="p_21">
+MEDICAL EVIDENCE:­
+
+                         PW­3 Dr. Rajesh Kohli:  This witness deposed on behalf of Dr. 
+
+Avdhesh, Sr. Resident as the concerned doctor had already left the services of 
+
+DDU Hospital.  He identified the signature and handwriting of Dr. Avdhesh 
+
+on MLC no. 1343 Ex.PW3/A of "V".  
+</p>
+<p id="p_22">                         During cross examination, he admitted that he had no personal 
+
+knowledge of the case.  
+</p>
+<p id="p_23">
+</p><p id="p_24">                       ARGUMENTS ADVANCED &amp; CASE LAW CITED
+
+                         It has been argued by Ld Additional PP that accused herein had 
+
+kidnapped "V" by inducing her to go away from the lawful guardianship of 
+
+her parents.  In this regard, he heavily relied upon the testimony of PW6 i.e. 
+
+"V" wherein she has deposed that she had accompanied the accused to Tis 
+
+Hazari   Court   premises   where   she   entered   into   marriage   with   him   by 
+
+exchanging   garlands with each other.  He further argued that since accused 
+
+compelled "V"  to enter into marriage with him, offence U/s 366 <a href="/doc/1569253/" id="a_15">IPC</a> has also 
+
+been proved in this case.  Therefore, the accused should be convicted for the 
+
+said offence. 
+</p>
+<p id="p_25">                         On the other hand, Ld. counsel of accused vehemently argued 
+
+that both the star witnesses of prosecution i.e. PW4 and PW6 did not support 
+
+its case on any material point and thus, prosecution has failed to prove its case 
+
+
+State V/s  Raju ("Acquitted")                                                                                    Page  6  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_16">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+beyond reasonable doubt.
+</p>
+<p id="p_26">                         The expression "kidnapping from lawful guardianship" has been 
+
+defined in <a href="/doc/1515807/" id="a_17">Section 361</a> IPC, which reads as under:
+</p>
+<blockquote id="blockquote_1">                          "Whoever takes to entices any minor under sixteen years  
+                          of   age   if   a   male,   or   under   eighteen   years   of   age   if   a  
+                          female,   or   any   person   of   unsound   mind,   out   of   the  
+                          keeping of the lawful guardian of such minor or person of  
+                          unsound mind, without the consent of such guardian, is  
+                          said   to   kidnap   such   minor   or   person   from   lawful  
+                          guardianship.
+</blockquote>
+<blockquote id="blockquote_2">                          Explanation­   The   words   "lawful   guardian"   in   this  
+                          section   include   any   person   lawfully   entrusted   with   the  
+                          care and custody of such minor or other person".</blockquote><p id="p_27">
+
+</p><p id="p_28">                         It is quite evident from the bare perusal of aforesaid provision 
+
+that inducement or allurement of minor by the accused, is sine­qua­ non for 
+
+attracting the offence of kidnapping which is punishable by <a href="/doc/619940/" id="a_18">Section 363</a> IPC. 
+
+It is well settled law that where a minor herself leaves the house of her father 
+
+without any inducement or allurement by the accused and where the accused 
+
+merely allows her to accompany him, the accused cannot be held guilty of 
+
+kidnapping. Still if any authority is required, then reference with advantage 
+
+can be made to the judgment of Hon'ble Apex Court in the matter titled as 
+
+<a href="/doc/990563/" id="a_19">State of Haryana vs. Raja Ram</a> reported at AIR 1973 SC 819.  Similar view 
+
+has   been   taken   by   Hon'ble   Apex   Court   in   the   celebrated   judgment   of 
+
+<a href="/doc/1163239/" id="a_20">Varadarajan vs. State of Madras</a> reported at AIR 1965 SC 942.
+
+</p><p id="p_29">                         In other words, offence of kidnapping as defined in Section 361 
+
+
+State V/s  Raju ("Acquitted")                                                                                    Page  7  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_21">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+
+<a href="/doc/445276/" id="a_22">Cr.P.C</a>. is not made out when a minor girl, of her own accord, comes out of 
+
+the custody of her lawful guardians and at subsequent point of time, accused 
+
+joins her.  
+</p>
+<p id="p_30">                         It may also be noted here that offence of kidnapping is not made 
+
+out where a minor girl is found to be in the company of accused. Same is not 
+
+sufficient to prove the offence of kidnapping unless and until there is some 
+
+cogent evidence on record to show that it was the accused alone who had 
+
+enticed or took away the minor with some kind of inducement.   The entire 
+
+burden to prove the same lies upon the prosecution and said burden has to be 
+
+discharged beyond reasonable doubt.
+</p>
+<p id="p_31">                         In the case in hand, PW6 i.e. "V" herself admitted during chief 
+
+examination   itself   that   accused   had   not   kidnapped   her   from   the   lawful 
+
+guardianship of her parents.  She has also testified that she had left her house 
+
+of her own and no one had induced her in this regard.
+</p>
+<p id="p_32">                         The reliance placed by Ld. Additional PP upon the testimony of 
+
+PW4 who is none else but natural father/guardian of "V", would also go to 
+
+show that nothing incriminating has come on record during the testimony of 
+
+said witness as she admitted during cross examination that he did not see  any 
+
+person   including   accused   taking   her   daughter   away   from   his   lawful 
+
+guardianship.   He also admitted during cross examination that her daughter 
+
+"V" was not recovered from the possession of accused and he has merely 
+
+raised suspicion against the accused.   It needs no emphasis that suspicion 
+
+alone cannot take place of proof.   That being so, Court is of the view that 
+
+State V/s  Raju ("Acquitted")                                                                                    Page  8  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_23">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+prosecution has been miserably failed to show that it was the accused who 
+
+
+
+had enticed the victim i.e. "V" or had taken her away out of the keeping of 
+
+her lawful guardianship or without the consent of her guardien.
+
+</p><p id="p_33">                         This brings me down to the other offence punishable U/s 366 
+
+<a href="/doc/1569253/" id="a_24">IPC</a>   charged   against   the   accused   in   this   case.   In   order   to   prove   the   said 
+
+offence, it was mandatory for the prosecution to establish by way of cogent 
+
+evidence that the accused herein had compelled the victim "V" to enter into 
+
+marriage with him.  The other parts of <a href="/doc/796352/" id="a_25">Section 366</a> IPC are undisputedly not 
+
+applicable to the facts of the case herein.   However, the prosecution again 
+
+failed to prove the same during the course of trial.   Rather, PW6 i.e. "V" 
+
+admitted during her cross examination that she had introduced herself to be 
+
+major/adult   before   the   accused   and   had   disclosed   her   date   of   birth   to   be 
+
+16.04.1991 to the accused.  She also admitted that she was well aware about 
+
+the fact that for entering into valid marriage as per Hindu law, saptpadi is 
+
+mandatory.  She also admitted that no saptpadi had taken place between the 
+
+accused and her at any point of time.  Not only this, she also deposed during 
+
+chief   examination  itself   that accused never pressurized her for performing 
+
+marriage with him nor forced her to do any illegal act.  That being so, Court 
+
+is of the considered opinion that all   the necessary ingredients of offence 
+
+punishable U/s 366 <a href="/doc/1569253/" id="a_26">IPC</a> could not be fulfilled by way of evidence, which has 
+
+come on record in this case.      
+</p>
+<p id="p_34">                         In   view  of   the   aforesaid discussion, Court  is of  the view that 
+
+prosecution has miserably failed to establish the charges levelled against the 
+
+State V/s  Raju ("Acquitted")                                                                                    Page  9  of 10 
+ FIR No. 191/10; U/s 366/363 <a href="/doc/1569253/" id="a_27">IPC</a>; P.S. Aman Vihar                                                              D.O.D. 28.10.2014 
+
+
+
+accused beyond shadow of doubt.   Consequently, accused   namely Raju is 
+
+acquitted of the charge levelled against him.   File be consigned to Record 
+
+Room after compliance of <a href="/doc/445276/" id="a_28">Section 437A</a> Cr.P.C.</p><pre id="pre_4">
+
+
+Announced in open Court today 
+dt. 28.10.2014                                                             (Vidya Prakash)
+                                                                      Additional Sessions Judge­04
+                                                                      North District, Rohini Courts
+                                                                                  Delhi
+
+
+
+
+State V/s  Raju ("Acquitted")                                                                                  Page  10  of 10 
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,415 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>No.22 vs Ourt No.13 The Assistant ... on 13 July, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/16590066/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 12 docs 
+      
+        - [<A HREF="/search/?formInput=cites:16590066">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/110162683/">the Central Excise Act, 1944</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/198257891/">The Security Interest (Enforcement) Rules, 2002</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/15859491/">Section 11 in the Central Excise Act, 1944</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1190954/">Section 529A in The Companies Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1818287/">Union Of India (Uoi) And Ors. vs Ingersoll Rand (India) Ltd. on 15 July, 1997</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/16590066/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/16590066/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/16590066/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">No.22 vs Ourt No.13 The Assistant ... on 13 July, 2017</div><pre id="pre_1">                                                          1
+
+                               W. P. 13790 (W) OF 2017
+             13.07.2017
+g                 M/s. Jaishree Steels Pvt. Ltd. (Unit-II) &amp; Anr.
+ . No.22                                 -vs-
+ourt no.13   The Assistant Commissioner, Central Excise, Durgapur-I Division &amp; Ors.
+                        -----------------------------------------------------
+</pre>
+
+<p id="p_1">             Mr.   Pranab Kr. Datta
+             Mr.   Koushik Sain
+             Mr.   Prasenjit Pal
+             Mr.   Arijit Chakraborty
+             Mr.   Avirup Chatterjee                - for the Petitioner
+
+             Mr. Uday Sankar Bhattacharya
+             Mr. Bhaskar Prasad Banerjee            - for Respondents
+
+
+
+
+                     The petitioners assail two attachment notices issued by the Central Excise
+
+             authorities.
+</p>
+<p id="p_2">                     The learned Senior Advocate for the petitioners submits that, the first petitioner
+
+             had purchased the assets of a company incorporated under the provisions of the
+
+             <a href="/doc/1353758/" id="a_1">Companies Act</a>, 1956 pursuant to a sale notice issued by a Bank acting under the
+
+             provisions of Securitization and Reconstruction of Financial Assets and <a href="/doc/198257891/" id="a_2">Enforcement of
+
+             Security Interest Act</a>, 2002. He submits that, the business of such company was not put
+
+             up for sale. Only the assets were put up for sale. The first petitioner had purchased
+
+             such assets from the Bank. He refers to the sale notice issued by the Bank. He refers to
+
+             the various clauses of the sale notice, which stipulate that the sale was on as is where is
+
+             and whatever there is basis. He submits that, there is no whisper in the sale notice that
+
+             the business of the company was being sold. The first petitioner purchased the assets
+
+             only without the business of such company. The liability on account of central excise
+
+             cannot be foisted upon the petitioners.     He relies upon 2013 (295) E.L.T. 12 (S.C.)
+
+             (<a href="/doc/123741567/" id="a_3">Rana Girders Ltd. -vs- Union of India</a>) in support of the contention that, there is a
+<span class="hidden_text" id="span_1">                                                2</span>
+
+distinction between a purchase of assets and a purchase of the business. He submits
+
+that, the Hon'ble Supreme Court noticing such distinction did not fasten the liability on
+
+a purchaser of assets. He further submits that a review petition directed against Rana
+
+Girders Ltd. (supra) was rejected by the Hon'ble Supreme Court, reported in 2015 (320)
+
+E.L.T. A175 (S.C.) (<a href="/doc/1818287/" id="a_4">Union of India -vs- Rana Girders Ltd</a>.). He refers to 2016 (332)
+
+E.L.T. 601 (Guj.) (<a href="/doc/117701371/" id="a_5">Shreejikrupa Spinners Pvt. Ltd. -vs- Union of India</a>)        and 2009
+
+(234) E.L.T. 596 (Bom.) (<a href="/doc/109429725/" id="a_6">Tata Metaliks Limited -vs- Union of India</a>) and submits
+
+that, in terms of <a href="/doc/15859491/" id="a_7">section 11</a> of the Central Excise Act, 1944, recovery of sums from
+
+transferee of assets is permissible only when such transferee takes over the entire
+
+running business. In the present case, the first petitioner not having done so, the first
+
+petitioner is not liable. With regard to distinction between ownership of business and
+
+ownership of assts, he relies upon (2006) 1 SCC 615 (<a href="/doc/330146/" id="a_8">State of Karnataka &amp; Anr. -vs-
+
+Shreyas Papers (P) Ltd. &amp; Ors</a>.). He submits that, in view of <a href="/doc/1080390/" id="a_9">section 11</a> of the Act of
+
+1944 not empowering the Central Excise authorities to foist any liability of the defaulter
+
+to the purchaser of its assets, the order of attachment and all consequent orders of
+
+attachment made therein should be quashed.
+</p>
+<p id="p_3">       The learned advocate appearing for the Department submits that the Bank was
+
+well aware of the dues of its borrower towards central excise. The Bank was informed
+
+from time to time by the authorities about such dues. The Bank ought not to have put
+
+up the property for sale without informing the Central Excise authorities.       The first
+
+petitioner having purchased the property with the knowledge of default of the central
+
+excise, the first petitioner is liable to pay the same.
+</p>
+<p id="p_4">       I have considered the rival contentions of the parties and the materials made
+
+available on record.
+</p><span class="hidden_text" id="span_2">                                              3</span><p id="p_5">
+
+</p><p id="p_6">       Central Excise authorities had various claims against one of its assessees. Such
+
+assessee is a borrower of a Bank. The Bank had proceeded under the provisions of the
+
+Act of 2002 against its security interest.    It had put up the assets belonging to the
+
+defaulter/borrower for sale. The first petitioner had participated in such sale. The sale
+
+was on as is where is and whatever there is basis as appearing in the sale notice. The
+
+first petitioner being successful in the auction sale had purchased such properties from
+
+the Bank.
+</p>
+<p id="p_7">       Upon such purchase being completed, Central Excise authorities had proceeded
+
+against the first petitioner for default of the assessee/borrower. No doubt, the Central
+
+Excise authorities had informed the Bank as to the liability of its borrower on account of
+
+central excise duty. It can also be contended with some justification that, the petitioners
+
+were aware of such defaults by the borrower. The question is whether such knowledge
+
+empowers the Central Excise authorities to fasten the liability of the assessee on the
+
+purchaser in absence of the purchaser not purchasing the business of the assessee or
+
+not.
+</p>
+<p id="p_8">       In the facts of the present case, as the sale notice itself demonstrate that, the sale
+
+was on as is what is and whatever there is basis, the business of the assessee was not
+
+put up for sale.    The first petitioner did not purchase the business of the borrower.
+
+Therefore, whether as purchaser of the assets of the assessee can the first petitioner be
+
+said to be a person liable to pay the amount defaulted by the assessee?
+
+</p><p id="p_9">       Such issue was considered in Rana Girders Ltd. (supra). It is of the view that,
+
+only when the purchaser purchases the entire business it is liable for central excise due.
+
+It is of the following view:
+</p>
+<p id="p_10">       "21.   A harmonious reading of the judgments in Macson and SICOM would
+tend us to conclude that it is only in those cases where the buyer had purchased
+the entire unit i.e. the entire business itself, that he would be responsible to
+<span class="hidden_text" id="span_3">                                                4</span>
+
+discharge the liability of Central Excise as well. Otherwise, the subsequent
+purchaser cannot be fastened with the liability relating to the dues of the
+Government unless there is a specific provision in the Statute, claiming "first
+charge for the purchaser". As far as <a href="/doc/110162683/" id="a_10">Central Excise Act</a> is concerned, there was no
+such specific provision as noticed in SICOM as well. Proviso to <a href="/doc/15859491/" id="a_11">Section 11</a> is now
+added by way of amendment in the Act only w.e.f. 10-9-2004. Therefore, we are
+eschewing our discussion regarding this proviso as that is not applicable insofar as
+present case is concerned. Accordingly, we thus, hold that insofar as legal position
+is concerned, UPFC being a secured creditor had priority over the excise dues. We
+further hold that since the appellant had not purchased the entire unit as a
+business, as per the statutory framework he was not liable for discharging the dues
+of the Excise Department.
+</p><p id="p_11">       22.     With this, we now revert to the first issue, namely interpretation of
+the clause in the Sale Deed for land and building and similar clause in Agreement
+of Sale for machinery on the basis of which appellant is held to be liable to pay the
+dues. These clauses have already been incorporated in the earlier portion of our
+judgment.
+</p><p id="p_12">       23.     We may notice that in the first instance it was mentioned not only in
+the   public   notice   but   there   is   a   specific   clause   inserted   in   the   Sale
+Deed/Agreement as well, to the effect that the properties in question are being
+sold free from all encumbrances. At the same time, there is also a stipulation that
+"all these statutory liabilities arising out of the land shall be borne by purchaser in
+the sale deed" and "All these statutory liabilities arising out of the said properties
+shall be borne by the vendee and vendor shall not be held responsible in the
+Agreement of Sale".      As per the High Court, these statutory liabilities would
+include excise dues. We find that the High Court has missed the true intent and
+purport of this clause.       The expressions in the Sale Deed as well as in the
+Agreement for purchase of plant and machinery talks of statutory liabilities
+"arising out of the land" or statutory liabilities "arising out of the said properties"
+(i.e. machinery). Thus, it is only that statutory liabilities which arises out of the
+land and building or out of plant and machinery which is to be discharged by the
+purchaser. Excise dues are not the statutory liabilities which arise out of the said
+land and building or the plant and machinery. Statutory liabilities arising out of
+<span class="hidden_text" id="span_4">                                             5</span>
+
+the land and building could be in the form of the property tax or other types of
+cess relating ton property etc. Likewise, statutory liability arising out of the plant
+and machinery could be the sales tax etc. payable on the said machinery. As far as
+dues of the Central Excise are concerned, they were not related to the said plant
+and machinery or the land and building and thus did not arise out of those
+properties. Dues of the Excise Department became payable on the manufacturing
+of excisable items by the erstwhile owner, therefore, these statutory dues are in
+respect of those items produced and not the plant and machinery which was used
+for the purposes of manufacture. This fine distinction is not taken note at all by
+the High Court."
+</p>
+<p id="p_13">      Tata Metaliks Limited (supra) and Shreejikrupa Spinners Pvt. Ltd. (supra) are
+
+also of similar view. In Tata Metaliks Limited (supra) it is held that, the provisions of
+
+the Act of 2002 will prevail over the provisions of the <a href="/doc/110162683/" id="a_12">Central Excise Act</a>, 1944. It has
+
+also held that a purchaser of an asset in an auction held under the Act of 2002 will hold
+
+such assets free from encumbrances.
+</p>
+<p id="p_14">      There is a distinction between business, ownership of business and the assets of
+
+the business. It is explained in Shreejikrupa Spinners Pvt. Ltd. (supra). It explains
+
+such concepts as follows:
+</p>
+<p id="p_15">      "15.   In this regard a perusal of the auction notice issued by the ARCIL
+reveals that the assets were sold in three lots. The first lot comprised of land and
+building and the second lot was comprised of plant and machinery and structures
+of the defaulter unit and the third lot was a composite lot comprised of lot 1 and
+lot 2. It is, therefore, clear that it was the assets of the defaulter company that
+had been sold to the petitioner and that the erstwhile unit has not been sold as a
+going concern."
+</p>
+<p id="p_16">      Section 11 (E) of the Central Excise Act, 1944 is as follows:
+
+      "SECTION 11E.         Liability under Act to be first charge. - Notwithstanding
+anything to the contrary contained in any <a href="/doc/110162683/" id="a_13">Central Act</a> or <a href="/doc/1443301/" id="a_14">State Act</a>, any amount of
+duty, penalty, interest, or any other sum payable by an assessee or any other
+<span class="hidden_text" id="span_5">                                                6</span>
+
+person under this Act or the rules made thereunder shall, save as otherwise
+provided in <a href="/doc/1190954/" id="a_15">section 529A</a> of the Companies Act, 1956 (1 of 1956), the Recovery of
+Debts Due to Banks and the Financial Institutions Act, 1993 (51 of 1993) and the
+Securitisation and Reconstruction of Financial Assets and the <a href="/doc/198257891/" id="a_16">Enforcement of
+Security Interest Act</a>, 2002 (54 of 2002), be the first charge on the property of the
+assessee or the person, as the case may be."
+</p>
+<p id="p_17">         In my view, <a href="/doc/110162683/" id="a_17">section 11E</a> of the Act of 1944 will apply and will create a first charge
+
+on the property of the assessee or the purchaser of such property as the case may be in
+
+the event, the same is not contrary to the provisions of the Act of 2002.    In the present
+
+case, the Bank claims first charge over the properties put up for sale.        Moreover, as
+
+noted about, the entire business was not put up for sale. Only the assets of the assessee
+
+were put up for sale.
+</p>
+<p id="p_18">         In such circumstances, Central Excise authorities have acted without jurisdiction
+
+in proceeding against the petitioners in respect of the defaults committed by the
+
+assessee. All proceedings including the orders of attachment initiated by the Central
+
+Excise authorities on the basis of default of its assessee against the petitioners are set
+
+aside.
+</p>
+<p id="p_19">         W. P. No. 13790 (W) of 2017 is disposed of without any order as to costs.
+
+         Urgent certified website copies of this order, if applied for, be made available to
+
+the parties upon compliance of the requisite formalities.
+
+
+</p><p id="p_20">                                  (Debangsu Basak, J.)
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

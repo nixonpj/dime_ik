@@ -1,0 +1,683 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S Rajindra Iron Mart &amp; Anr vs Dda &amp; Anr. on 20 July, 2011</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/82753221/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1692639/">the Delhi Special Police Establishment Act, 1946</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/629330/">Smt. S. R. Venkataraman vs Union Of India &amp; Anr on 2 November, 1978</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/873530/">Vishwa Nath Gupta vs M.C.D. &amp; Ors. on 1 February, 2011</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/82753221/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/82753221/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/82753221/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anand%20parbat">anand parbat</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22warehouse%22%20">"warehouse" </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=allotment%20of%20land">allotment of land</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=produce%20some%20document">produce some document</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=rajiv%20sahai%20endlaw">rajiv sahai endlaw</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=delhi%20shops%20">delhi shops </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=laches">laches</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">M/S Rajindra Iron Mart &amp; Anr vs Dda &amp; Anr. on 20 July, 2011</div><div class="doc_author">Author: Rajiv Sahai Endlaw</div>
+
+<pre id="pre_1">            *IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                                             Date of decision: 20th July, 2011
++                            W.P.(C) 6398/2008
+
+         M/S RAJINDRA IRON MART &amp; ANR               ..... Petitioners
+                       Through: Mr. Maninder Singh, Sr. Adv. with
+                                Mr. P.S. Bindra, Mr. Harish Sharma
+                                &amp; Mr. V. Mukerjee, Adv.
+                                   Versus
+         DDA &amp; ANR.                                         ..... Respondents
+                            Through:      Mr. P.K. Mittal &amp; Mr. Manoj Sinha,
+                                          Adv.
+CORAM :-
+HON'BLE MR. JUSTICE RAJIV SAHAI ENDLAW
+1.       Whether reporters of Local papers may          Not necessary
+         be allowed to see the judgment?
+
+2.       To be referred to the reporter or not?             Not necessary
+
+3.       Whether the judgment should be reported            Not necessary
+         in the Digest?
+
+RAJIV SAHAI ENDLAW, J.
+</pre>
+<p id="p_1">1.       The then Ministry of Health &amp; Family Planning and Works, Housing
+
+&amp; Urban Development had in or about the year 1970 floated the Scheme of
+
+Large Scale Acquisition, Development and Disposal of Land. The said
+
+Scheme inter alia provided for extension of concessions, relating to the
+
+
+<span class="hidden_text" id="span_1">W.P.(C)6398/2008                                                     Page 1 of 15</span>
+ allotment of land at pre-determined rates to the industries in non-
+
+conforming areas which had to be shifted to areas earmarked for the said
+
+purpose, also to the owners/occupants of warehouses in the non-
+
+conforming areas which had to be shifted to areas earmarked for that
+
+purpose. The petitioner no.1 Firm, of which petitioner no.2 is the partner
+
+claiming to be trading in Iron and Steel in wholesale from its office at
+
+3482, Hauz Qazi, Delhi with warehousing activity at 31/3-D, Gali No.4,
+
+Anand Parbat, New Delhi applied for allotment of an industrial plot and
+
+was vide letter dated 29th September, 1970 of the respondent DDA
+
+informed that it has been allotted Plot No.179 in Block-A in Okhla
+
+Industrial Area, Phase-I, New Delhi, in the draw of lots held on 14th
+
+September, 1970 and Allotment-cum-Demand letter dated 30 th October,
+
+1970 was issued to the petitioner.
+</p>
+<p id="p_2">2.       The petitioner was vide letter dated 10th / 23rd December, 1993 of the
+
+respondent DDA informed that as per verification by Dy. Director of
+
+Industries (Lands), no warehousing activity was found at 31/3-D, Gali
+
+No.4, Anand Parbat, New Delhi where the petitioner had claimed to be
+
+
+<span class="hidden_text" id="span_2">W.P.(C)6398/2008                                                      Page 2 of 15</span>
+ carrying on warehousing activity; the respondent DDA for the said reason
+
+cancelled the allotment aforesaid to the petitioner and informed the
+
+petitioner that the amount deposited by the petitioner for the said plot shall
+
+be refunded in due course.
+</p>
+<p id="p_3">3.        The petitioner represented against the aforesaid cancellation. The
+
+respondent DDA vide its letter dated 6th August, 1996 requested the Dy.
+
+Director, Industries (Lands) of the Office of the Commissioner of
+
+Industries, Govt. of NCT of Delhi to conduct an inquiry on the basis of the
+
+documents filed by the petitioner along with its representation and other
+
+material, whether the petitioner had carried on the warehousing activities
+
+from Anand Parbat or not.
+</p>
+<p id="p_4">4.       The Dy. Director of Industries (Land) of the Govt. of NCT of Delhi
+
+vide letter dated 10th December, 1996 to the respondent DDA informed
+
+that the documents produced by the petitioner and which were mostly
+
+official papers and should thus be prima facie accepted as correct and true
+
+unless proved otherwise, prima facie indicated the presence of the
+
+petitioner at an office at Hauz Qazi and at a unit/property in the Anand
+
+
+<span class="hidden_text" id="span_3">W.P.(C)6398/2008                                                     Page 3 of 15</span>
+ Parbat area till the year 1991-92; the respondent DDA was as such asked to
+
+consider the allotment on the basis of the said documents.
+
+</p><p id="p_5">5.       The respondent DDA thereafter made further inquiries from the
+
+petitioner and ultimately the Director (Lands) of the DDA on 4 th April,
+
+2000 recommended restoration of allotment to the petitioner to be
+
+considered favourably.
+</p>
+<p id="p_6">6.       It is the case of the petitioner that notwithstanding the aforesaid,
+
+nothing further was done at the end of the respondent DDA and nothing
+
+further communicated to the petitioner inspite of repeated requests and
+
+reminders of the petitioner. The petitioner ultimately in response to an RTI
+
+query was under cover of reply dated 12 th October, 2007 furnished a copy
+
+of the order dated 11 th May, 2000 of the Lt. Governor, Delhi as the
+
+Chairman of the respondent DDA refusing to accept the recommendation
+
+dated 4th April, 2000 of the Director (Lands) for the reason that there was
+
+"no strong evidence to show that the warehousing activity was carried out
+
+at premises no.31/3D, Gali No.4, Anand Parbat, New Delhi" by the
+
+
+
+
+<span class="hidden_text" id="span_4">W.P.(C)6398/2008                                                    Page 4 of 15</span>
+ petitioner and that the same was "also borne out in the report of the
+
+Industries Deptt. of Govt. of Delhi."
+</p>
+<p id="p_7">7.       Aggrieved therefrom the present petition was filed. Notice of the
+
+petition was issued. The petition was dismissed vide order dated 21 st
+
+August, 2009 for the reason that the petitioner between the years 2000 and
+
+2007 did not send any written letter or communication to the respondent
+
+DDA and the petition had been filed after eight years of the rejection dated
+
+11th May, 2000 and was thus belated and suffered from laches. It was also
+
+held that the representation against the cancellation communicated in the
+
+year 1993 was made after 2½ years and the petitioner had admittedly
+
+stopped the business activity from Anand Parbat in the year 1991-92. It
+
+was thus held that the cancellation effected in the year 1993 was rightful.
+
+</p><p id="p_8">8.       The petitioner preferred an intra court appeal being LPA
+
+No.510/2009 against the dismissal of the writ petition. The said appeal was
+
+allowed on 1st December, 2009. It was held by the Division Bench that the
+
+order dated 11th May, 2000 (supra) of the Lt. Governor, Delhi having not
+
+been communicated to the petitioner and the petitioner having learnt of the
+
+
+<span class="hidden_text" id="span_5">W.P.(C)6398/2008                                                     Page 5 of 15</span>
+ same only upon receipt of reply dated 12 th October, 2007 (supra), the
+
+petition was not belated and did not suffer from laches. The writ petition
+
+has as such been remanded for decision on merits.
+</p>
+<p id="p_9">9.       Though a perusal of the order sheet does not show any interim relief
+
+to have been granted qua the plot aforesaid but the senior counsel for the
+
+petitioner has contended and the counsel for the respondent DDA has
+
+confirmed that the aforesaid plot of land has been lying vacant and open
+
+and has not been allotted by the respondent DDA to any other person.
+
+</p><p id="p_10">10.      The senior counsel for the petitioner has invited attention to the
+
+verification carried out by the Directorate of Industries of the Govt. of
+
+NCT of Delhi before the Land Allotment Advisory Committee of the Govt.
+
+of NCT of Delhi recommended the name of the petitioner for allotment
+
+under the Scheme aforesaid, of land at pre-determined rates.
+
+</p><p id="p_11">11.      The counsel for the respondent DDA has not controverted the
+
+aforesaid document. The aforesaid document shows and as is to be
+
+reasonably expected also, that the initial allotment to the petitioner was
+
+also not merely on the asking but only after the authorities concerned had
+
+<span class="hidden_text" id="span_6">W.P.(C)6398/2008                                                    Page 6 of 15</span>
+ satisfied themselves of the eligibility of the petitioner for allotment of land
+
+under the Scheme aforesaid.
+</p>
+<p id="p_12">12.      The senior counsel for the petitioner has also impugned the
+
+cancellation of 1993 on the ground that the same was without issuing any
+
+show cause notice and/or without any hearing. It is also contended that
+
+reference in the order dated 11th May, 2000 of the Lt. Governor, Delhi to
+
+the report of the Industries Department is inexplicable in as much as there
+
+is no reference to any such report against the petitioner of the Industries
+
+Department of the Govt. of NCT of Delhi, neither in the notice dated 10 th /
+
+23rd December, 1993 issued to the petitioner nor in the recommendation
+
+dated 4th April, 2000 of the Director (Lands) of the respondent DDA. It is
+
+yet further contended that the respondent DDA in its counter affidavit has
+
+stated that the said verification by the Industries Department was in the
+
+year 1998. It is urged that no report of any such inspection has however
+
+been produced. It is contended that once it is the stand of the petitioners
+
+themselves that they had been compelled to close the warehouse at Anand
+
+Parbat in the year 1991-92 for the reason of the same being a non-
+
+
+<span class="hidden_text" id="span_7">W.P.(C)6398/2008                                                      Page 7 of 15</span>
+ conforming user, the inspection in the year 1998 was meaningless. It is
+
+contended that the said reasoning amounts to malice in law as held in <a href="/doc/629330/" id="a_1">Smt.
+
+S.R. Venkataraman v. Union of India</a> (1979) 2 SCC 491. Reference is
+
+also made to various documents including of the MCD produced by the
+
+petitioners before the respondent DDA and Commissioner (Industries) and
+
+which establish the existence of the premises/godown of the petitioner at
+
+31/3-D, Gali No.4, Anand Parbat, New Delhi.
+</p>
+<p id="p_13">13.      Per contra, the counsel for the respondent DDA has contended that
+
+the arguments of the petitioner are misdirected. It is urged that the question
+
+for determination is not whether the petitioner had a premises at Anand
+
+Parbat (and which fact alone is proved from the documents produced and
+
+relied upon by the petitioner) but whether the petitioner was having a
+
+warehouse at the contemporaneous time. It is contended that the petitioner
+
+has failed to produce any material whatsoever to show that it was
+
+occupying any property at Anand Parbat as a warehouse at the
+
+contemporaneous time. The counsel for the respondent DDA has taken me
+
+through the various Income Tax Returns produced by the petitioner itself
+
+
+<span class="hidden_text" id="span_8">W.P.(C)6398/2008                                                     Page 8 of 15</span>
+ to show that the annual turnover of the petitioner during the relevant time
+
+was of `38,000/- and `7,000/-. It is contended that such low turnover itself
+
+shows that the petitioner did not require any warehouse. It is yet further
+
+contended that no document of registration under Delhi Shops and
+
+<a href="/doc/1692639/" id="a_2">Establishments Act</a>,1954 or the Stock Register or documents of delivery or
+
+release of goods from the said godown/warehouse or of incurring loading
+
+and unloading charges have been produced. It is contended that the
+
+averments in the petition also are vague. No date of actual closure of the
+
+warehouse has been stated. It is further contended that the fact that the
+
+petitioner waited from 2000 to 2008 itself shows that the petitioner was not
+
+in the need of any godown and has filed the present petition only as a
+
+speculator in immovable property.
+</p>
+<p id="p_14">14.      I am unable to agree with the counsel for the respondent DDA. The
+
+arguments of delay/laches/inaction on the part of the petitioner had on an
+
+earlier occasion found favour with this Bench and the writ petition was
+
+dismissed. However the said order was set aside by the Division Bench in
+
+an intra court appeal and which judgment has attained finality and it is now
+
+
+<span class="hidden_text" id="span_9">W.P.(C)6398/2008                                                   Page 9 of 15</span>
+ not open to the respondent DDA to at least before this Bench re-urge the
+
+same contentions.
+</p>
+<p id="p_15">15.      As aforesaid, the allotment in favour of the petitioner came to be
+
+made pursuant to the land owning and allotting agencies satisfying
+
+themselves of the eligibility of the petitioner for such allotment. Once the
+
+authorities have held the petitioner to be eligible for allotment i.e having a
+
+warehouse or carrying on warehousing activities in a non-conforming area
+
+from where the petitioner was required to be shifted, the said decision
+
+could not have been re-visited without a case of the petitioner, in the matter
+
+of procuring such allotment, having practiced fraud having been
+
+established. No such case has been made out. Such decisions if allowed to
+
+be re-opened and re-visited, would give an unguided arbitrary power in the
+
+hands of the officials to harass the applicants/allottees of land at their
+
+whims and fancies. Nothing has been pleaded as to why the need arose for
+
+a fresh verification in 1993 i.e. after nearly 23 years of the allotment of the
+
+land to the petitioner in the year 1970. In fact it appears that it was the
+
+respondent DDA which in the face of sea change in the property values
+
+
+<span class="hidden_text" id="span_10">W.P.(C)6398/2008                                                      Page 10 of 15</span>
+ between the years 1970 and 1993 was desirous of cancelling allotments
+
+earlier made and to re-allot the land to others.
+</p>
+<p id="p_16">16.      Similarly once it is not disputed that the petitioner had a premises at
+
+Anand Parbat, it was for the respondent DDA to, for effecting cancellation
+
+plead and prove as to for what other purpose if not as a warehouse, the
+
+premises were being used by the petitioner. No such plea has been taken.
+
+</p><p id="p_17">17.      As far as the argument of the documents produced by the petitioner
+
+proving a low turnover is concerned, I may notice that it is also the
+
+argument of the counsel for the respondent DDA that the land was allotted
+
+dirt-cheap at `58 per sq. mtr. The turnover of the petitioner of the
+
+contemporaneous time has to be measured with the same scale. Even
+
+otherwise I have enquired from the counsel for the respondent DDA
+
+whether to be eligible any minimum turnover was prescribed. The answer
+
+is in the negative. Without the respondent DDA laying down any minimum
+
+and the documents admittedly proving the petitioner to be a trader of Iron
+
+&amp; Steel and having a premises at Anand Parbat, the respondent DDA
+
+
+
+
+<span class="hidden_text" id="span_11">W.P.(C)6398/2008                                                       Page 11 of 15</span>
+ cannot be permitted to deal with its customers and citizens in the manner
+
+done.
+</p>
+<p id="p_18">18.      The argument of non production of registration under Delhi Shops
+
+and <a href="/doc/1692639/" id="a_3">Establishments Act</a> is also misconceived. The counsel for the
+
+respondent DDA has been unable to show that any such registration was
+
+required for a warehouse. A perusal of the provisions of Delhi Shops and
+
+<a href="/doc/1692639/" id="a_4">Establishments Act</a> does not show that any such registration is necessary
+
+for a godown.
+</p>
+<p id="p_19">19.      As far as the plea of the petitioner not having produced any stock
+
+registers, documents of incurring loading and unloading and transportation
+
+charges etc. is concerned, admittedly the respondent DDA did not call
+
+upon the petitioner to produce any of the said documents. Of course, the
+
+counsel for the respondent DDA upon being so confronted has urged that
+
+an opportunity be now given to the respondent DDA to hold such enquiry
+
+with a direction to the petitioner to produce all documents in this regard.
+
+However now after such long lapse of time, the respondent DDA cannot be
+
+given a second chance. The respondent DDA has failed to act in
+
+
+<span class="hidden_text" id="span_12">W.P.(C)6398/2008                                                   Page 12 of 15</span>
+ accordance with law and is found to have indulged in cancellation without
+
+any basis. As aforesaid, without the respondent DDA having made out a
+
+case of the petitioner having practiced any fraud, the earlier decision of the
+
+year 1970 finding the petitioner eligible for allotment of land could not
+
+have been re-opened/re-visited.
+</p>
+<p id="p_20">20.      The counsel for the respondent DDA has lastly contended that the
+
+petitioner having admittedly closed down the warehouse as far back as in
+
+the year 1991-92 and it not being the plea of the petitioner that it is
+
+carrying on the trade as of today, the petitioner is in any case not eligible
+
+for allotment.
+</p>
+<p id="p_21">21.      The aforesaid argument is also misconceived. The eligibility to be
+
+tested was in or about the year 1970 and not as of today. The respondent
+
+DDA cannot be heard to argue that the allotment is liable to be cancelled
+
+for the reason of the allottee having stopped carrying on the business in
+
+lieu of which the allotment was made. Once the allotment had been made,
+
+it would thereafter be governed by the terms &amp; conditions of allotment. If
+
+the said terms &amp; conditions permit more than one trade to be carried on the
+
+
+<span class="hidden_text" id="span_13">W.P.(C)6398/2008                                                     Page 13 of 15</span>
+ land, the allottee would be entitled to change the use/business. It is not the
+
+case of the respondent DDA that the petitioner under the terms of allotment
+
+was required to continue carrying on the activity of warehousing and the
+
+allotment was liable to be revoked upon the allottee ceasing to carry on the
+
+said activity.
+</p>
+<p id="p_22">22.      The Division Bench of this Court in judgment dated 1 st February,
+
+2011 in LPA NO.764/2010 titled <a href="/doc/873530/" id="a_5">Vishwa Nath Gupta v. MCD</a>, in relation
+
+to allotments in Sanjay Gandhi Transport Nagar held that the relevant date
+
+for determining eligibility is the date of inviting applications for allotment
+
+and not any subsequent date. It was further held that if the applicant on the
+
+relevant date was carrying on the business which made him eligible, the
+
+factum of his activity in non-conforming area having subsequently ceased,
+
+would be irrelevant.
+</p>
+<p id="p_23">23.      The petition therefore succeeds and is allowed. The cancellation of
+
+Plot No.179 in Block-A in Okhla Industrial Area, Phase-I, New Delhi in
+
+favour of the petitioner no.1 is set aside/quashed. The respondents are
+
+directed to forthwith within eight weeks of today do all acts, deeds and
+
+
+<span class="hidden_text" id="span_14">W.P.(C)6398/2008                                                     Page 14 of 15</span>
+ things for restoring the allotment and possession of the plot to the
+
+petitioner. I refrain from imposing any costs on the respondent DDA.
+
+
+
+
+</p><p id="p_24">                                               RAJIV SAHAI ENDLAW
+                                                      (JUDGE)
+JULY 20, 2011
+pp
+(corrected and released on 28th July, 2011).
+</p>
+<p id="p_25">
+
+
+<span class="hidden_text" id="span_15">W.P.(C)6398/2008                                                  Page 15 of 15</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

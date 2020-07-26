@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sanjib Islam Gazi @ Sanjib Gazi vs Unknown on 22 November, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/54461953/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/54461953/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/54461953/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/54461953/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court (Appellete Side)</div>
+<div class="doc_title">Sanjib Islam Gazi @ Sanjib Gazi vs Unknown on 22 November, 2019</div><pre id="pre_1">                                          1
+
+
+22.11.2019</pre>
+<p id="p_1">Item no. 44
+Ct. No.29
+CHC
+                             C.R.A.N.3399 of 2019
+                                         in
+                              C.R.M.5727 of 2017
+
+
+                  In Re: An application for relaxation of condition of bail.
+
+
+
+                  In the matter of: Sanjib Islam Gazi @ Sanjib Gazi
+                                                          ...petitioner
+
+
+
+                 Mr. Ali Ahsan Alamgir,
+                 Ms. Riya Das
+                                              ...for the petitioner
+
+
+                 Mr. Ajay Choubey,
+                 Mr. Amajit De
+                                  ...for the State
+
+
+
+                 This is an application for relaxation of condition of bail. While
+
+              granting bail to the petitioner this Court imposed certain
+
+              conditions in the order dated 13.07.2017.
+
+                 It is submitted by the petitioner that on all occasions he has
+
+              complied with the conditions imposed by this Court and he
+
+              appeared before the learned trial court on all dates fixed.
+
+                 This submission has not been opposed by the learned advocate
+
+              appearing for the N.C.B.
+</p><span class="hidden_text" id="span_1">                           2</span><p id="p_2">
+
+
+    Since the petitioner has complied with the order passed by this
+
+Court, we deem it appropriate to allow the application for
+
+relaxation of bail and waive the condition so imposed by the earlier
+
+order dated 13th July, 2017.
+
+    Accordingly, the application being C.R.A.N.3399 of 2019
+
+stands disposed of.
+</p>
+<p id="p_3">
+
+(Subhasis Dasgupta, J.)                (Sahidullah Munshi, J.)
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

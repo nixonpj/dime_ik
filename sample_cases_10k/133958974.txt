@@ -1,0 +1,701 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . on 13 March, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/133958974/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/44897290/">Jamiat Ulama I Hind - State Of ... vs Hc-Nic Page 1 Of 7 Created On Wed Sep ... on 27 August, 2015</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/133958974/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/133958974/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/133958974/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . on 13 March, 2018</div><pre id="pre_1">        IN THE COURT OF SH. SUESH KUMAR GUPTA
+             ADDITIONAL SESSIONS JUDGE­04
+       &amp; SPECIAL JUDGE (NDPS) SOUTH­EAST: SAKET
+                  COURTS: NEW DELHI
+
+SC 1421 of 16
+
+State 
+
+     Vs.
+
+Shamirun @ Shamirul @ Suddo
+S/o Mohd. Mustafa 
+R/o  Patri, near Rikshaw Stand, 
+Barapulla, Hazrat Nizamuddin,
+New Delhi
+
+                                           FIR No. 704/14
+                                           PS : H N Din
+                                           U/s. 394/397/34 <a href="/doc/1569253/" id="a_1">IPC</a>
+
+
+Instituted on     : 18.02.2015
+Committed on  : 03.03.2015 
+Argued on        : 09.03.2018 
+Decided on       : 13.03.2018 
+
+
+                                 J U D G M E N T 
+
+1       The  brief   facts  of   the   prosecution   case   are   like   this.   On
+
+16.11.2014</pre><p id="p_1">, DD No. 36­A was handed over to SI Chhail Bihari who
+
+alongwith   Ct.   Vinod   went   near   Police   Booth   under   Barapulla
+
+Flyover, where Mukadar Khan and Shenshah were found smeared
+
+
+<a href="/doc/44897290/" id="a_2">State  v. Shamirun @ Shamirul                                          Page No</a>.1 / 14
+ with blood. Both of them were removed to AIIMS Truama Center in
+
+a private vehicle. Both of them were medically treated. They were
+
+found fit for statement. 
+</p>
+<p id="p_2">2       The statement of Mukadar Khan was recorded to the effect that
+
+on 16.11.2014, he alongwith his cousin Shenshah went to meet their
+
+friend at Bhogal who was not at home. They were on foot and going
+
+back to their house at Sarai Kalen Khan from under flyover new
+
+Railway Road. They reached at 09:30 PM at the backside of DAV
+
+Quetta School, H. N. Din where two boys aged 22­23 years were
+
+sitting on the corner of the road. One boy was thin built, wheatish
+
+complexion and the hair style up to forehead and other boy with
+
+wheatish complexion slightly bald, lame and aged 22­23 years. Both
+
+of them caught Shenshah and demanded the belongings from them
+
+otherwise they threatened them to kill. He told that they do not have
+
+anything. The boy having his hairstyle up to forehead removed gold
+
+ring from his hand and put broken beer of bottle on his kanpati and
+
+uttered the words to hand overall the belongings to them otherwise
+
+he will kill him. He pulled his hand and told Shenshah to flee from
+
+the spot. The boy with long hair chased them with broken beer of
+
+
+<a href="/doc/44897290/" id="a_3">State  v. Shamirun @ Shamirul                              Page No</a>.2 / 14
+ bottle  and gave  injuries on his neck,  hand  and back and also  hit
+
+Shenshah on the backside of his body. The blood oozed out but they
+
+fled   from   the   spot   and   came   to   their   house.   They   narrated   the
+
+incident   to   Sanjay   who   informed   the   police   and   brought   back   to
+
+Police Booth Barapulla flyover where police officials met them. He
+
+was wearing one golden chain in his neck which is missing. He can
+
+identify   both   of   them.   His   statement   was   recorded   on   which
+
+endorsement was made by SI Chhail Singh and sent to PS through
+
+Ct. Vinod for registration of case upon which FIR was registered. 
+
+3       Site plan was prepared at the instance of complainant. During
+
+investigation   accused   Shamirul   was   arrested   at   the   instance   of
+
+complainant. His disclosure statement was recorded and on its basis
+
+beer bottle was recovered at the instance of accused.
+
+4       Accused Yusuf was arrested at the instance of co­accused. His
+
+disclosure   statement   was   recorded.   Fard   Nishan   dahi   of   place   of
+
+occurrence was prepared. Both of them were produced before the
+
+Court for age determination. The accused Yusuf was declared Child
+
+in   conflict   with   Law(CCL).   Statements   u/s   161   <a href="/doc/445276/" id="a_4">Cr.PC</a>   were
+
+recorded. Opinion on MLC was taken. Charge sheet was prepared
+
+
+<a href="/doc/44897290/" id="a_5">State  v. Shamirun @ Shamirul                                          Page No</a>.3 / 14
+ and   filed   in   the   Court   for   trial.                                      
+</p>
+<p id="p_3">5       The accused has put his appearance. The copy of the challan
+
+was   supplied   to   him.   The   case   was   committed   to   the   court   of
+
+Sessions by Ld. MM vide order dated 26.02.2015.
+
+6       The charge under section 394/397/34 <a href="/doc/1569253/" id="a_6">IPC</a> was framed against
+
+the accused to which he pleaded not guilty and claimed trial.
+
+7       The prosecution has examined 10 witnesses. The accused was
+
+examined under section 313 <a href="/doc/445276/" id="a_7">Cr.PC</a>. He has denied his involvement
+
+in the case. However, no defence evidence has been led. 
+
+8       The   prosecution  has   examined  10  witnesses.   PW1  Mukadar
+
+Khan and PW2 Shenshah are the main prosecution witnesses. PW­1
+
+&amp; 2 are injured as well as eye witnesses. 
+</p>
+<p id="p_4">9       PW1 Mukadar Khan stated that during the intervening night of
+
+16/17.11.2014 he alongwith PW­2 was coming to his house from
+
+Bhogal and reached at 09:30 PM near New Railway Road, Barapulla
+
+Flyover where two boys were sitting on the footpath. They started
+
+manhandling   them.   They   objected   to   it   upon   which   he   was
+
+apprehended   by   one   of   them.   He   was   wearing   a   gold   ring.   The
+
+accused demanded the said ring from him but he refused to hand
+
+
+<a href="/doc/44897290/" id="a_8">State  v. Shamirun @ Shamirul                                        Page No</a>.4 / 14
+ over the same. They extricated themselves from their clutches and
+
+started running but they were chased with the broken bottle of beer.
+
+Both of them were caught at some distance. One of the accused put
+
+broken bottle on his neck and snatched the ring and caused injuries
+
+on his neck and right arm. They informed the police at Barapulla.
+
+Local police patrolling party reached on the bike but PCR Van did
+
+not reach on the spot. He was also wearing a gold chain but he was
+
+not sure whether he was robbed of the chain or not. They were taken
+
+to AIIMS Trauma Center in an auto by police official where medical
+
+aid was given to them. He was brought back to PS, Nizamuddin
+
+where   his   statement   Ex.PW1/A   was   recorded.   Some   photographs
+
+were shown in the mobile phone at PS, Nizamuddin where he has
+
+identified two persons. The police have brought two persons to the
+
+PS   where   he   has   identified   them.   He   has   failed   to   identify   the
+
+accused   present   in   the   Court.   He   was   declared   hostile   and   cross
+
+examined at length by Ld. Addl.PP.  During cross examination, he
+
+stated that he cannot identify the accused as his brother can identify
+
+this accused due to some confusion in his appearance. He has shown
+
+the   place   of   occurrence   to   the   police.   The   accused   was   arrested
+
+
+<a href="/doc/44897290/" id="a_9">State  v. Shamirun @ Shamirul                                           Page No</a>.5 / 14
+ whose   personal   search   and   arrest   memo   Ex.PW1/B   &amp;   C   were
+
+prepared.  No  cross  examination  was  done  by  the  accused  though
+
+opportunity was given.
+</p>
+<p id="p_5">10      PW­2   Shenshah  stated   that   during   the   intervening   night   of
+
+16/17.11.2014, he alongwith PW­1 was coming to his house from
+
+Bhogal and reached at 09:30 PM near New Railway Road, Barapulla
+
+Flyover where two boys were sitting on the footpath. They started
+
+manhandling   them.   They   objected   to   it   upon   which   he   was
+
+apprehended by one of them. PW­1 was wearing a gold ring. The
+
+accused demanded the said ring from PW­1 who refused to hand
+
+over the same. They extricated themselves from their clutches and
+
+started running but they were chased with the broken bottle of beer.
+
+Both of them were caught at some distance. One of the accused put
+
+broken bottle on the neck of PW­1 and caused injuries on neck, ribs
+
+and  back   of  the   body.   They  snatched  the   ring  from   PW­1.   They
+
+informed   the   police   at   Barapulla   at   number   100.   Local   police
+
+patrolling party reached on the bike but PCR Van did not reach on
+
+the spot. They were taken to AIIMS Trauma Center in an auto by
+
+police   official   where   medical   aid   was   given   to   them.   They   were
+
+
+<a href="/doc/44897290/" id="a_10">State  v. Shamirun @ Shamirul                                         Page No</a>.6 / 14
+ brought back to PS, Nizamuddin where statement Ex.PW1/A of PW­
+
+1   was   recorded.   He   has   identified   the   accused.   He   was   declared
+
+hostile and cross examined at length by Ld. Addl.PP.  During cross
+
+examination, he stated that his statement was recorded by the police.
+
+The   accused   was   apprehended   on   the   next   day   when   he   has
+
+identified   the   photograph   in  the   mobile   phone.   The   suggestion  is
+
+denied that he has stated to the police that accused was apprehended
+
+at his instance or the person who was arrested from the spot has
+
+attacked PW­1with beer bottle.  During cross examination  he stated
+
+that he is seeing the accused for the first time in the court after the
+
+incident. There was dark at the time of incident but there was street
+
+light. Police did not take him anywhere. He has told to the police
+
+that one of the accused was thin and other was tall and lame. He has
+
+identified the accused on the basis of his hairstyle who has covered
+
+his face up to the eyes. The accused present in the Court is not the
+
+same who has chased them with broken bottle of beer.
+
+11      PW­3 Sanjay  stated that on 16.11.2014 he was at his house
+
+where   Mukadar   and   Shenshah   came   in   an   injured   condition.   He
+
+brought back both of them to Police Booth, Barapulla and informed
+
+
+<a href="/doc/44897290/" id="a_11">State  v. Shamirun @ Shamirul                                         Page No</a>.7 / 14
+ the police from his mobile phone. They were on way to Hospital
+
+where police officials met them. The police officials accompanied
+
+them to AIIMS Trauma Center.   
+</p>
+<p id="p_6">12      PW­4 Smt. Raj Malik, Teacher, Arya Patshala, Jungpura stated
+
+that she has brought the summoned record. The accused Sahmirul
+
+was   given   admission   on   the   basis   of   application   Ex.PW4/A   and
+
+affidavit   Ex.PW4/B   in   the   3rd  Standard.   The   entry   regarding
+
+admission is Ex.PW4/C. 
+</p>
+<p id="p_7">13      PW­7   HC   Patel   Chandarkant  has   proved   FIR   Ex.PW7/A,
+
+endorsement Ex.PW7/B on rukka and certificate u/s 65 ­B of Indian
+
+Evidence Act Ex.PW7/C.
+</p>
+<p id="p_8">14      PW­9 Dr. Shashi Ranjan has proved MLC Ex.PW9/A and B of
+
+the injured Mukadar Khan and Shenshah. The injuries were simple
+
+which are caused by sharp edged weapon.
+</p>
+<p id="p_9">14      PW­8 SI C. B. Sharma  is first IO of the case. He stated that
+
+during   intervening   night   of   16/17.11.2014   he   was   on   emergency
+
+duty in the PS. He received DD No. 36­A Ex.PW8/A upon which he
+
+alongwith PW­6 Ct. Vinod went near police booth Barapulla where
+
+injured   PW­1   &amp;   2   met   them.   They   were   sent   to   AIIMS   Trauma
+
+
+State  v. Shamirun @ Shamirul                                      Page No.8 / 14
+ Center through PW­6. He received an information from Hospital. He
+
+went to Hospital where MLCs of the injured were collected who
+
+were   found   fit   for   statement.   Statement   Ex.PW1/A   of   PW­1   was
+
+recorded on which rukka Ex.PW8/A was prepared and sent to PS
+
+through   PW­6   for   registration   of   case   upon   which   FIR   was
+
+registered. 
+</p>
+<p id="p_10">15      On the next day, he alongwith PW­5 Ct. Akhilesh, Ct. Ram
+
+Karan came to the place of occurrence where injured met them. Site
+
+plan Ex.PW8/B was prepared at the instance of complainant. They
+
+went in search of accused. The complainant pointed out towards boy
+
+standing   at   Nala,   Barapulla   who   was   apprehended.   The   boy
+
+disclosed his name as Shamirun @ Shamirul who was arrested. His
+
+personal   search   and  arrest   memo  Ex.PW1/B  &amp;   C   were   prepared.
+
+Disclosure statement Ex.PW5/B was recorded. The memo regarding
+
+place   of   occurrence   Ex.PW5/A   was   prepared.   The   accused   got
+
+recovered broken beer bottle from near a rickshaw which was taken
+
+into   possession   vide   Fard   Ex.PW5/A.   The   accused   disclosed   the
+
+name of co­accused as Yusuf. On 19.11.2014 co­accused Yusuf was
+
+arrested   whose   personal   search   and   arrest   memos   were   prepared.
+
+
+</p><p id="p_11"><a href="/doc/44897290/" id="a_12">State  v. Shamirun @ Shamirul                                     Page No</a>.9 / 14
+ Disclosure statement was recorded. Statement u/s 161 <a href="/doc/445276/" id="a_13">Cr.PC</a> were
+
+recorded. He was transferred thereafter. Yusuf was declared CCL
+
+where   other   accused   is   present   in   the   Court.  During   cross
+
+examination, he stated that injured were standing on the road. The
+
+accused was arrested after two hours of reaching on the spot. The
+
+suggestion is denied that accused is falsely implicated. 
+
+16      PW­5 Ct. Akhilesh has corroborated the version of PW­8. 
+
+17      PW­6 Ct. Vinod has also corroborated the version of PW­8.
+
+18      PW­10 SI Bharat Singh stated that the investigation of the case
+
+was handed over to him. He has taken the opinion in the MLC from
+
+the   hospital.   On   06.01.2015   Ossification   Test   of   accused   Y   was
+
+conducted who was in between 18 ­20 years. Ex.PW10/A is the copy
+
+of   report.   His   file   was   separated   and   submitted   before   Juvenile
+
+Justice Board. The other accused is present in the Court. 
+
+19      Ld. Addl.PP for the State submitted that accused is one of the
+
+offenders. He further submitted that the testimony of PW­1 &amp; 2 have
+
+corroborated   the   case   of   the   prosecution   and   PW­2   has   clearly
+
+identified the accused. He further submitted that there is nothing on
+
+the record to view the testimony of PWs with aid of spectacles. 
+
+
+</p><pre id="pre_2"><a href="/doc/44897290/" id="a_14">State  v. Shamirun @ Shamirul                                       Page No</a>.10 / 14
+ 20      Ld. Defence Counsel  submitted that PW­1 has not identified
+
+</pre><p id="p_12">the accused. He further submitted that PW­2 has also not identified
+
+the accused. He further submitted that there is no evidence on record
+
+that accused has committed the offence. 
+</p>
+<pre id="pre_3">21      Heard and perused the record. 
+
+22      The prosecution has examined 10 witnesses in order to prove
+
+</pre><p id="p_13">its case. The testimony of PW­1 and 2 is material in nature. PW­1 &amp;
+
+2 are injured as well as eye witnesses. 
+</p>
+<p id="p_14">23      PW­1 and 2 have categorically stated that they were coming
+
+back from the house of their friend to Sarai Kale Khan and reached
+
+at 09:30 PM at New Railway Road, Flyover Barapulla where two
+
+persons caught them. PW­1 was wearing a gold ring in his finger.
+
+One of the boys demanded ring from PW­1 but he refused to hand
+
+over the same. The extricated themselves from their clutches and
+
+started running but they were caught at a distance by both of them.
+
+One of them was holding broken bottle of beer and put it on the neck
+
+of   PW­1   and   caused   injuries   to   him   and   removed   ring   from   his
+
+finger. The injuries were also caused to PW­2. </p><pre id="pre_4">
+
+24      PW­1   &amp;   2   have   corroborated   the   version.   The   question   is
+
+
+<a href="/doc/44897290/" id="a_15">State  v. Shamirun @ Shamirul                                        Page No</a>.11 / 14
+</pre><p id="p_15"> whether accused has committed the offence or not. PW­1 has not
+
+identified the accused. There is no identification of accused from
+
+PW­1.
+</p>
+<p id="p_16">25      The statement Ex.PW1/A shows the description of one of the
+
+accused like this i.e. thin built, small face, wheatish complexion with
+
+hair falling on the forehead. 
+</p>
+<p id="p_17">26      The   prosecution   has   failed   to   prove   how   the   accused   was
+
+apprehended. The testimony of PW­5 &amp; 8 shows that they alongwith
+
+complainant went in search of accused. They have apprehended the
+
+accused on the identification of PW­2 from Nala Barapulla. Neither
+
+PW­1 nor PW­2 has stated that accused was apprehended at their
+
+instance. There is nothing in the testimony of PW­5 &amp; 8 that accused
+
+was   apprehended   on   the   basis   of   the   description   given   in   the
+
+complaint Ex.PW1/A. The story projected by the prosecution that
+
+accused was apprehended at the instance of complainant has fallen
+
+like house of cards. 
+</p>
+<p id="p_18">27      The accused was not apprehended at the instance of PW­1 &amp; 2.
+
+They should have been put to TIP for the identification. They were
+
+not put to TIP for the reasons best known to the prosecution. He has
+
+
+<a href="/doc/44897290/" id="a_16">State  v. Shamirun @ Shamirul                                       Page No</a>.12 / 14
+ been identified on the basis of photographs shown in the mobile and
+
+not on the basis of description given in the statement. To my mind,
+
+said identification is no identification.
+</p>
+<p id="p_19">28      PW­2 has identified the accused on the basis of his hairstyle.
+
+The said identification is no identification because it is not possible
+
+to identify a person merely on the basis of hairstyle. Neither PW­5
+
+nor PW­8 has deposed that PW­1 &amp; 2 have identified the accused
+
+during the course of investigation by virtue of the hairstyle. To my
+
+mind, the identification of accused by PW­2 during his examination
+
+in chief does not inspire confidence. 
+</p>
+<p id="p_20">29      The broken of bottle of beer was allegedly recovered at the
+
+instance   of   accused.   The   said   bottle   was   not   sent   to   FSL   to
+
+ascertained   whether   it   contains   the   blood   of   PW­1   &amp;   2     or
+
+fingerprints of accused. There was no mark of identification on the
+
+bottle. In these circumstances, it cannot be said that bottle recovered
+
+at the instance of accused is the actual weapon of offences. 
+
+30      The evidence on the file does not connect the accused with the
+
+commission of the offence in question.</p><pre id="pre_5">
+
+31      Hence,   in   the   light   of   my   aforesaid   discussion,   I   have   no
+
+
+<a href="/doc/44897290/" id="a_17">State  v. Shamirun @ Shamirul                                           Page No</a>.13 / 14
+</pre><p id="p_21"> hesitation in hold that prosecution has failed to prove its case beyond
+
+shadow of reasonable doubt. The accused is acquitted of the offence
+
+charged.   His   bail   bond   is   canceled   and   surety   bond   stands
+
+discharged.  
+</p>
+<pre id="pre_6">32        File be consigned to Record Room.
+
+
+
+
+Announced in the 
+     open court on 
+13th March, 2018
+                                        (SURESH KUMAR GUPTA)
+</pre><p id="p_22">                              ASJ­04 &amp; Spl. Judge (NDPS) South­East District
+                                              Saket Courts, New Delhi
+
+
+
+
+State  v. Shamirun @ Shamirul                                     Page No.14 / 14
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

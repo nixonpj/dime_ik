@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ajay Raj Markenday vs Neelu on 13 July, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/42615797/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1284729/">Section 13 in The Hindu Marriage Act, 1955</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/42615797/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/42615797/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage%20act">hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marriage%20act">marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage">hindu marriage</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage%20act%5B%201955">hindu marriage act[ 1955</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%20b">section 13 b</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=13-b%20">13-b </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20act">hindu act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%20of%20hindu%20marriage%20act">section 13 of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section.13%20hindu%20marriage%20act">section.13 hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=against%20sec.13%20of%20hindu%20marriage%20act">against sec.13 of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%28i%29%20of%20hindu%20marriage%20act">section 13(i) of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.13%20hindu%20marriage%20act%20">s.13 hindu marriage act </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=13%20of%20hindu%20marriage%20act">13 of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%28b%29%20of%20hindu%20marriage%20act">section 13(b) of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage%20act%2C%20sec.%2013%28b%29">hindu marriage act, sec. 13(b)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013-b%20hindu%20marriage%20act">section 13-b hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20section%2013-b%20hindu%20marriage%20act%201955"> section 13-b hindu marriage act 1955</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2013%20%28b%29%20of%20hindu%20marriage%20act%2C1955">section 13 (b) of hindu marriage act,1955</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=13%20b%20of%20hindu%20marriage%20act">13 b of hindu marriage act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hindu%20marriage%20act%20section%2011%3A%20supremecourt">hindu marriage act section 11: supremecourt</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Punjab-Haryana High Court</div>
+<div class="doc_title">Ajay Raj Markenday vs Neelu on 13 July, 2015</div><pre id="pre_1">                        IN THE HIGH COURT OF PUNJAB &amp; HARYANA AT
+                                      CHANDIGARH.
+
+           104+533
+                                               FAO-M No.07 of 2010 (O&amp;M)
+                                           DATE OF DECISION: July 13, 2015.
+
+
+           Ajay Raj Markanday                                      ....Appellant.
+
+
+                                           VERSUS
+
+           Neelu                                                   ....Respondent.
+
+
+           CORAM : HON'BLE MR. JUSTICE M. JEYAPAUL
+                   HON'BLE MRS. JUSTICE RAJ RAHUL GARG
+
+
+           Present:            Mr. K.V. Nanda, Advocate for the appellant.
+
+                               Mr. R.S. Cheema, Advocate for the respondent
+
+                               ****
+
+           M. Jeyapaul, J. (Oral)
+</pre>
+
+<p id="p_1">           CM-13359-CII of 2015 &amp; 13360-CII of 2015
+
+                               This is an application filed under Order 6 Rule 17 read with
+
+           Section 151 C.P.C. for amendment of the original petition filed by the
+
+           respondent-husband under <a href="/doc/1284729/" id="a_1">Section 13</a> of the Hindu Marriage Act and for
+
+           allowing the parties to file a joint petition under <a href="/doc/1284729/" id="a_2">Section 13(B)</a> of the Hindu
+
+           Marriage Act, 1955, for dissolution of marriage by mutual consent.
+
+</p><p id="p_2">                               As per the order passed by the Court on 27.05.2015, both the
+
+           parties agreed to settle their matrimonial dispute on payment of
+
+           Rs.1,00,000/- by the appellant-husband to the respondent-wife. The present
+
+           petition is the outcome of such a settlement effected in the presence of the
+
+           Court. As both parties have amicably settled their dispute between them, the
+
+           application is allowed permitting the parties to amend the original petition
+
+KOMAL
+2015.07.16 11:24
+I attest to the accuracy and
+integrity of this document
+<span class="hidden_text" id="span_1">            FAO-M No.07 of 2010 (O&amp;M)                                          -2-</span>
+
+           under <a href="/doc/1284729/" id="a_3">Section 13</a> of the Hindu Marriage Act allowing both the parties to file
+
+           jointly a petition under <a href="/doc/1284729/" id="a_4">Section 13(B)</a> of the Hindu Marriage Act, 1955. The
+
+           petition filed under <a href="/doc/1284729/" id="a_5">Section 13(B)</a> of the Hindu Marriage Act, 1955 is taken
+
+           on file.
+</p>
+<p id="p_3">           FAO-M No.07 of 2010
+
+                               Both the parties with the intervention of this Court amicably
+
+           settled their dispute. They have proposed to part ways by filing a necessary
+
+           petition under <a href="/doc/1284729/" id="a_6">Section 13(B)</a> of the Hindu Marriage Act, 1955. The
+
+           application for amendment of the original petition filed under <a href="/doc/1284729/" id="a_7">Section 13</a> of
+
+           the Hindu Marriage Act and for allowing both the parties to file a petition
+
+           under <a href="/doc/1284729/" id="a_8">Section 13(B)</a> of the Hindu Marriage Act, 1955 was allowed by this
+
+           Court.
+</p>
+<p id="p_4">                               In view of the above development in this matter, the judgment
+
+           and decree passed by the trial Court is set aside and the matter is remanded
+
+           to the trial Court to take up the joint petition under <a href="/doc/1284729/" id="a_9">Section 13(B)</a> of the
+
+           Hindu Marriage Act, 1955 preferred by both the parties for first motion on
+
+           03.08.2015. Thereafter, the trial Court shall pass the judgment in accordance
+
+           with law after ascertaining their consent during second motion as well.
+
+</p><p id="p_5">                               The appeal is disposed of accordingly.
+
+
+
+</p><p id="p_6">                                                              (M. JEYAPAUL)
+                                                                  JUDGE
+
+
+
+                                                              (RAJ RAHUL GARG)
+                                                                   JUDGE
+           July 13, 2015.
+</p><p id="p_7">           komal
+
+
+
+
+KOMAL
+2015.07.16 11:24
+I attest to the accuracy and
+integrity of this document
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

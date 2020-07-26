@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Babloo vs The State Of Madhya Pradesh on 23 January, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/182753505/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:182753505">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/886598/">Section 365 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1208971/">Section 353 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1290514/">Section 439 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1312051/">Section 27 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1440821/">Section 332 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/182753505/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/182753505/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/182753505/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=127">127</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madhya Pradesh High Court</div>
+<div class="doc_title">Babloo vs The State Of Madhya Pradesh on 23 January, 2015</div><pre id="pre_1">                              1                   Mcrc.127.2015
+                       Babloo and Riyaz Quraishi Vs. State of M.P.
+
+
+23/01/2015
+
+      Shri F.A. Shah, Advocate, for applicants- Babloo and
+Riyaz Quraishi.
+      Shri   Pramod    Pachouri,   Public   Prosecutor,    for   the
+respondent/State.</pre>
+<p id="p_1">      Heard.
+</p><p id="p_2">      Perused the case diary.
+</p><p id="p_3">      This is the first application under <a href="/doc/1290514/" id="a_1">Section 439</a> of Cr.P.C.
+preferred on behalf of the applicants for grant of bail.
+</p><p id="p_4">      The applicants have been arrested on 28.11.2014 in
+connection with Crime No.712/2014, registered at Police
+Station Kampoo, District Gwalior (M.P.) for the offence
+punishable <a href="/doc/594493/" id="a_2">Sections 294</a>, <a href="/doc/1440821/" id="a_3">332</a>, <a href="/doc/1208971/" id="a_4">353</a>, <a href="/doc/222396/" id="a_5">427</a>, <a href="/doc/1258372/" id="a_6">147</a>, <a href="/doc/999134/" id="a_7">149</a>, <a href="/doc/886598/" id="a_8">365</a> of IPC,
+11/13 of the MPDVPK Act and under Sections 10,13 of the M.P.
+Sthaniya Paridhi Nirwachan Adhiniyam.
+</p><p id="p_5">      Briefly stated the prosecution case is that on 28.11.2014
+at about 05:30 PM at Rajveer Higher Secondary School, Gudi-
+Guda Ka Naka, polling was conducted. Vishwanath Bansal was
+the In-charge Polling Officer at ward No. 55 of polling booth
+No. 746. He heard some noises outside and went out along with
+his staff to see what has happened. He saw that congress
+candidate of that ward in the local election, co-accused
+Tabassum Begum along with about 150-200 members came
+armed with wooden sticks, they were hitting the doors and
+shutter. These people on opening the door entered into the
+                              2                   Mcrc.127.2015
+                      Babloo and Riyaz Quraishi Vs. State of M.P.
+</p>
+
+<p id="p_6">room and dragged him and beaten him by fists and kicks. They
+also destroyed the voting machine and the furniture kept inside
+the room. The complainant was taken out of the room, when he
+managed to come into the room, he found that another staff
+member Archana Bhargava was not in the room. The chowkidar
+of the School informed that the mob, who had come, have taken
+Archana in a four wheeler vehicle. In the Police Diary,
+statement of Archana is available. It is found that she was
+taken to a nearby temple for speaking the truth under oath that
+they have not manipulated the voting machine. Later she was
+taken to the Nagarpalika Office and was dropped.
+</p><p id="p_7">     On behalf of the applicants, it is submitted that the
+applicants are innocent. They are not named in the FIR. The
+present applicants have been implicated on the basis of
+memorandum under <a href="/doc/1312051/" id="a_9">Section 27</a> of the Evidence Act given by
+co-accused Abdul Khaliq. Learned counsel for the applicants
+further submitted that the offence under Sections 10, 13 of the
+M.P. Sthaniya Paridhi Nirwachan Adhiniyam is bailable. Smt.
+Archana who was said to have been abducted was taken to the
+temple and from there she was taken to the Municipal Office
+where she was released. Thus, there was no intention of
+kidnapping or abduction or any purpose like ransom or
+confinement, therefore, offence under <a href="/doc/886598/" id="a_10">Section 365</a> of IPC is
+also not made out against the applicants. Hence, on these
+premised submissions, learned counsel for the applicants
+submits that the applicants may be enlarged on bail.
+</p><p id="p_8">                                3                   Mcrc.127.2015
+                        Babloo and Riyaz Quraishi Vs. State of M.P.
+</p>
+
+<p id="p_9">       Learned Public Prosecutor opposed the bail application
+and submitted that applicants alongwith co-accused Irfan had
+assembled at the polling booth and committed crime. It is also
+suggested that because of the crime public property was
+damaged and the election was re-conducted. Thus, he prayed
+for rejection of the bail application.
+</p><p id="p_10">       Applicants are in custody since 28.11.2014. They are not
+named in the FIR. Considering the same coupled with the fact
+that action of the applicants is not reflected except omnibus
+allegations, without commenting on the merits, application is
+allowed. It is directed that the applicants shall be released on
+bail   on   their   furnishing    personal   bond   in   a   sum    of
+Rs.1,00,000/- (Rs. One Lac only) each with one solvent
+surety each in the like amount to the satisfaction of the trial
+Court for securing their presence before the said Court on all
+the dates of hearing fixed in this regard during trial.
+</p><p id="p_11">       This order will remain operative subject to compliance of
+the following conditions by the applicants:-
+</p><blockquote id="blockquote_1">       1.    The applicants will comply with all the terms and
+       conditions of the bond executed by them;
+</blockquote><blockquote id="blockquote_2">       2.    The     applicants      will    cooperate       in    the
+       investigation/trial, as the case may be;
+</blockquote><blockquote id="blockquote_3">       3.    The applicants will not indulge themselves in
+       extending inducement, threat or promise to any person
+       acquainted with the facts of the case so as to dissuade
+       him/her from disclosing such facts to the Court or to the
+                              4                   Mcrc.127.2015
+                      Babloo and Riyaz Quraishi Vs. State of M.P.
+</blockquote>
+
+<blockquote id="blockquote_4">     Police Officer, as the case may be;
+</blockquote><blockquote id="blockquote_5">     4.    The applicants shall not commit an offence similar
+     to the offence of which they are accused;
+</blockquote><blockquote id="blockquote_6">     5.    The    applicants    will   not    seek   unnecessary
+     adjournments during the trial; and
+</blockquote><blockquote id="blockquote_7">     6.    In case of any breach of any of the conditions above
+     the learned Trial Court would be at liberty to reconsider
+     on the question of bail.
+</blockquote><blockquote id="blockquote_8">     Certified copy as per rules.</blockquote>
+
+
+<p id="p_12">                                             (S.K. Palo)
+                                               Judge
+
+pd
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

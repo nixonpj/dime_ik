@@ -1,0 +1,354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>//1// vs . on 27 March, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/7745189/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/7745189/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/7745189/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=co-owner">co-owner</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20triable%20issue"> triable issue</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bona%20fide%20need">bona fide need</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">//1// vs . on 27 March, 2015</div><div class="doc_author">Author: Sh. Vinay Singhal</div>
+
+<pre id="pre_1">                                   //1//
+
+                 IN THE COURT OF VINAY SINGHAL
+           ARC-1 (CENTRAL), TIS HAZARI COURTS, DELHI
+                               E- 277/13
+                           Sh. Hira Lal Gupta
+
+                                Vs.
+                   Sh. Dharamveer Sharma and Ors.
+
+                                 Vs.
+                              E- 278/13
+                     Sh. Sandeep Sharma and Ors.
+
+                                 Vs.
+                               E-279/13
+                   Sh. Sunil Kumar Sharma and Ors.
+
+                                  Vs.
+                               E-280/13
+                       Sh. Praveen Kumar &amp; Ors.
+
+                                 Vs.
+                               E-281/13
+                      Smt. Neelam Sharma &amp; Ors.
+
+
+ORDER
+</pre>
+
+
+
+<p id="p_1">      By virtue of this COMMON order the Leave to Defend Applications
+in above Five cases of the Respondent stand allowed in terms of
+following observations.
+</p>
+
+
+
+<span class="hidden_text" id="span_1">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                 Page 1 of 8</span>
+<p id="p_2">                                       //2//
+
+                                     PART-A
+                              PETITION FACTS
+</p><p id="p_3">   1. Petitioner    is   stated      to       be   the   Co-Owner      alongwith
+      Respondent No. 2 to 5 of the Property bearing No. III/3065, Gali Kalyan
+      Singh, Ram Bazar, Mori Gate, Delhi-06:-
+         a. The Petitioner also submitted that the Respondent No. 2 to 5
+             who are the Co-Owner alongwith him have given No Objection
+             to him for the purposes of filing the present Petition to obtain the
+             possession of the premises for his own bona fide need only.
+</p><p id="p_4">   2. The Petitioner has submitted that the present Petition has been filed for
+      the bona fide of himself and his family.
+</p><p id="p_5">   3. The Respondents are stated to be the Tenant w.r.t shops on the ground
+      Floor, more particularly shown in red Color in the site plan annexed
+      with the plaint.
+</p><p id="p_6">   4. The Petitioner alongwith his family is residing on the First Floor of the
+      said premises.
+</p><p id="p_7">         a. The Petitioner is stated to be an old aged person suffering from
+             TB and other ailments and facing difficulties in climbing stairs;
+         b. The Petitioner's wife is also suffering from many ailments and is
+             forced to live in the open verandah in order to avoid being
+             infected on account of the Petitioner being suffering from TB;
+         c. Petitioner's son, daughter in law and grand children are also
+             stated to be living in a very cramped space not been able to
+             enjoy a standard life style what to speak of a Comfortable life
+             style and infact Grandson is also diagnosed with TB.
+</p><p id="p_8">   5. Hence, the present Petition.
+</p>
+<span class="hidden_text" id="span_2">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                            Page 2 of 8</span>
+<p id="p_9">                                        //3//
+
+                                    PART-B
+
+
+<span class="hidden_text" id="span_3">             LEAVE TO DEFEND FACTS of Respondent No. 1</span>
+
+
+</p><p id="p_10">   6. The Respondent No. 1 has submitted that the Petitioner and his wife's
+      alleged ailment are not supported by the medical documents placed on
+      the record by the Petitioner:-
+</p><blockquote id="blockquote_1">          a. The Respondent No.1               submitted that the said medical
+             documents of the Petitioner and his wife do not in any way show
+             that the disease of TB as alleged by the Petitioner is in
+             existence even as of date or the same is infectious.
+</blockquote><p id="p_11">   7. Similarly is the situation w.r.t the grandson of the Petitioner.
+</p><p id="p_12">   8. The Respondent No. 1 also submitted that the Petitioner has
+      intentionally not disclosed 3 more properties of which he is the
+      Co-Owner, as detailed out in Para No. 3C to 3D of the leave to defend
+      application which are not being repeated for the sake of brevity.
+</p><p id="p_13">   9. The Respondent also submitted that the Petitioner has also made
+      Construction on the terrace Floor of the suit Property thereby carving
+      out an entire residential unit thereon.
+</p>
+
+
+
+<span class="hidden_text" id="span_4">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                                Page 3 of 8</span>
+<p id="p_14">                                      //4//
+
+                                   PART-C
+
+
+             RESPONDENT No. 2 to 5 (CO-OWNER) STAND
+
+
+</p><p id="p_15">   10. Respondent No. 2 to 5 who are the Co-Owners have totally denied the
+      averments of the Petitioner of having obtained No Objections from
+      them to file the present Petition for his own bona fide need.
+</p><p id="p_16">   11. Respondent No. 2 to 5 have stated that the Property in which the suit
+      shops are situated, is liable to be partitioned amongst them.
+</p>
+
+
+
+<span class="hidden_text" id="span_5">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                             Page 4 of 8</span>
+<p id="p_17">                                      //5//
+
+                                   PART-D
+
+
+                               CONCLUSION
+
+
+</p><p id="p_18">   12. After considering the rival contentions made by the parties, the Court is
+      of the opinion that the present leave to defend application is entitled to
+      be allowed on account of the following reasons :-
+</p>
+
+<p id="p_19">         a. The First Triable Issue in the opinion of the Court is w.r.t the fact
+             that as to whether the Petitioner has Come with clean hand
+             before the Court or not:-
+</p><p id="p_20">               i.   The Petitioner in the Petition has not once, but repeatedly
+                    asserted that the Respondent No. 2 to 5 have given him
+                    No Objection to file the present Petition to get the
+                    Property vacated for his own bona fide need.
+              ii.   WHEREAS The Respondent No. 2 to 5 in their leave to
+                    defend have categorically denied the giving of any such
+                    No Objection to the Petitioner.
+</p>
+
+
+
+<span class="hidden_text" id="span_6">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                           Page 5 of 8</span>
+<p id="p_21">                                      //6//
+
+         b. The Second Triable Issue in the opinion of the Court is w.r.t
+            Projected Bonafide need of the Petitioner:-
+              i.    The bona fide need as depicted by the Petitioner of being
+                    short of accommodation at the First Floor, in view of the
+                    light of the medical Condition of the Petitioner, his wife
+                    and grandson is in itself a triable issue and merely on the
+                    basis of the Petitioner's averment, the same cannot be
+                    accepted as a gospel truth.
+</p><p id="p_22">              ii.   The factum of medical condition cannot be proved by
+                    merely placing on record Prescription Slips or the
+                    Photographs.
+</p>
+
+
+
+<span class="hidden_text" id="span_7">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                          Page 6 of 8</span>
+<p id="p_23">                                         //7//
+
+         c. The Third Triable Issue in the opinion of the Court is w.r.t the
+            availability of alternate suitable accommodation:-
+              i.    The Petitioner has not disclosed any property in Petition;
+              ii.   However, 3 properties belonging to the Petitioner, on
+                    being disclosed by the Respondent, the Petitioner has
+                    tried to disassociate himself from the said Property by
+                    stating that:-
+</p><p id="p_24">                       a) all these 3 properties are being occupied by other
+                           Co-Owners as though there is no formal partition,
+                           but the brothers on a mutual understanding are
+                           occupying the same as their own individual units;
+</p><p id="p_25">                       b) As per the Petitioner, the Property in which the suit
+                           premises is situated, has Come to his share as per
+                           the said mutual arrangement.</p><pre id="pre_2">
+                              i.     The said plea of the Petitioner is not
+                                     supported    by   the       averments         of    the
+                                     Respondent     No.      2     to       5    who     are
+                                     the Co-Owners.;
+                             ii.     The    Respondent       No.        2   to    5     have
+</pre><p id="p_26">                                     categorically submitted that the premises in
+                                     which the suit Property is situated is subject
+                                     to partition among the Petitioner and
+                                     Respondent No. 2 to 5 and they have given
+                                     not given any clearance to the Petitioner to
+                                     treat the Property in which the suit Property
+                                     is situated as his own exclusive Property.
+</p>
+<span class="hidden_text" id="span_8">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                                       Page 7 of 8</span>
+<p id="p_27">                                          //8//
+
+                              iii.   Hence, it also becomes clear that the three
+                                     properties as disclosed by the Respondent
+                                     No. 1 are also available to the Petitioner.
+                              iv.    Whether the said Properties are suitable to
+                                     the Petitioner or not is again a matter of
+                                     trial.
+</p>
+
+<p id="p_28">      Hence, in the opinion of the Court, the Respondent has been able
+to raise Triable issues w.r.t. BONAFIDE NEED of the Petitioner.
+</p>
+
+<p id="p_29">      Accordingly,   the       application       of   the    Respondent    seeking
+Leave to Defend is allowed.
+</p><p id="p_30">      Let the written statement be filed within 30 days from today.
+      Put up for further proceedings for 19.8.2015.
+</p>
+
+
+
+<p id="p_31">(Announced in the open Court on 27.3.2015)
+
+
+                                                                  (Vinay Singhal)
+                                                            ARC/Central/THC/Delhi
+
+
+
+
+<span class="hidden_text" id="span_9">E-277/13, 278/13, 279/13, 280/13 &amp; 281/13                              Page 8 of 8</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

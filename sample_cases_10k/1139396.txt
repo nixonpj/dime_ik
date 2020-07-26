@@ -1,0 +1,707 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Narayan Chandra Ghosh &amp; Others vs Kanailal Ghosh &amp; Others on 16 November, 2005</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1139396/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 18 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1139396">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/739245/">Section 19 in The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/462798/">Section 2 in The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1965985/">Section 3 in The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1288796/">Section 9 in The Registration Act, 1908</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1489134/">The Registration Act, 1908</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 4 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/925586/">Rozan Mian vs Tahera Begum &amp; Ors on 14 August, 2007</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/116861489/">Mir Mohammad Ali vs Mrs. Sairunessa on 8 July, 2008</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/81294810/">Shri Ashok Kumar Samanta &amp; Another vs Smt. Surjamukhi Mondal &amp; Ors on 29 November, 2013</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1175088/">Amiya Kumar Basu vs Pankaj Kr. Chakraborty &amp; Ors. on 6 November, 1998</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1139396/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1139396/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/1139396/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika">thika</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenant">thika tenant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tenancy%20act">tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=abatement">abatement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenancy">thika tenancy</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thika%20tenancy%20act">thika tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=tenant%20holding%20over">tenant holding over</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=west%20bengal%20premises%20tenancy%20act">west bengal premises tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=west%20bengal%20premises%20tenancy%20act%201956">west bengal premises tenancy act 1956</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=grounds%20of%20eviction">grounds of eviction</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=abatement%20of%20suit">abatement of suit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=eviction%20suit">eviction suit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=execution%20proceedings">execution proceedings</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ejectment%20suit">ejectment suit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=west%20bengal%20tenancy%20act">west bengal tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bengal%20tenancy%20act">bengal tenancy act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=narayan%20chandra%20ghosh">narayan chandra ghosh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=lease%20not%20registered">lease not registered</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Supreme Court of India</div>
+<div class="doc_title">Narayan Chandra Ghosh &amp; Others vs Kanailal Ghosh &amp; Others on 16 November, 2005</div><div class="doc_author">Author: B.N.Agrawal</div>
+
+<div class="doc_bench">Bench: B.N.Agrawal, A.K.Mathur</div>
+
+<pre id="pre_1">           CASE NO.:
+Appeal (civil)  7091 of 2001
+
+PETITIONER:
+Narayan Chandra Ghosh &amp; Others 				
+
+RESPONDENT:
+Kanailal Ghosh &amp; Others
+
+DATE OF JUDGMENT: 16/11/2005
+
+BENCH:
+B.N.AGRAWAL &amp; A.K.MATHUR
+
+JUDGMENT:
+</pre><p id="p_1">J U D G M E N T 
+WITH 
+
+CIVIL APPEAL NO. 7092 OF 2001
+
+Narayan Chandra Ghosh 						    ..Appellant 
+
+Versus 
+
+Kanailal Ghosh &amp; Others 						.Respondents 
+
+B.N.AGRAWAL, J. 
+</p>
+<p id="p_2">	These appeals by the defendants arise out of common judgment 
+rendered by the High Court in second appeals.  
+</p><p id="p_3">The short facts are that the plaintiffs filed two suits, viz., Title Suit          
+Nos. 125 of 1978 and 146 of 1977 for eviction of defendants.  Both the suits 
+relate to eviction of defendants from different portions of a house.  The former 
+suit related to eviction from three rooms and the latter from one room.  In both 
+the suits, the plaintiffs were thika tenants whereas defendants were Bharatias.   
+The grounds for eviction disclosed in the suits were default, causing nuisance 
+by the defendants and bona fide need of the plaintiffs for the premises in 
+question as number of their family members had substantially increased.  
+When the suits were filed, The Calcutta Thika Tenancy Act, 1949 (hereinafter 
+referred to as 'the 1949 Act') was in force.  During the pendency of the 
+aforesaid suits, The Calcutta Thika  Tenancy (Acquisition and <a href="/doc/1489134/" id="a_1">Regulation) Act</a>, 
+1981 (hereinafter referred to as 'the 1981 Act') was promulgated and as, 
+according to the plaintiffs, the said suits abated under <a href="/doc/739245/" id="a_2">Section 19</a> of the 1981 
+Act, the plaintiffs filed another suits giving rise to Title Suit Nos. 35 of 1983 
+and 22 of 1983 for eviction of defendants from the aforesaid four rooms 
+stating therein the same grounds for eviction. 
+</p><p id="p_4">	Defendants contested the claim for eviction on grounds, inter alia, that 
+the subsequent suits were not maintainable as earlier suits did not abate 
+under <a href="/doc/739245/" id="a_3">Section 19</a> of the 1981 Act.  They denied all the grounds for eviction. 
+	In support of their respective cases, both the parties led oral and 
+documentary evidence and upon conclusion of trial, the learned Munsiff held 
+that the suits were maintainable as the earlier suits abated under <a href="/doc/739245/" id="a_4">Section 19</a> 
+of the 1981 Act.  So far as the grounds for eviction are concerned, the trial 
+court decreed the suits only on the ground of bona fide necessity as, in its 
+opinion, the plaintiffs failed to prove the other grounds.  Challenging the 
+decrees of the trial court, when appeals were preferred, the lower appellate 
+court upheld the decree for eviction in relation to three rooms but reversed the 
+same in relation to one room and thereby dismissed suit for eviction in relation 
+to the same.  Against the aforesaid decision, two appeals were preferred 
+before the High Court, one by the plaintiffs and other by the defendants.  High 
+Court upheld decision of the lower appellate court affirming eviction decree in 
+relation to three rooms.  So far as decree of the lower appellate court 
+dismissing the eviction suit in relation to one room is concerned, the same has 
+been reversed and the decree for eviction in relation to same passed by the 
+trial court has been restored.  Hence, these appeals by special leave. 
+	Mr. Bhaskar Prasad Gupta, learned Senior Counsel appearing in 
+support of the appeals raised various points but for the disposal of the 
+appeals, only two points are relevant.  Firstly, it has been submitted that 
+earlier two suits filed by the plaintiffs did not abate under <a href="/doc/739245/" id="a_5">Section 19</a> of the 
+1981 Act, as such both the suits were liable to be dismissed on the ground 
+that the same were not maintainable.  Secondly, it has been submitted that 
+the High Court was not justified in interfering with the finding of fact in relation 
+to one room in a second appeal.  On the other hand, Mr. S.B.Sanyal and Mr. 
+Vijay Hansaria, learned Senior Counsel appearing for the respondents in their 
+respective appeals, submitted that present suits were maintainable as earlier 
+two suits abated under <a href="/doc/739245/" id="a_6">Section 19</a> of the 1981 Act.  Mr. Vijay Hansaria, 
+appearing in support of the judgment of the High Court in relation to one 
+room, submitted that the High Court was quite justified in reversing judgment 
+rendered by lower appellate court and confirming the decree for eviction 
+passed by the trial court. 
+</p><p id="p_5">	Thus, the main question to be considered in the present appeals is as 
+to whether the earlier suits abated under <a href="/doc/739245/" id="a_7">Section 19</a> of the 1981 Act?  In this 
+regard, it would be necessary to refer to the history of the legislation.  The 
+1949 Act was enacted for making better provision relating to the law of 
+landlord and tenant in respect of thika  tenancies in Calcutta.  The expression 
+"thika  tenant" has been defined under <a href="/doc/462798/" id="a_8">Section 2(5)</a> of the 1949 Act to mean a 
+person who holds a land under a lease or otherwise under another person on 
+payment of rent and has erected structure thereon or acquired by purchase or 
+gift any structure on such land for residential, manufacturing or business 
+purpose.  The expression "Bharatia" has been defined under <a href="/doc/462798/" id="a_9">Section 2(1)</a> of 
+the 1949 Act to mean any person by whom, or on whose account, rent is 
+payable for any structure or part of a structure erected by a thika  tenant in his 
+holding.   Under <a href="/doc/1965985/" id="a_10">Section 3</a> of  1949 Act, three grounds for eviction of Thika   
+tenant have been enumerated, namely, (I) using the holding in such a manner 
+so as to render it unfit; (II) bona fide necessity of the landlord for the holding; 
+and (III) in a case of lease, other than for residential purpose, expiry of the 
+period of lease.  Under <a href="/doc/782097/" id="a_11">Section 5</a> of the 1949 Act, procedure has been 
+provided for eviction of thika tenant by the landlord by filing an application for 
+ejectment before Controller appointed by the State Government as defined 
+under <a href="/doc/462798/" id="a_12">Section 2(2)</a> of the 1949 Act.  At this stage, it would be useful to refer to 
+the provisions of <a href="/doc/462798/" id="a_13">Sections 2(1)</a>, <a href="/doc/462798/" id="a_14">2(2)</a>, <a href="/doc/462798/" id="a_15">2(5)</a>, <a href="/doc/1965985/" id="a_16">3</a> and <a href="/doc/782097/" id="a_17">5</a> of the 1949 Act which read 
+thus:
+</p><p id="p_6">"2(1)	"Bharatia" means any person by whom, or on whose 
+account, rent is payable for any structure or part of a structure 
+erected by a Thika   tenant in his holding. 
+</p><p id="p_7">2(2)	"Controller" means an officer appointed as such by the 
+State Government for an area to which this Act extends and 
+includes any officer appointed by the State Government to 
+perform all or any of the duties imposed or to exercise all or any 
+of the powers conferred by this Act, on the Controller.
+2(5)	"thika   tenant" means any person who holds, whether 
+under a written lease or otherwise, land under another person, 
+and is or but for a special contract would be liable to pay rent, at 
+a monthly or at any other periodical rate, for that land to that 
+another person and has erected or acquired by purchase or gift 
+any structure on such land for a residential, manufacturing or 
+business purpose and includes the successors in interest of 
+such person, but does not include a person  
+</p><p id="p_8">(a)	who holds such land under that another person in 
+perpetuity; or 
+</p><p id="p_9">(b)	who holds such land under that another person under a 
+registered lease, in which the duration of the lease is 
+expressly stated to be for a period of not less than twelve 
+years; or 
+</p><p id="p_10">(c)	who holds such land under that another person and uses 
+or occupies such land as a khattal. 
+</p><p id="p_11">3.	Grounds on which a thika   tenant may be ejected.  
+(1)	Notwithstanding anything contained in any other law for 
+the time being in force or in any contract, a thika   tenant shall, 
+subject to the other provisions of this Act, be liable to ejectment 
+from his holding on one or more of the following grounds and 
+not otherwise, namely:-
+</p><p id="p_12">(i)	on the ground that he has used the land comprised in his 
+holding in a manner which renders it unfit for any of the 
+purposes mentioned in clause (5) of <a href="/doc/462798/" id="a_18">section 2</a>; 
+</p><p id="p_13">(ii)	except during any period limited by a registered lease 
+under which a thika   tenant may hold the land comprised 
+in the holding and subject to the provisions of sub-
+sections (2), (3) and (4), on the ground that the land is 
+required by the landlord for his own occupation; 
+</p><p id="p_14">(iii)	when he holds the land comprised in the holding under a 
+registered lease for a purpose other than a residential 
+purpose, on the ground that the term of  the lease has 
+expired. 
+</p><p id="p_15">(2)	No landlord shall be deemed to require the land 
+comprised in the thika   tenant's holding for his own occupation 
+if he has a house of his own in the city in which such land is 
+situated and the accommodation available in such house is, in 
+the opinion of the Controller, reasonably sufficient for him and 
+his family. 
+</p><p id="p_16">(3)	Where the landlord requires the land comprised in the 
+thika   tenant's holding for his own occupation and the 
+Controller is of opinion that such requirement may be 
+substantially satisfied by ejecting the thika   tenant from a part 
+only of his holding and allowing him to continue in occupation of 
+the rest, then, if the thika   tenant agrees to such occupation, 
+the Controller shall make an order accordingly and fix the 
+proportionate rent for the portion remaining in the occupation of 
+the thika   tenant. 
+</p><p id="p_17">(4)	Where the thika   tenant has erected or acquired a pucca  
+structure for a residential purpose on the land comprised in his 
+holding, no order for ejectment shall be made against him 
+except in respect of such part, if any, of such land as does not 
+appertain to the pucca  structure. 
+</p><p id="p_18">5.	Proceedings for ejectment.  (1)  Notwithstanding 
+anything contained in any other law for the time being in force a 
+landlord wishing to eject a thika   tenant on one or more of the 
+grounds specified in <a href="/doc/1965985/" id="a_19">section 3</a> shall apply in the prescribed 
+manner to the Controller for an order in that behalf and, on 
+receipt of such application, the Controller shall, after giving the 
+thika   tenant a notice to show cause within thirty days from the 
+date of service of the notice why the application shall not be 
+allowed and after making an inquiry in the prescribed manner 
+either allow the application or reject it after recording the 
+reasons for making such order, and, if he allows the application, 
+shall make an order directing the thika   tenant to vacate the 
+holding and, subject to the provisions of <a href="/doc/1306713/" id="a_20">section 10</a>, to put the 
+landlord in possession thereof. 
+</p><p id="p_19">(2)	No order allowing an application under sub-section (1) 
+shall be made in a case where compensation is payable under 
+the proviso to <a href="/doc/1506268/" id="a_21">section 4</a> unless and until the amount of 
+compensation so payable has been either paid to the thika   
+tenant or deposited with the Controller."
+</p>
+<p id="p_20">	It may be also useful to refer to the provisions of <a href="/doc/1306713/" id="a_22">Sections 10</a> and <a href="/doc/1489134/" id="a_23">10A</a> of 
+the 1949 Act which read thus:
+</p><p id="p_21">"10.	Consequences of the determination of interests of 
+thika   tenants in certain cases.  (1)  Notwithstanding 
+anything to the contrary contained in any contract, on the 
+determination of the interest of a thika   tenant in the land 
+comprised in a holding as a result of ejectment from the holding 
+of, or of surrender or abandonment of the holding by, the Thika  
+tenant, or otherwise, any structure standing upon such land and 
+existing on the date of such determination shall vest in the 
+landlord. 
+</p><p id="p_22">(2)	When any structure standing on any holding of a Thika  
+tenant vests in the landlord under sub-section (1) otherwise 
+than as a result of ejectment of the Thika  tenant from the 
+holding on the ground specified in clause (ii) of sub-section (1) 
+of <a href="/doc/1965985/" id="a_24">section 3</a>, any Bharatia in possession of such structure or any 
+part thereof, shall without any application being made be 
+entitled to continue in such possession and shall be deemed to 
+be a tenant in respect of such structure or part thereof, as the 
+case may be, within the meaning of the West Bengal Premises 
+Tenancy Act, 1956, holding under the landlord on the terms and 
+conditions on which such Bharatia had been holding 
+immediately before such structure vested in the landlord:
+	Provided that nothing in this sub-section shall prevent 
+either the landlord or such Bharatia so deemed to be a tenant 
+holding under the landlord, from proceeding under the West 
+Bengal Premises Tenancy Act, 1956, for fixing the standard rent 
+payable in respect of such structure or part thereof, as the case 
+may be. 
+</p><p id="p_23">10A.	Right of thika tenant to erect pucca  structures.  (1)  
+Notwithstanding anything contained in any other law for the 
+time being in force or in any contract, but subject to the 
+provisions of sub-sections (2) and (3), a thika  tenant using the 
+land comprised in his holding for a residential purpose may 
+erect a pucca  structure on such land for such purpose with the 
+previous permission of the Controller.
+</p><p id="p_24">(2)	On an application made by a thika  tenant in this behalf, 
+the Controller may grant him permission to erect a pucca  
+structure, if the Controller is satisfied that the thika  tenant  
+</p><p id="p_25">(a)	is using the structure existing on the land comprised in 
+his holding for a residential purpose, 
+</p><p id="p_26">(b)	intends to use the pucca  structure to be erected on such 
+land for a similar purpose, and 
+</p><p id="p_27">(c)	has obtained sanction of a building plan to erect the 
+pucca  structure from the municipal authorities of the 
+area in which such land is situated. 
+</p><p id="p_28">(3)	No thika  tenant shall be entitled to eject a Bharatia from 
+the structure or part thereof in the possession of the Bharatia for 
+the purpose of erecting a pucca  structure :
+</p><p id="p_29">	Provided that the thika  tenant may by providing 
+temporary alternative accommodation to a Bharatia obtain from 
+him vacant possession of the structure in his possession on 
+condition that immediately on the completion of the construction 
+of the pucca  structure the thika  tenant shall offer the Bharatia 
+accommodation in the pucca  structure at a rent which shall in 
+no case exceed by more than twenty-five per centum the rent 
+which the Bharatia was previously paying."
+</p>
+<p id="p_30">	<a href="/doc/1306713/" id="a_25">Section 10(1)</a> of the 1949 Act lays down that upon ejectment of a thika  
+tenant, his interest in the holding shall be determined and the structures 
+standing thereon shall vest in the landlord.  Sub-section (2) of <a href="/doc/1306713/" id="a_26">Section 10</a> of 
+the 1949 Act lays down that in case the order of eviction is on grounds (i) and 
+</p><p id="p_31">(iii) of <a href="/doc/1965985/" id="a_27">Section 3(1)</a> of 1949 Act, in that eventuality, the Bharatia who is in 
+possession of the structure shall be entitled to continue in such possession 
+and shall be deemed to be a tenant in respect of such structures within the 
+meaning of the West Bengal Premises Tenancy Act, 1956 ( in short 'the 
+Premises Tenancy Act') in which he is residing and shall be holding the same 
+under the landlord on the terms and conditions on which such Bharatia had 
+been holding immediately before the structures vested in the landlord.  Under 
+proviso to <a href="/doc/1796586/" id="a_28">Section 10(2)</a> of the 1949 Act, the landlord or the Bharatia would be 
+entitled to make an application for fixation of standard rent in respect of such 
+structure under the provisions of the Premises Tenancy Act and to that extent 
+only the provisions of the said Act were made applicable. According to sub-
+section (3) of <a href="/doc/1489134/" id="a_29">Section 10A</a> of the 1949 Act no thika  tenant shall be entitled to 
+eject a Bharatia from the structure for the purpose of erecting a pucca  
+structure but in case he intends to erect pucca  structure, in the premises in 
+which a Bharatia is residing, he is required to provide temporary alternative 
+accommodation to the Bharatia before obtaining possession for the purposes 
+of putting pucca structure thereon and after completion thereof, such Bharatia 
+shall be entitled to be put in possession of the pucca  structure on payment of 
+rent which shall in no case exceed more than 25% of the rent which the 
+Bharatia was previously paying.  
+</p><p id="p_32">	From the aforesaid provisions, it becomes plain that under the 1949 Act, 
+procedure was specifically provided for ejectment of a thika tenant by making 
+an application for ejectment before the Controller but not for ejectment of a 
+Bharatia by a thika tenant.  For ejectment of a Bharatia, only a suit for 
+ejectment could be filed by a thika tenant before a Civil Court in case, he 
+wanted to evict a Bharatia.  As Legislature of the State of West Bengal was 
+contemplating legislation providing therein for the acquisition of interest of 
+landlords in respect of lands comprised in thika tenancy and certain other 
+tenancies, pending its enactment, a further legislation was enacted which was 
+named The Calcutta Thika  Tenancy Stay of Proceedings (Temporary 
+Provisions) Act, 1978 (hereinafter referred to as 'the 1978 Act') which came 
+into force on 19th July, 1978 and continued to remain in force for a period of 
+three years and six months from the date of its commencement.   This 
+legislation was enacted to provide for temporary stay of proceedings for 
+ejectment of thika   tenants and Bharatias holding under thika tenants.  It 
+would be necessary to refer to the provisions of <a href="/doc/1965985/" id="a_30">Sections 3</a>,<a href="/doc/1506268/" id="a_31">4</a> and <a href="/doc/782097/" id="a_32">5</a> of the 1978 
+Act which read thus:-
+</p><p id="p_33">"3.  Stay of proceedings for ejectment of Thika   tenants. -  
+Notwithstanding anything contained in the Calcutta Thika   
+Tenancy Act, 1949, or in any other law for the time being in 
+force, - 
+</p><p id="p_34">	(a)	all applications for ejectment of Thika   tenants, 
+</p><p id="p_35">	(b)	all appeals from orders made on such 
+	applications, 	and 
+</p><p id="p_36">(c)	all proceedings in execution of orders for 
+ejectment of Thika   tenants. 
+</p><p id="p_37">under the provisions of the Calcutta Thika   Tenancy Act, 1949, 
+which are pending at the date of commencement of this Act or 
+which may be made, preferred or commenced after such date 
+but before the expiry of this Act, in respect of any land which is 
+not a 'vacant land' within the meaning of the Urban Land 
+(Ceiling and <a href="/doc/1489134/" id="a_33">Regulation) Act</a>, 1976, shall be stayed for the 
+period during which this Act continues in force.
+</p><p id="p_38">4.  Stay of suits and proceedings against Bharatias.  No 
+thika  tenant shall, while this Act continues in force, commence, 
+or continue with, any suit, appeal or proceedings in execution of 
+orders, for ejectment of any Bharatia and all pending suits, 
+appeals or proceedings in execution of orders, for ejectment of 
+a Bharatia shall remain stayed. 
+</p><p id="p_39">5.  Saving of limitation.  In computing the period of limitation 
+prescribed by any law for the time being in force for an 
+application for the ejectment of a thika tenant or for such a suit 
+against a Bharatia or for an appeal from an order or decree 
+made on such application or suit or for the execution of an order 
+or decree for ejectment of a Thika  tenant or a Bharatia, as the 
+case may be, the period during which this Act continues in force 
+shall be excluded."
+</p>
+<p id="p_40">	Under <a href="/doc/1965985/" id="a_34">Section 3</a> of the 1978 Act, all proceedings for ejectment  of thika  
+tenant initiated under the 1949 Act, irrespective of its stage, meaning thereby 
+whether it was pending before the original authority or in appeal or in 
+execution, were required to be stayed during the period of enforcement of the 
+1978 Act and no further proceeding could be initiated after its commencement.   
+Under <a href="/doc/1506268/" id="a_35">Section 4</a> of the 1978 Act a thika tenant was injuncted to commence 
+any proceeding or continue such proceeding for ejectment of any Bharatia and 
+all such proceedings if commenced stood stayed.  <a href="/doc/782097/" id="a_36">Section 5</a> of the 1978 Act 
+provided that in computing the period of limitation for making an application for 
+ejectment of a thika  tenant or for filing a suit against a Bharatia or for filing an 
+appeal or for levying execution of an order or decree for ejectment of a thika  
+tenant or a Bharatia, as the case may be, the period during which 1978 Act 
+continued to remain in force had to be excluded.  
+</p><p id="p_41">	Immediately after the 1978 Act expired, The Calcutta Thika   Tenancy 
+(Acquisition and <a href="/doc/1489134/" id="a_37">Regulation) Act</a>, 1981 (hereinafter referred to as 'the 1981 
+Act') was enacted which came into force with effect from 18th January, 1982.  
+The said Act was enacted for the acquisition of interests of landlords in respect 
+of lands comprised in thika tenancy and certain other tenancies.  According to 
+<a href="/doc/782097/" id="a_38">Section 5</a> of the 1981 Act, with effect from the date of commencement of said 
+Act, interest of the landlords in lands, inter alia, comprised in and appurtenant 
+to tenancies of thika tenants including open areas, roads, passages, tanks, 
+pools and drains vested in the State free from all incumbrances but the vesting 
+did not in any manner affect rights enjoyed by thika tenants and Bharatias.  By 
+virtue of  <a href="/doc/192399/" id="a_39">Section 6</a> of the 1981 Act, in spite of vesting, the thika tenant was 
+entitled to continue in occupation of the said land, on such terms and 
+conditions as may be prescribed, directly under the State as if the State had 
+been the landlord in respect of that land and he would be liable to pay land 
+revenue directly to the State.  Under <a href="/doc/7854/" id="a_40">Section 7</a> of the 1981 Act, a thika  tenant 
+was not entitled to let out the vacant land to anybody but could create lease in 
+respect of the structures.  The landlords were entitled to compensation for the 
+lands acquired by the State of West Bengal in the manner provided under 
+<a href="/doc/601175/" id="a_41">Section 8</a> of the 1981 Act.   <a href="/doc/1288796/" id="a_42">Section 9</a> of the 1981 Act lays down that monthly 
+and other periodical tenancies of Bharatias in respect of structures occupied 
+by them on payments of rent to the thika  tenants shall, with effect from the 
+date of coming into force of 1981 Act, i.e., 18th January, 1982, be governed by 
+the provisions of Premises Tenancy Act and for the said purpose, owners of 
+the structures shall be deemed to be landlords and Bharatias shall be deemed 
+to be tenants under the said Act.  <a href="/doc/1454833/" id="a_43">Section 11</a> of the 1981 Act lays down that 
+tenancy of Bharatia as a tenant under thika  tenant shall not be extinguished 
+because of subsequent non-existence of the structure which the Bharatia 
+previously occupied under the thika  tenant and its tenancy shall continue.  
+According to <a href="/doc/739245/" id="a_44">Section 19</a> of the 1981 Act, all proceedings for ejectment of thika  
+tenants and Bharatias shall stand abated with effect from 19th day of July, 
+1978 as if such proceedings had never been made.  It may be useful to refer to 
+the provisions of <a href="/doc/1288796/" id="a_45">Sections 9</a>, <a href="/doc/1454833/" id="a_46">11</a> and <a href="/doc/739245/" id="a_47">19</a> referred to above which read thus:
+"9.  Thika   tenants and Bharatias to be governed by <a href="/doc/688958/" id="a_48">West 
+Bengal Act</a> 12 of 1956 .  (1)  The monthly and other periodical 
+tenancies of Bharatias in respect of structures occupied by 
+them on payment of rents to Thika   tenants shall, with effect 
+from the date of coming into force of this Act, be governed by 
+the provisions of the West Bengal Premises Tenancy Act, 1956, 
+in all matters coming within the purview of the said Act and, for 
+the said purpose, the owners of the structures shall be deemed 
+to be landlords and the Bharatias shall be deemed to be 
+tenants under the said Act. 
+</p><p id="p_42">	(2)	Notwithstanding anything contained in this Act or 
+in the West Bengal Premises Tenancy Act, 1956, a Bharatia 
+under a Thika tenant shall be entitled to take separate electrical 
+connection from the electricity supplying agency or separate 
+water supply connection from the appropriate agency for his 
+own use. 
+</p><p id="p_43">11.  Tenancy of Bharatia to continue.  (1) Notwithstanding 
+anything to the contrary contained in any other law for the time 
+being in force, the tenancy of a Bharatia as a tenant under a 
+thika  tenant shall not be extinguished because of subsequent 
+non-existence of the structure or a part thereof which the 
+Bharatia previously occupied under the thika  tenant. 
+	(2)	If any structure or part thereof which was in the 
+occupation of a Bharatia as a tenant under a thika  tenant 
+ceases to exist except under an order of a court under section 
+18A of the West Bengal Premises Tenancy Act, 1956, the thika  
+tenant shall reconstruct similar accommodation and restore 
+possession to the Bharatia and put the Bharatia in possession 
+of such accommodation within one month of such structure 
+ceasing to exist, failing which the Bharatia may make an 
+application to the Controller in the prescribed manner. 
+	(3)	On an application made by the Bharatia under 
+sub-section (2), the Controller shall, after giving the thika  tenant 
+and the Bharatia  an opportunity of being heard, direct the thika  
+tenant to reconstruct similar accommodation and restore 
+possession to the Bharatia  within such time as Controller may 
+decide. 
+</p><p id="p_44">	(4)	If the thika  tenant fails to comply with the orders 
+of the Controller under sub-section (3), the Bharatia shall be 
+entitled to reconstruct the structure and, for that purpose, may 
+make an application to the Controller who shall, after giving the 
+Bharatia  and the thika  tenant an opportunity of being heard, 
+approve such cost of reconstruction as may appear to him to be 
+fair and reasonable and, after such reconstruction, allow 
+adjustment of the cost of such reconstruction from the rent 
+payable by the Bharatia  in such monthly instalments as the 
+Controller may think fit. 
+</p><p id="p_45">	(5)	If there is any unlawful resistance by or on behalf 
+of the thika  tenant to the reconstruction by the Bharatia  under 
+sub-section (4), the Officer-in-charge of the local police station 
+shall, on receipt of any requisition of the Controller in writing in 
+this behalf, render all necessary and lawful assistance to the 
+Bharatia . 
+</p><p id="p_46">19.  Proceedings including appeals and proceedings in 
+execution of orders, etc. to abate .  All proceedings 
+including appeals and all proceedings in execution of orders 
+passed in proceedings including appeals under the Calcutta 
+Thika   Tenancy Act, 1949, pending on the 19th day of July, 
+1978, for the ejectment of thika  tenants and Bharatias shall 
+stand abated with effect from the 19th day of July, 1978, as if 
+such proceedings, appeals or execution proceedings had never 
+been made."
+</p>
+<p id="p_47">	In view of the aforesaid provisions, now the question to be examined is 
+as to whether in the present case, the earlier suits for ejectment filed by the 
+thika  tenants for ejectment of Bharatias abated under <a href="/doc/739245/" id="a_49">Section 19</a> of the 1981 
+Act?  Under 1949 Act, procedure was provided for ejectment of a thika  tenant 
+only and no procedure whatsoever was prescribed for ejectment of a Bharatia 
+by a thika tenant.  Therefore, a suit for ejectment could be filed by a thika 
+tenant for ejectment of a Bharatia before an ordinary civil court and such 
+Bharatia during the continuance of 1949 Act was not entitled to claim 
+protection under the Premises Tenancy Act and could be evicted upon 
+determination of his tenancy by giving a notice under <a href="/doc/80042/" id="a_50">Section 106</a> of the 
+Transfer of Property Act.  Under 1981 Act, it has been specifically provided 
+that Bharatias are entitled to claim protection of the Premises Tenancy Act 
+meaning thereby that now they cannot be evicted unless grounds for eviction 
+enumerated under the Premises Tenancy Act are proved and they cannot be 
+ejected merely upon determining their tenancy by giving a notice under 
+<a href="/doc/80042/" id="a_51">Section 106</a> of the Transfer of Property Act. 
+</p><p id="p_48">	<a href="/doc/1288796/" id="a_52">Section 9</a> of the 1981 Act specifically lays down that from the date of 
+coming into force of 1981 Act, i.e., 18th January, 1982, the tenancies of 
+Bharatias shall be governed by the Premises Tenancy Act.  On that date, both 
+the suits earlier filed by the thika tenants for ejectment of Bharatias were 
+pending and when the same were filed, it was not required of the thika tenant 
+to prove the grounds for eviction enumerated under the Premises Tenancy 
+Act, but with effect from 18th January, 1982 even in those suits a thika tenant 
+was required to prove grounds for ejectment under the Premises Tenancy Act 
+in case it is held that the same did not abate. 
+</p><p id="p_49">	Learned Senior Counsel appearing on behalf of the appellants has 
+placed reliance upon three decisions of Calcutta High Court in the case of 
+<a href="/doc/948508/" id="a_53">Ranjit Kumar Saha v. Sudhir Kumar Dey</a>  91 Calcutta Weekly Notes 1071, 
+<a href="/doc/948508/" id="a_54">Ranjit Kumar Saha v. Sudhir Kumar Dey</a>  91 Calcutta Weekly Notes 1090 
+and <a href="/doc/773366/" id="a_55">Mrs. Qaiser Jahan v. Mohammad Yawoob</a> 1982 (2) Calcutta Law 
+Journal 143.  In these three decisions, it has been laid down that the 
+provisions of <a href="/doc/739245/" id="a_56">Section 19</a> of the 1981 Act shall apply only in relation to those 
+suits for eviction which were  filed before the Controller under the provisions of 
+1949 Act and were pending on the date of commencement of 1981 Act.  It was 
+further laid down therein that the said provisions shall have no application to 
+the suits for ejectment filed before the civil court by a thika  tenant for 
+ejectment of a Bharatia and pending on the date of commencement of 1981 
+Act.  In none of these three cases, the provisions of <a href="/doc/1288796/" id="a_57">Sections 9</a> and <a href="/doc/1454833/" id="a_58">11</a> of the 
+1981 Act have been considered.  In case it is held that such suits would not 
+come within the mischief of <a href="/doc/739245/" id="a_59">Section 19</a> of the 1981 Act, the provisions of 
+<a href="/doc/1288796/" id="a_60">Section 9</a> of the 1981 Act would not apply to it although expressly <a href="/doc/1288796/" id="a_61">Section 9</a> 
+provides that from the date of commencement of 1981 Act, i.e., 18th January, 
+1982, the provisions of the Premises Tenancy Act would apply to Bharatias.   
+Such suits cannot be effectively disposed of after the commencement of 1981 
+Act as earlier it was not necessary to prove the grounds for eviction 
+enumerated under the Premises Tenancy Act and the Bharatia would be 
+thereby denied the protection granted to him under the Premises Tenancy Act 
+although he was entitled to such protection even in pending suits.  This being 
+the position, we are clearly of the view that suits for ejectment filed by the thika 
+tenants for ejectment of Bharatias which were pending before a civil court 
+abated under <a href="/doc/739245/" id="a_62">Section 19</a> of the 1981 Act, as such High Court was quite 
+justified in holding that the present suits were maintainable. 
+	Learned Senior Counsel appearing on behalf of the appellants next 
+submitted that the High Court was not justified in reversing the finding of fact  
+recorded by the lower appellate court that plaintiffs failed to prove the bona 
+fide necessity in relation to one room.  In this regard, it may be stated that from 
+the judgment of the High Court, it would appear that the lower appellate court 
+affirmed finding of the trial court in relation to personal necessity of the 
+plaintiffs with regard to three rooms which finding was assailed by the 
+defendants before the High Court.  The building is one in which eviction was 
+sought by the plaintiffs from four rooms and evidence is also common.   While 
+considering correctness of finding of the lower appellate court in relation to 
+three rooms, High Court came to the conclusion that the plaintiffs were having 
+only two rooms and they required in all seven rooms, meaning thereby that 
+they required five more rooms and in those circumstances, it was held that the 
+plaintiffs succeeded in proving their case in relation to bona fide necessity with 
+regard to all the four rooms, including one room for which eviction was refused 
+by the lower appellate court.  In view of the aforesaid facts, we are not inclined 
+to interfere with the impugned judgment rendered by the High Court even with 
+regard to eviction of the defendants from one room, in the exercise of powers 
+of this Court under <a href="/doc/427855/" id="a_63">Article 136</a> of the Constitution of India. 
+	In the result, the appeals fail and the same are dismissed but in the 
+circumstances of the case, we direct that there shall be no order as to costs.
+</p>
+
+						
+					
+
+
+
+
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

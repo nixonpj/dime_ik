@@ -1,0 +1,571 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Arct No. 15/12/13 vs Mrs. Laxmi Devi on 23 September, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/57390221/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/134663498/">Smt. Laxmi Devi vs Shri Nagesh Aggarwal on 20 August, 2013</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/679372/">The Delhi Rent Act,   1995</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/57390221/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/57390221/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=benefit%20under%20section%2014%282%29">benefit under section 14(2)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=laxmi%20devi">laxmi devi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=no%20benefit%2014%282%29">no benefit 14(2)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=drc%20section%2014%282%29">drc section 14(2)</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=review%20application%20">review application </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=application%20of%20review%20application">application of review application</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Arct No. 15/12/13 vs Mrs. Laxmi Devi on 23 September, 2013</div><div class="doc_author">Author: Sh. Chander Shekhar</div>
+
+<pre id="pre_1">            IN THE COURT OF SH. CHANDER SHEKHAR, 
+                DISTT. &amp; SESSIONS JUDGE (NORTH), 
+              ROOM NO. 401, ROHINI COURTS, DELHI.
+
+ARCT No. 15/12/13
+          Mrs. Kamlesh Srivastava
+          w/o Sh. Ramesh Chand Srivastava
+          r/o 126­B, Pocket­VI, Rohini
+          Delhi                                          ........Appellant
+         
+                            Vs.
+
+        Mrs. Laxmi Devi
+        w/o Sh. Kailash Chand Verma
+        r/o Flat No. 1826, Pocket­4
+        Lodhi Complex, Lodhi Road
+        New Delhi ­ 110003                                  ..........Respondent
+
+Date of institution :­                 04.12.2012
+Date of hearing arguments :­      27.08.2013 
+Date of Judgment :­                    23.09.2013
+
+                                            JUDGMENT
+</pre>
+<p id="p_1">    1.      This Judgment shall govern the disposal of an appeal u/s 38 
+
+        of   the   <a href="/doc/679372/" id="a_1">Delhi   Rent   Control   Act</a>,   1958,   filed   by   the   appellant 
+
+        (respondent before the Ld. Trial Court) against the Orders dated 
+
+        13.08.2012   and   27.11.2012   in   M­51/2011   (main   petition   no. 
+
+
+<span class="hidden_text" id="span_1">ARCT No. 15/12/13                                                           Page 1 of 10 </span>
+         E­806/06)   passed   by   the   Ld.   Addl.   Rent   Controller   (N/W), 
+
+        Rohini   Courts,   Delhi,   in   the   case   titled   as   "<a href="/doc/134663498/" id="a_2">Laxmi   Devi   vs. 
+
+        Kamlesh   Aggarwal</a>"   whereby   the   Ld.   Trial   Court   vide   order 
+
+        dated 13.08.2012 has been pleased to pass the eviction order in 
+
+        respect   of   the   suit   property   in   favour   of   the   respondent 
+
+        (petitioner   before   the   Ld.   Trial   Court)   and   against   the 
+
+        appellant/respondent and thereafter, vide order dated 27.11.2012 
+
+        dismissed the review application of order dated 13.08.2012 filed 
+
+        by the appellant/respondent.
+</p>
+<p id="p_2">    2.        The   facts   briefly   stated   are   that   the   present   case   was 
+
+        remanded   back   to   the   Ld.   Trial   Court   by   the   Order   dated 
+
+        18.07.2012 passed by the Ld. ARCT, Rohini Courts, Delhi, for 
+
+        consideration on the benefit u/s 14(2) of DRC Act.  An eviction 
+
+        petition u/s 14(1)(a) of DRC Act was filed against the appellant 
+
+        which was allowed vide Judgment dated 02.09.2011.  In the said 
+
+        Judgment, appellant was given an opportunity to deposit the rent 
+
+        u/s   15(1)   of   DRC   Act   vide   order   dated   02.09.2011.     The 
+
+        appellant was directed to pay the rent w.e.f. July 2003 till date 
+
+        i.e. 02.09.2011 @ Rs. 660/­ per month within one month from 
+
+        02.09.2011.     Thereafter, vide Order dated 05.12.2011, it  was 
+
+
+
+<span class="hidden_text" id="span_2">ARCT No. 15/12/13                                                           Page 2 of 10 </span>
+         observed that the appellant had not paid the rent as directed and, 
+
+        therefore, he was held to be not entitled for the benefit u/s 14(2) 
+
+        of the DRC Act.  The order dated 05.12.2011 was set aside and 
+
+        the   matter   was   remanded   back   to   the   Ld.   Trial   Court   for 
+
+        consideration   on   the   point   of   benefit   u/s   14(2)   of   DRC  Act. 
+
+        After hearing arguments, the Ld. Trial Court vide order dated 
+
+        13.08.2012   has   been   pleased   to   pass   the   eviction   order   in 
+
+        respect   of   the   suit   property   in   favour   of   the 
+
+        respondent/petitioner and against the appellant/respondent and 
+
+        thereafter,   vide   order   dated   27.11.2012   dismissed   the   review 
+
+        application   of   order   dated   13.08.2012   filed   by   the 
+
+        appellant/respondent.  Hence, the present appeal has been filed 
+
+        by the appellant stating therein that the impugned orders dated 
+
+        13.08.2012 and 27.11.2012 are bad in law and are liable to be 
+
+        set aside as the Ld. ARC erred in overlooking the facts that the 
+
+        appellant in her statement/details of rent, deposited the rent in 
+
+        the Court.  The respondent accepted in her examination in chief 
+
+        that the rent till December 2002 was deposited in the Court of 
+
+        Sh.   V.K.   Khanna,   ARC,   Delhi,   and   thereafter,   from   January 
+
+        2003, received two drafts of Rs. 2400/­ and Rs. 3300/­.
+
+
+
+<span class="hidden_text" id="span_3">ARCT No. 15/12/13                                                           Page 3 of 10 </span>
+</p><p id="p_3">     3.        It is further stated that the Ld. Trial Court has grossly erred 
+
+        in ignoring the true facts while deciding the facts of the case as 
+
+        when   the   rent   for   the   month   of   July   2003   has   already   been 
+
+        received by the respondent by way of demand draft, then no rent 
+
+        was due for the month of July 2003.  It is further stated that the 
+
+        Ld. Trial  Court has not calculated the rent paid by the appellant 
+
+        by way of demand draft i.e. Exs. PW1/6 &amp; PW1/7.  It is further 
+
+        stated that as per the settled law of land, the person can lie, but 
+
+        the   documents   cannot   and   in   the   present   case,   the   Ld.   Trial 
+
+        Court has not looked the documents and passed the impugned 
+
+        order in haste.
+</p>
+<p id="p_4">    4.        It  is  further stated that the Ld. Trial Court  has failed to 
+
+        appreciate that after disposing of the main petition filed by the 
+
+        respondent, there were no arrears of rent payable for the month 
+
+        of July 2003.
+</p>
+<p id="p_5">    5.        It is further stated that the Ld. ARC has failed to appreciate 
+
+        that no order has been passed by the Ld. ARC, Rohini Courts, 
+
+        Delhi, to deposit future rent till the disposal of the misc. petition 
+
+        (2nd  part)   of   the   main   petition.     It   is   further   stated   that   the 
+
+        appellant had sent the rent to the respondent which was refused 
+
+
+
+<span class="hidden_text" id="span_4">ARCT No. 15/12/13                                                           Page 4 of 10 </span>
+         by the respondent and thereafter, from time to time the appellant 
+
+        deposited the same u/s 27 of the DRC Act.
+</p>
+<p id="p_6">    6.        It  is  further stated that the Ld. Trial Court  has failed to 
+
+        appreciate that the appellant had sent advance rent upto March 
+
+        2012   to   the   respondent   by   way   of   money   order   and   on   her 
+
+        refusal, the appellant deposited the same in the Court in D.R. 
+
+        No. 145/11 entitled "Kamlesh Srivastava vs. Laxmi Devi".
+
+</p><p id="p_7">    7.        It   is   further   stated   that   as   per   settled   law,   if   the   tenant 
+
+        complies with the order u/s 15(1) of the DRC Act and deposits 
+
+        monthly rent without any failure or default, then the tenant is 
+
+        entitled for the benefit u/s 14(2) of the D.R.C. Act and in the 
+
+        present case, the Ld. Trial Court has totally ignored that the rent 
+
+        for the month of July 2003 was paid to the respondent by the 
+
+        appellant by way of demand draft and thereafter, deposited by 
+
+        the appellant in compliance of the order u/s 15(1) of D.R.C. Act 
+
+        during the trial and the same was withdrawn by the respondent 
+
+        from time to time and thereafter, sent the rent in advance to the 
+
+        respondent which was refused by the respondent and thereafter, 
+
+        the   appellant   deposited   the   same   in   the   Court   till   December 
+
+        2012. It is further stated that the findings of the Ld. Trial Court 
+
+
+
+<span class="hidden_text" id="span_5">ARCT No. 15/12/13                                                           Page 5 of 10 </span>
+         are even otherwise illegal, against the facts on the record and 
+
+        are liable to be set aside.  Hence, the present appeal.
+
+</p><p id="p_8">    8.        Notice of the appeal was issued to the respondent and the 
+
+        respondent filed the reply thereby denying the contents of the 
+
+        appeal   and   stated   that   the   appellant   is     not   entitled   for   the 
+
+        benefits u/s 14(2) of the  DRC Act and the Ld. Trial Court has 
+
+        rightly   passed   the order dated  13.08.2012 for  eviction of  the 
+
+        appellant from the suit premises, as the appellant has defaulted 
+
+        in   making   the   payment   of   rent   despite   the   order   dated 
+
+        04.07.2005 passed by the Ld. ARC, Delhi, for depositing the 
+
+        complete rent.  It is further stated in the reply that the appellant 
+
+        was specifically directed to pay the rent since 01.08.2003 within 
+
+        one   month   and   was   also   directed   to   deposit   the   future   rent 
+
+        month by month.
+</p>
+<p id="p_9">    9.        It   is   further   stated   in   the   reply   that   vide   order   dated 
+
+        02.09.2011,   Ld.   ARC   directed   the   appellant   to   make   the 
+
+        payment of the arrears of rent @ Rs. 660/­ per month w.e.f. July 
+
+        2003 upto date and the main petition was disposed of and the 
+
+        Ld.   ARC   directed   to   prepare   a   separate   misc.   file   for   the 
+
+        consideration   of   the   benefit   u/s   14(2)   of   the   DRC   Act   and 
+
+
+
+<span class="hidden_text" id="span_6">ARCT No. 15/12/13                                                           Page 6 of 10 </span>
+         directed the Naib Nazir to report regarding the compliance of 
+
+        the order dated 02.09.2011 by the appellant.   However, after 
+
+        passing   of   the   order   dated   02.09.2011,   the   appellant   did   not 
+
+        deposit   the   rent   and   failed   to   comply   with   the   direction   to 
+
+        deposit the rent and   accordingly, the Ld. ARC vide its order 
+
+        dated 05.12.2011 was pleased to pass an order for eviction of 
+
+        the appellant from the suit premises.
+</p>
+<p id="p_10">    10.       It is further stated in the reply that thereafter, the appellant 
+
+        filed  an  appeal  against the order dated 05.12.2011 where the 
+
+        appellant was declined the benefit of Sec. 14(2) of the DRC Act 
+
+        and   the   eviction   order   was   passed   against   him   the   Ld.   RCT 
+
+        remanded back the matter for consideration on the benefit u/s 
+
+        14(2) of DRC vide its order dated 18.07.2012.  Thereafter, the 
+
+        Ld. Trial Court after hearing both the parties and taking into 
+
+        consideration  the material  on record, declined the benefit  u/s 
+
+        14(2)   of   DRC   Act   to   the   appellant   vide   its   order   dated 
+
+        13.08.2012   and   passed   an   eviction   order   with   regard   to   the 
+
+        tenanted premises and the appellant was directed to hand over 
+
+        the  vacant   possession of  the suit  premises  to the  respondent. 
+
+        Thereafter, the appellant moved an application under Order 47 
+
+
+
+<span class="hidden_text" id="span_7">ARCT No. 15/12/13                                                           Page 7 of 10 </span>
+         Rule   1   CPC   for   the   review   of   the   eviction   order   dated 
+
+        13.08.2012, which was dismissed by the Ld. Trial   Court vide 
+
+        order dated 27.11.2012.
+</p>
+<p id="p_11">    11.       I have heard Ld. Counsels for the parties and have gone 
+
+        through the impugned orders passed by the Ld. Trial Court as 
+
+        well as the entire record.
+</p>
+<p id="p_12">    12.       During   course   of   the   arguments,   Ld.   Counsel   for   the 
+
+        appellant submitted that at the time of disposing of the main 
+
+        petition filed by the respondent/landlady, there were no arrears 
+
+        of   rent   payable   for   the   month   of   July   2003.     It   is   further 
+
+        submitted by the Ld. Counsel for the appellant that the rent for 
+
+        the month of July 2003 was paid to the respondent/landlady by 
+
+        way of demand draft and thereafter, deposited by the appellant 
+
+        in compliance of the order u/s 15(1) of D.R.C. Act during the 
+
+        trial and withdrawn by the respondent from time to time and 
+
+        thereafter,   the   appellant   sent   the   rent   in   advance   to   the 
+
+        respondent which was refused by the respondent and thereafter, 
+
+        the   appellant   deposited   the   same   in   the   Court   till   December 
+
+        2012.   Accordingly, Ld. Counsel for the appellant has prayed 
+
+        that the impugned orders dated 13.08.2012 and 27.11.2012 in M 
+
+
+
+<span class="hidden_text" id="span_8">ARCT No. 15/12/13                                                           Page 8 of 10 </span>
+</p><p id="p_13">         -   51/11   passed   in eviction  petition  no.  806/2006  may  be  set 
+
+        aside.
+</p>
+<p id="p_14">    13.       It is a fact which has come on the record that in view of the 
+
+        Judgment dated 02.09.2011, the appellant was in arrears of rent 
+
+        since July 2003 and notice demanding the arrears of rent was 
+
+        served upon the appellant/tenant.  Hence, I do not find any flaw 
+
+        or   infirmity   in   the   impugned   orders   dated   13.08.2012   and 
+
+        27.11.2012 since the respondent has paid the rent w.e.f. August 
+
+        2003.  The appellant has failed to comply with the orders of the 
+
+        Ld.   Court   and   as   such,   the   appellant   is   not   entitled   for   the 
+
+        benefit u/s 14(2) of the DRC Act.  There is no infirmity in the 
+
+        order of the Ld. ARC dated 13.08.2012.  Similarly, I also do not 
+
+        find any infirmity in the order dated 27.11.2012 passed by the 
+
+        Ld. Trial Court while disposing of the review application filed 
+
+        by the appellant in that Court.  
+</p>
+<p id="p_15">    14.       It has been rightly observed by the Ld. Trial Court that the 
+
+        order   dated   13.08.2012   is   the   sequel   to   the   Judgment   dated 
+
+        02.09.2011 wherein it was observed that the rent is to be paid 
+
+        from July 2003 and in the statement of account, it was found 
+
+        that   the   rent   has   not   been   paid   for   the   month   of   July   2003, 
+
+
+
+<span class="hidden_text" id="span_9">ARCT No. 15/12/13                                                           Page 9 of 10 </span>
+           therefore, in consonance with the Judgment dated 02.09.2011, 
+
+          order dated 13.08.2012 was passed. The said Judgment dated 
+
+          02.09.2011, in my opinion also, has attained the finality.
+
+</p><p id="p_16">    15.        In view of the above discussions, I do not find any flaw or 
+
+          infirmity   in   the   impugned   orders   dated   13.08.2012   and 
+
+          27.11.2012 passed by the Ld. Trial Court.  Hence, I do not find 
+
+          any reason to interfere in the findings of Ld. Trial Court.  I see 
+
+          no substance in this appeal as nothing could be pointed out from 
+
+          the contentions of the appellant.  
+</p>
+<p id="p_17">    16.        In the result, I hold that this appeal is devoid of any merits 
+
+          and is accordingly dismissed.  However, parties are left to bear 
+
+          their   own   costs.     Record   of   the   Trial   Court   be   sent   back 
+
+          alongwith an attested copy of the Judgment passed today. 
+
+          Appeal file be consigned to Record Room, after completing the 
+
+          necessary formalities. </p><pre id="pre_2">
+
+Announced in the open Court 
+today i.e. 23.09.2013                         (CHANDER SHEKHAR)
+                                                        Distt. &amp; Sessions Judge (North) 
+                                                             Rohini Courts, Delhi
+
+
+
+
+<span class="hidden_text" id="span_10">ARCT No. 15/12/13                                                           Page 10 of 10 </span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

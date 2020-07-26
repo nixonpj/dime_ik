@@ -1,0 +1,685 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Noor Islam @ Gole on 30 November, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/5533754/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1873755/">Section 457 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/508356/">Section 445 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/5533754/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/5533754/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=islamic">islamic</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=457">457</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=511%20of%20indian%20penal%20code">511 of indian penal code</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ipc%20511">ipc 511</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=457%20ipc">457 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shish%20ram">shish ram</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=457/380">457/380</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=380">380</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.380%20">s.380 </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=meghraj%20">meghraj </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=511">511</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bhanu">bhanu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=house%20breaking%20%20%20citedby%3A1873755">house breaking   citedby:1873755</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=house%20breaking">house breaking</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20457%20cr.pc%3A%20punjab_haryana">section 457 cr.pc: punjab_haryana</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=friends%20colony">friends colony</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=security%20guard">security guard</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=380%20%2C511%20ipc">380 ,511 ipc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=house%20trespass">house trespass</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20457%20ipc">section 457 ipc</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Noor Islam @ Gole on 30 November, 2012</div><div class="doc_author">Author: Sh. Lokesh Sharma</div>
+
+<pre id="pre_1">IN   THE   COURT   OF   SH.   LOKESH   KUMAR   SHARMA, 
+ADDITIONAL   CHIEF   METROPOLITAN   MAGISTRATE, 
+DISTRICT SOUTH EAST, SAKET COURT, NEW DELHI.
+
+Case No. 262/02/11
+Unique Case I.D. No.02406R0291772011
+
+
+ STATE                VERSUS             NOOR ISLAM @ GOLE
+
+
+                                                         FIR No. 258/11
+                                                    U/s 380/457/511 <a href="/doc/1569253/" id="a_1">IPC</a>
+                                               P. S. New Friends Colony
+
+Date of filing of the charge sheet   :         04.11.2011 
+Date of reserving order              :         23.11.2012
+Date of pronouncement                :         30.11.2012
+
+                          JUDGEMENT
+</pre>
+<pre id="pre_2">(a) Serial Number of the case            :   262/02/11
+
+(b) The date of the commission of  :         22.10.2011
+    the offence
+(c) The name of the complainant    :         Sh. Bhanu Bahadur S/o Sh. 
+                                             Veer   Bahadur   Rawat   R/o 
+                                             H.No. B­550, New Friends 
+                                             Colony, New Delhi.  
+                                               
+n    The   name   of   the   accused  :      Noor   Islam   @   Gole   S/o 
+     person,   his   parentage   and         Mohd.   Abu   Bakar   R/o   H. 
+     residential address                     No.   16,   Pahari   No.2, 
+                                             Taimoor Nagar, New Delhi.
+
+
+
+FIR No.  258/11         State Vs. Noor Islam @ Gole       Page No.1 of 11
+ (e) The offence complained of                   :   Sec. 380/457/511 <a href="/doc/1569253/" id="a_2">IPC</a>
+
+(f) The plea of the accused                     :   Pleaded not guilty
+
+(g) The final order                             :   Convicted U/s 457 <a href="/doc/1569253/" id="a_3">IPC</a>
+
+(h) The date of the order                       :   29.11.2012
+
+Prosecution case:
+
+</pre><p id="p_1">1.             The   case   of   the   prosecution,   in   brief,   is   that   the 
+
+complainant   (PW­2)   was   working   as   a   Security   Guard   at   H.   No. 
+
+B­550,   New   Friends   Colony,   New   Delhi.   According   to   the 
+
+complainant (PW­2), on 22.10.2011 at about 6 am he had heard the 
+
+noise of falling of utensils from the said house. When he entered into 
+
+the house, he saw that one person was trying to remove the utensils 
+
+from the temple situated in the said house. He caught hold of that 
+
+person and raised the alarm by saying "Chor Chor". In the meantime, 
+
+the owner of the house Sh. Sajeev Sikka had also arrived there and 
+
+had   called   the   police   at   100   number.     He   had   lodged   a   complaint 
+
+Ex.PW­2/A regarding theft in his dwelling house. ASI Megh Raj got 
+
+FIR   registered   U/s   380/457/511   <a href="/doc/1569253/" id="a_4">IPC</a>   on   22.10.2011   vide   rukka 
+
+Ex.PW­ 6/A. As a result, FIR No. 258/11 U/s 380/ 457/511 <a href="/doc/1569253/" id="a_5">IPC</a> was 
+
+registered and the investigation was marked to HC Manoj. Ct. Shish 
+
+Ram handed over a copy of FIR and original  tehrir  to HC Manoj at 
+
+the   place   of   occurrence   of   offence.   During   investigation,   he   had 
+
+
+
+FIR No.  258/11              State Vs. Noor Islam @ Gole           Page No.2 of 11
+ prepared   site   plan   of   the   place   of   occurrence   Ex.PW­4/A   and 
+
+disclosure statement of accused Ex PW 4/B, arrested accused persons 
+
+vide   Ex.PW­2/B   and   Personal   Search   Memo   Ex.PW­   2/C   and 
+
+deposited case property in Malkhana. He had filed charge sheet U/s 
+
+380/457/511 <a href="/doc/1569253/" id="a_6">IPC</a>.
+</p>
+<p id="p_2">
+
+</p><p id="p_3">2.            The Ld. Predecessor  of this Court  was pleased to take 
+
+cognizance of offence U/s 457/380/511 <a href="/doc/1569253/" id="a_7">IPC</a> against the accused. The 
+
+accused   was   supplied   copy   of   charge   sheet   and   accompanying 
+
+documents as provided U/s 207 <a href="/doc/445276/" id="a_8">Cr.P.C</a>. After hearing arguments on 
+
+charge, Ld. Predecessor of this court was pleased to frame charge U/s 
+
+457 <a href="/doc/1569253/" id="a_9">IPC</a> against the accused on 02.12.2011 to which he had pleaded 
+
+not guilty and claimed trial. 
+</p>
+<p id="p_4">
+
+</p><p id="p_5">3.            In   order   to   substantiate   its   case,   the   prosecution   had 
+
+examined six witnesses. 
+</p>
+<p id="p_6">
+
+</p><p id="p_7">4.            PW­1   Sh.   Sanjeev   Sikka   S/o   Late   Sh.   K.L.   Sikka   R/o 
+
+H.No. B­550, New Friends Colony, New Delhi had deposed that in the 
+
+month of October 2011 at about 6.30 AM, his guard namely Bhanu 
+
+Bahadur called him and he accordingly, entered into the temple of the 
+
+house wherein his Security Guard had caught a thief who was trying 
+
+to steal utensils from the temple. Thereafter, he had called the police 
+
+
+FIR No.  258/11            State Vs. Noor Islam @ Gole           Page No.3 of 11
+ at 100 number and the said person was handed over to the police. 
+
+After seeking permission from the court, Ld. APP for State had asked 
+
+leading   questions  from  the said witness  who had admitted it  to be 
+
+correct that the incident had taken place on 22.10.2011. 
+
+
+</p><p id="p_8">             In   his  cross­examination, PW­1  had  stated  that  he  had 
+
+called the police at 6.30 am and police had reached the spot at 7.00 am 
+
+and he was called at the PS at 10 am and he had also given a written 
+
+complaint in English to the police. He had denied the suggestion that 
+
+accused had been falsely implicated in this case by his security Guard 
+
+Bhanu due to prior enmity with the accused. 
+</p>
+<p id="p_9">
+</p><p id="p_10">5.           PW 2 is Sh Bhanu Bahadur S/o Sh. Veer Bahadur Rawat 
+
+R/o H/No. B­550, New Friends Colony, New Delhi. He had deposed 
+
+that on 22.10.2011 he was working as a security guard at the above­
+
+stated address and at about 6 am he had heard the noise of falling of 
+
+utensils from the said house. When he had entered into the house, he 
+
+saw that one person was trying to remove the utensils from the temple 
+
+of the said house. He caught hold of that person and raised the alarm 
+
+by saying "Chor Chor". In the meantime, the owner of the house Sh. 
+
+Sajeev Sikka had also arrived there and had called the police at 100 
+
+number.    He lodged a complaint Ex.PW­2/A regarding theft in the 
+
+above­mentioned dwelling house.
+</p>
+<p id="p_11">
+
+
+FIR No.  258/11         State Vs. Noor Islam @ Gole       Page No.4 of 11
+                Since witness had not deposed the complete facts, hence, 
+
+Ld. APP had asked leading questions from him wherein he had denied 
+
+the   suggestion   that   IO   had   prepared   the   site   plan   at   his   instance. 
+
+However,   he   had   admitted   that   IO   had   arrested   and   carried   out 
+
+personal search of the accused in his presence. 
+
+</p><p id="p_12">               During his cross examination by Ld. Defence counsel, he 
+
+had   admitted   that   police   had   never   informed   the   relative   of   the 
+
+accused   regarding   his   arrest   in   his   presence.   He   had   denied   the 
+
+suggestion   that   accused   was   previously   known   to   him   and   that 
+
+accused had been falsely implicated in this case at his instance. 
+
+
+
+</p><p id="p_13">6.             PW 3 Ct. Shish Ram had deposed that on 22.10.2011, he 
+
+was on emergency duty and on that day, ASI Meghraj received a DD 
+
+regarding the fact that a thief was apprehended at B­550, New Friends 
+
+Colony, New Delhi. He alongwith ASI Meghraj went to the spot and 
+
+met complainant Bhanu Bahadur and he had produced a person who 
+
+had entered into the said house for the purpose of committing theft. 
+
+ASI   Meghraj   had   interrogated   the   said   person   and   his   name   was 
+
+revealed as Noor Islam. ASI Meghraj had recorded the statement of 
+
+the complainant Bhanu Pratap and had got the case registered through 
+
+him. Thereafter, investigation was marked to HC Manoj Kumar who 
+
+had   reached   at   the   spot   and   had   arrested   and   carried   out   personal 
+
+search of accused. 
+</p>
+<p id="p_14">
+FIR No.  258/11              State Vs. Noor Islam @ Gole             Page No.5 of 11
+                During   his   cross   examination   by  Ld.  Defence   counsel, 
+
+the witness had stated that ASI Meghraj had recorded statement of 
+
+Sanjeev Sikka on the spot. He had further stated that IO had informed 
+
+the wife of accused regarding his arrest.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">7.             PW 4 HC Manoj had deposed that on 22.10.2011 DO had 
+
+handed   over   him   a   copy   of   FIR   and   tehrir   of   the   present   case. 
+
+Thereafter, he alongwith Ct. Shis Ram went to the spot and met ASI 
+
+Meghraj who had handed over accused Noor Islam @ Gole. He had 
+
+prepared site plan at the instance of complainant. Thereafter, accused 
+
+was arrested and his personal search was carried out. He had recorded 
+
+statement of owner of the said house Sh. Sanjeev Sikka and recorded 
+
+disclosure statement of the accused which was Ex. PW 4/B. 
+
+</p><p id="p_17">               During   his   cross   examination   by  Ld.  Defence   counsel, 
+
+the witness had stated that he had prepared site plan, arrest memo, 
+
+personal search memo and had also recorded the disclosure statement 
+
+of the accused after registration of FIR. He had further stated that he 
+
+had never called the complainant to the PS and he had informed the 
+
+mother of the accused regarding his arrest. Again he had stated that he 
+
+had   informed   the  wife of the accused regarding his arrest.  He had 
+
+further   stated   that   he  had  prepared  the  site   plan  at   the  instance   of 
+
+complainant. He had further stated that  Mr. Sanjeev Sikka had not 
+
+
+
+
+FIR No.  258/11              State Vs. Noor Islam @ Gole           Page No.6 of 11
+ given any written statement to him but he had recorded his statement 
+
+U/s 161 <a href="/doc/445276/" id="a_10">Cr.P.C</a> on the spot. 
+</p>
+<p id="p_18">
+
+</p><p id="p_19">8.          PW 5 HC Keshav was Duty Officer. He had recorded the 
+
+case FIR No. 258/11 U/s 457/380/511 <a href="/doc/1569253/" id="a_11">IPC</a> at 08.15 am on 22.10.2011 
+
+on receipt of rukka sent by ASI Meghraj through Ct. Shish Ram. He 
+
+had  proved  copy of  case FIR Ex.PW­ 5/A and his endorsement  as 
+
+Ex.PW­5/B on rukka. 
+</p>
+<p id="p_20">
+
+</p><p id="p_21">9.          PW­6 SI Megh Raj had deposed that on 22.10.2011 at 
+
+about 6.25, a DD no. 6A regarding theft in Kothi No. B­550, NFC, 
+
+New Delhi was marked to him and thereafter, he alongwith Ct. Shish 
+
+Ram had visited the said Kothi and met complainant Bhnu Bahadur 
+
+who had produced the accused before him. He had recorded statement 
+
+of complainant and had prepared rukka and had got the case registered 
+
+through Ct. Shish Ram. Thereafter, investigation was entrusted to IO 
+
+HC Manoj who had come to the spot and he had handed over the 
+
+accused to IO. 
+</p>
+<p id="p_22">            During his cross­examination by Ld. Defence counsel, he 
+
+had stated that he alongwith Ct. Shish Ram had gone to the spot at 
+
+about 6.40 am and Ct. Shish Ram had taken the rukka for registration 
+
+of the FIR at around 8 am and returned back with HC Manoj at the 
+
+spot at around 9 am. 
+</p>
+<p id="p_23">
+FIR No.  258/11         State Vs. Noor Islam @ Gole    Page No.7 of 11
+</p><p id="p_24"> 10.           Thereafter, PE was closed. Statement of accused U/s 313 
+
+<a href="/doc/445276/" id="a_12">Cr.P.C</a>   was   recorded   in   which   the   entire   incriminating   evidence 
+
+appearing against him on record was put to him in its vernacular in 
+
+reply to which accused had stated that he was lifted from his house 
+
+and falsely implicated in this case. 
+</p>
+<p id="p_25">
+
+</p><p id="p_26">11.           I have heard Ld. APP for State and Ld. Defence counsel 
+
+provided   by   DLSA   and   have   carefully   considered   the   evidence 
+
+available on record.
+</p>
+<p id="p_27">
+</p><p id="p_28">12.           Ld. APP has argued that the prosecution has been able to 
+
+prove that the accused had committed house trespass by entering into 
+
+the house of Sh. Sanjeev Sikka with intention to commit theft. He has 
+
+further argued that there is no contradiction in the testimonies of all 
+
+the witnesses. He argued that the depositions of the PW­2 are duly 
+
+corroborated by FIR Ex.PW­5/A. He argued that accused is liable to 
+
+be held guilty for committing offence U/s 457 <a href="/doc/1569253/" id="a_13">IPC</a>. 
+
+
+</p><p id="p_29">13.           Diametrically opposite, Ld. Defence Counsel from Legal 
+
+Aid   had   argued   that   no   recovery   had   been   effected   from   the 
+
+possession   of   the   accused.   He   argued   that   there   are   material 
+
+contradictions in depositions of the prosecution witnesses. He argued 
+
+that all documents were prepared in police station. He argued that the 
+
+
+
+
+FIR No.  258/11           State Vs. Noor Islam @ Gole        Page No.8 of 11
+ prosecution case was shrouded with suspicion and hence, the accused 
+
+was entitled to be acquitted in this case.   
+</p>
+<p id="p_30">
+
+</p><p id="p_31">14.            <a href="/doc/1873755/" id="a_14">Section 457</a> provides punishment for lurking house tress­
+
+pass or house breaking by night in order to commit offence punishable 
+
+with imprisonment, which is as under:
+</p>
+<p id="p_32">
+</p><p id="p_33">457.           Whoever   commits   lurking   house­trespass   by   night   or 
+
+house breaking by night, in order to the committing of any offence 
+
+punishable with imprisonment, shall be punished with imprisonment 
+
+of either description for a term which may extend to five years, and 
+
+shall also be liable to fine; and if the offence intended to be committed 
+
+is theft, the term of the imprisonment may be extended to fourteen 
+
+years. 
+</p>
+<p id="p_34">
+</p><p id="p_35">15.            <a href="/doc/508356/" id="a_15">Section 445</a> IPC provides that a person is said to commit 
+
+"house­breaking"   who   commits   house   trespass   if   he   effects   his 
+
+entrance into the house or any part of it in any of the six ways. If a 
+
+person   enters   or   quits   by   breaking   open   locks,   or   by   unfastening 
+
+entrance or exit is said to have committed house­breaking. Illustration 
+
+</p><p id="p_36">(d) states that unfastening of a door is a house­breaking. Illustration 
+
+</p><p id="p_37">(e) states that lifting of latches is a house­breaking.   
+
+
+
+
+FIR No.  258/11             State Vs. Noor Islam @ Gole           Page No.9 of 11
+</p><p id="p_38"> 16.            I   have   carefully   considered   and   analyzed   evidence   on 
+
+record.
+</p>
+<p id="p_39">
+</p><p id="p_40">17.            The prosecution has examined the complainant (PW­2) 
+
+and   Sh.   Sajeev   Sikka   (PW­1)   in   support   of   its   case.   They   are   the 
+
+material   witnesses.   They   have   no   animosity   against   accused.   The 
+
+PW­1 and PW 2 are the trustworthy witnesses. The defence has failed 
+
+to elicit any material contradictions in their depositions. The defence 
+
+has neither suggested nor demonstrated any plausible reason for the 
+
+PWs deposing against the accused. The minor contradictions, even if 
+
+any, appearing in the testimonies of PWs due to lapse of considerable 
+
+period of time, cannot be held fatal for the prosecution's case which 
+
+otherwise stands good on its own legs. 
+</p>
+<p id="p_41">
+</p><p id="p_42">18.            In view of clear and cogent evidence of the complainant, 
+
+the  defence  cannot  derive benefit  by contending that site plan was 
+
+prepared in police station or that the complainant had denied that site 
+
+plan was prepared by IO at his instance. Since, no suggestion was ever 
+
+put   to   the  police  witnesses  that  no site  plan was ever  prepared  by 
+
+them. Though accused had cited the previous animosity between him 
+
+and complainant, but he had miserably failed to prove the same. He 
+
+had failed to explain as to why PW 1 Sh. Sanjeev Sikka owner of the 
+
+house   would   have   also   deposed   against   him   and   that   too   at   the 
+
+instance of his security guard as alleged.
+</p>
+<p id="p_43">FIR No.  258/11              State Vs. Noor Islam @ Gole  Page No.10 of 11
+</p><p id="p_44"> 19.           From the testimony of the PW 1 Sanjeev Sikka and PW 2 
+
+complainant   Bhanu   Bahadur,   it   is   therefore,   proved   beyond   any 
+
+reasonable   doubt   that  accused   Mohd.  Islam   had  committed  lurking 
+
+house trespass by entering into the house of the Sanjeev Sikka which 
+
+was used as a human dwelling with intention to commit theft. 
+
+
+</p><p id="p_45">20.           Accordingly, accused Noor Islam  is hereby held guilty 
+
+for committing offence U/s 457<a href="/doc/1569253/" id="a_16"> of the Indian Penal Code</a>. 
+
+
+</p><p id="p_46">21.             Let   the   accused   be   now   heard   on   the   quantum   of 
+
+sentence.
+</p>
+<p id="p_47">
+
+Announced in the open Court
+on 30.11.2012
+
+
+                                          (LOKESH KUMAR SHARMA
+                                            ACMM - 01/SOUTH EAST,
+                                                   SAKET COURTS,
+                                                       NEW DELHI.
+</p>
+<p id="p_48">
+
+
+FIR No.  258/11           State Vs. Noor Islam @ Gole  Page No.11 of 11
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

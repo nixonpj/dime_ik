@@ -1,0 +1,615 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>N Narayanamurthy vs The State Of Karnataka on 8 October, 2013</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/144156557/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1757978/">Junjamma And Ors. vs The Bangalore Development ... on 30 September, 2004</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/144156557/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/144156557/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/144156557/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=junjamma%20">junjamma </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=similarly%20placed">similarly placed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bangalore%20development%20authority">bangalore development authority</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=layout">layout</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">N Narayanamurthy vs The State Of Karnataka on 8 October, 2013</div><div class="doc_author">Author: A.S.Bopanna</div>
+
+<pre id="pre_1">                            1
+
+IN THE HIGH COURT OF KARNATAKA AT BANGALORE
+
+    DATED THIS THE 8TH DAY OF OCTOBER 2013
+
+                       BEFORE
+
+     THE HON'BLE MR. JUSTICE A.S. BOPANNA
+
+  WRIT PETITION NOS.45523-45548 OF 2013 (BDA)
+
+BETWEEN:
+
+1. N NARAYANAMURTHY
+   S/O LATE B NANJUNDAIAH
+   AGED ABOUT 69 YEARS
+   RESIDING AT NO. 2235,
+   12TH MAIN ROAD,
+   KUMARASWAMY LAYOUT
+   BANGALORE-560078
+
+2. SMT. RAMAMANI
+   W/O LATE NAGARAJA RAO
+   AGED ABOUT 56 YEARS
+   RESIDING AT NO. 116,
+   2ND BLOCK, THYAGARAJANAGAR
+   BANGALORE-28
+
+3. SMT. SOWBHAGYA
+   W/O SRI DEEPAK
+   AGED ABOUT 41 YEARS
+   RESIDING AT NO. 408
+   1ST CROSS, IDEAL HOMES
+   RAJARAJESHWARI NAGAR
+   BANGALORE-98
+
+4. B N GOPINATH
+   S/O B NINGU RAO
+   AGED ABOUT 62 YEARS
+   RESIDING AT NO.37, 1ST FLOOR
+   5TH "C" MAIN ROAD
+   10TH CROSS, WEST OF CHORD
+   ROAD, 2ND STAGE
+   MAHALAKSHMIPURAM
+   BANGALORE-86
+
+5. SMT. RADHA RAO
+   W/O RAMACHANDRA RAO
+                            2
+
+  AGED ABOUT 50 YEARS
+  RESIDING AT 313, 4TH MAIN ROAD
+  MOUNT JOY EXTENSION
+  HANUMANTHNAGAR
+  BANGALORE-90
+
+6. SMT. N VIJAYALAKSHMI
+   W/O K N SATYANARAYANA
+   AGED ABOUT 61 YEARS
+   RESIDING AT 518, 41ST CROSS
+   8TH BLOCK, JAYANAGAR
+   BANGALORE-82
+
+7. N MUKUNDA RAO
+   S/O NARASOJI RAO
+   AGED ABOUT 64 YEARS
+   RESIDING AT NO.304, A-2
+   BLOCK, RIJEO APARTMENTS
+   AIRPORT ROAD, BANGALORE-17
+
+8. B K RAMESH
+   S/O LATE K BALACHANDRA
+   AGED ABOUT 54 YEARS
+   RESIDING AT NO. 169
+   7TH MAIN ROAD, 4TH CROSS
+   NAGENDRA BLOCK, 3RD STAGE
+   BANASHANKARI, BANGALORE-50
+
+9. SMT. B M NAGARATHNAMMA
+   W/O VENKATACHALAIAH
+   AGED ABOUT 58 YEARS
+   RESIDING AT GEJJAGADHAHALLY
+   SHIVANAPURA POST
+   DASANAPURA HOBLI
+   BANGALORE
+
+10.S R GOPAL
+   S/O LATE ROSI REDDY
+   AGED ABOUT 70 YEARS
+   RESIDING AT NO. 94,
+   2ND MAIN ROAD, SUBBANNA
+   GARDEN, VIJAYANAGAR
+   BANGALORE-40
+
+11.C A RAGHAVENDRA
+   S/O C R ANANTHARAYA
+   AGED ABOUT 40 YEARS
+   RESIDING AT NO. 753-A
+                            3
+
+  5TH CROSS, 2ND PHASE
+  1ST STAGE, BANASHANKARI
+  BANGALORE-50
+
+12.SMT. IRENE EDWIN
+   W/O SRI EDWIN
+   AGED ABOUT 48 YEARS
+   RESIDING AT 31 &amp; 32
+   MUDDANAPALYA
+   GIDADAKONENAHALLI
+   BANGALORE-91
+13.K A SURESH
+   S/O APPANNA SHETTY
+   AGED ABOUT 39 YEARS
+   RESIDING AT NO. 1
+   MUDDANAPALYA
+   GIDADAKONENAHALLI
+   BANGALORE-91
+
+14.R M BASAVARAJU
+   S/O SRI MALLAPPA
+   AGED ABOUT 48 YEARS
+   RESIDING AT NO. 30
+   MUDDANAPALYA
+   GIDADAKONENAHALLI
+   BANGALORE-91
+
+15.SRI SURARAM
+   S/O GISRAMJI
+   AGED ABOUT 45 YEARS
+   RESIDING AT 1ST "D" MAIN ROAD
+   HOYSALA NAGARA
+   SUNKADAKATTE
+   BANGALORE-91
+
+16.SMT. G PANKAJA
+   W/O G S SOMASHEKAR
+   AGE: 35 YEARS
+   RESIDING AT NO. 28
+   14TH "A" MAIN ROAD
+   P &amp; T COLONY, CHOLURPALYA
+   MAGADI ROAD
+   BANGALORE-23
+
+17.H R NAGARAJA
+   S/O REVANNA
+   AGED ABOUT 48 YEARS
+   RESIDING AT MUDDANAPALYA
+                             4
+
+  GIDADAKONENAHALLI
+  BANGALORE-91
+
+18.G S SATISH
+   S/O LATE G N SHIVANNA
+   AGED ABOUT 45 YEARS
+   RESIDING AT NO. 101
+   7TH CROSS, MAGADI ROAD
+   BANGALORE-23
+
+19.SMT. SOWBHAGYA
+   W/O K A LAKSHMI KANTHA
+   AGED ABOUT 45 YEARS
+   RESIDING AT NO. 7/A
+   8TH CROSS, BHUVANESHWARINAGAR
+   MAGADI ROAD
+   BANGALORE-23
+
+20.SMT. K V PUSHPA
+   W/O S M KRISHNAMURTHY
+   AGED ABOUT 56 YEARS
+   RESIDING AT 13/17/21
+   1ST CROSS, SAMEER PURA
+   K G NAGAR, CHAMRAJPET
+   BANGALORE-18
+
+
+21.SMT. K JAYAMMA
+   W/O LATE HANUMTHAIAH
+   AGED ABOUT 60 YEARS
+   RESIDING AT NO. 11,
+   6TH CROSS,
+   MUNESHWARA BLOCK
+   PALACE GUTTAHALLI
+   BANGALORE-3
+
+22.SMT. PUSHPALATHA
+   W/O G S RAMAKRISHNA
+   AGED ABOUT 41 YEARS
+   RESIDING AT GEJJAGADHAHALLY
+   SHIVANAPURA POST
+   DASANAPURA HOBLI
+   BANGALORE
+
+23.SMT. S V JAMUNA
+   W/O SRI G LAKSHMANAIAH
+   AGED ABOUT 41 YEARS
+   RESIDING AT GEJJAGADHAHALLY
+                              5
+
+     SHIVANAPURA POST
+     DASANAPURA HOBLI
+     BANGALORE
+
+24.SMT. BYRAMMA
+   W/O LATE RANGAPPA
+   AGED ABOUT 65 YEARS
+   RESIDING AT GEJJAGADHAHALLY
+   SHIVANAPURA POST
+   DASANAPURA HOBLI
+   BANGALORE
+
+25.SMT. BHAGYAMMA
+   W/O NARAYANA GOWDA
+   AGED ABOUT 48 YEARS
+   R/A NO. 606, VIDYANIKETHANA
+   SCHOOL ROAD
+   MUDDANAPALYA
+   GIDADAKONENAHALLI
+   BANGALORE-91
+
+26.SMT. RATNAMMA
+   W/O RAMESH
+   AGED ABOUT 45 YEARS
+   R/A NO. 606,
+   VIDYANIKETHANA SCHOOL ROAD
+   MUDDANAPALYA
+   GIDADAKONENAHALLI
+   BANGALORE-91               ... PETITIONERS
+
+     (BY SRI.S.P.SHANKAR, SR. COUNSEL FOR
+         SMT.MAMATA G KULKARNI, ADV.)
+
+
+AND:
+
+1.     THE STATE OF KARNATAKA,
+       BY ITS PRINCIPAL SECRETARY,
+       DEPARTMENT OF URBAN DEVELOPMENT,
+       VIKASA SOUDHA,
+       BANGALORE-560 001.
+
+2.     THE COMMISSIONER,
+       BANGALORE DEVELOPMENT
+       AUTHORITY, KUMARA PARK WEST,
+       BANGALORE-2.
+                             6
+
+3.   THE ADDL. LAND ACQN. OFFICER
+     BANGALORE DEVELOPMENT AUTHORITY
+     KUMARAPARK WEST
+     BANGALORE                   ... RESPONDENTS
+
+
+(BY SRI E.S. INDIRESH, HCGP FOR R1
+    SRI K. KRISHNA, ADV. FOR R2 AND R3)
+                            ---
+
+      THESE WRIT PETITIONS ARE FILED UNDER ARTICLES
+226 AND 227 OF CONSTITUTION OF INDIA PRAYING TO DIRECT
+THE R1 AND 2 TO CONSIDER THEIR APPLICATIONS AND
+REPRESENTATIONS OF THE PETITIONERS THE LAST OF WHICH
+BEING VIDE ANNX-E1 TO E19 FOR PURPOSE OF DE-
+NOTIFICATION OR/RELEASE/ALLOT THE SITES FORMED IN SY
+NO.28/3, 28/4, 28/5 AND 29/10 (NEW NO.52, 53, 54 &amp; 47) ALL
+SITUATED IN GIDADAKONENAHALLI VILLAGE, YESHWANTHPUR
+HOBLI, BANGALORE NORTH TALUK IN TERMS OF DIRECTIONS
+ISSUED IN WP 2131/2004, 2100/04, 49688/03, 2125/04 R/W
+DIRECTIONS CONTAINED IN JUNJAMMA'S CASE ILR 2005 KAR
+608 AND ETC.
+
+
+     THESE PETITIONS COMING ON FOR ORDERS THIS DAY,
+THE COURT PASSED THE FOLLOWING:
+
+
+
+                       ORDER
+</pre>
+<p id="p_1">     Learned Government Advocate to accept notice for
+
+respondent No.1. Sri K. Krishna, learned counsel to
+
+accept notice for respondent Nos.2 and 3. They are
+
+permitted to file their Vakalath/Memo of appearance in
+
+four weeks.
+</p>
+<p id="p_2">
+</p><p id="p_3">     2.    The petitioners are before this Court seeking
+
+for issue of mandamus to direct respondents No.1 and 2
+<span class="hidden_text" id="span_1">                                7</span>
+
+to consider their applications and representations which
+
+have been referred to in these petitions and produced at
+
+Annexure-E series.
+</p>
+<p id="p_4">
+</p><p id="p_5">       3.    The case of the petitioners is that they are all
+
+purchasers of sites in the private layout              formed in
+
+Sy.Nos.28/3, 28/4, 28/5 and 28/10 (New Nos.52, 53,
+
+54 and 57) situated at Gidadakonenahalli Village,
+
+Yeshwanthpur Hobli, Bangalore North Taluk.                    The
+
+lands in the said area had been notified and acquired by
+
+the    second     respondent         for   formation     of   Sir
+
+M.Vishveshwaraiah Layout. The petitioners are stated
+
+to    have   assailed   the   said    acquisition   notification
+
+unsuccessfully.     Similarly, several persons who had
+
+owned sites and lands in the said area had questioned
+
+the acquisition notification before this Court and this
+
+Court while considering and disposing of writ petitions
+
+in W.P.No.47917/2003 and connected petitions on
+
+16.12.2005 known as Junjamma's case had issued
+
+directions with regard to the manner of consideration of
+
+the rights of the parties who had already possessed sites
+<span class="hidden_text" id="span_2">                             8</span>
+
+which had been purchased by private transactions.
+
+Similarly, certain other persons who are stated to be
+
+similarly placed as that of the petitioners were also
+
+before this Court in W.P.Nos.10416-535/2013 disposed
+
+of 27.03.2013 claiming benefit of the directions issued
+
+in Junjamma's case. This Court on taking note of the
+
+directions    issued   in   W.P.Nos.47917/2003           and
+
+connected matters dated 16.12.2005 (Junjamma's case)
+
+was of the view that since there is already a direction
+
+issued by this Court, all similar placed persons would
+
+be benefited by such direction and therefore, the
+
+petitions came to be disposed of. The petitioners in that
+
+background are contending that they are similarly
+
+placed persons and therefore, their representations at
+
+'E' series which have been submitted to the second
+
+respondent also requires consideration.
+
+
+</p><p id="p_6">     4.      Learned   counsel   for   the   2nd   and   3rd
+
+respondents, at this juncture, would point out that
+
+though such contentions have been urged by the
+
+petitioners, no opinion could be expressed at this stage
+<span class="hidden_text" id="span_3">                                9</span>
+
+since several factual aspects are to be verified and only
+
+if the petitioners are similarly placed the other aspects
+
+would arise for consideration.         To that extent the
+
+representations will be examined.
+</p>
+<p id="p_7">
+</p><p id="p_8">     5.   Having taken note of the said submissions of
+
+the learned counsel for the 2nd and 3rd respondents, I
+
+am of the opinion that in the circumstance where the
+
+petitioners    are    before   this   Court    seeking   for
+
+consideration of their representations in accordance
+
+with the earlier directions, certainly, the 2nd and 3rd
+
+respondents would also be entitled to look into these
+
+aspects   of    the    matters     while   considering   the
+
+representations of the petitioners as to whether they are
+
+entitled to the benefit of the order granted in the case of
+
+<a href="/doc/1757978/" id="a_1">Junjamma &amp; others V. The Bangalore Development
+
+Authority &amp; Others</a>, reported in ILR 2005 KAR 608 or
+
+as to whether there is any legal impediment for the 2nd
+
+and 3rd respondents to extend the benefit to the
+
+petitioners herein.
+</p><span class="hidden_text" id="span_4">                               10</span><p id="p_9">
+
+</p><p id="p_10">     6.     Hence, without expressing any opinion on
+
+the merits of the claim made in the representations
+
+submitted      by   the   petitioners,   the   2nd   and   3rd
+
+respondents are directed to consider and dispose of the
+
+representations in accordance with law taking into
+
+consideration all aspects of the matter including the
+
+above stated aspects.
+</p>
+<p id="p_11">     7.     To enable expeditious disposal of the said
+
+representations, the petitioners shall now file one more
+
+copy of the respective representations along with the
+
+supporting documents, enclosing a copy of this order
+
+with the 2nd respondent within four weeks from the date
+
+of receipt of copy of this order.         The result of the
+
+consideration one way or the other shall be intimated to
+
+the petitioners as expeditiously as possible, but not
+
+later than three months thereafter.
+</p>
+<p id="p_12">     In terms of the above, the writ petitions stand
+
+disposed of.
+</p>
+<p id="p_13">
+</p><p id="p_14">                                                 SD/-
+</p><p id="p_15">                                                JUDGE
+
+RV/bms
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,255 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Chandru @ Chandra Prakash vs P.Suresh on 22 January, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/49327334/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 25 docs 
+      
+        - [<A HREF="/search/?formInput=cites:49327334">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1598801/">Section 82 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1679850/">Section 482 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/690321/">Section 304 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/534676/">Section 398 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1437597/">Section 70 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/49327334/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/49327334/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/49327334/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Chandru @ Chandra Prakash vs P.Suresh on 22 January, 2018</div><pre id="pre_1">        
+
+ 
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED : 22.01.2018
+
+CORAM
+
+THE HONOURABLE MR. JUSTICE M.S.RAMESH
+
+Crl.O.P.No.10157 of 2017
+
+
+
+Chandru @ Chandra Prakash		    			...   Petitioner 
+
+Vs   
+
+P.Suresh				   			        ...   Respondent
+  
+Prayer : Criminal Original Petition filed under <a href="/doc/1679850/" id="a_1">Section 482</a> Cr.P.C. to issue direction to the learned Judicial Magistrate, Arcot to entertain, number and dispose of the unnumbered application in accordance with law which was filed by the petitioner before the learned Judicial Magistrate, Arcot to recall the warrant issued as against the petitioner on 24.10.2016.
+		For Petitioner   	: 	Mr.A.Rajesh Kanna
+						
+		For Respondent   :	No appearance
+
+O R D E R    
+</pre><p id="p_1">		This Criminal Original Petition has been filed to issue direction to the learned XVIII Metropolitan Magistrate, Saidapet, Chennai, to consider the petition to recall the non-bailable warrant issued against the petitioner on 24.10.2016 in C.C.No.61 of 2016.
+</p>
+<p id="p_2">		2.This Court in an earlier occasion had elaborately dealt with the issue as to whether the High Court, exercising its inhereint powers under <a href="/doc/1679850/" id="a_2">Section 482</a> of the Code of Criminal Procedure, is empowered to quash or recall a Non-bailable Warrant when an alternate remedy under <a href="/doc/1437597/" id="a_3">Section 70</a> (2)<a href="/doc/445276/" id="a_4"> of the Code</a> of Criminal Procedure empowers cancellation of the warrant by the court that had issued the warrant.
+</p>
+<p id="p_3">		3. I had the occasion to deal with a batch of cases pertaining to circumstances for issuance/recall of warrants. After analysing the principles laid down in the various decisions of the Honourable Supreme Court and our High Court in detail, I had, in my  order dated 07.09.2017 in Crl.O.P.No.13276 of 2017 etc., batch, held as follows:
+</p>
+<p id="p_4">14.Similarly, in the case of <a href="/doc/855018/" id="a_5">Inder Mohan Goswami v. State of Uttaranchal</a> [(2007) 12 SCC 1], the Honble Supreme Court, has cautioned against the alacrity with which trial courts have issued NBWs and issued detailed guidelines to be followed by trial courts when issuing NBWs which is as follows:
+</p><p id="p_5">When non-bailable warrants should be issued
+</p><p id="p_6">	53.Non-bailable warrant should be issued to bring a person to court when summons or bailable warrants would be unlikely to have the desired result. This could be when:
+</p><p id="p_7">	*it is reasonable to believe that the person will not voluntarily appear in court; or
+	*the police authorities are unable to find the person to serve him with a summon; or
+	*it is considered that the person could harm someone if not placed into custody immediately.
+</p>	
+<p id="p_8">	54.As far as possible, if the court is of the opinion that a summon will suffice in getting the appearance of the accused in the court, the summon or the bailable warrants should be preferred. The warrants either bailable or non-bailable should never be issued without proper scrutiny of facts and complete application of mind, due to the extremely serious consequences and ramifications which ensue on issuance of warrants. The court must very carefully examine whether the criminal complaint or FIR has not been filed with an oblique motive.
+</p>	
+<p id="p_9">	55.In complaint cases, at the first instance, the court should direct serving of the summons along with the copy of the complaint. If the accused seem to be avoiding the summons, the court, in the second instance should issue bailable warrant. In the third instance, when the court is fully satisfied that the accused is avoiding the court's proceeding intentionally, the process of issuance of the non-bailable warrant should be resorted to. Personal liberty is paramount, therefore, we caution courts at the first and second instance to refrain from issuing non-bailable warrants.	
+</p><p id="p_10">	56.The power being discretionary must be exercised judiciously with extreme care and caution. The court should properly balance both personal liberty and societal interest before issuing warrants. There cannot be any straitjacket formula for issuance of warrants but as a general rule, unless an accused is charged with the commission of an offence of a heinous crime and it is feared that he is likely to tamper or destroy the evidence or is likely to evade the process of law, issuance of non-bailable warrants should be avoided.
+</p>	
+
+	
+<p id="p_11">	57.The court should try to maintain proper balance between individual liberty and the interest of the public and the State while issuing non-bailable warrant.
+</p>
+<p id="p_12">	15.It is seen from the Inder Mohan Goswami's case, that the guidelines stated therein, have been observed mostly in the breach by trial courts in Tamil Nadu. It is essential for the High Court, as the highest criminal Court and as a Court of supervision over all trial courts in the State, to reiterate these principles regarding issuance of Non Bailable Warrants and ensure compliance. 
+</p>
+<p id="p_13">	16.It is further seen that the cases in which trial courts issue Non Bailable Warrants may be broadly classified in four categories namely, (i) the trial court issues Non Bailable Warrants without issuing summons first, (ii) the trial court issues a Non Bailable Warrant when the accused is absent for one or two hearings without inquiring into the cause of absence, (iii) where the accused is absent for one or two hearings and files a petition under <a href="/doc/1009979/" id="a_6">Section 317</a> of the Code, the Court rejects the petition and issues a Non Bailable Warrant and (iv) where the accused has intentionally absented himself from the trial and does not attend any hearings and then, the trial court issues a Non Bailable Warrant. 	
+</p><p id="p_14">	17.Among the aforesaid four categories, the first three categories of cases can be leniently considered by the High Court for the purpose of recalling a Non Bailable Warrant.  Of course, such leniency could be to the subjective satisfaction of the reasonings of the petitioners as to the bona-fide inability to approach the lower Court seeking for recalling/cancellation of Non Bailable Warrant.  Insofar as the fourth category is concerned, it would not be desirable to recall the warrant but to direct the petitioner to approach the Court which had issued warrant, seeking for a prior relief.
+</p><p id="p_15">	18.It is also brought to my notice that apart from various other reasons for the long pendency of cases before the trial Courts, the non execution of Non Bailable Warrant is one among the reasons. This fact is reiterated through the last data collected by the NCRB.  In most of these pending cases, it is seen that whenever a Non Bailable warrant is kept pending execution, the usual practice among many of the Court is to adjourn the case on the ground that Non Bailable Warrant is pending.
+</p><p id="p_16">	19.In heinous crimes, where there is deliberate and continuous non appearance of the accused, the trial Court may proclaim him as person absconding under <a href="/doc/1598801/" id="a_7">Section 82</a> of the Code of Criminal Procedure.  <a href="/doc/1598801/" id="a_8">Section 82</a> of the Code of Criminal Procedure reads as follows:
+</p><p id="p_17">	82.Proclamation for person absconding: (1)If Any Court has reason to believe (whether after taking evidence or not) that any person against whom a warrant has been issued by it has absconded or is concealing himself so that such warrant cannot be executed, such Court may publish a written proclamation requiring him to appear at a specified place and at a specified time not less than thirty days from the date of publishing such proclamation 
+(2)The proclamation shall be published as follows 
+</p><p id="p_18">	(i) (a) it shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides; 
+</p><p id="p_19">	    (b) it shall be affixed to some conspicuous part of the house or home-stead in which such person ordinarily resides or or to some conspicuous place of such town or village;
+</p><p id="p_20">	  (c) a copy thereof shall be affixed to some conspicuous part of the Court-house; 
+</p><p id="p_21">	(ii)the Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating in the place in which such person ordinarily resides 
+	  (3)A statement in writing by the Court issuing the proclamation to the effect that the proclamation was duly published on a specified day, in the manner specified in clause (i) of subsection (2), shall be conclusive evidence that the requirements of this section have been complied with, and that the proclamation was published on such day.
+</p><p id="p_22">	[(4)Where a proclamation was duly published under sub-section(1) is in respect of a person accused of an offence punishable under <a href="/doc/1983271/" id="a_9">Section 302</a>, <a href="/doc/690321/" id="a_10">304</a>, <a href="/doc/470765/" id="a_11">364</a>, <a href="/doc/940370/" id="a_12">367</a>, <a href="/doc/962212/" id="a_13">382</a>, <a href="/doc/1090821/" id="a_14">392</a>, <a href="/doc/1778761/" id="a_15">393</a>, <a href="/doc/1493299/" id="a_16">394</a>, <a href="/doc/1786277/" id="a_17">395</a>, <a href="/doc/336593/" id="a_18">396</a>, <a href="/doc/1457888/" id="a_19">397</a>, <a href="/doc/534676/" id="a_20">398</a>,<a href="/doc/181589/" id="a_21">399</a>, <a href="/doc/1292385/" id="a_22">400</a>, <a href="/doc/1794580/" id="a_23">402</a>, <a href="/doc/770661/" id="a_24">436</a>, <a href="/doc/596202/" id="a_25">449</a>, <a href="/doc/452677/" id="a_26">459</a> or 460<a href="/doc/1569253/" id="a_27"> of the Indian Penal Code</a> (45 of 1860), and such person fails to appear at the specified place and time required by the proclamation, the Court may, after making such inquiry as it thinks fit, pronounce him a proclaimed offender and make a declaration to that effect.
+</p><p id="p_23">	(5)The provisions of sub-sections (2) and (3) shall apply to a declaration made by the Court under sub-section (4) as they apply to the proclamation published under sub-section(1).] sub clause 4 &amp; 5 inserted by Act 25 of 2005, S.12 (w.e.f.23.06.2006).
+</p><p id="p_24">	20.Thus, under <a href="/doc/1598801/" id="a_28">Section 82</a> of Cr.P.C., there can be no impediment on the part of the trial Court to pronounce him as a proclaimed offender, instead of keeping the matter pending indefinitely for the purpose of having the warrant executed.  Hence, the existence of the fourth category of cases cannot be a ground to preclude the High Court to do justice in the first three categories particularly, when they constitute a major portion of the pending cases in the State of Tamil Nadu, in which, Non Bailable Warrants are pending execution.
+</p>
+<p id="p_25">	21.To sum up the findings rendered by me, it is reiterated that the issuance of Bailable Warrant or Non Bailable Warrant should be exercised with extreme caution and in the rarest of cases, bearing in mind that the pendency of Non Bailable Warrant is one of the major factors for the long pendency of cases before the trial Court. The trial Court shall also scrupulously follow the guidelines imposed in Inder Mohan Gowsami's case (supra) as well as the observations made in the present case while issuing Non Bailable Warrants or recalling the Non Bailable Warrants.
+	
+</p><p id="p_26">	4. In the present case though the Non-bailable warrant was issued on 24.10.2016, it has been kept pending without execution till date.  In view of the observations made in the earlier order extracted above, it would be appropriate to re-call the warrant issued by the Trial Court.
+</p>
+
+
+<p id="p_27">M.S.RAMESH, J.
+</p><p id="p_28">								nmm
+
+</p><p id="p_29">	5. Hence, this Criminal Original Petition stands allowed.  The Non Bailable warrant issued on 24.10.2016 is recalled.  Consequently, the accused is directed to appear before the learned XVIII Metropolitan Magistrate, Saidapet, Chennai in connection with C.C.No.2580 of 2013 within one week from the date of receipt of this order and on subsequent hearing dates without fail. The Trial Court shall record the factum of the warrant against the petitioner being recalled and direct the petitioner to appear for all the future hearings, without fail, to the best of his ability.
+</p>
+<p id="p_30">								         22.01.2018
+Index:Yes/No
+Internet : Yes/No
+nmm
+
+
+To  
+
+
+The Public Prosecutor, 
+High Court, Madras.
+</p>
+									
+<p id="p_31"> Crl.O.P.No.10157 of 2017
+
+          </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

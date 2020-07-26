@@ -1,0 +1,1850 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Nandurbar Municipal Council vs Shaik Rafiq Shaikh Kadar &amp; Ors on 19 January, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/95493137/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/95493137/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/95493137/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/95493137/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Nandurbar Municipal Council vs Shaik Rafiq Shaikh Kadar &amp; Ors on 19 January, 2016</div><div class="doc_bench">Bench: R.V. Ghuge</div>
+
+<pre id="pre_1">                                                                        WP/4050/2004/Group
+                                                 1
+
+                        IN THE HIGH COURT OF JUDICATURE OF BOMBAY
+                                   BENCH AT AURANGABAD
+
+
+
+
+                                                                               
+                                   WRIT PETITION NO. 4050 OF 2004
+
+
+
+
+                                                       
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+                                                      
+              Versus
+
+     1        Shaikh Rafik Shaikh Kadar
+              Age. 34 Years, Occ. Service,
+              R/o Ghodapir, Maliwada Road,
+
+
+
+
+                                             
+              Nandurbar.
+
+     2
+                             
+              Ravindra Vithal Choudhari
+              Age. 22, Occu. Service,
+              R/o. Behind Desai Petrol Pump,
+              Galiwada, Nandurbar.
+                            
+              Dist. Nandurbar.
+
+     3        Bharat Hiralal Kumbhar
+              Age. 20 Year, Occu. Service,
+      
+
+              New Kumbhar Wada, Nandurbar,
+              Dist. Nandurbar.
+   
+
+
+
+     4        Jayant Krishnasingh Raghuvanshi
+              Age. 24 Years, Occu. Service,
+              R/o. Oppo. Nagar Parishad,
+              In front of Krishi Seva Kendra,
+
+
+
+
+
+              Nandurbar, Dist. Nandurbar.
+
+     5        The State of Maharashtra
+              Through Secretary Finance Department,
+              Mantralaya, Mumbai.                               ..Respondents
+
+
+
+
+
+                                                WITH
+                                   WRIT PETITION NO. 4124 OF 2004
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     1        Eknath Lala Mali
+              Age. 30 Years, Occu. Service,
+              R/o. Lahanmaliwada, Shivaji Nagar,
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 2
+
+              Nandurbar, Tq. Nandurbar,
+              Dist. Nandurbar.
+
+
+
+
+                                                                               
+     2        Smt. Geeta Narayan Marathe
+
+
+
+
+                                                       
+              Age. 36 Years, Occu. Service,
+              R/o. Near Amar Takies, Nandurbar,
+              Dist. Nandurbar.
+
+     3        Lotan Hiraman Vasaikar
+
+
+
+
+                                                      
+              Age. 48 years, Occu. Labour,
+              R/o. Chavan Chowk, Nandurbar,
+              Dist. Nandurbar.
+
+     4        Santosh Prabhakar Pawar,
+
+
+
+
+                                             
+              Age. 23 Years, Occu. Labour,
+              R/o. Mangalbazar, Nandurbar,
+                             
+              Dist. Nandurbar.
+
+     5        Satish Sardarsingh Rajput
+              Age. 44 Years, Occu. Labour,
+                            
+              R/o. Desaipur, Nandurbar.
+
+     6        The State of Maharashtra
+              Through Secretary Finance Department,
+      
+
+              Mantralaya, Mumbai.                               ..Respondents
+   
+
+
+
+                                                WITH
+                                   WRIT PETITION NO. 4372 OF 2004
+
+     Nandurbar Municipal Council, Nandurbar,
+
+
+
+
+
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     1        Raju Hiraman Bagul
+
+
+
+
+
+              Age. 29 Year,
+              R/o. Ambedkar Chowk School,
+              No. 9 Nandurbar.
+
+     2        The State of Maharashtra
+              Through Secretary Finance Department,
+              Mantralaya, Mumbai.                               ..Respondents
+
+
+                                                WITH
+                                   WRIT PETITION NO. 4467 OF 2004
+
+     Nandurbar Municipal Council, Nandurbar,
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 3
+
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+                                                                               
+              Versus
+
+
+
+
+                                                       
+     1        Leelabai D/o Narayan Pendharkar
+              Age. 36 Year, Occu. Service
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. And Dist. Nandurbar.
+
+
+
+
+                                                      
+     2        The State of Maharashtra
+              Through Secretary Finance Department,
+              Mantralaya, Mumbai.                               ..Respondents
+
+
+
+
+                                             
+                              ig                WITH
+                                   WRIT PETITION NO. 5948 OF 2004
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+                            
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+      
+
+     1        Ishwara Ratan Gondhali,
+              R/o. Navhind Hsg. Society,
+              Juna Bail Bazar, Gondhali
+   
+
+
+
+              Galli, Nandurbar, Dist. Nandurbar.
+
+     2        Santosh Bhatu Chaudhari
+              R/o. Bhatgalli, Opp. Shani Mandir,
+
+
+
+
+
+              Nandurbar.
+
+     3        Smt. Laxmibai Chindha Pendharkar
+              R/o. Ambedkar Chowk, Nandurbar,
+              Dist. Nandurbar.
+
+
+
+
+
+     4        Bebibai Sitaram Wagh
+              R/o. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+     5        Taibai Anirudh Pendharkar
+              R/o. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+     6        Savitribai Supadu Sapkale,
+              R/o. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+     7        Reshabai R. Pendharkar
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                    WP/4050/2004/Group
+                                              4
+
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+
+
+
+                                                                          
+     8        Indubai Raman Pendharkar
+
+
+
+
+                                                  
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+     9        Devidas Tumadu Birare
+              R/o. Ambedkar Chowk, Nandurbar,
+
+
+
+
+                                                 
+              Tq. Nandurbar, Dist. Nandurbar.
+
+     10       Diwan Onkar Pendharkar
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+
+
+
+                                       
+     11       Vanji Chiman Ishi
+                             
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+     12       Sakhubai Sudhakar Pendharkar
+                            
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+     13       Manglabai D. Sonar
+      
+
+              R/o. Near Sidhi Vinayan Temple,
+              Desaipura, Nandurbar.
+   
+
+
+
+     14       Rupa Phulaji Thakare,
+              R/o. Tokar Talao, Post.
+              Songirpada, Tq. Nandurbar,
+              Dist. Nandurbar.
+
+
+
+
+
+     15       Rajendrasingh K. Valvi
+              R/o. Baherpura Near Tadipeth,
+              Nandurbar.
+
+     16       Kailas Mogya Gavit
+
+
+
+
+
+              R/o. Tokar Talao, Post.
+              Songirpada, Tq. Nandurbar,
+              Dist. Nandurbar.
+
+     17       Kishor Puna Tawar
+              R/o. Barud Galli,
+              Sidhi Vinayan Temple Road,
+              Dana Bazaar, Nandurbar.
+
+     18       Parigbai Ramesh Shinde
+              R/o. Near Amar Talkies,
+              Nandurbar.
+
+
+
+    ::: Uploaded on - 21/01/2016                  ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                   WP/4050/2004/Group
+                                             5
+
+     19       Satyavan B. Pendharkar
+              R/o. Ambedkar Chowk,
+
+
+
+
+                                                                         
+              Nandurbar.
+
+
+
+
+                                                 
+     20       Bhagwan Tapiram Bhil,
+              R/o. Tokar Talao, Post.
+              Songripada, Tq. Nandurbar,
+              Dist. Nandurbar.
+
+
+
+
+                                                
+     21       Bhageshri Prakash Pathak,
+              R/o. Near Dhule Octroi,
+              Dhule Road, Nandurbar.
+
+     22       Prakash Vithal Wagh
+
+
+
+
+                                         
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+                             
+     23       Laxmibai B. Sirare
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+                            
+     24       Smt. S. D. Pendharkar
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+      
+
+
+     25       Sukdeo Lekhaji Pendharkar
+              R/o. Dr. Ambedkar Chowk,
+   
+
+
+
+              Nandurbar, Dist. Nandurbar.
+
+     26       Vimalbai Punam Bagul
+              R/o. Dr. Ambedkar Chowk,
+
+
+
+
+
+              Nandurbar, Dist. Nandurbar.
+
+     27       Sau. Shantibai B. Pendharkar
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+
+
+
+
+     28       Mandabai Jagdeo Pendharkar
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+     29       Chandrabhaga Devidas Birare
+              R/o. Dr. Ambedkar Chowk,
+              Nandurbar, Dist. Nandurbar.
+
+     30       The State of Maharashtra
+              Through Secretary Finance Department,
+              Mantralaya, Mumbai.                         ..Respondents
+
+
+
+
+    ::: Uploaded on - 21/01/2016                 ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 6
+
+                                                WITH
+                                   WRIT PETITION NO. 5030 OF 2005
+
+
+
+
+                                                                               
+     Nandurbar Municipal Council, Nandurbar,
+
+
+
+
+                                                       
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+
+
+
+                                                      
+     1        Rajashri @ Usha Walmik Ahire,
+              R/o. Ambedkar Chowk, Nandurbar,
+              Tq. Nandurbar, Dist. Nandurbar.
+
+     2        Ravindra Asaram Mali
+
+
+
+
+                                             
+              R/o. Mali Wada, Shivaji Nagar,
+              Nandurbar, Dist. Nandurbar.
+                             
+     3        Dhanraj Vithal Mali,
+              R/o. Mali Wada, Shivaji Nagar,
+              Nandurbar, Dist. Nandurbar.
+                            
+     4        Kishor Suklal Wadile
+              R/o. Plot No. 12, Neharu Nagar,
+              Nandurbar. (Deleted)
+      
+
+
+     5        Sau. Jaishariben Arvindabai Majithiya
+              R/o. Shivaji Road, Meenawala
+   
+
+
+
+              Chakki, Nandurbar. (Abated)
+
+     6        Shantilal Dhulchand Suryawanshi
+              R/o. C/o. Vijay Naik, Shetki Sangh,
+
+
+
+
+
+              Nandurbar, Dist. Nandurbar. (Dismissed)
+
+     7        Kiran Raghunath Chavan
+              R/o. At &amp; Post. Ranade
+              Brahman lane, Nandurbar,
+              Dist. Nandurbar.
+
+
+
+
+
+     8        Kishor Chunnilal Chaudhari
+              R/o. Desaipura Kumbhar Galli,
+              Nandurbar.
+
+     9        The State of Maharashtra
+              Through Secretary Finance Department,
+              Mantralaya, Mumbai.                               ..Respondents
+
+
+                                               WITH
+                                   WRIT PETITION NO. 555 OF 2006
+
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 7
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+                                                                               
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+                                                       
+              Versus
+
+     Arvind Manda Choudhari
+     R/o. Old Bullock Market,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+
+
+                                                      
+                                               WITH
+                                   WRIT PETITION NO. 625 OF 2006
+
+
+
+
+                                            
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+                             
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+                            
+     Arjun Barku Malve
+     R/o. Motha Maruti, Desaipura,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+      
+
+
+                                               WITH
+                                   WRIT PETITION NO. 626 OF 2006
+   
+
+
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+
+              Versus
+
+     Vasant Raju Bhil
+     R/o. Balvand. Po : Ranjale,
+     Tal : Nandurbar, Dist. Nandurbar.                          ..Respondent
+
+
+
+
+
+                                               WITH
+                                   WRIT PETITION NO. 627 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Nasimbano Sk. Nazir
+     R/o. Satpirr Galli, Near B &amp; C Office,
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 8
+
+     Fish Market, Nandurbar,
+     Dist. Nandurbar.                                           ..Respondent
+
+
+
+
+                                                                               
+                                                       
+                                               WITH
+                                   WRIT PETITION NO. 628 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+                                                      
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Dharmendra Matusing Rajput
+
+
+
+
+                                            
+     R/o. Kumbhar Galli, Desaipura,
+     Nandurbar, Dist. Nandurbar.
+                              ig                                ..Respondent
+
+
+                                               WITH
+                                   WRIT PETITION NO. 629 OF 2006
+                            
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+      
+
+
+              Versus
+   
+
+
+
+     Rajendra Popat Patil
+     R/o. Mali Wada, Near Patil Lane,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+
+
+
+                                               WITH
+                                   WRIT PETITION NO. 630 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Sunil Bhika Marathe,
+     Age : Major,
+     R/o. Raisinghpura Behind Amar Theater,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+                                               WITH
+                                   WRIT PETITION NO. 631 OF 2006
+
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                 9
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+                                                                               
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+                                                       
+              Versus
+
+     Vajid Ali Mustak Ali Sayyed
+     R/o. Maniyar Mohalla, Nandurbar,
+     Dist. Nandurbar.                                           ..Respondent
+
+
+
+
+                                                      
+                                               WITH
+                                   WRIT PETITION NO. 632 OF 2006
+
+
+
+
+                                            
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+                             
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+                            
+     Mohd. Ali Mohd. Yusuf Patel,
+     R/o. Ghodapir Mohalla,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+      
+
+
+                                               WITH
+                                   WRIT PETITION NO. 633 OF 2006
+   
+
+
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+
+              Versus
+
+     Rajesh Gopalsing Pardeshi,
+     R/o. Pardeshipura, Near the House of
+     Govardhanshaikh, Nandurbar,
+
+
+
+
+
+     Dist. Nandurbar.                                           ..Respondent
+
+
+                                               WITH
+                                   WRIT PETITION NO. 634 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Shantaram Makdu Gaikwad
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                10
+
+     R/o Maniyar Mohalla, Nandurbar,
+     Dist. Nandurbar.                                           ..Respondent
+
+
+
+
+                                                                               
+                                                       
+                                               WITH
+                                   WRIT PETITION NO. 635 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+                                                      
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Magan Babulal Gangurde,
+
+
+
+
+                                            
+     R/o. Kaltolambi, Post. Waghale,
+     Nandurbar, Dist. Nandurbar.
+                              ig                                ..Respondent
+
+
+                                               WITH
+                                   WRIT PETITION NO. 636 OF 2006
+                            
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+      
+
+
+              Versus
+   
+
+
+
+     Sau Savitribai Bansilal Chaudhary
+     R/o. Desai Pura, Near Akrit Laboratory
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+
+
+
+                                               WITH
+                                   WRIT PETITION NO. 637 OF 2006
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+
+     Prakash Shena Kumbhar,
+     R/o. Juna Kumbharwada,
+     Near Ahilyabai Well,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+                                               WITH
+                                   WRIT PETITION NO. 638 OF 2006
+
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                11
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+
+
+
+
+                                                                               
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+                                                       
+              Versus
+
+     Suresh Dattatraya Marathe,
+     R/o. Behind Dhule Octroi, Dhule Road,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+
+
+                                                      
+                                               WITH
+                                   WRIT PETITION NO. 718 OF 2006
+
+
+
+
+                                            
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+                             
+     Dist. Nandurbar.                                           ..Petitioner
+
+              Versus
+                            
+     Sanjay Magan Marathel
+     R/o. Old Bullock Market,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+      
+
+
+                                             WITH
+                               WRIT PETITION NO. 4691 OF 2007
+   
+
+
+
+                                             WITH
+                             CIVIL APPLICATION NO. 12343 OF 2010
+                                             WITH
+                              CIVIL APPLICATON NO. 5927 OF 2015
+
+
+
+
+
+                                              IN
+                               WRIT PETITION NO. 4691 OF 2007
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                           ..Petitioner
+
+
+
+
+
+              Versus
+
+     Ananda Supadu Saindane
+     Age 24 years, Occu. Service,
+     R/o. Mangal Bazar,
+     Nandurbar, Dist. Nandurbar.                                ..Respondent
+
+
+                                             WITH
+                               WRIT PETITION NO. 4693 OF 2007
+                                             WITH
+                             CIVIL APPLICATION NO. 12344 OF 2010
+
+
+    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                       WP/4050/2004/Group
+                                              12
+
+                                              WITH
+                               CIVIL APPLICATON NO. 5930 OF 2015
+
+
+
+
+                                                                             
+                                               IN
+                                WRIT PETITION NO. 4693 OF 2007
+
+
+
+
+                                                     
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                         ..Petitioner
+
+
+
+
+                                                    
+              Versus
+
+     Motilal Omkar Marathe
+     Age : 47 years, Occu. Service
+     R/o. Raisingpura, Near Bathwal Theatre,
+
+
+
+
+                                          
+     Nandurbar, Dist. Nandurbar.                              ..Respondent
+                              ig             WITH
+                               WRIT PETITION NO. 4699 OF 2007
+                                             WITH
+                             CIVIL APPLICATION NO. 12346 OF 2010
+                            
+                                              IN
+                               WRIT PETITION NO. 4699 OF 2007
+
+     Nandurbar Municipal Council, Nandurbar,
+      
+
+     Through its Chief Officer,
+     Dist. Nandurbar.                                         ..Petitioner
+   
+
+
+
+              Versus
+
+     Ganesh Barku Shinde,
+     Age. 26 years, Occu. Service,
+
+
+
+
+
+     R/o. Sindhi Colony,
+     Nandurbar, Dist. Nandurbar.                              ..Respondent
+
+
+                                             WITH
+                               WRIT PETITION NO. 4748 OF 2007
+
+
+
+
+
+                                             WITH
+                             CIVIL APPLICATION NO. 12348 OF 2010
+                                              IN
+                               WRIT PETITION NO. 4748 OF 2007
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                         ..Petitioner
+
+              Versus
+
+     Sharad Gajanan Bhavsar
+     Age : 28 years, Occu. Service,
+
+
+    ::: Uploaded on - 21/01/2016                     ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                          WP/4050/2004/Group
+                                                13
+
+     R/o. Satpeer Lane, Damuseth Galli,
+     Nandurbar, Dist. Nandurbar.                                 ..Respondent
+
+
+
+
+                                                                                
+                                                       
+                                             WITH
+                               WRIT PETITION NO. 5999 OF 2007
+                                             WITH
+                             CIVIL APPLICATION NO. 12345 OF 2010
+                                              IN
+
+
+
+
+                                                      
+                               WRIT PETITION NO. 5999 OF 2007
+
+     Nandurbar Municipal Council, Nandurbar,
+     Through its Chief Officer,
+     Dist. Nandurbar.                                            ..Petitioner
+
+
+
+
+                                           
+              Versus         
+     Vinod Vasant Koli
+     Age : 27 years, Occu. Service,
+     R/o. Walmik Chowk,
+                            
+     Nandurbar, Dist. Nandurbar.                                 ..Respondent
+
+
+                                             WITH
+      
+
+                               WRIT PETITION NO. 6004 OF 2007
+                                             WITH
+                             CIVIL APPLICATION NO. 12342 OF 2010
+   
+
+
+
+                                              IN
+                               WRIT PETITION NO. 6004 OF 2007
+
+     Nandurbar Municipal Council, Nandurbar,
+
+
+
+
+
+     Through its Chief Officer,
+     Dist. Nandurbar.                                            ..Petitioner
+
+              Versus
+
+     Manjulabai Bhaurao Musale
+
+
+
+
+
+     Age : 43 years, Occu. Service,
+     R/o. Raisingpura Near Bathwal Theatre
+     Nandurbar, Dist. Nandurbar.                                 ..Respondent
+
+                                                 ...
+                               Mr. A. B. Girase, Adv. For Petitioners.
+                                Mr. G. D. Jain, Adv. For Petitioner
+                         (in Writ Petition Nos. 4467, 4050, 5948 of 2004)
+                            Mr. A. D. Pawar, Mr. Yogesh B. Bolkar, Adv.
+                            h/f Mr. R. S. Shinde, Adv. For Respondents.
+                                 Mr. V. S. Badakh, AGP for State.
+                                                 ...
+
+
+
+    ::: Uploaded on - 21/01/2016                        ::: Downloaded on - 31/07/2016 01:40:22 :::
+                                                                         WP/4050/2004/Group
+                                                14
+
+                                   CORAM : RAVINDRA V. GHUGE, J.
+</pre><p id="p_1">                                      Dated: January 19, 2016
+
+
+
+
+                                                                               
+                                                ...
+</p>
+
+
+
+                                                       
+<p id="p_2">     ORAL JUDGMENT :-
+</p>
+
+<p id="p_3">     1.       All these petitions have been admitted by this Court. The petitioner
+
+
+
+
+                                                      
+     in all these petitions is Nandurbar Municipal Council. All the respondents in
+
+     these petitions are identically placed Class IV employees of the Municipal
+
+     Council.
+</p>
+
+
+
+                                            
+<p id="p_4">     2.
+                             
+              In all these petitions, the Municipal Council has challenged the
+
+     judgments and orders of the Industrial Court, Jalgaon delivered in the
+                            
+     Complaints filed by the respondents invoking items 5, 6 and 9 of Schedule IV
+
+     of the Maharashtra Recognition of Trade Unions and Prevention of Unfair
+      
+
+
+     Labour Practices Act, 1971 ("the said Act "). Since, there is no dispute as
+   
+
+
+
+     regards the complaints filed and the judgments delivered by the Industrial
+
+     Court, which are impugned in this petition, the details of the complaints
+
+
+
+
+
+     are not being set out in this judgment.
+</p>
+
+
+<p id="p_5">     3.       Since an identical issue is involved in all these matters, I have taken
+
+
+
+
+
+     up all the matters together for a hearing by the consent of the learned
+
+     Advocates for the litigating sides. For the sake of brevity, the petitioners in
+
+     all these petitions shall be referred to as the "Municipal Council" and the
+
+     respondents shall be referred to as the "employees".
+</p>
+
+
+<p id="p_6">     4.       I have considered the submissions of the learned Advocates for the
+
+     respective sides.
+</p>
+
+<span class="hidden_text" id="span_1">    ::: Uploaded on - 21/01/2016                       ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+<p id="p_7">                                                                        WP/4050/2004/Group
+<span class="hidden_text" id="span_2">                                               15</span>
+
+
+
+
+                                                                              
+</p><p id="p_8">     5.       This Court, by its judgment dated 1.2.2011, delivered in the cases of
+
+
+
+
+                                                      
+     Municipal Council, Sawda, Tq. Raver, District Jalgaon Vs. Madhusudan
+
+     Narayan Patil and others in Writ Petition Nos. 4557 to 4559 of 2005, has
+
+     dealt with an identical situation. Considering the controversy involved in
+
+
+
+
+                                                     
+     these three petitions, this Court, (Coram : B.P.Dharmadhikari, J.) has
+
+     observed from paragraph No. 17 to 24 as under:-
+</p>
+
+
+
+                                          
+<blockquote id="blockquote_1">              "17.
+</blockquote>                             
+<blockquote id="blockquote_2">                       As already noted above, the findings of unfair labour practice
+              under Item 9 of Schedule IV is reached because of denial of equal
+              pay for equal work. The judgment reported at "State of Haryana &amp;
+                            
+              Another V/s Tilak Raj &amp; others (Supra), shows that the daily wager
+              can not invoke such doctrine. The reliance upon said concept
+              therefore by Industrial Court is misconceived.
+</blockquote>      
+   
+
+
+
+<blockquote id="blockquote_3">              18.      It is true that the Industrial Court has not directed Municipal
+              Council to absorb the complainants before it on any particular posts
+              or to pay them wages in particular pay scale and has also not asked
+
+
+
+
+
+              it to create post. It has only directed it to pay salary and
+              consequential benefits like that of permanent employee. How in
+              absence of posts/vacancies the said benefit can be directed to be
+              extended, has not been explained by the respondents. In case of
+
+
+
+
+
+              "Maharashtra State Road Transport Corporation and Anr V/s
+              Casteribe Rajya P. Karmchari Sanghatana (Supra)" in paragraph
+              no.27, the Hon'ble Apex Court has noted observations made by it
+              in its earlier judgment reported at "Mahatma Phule Agricultural
+              University and Others V/s Nasik Zilla Sheth Kamgar Union and
+              others (Supra)". In paragraph no. 13, the Hon'ble Apex Court has
+              found that a thing which could not have been done directly, can not
+              be done indirectly.
+</blockquote>
+
+
+<span class="hidden_text" id="span_3">    ::: Uploaded on - 21/01/2016                      ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+<blockquote id="blockquote_4">                                                                       WP/4050/2004/Group
+<span class="hidden_text" id="span_4">                                              16</span>
+
+</blockquote><blockquote id="blockquote_5">              19.      Learned counsel for respondents has relied upon certain other
+
+
+
+
+                                                                             
+              judgments. Perusal of judgment in the case of "Municipal Council,
+              Hinganghat V/s Sanjay Dhanraj Yenorkar (Supra)" shows that there
+
+
+
+
+                                                     
+              defence of employer-Municipal Council was of employment under a
+              particular scheme and its closure in 1995. In that background, this
+              Court has found that nothing prevented that petitioner from
+
+
+
+
+                                                    
+              tendering oral as well as documentary evidence before Industrial
+              Court to substantiate this contentions. The reliance also being
+              placed on the judgment of the Hon'ble Apex Court reported at
+
+
+
+
+                                         
+              "(1996)2 SCC 293" (Chief Conservator of Forests V/s Jagannath
+              Maruti Kondhare), where the Hon'ble Apex Court has found that
+                             
+              burden was upon the employer to show absence of intention or
+              object on its part to deprive the employees working on daily wages
+                            
+              of their benefits of permanency. Again it is to be noted that the
+              employer was of Forest Department of State Government and it
+              therefore had necessary powers to sanction or create posts. That is
+      
+
+              not the position in the present facts. This judgment is also
+              distinguished by the Hon'ble Apex Court in the case of "Gangadhar
+   
+
+
+
+              Pillai V/s Siemens Ltd.," reported at (2007) 1 SCC 533. The
+              judgment of the learned Single Judge reported in the case of
+              "Burroughs Welcome (I) Ltd., (M/s.) &amp; others V/s D.H. Ghosle &amp;
+
+
+
+
+
+              others (supra), considers the aspect of unfair labour practice qua a
+              private employer and hence, discussion therein is not very relevant
+              in this matter. In      "2001(1) Bom.C.R. 753" (National Textile
+              Corporation (NM) Limited V/s Shivaji Gopal Gorule (Shri) and
+
+
+
+
+
+              others), this Court has found that existence of vacancies was not in
+              dispute. In "2009(2) Bom.C.R. 262" (Lokmat Proprietors, Lokmat
+              Newspapers Limited V/s Prabhakar Rambhauji Choudhari), I was
+              required to consider defence of private employer that employees
+              were not in its employment but were private hands engaged by its
+              Officers.
+</blockquote>
+
+<blockquote id="blockquote_6">              20.      In "2007 (6) AIR SCW 6807" ( State of Uttaranchal and anr
+
+
+
+<span class="hidden_text" id="span_5">    ::: Uploaded on - 21/01/2016                     ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+                                                                          WP/4050/2004/Group
+<span class="hidden_text" id="span_6">                                                 17</span>
+
+              V/s Prantiya Sinchai Avam Bandh Yogana Shramik Mahaparishad),
+
+
+
+
+                                                                                
+              the Hon'ble Apex Court has found directions by the Industrial Court
+              to regularise the services of the daily wagers working for six years
+
+
+
+
+                                                        
+              on the ground of completion of 240 days service in calender year,
+              issued     without   considering    availability    of    sanctioned       posts,
+              unsustainable. All these judgments clearly show that unless and until
+
+
+
+
+                                                       
+              the Court records a finding that the sanctioned post is available,
+              direction to give permanency can not be issued. Here Industrial
+              Court has not recorded any such finding.
+</blockquote>
+
+
+
+                                           
+<blockquote id="blockquote_7">              21.      The last resort by respondents to seek permanency or
+                             
+              regularisation against three posts of fireman is already found to be
+              unsustainable by this Court. The petitioners have only with a view to
+                            
+              avoid action for contempt of Court in peculiar situation, degraded
+              one of those posts and accommodated one Shri Thosare against it. It
+              is not a precedent which can be pressed into service to claim parity
+      
+
+              at least in present matter.
+</blockquote>   
+
+
+
+<blockquote id="blockquote_8">              22.      In view of this discussion, I find that Industrial Court has
+              erred in directing the employer to pay to complainants before it
+              salary and other benefits like that of other permanent employees
+
+
+
+
+
+              from the date of filing of complaints. The said direction can not be
+              sustained. The findings of Industrial Court that the petitioner
+              employer has indulged into unfair labour practices under Item 6 and
+              Item 9 of Schedule IV of the M.R.T.U. &amp; P.U.L.P. Act are also
+
+
+
+
+
+              unsustainable. Same are accordingly quashed and set aside.
+</blockquote>
+
+<blockquote id="blockquote_9">              23.      However, it can not be ignored that the respondents are in
+              employment since last about 15 to 17 years. The Municipal Council
+              has forwarded the proposals for their regularisation and permanency
+              to State Government. The Municipal Council shall therefore pursue
+              those proposals and try to obtain the necessary directions from the
+              State Government upon it at the earliest. The respondents are also
+
+
+
+<span class="hidden_text" id="span_7">    ::: Uploaded on - 21/01/2016                        ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+                                                                                 WP/4050/2004/Group
+<span class="hidden_text" id="span_8">                                                          18</span>
+
+              given liberty to make representation independently to State
+
+
+
+
+                                                                                       
+              Government in this respect.
+</blockquote>
+
+
+
+                                                               
+<blockquote id="blockquote_10">              24.      With these directions and observations Writ Petitions are
+              allowed. The impugned judgments of the Industrial Court dated
+              19.01.2004 in Complaint (ULP) Nos. 2152 of 1999, 2154 of 1999 and
+
+
+
+
+                                                              
+              2156 of 1999 are quashed and set aside. Rule made absolute
+              accordingly."        (Emphasis supplied).
+</blockquote>
+
+
+
+                                                   
+<p id="p_9">     6.       Shri Girase, learned Advocate for the Municipal Council submits that
+                             
+     an earlier proposal pertaining to these respondents sent in the year 2008 to
+
+     the appropriate authority of the State Government i.e. the Directorate of
+                            
+     Municipal Administration, Government of Maharashtra, was rejected by
+
+     orders dated 17.2.2011 and 20.3.2012, copies of which are taken on record
+      
+
+     and marked as Exhibits "X" and "Y" for identification.
+</p>   
+
+
+
+<p id="p_10">     7.        Notwithstanding the above, Shri Girase submits that the Nandurbar
+
+     Municipal Council is a growing Municipal Council. The population has grown
+
+
+
+
+
+     multi fold times. All the respondent / employees are still in employment
+
+     since the petitioner is required to extend services and civic amenities to the
+
+
+
+
+
+     residents under the Municipal Council.
+</p>
+
+
+<p id="p_11">     8.       He, however, clarifies that since the Municipal Council cannot create
+
+     posts having no authority to do so, the allegation of deliberately and
+
+     intentionally continuing the employees on daily wages with the intent and
+
+     object of depriving them of the status and benefits of permanency, cannot
+
+     be sustained against the Municipal Council. As on date, the daily wages of
+
+
+<span class="hidden_text" id="span_9">    ::: Uploaded on - 21/01/2016                               ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+                                                                        WP/4050/2004/Group
+<span class="hidden_text" id="span_10">                                               19</span>
+
+     the employees are being paid by the Municipal Council.
+</p>
+
+
+
+                                                                              
+                                                      
+<p id="p_12">     9.       Learned Advocates for the respondent employees jointly submit that
+
+     they have been working for years together. On an average, these employees
+
+     have put in more than 20 years on daily wages with the Municipal Council.
+</p>
+
+
+
+                                                     
+<p id="p_13">     Their services are required since civic amenities have to be provided to the
+
+     residents falling under the Municipal Council.
+</p>
+
+
+
+                                          
+<p id="p_14">     10.
+                             
+              They submit that the petitioner, in fairness, can continue to pursue
+
+     the matter with the Directorate of Municipal Administration and seek
+                            
+     creation of posts, which can be allocated by seniority to the employees
+
+     based on the number of posts created. The competent authorities can take
+      
+
+     a decision with regard to the date from which regularisation can be
+
+     effected. The Industrial Court in the impugned judgment has issued such
+   
+
+
+
+     directions with the intention of ensuring that the employees are not kept on
+
+     daily wages for their entire lifetime.
+</p>
+
+
+
+
+<p id="p_15">     11.      They submit that in the event the employees are aggrieved by the
+
+     date from which regularisation could be effected, they might resort to a
+
+
+
+
+
+     remedy available for the redressal of their grievances including by making a
+
+     representation to the Municipal Council and the Government to reconsider
+
+     the said issue.         It is, therefore, submitted that these petitions can be
+
+     disposed off with the direction for considering the proposal of the
+
+     employees and in the light of the judgment of this Court dated 1.2.2011,
+
+     portion of which is reproduced as above.
+</p>
+
+
+<span class="hidden_text" id="span_11">    ::: Uploaded on - 21/01/2016                      ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+<p id="p_16">                                                                        WP/4050/2004/Group
+<span class="hidden_text" id="span_12">                                               20</span>
+
+
+
+
+                                                                              
+</p><p id="p_17">     12.       Shri Girase submits that the Municipal Council has no animosity
+
+
+
+
+                                                     
+     against the employees and would continue to pursue the competent
+
+     authority for creation of posts. These petitions can, therefore, be disposed
+
+     off in the light of the view taken by this Court in the judgment dated
+
+
+
+
+                                                    
+     1.2.2011.
+</p>
+
+
+
+                                           
+<p id="p_18">     13.      As such, these petitions are partly allowed. The impugned judgments
+                             
+     of the Industrial Court are modified to the extent of setting aside the
+
+     declaration of unfair labour practices against the petitioner council.
+</p>                            
+<p id="p_19">     14.      The petitioner / Municipal Council is directed to once again prepare
+      
+
+     the proposals of the respondent / employees, complete in all respects by
+
+     setting out their dates of joining as daily wagers, nature of work performed
+   
+
+
+
+     and the duration for which they have been working, within a period of 12
+
+     weeks from today.             These proposals shall then be forwarded to the
+
+
+
+
+
+     Directorate of Municipal Administration, Government of Maharashtra,
+
+     Mumbai, for consideration, for creation of posts and for granting
+
+     regularisation to the respondents / employees. In doing so, the competent
+
+
+
+
+
+     authority shall consider the seniority of the respondents / employees. Such
+
+     decision be taken by the competent authority within a period of five months
+
+     from the date of receipt of the said proposal.
+</p>
+
+
+<p id="p_20">     15.      Needless to state, the respondents / employees shall not be
+
+     terminated by the Municipal Council solely for the reason of they being
+
+
+
+<span class="hidden_text" id="span_13">    ::: Uploaded on - 21/01/2016                      ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+                                                                       WP/4050/2004/Group
+<span class="hidden_text" id="span_14">                                             21</span>
+
+     daily wagers. They shall be continued in employment till the decision of
+
+
+
+
+                                                                             
+     the competent authority.        This protection against termination shall not
+
+
+
+
+                                                     
+     include acts of mis-conducts / disciplinary proceedings.
+</p>
+
+
+<p id="p_21">     16.      Rule is made partly absolute in the above terms. No order as to costs.
+</p>
+
+
+
+                                                    
+<p id="p_22">     17.      All pending Civil Applications stand disposed off.
+</p>
+
+
+
+                                         
+<pre id="pre_2">                              ig            ( RAVINDRA V. GHUGE, J. )
+                                             ...
+                            
+     akl/d
+      
+   
+
+
+
+
+
+
+<span class="hidden_text" id="span_15">    ::: Uploaded on - 21/01/2016                     ::: Downloaded on - 31/07/2016 01:40:22 :::</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

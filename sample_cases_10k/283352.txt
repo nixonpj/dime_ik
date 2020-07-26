@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Durga Prasad vs Subedar Singh And Anr. on 25 April, 1978</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/283352/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1507394/">Section 90 in The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/1174571/">Smt. Janki Devi And Ors. vs Fani Nandan Tewari And Ors. on 28 August, 1987</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/283352/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/283352/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adoption">adoption</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adoption%20deed">adoption deed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=adopted%20son%20">adopted son </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=attesting%20witness">attesting witness</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thumb%20impression">thumb impression</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=thumb%20impression%20and%20signature">thumb impression and signature</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legal%20necessity">legal necessity</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=oath%20against%20oath">oath against oath</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=disproved">disproved</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Allahabad High Court</div>
+<div class="doc_title">Durga Prasad vs Subedar Singh And Anr. on 25 April, 1978</div><div class="doc_citations">Equivalent citations: AIR 1978 All 472</div>
+
+<div class="doc_author">Author: D Nandan</div>
+
+<div class="doc_bench">Bench: D Nandan</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+ Deoki Nandan, J.  
+</p>
+ 
+
+<p id="p_2">1. This is a plaintiff's second appeal in a suit for cancellation of a sale-deed dated July 22, 1966 executed by the second defendant Jagtamba Singh in favour of the
+
+first defendant Subedar Singh in respect of certain plots of land detailed at the foot of the plaint.  
+</p> 
+
+<p id="p_3"> 2. The plaintiff came to court with the allegations that he was adopted on Feb. 9, 1943 by the second defendant Jagtamba Singh as his son, that the property transferred under the sale-deed was ancestral in which he had an interest by birth as a son of Jagtamba Singh; that there was no legal necessity for the sale and his consent not having been taken the sale was liable to be set aside. It was also pleaded that the consideration for the sale was wholly inadequate and indeed the consideration shown in the sale-deed was fictitious and that the execution of the sale-deed was an imprudent act on behalf of the second defendant. The plaintiff further pleaded that he was in possession over the land covered by the sale-deed but when the first defendant declared on Aug. 10, 1966 that he had obtained a sale-deed executed by the second defendant in respect of the land and would forcibly take possession thereof, he had no option but to file the suit.  
+</p> 
+
+<p id="p_4"> 3. Both the defendants contested the suit and filed a joint written statement. The execution of the sale-deed was admitted but the other plaint allegations were denied and it was alleged that the plaintiff was never adopted as a son by the second defendant that the plaintiff was the only son of his father Pal Singh and the alleged adoption had never been given effect to; and the plaintiff was ever living with his natural father Pal Singh who was a very clever and cunning person. It was also alleged that the second defendant was not addicted to Ganja and wine nor was he wasting the property; that the plaintiff had no right to interfere with defendant No. 2 in disposing of his property and that even if the plaintiff was proved to be the adopted son of second defendant, he could not be a coparcener with him, that he had no interest in the plots covered by the sale-deed; that the second defendant was indebted to the first defendant and the payment of that debt was the legal necessity for the same; that there was no fraud or undue influence in the execution of the sale-deed and that the first defendant had been in possession over the land ever since the sale. The execution of the sale-deed was alleged to be a prudent act by the second defendant and the possession of
+
+the plaintiff over the land covered by the sale-deed was denied. There was a plea that the suit was under-valued and the court-fee paid was insufficient; and the jurisdiction of the court who tried the suit was also challenged.  
+</p> 
+
+<p id="p_5"> 4. The trial court framed 6 issues. The first issue was: Whether the plaintiff was the adopted son of defendant No. 2. On this issue the trial court held that the plaintiff was not the adopted son of the second defendant Jagtamba Singh. Accordingly the trial court held that he had no interest in the suit property and the second issue was also decided in the negative. On issue No. 3 which was, whether the sale-deed was liable to be cancelled for the reasons mentioned in paragraph 5 of the plaint; the trial court held that in view of the finding that the plaintiff was not the adopted son of the second defendant, his consent was not required for the execution of the sale-deed by the second defendant and further that since the second defendant had himself admitted the consideration for the sale and asserted the fact that the sale-deed was executed for legal necessity and that he made the transfer on a full consideration of its effect, it was not possible to accept the plaintiff's case on this point. The suit was, in view of these findings dismissed by the trial court. On appeal the lower appellate court has considered only the question whether the plaintiff was the adopted son of Jagtamba Singh and having come to the conclusion that he was not, the lower appellate court did not take the other points into consideration and dismissed the appeal.  
+</p> 
+
+<p id="p_6"> 5. Having heard Mr. V.B. Upadhyaya, for the plaintiff-appellant and Mr. R.N. Singh, learned counsel for the defendant-respondents, I am satisfied that the finding of the trial court that the plaintiff appellant was not the adopted son of Jagtamba Singh, the second defendant-respondent, though on a question of fact, is vitiated by errors; of law; and consequently the judgment of the lower appellate court is liable to be set aside.  
+</p> 
+
+<p id="p_7"> 6. The lower appellate court has proceeded to disbelieve the plaintiff's case on the following considerations:--  </p><pre id="pre_1">
+   
+
+ (i) Pal Singh, the natural father of the plaintiff had proved the necessary formalities relating to adoption and registered deed of adoption, of which he was an attesting witness, but his evidence
+
+could not be believed  because  he    was an interested person;  
+ 
+
+ (ii) The plaintiff ought to have proved the execution of the adoption deed by producing the other attesting witnesses was withheld on the plea that he was ill and could not come to court;  
+ 
+
+ (iii) In face of the denial on oath of the execution of the adoption deed by Jagtamba Singh, the plaintiff ought to have produced expert evidence to prove the adoption deed;  
+ 
+
+ (iv) The plaintiff could not take advantage of the presumption under <a href="/doc/1507394/" id="a_1">Section 90</a> of the Indian Evidence Act in respect of the adoption deed.  
+ 
+
+ (v) The only other document which was the school leaving certificate dated Sept. 1, 1966, and was marked as Ext. 6, showed that the plaintiff was the son of Jagtamba Singh, could not be believed because the Head Master of the School under whose signatures the certificate was issued had not been examined by the plaintiff as a witness.   
+ 
+
+</pre><p id="p_8"> 7. It is apparent that the lower appellate court has come to the finding which he did on a wholly wrong approach and more on conjectures and surmises than on evidence on the record. Once the execution of the adoption deed was duly proved in accordance with law, and the law does not require the production of more than one attesting witness to prove a deed, the burden to disprove that it was executed by him shifted on to the defendant who denied its due execution. It was for him to establish by expert evidence if he could, that the adoption deed did not bear his thumb impression and signature. The fact that the other attesting witness was ill was stated on oath by (P.W. 1), the other attesting witness. If the court felt that in order to satisfy its conscience it was necessary to examine the other attesting witness then there was nothing in law to stop it from summoning the other attesting witness. There was no burden cast on the plaintiff to doubly prove the adoption deed by producing the other attesting witness also. Moreover, the adoption deed was duly registered and was more than 20 years old. I have looked into the thumb impression, signature and the writing of Jagtamba Singh on the adoption deed and compared that thumb impression, signature and writing of Jagtamba Singh with those on two other registered documents Exts. 9 and 10. Prima facie the
+
+thumb impression, writing and signature purporting to be of Jagtamba Singh on the adoption deed do appear to be his and a heavy burden lay on Jagtamba Singh to disprove the fact of the execution of adoption deed when he denied the same in his evidence on oath. In fact it was Jagtamba Singh who was highly interested and the court below has not given any reason for believing his evidence, and at the same time disbelieving the evidence of Pal Singh, who was the natural father of the plaintiff, on the ground that the latter was an interested witness, when in fact after the adoption, if it was a fact, Pal Singh could not have, as a matter of law, any interest in the affairs of the plaintiff. Learned counsel urged that Jagtamba Singh could not be said to be a person interested because he had already sold the property to the first defendant. He has, however, forgotten the fact that a joint written statement was filed by the two defendants and Jagtamba Singh actively supported the case of the first defendant. Indeed it was the plaintiff's case that the consideration for the sale which was shown in the sale-deed was fictitious. With regard to the other document, which has been brushed aside by the lower appellate court, namely, the School Leaving Certificate, I find that the document has been duly marked as Ext. 6. This means that the document must have been duly proved in accordance with law. Once the document was duly proved in accordance with law it was not necessary to produce the Headmaster of the School who had issued the certificate. The document speaks for itself and if the defendants challenged its contents, it was for them to disprove the same, by such evidence as they could have produced. There is a further circumstance which has been relied upon by the lower appellate court for disbelieving the plaintiff's case and that is the non-production of the Kutumb Register to show that the plaintiff was as a matter of fact transferred from the family of his natural father to that of his adoptive father. Now, the question was not whether the plaintiff was living with his natural father or with his adoptive father. The question was whether the plaintiff was lawfully and validly adopted. It is not the law that after the adoption the adopted son must continue always to live with his adoptive father. It is not unusual that after the adoption the adoptive father may find that he
+
+committed a mistake and the adoption was undesirable. In this view of the matter the fact that the Kutumb Register was not produced to prove that the plaintiff continued to reside with the second defendant is not a circumstance on the basis of which the fact of adoption could have been disbelieved.  
+</p> 
+
+<p id="p_9"> 8. On a careful analysis of the judgment of the lower appellate court I am satisfied that its finding that the plaintiff was not the adopted son of Jagtamba Singh, the second defendant, is vitiated in law and must be set aside. At this stage, learned counsel for the respondents submitted that I must hear the matter as a first appeal or remand the case to the lower appellate court for a fresh finding. I do not think it necessary to do so as I have gone into the evidence in the course of analysing the finding of the lower appellate court on this point. I have looked into the evidence on the record and I am satisfied that the plaintiff was in fact lawfully adopted by the second defendant as alleged by the plaintiff.  
+</p> 
+
+<p id="p_10"> 9. That, however, is not the end of the matter. The other issues which have not been gone into by the lower appellate court must now be gone into for deciding whether the sale-deed in question was liable to be set aside. It is, therefore, necessary to remand the matter to the lower appellate court for a fresh decision of the appeal on those issues.  
+</p> 
+
+<p id="p_11"> 10. In the result the appeal succeeds and is allowed. The judgment and decree of the court of IVth Additional Civil Judge, Varanasi in Civil Appeal No. 305 of 1967 are set aside. It is held that the plaintiff is the adopted son of the second defendant Jagtamba Singh. The said Civil Appeal No. 305 of 1967 shall, however, stand restored to its original number and be heard in accordance with law. The costs shall abide the result.  
+</p> 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,403 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Sh. M.R. Khiani vs Unknown on 7 February, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/132811600/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/621703/">Section 195 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/121037379/">Section 263 in The Indian Succession Act, 1925</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1450343/">The Indian Succession Act, 1925</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1481078/">Section 2 in The Indian Succession Act, 1925</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/132811600/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/132811600/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=probate%20petition">probate petition</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=kaushalya%20devi">kaushalya devi</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22contradictory%22%20">"contradictory" </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%20code%20of%20criminal%20procedure">section 195 code of criminal procedure</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%20of%20crpc">section 195 of crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=letter%20of%20administration">letter of administration</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=195%20crpc">195 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contradictory%20stand">contradictory stand</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195.">section 195.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20succession%20act">indian succession act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=succession%20act">succession act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20succession">indian succession</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=195">195</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=hanuman%20mandir%20">hanuman mandir </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.195%20of%20cr.p.c.">sec.195 of cr.p.c.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20195%20cr.p.c">section 195 cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.195%20cr.p.c">s.195 cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cr.p.c.%20-%20195">cr.p.c. - 195</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=fraud%20upon%20the%20court">fraud upon the court</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Sh. M.R. Khiani vs Unknown on 7 February, 2009</div><div class="doc_author">Author: Sh. A.K. Sarpal</div>
+
+<pre id="pre_1">                                      1
+
+ In the court of Sh. ASHWANI SARPAL, Additional District Judge-05
+                           (West District)
+                Room No. 119, Tis Hazari Court, Delhi.
+
+
+              Sh. M.R. Khiani                  Applicant
+
+
+                                 Vs
+
+
+              Sh.Ashok Sharma                  Non Applicant
+
+                          (MPC No. : 8/08)
+                 In re:- Ashok Sharma Vs. State
+                          (PC No. 397/06)
+
+
+       (Petition u/s 263 of the <a href="/doc/1450343/" id="a_1">Indian Succession Act</a> for
+          revocation of grant of Letter of Administration
+                    ****************************
+
+
+JUDGMENT :
+</pre>
+<p id="p_1">1.        Non applicant Sh. Ashok Sharma had filed a petition
+bearing No. 397/06 on 15-4-2006 in the court for grant of Probate in
+respect of Will dated 15.2.1994 executed by his mother, Smt.
+Kaushalya Devi. In that petition he alleged that he was the only legal
+heir of the deceased Smt. Kaushalya Devi, who had expired on
+3.5.1994. He further stated in his petition that the property bearing
+No. 60/6, Prabhat Road, Karol Bagh, New Delhi, having area of 474
+sq, yards forming part of khasra no. XVI/8027 was purchased by
+Sh. Rijhumal from DDA and after his death on the basis of the
+probate granted by Bombay High Court, it come into possession of
+his son Sh. Mehta Ram. It is further stated in the petition that Sh.
+Mehta Ram in respect of this property executed a Will on 2-9-1993
+in favour of Smt. Kaushalya Devi, who      was occupying Hanuman
+<span class="hidden_text" id="span_1">                                        2</span>
+
+Mandir situated in the property in dispute.          In Para no 12 of the
+petition, it is stated that Sh. Mehta Ram had expired in Delhi and
+after his death Smt. Kaushalya Devi become owner of the property
+which was subsequently bequeathed in favour of the petitioner by
+virtue of her Will dated 15.2.1994. It is important to mention here
+that non applicant Sh. Ashok Sharma neither filed original nor copy
+of the Will executed by Sh. Mehta Ram in favour of Smt. Kaushalya
+Devi nor his death certificate was placed on record of Probate
+petition bearing no. 397/06
+
+
+</p><p id="p_2">2.        The court vide order dated 23.12.2006 granted Letter of
+Administration in favour of the non applicant on the basis of the Will
+of Smt. Kaushalya Devi in respect of the property in question who
+completed the necessary formalities, paid the court fees and
+obtained the formal certificate of Letter of Administration from court
+on 19.1.2007.
+</p>
+
+<p id="p_3">3.        Present   petition   under       <a href="/doc/121037379/" id="a_2">section   263</a>   of   the   Indian
+Succession Act has been filed by Sh. Mehta Ram for revocation of
+the Letter of Administration granted in favour of non applicant on
+grounds of playing fraud upon court as well as concealment of facts
+who also filed reply of the same. I have heard counsel for the parties
+and gone through the record because I am of the view that this
+petition under <a href="/doc/121037379/" id="a_3">Section 263</a> of the Act can be disposed off without
+any evidence due to some admissions made in reply of non applicant
+Sh. Ashok Sharma.
+</p>
+
+<p id="p_4">4.        First of all the fact regarding happening of death of Sh.
+Mehta Ram alleged in the Probate petition is found wrong because
+Sh. Mehta Ram is still alive and has filed the present petition for
+<span class="hidden_text" id="span_2">                                      3</span>
+
+revocation of Letter of Administration. This fact is now not disputed
+by non applicant Sh. Ashok Sharma that his averment in the
+probate petition regarding the death       of Sh. Mehta Ram was
+incorrect but he has taken a new strange plea in his reply that he
+presumed death of Sh. Mehta Ram as he was not heard for more
+than 7 years and his whereabouts were not known but in this regard
+I have to say that this strange and contradictory plea taken is an
+after-thought plea and was not mentioned any where in his original
+probate petition. In the probate petition, he had categorically stated
+that Sh. Mehta Ram had expired in Delhi but now a different
+contradictory story is being alleged regarding his presumed civil
+death. Certainly the fact mentioned in the Probate petition regarding
+happening of death of Sh. Mehta Ram is totally incorrect fact.
+</p>
+
+<p id="p_5">5.          In the probate petition, Hanuman Mandir allegedly in
+possession of Smt. Kaushalya Devi was described as a part of the
+property No. 60/6, Prabhat Road, Karol Bagh, consisting of 474
+square yards but now in the reply to the present revocation petition,
+a contradictory stand is taken that Hanuman Mandir is not a part of
+this property but is situated outside of the same. Non applicant
+cannot be permitted to take contradictory stand to back-out from
+the averments made in the original petition.           The Letter of
+Administration was granted in respect of whole of property including
+Hanuman Mandir which was described as part of it and now that
+Letter of Administration can not be allowed to be bifurcated due to
+taking of contradictory stand by holding that it would remain valid
+for Hanuman Mandir and could be revoked for remaining part of
+property.
+</p>
+
+<p id="p_6">6.          It is also an admitted fact that non applicant had already
+<span class="hidden_text" id="span_3">                                       4</span>
+
+sold the property in question by way of registered sale deed in favour
+of his wife Smt. Parkash Rani much before filing of the Probate
+petition in the court. This admission leads to the inference that he
+had lost all his rights, title and interest of the property but still he
+filed the probate petition by concealing this fact to claim and revive
+all the rights over the property in question. This concealment of the
+material fact amounts to commission of fraud upon the court and
+misleading the court to obtain favourable orders.
+</p>
+
+<p id="p_7">7.         Smt. Kaushalya Devi, otherwise, also had not become the
+owner of the property in question on the basis of the Will of
+Sh.Mehta Ram because Sh. Mehta Ram is still alive and the Will
+becomes effective only from the time of death of its maker and before
+death it has no value and does not transfer any right or interest.
+When Smt. Kaushalya Devi had not acquired any right, title or
+interest in the property (even if for the sake of arguments it is
+presumed that Sh. Mehta Ram had executed a Will in her favour)
+due to fact that testator is still alive, then in that situation also she
+was not competent to bequeath the same in favour of her son i.e.
+non applicant. The use of words 'his property' in definition of Will
+under <a href="/doc/1481078/" id="a_4">Section 2</a> (h) of the <a href="/doc/1450343/" id="a_5">Indian Succession Act</a> clearly point out
+that the Will can be executed only in respect of his own property by
+the testator. When Smt. Kaushalya Devi was not having any right,
+title or interest in the property then she could not transfer any better
+title to her son through the Will.
+</p>
+
+<p id="p_8">8.         In the probate petition, non applicant Sh. Ashok Kumar
+specifically stated that Rijhumal was the owner of the property and
+his son Sh. Mehta Ram become the owner after his death on the
+basis of the probate granted by Bombay High Court but now in Para
+<span class="hidden_text" id="span_4">                                       5</span>
+
+no. 4 on merits of reply of revocation petition, these facts are denied.
+Non applicant is now contradicting contents of his own probate
+petition and it can be said that either he earlier disclosed false facts
+in his petition or now is telling lie in this regard in the present reply.
+Non applicant is taking contradictory stand and by concealing the
+material facts especially death of Sh. Mehta Ram had played fraud
+upon the court and by misleading the court           obtained Letter of
+Administration wrongly. I am of the view that these above grounds
+are sufficient to revoke and cancel the Letter of Administration
+granted to non applicant vide order dated 23.12.2006. Present
+Petition under <a href="/doc/121037379/" id="a_6">Section 263</a> of the Indian Succession Act is thus
+allowed. The original probate petition bearing no. 397/06 filed by
+non applicant Sh. Ashok Sharma due to concealment of the real
+facts and committing fraud upon court is deemed to have been
+dismissed.
+</p>
+
+<p id="p_9">9.           There is one another application filed by SHO DBG Road
+for making complaint under <a href="/doc/621703/" id="a_7">Section        195</a> Cr.P.C. to the Court of
+CMM. On the basis of some complaint of forgery and cheating, a
+criminal case has already been registered against the non applicant
+Sh. Ashok Kumar and others. Since, I have already held above that
+non applicant Sh. Ashok Kumar had filed a Probate petition by
+concealing the real facts and on false averments, so I also deem it
+proper in view of his contradictory stand taken now from the earlier
+petition in his reply to the present petition under <a href="/doc/121037379/" id="a_8">Section 263</a> of the
+Indian Succession Act, he should be prosecuted in the interest of
+justice for offence of perjury and for making a false claim in the
+court. I am not giving any opinion at this stage, whether the Will of
+Smt. Kaushalya Devi dated 15.2.1994 is forged or not in absence of
+any evidence to contrary on record or whether attesting witnesses of
+<span class="hidden_text" id="span_5">                                       6</span>
+
+same namely Sh. Deepak Sharma and Sh. Vikram were instruments
+in getting that alleged forged Will prepared. Hence, I am of the view
+that complaint under <a href="/doc/621703/" id="a_9">Section 195</a> Cr.P.C. be sent to the Court of
+CMM only against the non applicant Sh. Ashok Kumar. Law is
+otherwise settled that the formal complaint under <a href="/doc/621703/" id="a_10">Section               195</a>
+Cr.P.C. is not required when a document is forged prior to its filing
+in the court.    This above observation of non filing of complaint
+against Sh. Deepak Sharma and Sh. Vikram would not came
+prejudice in the criminal case against them in any manner
+registered vide FIR No. 265/08 P.S. D.B.G. Road It is thus, directed
+that a proper complaint under <a href="/doc/621703/" id="a_11">Section 195</a> Cr.P.C. be sent to the
+Court of CMM against non applicant Sh. Ashok Kumar.
+</p>
+
+<p id="p_10">10.         There is one another application of the police for
+providing original Will of Smt. Kaushalya Devi            for purpose of
+sending the same to FSL to get the opinion of hand writing expert.
+As original Will is required by experts and would be helpful in
+effective investigation of criminal case, so this application is allowed.
+Let the original Will of Smt. Kaushalya Devi lying on the record be
+handed over to SHO, DBG Road against proper receipt but its
+photocopy be kept on record. SHO is directed that original Will shall
+be returned to the court after obtaining the expert opinion of the
+FSL.
+</p>
+
+<p id="p_11">11.         As    the   original   formal   certificate   of   Letter    of
+Administration has already been deposited by the non applicant in
+the court so nothing more is required but it is ordered that all the
+proceedings done or action taken on basis of this certificate shall
+deem to be invalid, illegal and having no force.
+</p><span class="hidden_text" id="span_6">                                    7</span>
+
+<p id="p_12">12.      Reader is directed to ensure that complaint under <a href="/doc/621703/" id="a_12">Section
+195</a> Cr.P.C. Is sent to court of CMM within 7 days.
+</p><p id="p_13">             File be consigned to the Record Room.</p><pre id="pre_2">
+
+
+                                         (ASHWANI SARPAL)
+Date : 7-2-2009                   ADDITIONAL DISTRICT JUDGE-05
+                                           (West) DELHI.
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

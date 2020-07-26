@@ -1,0 +1,262 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>R.Kalaimani vs State Rep. By on 11 February, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/23262281/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/56864/">Section 70(2) in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1679850/">Section 482 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/23262281/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/23262281/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/23262281/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=coimbatore">coimbatore</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=non%20bailable%20warrant">non bailable warrant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nbw%20">nbw </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bailable%20warrant">bailable warrant</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=who%20is%20a%20%20judicial%20magistrate%20">who is a  judicial magistrate </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=recall">recall</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bailable">bailable</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=non-bailable%20warrants">non-bailable warrants</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">R.Kalaimani vs State Rep. By on 11 February, 2015</div><pre id="pre_1">       
+
+  
+
+   
+
+ 
+ 
+  IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED: 11.02.2015
+CORAM:
+THE HON'BLE MR.JUSTICE R.S.RAMANATHAN
+Crl.O.P.No.3155 of 2015
+
+R.Kalaimani						... Petitioner
+	
+Vs.
+State rep. by
+Inspector of Police,
+B-2 Police Station (L &amp; O),
+R.S.Puram, Coimbatore.				... Respondent
+
+Prayer : 
+	Criminal Original Petition filed under <a href="/doc/1679850/" id="a_1">Section 482</a> of the Code of Criminal Procedure, praying to direct the Judicial Magistrate  I, Coimbatore to consider the non bailable warrant re-call petition and dispose the same on the same day itself pending trial in S.T.C.No.628 of 2007 on the file of the Judicial Magistrate  I, Coimbatore.
+
+		For Petitioner	:  Mr.S.Venkatesh
+		For Respondent	:  Mr.M.Maharaja
+					   Additional Public Prosecutor
+
+
+ORDER
+</pre><p id="p_1">	This petition is filed praying to direct the learned Judicial Magistrate  I, Coimbatore to consider and recall the warrant application of petitioner on the same day in  S.T.C.No.628 of 2007.
+</p>
+<p id="p_2">	2.Heard the learned counsel appearing for the petitioner and the learned Additional Public Prosecutor.
+</p>
+<p id="p_3">	3.It is submitted by the learned counsel for the petitioner that the petitioner is accused in S.T.C.No.628 of 2007 filed by the respondent/ complainant under <a href="/doc/1823824/" id="a_2">section 138</a> of the Negotiable Instruments Act and non-bailable warrant was issued for the appearance of the petitioner.  Hence, this petition is filed seeking to recall the warrant. 
+</p>
+<p id="p_4">	4.Considering the submissions made, this Court feels that this is a fit case to recall the non-bailable warrant issued by the lower Court and accordingly, the petitioner is directed to appear in person and file a petition under <a href="/doc/56864/" id="a_3">Section 70(2)</a> of Cr.P.C. for recalling the Non-Bailable Warrant before the learned Judicial Magistrate  I, Coimbatore and in the event of filing such application, the aforesaid learned Magistrate is directed to consider the same and pass orders on merits on the same day and in accordance with law. 
+</p>
+<p id="p_5">	5.With the above observation, this criminal original petition is disposed of.
+</p>										       
+
+<p id="p_6">11.02.2015
+pri
+
+To
+
+</p><p id="p_7">1.The Inspector of Police,
+   B-2 Police Station (L &amp; O),
+   R.S.Puram, Coimbatore.	
+</p>
+<p id="p_8">2.The Public Prosecutor
+   High Court, Madras.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p id="p_9">R.S.RAMANATHAN,J.
+</p><p id="p_10">pri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crl.O.P.No.3155 of 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.02.2015</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mukala Venkatanandam And Ors. vs Immidisetty Dhanaraju And Ors. on 27 November, 1928</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1463638/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1463638">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/654536/">The Indian Forest Act, 1927</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1270593/">Section 18 in The Indian Contract Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/50719/">Garapathi Brahmayya And Six Ors. vs Kurella Ramiah on 4 August, 1919</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/626336/">Section 21 in The Indian Contract Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/912591/">The Opium And Revenue Laws (Extension Of Application) Act,   1950</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 3 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/7966/">Commissioner Of I.T., Mysore, ... vs Union Tobacco Co., Ernakulam on 16 December, 1959</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1025138/">Harkaran Ghasiram Agarwal vs Champalal Chhotelal Mahajan on 9 December, 1960</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1986337/">Ram Chandar vs Jagan Nath And Anr. on 16 March, 1957</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1463638/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1463638/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=contract%20%20citedby%3A1625889">contract  citedby:1625889</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=forest%20act">forest act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=reserved%20forest">reserved forest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=district%20forest%20">district forest </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=public%20policy">public policy</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=timber">timber</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Mukala Venkatanandam And Ors. vs Immidisetty Dhanaraju And Ors. on 27 November, 1928</div><div class="doc_citations">Equivalent citations: AIR 1929 Mad 689</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+</p><p id="p_2">1. These appeals arise out of a suit in which the plaintiffs sued to enforce their right in a partnership entered into for the purpose of working certain Government forests in the years 1919-20, 1920-21 and 1921-22. Appeal 17 of 1925 has been argued solely on the question as to whether the plaintiffs were partners in the firm for the contract of 1921-22, the appellant's case being that he was a partner in that firm and not the plaintiffs. There is one document Ex. K in this case which is strong evidence in support of the plaintiff's case that they were partners. There is an entry at p. 29 of that book in which one of the partners, N. Venkataratnam, has noted that in the auction sale of the forest contracts the contract for 1921-22 was bought for the firm. That firm had been in existence for two years and the plaintiffs but not defendant 8 were partners therein. It is contended that no value should be attached to this document, Ex. K, because the particular portion recited above was not brought to the notice of anybody until the time of arguments and that, therefore, it cannot be treated as of any value as evidence. Ex. K along with the other accounts of the partnership, was put into Court, in August 1923, with a memorandum signed by all the parties requesting that the documents should be admitted in evidence. The suit was then under trial and was not finally disposed of until one year later and this particular document, Ex. K was put to one of the defence witnesses in the course of his examination. Because the appellant failed to notice this recital or to see how prejudicial it was to his case it is no reason why the genuineness or accuracy of the recital should now be disputed. All the parties by their memorandum admitted that these books were the books of the firm and that admission must, unless there is anything on the face of them to the contrary, be taken to be an admission that they were books kept in the regular course of business.
+</p> 
+
+<p id="p_3">2. This entry is of considerable value being an admission by one of the partners that the plaintiffs were also included in the partnership and not defendant 7. The argument that it is improbable that the plaintiffs would have been admitted as partners because they were in involved circumstances is of very little force in the face of this recital and of a great deal of other evidence which has been referred to by the Subordinate Judge, though it has not been dealt with in appeal. The improbability is not very great, for there is nothing to show that the plaintiffs were in an insolvent condition but the only evidence is that they had mortgaged all their properties including profits to be obtained from the partnership. There is, therefore, no reason to differ from the conclusion of the lower Court that the plaintiffs were partners not only from 1919 to 1921 but also in 1921-22. The appeal, therefore, fails, and is dismissed with costs of respondents 1 and 2.
+</p> 
+
+<p id="p_4">3. Appeal 286 of 1924 is filed by the legal representatives of the deceased partner, N. Venkataratnam, and here the only point argued is one of law, namely, whether this partnership is an illegal partnership within the meaning of Section 23, <a href="/doc/171398/" id="a_1">Contract Act</a>. N. Venkataratnam obtained contracts from Government in his own name and formed the suit partnership to carry out the terms of those contracts. Under the contract, Ex. KK, the contractor Venkataratnam undertook by Clause 2
+ not to dispose of or sub let such right or any part thereof without the written permission of the District Forest Officer for the time being, which permission may be refused by the latter without assigning any reason for so doing.
+</p> 
+
+<p id="p_5">4. It is contended that the formation of this partnership was in effect to dispose of Venkataratnam's right under the contract, and, because he had not obtained the permission in writing of the District Forest Officer, the partnership was a contract either opposed to public policy or one that, if permitted, would defeat the provisions of law. Under the contract itself Venkataratnam is allowed to employ agents for carrying out the privileges granted to him, namely, of felling and carting away the timber, etc. If, therefore, the partners were personally to carry out the contract and cut timber etc., they certainly could only be deemed to be doing so as agents of Venkataratnam and in that view they would not be committing a forest offence, for in terms of the section they would be doing their acts
+ in accordance with the permission of the District Forest Officer
+ 
+
+granted to Venkataratnam. They would, therefore, not be guilty of any offence under <a href="/doc/626336/" id="a_2">Section 21</a>, <a href="/doc/654536/" id="a_3">Forest Act</a> 5 of 1882. It is then contended that the partnership would constitute a breach of <a href="/doc/1270593/" id="a_4">Section 18</a> which says:
+</p><p id="p_6"> No right of any description shall be acquired in or over a reserved forest, except by succession or under a grant or contract in writing made by or on behalf of Government or etc.
+ 
+
+</p><p id="p_7">5. It is argued that inasmuch as the plaintiffs and defendant 1 have entered into partnership with Venkataratnam, they have acquired a right over the reserved forest.. Government is not a party to the partnership contract and consequently that contract is not binding on Government. If that is so, the plaintiffs and the other partners would not acquire any right over reserved forest as against Government and Government being in control of these reserved forests the partnership could not give any of these partners any valid right over them. <a href="/doc/1270593/" id="a_5">Section 18</a> would, therefore, not be offended against by the terms of the contract. Neither does it appear that the contract or partnership is opposed to public policy; for the mere felling etc., of timber etc. which is specifically allowed by Government under certain conditions, is not opposed to public policy or against the provisions of any law. The appellants rely on three cases, <a href="/doc/50719/" id="a_6">Brahmayya v. Ramiah</a> [1920] 43 Mad. 141, Tammireddi v. Gangi Reddi A.I.R. 1922 Mad. 236, and Nalan Padmanabhan v. Badrinath Sardar [1912] 35 Mad. 582. <a href="/doc/50719/" id="a_7">In Brahmayya v. Ramiah</a>, the question arose under the provisions of the Abkari Act. In the license under that Act the licensee is expressly prohibited from employing any agent for the sale of liquor without the permission of the Abkari authorities. That point is expressly noted in the judgment and relied on but such a provision is absent in the contract under the <a href="/doc/654536/" id="a_8">Forest Act</a> which expressly allows the employment of agents. A similar provision occurs in the license under the <a href="/doc/912591/" id="a_9">Opium Act</a> with which the other two cases referred to above deal and on that ground these three cases can be distinguished. <a href="/doc/654536/" id="a_10">Under the Forest Act</a> the question was considered in <a href="/doc/1758184/" id="a_11">Nazaratti Sayad Imam v. Babamiya Dureyatimsha</a> [1916] 40 Bom. 64, where it was held that a partnership agreement was a valid agreement and not void under <a href="/doc/1625889/" id="a_12">Section 23</a> of the Contract Act. It is argued that that decision does not specifically refer to <a href="/doc/598900/" id="a_13">Sections 18</a> and <a href="/doc/848202/" id="a_14">21</a> of the Forest Act. The learned Judges in that case state " we have examined the <a href="/doc/654536/" id="a_15">Forest Act</a>, " and there is, therefore, no reason to suppose that the provisions of these particular sections escaped their notice. There are other cases which support the conclusion that a partnership like this for carrying out a contract under the <a href="/doc/654536/" id="a_16">Forest Act</a> is not illegal. Abdulla v. Allah Diya A.I.R. 1927 Lah. 333 and Gouri Sankar v. Mumtaz Ali Khan [1878] 2 All. 411 (F.B.). In this particular case the matter may be disposed of on another ground, namely, that the suit partnership agreement cannot be deemed to be either a disposal or subletting of the right granted under the contract. The partnership agreement is filed as Ex. A and we find that it provides that because the license is in the name of N. Venkataratnam, he is empowered
+ to undertake the whole of the forest business and look after the cutting of wood, give advances to the boat people with a view to get work out of them, write accounts by appointing necessary clerks and conduct sales etc. give explanation to the forest authorities and spend necessary sadar expenses.
+</p> 
+
+<p id="p_8">6. All these acts are acts which he has to do under the license and the partnership agreement specifically provides that these things are to be done by him and by him alone. He, therefore, retains all the rights that he had under the agreement and merely contracts with his partners that the profits and losses shall be divided in certain proportions and that the money for the expenses shall be provided in a certain way This contract can hardly be said to contravene the terms of Clause 2, Ex. KK. For this reason also the appellant's contention must fail and this appeal is dismissed with costs of respondents 1 and 2.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

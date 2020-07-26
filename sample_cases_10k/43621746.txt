@@ -1,0 +1,255 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>P.Chandirasekaran vs The Principal ... on 14 May, 2015</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/43621746/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/43621746/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/43621746/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/43621746/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=settlement%20survey%20">settlement survey </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ryotwari">ryotwari</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=patta">patta</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ryotwari%20patta%20">ryotwari patta </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">P.Chandirasekaran vs The Principal ... on 14 May, 2015</div><pre id="pre_1">       
+
+  
+
+   
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED: 14.05.2015
+
+CORAM
+
+THE HONOURABLE MR.JUSTICE R. SUBBIAH
+
+Writ Petition No.14592 of 2015
+and M.P.No.1 of 2015
+
+P.Chandirasekaran							... Petitioner
+Vs.
+
+1.The Principal Secretary/Commissioner of
+   Survey and Settlement Survey House,
+   Chepauk, Chennai  600 005.
+
+2.The Assistant Settlement Officer (North),
+   O/o. The Commissioner of Survey &amp; Settlement
+   Survey House, Chepauk, Chennai  600 005.                   ... Respondents
+
+	Writ Petition filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India praying for issuance of a Writ of certiorarified Mandamus, calling for records relating to the 2nd respondent's letter No.E1/9895/14 dated 02.03.2015 and quash the same and to direct the respondents to grant Ryotwari Patta as per provisions of Act 26/48 in favour of the petitioner for the land comprised in S.F.No.108/2 over an extent of 3.68 Acres in Chendrabakkam Village, then Madavaram Taluk now Thiruvottiyur Taluk, Thiruvallur District, pursuant to the petitioner's representation dated 15.12.2014.
+
+		For Petitioner	: Mr.M.Muthappan
+		For Respondents  	: Mr.P.Sanjay Gandhi,
+					 Additional Government Pleader
+
+					O R D E R	
+</pre>
+<p id="p_1">	Mr.P.Sanjay Gandhi, learned Additional Government Pleader takes notice for the respondents and by consent of learned counsel on either side, the writ petition is taken up for final disposal.
+</p>	
+<p id="p_2">2. The order passed by the 2nd respondent viz., Commissioner of Survey and Settlement Survey House, has been challenged by the writ petitioner, since his request for grant of Ryotwari Patta was declined on the ground that the application is belated. The only ground on which the impugned order has been challenged by the petitioner is that no limitation is prescribed for moving an application under the Tamil Nadu Inam Estate (Abolition and Conversion into Ryotwari) Act, 1963 and therefore, the impugned order is not legally sustainable.  The learned counsel for the petitioner had produced a copy of the order dated 17.04.2012 passed by this Court in similar Writ Petitions in W.P.Nos.22216 and 22217 of 2011. 
+</p>
+<p id="p_3">	3. In the order passed in the similar writ petitions, this Court, by placing reliance in the judgment delivered in W.P.No.4980 of 2012 decided on 09.03.2012 (Model Education Society Vs. The Commissioner of Land Administration, Chepauk, Chennai  5) has quashed the impugned order and remanded the matter to the respondent therein directing him to consider the application afresh on merits and in accordance with law, after affording an opportunity of hearing to the petitioner. The relevant portion of the order is as follows:
+</p><p id="p_4">	3.In support of this contention, the learned counsel for the petitioners placed reliance on the judgment of this Court in W.P.No.4980 of 2012 decided on 09.3.2012 (Model Education Society Vs. The Commissioner of Land Administration, Chepauk, Chennai  5), wherein it has been laid down as under:
+</p><p id="p_5">	I find that the rejection has been made only on the ground that the application has been filed beyond the time. In this connection, I refer to the order passed by this Court on 21.2.2012 in WP.No.3989 of 2012, wherein this Court had an occasion to deal with a similar order of rejection and set aside the order, after finding that the Tamil Nadu Inam Estates (Abolition and Conversion into Ryotwari) Act, 1963, does not prescribe any time limit for filing a claim petition for the purpose of issuance of patta. Therefore, when the application filed the petitioner herein for patta has been rejected as it is time barred, the order suffers from patent irregularity. Further, the order of rejection has been passed without hearing the petitioner concerned.
+
+</p><p id="p_6">	4. Hence, following the same, I am of the view that similar order can be passed.  Accordingly, the impugned order rejecting the application of the petitioner for grant of Ryotwari Patta, is hereby set aside and the matter is remitted back to the 2nd respondent with a direction to consider the application submitted by the petitioner afresh, on merits and in accordance with law, after affording an opportunity of hearing to the petitioner, within a period of eight weeks from the date of receipt of a copy of this order.
+</p>
+<p id="p_7">	5. Accordingly, the writ petition is disposed of.  No costs. Consequently, the connected Miscellaneous Petition is closed.
+</p><p id="p_8">									          										      14.05.2015
+        
+Index: Yes/No
+Internet: Yes/No
+va/ars										  
+
+
+
+
+
+To
+
+</p><p id="p_9">1.The Principal Secretary/Commissioner of
+   Survey and Settlement Survey House,
+   Chepauk, Chennai  600 005.
+</p>
+<p id="p_10">2.The Assistant Settlement Officer (North),
+   O/o. The Commissioner of Survey &amp; Settlement
+   Survey House, Chepauk, Chennai  600 005.  
+</p>
+
+
+<p id="p_11">R. SUBBIAH,J.
+</p><p id="p_12">va/ars
+
+
+
+
+
+
+
+
+
+
+
+
+
+W.P. No.14592 of 2015
+									        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14.05.2015</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

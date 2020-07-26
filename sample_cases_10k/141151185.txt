@@ -1,0 +1,792 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Nashik Municipal Corporation vs Gangaram Vaman Nimbekar on 7 February, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/141151185/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/141151185/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/141151185/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/141151185/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Nashik Municipal Corporation vs Gangaram Vaman Nimbekar on 7 February, 2019</div><div class="doc_bench">Bench: A. K. Menon</div>
+
+<pre id="pre_1"> IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+      APPELLATE SIDE CIVIL JURISDICTION
+
+                WRIT PETITION NO. 5920 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Prabhakar Kisan Mali And Ors.                   ....Respondent</pre>
+
+<p id="p_1">                            WITH
+                WRIT PETITION NO. 8292 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Shankar Dhondiram Khelukar                      ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5177 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Sahebrao Sada Desale And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5174 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Prabhakr Sukhdev Pavade And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5190 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 1/17
+
+<span class="hidden_text" id="span_1">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Anjiram Madhav Kale And Ors.                    ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5188 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Prakash Kisan Gaidhani And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5185 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Gangaram Vaman Nimbekar                         ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5189 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Ramesh Ramji Borisa And Ors.                    ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5184 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Dattu Rangnath Kale And Ors.                    ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5157 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 2/17
+
+<span class="hidden_text" id="span_2">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Jagannath Rajaram Potinde And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5163 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Keru Dagdu Bhoir And Ors.                       ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5167 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Popat Kisan Bhagare And Ors.                    ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5165 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Shantaram Rambhau Bachhav And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5166 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Ramesh Ramdas Bairagi And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5159 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 3/17
+
+<span class="hidden_text" id="span_3">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Ganpat Mahadu Dobade And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5162 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Dinkar Bhimrao Tuplondhe And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5160 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Nandkumar Lahanu Gorade And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5161 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Dada Vishwanath Wagh And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5179 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Popat Pandhari Kalunge And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5191 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 4/17
+
+<span class="hidden_text" id="span_4">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Devidas Dattatray Ingale And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5186 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Chandrakant Ananda Pawar And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5173 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Rajendra Bhulan Chandliya And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5176 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Popat Baban Jachak And Ors.                     ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5172 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Gulab Valu Pawar And Ors.                       ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5171 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 5/17
+
+<span class="hidden_text" id="span_5">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Nandkumar Sahadev Palange And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5192 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Balkrishna Gangadhar Halade And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5183 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Jagganath Rambhau Jhankar And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5193 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Popat Raosaheb Porje And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5168 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Sanjay Dashrath Raut And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5178 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 6/17
+
+<span class="hidden_text" id="span_6">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Kasim Chandkhan Pathan And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5164 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Salim Hussain Maniyar And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5170 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Ashok Dinkar Dalvi And Ors.                     ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5169 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Sharad Digamber Bagul And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5175 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Ramdas Yashwant Gode And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5153 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 7/17
+
+<span class="hidden_text" id="span_7">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Dattatray Gulabrao Bairagi And Ors.             ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5154 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Suresh Devram Shingade And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5155 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Bhagwan Vishnu Ahire And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5156 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Murlidhar Pandit Gore And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5158 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Chandar Laxman Chaudhari And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5181 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 8/17
+
+<span class="hidden_text" id="span_8">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Jagdish Mohansingh Pardeshi And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5187 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Shaikh Munaf Nasir Jamil And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5182 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Deepak Govind Mugdal And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5180 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Nivrutti Bandu Muradnar And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8288 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Ramchandra Lahanu Dodake And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8291 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                         Page 9/17
+
+<span class="hidden_text" id="span_9">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Mukund Rambhau Bhagwat And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8290 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Madhukar Manohar Hande And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8298 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Najmabi Mustak Shaikh And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8313 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Dhananjay Rasiklal Nandode And Ors.             ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5935 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Anil Sambhaji Kedare And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8287 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 10/17
+
+<span class="hidden_text" id="span_10">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Umaji Ramu Pawar And Ors.                       ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8296 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Subhash Popatrao Shinde And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8294 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Nivrutti Sakharam Jadhav And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8289 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Shridhar Damodar Algat And Ors.                 ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8293 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Prathmeshgir Gyangir Gosavi And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8295 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 11/17
+
+<span class="hidden_text" id="span_11">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Jagannath Waghu Gangurde And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8299 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Tryambak Bhaurao Shinde And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8302 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+             V/S
+ Nivrutti Namdeo Donde And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5936 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Ashok Hari Kale And Ors.                        ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5937 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Vijay Rakhmaji Chaughule And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8308 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 12/17
+
+<span class="hidden_text" id="span_12">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Balu Jayram Gaikwad And Ors.                    ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8301 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Somnath Balaji Shinde And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8300 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Ddaji Shankar Bachhav And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8297 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Madhav Karsan Maru And Ors.                     ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5938 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Pandurang Mohan Gaidhani And Ors.               ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5930 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 13/17
+
+<span class="hidden_text" id="span_13">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Laxman Pandharinath Thete And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5931 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Umarkhan Abbaskhan Pathan And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5932 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Rajendra Raghuveer Bagade And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5933 OF 2017
+
+ Nashik Municipal Corporation                 ....Petitioner
+            V/S
+ Fakir Mohammad Yakub Naginewale And Ors . ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5934 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Prakash Vasant Desale And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5921 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 14/17
+
+<span class="hidden_text" id="span_14">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Smt. Shobha Balu Bhalerao And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5922 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Rajendra Gopinath Choudhary And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5923 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Bapur Rangnath Kotwal And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5924 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+ Ananda Damu Netawane And Ors.                   ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5925 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Gangadhar Nivrutti Mali And Ors.                ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5926 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 15/17
+
+<span class="hidden_text" id="span_15">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Balu Mukunda Bhadange And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5927 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Chandrakant Gojraji Satpute And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5928 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Maruti Krushna Thorat And Ors.                  ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5929 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Babynaaz Jahir Ahmad Shaikh And Ors.            ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 5939 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+            V/S
+ Chandrabhaga Laxman Barhe And Ors.              ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8656 OF 2017
+
+ Nashik Municipal Corporation                       ....Petitioner
+           V/S
+
+
+                                                                        Page 16/17
+
+<span class="hidden_text" id="span_16">::: Uploaded on - 08/02/2019            ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+  Balu Bhagvan Pawar And Ors.                       ....Respondent
+
+                            WITH
+                WRIT PETITION NO. 8655 OF 2017
+
+ Nashik Municipal Corporation                         ....Petitioner
+            V/S
+ Vikram Narayan Suryawanshi And Ors.               ....Respondent
+
+
+
+
+      CORAM :        A. K. MENON, J
+      DATE :         7th February, 2019
+ P.C. :
+</p><p id="p_2">   Due to paucity of time the matter is adjourned for 07/03/2019.
+   Ad-interim relief if any to continue till then.
+</p>
+
+
+<p id="p_3">                               ( FOR REGISTRAR JUDICIAL - I )
+
+
+
+
+                                                                          Page 17/17
+
+<span class="hidden_text" id="span_17">::: Uploaded on - 08/02/2019              ::: Downloaded on - 09/02/2019 00:59:25 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

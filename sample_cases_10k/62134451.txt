@@ -1,0 +1,700 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ms. Kamlesh Kumari vs . on 9 October, 2012</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/62134451/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 24 docs 
+      
+        - [<A HREF="/search/?formInput=cites:62134451">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1823824/">Section 138 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/770022/">Section 73 in The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/232831/">Section 20 in The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1025384/">Section 45 in The Indian Evidence Act, 1872</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/62134451/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/62134451/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073">section 73</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073%20indian%20evidence%20act">section 73 indian evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=indian%20evidence%20act%20sec.73">indian evidence act sec.73</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec%2Cindian%20evidence%20act">sec,indian evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=funds%20insufficient%20">funds insufficient </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20evidence%20act">section evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legally%20enforceable">legally enforceable</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=negotiable%20act">negotiable act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073%20of%20evidence%20act">section 73 of evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=73%20of%20indian%20evidence%20act">73 of indian evidence act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=legally%20enforceable%20debt">legally enforceable debt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=enforcable%20debt">enforcable debt</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=r%20s%20sharma%20">r s sharma </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cheques%20more%20than%20three%20">cheques more than three </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=ni%20act">ni act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=blanks%20%20%20filter%3A%20%20%20negotiable%20instruments%20act">blanks   filter:   negotiable instruments act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=holder%20in%20due%20course">holder in due course</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Defence%20Witnesses">Defence Witnesses</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2073%20evidence">section 73 evidence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20%2073%20evidence%20act%20-%20">s  73 evidence act - </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Ms. Kamlesh Kumari vs . on 9 October, 2012</div><div class="doc_author">Author: Ms. Ankita Lal</div>
+
+<pre id="pre_1">                                 Kamlesh Kumari v. Satya Bhan Sharma
+
+           IN THE COURT OF MS. ANKITA LAL, MM (NI ACT)-01, SOUTH-EAST,
+                           SAKET COURTS, NEW DELHI
+
+Ms. Kamlesh Kumari
+W/o Sh. B.N. Sharma,
+R/o A-3, MCD Flats, S.N. Puri,
+New Delhi.
+                                                                             . . . Complainant
+
+                      Vs.
+
+Satya Bhan Sharma
+R/o Raman Bhardwaj,
+R/o House No. 780 (Behind Kuber Building),
+Near Tubewell No.4, Village Maidangarhi,
+New Delhi.
+                                                                             . . . Accused
+
+CC NO.                                     :   951/10
+OFFENCE COMPLAINED OF                      :   U/s 138 of <a href="/doc/1132672/" id="a_1">Negotiable Instruments Act</a>
+PLEA OF ACCUSED                            :   Not guilty
+DATE OF INSTITUTION                        :   26.08.2006
+DATE OF RESERVING ORDER                    :   14.09.2012
+FINAL ORDER                                :   Convicted
+DATE OF ORDER                              :   09.10.2012.
+
+
+Present:       Ms. Pakshi Singh, Proxy Counsel for complainant alongwith complainant in
+               person.
+               Sh.Gagan Preet Singh, Counsel for the accused alongwith accused in person.
+
+                                               JUDGMENT
+</pre>
+<p id="p_1">       Vide this judgment, I propose to dispose of the above titled criminal complaint u/s 138 of
+<a href="/doc/1132672/" id="a_2">Negotiable Instruments Act</a>. The brief facts of the case are as follows: -
+</p><p id="p_2">1.     That the accused being close relative of the complainant, took friendly loan of Rs.6 lacs
+       from the complainant with promise that the accused will return the same on or before
+       month of April, 2006. The accused issued three cheques for Rs.2,00,000/- each in favour
+<span class="hidden_text" id="span_1">02406R0744832006                               -1-</span>
+                              Kamlesh Kumari v. Satya Bhan Sharma
+
+     of the complainant with promise that the same will be honoured. Out of the three cheques,
+     cheque bearing no.024270 for Rs.2,00,000/- dated 6.4.2006 is drawn on Punjab National
+     Bank, Vasant Kunj, New Delhi from account no.17183 and cheque no.024271 for Rs.
+     2,00,000/- dated 26.4.2006 is drawn on Punjab National Bank, Branch at New Delhi from
+     account no.024271. Both the said cheques bearing no.024270 and 024271 are Ex.CW1/A
+     (colly).
+</p>
+<p id="p_3">2.   That the complainant presented both the said cheques in her bank i.e. Bank of Baroda,
+     Nehru Nagar, New Delhi for encashment. However, cheque no.024270 dated 6.4.2006 for
+     Rs.2,00,000/- was dishonoured by banker of the accused with return memo dated
+     17.7.2006 for the reason "Funds Insufficient" and similarly, the cheque no.024271 dated
+     26.4.2006 for Rs.2,00,000/- was also dishonoured by the banker of the accused with return
+     memo dated 19.7.2006 for the reason "Funds Insufficient". The cheque return memo dated
+     17.7.2006 is Ex.CW1/B and the cheque return memo dated 19.7.2006 is Ex.CW1/C.
+</p>
+<p id="p_4">3.   That on 19.7.2006, when the intimation regarding dishonour of cheque no.024271 was
+     received by the complainant, she contacted the accused for payment of the cheque amount
+     but it seemed that the accused was deliberately and intentionally avoiding the payment of
+     the amount of the cheque. The complainant through his counsel also served a legal
+     demand notice dated 26.7.2006 upon the accused by registered post as well as UPC. The
+     copy of legal notice is Ex.CW1/D, postal receipt is Ex.CW1/E and UPC receipt is
+     Ex.CW1/F. The legal notice send by the complainant through UPC was deemed by the
+     complainant to have been received upon the accused as the complainant's counsel has not
+     received the A.D. card. The complainant and accused have also been in contact
+     telephonically and thus, the accused has full knowledge regarding the legal demand
+     notice, but the accused has failed to make payment of the amount of cheques in question
+     to the complainant within the period stipulated in the legal demand notice. Therefore, the
+     complainant has filed the present complaint against the accused.
+</p>
+<p id="p_5">4.   Accordingly, the summoning order was passed against the accused on 28.08.2006 and on
+
+<span class="hidden_text" id="span_2">02406R0744832006                           -2-</span>
+                              Kamlesh Kumari v. Satya Bhan Sharma
+
+     appearance of the accused, the notice under <a href="/doc/429078/" id="a_3">section 251</a> Cr.P.C. was served upon the
+     accused on 27.5.2008, to which the accused pleaded not guilty and claimed trial.
+</p>
+<p id="p_6">5.   Thereafter, the complainant filed her evidence by way of affidavit, which is dated
+     16.12.2008. The accused, however, failed to cross-examine the complainant on the said
+     affidavit. Even though, the said affidavit was not duly tendered before the court, the same
+     being in original and duly attested by a seal of Oath Commissioner is being read as part of
+     evidence of the complainant alongwith pre-summoning evidence by way of affidavit filed
+     by the complainant, in view of the provisions of <a href="/doc/138755618/" id="a_4">section 145</a> of N.I. Act. After the accused
+     failed to cross-examine the complainant despite several opportunities, the matter
+     proceeded for recording statement of accused u/s 313 <a href="/doc/445276/" id="a_5">Cr.P.C</a>. The statement of accused u/s
+     313 <a href="/doc/445276/" id="a_6">Cr.P.C</a>. was recorded and all the incriminating evidence were put to the accused. In
+     the said statement, the accused stated that he has never taken any loan from the
+     complainant. He also mentioned that he never issued any cheque to the complainant. The
+     accused also stated that the complainant is related to him as being his sister-in-law and
+     that he had kept certain blank signed cheques at his home, which have been
+     misappropriated by the complainant. The accused also stated that the handwriting on the
+     cheques in question are not his own, except for the signatures. He further mentioned that
+     he never received the legal demand notice, which has been filed by the complainant on
+     record. The accused also mentioned that he is an innocent person and has been falsely
+     implicated in the present complaint. The accused thereafter examined two defence
+     witnesses i.e. DW-1 Vinay Sharma and DW-2 Manju Sharma.
+</p>
+<p id="p_7">6.   DW-1 Vinay Sharma stated in his examination-in-chief that he is the brother of the
+     complainant and brother-in-law of the accused. He also stated that he has cordial
+     relationship with both the parties and he frequently visits their residences. He mentioned
+     in his deposition that the complainant has never spoken to him about any loan given by
+     her to the accused. He further stated that he became aware about the present dispute
+     between the complainant and the accused only last year i.e. on or about year 2010. He also
+
+<span class="hidden_text" id="span_3">02406R0744832006                           -3-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+     mentioned in his statement that there has been no meeting in his presence between the
+     complainant and the accused regarding any settlement of dispute and that there might have
+     been some talks regarding any dispute between the parties with the father of the said
+     witness. He also mentioned that according to his knowledge, the accused has never taken
+     any loan from him or from any other person. DW-1 was, then, cross-examined by counsel
+     for the complainant, wherein he stated that he is maternal brother of the complainant and
+     the accused is his real brother-in-law. He also mentioned that he has not visited the
+     residence of the complainant for last about 3/4 years and has not visited the residence of
+     the accused for last about 1 or 2 years. Thereafter, the said witness denied all other
+     suggestions put to him by counsel for the complainant, wherein, the knowledge of present
+     loan in question was suggested by Ld. Counsel for the complainant. The witness also
+     categorically denied the suggestions testing the veracity of his statement.
+</p>
+<p id="p_8">7.   DW-2 Manju Sharma mentioned in her examination-in-chief that the accused is her
+     brother-in-law (JEEJA) and that she also frequently visits the residence of the accused i.e.
+     almost on every Sundays. She further stated that in March, 2006, she visited the accused
+     on a Sunday and it was found that in one of the rooms, there were three cheques lying on
+     the table, which had signatures of the accused and the amount mentioned on them. The
+     name of the payee and the date were, however, not mentioned on the said cheques as per
+     the statement made by the said witness. She further stated that she made an inquiry from
+     the accused regarding the said cheques. The accused informed her that he has kept the said
+     cheques for the purchase of certain property in Meerut and that he is waiting for the
+     person, to whom the said cheques are to be handed over. The witness further deposed that
+     the complainant, who is her cousin and daughter of her BUA, also came to the residence
+     of the accused on the same day and they had tea and snacks at the house of the accused on
+     the said date. The witness also stated that after the complainant left from the house of the
+     accused on the said date, the accused informed her that the cheques are missing from the
+     table where they were left. The witness further deposed before the court that the accused
+     thereafter called up the complainant to inquire about the cheques, but the complainant
+<span class="hidden_text" id="span_4">02406R0744832006                            -4-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+     refused any knowledge about the said cheques, and that the cheques were never found
+     thereafter, even though, DW-2 kept on inquiring from the accused regarding the said
+     cheques. She further stated that the two cheques filed in the present complaint are out of
+     the said three cheques, which were lost from the residence of the accused on that
+     particular day and that she can also recognize the signatures of the accused and the
+     amount mentioned on the said cheques, which is in the handwriting of the accused. DW-2
+     was, then, cross-examined by Ld. Counsel for the complainant. In her cross-examination,
+     she stated that she came to know about the present complaint in the month of March, 2006
+     and somewhere around Holi festival, however, she cannot recall the exact date. She also
+     mentioned that she is unaware whether any reply to the legal demand notice or to the court
+     summons is given by the accused in the present complaint. She further stated that no
+     complaint regarding the loss of cheques has been lodged by the accused or by herself
+     since the complainant is also one of their relatives. In the remaining part of her cross-
+     examination, she admitted ignorance regarding knowledge of any complaint being filed by
+     the accused for the lost cheques, or whether under any law, any complaint regarding the
+     loss of cheques is to be lodged by any party. She also seemed unaware as to whether the
+     complainant had visited her father referring about the present dishonoured cheques. All
+     other suggestions testing the veracity of the said witness were also denied by DW-2.
+</p>
+<p id="p_9">8.   I have perused the entire record and heard the submissions of both the parties. Ld. Counsel
+     for the accused has moved an application u/s 73 read with <a href="/doc/1025384/" id="a_7">section 45</a> of Indian Evidence
+     Act, praying that the correctness and genuineness of the handwriting of the accused on the
+     body of the cheques be ascertained by the court in view of the said provisions. I have
+     perused the said application. The opinion on the said application shall be expressed in the
+     course of the present judgment. Ld. Counsel for the accused also filed written submissions
+     which are on record in CC No.913/10, which is one of the connected complaints between
+     the parties pertaining to the same cause of action.
+</p>
+<p id="p_10">9.   At the outset, it is pertinent to mention the law in respect of <a href="/doc/1823824/" id="a_8">section 138</a> of N.I. Act. In
+
+<span class="hidden_text" id="span_5">02406R0744832006                             -5-</span>
+                                 Kamlesh Kumari v. Satya Bhan Sharma
+
+      order to determine the question whether offence punishable under <a href="/doc/1823824/" id="a_9">Section 138</a> of the Act
+      is made out against the accused, it is necessary to prove all the following ingredients:
+</p>
+<p id="p_11">         i. There is legally enforceable liability / debt.
+</p><p id="p_12">         ii. The drawer of the cheques issued the cheques to satisfy part or whole of the debt or
+             other liability.
+</p><p id="p_13">         iii. The cheques so issued have been returned due to insufficiency of funds or exceeds
+              arrangement.
+</p><p id="p_14">         iv. Payment not made by the accused despite service of the legal demand notice.
+</p>
+<p id="p_15">10.   Moreover, the <a href="/doc/1132672/" id="a_10">Negotiable Instruments Act</a> also raises certain presumptions in favour of the
+      holder in due course of a negotiable instrument. As per <a href="/doc/517539/" id="a_11">section 118</a> (a) of the said Act,
+      "Until the contrary is proved, the following presumptions shall be made:-
+</p><p id="p_16">      (a) of consideration - that every negotiable instrument was made or drawn for
+      consideration, and that every such instrument, when it has been accepted, endorsed,
+      negotiated or transferred, was accepted, endorsed, negotiated or transferred for
+      consideration;"
+</p>
+<p id="p_17">11.   <a href="/doc/268919/" id="a_12">Section 139</a> of the Act stipulates and as under:
+</p>
+<blockquote id="blockquote_1">         "It shall be presumed, unless the contrary is proved, that the holder of a cheque
+         received the cheque of the nature referred to in <a href="/doc/1823824/" id="a_13">section 138</a> for the discharge, in whole
+         or in part, or any debt or other liability."
+</blockquote>
+<p id="p_18">12.   Under the light of these provisions and the provisions of the Law of Evidence, I have
+      examined the evidence placed on record on behalf of both the parties. Perusal of the
+      record shows that the cheques in question have been dishonoured for the reason "Funds
+      Insufficient". In view of <a href="/doc/177946336/" id="a_14">section 147</a> of Negotiable Instruments Act, the bank slip denoting
+      the reason for dishonour of the cheque is the prima-facie evidence, which leads to a
+      presumption of the fact of dishonor of such cheque, until and unless, the said fact is
+      disproved in the course of the trial. Accused neither led any evidence to show that the
+      cheques in question were dishonoured for any other reason nor he rebutted the
+      genuineness and admissibility of the bank returning memos. The main defence of the
+<span class="hidden_text" id="span_6">02406R0744832006                               -6-</span>
+                                 Kamlesh Kumari v. Satya Bhan Sharma
+
+      accused was that he had kept the cheques at his home which were allegedly stolen by the
+      complainant and misappropriated by her and therefore, there does not arise any liability
+      against the accused. The accused tried to support the said defence by arguing that the
+      complainant is also one of his relatives and a frequent visitor to his residence. The accused
+      also supported the said defence by examining two witnesses in his defence. However,
+      perusal of the entire deposition of DW-1 shows that he is unaware about any transaction
+      between the complainant and the accused. He even mentioned in his cross-examination
+      that he has not visited the residence of the complainant for last 3/4 years and the residence
+      of the accused for last about 1-2 years. The said witness appears to be completely
+      oblivious to any money transaction between the complainant and the accused including
+      the transaction in question. Therefore, the deposition of the said witness does not appear to
+      be a relevant piece of evidence. Since no transaction has taken place in the presence of the
+      said witness, therefore, the deposition of the said witness also does not come to any
+      support of the defence.
+</p>
+<p id="p_19">13.   The only other witness examined by the accused was DW-2 Manju Sharma, to whom, the
+      accused is related as being her brother-in-law (Jeeja). In her statement, the said witness
+      has stated that in the month of March, 2006, when she had visited the accused at his
+      residence, she found certain cheques lying on the table and when she inquired from the
+      accused regarding the said cheques, the accused informed her that the said cheques are for
+      purchase of certain property in Meerut. The said witness also mentioned that even the
+      complainant had visited the residence of the accused on the same day and that she had met
+      the complainant and they even had tea and snacks at the residence of the accused on the
+      particular day. In her statement, the witness has also averred that after the complainant had
+      left from the residence of the accused, the accused informed her that the cheques have
+      been missing from the table, where they were kept lying. She also mentioned that the
+      accused called up the complainant to inquire about the cheques, however, the complainant
+      has refused any knowledge about the said cheques. From the said statement of the DW-2,
+      it is clear that the accused came to know about the fact that the cheques have been missing
+<span class="hidden_text" id="span_7">02406R0744832006                              -7-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+      from his residence on the same day itself. However, nothing has been brought on record
+      by the accused to show that he had lodged any complaint in any police station or before
+      any court regarding the loss of cheques or that the cheques have been stolen by the
+      complainant. It is also clear from the entire material on record that no instructions were
+      also given by the accused to his banker for stopping payment of the said cheques despite
+      the fact that he had become aware that the cheques have been lost/stolen. The cheques
+      have been dishonoured for the reason "Funds Insufficient", which as observed earlier, is a
+      prima-facie evidence of the fact of dishonor of the cheques in question.
+</p>
+<p id="p_20">14.   The only other argument led by the accused in his defence is that the cheques in question
+      do not bear his handwriting except for the signatures. Ld. Counsel for the accused has
+      accordingly moved an application under <a href="/doc/770022/" id="a_15">section 73</a> of Indian Evidence Act (incorrectly
+      mentioned as <a href="/doc/718585/" id="a_16">section 73</a> of Cr.P.C. on the application of the accused) read with <a href="/doc/1025384/" id="a_17">section 45</a>
+      of Indian Evidence Act. I have perused the said application and have also read the
+      provisions of <a href="/doc/1194598/" id="a_18">section 73</a> as well as 45 of the <a href="/doc/1953529/" id="a_19">Indian Evidence Act</a>. I would like to
+      reproduce the provisions of <a href="/doc/1194598/" id="a_20">section 73</a> as well as 45 of the <a href="/doc/1953529/" id="a_21">Indian Evidence Act</a> as under: -
+</p>
+<blockquote id="blockquote_2">                Section 73 of the Indian Evidence Act
+
+                       Comparison of signature, writing or seal with others admitted or
+                proved.-In order to ascertain whether a signature, writing or seal is that of the
+                writing, or seal admitted or proved to the satisfaction of the Court to have been
+                written or made by that person may be compared with the one which is to be
+                proved, although that signature, writing, or seal has not been produced or
+                proved for any other purpose.
+</blockquote>
+<blockquote id="blockquote_3">                       The court may direct any person present in Court to write any words or
+                figures for the purpose of enabling the Court to compare the words of figures so
+                written with any words or figures alleged to have been written by such person.
+</blockquote>
+<blockquote id="blockquote_4">                <a href="/doc/1025384/" id="a_22">Section 45</a> of Indian Evidence Act.
+</blockquote>
+<blockquote id="blockquote_5">                       Opinion of experts.-When the court has to form an opinion upon a point
+
+<span class="hidden_text" id="span_8">02406R0744832006                             -8-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+                of foreign law or of science or art, or as to identify of handwriting or finger
+                impressions, the opinions upon that point of persons specially skilled in such
+                foreign law, science or art, or in questions as to identify of handwriting or
+                finger impressions are relevant facts.
+</blockquote>
+<blockquote id="blockquote_6">                       Such persons are called experts.
+</blockquote>
+<p id="p_21">15.   It is clear from bare reading of the said provisions that not just the court has been
+      empowered to make comparison of disputed and admitted signatures of a party, but the
+      court can also take the opinion of expert in comparing and analyzing the handwriting on
+      any document. <a href="/doc/1458526/" id="a_23">Section 46</a> and <a href="/doc/1463645/" id="a_24">47</a> of Indian Evidence Act are also relevant, which give
+      due importance to the opinion expressed about any handwriting by any expert or any other
+      person, who is acquainted with the handwriting of the alleged person for the purpose of
+      <a href="/doc/770022/" id="a_25">section 73</a> of the Indian Evidence Act. <a href="/doc/770022/" id="a_26">Section 73</a> of the Indian Evidence Act also enables
+      the court to take specimen handwriting of the person, who prays that his handwriting be
+      compared with the disputed handwriting on an alleged document. In the present
+      application, the prayer of the accused was only that the court should compare the
+      handwriting of the accused on the cheque in question with the specimen handwriting
+      which the accused was willing to give before the court. No prayer as to the effect that the
+      alleged document be sent for an expert opinion was made in the said application. As per
+      the settled position of law, under the provision of <a href="/doc/770022/" id="a_27">section 73</a> of Indian Evidence Act, as a
+      rule of prudence the expert opinion may be sought for analyzing any handwriting or any
+      signature of a party. In the present case, it appears that no purpose would have been served
+      by sending the cheques in question for expert analysis as signatures on the cheques in
+      question are already admitted by the accused.
+</p>
+<p id="p_22">16.   Further, <a href="/doc/232831/" id="a_28">section 20</a> of the Negotiable Instruments Act, is a relevant provision which talks
+      about 'Inchoate Instruments". The said provision reads as under: -
+</p>
+<blockquote id="blockquote_7">                <a href="/doc/232831/" id="a_29">Section 20</a> of Negotiable Instruments Act.
+</blockquote>
+<blockquote id="blockquote_8">                       Inchoate stamped instruments.-Where one person signs and delivers to
+
+<span class="hidden_text" id="span_9">02406R0744832006                             -9-</span>
+                                Kamlesh Kumari v. Satya Bhan Sharma
+
+                another a paper stamped in accordance with the law relating to negotiable
+                instruments then in force in India, and either wholly blank or having written
+                thereon an incomplete negotiable instrument, he thereby gives prima facie
+                authority to the holder thereof to make or complete, as the case may be, upon it
+                a negotiable instrument, for any amount specified therein and not exceeding the
+                amount covered by the stamp. The person so signing shall be liable upon such
+                instrument, in the capacity in which he signed the same, to any holder in due
+                course for such amount: provided that no person other than a holder in due
+                course shall cover from the person delivering the instrument anything in excess
+                of the amount intended by him to be paid thereunder.
+</blockquote>
+<p id="p_23">      It is clear from the said provision that when a person signs and delivers to any person a
+      document which is either wholly blank or having written thereon an implied negotiable
+      instrument, he thereby gives prima-facie authority to the holder to make or complete the
+      same. The said provision makes the person, who has signed the said instrument liable for
+      the said instrument in his capacity in which he signs the same, to any holder in due course
+      for the said amount as mentioned on the instrument. The provision also comes with a
+      proviso which states that no person other than a holder in due course shall recover from
+      the person delivering the instrument anything in excess of the amount intended by him to
+      be paid thereunder. In view of the said provision, it is clear that if the accused had kept a
+      blank signed cheque at home, which was misplaced, he had in fact given authority to the
+      person who finds the said cheque to fill details on the same and present it for encashment.
+      The accused, thus, becomes liable to the holder in due course for the amount mentioned
+      on the cheques in question. The accused has also not adduced any evidence to show that
+      the complainant is not the holder in due course of the said cheques. Therefore, the fact that
+      the details on the cheques in question are not in the handwriting of the accused does not
+      hold a good defence in favour of the accused in view of <a href="/doc/232831/" id="a_30">section 20</a> of the Negotiable
+      Instruments Act.
+</p>
+<p id="p_24">17.   From the entire material on record, the accused could not bring any evidence to show that
+      the cheques in question were not issued in discharge of any legally enforceable debt or
+
+<span class="hidden_text" id="span_10">02406R0744832006                             -10-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+      liability. The only defence taken was that the complainant being a relative of the accused
+      was within her capacity to misuse the cheques, which may have been found lying at the
+      house of the accused, does not appear to be a satisfactory defence to rebut the strong
+      presumption of law lying in favour of the complainant. Moreover, as observed earlier, the
+      fact that no complaint was lodged by the accused against the complainant or any other
+      person regarding the loss of the cheques despite the fact that it came to his knowledge that
+      the cheques have been misplaced on the very same day on which he had kept them lying
+      on a table at his residence, also weakens the defence of the accused. Thus, the
+      presumption that the cheques in question were issued in discharge of a liability stands
+      duly proved.
+</p>
+<p id="p_25">18.   As held in various caselaws, the standard of proof on the part of the accused and that of
+      the prosecution is different in a criminal trial. Whereas, prosecution must prove the guilt
+      of the accused beyond all reasonable doubt, the standard of proof so as to prove a defence
+      on the part of the accused is 'preponderance of probabilities'. Inference of preponderance
+      of probabilities can be drawn not only from the materials brought on record by the parties
+      but also by reference to the circumstances upon which he/she relies (cited from, <a href="/doc/673245/" id="a_31">Krishna
+      Janardhan Bhat v. Dattatraya G. Hegde</a> (2008) 4 SCC 54). Moreover, in the decision of
+      <a href="/doc/1891718/" id="a_32">Drum Manufacturing Co. v. Amin Chand Pyarelal</a> (1993) 3 SCC 35, after analysing
+      various judgments, the Apex Court observed that the position of law which emerges is that
+      once execution of the promissory note is admitted, the presumption under <a href="/doc/371095/" id="a_33">Section 118</a> (a)
+      would arise that it is supported by a consideration. Such a presumption is rebuttable. The
+      defendant (or the accused) can prove the non-existence of a consideration by raising a
+      probable defence. Furthermore, in the recent judgment of Hon'ble Supreme Court in
+      <a href="/doc/150051/" id="a_34">Rangappa v. Sri Mohan</a> (2010) INSC 373 (decision dated 07.05.2010), after analysing
+      the law laid down in previous judgments, it was held that the presumption mandated by
+      <a href="/doc/334170/" id="a_35">Section 139</a> of the Act does indeed include the existence of a legally enforceable debt or
+      liability. This is a rebuttable presumption, even though this initial presumption lies in
+      favour of the complainant. If the accused is able to raise a probable defence which creates
+<span class="hidden_text" id="span_11">02406R0744832006                             -11-</span>
+                                 Kamlesh Kumari v. Satya Bhan Sharma
+
+      doubt about the existence of a legally enforceable debt or liability, prosecution can fail.
+</p>
+<p id="p_26">19.   Moreover, the accused also did not lead anything in defence to show that the legal demand
+      notice was not served upon him. In view of the presumption of law and also the settled
+      position of law that once the notice is dispatched on the correct address of the accused,
+      unless and until the contrary is proved by the addressee, service of the notice is deemed to
+      have been effected at the time at which the letter would have been delivered in the
+      ordinary course of business (in judgment of <a href="/doc/272690/" id="a_36">C.C. Alavi Haji v. Palapetty Muhammed &amp;
+      Anr</a>. 2007 Cr.L.J. (SC) 3214: 2007 (7) SCR 326 (emphasis supplied)). Thus, in the
+      absence of any contrary evidence, it can be deemed that the notice was served upon the
+      accused. Further the provisions of <a href="/doc/147127/" id="a_37">Section 101</a> of the Evidence Act provide that the
+      burden of proof of the facts rests on the party who substantially asserts it and not on the
+      party who denies it. In fact, burden of proof means that a party has to prove an allegation
+      before he is entitled to a judgment in his favour. <a href="/doc/192696/" id="a_38">Section 103</a> provides that burden of proof
+      as to any particular fact lies on that person who wishes the court to believe in its existence,
+      unless it is provided by any special law that the proof of that fact shall lie on any particular
+      person. The provision of <a href="/doc/192696/" id="a_39">Section 103</a> amplifies the general rule of <a href="/doc/147127/" id="a_40">Section 101</a> that the
+      burden of proof lies on the person who asserts the affirmative of the facts in issue. In the
+      present case as well, the onus was upon the accused to establish that the notice was not
+      served upon him, but no cogent evidence was brought by the accused to prove the same.
+</p>
+<p id="p_27">20.   Thus, in the present case, the accused was not able to sufficiently rebut the presumption
+      lying in favour of the complainant. The ambiguities, discrepancies and contradictions in
+      the depositions of the accused and the defence witnesses at various places further weaken
+      the defence of the accused. The accused and the defence witnesses could also not
+      substantiate their averments by way of documentary evidence. In view of the material on
+      record, submissions of the Counsel for both sides, the admission by the accused of the
+      signatures on the cheque in question as well as the prima facie evidence of the dishonour
+      of the cheque in question for the reason "Funds Insufficient" and, above all, the
+
+<span class="hidden_text" id="span_12">02406R0744832006                               -12-</span>
+                               Kamlesh Kumari v. Satya Bhan Sharma
+
+      presumption of the law lying in favour of the complainant, I am of the considered view
+      that the the ingredients for offence under <a href="/doc/1823824/" id="a_41">section 138</a> of Negotiable Instruments Act stands
+      proved and the complainant has proved its case beyond reasonable doubt as against the
+      accused. Accused has clearly failed to rebut the presumption of law. Apart from not
+      raising a probable defence, accused was also not able to contest the existence of a legally
+      enforceable debt or liability. I, therefore, hold accused Satya Bhan Sharma, guilty of the
+      offence under <a href="/doc/1823824/" id="a_42">Section 138</a> of Negotiable Instruments Act. Accused is convicted.
+</p>
+
+<p id="p_28">Pronounced in open court.
+</p><pre id="pre_2">Dated: 09.10.2012                                     (Ms. ANKITA LAL)
+                                                      MM (NI Act)-01, South-East,
+                                                      Saket Courts, New Delhi.
+
+
+
+
+<span class="hidden_text" id="span_13">02406R0744832006                            -13-</span>
+                                  Kamlesh Kumari v. Satya Bhan Sharma
+
+        IN THE COURT OF MS. ANKITA LAL, MM (NI ACT)-01, SOUTH-EAST,
+                        SAKET COURTS, NEW DELHI
+                                                              CC No. 951/10
+Ms. Kamlesh Kumari
+W/o Sh. B.N. Sharma,
+R/o A-3, MCD Flats, S.N. Puri,
+New Delhi.
+                                                                                . . . Complainant
+
+                      Vs.
+
+Satya Bhan Sharma
+R/o Raman Bhardwaj,
+R/o House No. 780 (Behind Kuber Building),
+Near Tubewell No.4, Village Maidangarhi,
+New Delhi.
+                                                                                    . . . Accused
+
+                                     ORDER ON SENTENCE
+
+</pre><p id="p_29">Present : Sh.M.R. Sisodia, Counsel for the complainant alongwith complainant in person
+          Sh.Gagandeep Singh, Counsel for the accused alongwith accused in person
+
+       Accused Satya Bhan Sharma has been convicted for the offence punishable u/s 138 of <a href="/doc/1132672/" id="a_43">N.I.
+Act</a> vide judgment dated 09.10.2012. I have heard Ld. Counsel for complainant as well as Ld.
+Counsel for the accused on the sentencing of the accused.
+</p>
+<p id="p_30">       Ld. Counsel for the accused submits that the accused is the sole bread earner of the family
+and a family to take care of. It is further submitted that the accused has small children to look-
+after and is also liable to maintain his wife. It is further submitted that the accused has never been
+involved in any litigation in past and has absolutely clean antecedents. Ld. Counsel for the
+accused prays that considering family background of the accused, his socio-economic status and
+the nature of the offence, and the fact that he was only a victim of the circumstances, a lenient
+view may be taken towards the accused and he be released on fine only.
+</p>
+<p id="p_31">       Ld. Counsel for the complainant has argued that great inconvenience and harassment has
+been suffered by the complainant in contesting the present complaint. A lot of expense has been
+
+<span class="hidden_text" id="span_14">02406R0744832006                               -14-</span>
+                                Kamlesh Kumari v. Satya Bhan Sharma
+
+suffered by the complainant in terms of money and time. It is also argued that the trial has
+stretched for more than 6 years and the complainant has suffered great hardship in prosecuting
+the present complaint. It is further argued that since the cheque amount is also huge and also
+since the accused never made any efforts to compound the matter, therefore, it is prayed that
+stricter punishment be imposed upon the accused, so as to create a deterrent effect in such
+offences.
+</p>
+<p id="p_32">       I have perused the record of this case and after considering the submissions of both the
+counsels, I am of the view that keeping in mind the age of the accused, his family background,
+his antecedents, the nature of the offence, facts of the present case, the conduct of the accused
+during the entire course of the trial and at the same time balancing the interests of both the
+parties, I deem it proper to impose a sentence of fine of Rs. 5,50,000/- upon the accused and
+a simple imprisonment for a period of three months. The entire fine shall be paid as
+compensation to the complainant. In default of payment of fine, the accused shall be liable
+to undergo a Simple Imprisonment of one month in addition to the substantive
+imprisonment.
+</p>
+<p id="p_33">       Bail Bond of Accused Satya Bhan is cancelled. Surety is discharged. Endorsements, if any
+be cancelled. Documents, if any, be returned.
+</p>
+<p id="p_34">       Copy of this order as well as the copy of judgment be given to the accused immediately,
+free of cost.
+</p>
+
+<pre id="pre_3">Pronounced in open court.                              (MS. ANKITA LAL)
+Dated: 15.10.2012                                      MM (NI Act)-01, South-East,
+                                                       Saket Courts, New Delhi.
+
+
+
+
+<span class="hidden_text" id="span_15">02406R0744832006                                -15-</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

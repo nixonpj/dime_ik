@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>In Re: Narayanasami Naiker And ... vs Unknown on 17 January, 1912</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/959442/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:959442">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1914745/">Section 107 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1687975/">Section 167 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/815602/">Polaki Chidambaram vs Emperor on 13 November, 1929</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1106740/">Section 344 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/banner-lawsikho-flying.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/959442/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/959442/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20107">section 107</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sections%20496">sections 496</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bailable%20and%20non%20bailable%20offence">bailable and non bailable offence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=non%20bailable%20offence">non bailable offence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bailable%20offence">bailable offence</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bailable">bailable</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20%20%20%20%20emperor">     emperor</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">In Re: Narayanasami Naiker And ... vs Unknown on 17 January, 1912</div><div class="doc_citations">Equivalent citations: (1912) 22 MLJ 357</div>
+
+<p id="p_1">ORDER
+ 
+
+</p><p id="p_2">1. This is an application for bail The petitioners were arrested by the Police under Section 151, Cr. P.C., on the ground that the police apprehended that they were about to commit house-breaking and theft. The petitioners were produced before the Sub-Magistrate of Udumulpet He was of opinion that proceedings should be instituted against the petitioners under <a href="/doc/978569/" id="a_1">Section 10</a> of the Criminal Procedure Code, to take security from them for keeping the peace and sent them up to the Joint-Magistrate of Pollachi. The Joint-Magistrate before whom proceedings under <a href="/doc/1914745/" id="a_2">Section 107</a> were pending, considered it necessary to detain them in custody pending the proceedings, and he rejected their application to release them on bail. The Sessions Court of Coimbatore also dismissed an application made to it for bail. It is contended, before us, that the Joint-Magistrate was bound to release the petitioners on bail and that he had no discretion to refuse to do so. It is also urged that he if he had such discretion, the circumstances of the case did not justify his refusal of bail. The Joint-Magistrate has given very good reasons for his opinion that it was necessary to detain the petitioner in custody until the completion of the enquiry under <a href="/doc/1914745/" id="a_3">Section 107</a> and the Sessions Judge has concurred in that opinion. We are unable to say that the discretion has been exercised wrongly, if the Magistrate was not bound to discharge the petitioners on bail. The question, therefore, for our decision is whether he was bound to do so. Mr. Rangachariar, for the petitioners, relies on <a href="/doc/445276/" id="a_4">Section 496</a> of the Criminal Procedure Code which, according to him, entitles any person (other than a person accused of a non-bailable offence) who appears or is brought up before a court to be released on bail. We agree that the petitioner would be en-titled to bail undef this section, if there were no other sections disentitling him to it, but <a href="/doc/1914745/" id="a_5">Section 107</a>, Cl. (4) provides that a Magistrate before whom a person is sent under that section " may in his discretion detain such person in custody until the completion of the enquiry hereinafter prescribed." The petitioner in this case was admittedly a person sent under the section to the Joint-Magistrate. The clause expressly gives power to the Magistrate to detain the person in custody until the completion of the enquiry. The contention on behalf of the petitioner is that this provision must be taken to be qualified by <a href="/doc/445276/" id="a_6">Section 496</a>. It is argued for the Crown, on the other hand, that the general provision in <a href="/doc/445276/" id="a_7">Section 496</a> must be taken to be subject to the special provisions contained in Cl. (4) of <a href="/doc/1914745/" id="a_8">Section 107</a>. Mr. Rangachariar contends that the rule laid down in <a href="/doc/445276/" id="a_9">Section 496</a> is intended to give an absolute right of bail in all cases where an accused person is in custody, whether under an order of court or otherwise, but this contention appears to us to be untenable. <a href="/doc/1106740/" id="a_10">Section 344</a> lays down that in cases where it becomes necessary or advisable to postpone the commencement of or adjourn any enquiry or trial, the court may, by a warrant, remand the accused, if in custody. The explanation to the section provides that, if sufficient evidence has been obtained to raise a suspicion that the accused may have committed the offence, and it appears likely that further evidence may be obtained by a remand, this is a reasonable cause for a remand. It will be observed that the explanation refers to cases where further evidence may be obtained by a remand, the object of the remand being to obtain further evidence. It cannot be held that an accused person is entitled to bail where he is remanded under this provision, for to allow bail in such a case would frustrate the very object for which the remand is ordered by the court. A similar observation would apparently apply where an order for remand is made under Cl. (2) of <a href="/doc/1687975/" id="a_11">Section 167</a>. It cannot, therefore, be held that <a href="/doc/445276/" id="a_12">Section 496</a> gives an absolute right to bail to any person who appears or is brought up before a court and is not charged with a non-bailable offence, but it must be read along with any other provision giving a special right of detention to a court, and Cl. (4) of <a href="/doc/1914745/" id="a_13">Section 107</a>.gives such special power. That provision may be compared with <a href="/doc/366823/" id="a_14">Section 337</a>, Cl. (3), which gives a Magistrate tendering a pardon to an approver the power to detain him in custody until the termination of the trial by the Court of Sessions or High Court. The power is qualified by restricting it to cases where an approver is not on bail, but no such qualification is made in <a href="/doc/1914745/" id="a_15">Section 107</a>. It is no doubt true that a person charged with a non-bailable offence is, except in cases falling within <a href="/doc/595513/" id="a_16">Sections 334</a> and <a href="/doc/1687975/" id="a_17">167</a>, entitled to bail, but the same considerations are not necessarily applicable to the two cases. The object of detaining in custody a person charged with an offence is generally to secure his appearance for being dealt with according to law on the charge made against him, and the taking of bail would secure that object ; but in cases of proceedings under <a href="/doc/1914745/" id="a_18">Section 107</a>, taken for the purpose of preventing a person from committing a breach of the peace, the legislature may have regarded it as necessary to take steps to prevent him from doing so before the Magistrate decides whether it is necessary to take security from him. This object would not be secured by merely securing his appearance at the enquiry to be made under the section. There may be cases where a person charged under <a href="/doc/1914745/" id="a_19">Section 107</a> may appear to be so dangerous a character, that it would be desirable to detain him in custody until the enquiry against him is completed. Mr. Rangachariar points out that no provision for such detention is made, where a person charged under <a href="/doc/1914745/" id="a_20">Section 107</a> is not sent up to the enquiring Magistrate by another Magistrate, but the enquiring Magistrate himself orders the arrest of the person charged. It is no doubt true that <a href="/doc/989759/" id="a_21">Section 114</a> only empowers the Magistrate to order the arrest of the person concerned, and does not provide that he may detain him in custody until the completion of the enquiry ; but assuming that a person so arrested is entitled to be released on bail under <a href="/doc/445276/" id="a_22">Section 496</a>, we do not think that this anomaly is sufficient to justify us in not giving effect to the clear words of <a href="/doc/1914745/" id="a_23">Section 107</a>, Cl. (4), which entitle the Magistrate to detain the person concerned in custody in cases to which that clause is applicable. The question is not covered by any previous decision. It was left expressly undecided in <a href="/doc/815602/" id="a_24">Chidambaram Pillai v. The Emperor</a> (1908) I.L.R. 31 M. 315. <a href="/doc/699845/" id="a_25">In Merwa Lal Thakur v. The Emperor</a> (1906) 11 C.W.N. 415 all that was held was that bail cannot be demanded from a person against whom proceedings under <a href="/doc/1914745/" id="a_26">Section 107</a> are contemplated but no proceedings have been drawn up or issued. <a href="/doc/1485991/" id="a_27">In Raghunandan Pershad v. The Emperor</a> (1904) I.L.R. 32 C. 80 the Calcutta High Court held that, except in the special circumstances referred to in Cls. (3) and (4) of <a href="/doc/1914745/" id="a_28">Section 107</a>, and which were admittedly not applicable to that case, the law did not empower a Magistrate to detain a person in custody until the completion of the enquiry, and that the Magistrate was bound to grant bail. On the whole, we are of opinion that in this case the Joint-Magistrate had the right to refuse to enlarge the petitioner on bail and we, therefore, dismiss this petition.
+</p>
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

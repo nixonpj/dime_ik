@@ -1,0 +1,1918 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs State Of Gujarat on 27 March, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/188975849/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 33 docs 
+      
+        - [<A HREF="/search/?formInput=cites:188975849">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1953529/">The Indian Evidence Act, 1872</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/844968/">Section 412 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/958439/">Section 396 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1119707/">Section 395 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/188975849/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/188975849/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/188975849/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs State Of Gujarat on 27 March, 2018</div><pre id="pre_1"> IN THE COURT OF SHRI KULDEEP NARAYAN
+ADDITIONAL SESSIONS JUDGE (PILOT COURT)
+    WEST: TIS HAZARI COURTS: DELHI
+
+SC No.56107/16
+FIR No. 230/11
+U/s. 302/201/395/396/412 <a href="/doc/1569253/" id="a_1">IPC</a>
+P.S Mundka
+
+
+  In the matter of :
+
+                        State
+
+                         versus
+
+                1.      Harender Passi
+                        S/o Ram Kishan
+                        R/o Village Farsar, Tehsil
+                        Gola PS Balhar Ganj,
+                        District Gorakhpur, U.P
+
+                2.      Haripal Singh @ Palalu
+                        S/o Laxmi Singh
+                        R/o Village Maulapur, Tehsil
+                        Jiyan Pur, Bilaryaganj
+                        District Azamgarh, U.P
+
+                3.      Sugreev Paswan
+                        S/o Ram Mangal Paswan
+                        R/o Village Riyav, Tehsil
+                        Bass Gaon PS Gagha
+                        District Gorakhpur, UP
+
+
+
+
+Sessions Case No. 56107/16                      Page 1/58
+                 4.      Birja
+                        S/o Ram Lakhan
+                        R/o Village Marhat, Tehsil
+                        Gola, PS Balhar Ganj
+                        District Gorakhpur, U.P.
+
+                5.      Vinod
+                        S/o Ram Nath
+                        R/o Village Singhera
+                        PS Mardha District Gazipur, U.P.
+
+                6.      Manoj
+                        S/o Ram Pyare
+                        R/o Village Farsar Tehsil Gola
+                        PS Balhar Ganj
+                        District Gorakhpur, U.P
+
+Date of Institution        : 13.04.2012
+Date of reserving Judgment : 15.03.2018
+Date of pronouncement      : 27.03.2018
+
+Appearances:
+For the State                  : Ms. Reeta Sharma,
+                                 Additional Public Prosecutor.
+
+For the accused persons : Shri Tanvir Qaiser, Advocate
+namely Hari Pal, Vinod
+and Manoj
+
+For the accused persons        : Shri Arun Rathi, Advocate.
+namely Sugreev Paswan
+and Birja
+
+For accused namely,            : Shri Kaptan Singh, Advocate.
+Harender Passi
+
+Sessions Case No. 56107/16                     Page 2/58
+ JUDGMENT
+</pre>
+
+<p id="p_1">        Accused persons namely, Harender Passi son
+of Ram Kishan aged 22 years, Haripal Singh @
+Palalu son of Laxmi Singh aged 21 years, Sugreev
+Paswan son of Ram Mangal Paswan aged 21 years,
+Vinod son of Ram Nath aged 22 years and Manoj
+son of Ram Pyare aged 25 years were sent up for
+trial on the basis of report under <a href="/doc/1412034/" id="a_2">Section 173</a> of the
+Code of Criminal Procedure, 1973 (<a href="/doc/445276/" id="a_3">Cr.P.C</a>) i.e.
+chargesheet        submitted    on     02.04.2012    and
+supplementary           charge-sheet    submitted     on
+02.07.2012 upon conclusion of investigation into
+First Information Report (FIR) no. 230/2011 of
+police station (PS) Mundka for the offences
+punishable under Sections 302/201/395/396 of the
+Indian Panel Code, 1860 (<a href="/doc/1569253/" id="a_4">IPC</a>). Accused namely,
+Birja son of Ram Lakhan aged 37 years was sent up
+for trial for the offence punishable under <a href="/doc/844968/" id="a_5">section
+412</a> IPC.
+</p>
+
+
+
+<p id="p_2">Sessions Case No. 56107/16                      Page 3/58
+ Prosecution Version:
+</p><p id="p_3">2.      According to the prosecution story, vide
+Daily Diary (DD) No. 17A dated 23.12.2011, an
+information regarding theft of oil drums from Tyre
+Wali Gali Mundka, was received. A copy of the
+above DD was handed over to SI Dinesh Kumar
+who alongwith Ct. Vishram Meena reached at the
+place of occurrence i.e. godown under the name
+and style of Industrial Oil &amp; Chemicals situated at
+Tyre Wali        Gali, Mundka. Complainant namely,
+Rajesh Garg s/o Ram Rattan resident of E-16,
+Bhagwan Dass Nagar, Delhi met on the spot who
+stated that he was doing the business of used
+transformer oil. His above-mentioned godown was
+being looked after by a security guard namely,
+Arjun Mehto @ Baba s/o Dev Dhari Mehto. On
+23.12.2011 in the morning, when the complainant
+reached his godown, he found that security guard
+namely, Arjun Mehto was not present in the
+godown and 60 drums containing the oil were also
+missing from the godown. On the basis of the
+statement of the complainant namely Rajesh Garg,
+case FIR no. 230/11 dated 23.10.201 u/s 408 <a href="/doc/1569253/" id="a_6">IPC</a>
+
+Sessions Case No. 56107/16                 Page 4/58
+ was registered. The place of incident was got
+inspected and photographed by the crime team. A
+blood stained shawl, an empty bottle (half) of
+Goldee Whisky, an iron chain and a blade were
+taken into possession from the spot and seized by
+SI Dinesh. During investigation, on 06.01.2012 on
+the secret information, Harender Passi, Haripal
+Singh @ Palalu and Sugreev Paswan were
+apprehended from Mundka Industrial Area. On
+interrogation, all of them disclosed that in the
+intervening night of 22/23.12.2011 they, alongwith
+their two associates namely Vinod and Manoj,
+made a plan for committing theft and entered in the
+above-said       godown      of   Rajesh   Garg.      They
+overpowered the chowkidar namely, Arjun Mehto
+and murdered him. Thereafter they stole 60 drums
+of oil by loading the same in a tempo. They threw
+the dead body of chowkidar Arjun Mehto into a
+septic tank of a plot which was situated in the same
+street.
+</p><p id="p_4">3.        Further investigation of the case was handed
+over to Investigating Officer (I.O) Inspector
+Ramesh Chander.              Accused persons namely,
+Harender Passi, Haripal Singh @ Palalu and
+
+Sessions Case No. 56107/16                         Page 5/58
+ Sugreev Paswan led the police to the above-said
+septic tank and dead body of chowkidar Arjun
+Mehto (deceased) was found in it which was taken
+out from the septic tank. Accused persons namely
+Harender Passi, Haripal Singh @ Palalu and
+Sugreev Paswan were arrested in the present case
+by the IO.          The dead body of Arjun Mehto
+(deceased) was sent to the mortuary of Sanjay
+Gandhi       Memorial        Hospital   for   postmortem
+examination. The case property i.e. 60 oil drums
+were also recovered at the instance of accused
+persons. The receiver of the stolen property i.e.
+accused Birja was also arrested.
+</p><p id="p_5">4.      On 21.04.2012, accused Vinod surrendered
+before the court and thereafter on 17.05.2012,
+accused Manoj also surrendered before the court.
+Subsequently, a supplementary chargesheet was
+filed qua both the afore-said accused persons on
+02.07.2012.
+</p>
+
+<p id="p_6">Charge:
+</p><p id="p_7">5.      On 24.09.2012, after hearing the learned
+Additional Public Prosecutor for the State and the
+learned counsel for the accused persons, charge was
+
+Sessions Case No. 56107/16                       Page 6/58
+ framed against the accused persons namely,
+Harender Passi, Hari Pal Singh, Sugreev Paswan,
+Vinod and Manoj for commission of offences
+punishable        under <a href="/doc/1560742/" id="a_7">section 302</a>/<a href="/doc/386021/" id="a_8">201</a>/<a href="/doc/37788/" id="a_9">34</a> IPC and
+under <a href="/doc/1119707/" id="a_10">section 395</a>/<a href="/doc/958439/" id="a_11">396</a> IPC. Vide same order,
+charge was also framed against accused Birja for
+commission of offence punishable under <a href="/doc/844968/" id="a_12">section
+412</a> IPC.
+</p><p id="p_8">6.      Separate charges so framed were read over
+and explained to the accused persons to which they
+all did not plead guilty and claimed trial.
+</p>
+
+<p id="p_9">Prosecution Witnesses:
+</p><p id="p_10">7.      To bring home the afore-mentioned charges
+to the accused persons, the prosecution got
+examined Dr. Manoj Dhingra (PW-1), HC Daya
+Chand (PW-2), Ct. Suman (PW-3), Raj Nath (PW-
+</p><p id="p_11">4), HC Sudesh (PW-5), Rajesh Garg (PW-6),
+Ranjan Kumar (PW-7), Omvir Lakra (PW-8), SI
+Azad Singh (PW-9), HC Surender (PW-10), HC
+Udham Singh (PW-11),          HC Devender Kumar
+(PW-12), SI Kalyan Singh (PW-13), ASI Satyawan
+(PW-14), SI Dinesh (PW-15), Inspector Mahesh
+Kumar (PW-16), Ct. Vishram (PW-17), Ct. Neeraj
+
+Sessions Case No. 56107/16                    Page 7/58
+ Kumar (PW-18), HC Mohinder Singh (PW-19), HC
+Ashok (PW-20), Dr. Dhruv Sharma (PW-21), Ct.
+Madan Lal (PW-22) and ACP Ramesh Chander
+(PW-23).
+</p>
+
+<p id="p_12">Documentary Evidence:
+</p><p id="p_13">8.      The prosecution also relied on following
+documents, tendered into evidence i.e postmortem
+examination report (Ex.PW-1/A), computerized
+copy of FIR (Ex.PW-2/A), endorsement on rukka
+(Ex.PW-2/B), certificate u/s 65 B of the Indian
+Evidence Act, 1872 (for short, <a href="/doc/1953529/" id="a_13">Evidence Act</a>)
+(Ex.PW-2/C), Police Control Room (PCR) form
+(Ex.PW-3/A), recovery memo of dead body
+(Ex.PW-4/A), death report (Ex.PW-4/B), DD entry
+no. 17A dt. 23/12/2011 (Ex.PW-5/A), statement of
+complaiant (Ex.PW-6/A), site plan (without scale)
+(Ex.PW-6/B), seizure memo of empty half liquor
+bottle (Ex.PW-6/C), seizure memo of one shawl
+(Ex.PW-6/D), seizure memo of one iron chain, lock
+and iron cutter (aari) (Ex.PW-6/E), pointing out
+memo of dead body (Ex.PW-6/F), seizure memo of
+sixty oil drums (Ex.PW-6/G), seizure memo of
+bill / invoice of the transformer oil (Ex.PW-6/H),
+
+Sessions Case No. 56107/16                Page 8/58
+ Tax invoice of transformer oil (Ex.PW-6/J),
+indemnity bond (Ex.PW-6/K), receipt of dead
+body(Ex.PW-7/A), scene of crime report (Ex.PW-
+9/A), negatives of the photographs of the spot
+(Ex.PW-10/A1 to Ex.PW-10/A11), photographs of
+the    spot     (Ex.PW-10A12    to     Ex.PW-10/A22),
+negatives of the photographs of septic tank from
+where the dead body was taken out (Ex.PW-12/A1
+to Ex.PW-12/A24), photographs of septic tank from
+where the dead body was taken out (Ex.PW-12/A25
+to Ex.PW-12/A48), scene of crime report of septic
+tank from where the dead body was recovered
+(Ex.PW-13/A), arrest memo of accused Harender
+Passi(Ex.PW-14/A), arrest memo of accused Hari
+Pal Singh (Ex.PW-14/B), arrest memo of accused
+Sugreev (Ex.PW-14/C), personal search memo of
+accused Harender Passi (Ex.PW-14/D), site plan of
+the place from where the dead body was recovered
+(Ex.PW-14/D1), personal search memo of accused
+Hari Pal (Ex.PW-14/E), personal search memo of
+accused Sugreev (Ex.PW-14/F, disclosure statement
+of     accused      Harender   Passi    (Ex.PW-14/G),
+disclosure statement of accused Hari Pal (Ex.PW-
+14/H), disclosure statement of accused Sugreev
+
+Sessions Case No. 56107/16                    Page 9/58
+ (Ex.PW-14/I), arrest memo of accused Birja
+Paswan (Ex.PW-14/J), disclosure statement of
+accused Birja (Ex.PW-14/K), rukka (Ex.PW-15/A),
+personal search memo of accused Birja Paswan
+(Ex.PW-15/A), scaled site plan of both places
+(Ex.PW-16/A), seizure memo of viscera (Ex.PW-
+19/A), seizure memo of blood guaze piece and
+clothes (Ex.PW-19/B), entry at serial no. 342/11 in
+register no. 19 (Ex.PW-20/A), entry at serial no.
+178/12 in register no. 19 (Ex.PW-20/B), entry at
+serial no. 182/12 in register no. 19 (Ex.PW-20/C),
+RC no. 101/21/12 pertaining to viscera and sample
+seal of hospital (Ex.PW-20/D), RC no. 102/21/12
+pertaining       to    other     articles   (Ex.PW-20/E),
+acknowledgment of depositing the case property ie.
+three         sealed           parcels      (Ex.PW-20/F),
+acknowledgment of depositing the case property
+i.e.     one sealed wooden box (Ex.PW-20/G),
+biological report (Ex.PW-21/A), serological report
+(Ex.PW-21/B), arrest memo of accused Manoj
+Kumar (Ex.PW-22/A), filled up inquest form
+(Ex.PW-23/A), site plan of the place from where
+the oil drums were recovered (Ex.PW-23/B1),
+identification statement of dead body by Ranjan
+
+Sessions Case No. 56107/16                        Page 10/58
+ Kumar (Ex.PW-23/C), identification statement of
+dead body by Navin Kumar (Ex.PW-23/D), site
+plan from where the oil drums were recovered
+(Ex.PW-23/D1),               request   for      postmortem
+examination        (Ex.PW-23/E),       arrest   memo     of
+accused Vinod Singh (Ex.PW-23/F), personal
+search memo of accused Vinod Singh (Ex.PW-
+23/G), disclosure statement of accused Vinod Singh
+(Ex.PW-23/H), pointing out memo of the place of
+incident where murder was committed and sixty oil
+drums       were stolen (Ex.PW-23/J), pointing out
+memo of the septic tank where dead body was
+thrown (Ex.PW-23/K), pointing out memo of the
+spot where stolen sixty oil drums were kept
+(Ex.PW-23/L), personal search memo of accused
+Manoj Kumar (Ex.PW-23/M) and photographs of
+the oil drums (Ex.P1 to P3).
+</p>
+
+<p id="p_14">Statements of Accused Persons:
+</p><p id="p_15">9.      After conclusion of prosecution evidence, on
+19.08.2016, statements of accused persons under
+<a href="/doc/767287/" id="a_14">Section 313</a> Cr.P.C were recorded wherein they
+denied the correctness of all the incriminating
+circumstances appearing in the evidence against
+
+Sessions Case No. 56107/16                         Page 11/58
+ them and stated that they were falsely implicated
+by the IO in order to solve a blind and clueless
+case.
+</p><p id="p_16">10.     None of the accused persons desired to lead
+evidence in his defence and accordingly, case was
+listed for final arguments.
+</p>
+
+<p id="p_17">Final Arguments:
+</p><p id="p_18">11.     I heard the arguments advanced by Ms. Reeta
+Sharma, learned Additional Public Prosecutor for
+the State,      Shri Arun Rathi, learned counsel for
+accused persons namely, Sugreev Paswan and
+Birja, Shri Kaptan Singh, learned counsel for
+accused Harender Passi and Shri Tanvir Qaiser,
+learned counsel for accused persons namely,
+Haripal, Vinod &amp; Manoj. I also perused the entire
+material available on record.
+</p><p id="p_19">12.     During the course of arguments, learned
+Additional Public Prosecutor argued that present is
+a case based on circumstantial evidence and the
+prosecution successfully proved the complete chain
+of circumstances to prove the guilt of the accused
+persons. Further, initially the case was registered
+under <a href="/doc/1131784/" id="a_15">section 408</a> IPC therefore, no ill will can be
+
+Sessions Case No. 56107/16                   Page 12/58
+ imputed on the part of the IO of the case. All the
+prosecution witnesses deposed consistently and
+except some minor contradictions which are bound
+to occur, there are no material contradictions in the
+testimonies        of    prosecution   witnesses.    Ld.
+Prosecutor further argued that the dead body of the
+deceased as well as the stolen 60 oil drums were
+recovered at the instance of accused Harender
+Passi, Hari Pal Singh and Sugreev Paswan which
+are admissible under <a href="/doc/1312051/" id="a_16">section 27</a> of the Evidence
+Act. The accused persons were also duly identified
+by prosecution witnesses though PW-4 wrongly
+identified accused Manoj but the same is not fatal
+to the prosecution's case as other PWs correctly
+identified the accused persons. Further, the
+prosecution proved the motive i.e. commission of
+robbery on the part of the accused persons. No
+suggestion was put to any public witness about any
+enmity with the accused persons. Ld. Prosecutor
+further argued that as per settled law, joint recovery
+and joint disclousers are permissible in law. Lastly,
+the learned Prosecutor argued that the prosecution
+successfully proved its case beyond all reasonable
+doubts and all the accused persons deserve
+
+Sessions Case No. 56107/16                      Page 13/58
+ conviction. Learned Prosecutor also relied on
+<a href="/doc/67635539/" id="a_17">Kishore Bhadke v. State of Maharashtra</a> decided by
+the Apex Court on 03.01.2017 in criminal appeal
+no. 467/<a href="/doc/73296/" id="a_18">2010, B.K.Channappa v. State of Karnataka</a>
+2006 (12) SCC 57, <a href="/doc/1160561/" id="a_19">Simon &amp; Ors v. State of
+Karnataka</a>       decided by the Apex Court on
+29.01.2004 in criminal appeal no. 149-150 of 2002
+and <a href="/doc/607546/" id="a_20">Pradeep @ Sanjay &amp; Anr v. State</a> decided by
+Delhi High Court on 02.05.2011 in criminal appeal
+no. 09/1998
+</p><p id="p_20">13.     Per contra, learned defence counsel argued
+that there are not sufficient evidence available on
+record against the accused persons and the
+testimonies        of        prosecution   witnesses   are
+contradictory with each other. Further, the IO of the
+case did not examine the JCB operator or the plot
+owner where the septic tank was situated. There are
+contradictions in the testimonies of the prosecution
+witnesses regarding identity of the accused persons.
+Further, learned defence counsel submitted that in
+all the cases based on circumstantial evidence, last
+seen evidence is must which is lacking in the
+present case and accordingly, the chain of the
+circumstances pointing towards the guilt of the
+
+Sessions Case No. 56107/16                        Page 14/58
+ accused persons is not complete. He also argued
+that joint recoveries are not permissible in law
+which raises doubts on the entire prosecution story.
+Learned       defence        counsel   also   filed   written
+submissions and relied on Nathiya v. State Rep. By
+Inspector of police AIR 2016 Supreme Court 5110,
+<a href="/doc/186041597/" id="a_21">Jose @ Pappachan v. Sub Inspector of Police
+Koyilandy &amp; Anr</a> AIR 2016 Supreme Court 4581,
+Rambraksh @ Jalim v. State of Chhatisgarh 2016
+(2) Crimes 231 (<a href="/doc/40369077/" id="a_22">SC),             Vijay Thakur v. State of
+Himachal Pradesh</a> 2014 Cr.L.J 4906 (<a href="/doc/609016/" id="a_23">SC), Ravinder
+Parkash &amp; Anr v. State of Haryana</a> AIR 2002 SC
+3494 and <a href="/doc/955616/" id="a_24">Kishore Chand v. State of Himachal
+Pradesh</a> AIR 1990 Supreme Court 2140 in support
+of his contentions.
+</p><p id="p_21">14.     I have given my thoughtful consideration to
+the submissions of both sides.
+</p>
+<p id="p_22">Points for Determination:
+</p><p id="p_23">15.     In view of the facts and circumstances of the
+case and the submissions advanced on both sides,
+following points for determination are emerging in
+the present case :-
+</p>
+
+
+<p id="p_24">Sessions Case No. 56107/16                            Page 15/58
+</p><p id="p_25">      1. Whether the dead body recovered in the
+     present case was of Arjun Mehto @ Baba
+     (deceased) s/o Dev Dhari Mehto r/o Village
+     Meghai PS Deep Nagar District Nalanda,
+     Bihar ?
+</p>
+<p id="p_26">     2. Whether the deceased sustained injuries
+     on his person which were sufficient to
+     cause death in ordinary course of nature?
+</p>
+<p id="p_27">     3. Whether the death of the deceased was
+     homicide?
+</p>
+<p id="p_28">     4. Whether all the accused persons except
+     accused Birja inflicted such injuries on the
+     person of the deceased?
+</p>
+<p id="p_29">     5. Whether all the accused persons except
+     accused Birja committed dacoity at the
+     godown of the complainant Rajesh Garg
+     situated at Marwari Tyre Wali Gali,
+     Mundka, Delhi?
+</p>
+<p id="p_30">     6. Whether all the accused persons except
+     accused Birja, while committing the said
+     dacoity, also committed murder of the
+     deceased.
+</p>
+<p id="p_31">     7. Whether all the accused persons except
+     accused Birja caused the evidence of the
+     commission of offence disappear?
+</p>
+<p id="p_32">     8. Whether accused Birja dishonestly
+     received or retained the stolen property,
+     knowing the possession thereof to have
+
+Sessions Case No. 56107/16                   Page 16/58
+       been transferred by the commission of
+      dacoity or received from all other accused
+      persons having reason to believe that all
+      other accused persons belonged to a gang
+      of dacoits?
+</p>
+
+<p id="p_33">Testimonies of prosecution witnesses:
+</p><p id="p_34">16.     To prove the afore-mentioned charges against
+the accused persons, the prosecution got examined
+23 witnesses in all. For the sake of convenience, a
+brief description of         the testimonies of all        the
+prosecution witnesses in tabular form is as under :-</p><pre id="pre_2">
+
+
+ Sl. No.    Name of    Nature of testimony   Documentary
+ of PW       PW                               Evidence
+ PW-1      Dr. Manoj   Conducted        the Ex.PW-1/A
+           Dhingra     postmortem
+                       examination on the
+                       dead     body     of
+                       deceased, mentioned
+                       injuries and gave
+                       subsequent opinion.
+ PW-2      HC Daya     Deposed         about Ex.PW-2/A,
+           Nand        registration of FIR Ex.PW-2/B,
+           (Duty       no. 230/11 on the Ex.PW-2/C
+           Officer)    basis of rukka sent
+                       by the initial IO SI
+                       Dinesh Kumar
+ PW-3      Ct. Suman   Deposed        about Ex.PW-3/A
+           (PCR)       receiving the call on
+                       23.12.2011 and its
+                       due transmission.
+ PW-4      Raj Nath    Employer of     the Ex.PW-4/A,
+
+
+Sessions Case No. 56107/16                           Page 17/58
+           (Owner of     deceased in whose Ex.PW-4/B,
+          Vishal        presence dead body Ex.PW-4/DA,
+          Security      of deceased was Ex.PW-4/DB
+          Service)      recovered       on       -
+                        06.01.2012.
+ PW-5     HC Sudesh Deposed         about Ex.PW-5/A
+<span class="hidden_text" id="span_1">          (Duty     lodging DD No. 17</span>
+          Officer)  A dated 23.12.2011
+                    in daily diary.
+ PW-6     Rajesh Garg Deposed        about    Ex.PW-6/B,
+          (owner of   informing the police    Ex.PW-6/C,
+          godown)     about the incident.     Ex.PW-6/D,
+                      Dead      body    of    Ex.PW-6/E,
+                      deceased as well as     Ex.PW-6/F,
+                      the case property       Ex.PW-6/G,
+                      were recovered in       Ex.PW-6/H,
+                      his presence.           Ex.PW-6/J,
+                                              Ex.PW-6/K,
+ PW-7     Ranjan        Identified the dead
+          Kumar         body of deceased in    Ex.PW-7/A
+          (Son of       the    hospital  on
+          deceased)     08.01.2012.
+ PW-8     Omvir         Deposed       about
+          Lakra         giving the plot on
+          (Owner of     rent   to accused
+          plot from     Birja.
+          where
+          stolen oil
+          drums were
+          recovered)
+
+ PW-9     SI Azad       Deposed        about Ex.PW-9/A,
+          Singh         inspecting the place Ex.PW-9/DA
+          (Incharge     of    incident   i.e.
+          crime team)   godown            on
+                        23.12.2011       and
+                        preparation       of
+                        report.
+ PW-10 HC               Deposed      about Ex.PW-10/A1 to
+       Surender         taking photographs Ex.PW-10/A11,
+       (Photograph      of the spot on
+</pre><p id="p_35">       er)              23.12.2011. Proved Ex.PW-10/12 to
+
+
+Sessions Case No. 56107/16                            Page 18/58
+                        negatives         and PW-10/22
+                       photographs.
+</p><pre id="pre_3"> PW-11 HC Udham        Deposed       about
+       Singh           lifting the chance
+       (Finger         print from godown
+       print           on 23.12.2011 and
+       expert)         accompanying the
+                       crime    team    on
+                       06.01.2012 at the
+                       time of recovery of
+                       dead body.
+ PW-12 HC              Deposed        about     Ex.PW-12/A1 to
+       Devender        taking photographs       Ex.PW-12/A24,
+       Kumar           at the time of
+       (Photograph     recovery of dead         Ex.PW-12/A25 to
+</pre><p id="p_36">       er)             body on 06.01.2012.      Ex.PW-12/A48
+ PW-13 SI Kalyan       Deposed        about Ex.PW-13/A
+       Singh           recovery of dead`
+       (Incharge       body in his presence
+       crime team)     on 06.01.2012 and
+                       preparation       of
+                       report.</p><pre id="pre_4">
+ PW-14 HC              Deposed         about    Ex.PW-14/A,
+       Satyawan        apprehending      and    Ex.PW-14/B,
+                       arresting the accused    Ex.PW-14/C,
+                       persons           and    Ex.PW-14/D,
+                       recovery of dead         Ex.PW-14/D1,
+                       body       at    their   Ex.PW-14/E,
+                       instance.                Ex.PW-14/F,
+                                                Ex.PW-14/G,
+                                                Ex.PW-14/H,
+                                                Ex.PW-14/I,
+                                                Ex.PW-14/J,
+                                                Ex.PW-14/K,
+ PW-15 SI Dinesh       Deposed         about Ex.PW-15/A,
+</pre><p id="p_37">                       arresting the accused Ex.PW-15/A
+          (Initial     persons       namely,
+          Investigatio Harender        Passi,
+          n Officer)   Haripal and Sugreev
+                       Pawan              on
+                       06.01.2012        and
+                       recording        their
+
+
+Sessions Case No. 56107/16                              Page 19/58
+                        disclouser
+                       statements.        He
+                       further       arrested
+                       accused Birja, the
+                       receiver of stolen
+                       property and also
+                       seized    the     case
+                       property.</p><pre id="pre_5">
+ PW-16 Inspector       Deposed         about Ex.PW-16/A
+       Mahesh          visiting the scene of
+       Kumar           crime on 14.02.2012
+                       and            taking
+                       measurement       and
+                       handing over the site
+                       plan.
+ PW-17 Ct. Vishram Accompanied         SI
+                   Dinesh on receipt of
+                   PCR       call.    On
+                   directions of SI
+                   Dinesh,     he    had
+                   brought the rukka to
+                   the police station for
+                   registration of FIR.
+ PW-18 Ct. Neeraj      Accompanied        SI
+                       Dinesh.      Deposed
+                       about      arrest of
+                       accused       persons
+                       outside the godown
+                       on 06.01.2012. In
+                       his presence, dead
+                       body of deceased
+                       was recovered from
+                       septic tank.
+ PW-19 HC              Accompanied         SI Ex.PW-19/A,
+       Mohinder        Dinesh.       Deposed Ex.PW-19/B
+       Singh           about       arrest of
+                       accused        persons
+                       outside the godown
+                       on 06.01.2012. In
+                       his presence, dead
+                       body of deceased
+                       was recovered from
+                       septic tank
+
+Sessions Case No. 56107/16                            Page 20/58
+  PW-20 HC Ashok        He sent the case      Ex.PW-20/A,
+       MHC(M)          property to FSL       Ex.PW-20/B,
+                       Rohini           on   Ex.PW-20/C,
+                       25.01.2012 through    Ex.PW-20/D,
+</pre><p id="p_38">                       Ct. Mahender Singh.   Ex.PW-20/E,
+                                             Ex.PW-20/F,
+                                             Ex.PW-20/G,
+ PW-21 Dr. Dhruv       Deposed         about PW-21/A
+       Sharma          biological            Ex.PW-21/B
+       (FSL)           examination        of
+                       three sealed parcels
+                       in connection with
+                       the present case
+ PW-22 Ct. Madan       Accompanied      IO Ex.PW-22/A
+       Lal             Inspector   Ramesh
+                       Chander    to   Tis
+                       Hazari Courts on
+                       17.05.2012     when
+                       accused       Manoj
+                       surrendered before
+                       the Ld. MM.</p><pre id="pre_6">
+ PW-23 ACP           Deposed about the Ex.PW-23/B1,
+       Ramesh        investigation.    Ex.PW-23/C,
+       Chander                         Ex.PW-23/D,
+       (Investigati-                   Ex.PW-23/D1,
+       on Officer)                     Ex.PW-23/E,
+                                       Ex.PW-23/F,
+                                       Ex.PW-23/G,
+                                       Ex.PW-23/H,
+                                       Ex.PW-23/J,
+                                       Ex.PW-23/K,
+                                       Ex.PW-23/L,
+                                       Ex.PW-23/M,
+                                       Ex.P1 to P3
+
+
+</pre><p id="p_39">Decision on Points for determination no. 1, 2 &amp; 3
+</p><p id="p_40">17.     As per the testimony of Ranjan Kumar (PW-
+</p><p id="p_41">7), son of the deceased, the deceased was working
+in Delhi as a security guard. On receiving the
+
+Sessions Case No. 56107/16                           Page 21/58
+ information about his death, PW-7 reached at
+mortuary of SGM Hospital, Mangol Puri, Delhi
+where he identified the dead body vide his
+statement Ex.PW-23/C. He also received the dead
+body of his father vide memo Ex.PW-7/A.
+</p><p id="p_42">18.     Rajnath Yadav (PW-4) who was running a
+business of providing security services from his
+office at Sultan Puri Delhi also identified the said
+dead body to be one of the guards namely, Arjun
+Mehto who was employed with him. The
+complainant Rajesh Garg (PW-6), who was running
+business of oil trading with a godown situated at
+Marwari Tyre Wali Gali behind Metro yards,
+Mundka also identified the said dead body to be of
+security guard Arjun Mehto who was deployed for
+security of the said godown.
+</p><p id="p_43">19.     Dr. Manoj Dhingra (PW-1) had conducted
+postmortem examination alongwith Dr. Deepak
+Sharma on the dead body of Arjun @ Baba s/o
+Dev Dhari Mehto on 08.01.2012. PW-1 found the
+said dead body in a state of decomposition due to
+which it had swollen and greenish colouration was
+found present all over the body. Further, the skin of
+the body was peeling off at places, maggots were
+
+Sessions Case No. 56107/16                   Page 22/58
+ found present on the body. Hair and skin were
+coming out on pulling, teeth were loose and
+marbling of skin was also present.       PW-1 also
+found a laceration of 5x4 cm into bone deep present
+over right frontal region of the head. Internal
+injuries in head, neck and chest and fracture of 2nd
+to 5th ribs on left side and 3rd and 4th rib on right
+side were also found. PW-1 proved the postmortem
+examination report Ex.PW-1/A. The cause of death
+was opined to be due to cerebral damage and
+asphyxia consequent upon the head injury and
+strangulation.
+</p><p id="p_44">20.     In view of the testimonies of above-
+mentioned prosecution witnesses, it is evident that
+the afore-mentioned dead body was of Arjun Mehto
+@ Baba s/o Dev Dhari Mehto. As per postmortem
+examination report Ex.PW-1/A, the deceased had
+died due to cerebral damage and asphyxia on
+sustaining head injury as well as strangulation,
+which establish that the injuries sustained by
+deceased were sufficient to cause death in ordinary
+course of nature. Apparently, the death of the
+deceased was homicidal. As per the prosecution
+case, the dead body was found inside a septic tank
+
+Sessions Case No. 56107/16                   Page 23/58
+ with     injuries     as     mentioned   in   postmortem
+examination report Ex.PW-1/A, therefore, the
+possibility of death of the deceased being
+accidental or suicidal is completely ruled out.
+</p><p id="p_45">21.     The points for determination nos. 1, 2 and 3
+are accordingly decided.
+</p>
+
+<p id="p_46">Decision on Points for Determination no. 4, 5 ,
+6 , 7 and 8.
+</p><p id="p_47">22.     To bring home the guilt to the accused
+persons, the prosecution got examined 23 witnesses
+in all. In order to establish culpability on the part of
+the accused persons, the prosecution sought to
+prove following circumstances:
+</p>
+
+<blockquote id="blockquote_1">        (i). Deceased was employed as a
+        security guard at the godown of the
+        complainant situated in Marwari Tyre
+        Wali Gali, behind Metro yard, Mundka,
+        Delhi.
+</blockquote>
+<blockquote id="blockquote_2">        (ii).   In the intervening night of
+        22/23.12.2011, 60 drums containing
+        transformer oil, stored at the said
+        godown, were stolen.
+</blockquote>
+<blockquote id="blockquote_3">        (iii). The deceased was found missing
+        from the said godown.
+</blockquote>
+<p id="p_48">Sessions Case No. 56107/16                       Page 24/58
+</p><p id="p_49">         (iv). On 06.01.2012, three accused
+        persons namely, Harender Passi, Hari
+        Pal Singh and Sugreev Paswan were
+        arrested on the basis of secret
+        information.
+</p>
+<p id="p_50">        (v). The dead body of the deceased was
+        recovered at the instance of the said
+        accused persons from inside a septic
+        tank in a plot situated near the said
+        godown.
+</p>
+<p id="p_51">        (vi). The stolen 60 drums containing
+        transformer oil were recovered at the
+        instance of the said accused persons
+        which were kept in a plot.
+</p>
+<p id="p_52">        (vii). The said 60 drums containing
+        transformer oil were purchased by
+        accused Birja from the accused persons
+        who had retained them in the said plot.
+</p>
+
+<p id="p_53">23. The afore-mentioned circumstances             are
+analysed under the following heads:
+</p>
+<p id="p_54">(A). Theft of 60 oil drums and missing of
+security guard.
+</p>
+<p id="p_55">24.     As per the testimony of Ranjan Kumar (PW-
+</p><p id="p_56">7), Raj Nath Yadav (PW-4) and Rajesh Garg (PW-
+</p><p id="p_57">6), there is no doubt that the deceased was
+employed as a security guard and was on night duty
+
+Sessions Case No. 56107/16                  Page 25/58
+ on 22.12.2011 at the said godown of the
+complainant. The deposition of PW-4 and PW-6 is
+categorical in this regard. Though PW-4 could not
+produce any document to show that the deceased
+was working with him for the last about 2 years
+from the date of incident, his testimony remained
+intact in this regard. Furthermore, PW-6 in his
+cross-examination also stated that the deceased was
+hired from the security agency and he had also
+documents to show about the employment of the
+deceased as security guard with him. PW-6 further
+stated that he had given the monthly bill of the
+security agency to the police and could also
+produce the same. PW-6 was not asked by the
+learned      defence         counsel   to   produce      those
+documents. PW-6 further stated in categorical terms
+that when he left the godown on 22.12.2011 in the
+evening nobody else except the deceased remained
+present in the godown. The testimony of PW-6
+could not be contradicted in any manner in this
+regard. Rather, one FIR Ex. PW-2/A under <a href="/doc/1131784/" id="a_25">section
+408</a> IPC was got registered by PW-6 vide his
+statement Ex.PW-6/A whereby he raised doubt on
+the deceased who was found missing from the
+
+Sessions Case No. 56107/16                            Page 26/58
+ godown         alongwith      60   drums    containing
+transformer oil when PW-6 reached there on the
+next day.
+</p><p id="p_58">25.     Ct. Suman (PW-3) of PCR, (Headquarter)
+deposed about recording of theft of oil drums in the
+computer network, on 23.12.2011 at about 12.33
+p.m. The said information was transmitted to
+concerned PCR. PW-3 also produced the PCR form
+Ex.PW-3/A in this regard. Further, HC Sudesh
+(PW-5) deposed about receiving wireless message
+from the district control room on 23.12.2011 at
+about 12.40 p.m regarding theft of oil drums which
+was recorded by him vide DD No. 17A (EX.PW-
+5/A). HC Dayanand (PW-2) deposed about
+receiving a rukka from Ct. Vishram on 23.12.2011
+at about 5.45 p.m            on the basis of which he
+registered FIR Ex.PW-2/A under <a href="/doc/1131784/" id="a_26">section 408</a> IPC.
+PW-2 had also made endorsement Ex.PW-2/B on
+the said rukka. Raj Nath Yadav (PW-4)             also
+deposed about the missing of the deceased as well
+as oil drums from the said godown of the
+complainant. SI Azad Singh (PW-9) had reached at
+the said godown alongwith photographer and finger
+print proficient on 23.12.2011 at about 4.05 p.m on
+
+Sessions Case No. 56107/16                    Page 27/58
+ receipt of information from the control room. PW-9
+had inspected the site and prepared his scene of
+crime report Ex.PW-9/A. HC Surender (PW-10)
+also deposed about taking photographs of the scene
+of crime on 23.12.2011 vide photographs Ex.PW-
+10/A12 to Ex.PW-10/A22 with negatives Ex.PW-
+10/A1 to Ex.PW-10/A11. As per the testimony of
+HC Udham Singh (PW-11), who had also
+accompanied ASI Azad Singh (PW-9), one empty
+bottle of plastic with "Goldee" printed on it was
+found lying in between the drums. PW-11 had lifted
+2 chance prints from the same which were sent to
+Bureau for analysis.
+</p><p id="p_59">26.     In view of the testimonies of above-
+mentioned prosecution witnesses, it is established
+that the deceased was indeed employed as a
+security guard at the godown of the complainant
+Rajesh Garg (PW-6) and was on         duty in the
+intervening night of 22/23.12.2011. In the morning
+of 23.12.2011 when PW-6 reached at his godown,
+the deceased as well as 60 drums containing
+transformer oil were found missing. PW-6 reported
+the matter to the police on which FIR Ex.PW-2/A
+
+
+Sessions Case No. 56107/16                Page 28/58
+ under <a href="/doc/1131784/" id="a_27">section 408</a> IPC was registered in police
+station Mundka and investigation was carried out.
+</p><p id="p_60">27.     In view of above-discussed facts and
+circumstances, it is clear that the prosecution
+succeeded in establishing the afore-mentioned
+circumstances no. (i), (ii) and (iii) beyond
+reasonable doubt.
+</p>
+
+<p id="p_61">(B). Arrest of accused persons
+</p><p id="p_62">28.     As far as the arrest of the accused persons
+namely, Harender Passi, Hari Pal Singh and
+Sugreev Paswan is concerned, the testimonies of SI
+Dinesh (PW-15), HC Satyawan (PW-14), Ct.
+Neeraj Kumar (PW-18) and HC Mahender Singh
+(PW-19) are relevant.
+</p><p id="p_63">29.     As per the testimonies of the afore-
+mentioned prosecution witnesses, on 06.01.2012 on
+receipt of secret information the afore-mentioned
+prosecution witnesses reached at Mundka Industrial
+area where accused Harender Passi, Hari Pal Singh
+and Sugreev Paswan were arrested at the instance
+of a secret informer, who were standing infront of
+godown of one Munna Lal . The accused persons
+were arrested vide arrest memo Ex.PW-14/A,
+
+Sessions Case No. 56107/16                 Page 29/58
+ Ex.PW-14/B and Ex.PW-14/C respectively. Their
+personal search was conducted vide memo Ex.PW-
+14/D, Ex.PW-14/E and Ex.PW-14/F. Thereafter,
+PW-15 recorded their disclouser statements Ex.PW-
+14/G, Ex.PW-14/H and Ex.PW-14/I. Further, SHO
+Inspector Ramesh Chand Bhardwaj (PW-23) was
+informed by PW-15 in this regard who also reached
+at the said spot. Complainant Rajesh Garg (PW-6)
+and Raj Nath Yadav (PW-4) were called who also
+reached at the spot.
+</p><p id="p_64">30.     The       testimonies   of   afore-mentioned
+prosecution witnesses regarding receiving secret
+information, proceeding to the Mundka Industrial
+Area in pursuance thereof and arrest of the afore-
+mentioned three accused persons at the instance of
+secret informer remained intact in their respective
+cross-examination and no material contradiction
+could be brought forth by the learned defence
+counsel. During arguments, it was submitted by the
+learned defence counsel that Raj Nath Yadav (PW-
+</p><p id="p_65">4) wrongly identified accused Manoj which raises
+doubt on the prosecution case. I am not satisfied
+with the submissions of the learned defence
+counsel. It was held in Simon (supra) case that
+
+Sessions Case No. 56107/16                  Page 30/58
+ wrong identification by one witness is not fatal to
+the case of prosecution by itself. Moreover, Rajesh
+Garg (PW-6), ASI Satyawan (PW-14), SI Dinesh
+(PW-15),       Ct.    Neeraj       Kumar    (PW-18),    HC
+Mohinder Singh (PW-19) and ACP Ramesh
+Chander (PW-23) duly identified all the three
+accused persons and their respective testimonies
+could not be contradicted in this regard. In cross-
+examination, learned defence counsel asked about
+the sequence of making arrest and personal search
+of the accused persons as well as about not joining
+any public witness while making arrest. In this
+regard, suffice it to say that all the three accused
+persons      were       arrested      simultaneously    and,
+therefore, the sequence of making arrest is of no
+significance. As per settled propositions of law,
+absence of any public witness at the time of arrest
+of the accused person is also not fatal to the
+prosecution case if the testimonies of police
+witnesses are not contradictory. A police witness is
+also equally competent witness and absence of any
+public witness in the proceedings conducted does
+not make the testimony of such police witness less
+credible.     Further,       though    PW-14    could   not
+
+Sessions Case No. 56107/16                         Page 31/58
+ remember the registration number of private
+vehicle used by them to reach at the godown of
+Munna Lal, PW-18 stated about the use of three
+different motorcycles to reach at the said spot
+whereas PW-19 stated about the use of Hyundai i10
+car belonging to SI Dinesh Kumar (PW-15), the
+deposition of prosecution witnesses cannot be
+construed to be contradictory with each other, more
+so, when the other facts deposed by them could not
+be contradicted in any respect. It was also held in
+B.K      Channappa           (supra)   case   that      such
+contradictions are bound to occur in the statements
+of the prosecution witnesses who depose in the
+court after substantial period of time. As far as the
+discrepancies pointed out by the counsel for the
+accused in the testimonies of the prosecution
+witnesses and the infirmities in carrying out the
+investigation are concerned, suffice it to say that as
+per the settled propositions of law on the subject,
+minor discrepancies not going to the root of the
+case, do not affect and are not fatal to the
+prosecution's case. Hon'ble Supreme Court in
+<a href="/doc/207774/" id="a_28">Bharwada Bhoginbhai Hirjibhai V. State of Gujarat</a>
+(AIR 1983 SC 753) considered the defence
+
+Sessions Case No. 56107/16                           Page 32/58
+ argument about discrepancies in the evidence and
+observed as under:
+</p><blockquote id="blockquote_4">         "5............Over  much      importance
+         cannot be attached to minor
+         discrepancies. The reasons are
+         obvious:
+</blockquote><blockquote id="blockquote_5">         (1) By and large a witness cannot be
+         expected to possess a photographic
+         memory and to recall the details of an
+         incident. It is not as if a video tape is
+         replayed on the mental screen.
+         (2) ordinarily it so happens that a
+         witness is overtaken by events. The
+         witness could not have anticipated the
+         occurrence which so often has an
+         element of surprise. The mental
+         facilities therefore cannot be expected
+         to be attuned to absorb the details.
+         (3) The powers of observation differ
+         from person to person. What one may
+         notice, another may not. An object or
+         movement might emboss its image on
+         one person's mind whereas it might go
+         unnoticed on the part of another.
+         (4) By and large people cannot
+         accurately recall a conversation and
+         reproduce the very words used by them
+         or heard by them. They can only recall
+         the main purport of the conversation. It
+         is unrealistic to expect a witness to be
+         a human tape recorder.</blockquote>
+<p id="p_66">         (5) In regard to exact time of an
+         incident, or the time duration of an
+         occurrence, usually, people make their
+         estimates by guess work on the spur of
+         the moment 1.1 at the time of
+         interrogation. And one cannot expect
+
+Sessions Case No. 56107/16                           Page 33/58
+          people to make very precise or reliable
+         estimate in such matters. Again, it
+         depends on the time-sense of
+         individuals which varies from person
+         to person.
+</p><p id="p_67">         (6) Ordinarily a witness cannot be
+         expected to recall accurately the
+         sequence of events which take place in
+         rapid succession or in a short time
+         span. A witness is liable to get
+         confused, or mixed up when
+         interrogated later on.
+</p><p id="p_68">         (7) A witness, though wholly truthful, is
+         liable to be overawed by the court
+         atmosphere and the piercing cross
+         examination made by counsel and out
+         of nervousness mix up facts, get
+         confused regarding sequence of events,
+         or fill up details from imagination on
+         the spur of the moment. The sub-
+</p><p id="p_69">         conscious mind of the witness
+         sometimes so operates on account of
+         the fear of looking foolish or being
+         disbelieved though the witness is
+         giving a truthful and honest account of
+         the occurrence witnessed by him-
+         Perhaps it is a sort of a psychological
+         defence mechanism activated on the
+         spur of moment".
+</p>
+
+<p id="p_70">31.     In view of above-mentioned law laid down
+by the Apex Court, by no stretch of imagination
+such contradiction can be held as going to the root
+
+
+
+
+Sessions Case No. 56107/16                           Page 34/58
+ of the prosecution case so as to discard the entire
+testimonies of the witnesses.
+</p><p id="p_71">32.     In view of the testimonies of afore-
+mentioned prosecution witnesses, it is evident that
+all the three accused persons namely, Harender
+Passi, Hari Pal Singh and Sugreev Paswan were
+arrested on 06.01.2012 from infront of godown of
+Munna Lal situated in Mundka Industrial Area. The
+prosecution          therefore,   also   established
+circumstance no. (iv) beyond reasonable doubt.
+</p>
+
+<p id="p_72">(C). Recovery of dead body and 60 oil drums
+</p><p id="p_73">33.     On scrutiny of testimonies of SI Dinesh (PW-
+</p><p id="p_74">15), HC Satyawan (PW-14), Ct. Neeraj Kumar
+(PW-18), HC Mahender Singh (PW-19), Raj Nath
+Yadav (PW-4) Rajesh Garg (PW-6) and ACP
+Ramesh Chander (PW-23), it is revealed that
+pursuant to the disclouser statements Ex.PW-14/G,
+Ex.PW-14/G and Ex.PW-14/I, accused persons
+namely, Harender Passi, Hari Pal Singh and
+Sugreev Paswan led the police party to a septic tank
+situated in the same gali in which godown of PW-6
+was situated. PW-23 peeped into the hole of the
+said septic tank to find dead body of a male person
+
+Sessions Case No. 56107/16                  Page 35/58
+ inside the said tank which was about 15 feet deep.
+One JCB machine was called at the said spot and
+the concrete cover (slab) of the septic tank was got
+removed through the said JCB machine and a
+decomposed dead body of a male was taken out of
+the said septic tank. The said dead body was duly
+identified by both PW-4 and PW-6 to be of the
+deceased.
+</p><p id="p_75">34.     In their respective cross-examination, all the
+above-mentioned prosecution witnesses deposed
+consistently with regard to recovery of decomposed
+dead body of the deceased from inside the septic
+tank at the instance of the accused persons namely,
+Harender Passi, Hari Pal Singh and Sugreev
+Paswan. Such recovery of the dead body at the
+instance of the said accused persons is covered
+within the definition of "fact discovered" so as to
+come within the purview of <a href="/doc/1312051/" id="a_29">section 27</a> of the
+Evidence Act and is a relevant fact. No
+contradiction worth the name of it could be brought
+in the testimonies of afore-mentioned prosecution
+witnesses by the learned defence counsel in this
+regard.
+</p>
+
+<p id="p_76">Sessions Case No. 56107/16                    Page 36/58
+</p><p id="p_77"> 35.     As far as the submission of learned defence
+counsel that the owner of the plot where the said
+septic tank was situated and the JCB operator were
+not made a witness in the present case, is
+concerned, in view of unrebutted testimonies of
+prosecution witnesses, this submission does not
+hold much ground. With regard to discrepancies in
+evidence and lapses in investigation, Hon'ble
+Supreme court in its judgment titled as <a href="/doc/113267195/" id="a_30">Yogesh
+Singh v. Mahabeer Singh &amp; Anrs</a> AIR 2016 SC
+5160 laid down that if the evidence is incredible
+and cannot be accepted by the test of prudence,
+then it may create a dent in the prosecution version.
+Further, it needs no special emphasis to state that
+every omission cannot take place of a material
+omission and, therefore, minor contradiction,
+inconsistencies or insignificant embellishments do
+not affect the core of the prosecution case and
+should not be taken to be a ground to reject the
+prosecution evidence. The Apex Court, relying
+upon <a href="/doc/1438332/" id="a_31">C. Muniappan &amp; Ors v. State of Tamilnadu</a>
+AIR 2010 SC 3718 further laid down that there
+may be highly defective investigation in a case.
+However, it is to be examined as to whether there is
+
+Sessions Case No. 56107/16                   Page 37/58
+ any lapse by the IO and whether due to such lapse
+any benefit should be given to the accused. The law
+on this issue is well settled that the defect in the
+investigation by itself cannot be a ground for
+acquittal. Further, where there has been negligence
+on the part of the investigating agency or omissions
+etc which resulted in defective investigation, there
+is a legal obligation on the part of the Court to
+examine the prosecution evidence dehors such
+lapses, carefully, to find out whether the said
+evidence is reliable or not and to what extent it is
+reliable and as to whether such lapses affected the
+object of finding out the truth.
+</p><p id="p_78">36.     In view of the above-mentioned settled
+propositions of law          regarding contradictions in
+testimonies of prosecution witnesses and defective
+investigation, I do not find any merit in the
+contentions of the learned counsel for the accused
+persons. The contradiction brought forth in the
+testimonies of prosecution witnesses are minor
+contradictions which do not go to the root of the
+prosecution case. Such contradictions in the
+testimonies of the prosecution witnesses are but
+
+
+Sessions Case No. 56107/16                      Page 38/58
+ natural, which may creep in when the prosecution
+witnesses are examined after a gap of time.
+</p><p id="p_79">37.     Even otherwise, HC Devender Kumar (PW-
+</p><p id="p_80">12) proved the photographs Ex.PW-12/A25 to
+Ex.PW-12/A48 with their negatives Ex.PW-12/A1
+to Ex.PW-12/A24 wherein a JCB machine is
+clearly visible in use while breaking the concrete
+cover (slab) of the said septic tank and thereby
+leaving no room to raise any doubt in this regard.
+Needless to say, the presence of PW-4 and PW-6
+during proceedings of recovery of dead body of the
+deceased from inside the septic tank, at the instance
+of the said accused persons, also lend credence to
+the testimonies of other police witnesses.
+</p><p id="p_81">38.     During the course of arguments, learned
+defence counsel also submitted that if the JCB
+machine was used to lift the concrete cover (slab)
+of the septic tank, it was not possible for the
+accused persons to lift the same and to throw the
+dead body inside it. He further argued that as per
+the prosecution version, all the said three accused
+persons got the dead body recovered jointly which
+is not permissible in law. I do not find any merit in
+such contentions. As is clear from the photographs
+
+Sessions Case No. 56107/16                    Page 39/58
+ Ex.PW-12/A25 to Ex.PW-12/A48, that there were
+two big open spaces in the slab of the spetic tank
+which usually are covered separately. PW-23 had
+peeped inside the tank from such open space. PW-
+14 and PW-15 also categorically deposed about the
+hole/space in the cemented cover of the septic tank
+and it can be easily inferred that the dead body, in
+all probability, would have been thrown through
+such open space/hole, inside the tank. The broken
+ribs of the dead body, observed vide postmortem
+examination report Ex.PW-1/A further strengthen
+this. With regard to joint recoveries, Learned
+prosecutor also pertinently relied upon Kishore
+Bhadke (supra) case wherein it was held in
+categorical terms that joint recovery at the instance
+of two or more accused persons is admissible in
+evidence. <a href="/doc/1769219/" id="a_32">In State (NCT of Delhi) v. Navjot Sandhu</a>
+(2005) 11 SCC 600, the law laid down regarding
+joint recoveries is relevant to be referred which is
+as under:
+</p>
+
+<blockquote id="blockquote_6">        "Joint disclosures, to be more accurate,
+        simultaneous disclosures, per se, are not
+        inadmissible under Section 27. 'A person
+        accused' need not necessarily be a single
+
+Sessions Case No. 56107/16                     Page 40/58
+         person, but it could be plurality of
+        accused. In fact, joint or simultaneous
+        disclosure is a myth, because two or more
+        accused persons would not have uttered
+        informatory words in a chorus. At best,
+        one person would have made the
+        statement orally and the other person
+        would have stated so substantially in
+        similar terms a few seconds or minutes
+        later, or the second person would have
+        given unequivocal nod to what has been
+        said by the first person. Or, two persons
+        in custody may be interrogated separately
+        and simultaneously and both of them may
+        furnish similar information leading to the
+        discovery of fact. Or, in rare cases, both
+        the accused may reduce the information
+        into writing and hand over the written
+        notes to the police officer at the same
+        time. We do not think that such
+        disclosures by two or more persons in
+        police custody go out of the purview of
+        Section 27 altogether. If information is
+        given one after the other without any
+        break almost simultaneously, and if such
+        information is followed up by pointing
+        out the material thing by both of them,
+        we find no good reason to eschew such
+        evidence from the regime of Section 27."
+</blockquote>
+
+<p id="p_82">39.     With regard to the recovery of 60 drums
+containing transformer oil which were kept in a
+plot situated in the street adjoining Ranbir Dharam
+Kanta at the instance of said accused persons, the
+
+
+Sessions Case No. 56107/16                      Page 41/58
+ testimonies        of        afore-mentioned   prosecution
+witnesses except HC Mahender Singh (PW-19) and
+Raj Nath Yadav (PW-4), could not be impeached in
+any material terms. Both PW-4 and PW-19 are not
+a witness of such recovery. Rajesh Garg (PW-6)
+also witnessed the seizure memo Ex.PW-6/G
+whereby the said drums were seized. PW-6
+identified those drums vide photographs Ex.P1,
+Ex.P2 and Ex.P3. PW-6 had also handed over the
+bill/invoice Ex.PW-6/J of the transformer oil which
+were seized vide seizure memo Ex.PW-6/H.
+</p><p id="p_83">40.      With regard to the judgments relied on by the
+learned defence counsel, it suffice to say that all the
+judgments reiterate the already settled propositions
+of law regarding essentials to be looked for in a
+case based on circumstantial evidence which were
+laid down by the Apex Court in its celebrated
+judgment <a href="/doc/1505859/" id="a_33">Sharad Biridhichand Sarda v. State of
+Maharashtra</a> AIR 1984 SC 1622 (1).
+</p><p id="p_84">41.      In the above-discussed circumstances, it is
+evident that the prosecution successfully proved the
+circumstance no. (v) and (vi) beyond reasonable
+doubt.
+</p>
+
+<p id="p_85">Sessions Case No. 56107/16                        Page 42/58
+ (D). Possession of 60 oil drums with accused
+Birja.
+</p><p id="p_86">42.      In order to prove the circumstance that
+accused Birja had purchased 60 oil drums from the
+accused persons and kept the same at the plot from
+where the said drums were recovered at the
+instance of accused persons namely, Harender
+Passi, Hari Pal Singh and Sugreev Paswan, the
+prosecution got examined Omvir Lakra (PW-8)
+who deposed that accused Birja had approached
+him for taking his plot no.4 situated in Khasra no.
+752/2 Mundka on rent which he had rented out to
+accused Birja on a monthly rent of Rs. 4000/-.
+Besides the oral testimony of PW-8, there is no
+other evidence available on record to show if the
+said plot was owned by PW-8 or was indeed rented
+out by him to accused Birja. In cross-examination,
+PW-8 admitted that he was not having any
+documentary proof regarding such tenancy. PW-8
+had also not informed to the police when enquiries
+were made from him that accused Birja was his
+tenant. PW-8 had never issued any rent receipt to
+accused Birja.
+</p>
+<p id="p_87">Sessions Case No. 56107/16                 Page 43/58
+</p><p id="p_88"> 43.     From the testimony of PW-8, it is not clear
+what was the duration of such tenancy or if there
+was any written or even oral agreement qua such
+tenancy. PW-8 did not depose for what purpose
+accused Birja had taken the said plot on rent.
+</p><p id="p_89">44.     In the given circumstances, in my considered
+opinion, there is no legally admissible evidence
+available on record to establish that the plot from
+where the said 60 oil drums were recovered, was
+under the tenancy of accused Birja. Admittedly,
+accused Birja was not arrested from the said plot at
+the time of recovery of oil drums. In these
+circumstances, it is clear that the prosecution could
+not establish the circumstance no. (vii) that accused
+Birja had purchased the said oil drums from the
+accused persons and had kept them in the said plot.
+</p><p id="p_90">45.     During arguments, another contention made
+by the learned defence counsel was that in all cases
+of circumstantial evidence, the "last seen" evidence
+assumes significance which is lacking in the
+present case and, therefore, the prosecution story is
+not worth believable. I do not find any force or
+merit in the contention of learned defence counsel.
+The law is settled that "last seen" evidence is but
+
+Sessions Case No. 56107/16                   Page 44/58
+ one circumstance in a case based on circumstantial
+evidence and the absence of "last seen" evidence
+does not make the case of the prosecution weak so
+as to absolve the accused persons. In Pradeep @
+Sanjay (supra) case relied upon by the learned
+Prosecutor, it was also held that in cases based on
+circumstantial        evidence,   conviction   can   be
+sustained even in the absence of such "last seen"
+evidence.
+</p><p id="p_91">46.     To sum up, in view of the above discussion,
+following circumstances have been proved by the
+prosecution beyond reasonable doubt:
+</p>
+
+<blockquote id="blockquote_7">         (i). Deceased was employed as a
+         security guard at the godown of the
+         complainant situated in Marwari Tyre
+         Wali Gali, behind Metro yard, Mundka,
+         Delhi.
+</blockquote>
+<blockquote id="blockquote_8">         (ii).   In the intervening night of
+         22/23.12.2011, 60 drums containing
+         transformer oil, stored at the said
+         godown, were stolen.
+</blockquote>
+<blockquote id="blockquote_9">         (iii). The deceased was found missing
+         from the said godown.</blockquote>
+
+<p id="p_92">         (iv). On 06.01.2012, three accused
+         persons namely, Harender Passi, Hari Pal
+
+Sessions Case No. 56107/16                     Page 45/58
+          Singh and Sugreev Paswan were arrested
+         on the basis of secret information.
+</p>
+<p id="p_93">         (v). The dead body of the deceased was
+         recovered at the instance of the said
+         accused persons from inside a septic
+         tank in a plot situated near the said
+         godown.
+</p>
+<p id="p_94">         (vi). The stolen 60 drums containing
+         transformer oil were recovered at the
+         instance of the said accused persons
+         which were kept in a plot.
+</p>
+<p id="p_95">47.     However, the prosecution could not establish
+the circumstance that the 60 drums containing
+transformer oil were purchased by accused Birja
+from the accused persons who had retained them in
+the said plot.
+</p>
+
+<p id="p_96">Motive:
+</p><p id="p_97">48.     From the scrutiny of entire material available
+on record, it is also evident that the prosecution
+successfully proved the motive on the part of
+accused persons namely, Harender Passi, Hari Pal
+Singh and Sugreev Paswan i.e. committing robbery
+of drums containing transformer oil from the
+godown of Rajesh Garg (PW-6). At the instance of
+
+
+Sessions Case No. 56107/16                    Page 46/58
+ said     accused     persons,     60 drums        containing
+transformer oil were also recovered which further
+strengthen the prosecution version.
+</p><p id="p_98">49.     Let us now discuss the essential ingredients
+of offences with which the accused persons have
+been charged with vis a vis the circumstances
+proved on record.
+</p>
+
+<p id="p_99"><a href="/doc/1560742/" id="a_34">Section 302</a>/<a href="/doc/37788/" id="a_35">34</a> IPC:
+</p><p id="p_100">50.     The substantive offence which the accused
+persons have been charged with are referred as
+under:
+</p><blockquote id="blockquote_10">         302.Punishment for Murder- Whoever
+         commits murder shall be punished with
+         death, or imprisonment for life and shall also
+         be liable to fine.
+</blockquote>
+<p id="p_101">51.     The relevant part of <a href="/doc/626019/" id="a_36">Section 300</a> IPC which
+defines 'Murder' reads as follows:
+</p>
+<blockquote id="blockquote_11">         300. Murder- Except in the cases
+         hereinafter excepted, culpable homicide is
+         murder, if the act by which the death is
+         caused is done with the intention of causing
+         death, or -
+</blockquote><blockquote id="blockquote_12">         Secondly- If it is done with the intention of
+         causing such bodily injury as the offender
+         knows to be likely to cause the death of the
+         person to whom the harm is caused , or -
+</blockquote>
+
+
+<p id="p_102">Sessions Case No. 56107/16                           Page 47/58
+         Thirdly- If it is done with the intention of
+        causing bodily injury to any person and the
+        bodily injury intended to be inflicted is
+        sufficient in the ordinary course of nature
+        to cause death, or -
+</p><p id="p_103">        Fourthly- If the person committing the act
+        knows that it is so imminently dangerous
+        that it must, in all probability, cause death
+        or such bodily injury as is likely to cause
+        death, and commits such act without any
+        excuse for incurring the risk of causing
+        death or such injury is aforesaid.
+</p>
+
+<p id="p_104">52.     Further, the relevant part of <a href="/doc/305371/" id="a_37">Section 299</a> IPC
+which      defines      "Culpable    homicide",         having
+reference in the definition of 'Murder' reads as
+follows:
+</p>
+
+<blockquote id="blockquote_13">         299.Culpable homicide - Whoever causes
+         death by doing an act with the intention of
+         causing death, or with the intention of
+         causing such bodily injury as is likely to
+         cause death, commits the offence of
+         culpable homicide.
+</blockquote>
+
+<p id="p_105">53.     In the present case, accused persons namely,
+Harender Passi, Hari Pal Singh, Sugreev Paswan,
+Vinod and Manoj have been charged with
+commission of offence punishable under <a href="/doc/1560742/" id="a_38">section
+302</a>/<a href="/doc/37788/" id="a_39">34</a> IPC. In the light of above-discussed facts
+and circumstances, it is evident that the prosecution
+
+Sessions Case No. 56107/16                          Page 48/58
+ could successfully prove     all the circumstances
+against accused Harender Passi, Hari Pal Singh and
+Sugreev Paswan only. There is no legally
+admissible evidence available on record to connect
+accused Vinod and accused Manoj with the
+commission of offence u/s 302 <a href="/doc/1569253/" id="a_40">IPC</a>. As per record,
+after their respective surrender before the court,
+accused Vinod and Manoj were interrogated and
+disclouser statement Ex.PW-23/H        of accused
+Vinod only was recorded. IO had also prepared the
+pointing out memo Ex.PW-23/J, Ex.PW-23/K and
+Ex.PW-23/L at the instance of accused Vinod.
+Needless to say such disclouser statement and
+pointing out memos in respect of accused Vinod
+are not admissible in evidence being hit by <a href="/doc/523607/" id="a_41">section
+162</a> Cr.P.C. Besides, the said disclouser statement
+and pointing out memos, no other evidence is
+available on record against accused persons
+namely, Vinod and Manoj to indicate their
+involvement in commission of murder of the
+deceased. Even the disclouser statement of accused
+Manoj was not revealed by the IO.
+</p><p id="p_106">54.     As far as the involvement of accused
+Harender Passi, Hari Pal Singh and Sugreev
+
+Sessions Case No. 56107/16                 Page 49/58
+ Paswan in commission of murder of the deceased is
+concerned, all the circumstances sought to be
+proved by the prosecution against them have been
+proved beyond reasonable doubt which also make
+the chain of circumstances complete. None of the
+accused persons led any evidence in their
+respective defence so as to infer otherwise.
+Accordingly, accused Harender Passi, Hari Pal
+Singh and Sugreev are held guilty for commission
+of offence of murder of the deceased in furtherance
+of their common intention which is punishable
+under <a href="/doc/1953529/" id="a_42">section 302</a>            read with <a href="/doc/37788/" id="a_43">section 34</a> IPC.
+Accused Vinod and Manoj are acquitted of the
+charge for the offence punishable under <a href="/doc/1560742/" id="a_44">section
+302</a>/<a href="/doc/37788/" id="a_45">34</a> IPC.
+</p>
+
+<p id="p_107"><a href="/doc/386021/" id="a_46">Section 201</a>/<a href="/doc/37788/" id="a_47">34</a> IPC:
+</p><blockquote id="blockquote_14">         201. Causing disappearance of evidence
+         of offence, or giving false information to
+         screen offender - Whoever, knowing or
+         having reason to believe that an offence
+         has been committed, causes any evidence
+         of the commission of that offence to
+         disappear, with the intention of screening
+         the offender from legal punishment, or
+         with that intention gives any information
+         respecting the offence which he knows or
+         believes to be false;
+</blockquote>
+
+<p id="p_108">Sessions Case No. 56107/16                            Page 50/58
+          if a capital offence. - shall, if the offence
+         which he knows or believes to have been
+         committed is punishable with death, be
+         punished with imprisonment of either
+         description for a term which may extend to
+         seven years , and shall also be liable to
+         fine;
+</p>
+
+<p id="p_109">55.     In view of above-discussed facts and
+circumstances, accused Harender Passi, Hari Pal
+Singh and Sugreev Paswan are also held guilty for
+causing disappearance of evidence of offence in
+order to screen themselves from legal punishment
+as the prosecution successfully proved that all the
+above-said three accused persons, after committing
+murder of the deceased, in furtherance of their
+common intention, had thrown the dead body into
+a septic tank which could not have been discovered
+but for the information provided by all the three
+accused persons. As discussed above, discovery of
+dead body of the deceased from inside the septic
+tank, pursuant to their disclouser statements is
+relevant under <a href="/doc/1312051/" id="a_48">section 27</a> of the Evidence Act.
+Accused persons Vinod and Manoj could not be
+connected even with the discovery of dead body of
+the deceased in any manner. Accordingly, accused
+
+
+Sessions Case No. 56107/16                               Page 51/58
+ persons Harender Passi, Hari Pal Singh and
+Sugreev Paswan are held guilty for commission of
+offence punishable under <a href="/doc/1953529/" id="a_49">section 201</a> para 1 read
+with <a href="/doc/37788/" id="a_50">section 34</a> IPC. Accused Vinod and Manoj are
+acquitted of the charge for the offence punishable
+under <a href="/doc/386021/" id="a_51">section 201</a>/<a href="/doc/37788/" id="a_52">34</a> IPC.
+</p>
+
+<p id="p_110"><a href="/doc/1953529/" id="a_53">Section 395</a> and <a href="/doc/958439/" id="a_54">section 396</a> IPC:
+</p><p id="p_111">56.     Accused persons namely, Harender Passi,
+Hari Pal Singh, Sugreev Paswan, Vinod and Manoj
+were also charged with commission of offence
+punishable under <a href="/doc/1119707/" id="a_55">section 395</a> and <a href="/doc/958439/" id="a_56">396</a> IPC, which
+are reproduced as under:
+</p>
+
+<blockquote id="blockquote_15">           395. Punishment for dacoity -
+           Whoever commits dacoity shall be
+           punished with imprisonment for life, or
+           with rigorous imprisonment for a term
+           which may extend to ten years, and
+           shall also be liable to fine.</blockquote>
+
+<p id="p_112">           396. Dacoity with murder - If
+           anyone of five or more persons, who
+           are conjointly committing dacoity,
+           commits murder in so committing
+           dacoity, everyone of those persons
+           shall be punished with death, or
+           imprisonment for life, or rigorous
+           imprisonment for a term which may
+
+
+Sessions Case No. 56107/16                      Page 52/58
+            extend to ten years, and shall also be
+           liable to fine.
+</p>
+
+<p id="p_113">57.     The definition of dacoity as stipulated under
+<a href="/doc/1337698/" id="a_57">section 391</a> IPC is relevant to be referred here
+which is as under:
+</p>
+
+<blockquote id="blockquote_16">         391. Dacoity - When five or more
+         persons conjointly commit or attempt to
+         commit a robbery, or where the whole
+         number of persons conjointly committing
+         or attempting to commit a robbery, and
+         persons present and aiding such
+         commission or attempt, amount to five or
+         more, every person so committing,
+         attempting or aiding, is said to commit
+         "dacoity".
+</blockquote>
+
+<p id="p_114">58.     It is thus, clear that for commission of
+dacoity, there must be five or more persons
+involved in commission of offence. In the light of
+above-discussed circumstances, it is clear that the
+prosecution could not establish that five or more
+accused persons were involved in commission of
+murder of the deceased. As observed above, there is
+no evidence available on record to connect the
+accused persons namely, Vinod and Manoj with
+commission of any offence in the present case.
+</p>
+
+<p id="p_115">Sessions Case No. 56107/16                      Page 53/58
+ Therefore, in my considered opinion, commission
+of offence under <a href="/doc/1119707/" id="a_58">section 395</a> IPC or under <a href="/doc/958439/" id="a_59">section
+396</a> IPC is not made out in the present case.
+</p><p id="p_116">59.     However, at this juncture, it is useful to refer
+to the definition of Robbery as stipulated under
+<a href="/doc/1905008/" id="a_60">section 390</a> IPC. <a href="/doc/1953529/" id="a_61">Section 390</a> and <a href="/doc/329571/" id="a_62">section 392</a> IPC
+are reproduced here under:
+</p>
+
+<blockquote id="blockquote_17">         390. Robbery - In all robbery there is
+         either theft or extortion.
+</blockquote>
+<blockquote id="blockquote_18">         When theft is robbery- Theft is
+         "robbery" if, in order to the committing
+         of the theft, or in committing the theft, or
+         in carrying away or attempting to carry
+         away property obtained by the theft, the
+         offender, for that end, voluntarily causes
+         or attempts to cause to any person death
+         or hurt or wrongful restraint, or fear of
+         instant death or of instant hurt, or of
+         instant wrongful restraint.
+</blockquote>
+<blockquote id="blockquote_19">         When extortion is robbery -</blockquote>
+<p id="p_117">         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+         Explanation-xxxxxxxxxxxxxxxxxxxxxxx
+
+</p><p id="p_118">         392. Punishment for robbery - Whoever
+         commits robbery shall be punished with
+         rigorous imprisonment for a term which
+         may extend to ten years, and shall also be
+         liable to fine; and, if the robbery be
+         committed on the highway between
+
+Sessions Case No. 56107/16                        Page 54/58
+          sunset and sunrise, the imprisonment may
+         be extended to fourteen years.
+</p>
+<p id="p_119">60.     Taking the entire facts and circumstances
+into consideration where the prosecution could not
+prove the involvement of accused persons namely,
+Vinod and Manoj in the present case, in my
+considered opinion, accused persons namely,
+Harender Passi, Hari Pal Singh and Sugreev
+Paswan can be held accountable for committing
+robbery of the 60 drums containing transformer oil
+belonging to Rajesh Garg (PW-6), which were also
+recovered at the instance of said accused persons.
+Hence, accused persons namely, Harender Passi,
+Hari Pal Singh and Sugreev Paswan are held guilty
+for commission of offence punishable under <a href="/doc/329571/" id="a_63">section
+392</a> IPC.        Accused persons namely, Vinod and
+Manoj stand acquitted of the charge for the offence
+punishable under <a href="/doc/1119707/" id="a_64">section 395</a> and <a href="/doc/958439/" id="a_65">396</a> IPC.
+</p>
+
+<p id="p_120"><a href="/doc/844968/" id="a_66">Section 412</a> IPC:
+</p><p id="p_121">61.     Accused       Birja   only   was   charged   for
+commission of offence punishable under <a href="/doc/844968/" id="a_67">section
+412</a> IPC in the case in hand which is reproduced as
+under:
+</p>
+<p id="p_122">Sessions Case No. 56107/16                      Page 55/58
+</p><p id="p_123">          412. Dishonestly receiving property
+         stolen in the commission of a dacoity -
+         Whoever dishonestly receives or retains
+         any stolen property, the possession
+         whereof he knows or has reason to
+         believe to have been transferred by the
+         commission of dacoity, or dishonestly
+         receives from a person, whom he knows
+         or has reason to believe to belong or to
+         have belonged to a gang of dacoits,
+         property which he knows or has reason to
+         believe to have been stolen, shall be
+         punished with [imprisonment for life], or
+         with rigorous imprisonment for a term
+         which may extend to ten years, and shall
+         be liable to fine.
+</p>
+<p id="p_124">62.     As per the settled propositions of law, the
+essential ingredients for commission of offence
+under <a href="/doc/844968/" id="a_68">section 412</a> IPC are that the person
+dishonestly receives or retains any stolen property,
+he knows or has reason to believe that the
+possession of such stolen property have been
+transferred by the commission of dacoity or he
+dishonestly receives such property from a person
+whom he knows or has reason to believe to belong
+or to have belonged to a gang of dacoits.
+</p><p id="p_125">63.     As     discussed     above,   the   prosecution
+miserably failed to prove circumstance no. (vii)
+
+Sessions Case No. 56107/16                     Page 56/58
+ regarding purchase and possession of 60 oil drums
+by accused Birja. The prosecution could not
+establish that it was accused Birja who had retained
+60 oil drums which were recovered from a vacant
+plot at the instance of accused Harender Passi, Hari
+Pal Singh and Sugreev Paswan.          There is no
+evidence available on record to indicate towards
+any knowledge on the part of accused Birja that
+said 60 drums containing transformer oil were
+transferred by the commission of dacoity or
+accused Birja received the said drums from any
+person who belonged to a gang of dacoits. There is
+practically nil evidence to hold accused Birja guilty
+for commission of offence under <a href="/doc/844968/" id="a_69">section 412</a> IPC.
+In fact the prosecution could not lead sufficient
+evidence to hold accused Birja guilty even for
+commission of offence under <a href="/doc/812083/" id="a_70">section 411</a> IPC.
+Accordingly, accused Birja is acquitted of the
+charge for the offence punishable under <a href="/doc/844968/" id="a_71">section 412</a>
+IPC.
+</p><p id="p_126">64.     The points for determination no. 4 to 9 are
+decided accordingly.
+</p>
+
+
+
+<p id="p_127">Sessions Case No. 56107/16                   Page 57/58
+ Conclusion:
+</p><p id="p_128">65.     The upshot of the entire discussion is that
+accused persons namely, Harender Passi s/o Ram
+Kishan, Hari Pal Singh s/o Laxmi Singh and
+Sugreev Paswan s/o Ram Mangal Pawan are held
+guilty for commission of offences punishable under
+<a href="/doc/1953529/" id="a_72">section 302</a>, <a href="/doc/1953529/" id="a_73">201</a> para 1 and <a href="/doc/1953529/" id="a_74">section 392</a> read with
+<a href="/doc/37788/" id="a_75">section 34</a> IPC and are hereby convicted.
+</p><p id="p_129">66.     Accused Vinod s/o Ram Nath and Manoj s/o
+Ram Pyare are acquitted of the charge for the
+offences punishable under <a href="/doc/1953529/" id="a_76">section 302</a>, <a href="/doc/1953529/" id="a_77">201</a>, <a href="/doc/1953529/" id="a_78">395</a>
+and <a href="/doc/1953529/" id="a_79">396</a> read with <a href="/doc/37788/" id="a_80">section 34</a> IPC.
+</p><p id="p_130">67.     Accused Birja s/o Ram Lakhan is acquitted
+of the charge for the offence punishable under
+<a href="/doc/844968/" id="a_81">section 412</a> IPC.
+</p><p id="p_131">68.     Let the convicts namely, Harender Passi,
+Hari Pal Singh and Sugreev Paswan be heard on the
+quantum of sentence.
+</p><p id="p_132">                                              Digitally signed
+                                              by KULDEEP
+                                              NARAYAN
+                                    KULDEEP   Date:
+</p><p id="p_133">                                    NARAYAN   2018.03.27
+                                              15:33:42
+                                              +0530
+
+
+(Pronounced in the open         (Kuldeep Narayan)
+Court on 27.03.2018 ). Addl. Sessions Judge (Pilot Court)
+                        West : Court No. 33: Tis Hazari Courts
+                                     Delhi
+
+
+Sessions Case No. 56107/16                      Page 58/58
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

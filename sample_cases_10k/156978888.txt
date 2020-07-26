@@ -1,0 +1,318 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>K.Rajendran vs The District Collector on 8 January, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/156978888/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 1 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1712542/">Article 226 in The Constitution Of India   1949</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/156978888/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/156978888/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/156978888/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">K.Rajendran vs The District Collector on 8 January, 2018</div><pre id="pre_1">        
+
+ 
+
+BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT               
+DATED: 08.01.2018  
+CORAM   
+THE HONOURABLE MR.JUSTICE M.SATHYANARAYANAN                
+and 
+THE HONOURABLE MRS.JUSTICE R.HEMALATHA             
+
+W.P(MD)No.23226 of 2017   
+
+K.Rajendran                                     ..  Petitioner
+
+Vs.
+
+1.The District Collector,
+   Ramanathapuram District,
+   Ramanathapuram.  
+
+2.The Revenue Divisional Officer,
+   Revenue Divisional Office,
+   Ramanathapuram,  
+   Ramanathapuram District.
+
+3.The Tahsildar,
+   Thiruvadanai Taluk,
+   Thiruvadanai,
+   Ramanathapuram District.
+
+4.The Executive Officer,
+   Thondi Panchayat Board Office,
+   Thondi,Thiruvadanai Taluk,
+   Ramanathapuram District.
+
+4.V.Balasubramanian  
+6.V.Nagarasu 
+7.V.Patchacharam  
+8.C.Balu
+9.A.Neelakandan  
+10.K.Tharmaraj 
+11.K.Raja 
+12.K.Muneeswaran   
+13.K.Karuppiah 
+14.P.Murugesan  
+15.Karuppiah 
+16.Ramachandran   
+17.Arumugam   
+18.R.Ramu  
+19.A.Sathurukkan 
+20.V.Subbiah 
+21.Adaikalam 
+22.Thangamani  
+23.Thirunavukkarasu                                            ..
+Respondents  
+PRAYER: Writ Petition is filed under <a href="/doc/1712542/" id="a_1">Article 226</a> of the Constitution of India
+praying for the issuance of a Writ of Mandamus directing the respondents 1 to
+4 to consider the petitioner's representation dated 24.04.2017 and 04.12.2017
+respectively and to remove the encroachments made by the respondents 5 to 23 
+in Survey Nos.49, 50, 50/4 and 51 situated at Muni Iyaa Kovil Street and
+Pudukudi, Thondi Panchayat, Thiruvadanai Taluk, Ramanathapuram District, 
+within a stipulated time to be fixed by this Court.
+        
+!For Petitioner                 : Mr.S.Muthukumar  
+^For R-1 to R-3                 : Mr.A.Muthukaruppan, 
+                                                        Additional Government
+Pleader
+        For R-4                              : Mr.R.Anandharaj
+                
+        For R-8                              : Mr.G.Ganeshkumar
+                
+        For R-5 to R-7, R-9 to R-14
+                    and R-17  and R-22        : Mr.R.J.Karthick
+        For R-16  and R-18 to 21       : No Appearance
+
+
+        
+:ORDER  
+</pre>
+<p id="p_1">[Order of the Court was made by M.SATHYANARAYANAN, J.]      
+        
+        By consent, the main writ petition itself, is taken up for final
+disposal.
+</p><p id="p_2">        2. The petitioner claims to be Ex-councilor of 3rd Ward of Thondi.
+He came forward to file this Writ Petition styled as 'Public Interest
+Litigation'.
+</p>
+<p id="p_3">        3. It is the case of the petitioner that in order to accommodate the
+persons, who affected by natural causes such as cyclone etc., he made
+arrangements to build houses under the Government Tsunami Scheme and    
+tenements have also been built by spending a sum of                  Rs.3 +
+crores  and the said tenements are located at A.Manakudi Village, near
+Thondi. The respondents 5 to 23 were identified as beneficiaries and they
+were allotted houses and despite that, the respondents 5 to 23 continued to
+squat over the land by way of encroachment, without shifting their residence
+to the houses built under the Government Tsunami Scheme in Survey Nos.49, 50,  
+50/4,51 at Muni Iyaa Kovil Street, Pudukudi, Thondi.
+</p>
+<p id="p_4">        4. The petitioner would further aver that the private
+respondents 5 to 23 without shifting the residence, continued to squat over
+the land and also leased out the said tenements in favour of the third
+parties and started gaining undue pecuniary advantages.   The petitioner in
+this regard, has submitted a representation dated 24.05.2017 and yet another
+representation dated 04.12.2017 to the official respondents for removal of
+encroachment and despite the receipt and acknowledgment, no steps have been  
+taken to do the said lawful exercise and therefore, he is constrained to
+approach this Court by filing this Writ Petition.
+</p>
+<p id="p_5">        5. The  learned counsel appearing for the petitioner would draw the
+attention of this Court to the typed set of documents and would submit that
+though the private respondents 5 to 23 have been identified as beneficiaries
+and they were allotted houses and despite that, they  continued to squat over
+the land by way of encroachment without shifting their residence to the
+houses built under the Government Tsunami Scheme and despite the   
+representations drawing the attention of the official respondents as to the
+said illegal act, they failed to invoke any kind of response and therefore,
+the petitioner is constrained to file this Writ Petition.
+</p>
+<p id="p_6">        6. The learned counsel appearing for the fourth respondent/ Executive
+Officer, Thondi Panchayat, would submit that the fourth respondent has sent a
+communication to the third respondent requiring the assistance to survey and
+measure the lands and the said process is yet to be completed and depending 
+upon the same, the fourth respondent would take appropriate action for
+removal of encroachment. 
+</p>
+<p id="p_7">        7. The learned counsel appearing for the private respondents would
+submit that the petitioner, who is an Ex-councilor with an oblique motive,
+targeting the private respondents and therefore, the Writ Petition filed by
+him cannot be categorised as 'Public Interest Litigation' and hence, prays
+for dismissal of this Writ Petition with exemplary costs.
+</p>
+<p id="p_8">        8. This Court heard the rival submissions and perused the materials
+placed before it.
+</p>                
+<p id="p_9">        9.Though the petitioner prays for a larger relief, this Court, in the
+light of the aforesaid facts and circumstances of the case and without going
+into the merits of the claim projected by the petitioner either in this Writ
+Petition or in his representations,  directs the third respondent to act on
+the communication of the fourth respondent dated 11.12.2017 in
+Na.Ka.No.105/2017 and with the help of the jurisdictional Surveyor to cause
+inspection of Survey Nos.49, 50, 50/4,51 at Muni Iyaa Kovil Street, Pudukudi,
+Thondi, Ramanathapuram District, within a period of eight weeks from the date
+of receipt of a copy of this order and communicate the decision taken, to the
+fourth respondent and depending upon the result of the said Report, the
+fourth respondent after putting the encroachers including the private
+respondents 5 to 23 on notice, shall take further action on merits and in
+accordance with law, within a further period of twelve weeks thereafter and
+communicate the decision taken, to the petitioner, private respondents 5 to
+23 as well as other encroachers.
+</p>        
+<p id="p_10">        10. The Writ Petition stands disposed of accordingly.  No costs.
+</p>
+<p id="p_11">        11. The Registry is directed to mark a copy of this order to the Taluk
+Surveyor, Thiruvadanai Taluk, Ramanathapuram District.
+</p>
+
+<p id="p_12">To
+
+</p><p id="p_13">1.The District Collector,
+   Ramanathapuram District,   Ramanathapuram.  
+</p>
+<p id="p_14">2.The Revenue Divisional Officer,
+   Revenue Divisional Office,   Ramanathapuram,
+   Ramanathapuram District.
+</p>
+<p id="p_15">3.The Tahsildar,
+   Thiruvadanai Taluk,  Thiruvadanai,
+   Ramanathapuram District.
+</p>
+<p id="p_16">4.The Executive Officer,
+   Thondi Panchayat Board Office,
+   Thondi,Thiruvadanai Taluk,   Ramanathapuram District.
+</p>
+
+<p id="p_17">5.The Taluk Surveyor,
+   Thiruvadanai Taluk,
+   Ramanathapuram District.
+</p><p id="p_18">.
+          </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

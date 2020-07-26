@@ -1,0 +1,302 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Malvika Foundation And Ors vs Eiilm Foundation And Ors on 6 May, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/135844416/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/135844416/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/135844416/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=senior%20advocates">senior advocates</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=balance%20sheet">balance sheet</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=i.%20p.%20mukerji">i. p. mukerji</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">Malvika Foundation And Ors vs Eiilm Foundation And Ors on 6 May, 2014</div><div class="doc_author">Author: I. P. Mukerji</div>
+
+<pre id="pre_1">                                  ORDER SHEET
+
+                               GA NO.52 OF 2014
+                                     WITH
+                              CS NO.251 OF 2013
+                              GA NO.3063 OF 2013
+
+                        IN THE HIGH COURT AT CALCUTTA
+
+                        Ordinary Original Civil Jurisdiction
+
+                                 ORIGINAL SIDE
+
+
+
+                         MALVIKA FOUNDATION AND ORS.
+                                    Versus
+                          EIILM FOUNDATION AND ORS.
+                                    .........
+</pre>
+
+<p id="p_1">BEFORE:
+</p>
+<p id="p_2">The Hon'ble JUSTICE I. P. MUKERJI
+
+Date : 6th May, 2014.
+</p>
+<p id="p_3">                                                          Mr. S.N. Mitra, senior advocate,
+                                                  Mr. A. Mukherjee, Mr. D. Jain...appear.
+</p>
+<p id="p_4">                                            Mr. P.K. Ghosh, Mr. T. Bose, senior advocates,
+                                                     Mr. D. Dutta, Ms. V. Bhatia...appear.
+</p>
+<p id="p_5">                                                                 Mr. R.L. Mitra...appears.
+</p>
+<p id="p_6">                                                   Mr. N. Dasgupta, Ms. P. Dhar...appear.
+</p>
+<p id="p_7">                                                                   Mr. M. Bose...appears.
+</p>
+<p id="p_8">                                                                  Mr. C. Gupta...appears.
+</p>
+<p id="p_9">
+
+
+          The Court : The principal prayer in this application was for audit of the
+
+   accounts of Eastern Institute for Integrated Learning in Management [EIILM]
+
+   since the financial year 2009-2010.
+</p>
+<p id="p_10">          Mr. P.K. Ghosh, learned senior advocate for the first defendant has taken
+
+   me through the documents appended to the affidavit in opposition to the earlier
+
+   interim application, filed on behalf of the second defendant. A series of e-mail
+
+   correspondence has been brought to my notice. I form a concrete opinion from
+
+   this correspondence that the balance-sheets from 2009-2010 were prepared by
+
+   the parties in consultation with each other. This is so because I find that draft
+
+   balance-sheets were forwarded by one party to the other for his views. Thereafter,
+<span class="hidden_text" id="span_1">                                                                                    2</span>
+
+
+
+
+the balance-sheet was returned. At times it was sent back with counter views.
+
+Thereafter, it was finalised, with consent, prima facie.
+
+</p><p id="p_11">       In those circumstances, I see no justification for reopening the audit of
+
+EIILM Foundation at this point of time.
+</p>
+<p id="p_12">       After hearing the submissions on behalf of the parties, it appears that there
+
+is a complete deadlock amongst members of the three-member committee.
+
+According to the terms of appointment of the committee it is to function by
+
+unanimous decisions only. When this state of affairs was brought to the notice of
+
+Patherya, J. her ladyship by an order dated 3rd October, 2013 appointed Mr.
+
+Sondwip Mukherjee, advocate as the Special Officer to settle the disputes amongst
+
+members of the Committee and evolve a workable solution.
+
+</p><p id="p_13">       I am of the opinion that the said order be fully implemented. The
+
+Committee should try to be unanimous when it comes to taking important
+
+decisions for the functioning of the institute.
+
+</p><p id="p_14">       There is one substantial controversy, which has been raised, in my opinion,
+
+in this application. Although Mr. Ghosh, learned senior advocate tried to provide
+
+an explanation, but to my mind this explanation would more fully come out when
+
+affidavits are exchanged. This point relates to the ECC payment. According to the
+
+rules of the Foundation a person is paid Rs.40,000/- as ECC fee, if he introduces
+
+one student. This person is paid Rs.45,000/- per student if he introduces ten or
+
+more ten students. This amount is only payable upon the students paying the full
+
+annual fee or full course, whichever happens earlier. According to the statements
+
+appended to the petition, it appears that full ECC payment was made before
+
+payment of the annual fee by the student. In some cases amounts much in excess
+
+of the stipulated amount have been paid. Mr. Ghosh produces some documents
+
+and argues that the amounts paid were much lesser. For example, he says that
+
+only Rs.90,000/- was paid to Mr. Pradip Mukhopadhyay, Rs.45,000/- paid to
+
+Smt. Rupashree Banerjee and Rs.27,000/- paid to Mr. Kanak Kumar Maity.
+
+</p><p id="p_15">       Till this point is fully resolved on filing of affidavits, I ask Mr. Sandwip
+
+Mukherjee, Special Officer to ensure that no ECC payment is made in derogation
+
+of the above stipulation made in the rules of the Foundation.
+
+</p><p id="p_16">       Let affidavits be exchanged according to the following directions:
+<span class="hidden_text" id="span_2">                                                                                             3</span>
+
+
+
+
+</p><p id="p_17">                Let affidavit in opposition be filed by 9th June, 2014. List this application
+
+         along with all pending applications on 25th June, 2014. Affidavit in reply, if any,
+
+         may be filed in the mean time. Let affidavits be similarly exchanged in GA
+
+         No.3063 of 2013.
+</p>
+<p id="p_18">                So far as prayer [c] is concerned, a reasonable notice of all payments above
+
+         Rs.25,000/- for travelling expenses and advertisement have to be made to the
+
+         plaintiff's representative so that he can properly object before Mr. Mukherjee, the
+
+         Special Officer.
+</p>
+<p id="p_19">                Let the Special Officer be paid by the Institute 1200 GMs. as his ad hoc
+
+         remuneration by 4th June, 2014 for the work already done. He may be further
+
+         paid @ Rs.12,000/- per month commencing from 1st June, 2014 as his
+
+         remuneration from the funds of the Institute.
+</p>
+<p id="p_20">                Certified photocopy of this order, if applied for, be supplied to the parties
+
+         subject to compliance with all requisite formalities.
+
+
+
+
+</p><p id="p_21">                                                                 (I.   P. MUKERJI, J.)
+
+Pkd.
+</p><p id="p_22">A.R.[C.R.]
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Indusind Bank Ltd vs Rahi Electronics Pvt. Ltd. And 3 ... on 16 January, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/15871143/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1306164/">THE ARBITRATION AND CONCILIATION ACT, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1286256/">Section 36 in The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1120409/">Section 9 in The Arbitration Act,   1940</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/15871143/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/15871143/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/15871143/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Indusind Bank Ltd vs Rahi Electronics Pvt. Ltd. And 3 ... on 16 January, 2019</div><div class="doc_bench">Bench: G. S. Kulkarni</div>
+
+<pre id="pre_1">                                                                               ARBP 1185-18.doc
+
+
+
+Anand                IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                         ORDINARY ORIGINAL CIVIL JURISDICTION
+
+                            ARBITRATION PETITION NO. 1185 OF 2018
+
+         Indusind Bank Ltd.                                                  .Petitioner
+
+                      Vs.
+
+         Rahi Electronics Pvt. Ltd. &amp; ors.                                   .Respondents
+
+         Mr. Sachin Masurkar a/w Ms Aarti Kulkarni &amp; Mr. Nilesh Parab,
+         Advocate, for the Petitioner
+
+                            CORAM       :      G. S. Kulkarni, J.
+</pre>
+<pre id="pre_2">                            DATE        :      16.01.2019
+         P.C.
+
+         .                  Heard learned counsel for the Petitioner.
+
+
+
+</pre><p id="p_1">         2.                 This Petition is filed under <a href="/doc/1120409/" id="a_1">Section 9</a> of the Arbitration and
+
+         <a href="/doc/1306164/" id="a_2">Conciliation Act</a>, 1996. The case of the Petitioner is that a Loan
+
+         Agreement dated 31.08.2016 was executed between the Petitioner and
+
+         the Respondent No. 1 whereby financial facilities for Rs. 35,00,000/-
+
+         would be extended to the Respondent No. 1. It is the case of the
+
+         Petitioner that the Respondents have defaulted in making repayment of
+
+         the said loan. It is stated that the Petitioner has by its notice dated
+
+         07.08.2018 already re-called the loan and that as on date, the
+
+         Respondents are liable to pay an amount of about Rs.38,05,131/-.
+
+
+</p><p id="p_2">                                                                                            1 of 3
+
+
+<span class="hidden_text" id="span_1">        ::: Uploaded on - 17/01/2019                       ::: Downloaded on - 18/01/2019 05:01:19 :::</span>
+                                                                         ARBP 1185-18.doc
+
+
+ Learned counsel for the Petitioner states that private service of this
+
+ Petition is already effected and Affidavit of service to that effect dated
+
+ 15.12.2018 is already placed on record.
+</p>
+<p id="p_3">
+
+</p><p id="p_4"> 3.                In the above circumstances, learned counsel for the
+
+ Petitioner has prayed for ad-interim relief in terms of prayer clause (b).
+
+
+
+</p><p id="p_5"> 4.                Having heard learned counsel for the Petitioner and
+
+ having perused the documents as placed on record, in my prima facie
+
+ opinion, it appears that the financial facilities were extended to the
+
+ Respondents under the said Loan Agreement and there appears to be
+
+ only default on the part of the Respondents in paying the instalments
+
+ of the said loan. There is an arbitration agreement between the parties.
+
+
+
+</p><p id="p_6"> 5.                In the above circumstances, at this stage of the
+
+ proceedings, it is in the interest of justice, an ad-interim relief in terms
+
+ of part of prayer clause (b) is granted, to the following extent :-
+
+</p><blockquote id="blockquote_1">                   "(b) Pending the hearing and final disposal of
+                   the arbitration proceedings or at any time after
+                   the making of the Arbitral Award but before it
+                   is enforced in accordance with <a href="/doc/1286256/" id="a_3">Section 36</a> of
+                   the Arbitration and <a href="/doc/1306164/" id="a_4">Conciliation Act</a>, 1996, this
+                   Hon'ble Court be pleased to direct the
+                   Respondents to disclose the location of the
+                   other assets belong to and owned by the
+                   Respondents and each of them."
+</blockquote>
+<blockquote id="blockquote_2">                                                                                     2 of 3
+
+
+<span class="hidden_text" id="span_2">::: Uploaded on - 17/01/2019                        ::: Downloaded on - 18/01/2019 05:01:19 :::</span>
+                                                                     ARBP 1185-18.doc
+
+
+
+</blockquote><blockquote id="blockquote_3"> 6.                Issue notice to the Respondents, returnable on 30.01.2019.
+</blockquote>
+<p id="p_7"> In addition to the Court notice, learned counsel for the Petitioner is
+
+ permitted to serve the Respondents by private service. This is for the
+
+ reason that all the Respondents, as seen from the title of the Petition
+
+ are having their addresses at Mumbai. Affidavit of service to that effect
+
+ be placed on record before the adjourned date of hearing.
+
+
+
+</p><p id="p_8">                                                         (G. S. Kulkarni, J.)
+
+
+
+
+                                                                                 3 of 3
+
+
+<span class="hidden_text" id="span_3">::: Uploaded on - 17/01/2019                    ::: Downloaded on - 18/01/2019 05:01:19 :::</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

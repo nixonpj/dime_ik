@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Velusamy vs The Sub Inspector Of Police on 28 November, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/150414593/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1432790/">Section 188 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1096965/">Section 143 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1599401/">Section 341 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/150414593/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/150414593/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/150414593/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Velusamy vs The Sub Inspector Of Police on 28 November, 2019</div><pre id="pre_1">                                                             1
+
+                          BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+
+                                                    DATED: 28.11.2019
+
+                                                           CORAM:
+
+                                   THE HON'BLE MR.JUSTICE G.K.ILANTHIRAIYAN
+
+                                            CRL.O.P(MD) No.17812 of 2019
+                                            and CRL.M.P (MD)10470 of 2019
+
+                      Velusamy                                                        ... Petitioner
+                                                            Vs.
+
+
+                      The Sub Inspector of Police
+                      Anna Nagar Police Station
+                      Madurai City, Madurai                                           ... Respondent
+
+
+                      PRAYER: Criminal Original Petition filed under <a href="/doc/1233094/" id="a_1">Section 482</a> of Cr.P.C, to call
+                      for the records in connection with the crime number 709 of 2018 dated
+                      25.05.2018 on the file of the Sub Inspector of Police, Anna Nagar Police
+                      Station,Madurai City, Madurai and quash the same.
+
+
+                                          For Petitioner          : Mr.M.Lingadurai
+                                          For Respondent          : Mr.K.Suyambulinga Bharathi
+                                                                    Government Advocate(Crl.Side)
+
+
+                                                           ORDER
+</pre>
+<p id="p_1">                                   This Criminal Original Petition has been filed to quash the Crime
+
+                      No. 709 of 2018 on the file of the respondent police.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                             2</span>
+
+
+
+</p><p id="p_2">                            2.       The case of the prosecution is that on 25.05.2018 at bouat 1.30
+
+                      p.m the petitioner along with others blocked the road and protested against
+
+                      the arrest of the DMK leader M.K.Stalin and to close the sterlite factory. On
+
+                      the basis of the above said allegation, the respondent police registered the
+
+                      complaint and filed a First Information Report against the petitioner and
+
+                      others for the offences under <a href="/doc/1599401/" id="a_2">Sections 341</a>, <a href="/doc/1096965/" id="a_3">143</a>, and <a href="/doc/1432790/" id="a_4">188</a> IPC in Crime No.
+
+                      709 of 2018.
+</p>
+<p id="p_3">
+
+</p><p id="p_4">                            3.       The learned counsel appearing for the petitioner submitted that
+
+                      the petitioner is innocent. According to <a href="/doc/1233094/" id="a_5">Section 195(1)(a)</a> of Cr.P.C., no Court
+
+                      can take cognizance of an offence under <a href="/doc/1432790/" id="a_6">Section 188</a> of IPC, unless the public
+
+                      servant has written order from the authority. Further he submitted that the
+
+                      petitioner or any other members had never involved in any unlawful assembly
+
+                      and there is no evidence that the petitioner or others restrained anybody.
+
+                      However, the officials of the respondent police had beaten the petitioners and
+
+                      others. When there was lot of members involved in the protest, the
+
+                      respondent police had registered this case, under <a href="/doc/1599401/" id="a_7">Section 341</a>, <a href="/doc/1096965/" id="a_8">143</a>, and <a href="/doc/1432790/" id="a_9">188</a>
+
+                      IPC as against the petitioner and others. Therefore, he sought for quashing
+
+                      the proceeding.
+</p>
+<p id="p_5">
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                                                              3</span>
+
+</p><p id="p_6">                             4.     Per   contra,   the   learned    Government     Advocate(Crl.Side)
+
+                      submitted that on 25.05.2018 at bouat 1.30 p.m the petitioner along with
+
+                      others blocked the road and protested against the arrest of the DMK leader
+
+                      M.K.Stalin and to close the sterlite factory and there are specific allegations as
+
+                      against the petitioners to proceed with the trial. Further, he would submit
+
+                      that <a href="/doc/1432790/" id="a_10">Section 188</a> of IPC is a cognizable offence and therefore it is the duty of
+
+                      the police to register a case. Though there is a bar under <a href="/doc/1233094/" id="a_11">Section 195(a)(i)</a> of
+
+                      Cr.P.C. to take cognizance for the offence under <a href="/doc/1432790/" id="a_12">Section 188</a> of IPC, it does
+
+                      not mean that the police cannot register FIR and investigate the case.
+
+                      Therefore, he vehemently opposed the quash petition and prayed for
+
+                      dismissal of the same.
+</p>
+<p id="p_7">
+
+</p><p id="p_8">                             5.     Heard Mr.M.Lingadurai, learned counsel for the petitioners and
+
+                      Mr.K.Suyambulinga      Bharathi,    learned   Government      Advocate(Crl.Side)
+
+                      appearing for the respondents.
+</p>
+<p id="p_9">
+
+</p><p id="p_10">                             6.     On perusal of the charge, it is seen that on 25.05.2018 at bouat
+
+                      1.30 p.m the petitioner along with others blocked the road and protested
+
+                      against the arrest of the DMK leader M.K.Stalin and to close the sterlite
+
+                      factory without permission      getting prior permission from the concerned
+
+                      authority. Therefore     the respondent police levelled the charges under
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                                                                4</span>
+
+                      <a href="/doc/1599401/" id="a_13">Sections 341</a>, <a href="/doc/1096965/" id="a_14">143</a> and <a href="/doc/1432790/" id="a_15">188</a> of I.P.C. as against the petitioner and others.
+
+                      Except the official witnesses, no one has spoken about the occurrence and no
+
+                      one was examined to substantiate the charges against the petitioner. It is
+
+                      also seen from the charge itself that the charges are very simple in nature
+
+                      and trivial. <a href="/doc/1432790/" id="a_16">Section 188</a> reads as follows:
+</p>
+<blockquote id="blockquote_1">                                          “188. Disobedience to order duly promulgated by
+                                   public servant — Whoever, knowing that, by an order
+                                   promulgated by a public servant lawfully empowered to
+                                   promulgate such order, he is directed to abstain from a
+                                   certain act, or to take certain order with certain property in
+                                   his possession or under his management, disobeys such
+                                   direction, shall, if such disobedience causes to tender to
+                                   cause obstruction, annoyance or injury, or risk of obstruction,
+                                   annoyance or injury, to any person lawfully employed, be
+                                   punished with simple imprisonment for a term which may
+                                   extend to one month or with fine which may extend to two
+                                   hundred rupees, or with both; and if such disobedience
+                                   causes or trends to cause danger to human life, health or
+                                   safety, or causes or tends to cause a riot or affray, shall be
+                                   punished with imprisonment of either description for a term
+                                   which may extend to six months, or with fine which may
+                                   extend to one thousand rupees, or with both.</blockquote><p id="p_11">
+
+
+
+</p><p id="p_12">                            7.     The only question for consideration is that whether the
+
+                      registration of case under <a href="/doc/1599401/" id="a_17">Sections 341</a>,<a href="/doc/1096965/" id="a_18">143</a>, <a href="/doc/1432790/" id="a_19">188</a> IPC, registered by the
+
+                      respondent is permissible under law or not? In this regard it is relevant to
+
+                      extract <a href="/doc/1233094/" id="a_20">Section 195(1)(a)</a> of the Criminal Procedure Code, 1973 :-
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                                                                 5</span>
+
+                                   “195.Prosecution for contempt of lawful authority of public
+                                   servants, for offences against public justice and for offences
+                                   relating to documents given in evidence. (1) No Courts hall
+                                   take cognizance-
+</p><p id="p_13">                                           (a) (i) of any offence punishable under sections 172 to
+                                   188 (both inclusive)of the Indian Penal Code (45 of 1860), or
+</p><p id="p_14">                                           (ii)of any abetment of, attempt to commit, such
+                                   offence, or
+</p><p id="p_15">                                           (iii) of any criminal conspiracy to commit, such
+                                   offence, except on the complaint in writing of the public
+                                   servant concerned or of some other public servant to whom
+                                   he is administratively subordinate;...”
+
+
+
+                      Therefore, it is very clear that for taking cognizance of the offences under
+
+                      <a href="/doc/1432790/" id="a_21">Section 188</a> of IPC, the public servant should lodge a complaint in writing and
+
+                      other than that no Court has power to take cognizance.
+
+</p><p id="p_16">                            8.     In the case on hand, the First Information Report has been
+
+                      registered by the respondent police for the offences under <a href="/doc/1599401/" id="a_22">Sections 341</a>,<a href="/doc/1096965/" id="a_23">143</a>
+
+                      and <a href="/doc/1432790/" id="a_24">188</a> IPC . He is not a competent person to register FIR for the offences
+
+                      under <a href="/doc/1432790/" id="a_25">Section 188</a> of IPC. As such, the First Information Report or final report
+
+                      is liable to be quashed for the offences under <a href="/doc/1432790/" id="a_26">Section 188</a> of IPC. Further, the
+
+                      complaint does not even state as to how the protest formed by the petitioner
+
+                      and others is an unlawful protest and does not satisfy the requirements of
+
+                      <a href="/doc/1096965/" id="a_27">Section 143</a> of IPC. Therefore, the final report cannot be sustained and it is
+
+                      liable to be quashed.
+</p>
+<p id="p_17">
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                                                            6</span>
+
+
+
+</p><p id="p_18">                            9.     Accordingly, the proceedings in Crime No. 709 of 2018          is
+
+                      quashed insofar as the petitioner concerned and the Criminal Original Petition
+
+                      is allowed. Consequently, connected miscellaneous petition is closed.</p><pre id="pre_2">
+
+
+
+                                                                                   28.11.2019
+                      Index       : Yes / No
+                      Internet    : Yes / No
+                      Speaking/Non-speaking order
+
+                      aav
+
+                      To:
+
+                      1.The Sub Inspector of Police
+                        Anna Nagar Police Station
+                         Madurai City, Madurai
+
+                      2. The Additional Public Prosecutor
+                         Madurai Bench of Madras High Court.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_6">                          7</span>
+
+                                   G.K.ILANTHIRAIYAN, J.
+
+                                                       aav
+
+
+
+
+                               CRL.O.P(MD) No.17812 of 2019
+                              and CRL.M.P (MD)10470 of 2019
+
+
+
+
+                                                 28.11.2019
+
+
+http://www.judis.nic.in
+</pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

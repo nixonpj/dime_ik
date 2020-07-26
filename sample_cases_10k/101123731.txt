@@ -1,0 +1,744 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>The Associated Press, Through Its ... vs Laurinda Keys Long &amp; Another on 31 July, 2009</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/101123731/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:101123731">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/269107/">The Finance Commission (Miscellaneous Provisions) Act,   1951</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/678364/">Section 17 in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1905977/">Section 17(1) in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1632564/">Section 17(2) in The Industrial Disputes Act,   1947</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1941999/">Section 2 in The Finance Commission (Miscellaneous Provisions) Act,   1951</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/101123731/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/101123731/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/101123731/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%22journalist%22">"journalist"</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=working%20journalist%20%20">working journalist  </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=question%20of%20fact">question of fact</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=disputed%20question%20of%20facts">disputed question of facts</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=appointing%20authority">appointing authority</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=conferring%20of%20jurisdiction">conferring of jurisdiction</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">The Associated Press, Through Its ... vs Laurinda Keys Long &amp; Another on 31 July, 2009</div><div class="doc_author">Author: Sanjiv Khanna</div>
+
+<pre id="pre_1">                                                      REPORTABLE
+
+*             IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+
+
++                WRIT PETITION (CIVIL) NO.3783 OF 2008
+
+
+                                 Reserved on :       22nd July, 2009.
+%                                Date of Decision : 31st July, 2009.
+
+
+THE ASSOCIATED PRESS, THROUGH
+ITS GENERAL MANAGER                                ..... Petitioner.
+
+                     Through Mr. Ravinder Sethi, Sr. Advocate
+                     with Mr S. Gupta, Mr. Ateev Mathur, Mr. Manish
+                     Paliwal and Mr. Puneet Sharma, Advocates.
+
+                                VERSUS
+
+
+
+LAURINDA KEYS LONG &amp; ANOTHER                      ... Respondents</pre>
+
+<p id="p_1">                                Through Mr. K.C. Mittal, Advocate
+                                with Mr. Suman Doval, MSection
+                                Ruchika Mittal and Mr. Sujeet Singh,
+                                Advocates.
+</p>
+<p id="p_2">CORAM:
+</p><p id="p_3">HON'BLE MR. JUSTICE SANJIV KHANNA
+
+</p><p id="p_4">1. Whether Reporters of local papers may be
+allowed to see the judgment?
+</p><p id="p_5">2. To be referred to the Reporter or not ?  Yes
+</p><p id="p_6">3. Whether the judgment should be reported
+in the Digest ?                             Yes
+
+
+
+SANJIV KHANNA, J.:
+</p>
+<p id="p_7">1.          Ms. Laurinda Keys Long, the respondent No.1 herein is a
+
+person of Indian origin holding an American passport, who was
+
+
+WP(C) NO.3783-2008                                                   Page 1
+ employed by the Associated Press, the petitioner herein on 11th
+
+October, 1976 in U.S.A. The petitioner is an accredited news agency
+
+with Press Information Bureau and engaged in news collection and
+
+distribution.
+</p>
+<p id="p_8">2.    The respondent No.1 after employment with the petitioner
+
+worked in various countries as per their directions and requirement as
+
+a Journalist. By letter dated 27th August, 1999, she was transferred
+
+and posted for the first time to India (New Delhi) as a News Editor.
+
+The respondent No.1 was paid wages and salary as per the terms
+
+and conditions of employment from 1976 onwards. It is a case of the
+
+petitioner that even after transfer to India, her salary was paid in US
+
+Dollars in her US account though tax at source was being deducted
+
+and paid to the Indian Government.
+</p>
+<p id="p_9">3.    The petitioner terminated the services of the respondent No.1
+
+on 30th November, 2004. It is a case of the respondent No.1 that
+
+termination was without any cause or reason.
+
+</p><p id="p_10">4.    The respondent No.1 preferred a petition under <a href="/doc/180729963/" id="a_1">Section 17(1)</a> of
+
+the Working Journalists &amp; Other Newspaper Employees (Conditions
+
+of Service) and <a href="/doc/269107/" id="a_2">Miscellaneous Provisions Act</a>, 1955 ( Act, for short)
+
+before the Deputy Labour Commissioner for payment of gratuity by
+
+the respondent No.1. By the impugned order, which bears the date
+
+15th February, 2008, Deputy Labour Commissioner has allowed the
+
+application under <a href="/doc/269107/" id="a_3">Section 17</a> (1) of the Act and has directed the
+
+
+
+WP(C) NO.3783-2008                                               Page 2
+ petitioner to pay gratuity to the respondent No.1 of Rs. 45,10,254/-
+
+along with the interest @ 12% per annum from 23rd December, 2005.
+
+</p><p id="p_11">5.    Two questions arise for consideration in the present writ
+
+petition. Firstly, whether the Act is applicable and secondly, whether
+
+the said order could have been passed by Deputy Labour
+
+Commissioner under <a href="/doc/269107/" id="a_4">Section 17(1)</a> of the Act without recourse to
+
+proceedings as contemplated under <a href="/doc/269107/" id="a_5">Section 17(2)</a> of the Act.
+
+</p><p id="p_12">6.    <a href="/doc/269107/" id="a_6">The Act</a> was enacted to regulate conditions of service of
+
+working journalists, etc. in the newspaper establishments. <a href="/doc/1665284/" id="a_7">Section 1</a>
+
+of the Act states that it extends to whole of India. <a href="/doc/1941999/" id="a_8">Section 2(d)</a> and
+
+<a href="/doc/1941999/" id="a_9">2(f)</a> define the term "newspaper establishment" and "working
+
+Journalists". The said definition clauses are as under:-
+
+</p><blockquote id="blockquote_1">                  "2(d). "newspaper establishment" means
+            an establishment under the control of any
+            person or body of persons, whether
+            incorporated or not, for the production or
+            publication of one or more newspaper or for
+            conducting any news agency or syndicate:
+            and includes newspaper establishments
+            specified as one establishment under the
+            Schedule-
+</blockquote><blockquote id="blockquote_2">            Explanation.- For the purpose of this clause-
+</blockquote>
+<blockquote id="blockquote_3">      (a)   different departments, branches and centres
+            of newspaper establishments shall be treated
+            as parts thereof;
+</blockquote><blockquote id="blockquote_4">      (b)   a printing press shall be deemed to be a
+            newspaper establishment if the principal
+            business thereof is to print newspaper;</blockquote><p id="p_13">
+
+</p><p id="p_14">            2(f) "working journalist" means a person
+            whose principal avocation is that of a
+            journalist and who is employed as such, either
+            whole-time or part-time, in, or in relation to,
+            one or more newspaper establishments, and
+
+WP(C) NO.3783-2008                                               Page 3
+             includes an editor, a leader-writer, news-
+</p><p id="p_15">            editor, sub-editor, feature-writer, copy-tester,
+            reporter, correspondent, cartoonist, news-
+            photographer and proof-reader, but does not
+            include any such person who-
+</p>
+<p id="p_16">      (i)  is employed mainly in a managerial or
+           administrative capacity; or
+</p><p id="p_17">      (ii) being employed in a supervisory capacity,
+           performs, either by the nature of the duties
+           attached to his office or by reason of the
+           powers vested in him, functions mainly of a
+           managerial nature;"
+</p><p id="p_18">7.    On conjoint reading of <a href="/doc/1665284/" id="a_10">Sections 1</a>, <a href="/doc/1941999/" id="a_11">2(d)</a> &amp; (f) of the Act, it is
+
+apparent that relevant provisions of the Act will apply to persons, who
+
+are working journalists within the meaning of <a href="/doc/1941999/" id="a_12">Section 2(f)</a> and are
+
+employed in a newspaper establishment as defined in <a href="/doc/1941999/" id="a_13">Section 2(d)</a> of
+
+the Act. Even if the respondent No.1 was initially appointed as a
+
+working journalist in United States of America in the year 1976, and
+
+on the basis of the said initial appointment was transferred to India
+
+vide letter dated 27th August, 1999, as her services were terminated
+
+on 30th November, 2004 while working in India, she would be
+
+governed and entitled to protection and benefits under the Act. The
+
+contractual terms regulating the employment of respondent No.1 may
+
+have been agreed and settled outside India but once the respondent
+
+No.1 was transferred to India and the petitioner satisfies requirements
+
+of newspaper establishment and the respondent No.1 satisfies the
+
+requirements of a working journalist, the Act will be applicable.
+
+<a href="/doc/269107/" id="a_14">Section 16</a> of the Act in categorical terms states that the provisions of
+
+the Act will have over-riding effect on any other previous law, award,
+
+
+WP(C) NO.3783-2008                                                Page 4
+ agreement or contract of service, which are inconsistent therewith.
+
+More favourable terms are protected.
+</p>
+<p id="p_19">8.    The Supreme Court in Bennett Coleman and Co. Pvt. Ltd.,
+
+Vs. Punya Priya Das Gupta, AIR 1970 SC 426 had interpreted the
+
+expression "working journalist" in <a href="/doc/1941999/" id="a_15">Section 2(f)</a> of the Act and held that
+
+the said expression is not restricted to a newspaper employee who is
+
+presently employed in a newspaper establishment but the term
+
+includes an ex-employee, whose employment has come to an end.
+
+The first issue, therefore regarding applicability of the Act is decided
+
+in favour of the respondent No.1. It is held that the respondent No.1 is
+
+entitled to protection and benefits under the Act. The petitioner is also
+
+bound by the Act being a newspaper establishment and the
+
+respondent No.1 was a working journalist as defined for the purpose
+
+of the Act.
+</p>
+<p id="p_20">9.    The second issue relates to interpretation of <a href="/doc/269107/" id="a_16">Section 17</a> of the
+Act and the jurisdiction of Deputy Labour Commissioner to adjudicate
+the contentions and defences raised by the petitioner to the
+application under <a href="/doc/269107/" id="a_17">Section 17</a> (1) of the Act filed by respondent No.1.
+<a href="/doc/269107/" id="a_18">Section 17</a> of the Act reads as under:-
+</p>
+<p id="p_21">
+</p><blockquote id="blockquote_5">                    "[17. Recovery of money due from an
+              employer.- (1) Where any amount is due
+              under this Act to a newspaper employee from
+              an employer, the newspaper employee
+              himself, or any person authorised by him in
+              writing in this behalf or in the case of the
+              death of the employee, any member of his
+              family may, without prejudice to any other
+              mode of recovery, make an application to the
+              State Government for the recovery of the
+WP(C) NO.3783-2008                                                 Page 5
+             amount due to him and if the State
+            Government, or such authority, as the State
+            Government may specify in this behalf, is
+            satisfied that any amount is so due, it shall
+            issue a certificate for that amount to the
+            Collector, and the Collector shall proceed to
+            recover that amount in the same manner as
+            an arrear of land revenue.
+</blockquote>
+<blockquote id="blockquote_6">            (2) If any question arises as to the amount
+            due under this Act to a newspaper employee
+            from his employer, the State Government
+            may, on its own motion or upon application
+            made to it, refer the question to any Labour
+            Court constituted by it under the <a href="/doc/500379/" id="a_19">Industrial
+            Disputes Act</a>, 1947 (14 of 1947) or under any
+            corresponding law relating to investigation and
+            settlement of industrial disputes in force in the
+            State and the said Act or law shall have effect
+            in relation to the Labour Court as if the
+            question so referred were a matter referred to
+            the Labour Court for adjudication under that
+            Act or law.
+</blockquote>
+<blockquote id="blockquote_7">            (3) The decision of the Labour Court shall be
+            forwarded by it to the State Government which
+            made the reference and any amount found
+            due by the Labour Court may be recovered in
+            the manner provided in sub- section (1)."
+</blockquote>
+
+
+<p id="p_22">10.   There is difference between <a href="/doc/269107/" id="a_20">Section 17(1)</a> and <a href="/doc/269107/" id="a_21">Section 17(2)</a> of
+
+the Act. <a href="/doc/269107/" id="a_22">Section 17(1)</a> of the Act provides for recovery of an amount
+
+due to a newspaper employee from an employer as arrears of land
+
+revenue. A newspaper employee, for this purpose, is required to
+
+make an application to the State Government or authority appointed
+
+by the State Government, who can issue a certificate for recovery of
+
+the amount through the Collector under the Land Revenue Act. The
+
+State Government or the authority under <a href="/doc/269107/" id="a_23">Section 17(1)</a> should be
+
+WP(C) NO.3783-2008                                              Page 6
+ satisfied that the amount is due to the newspaper employee before a
+
+certificate is issued.
+</p>
+<p id="p_23">11.   <a href="/doc/269107/" id="a_24">Section 17(2)</a> of the Act stipulates that when any question
+
+arises as to the amount due under the Act to a newspaper employee
+
+from an employer, the State Government on its own motion or on an
+
+application will refer the disputes to the Labour Court under the
+
+<a href="/doc/500379/" id="a_25">Industrial Disputes Act</a>, 1947 or corresponding law, if applicable.
+
+<a href="/doc/1632564/" id="a_26">Section 17(2)</a> applies when a dispute arises about the amount due to
+
+the newspaper employee from the employer. The dispute is to be
+
+adjudicated by the Labour Court under the <a href="/doc/500379/" id="a_27">Industrial Disputes Act</a>
+
+after reference is made by the State Government on its own motion
+
+or on an application made. Sub Section (3) to <a href="/doc/678364/" id="a_28">Section 17</a> stipulates
+
+that the amounts determined by the Labour Court under <a href="/doc/1632564/" id="a_29">section 17(2)</a>
+
+can be recovered under <a href="/doc/1905977/" id="a_30">Section 17(1)</a> of the Act. Under Sub-Section
+
+(1) to <a href="/doc/678364/" id="a_31">Section 17</a> of the Act, the State Government or the authority
+
+appointed by the State Government is not competent and authorized
+
+to adjudicate the disputes relating to the amount claimed or due. The
+
+State Government or the authority appointed by the State
+
+Government is not an adjudicating authority and capable of deciding
+
+the disputes on the amount due. The State Government or the
+
+authority cannot adjudicate and determine the rights, accept or reject
+
+the claim or defence by passing a detailed order dealing with the
+
+merits and contentions raised by the parties. In such cases the matter
+
+has to be referred to adjudication under <a href="/doc/1632564/" id="a_32">Section 17(2)</a> of the Act.
+
+</p><p id="p_24">WP(C) NO.3783-2008                                              Page 7
+ Satisfaction required under <a href="/doc/1905977/" id="a_33">Section 17(1)</a> is not equivalent to; nor
+
+confers jurisdiction to adjudicate disputed questions. The Supreme
+
+Court   in   Kasturi   &amp;   Sons     Pvt.   Ltd.   Versus   Section   N.
+
+Salivateswaran &amp; Others 1959 SCR 1 had examined the provisions
+
+of <a href="/doc/678364/" id="a_34">Section 17</a> of the Act and had observed that the inquiry
+
+contemplated under <a href="/doc/1905977/" id="a_35">Section 17(1)</a> requires a summary inquiry of very
+
+limited nature and is confined to narrow question what is the actual
+
+amount due to be paid to the employee under the decree, award or
+
+any other valid order obtained by the employee after he or she
+
+establishes the claim. The Supreme Court rejected the contention
+
+that the State Government or the authorized authority can hold an
+
+inquiry into the merits and contentious issues regarding an
+
+employee's claim while deciding the question of satisfaction under
+
+<a href="/doc/678364/" id="a_36">Section 17</a> (1) of the Act. The Supreme Court observed:-
+
+
+</p><blockquote id="blockquote_8">                    "9. ..... It is well-known that, whenever
+             the legislature wants to confer upon any
+             specified authority powers of a civil Court in
+             the matter of holding enquiries, specific
+             provision is made in that behalf. If the
+             legislature had intended that the enquiry
+             authorized under <a href="/doc/678364/" id="a_37">Section 17</a> should include
+             within its compass the examination of the
+             merits of the employee's claim against his
+             employer and a decision on it, the legislature
+             would undoubtedly have made an appropriate
+             provision conferring on the State Government
+             or the specified authority the relevant powers
+             essential for the purpose of effectively holding
+             such an enquiry. The fact that the legislature
+             has enacted <a href="/doc/31217/" id="a_38">Section 11</a> in regard to the Wage
+             Board but has not made any corresponding
+             provision in regard to the State Government or
+
+WP(C) NO.3783-2008                                               Page 8
+             the specified authority under <a href="/doc/678364/" id="a_39">Section 17</a> lends
+            strong corroboration to the view that the
+            enquiry contemplated by <a href="/doc/678364/" id="a_40">Section 17</a> is a
+            summary enquiry of a very limited nature and
+            its scope is confined to the investigation of the
+            narrow point as to what amount is actually due
+            to be paid to the employee under the decree,
+            award, or other valid order obtained by the
+            employee after establishing his claim in that
+            behalf. We are reluctant to accept the view
+            that the legislature intended that the specified
+            authority or the State Government should hold
+            a larger enquiry into the merits of the
+            employee's claim without conferring on the
+            State Government or the specified authority
+            the necessary powers in that behalf. In this
+            connection, it would be relevant to point out
+            that in many cases some complicated
+            questions of fact may arise when working
+            journalists make claims for wages against
+            their employers. It is not unlikely that the
+            status of the working journalist, the nature of
+            the office he holds and the class to which he
+            belongs may themselves be matters of
+            dispute between the parties and the decision
+            of such disputed questions of fact may need
+            thorough examination and a formal enquiry. If
+            that be so it is not likely that the legislature
+            could have intended that such complicated
+            questions of fact should be dealt with in a
+            summary enquiry indicated by <a href="/doc/678364/" id="a_41">Section 17</a>.</blockquote><p id="p_25">
+
+</p><p id="p_26">            10. <a href="/doc/678364/" id="a_42">Section 17</a> seems to correspond in
+            substance to the provisions of <a href="/doc/63501/" id="a_43">Section 20</a>,
+            sub-section (1), of the Industrial Disputes
+            (Appellate Tribunal) Act, 1950, which has now
+            been repealed. Under this section, any money
+            due from an employer under any award or
+            decision of an industrial tribunal may be
+            recovered as arrears of land revenue or as a
+            public    demand      by    the    appropriate
+            Government on an application made to it by
+            the person entitled to the money under that
+            award or decision. It is clear that the
+            proceeding under <a href="/doc/63501/" id="a_44">Section 20</a>, sub-section (1),
+            could commence only if and after the
+            workman had obtained an award or decision
+
+WP(C) NO.3783-2008                                              Page 9
+             in his favour. We are inclined to think that the
+            position under <a href="/doc/678364/" id="a_45">Section 17</a> is substantially
+            similar."
+</p>
+<p id="p_27">12.   Counsel for the respondent No.1 submitted that under <a href="/doc/1905977/" id="a_46">Section
+
+17(1)</a> of the Act, the State Government or the authorized officer is
+
+entitled to adjudicate disputed questions of law and, therefore, the
+
+Deputy Labour Commissioner was entitled to interpret <a href="/doc/746513/" id="a_47">Section 5</a> of
+
+the Act and hold that the respondent No.1 was entitled to and
+
+compute quantum of gratuity. It was contended that when only
+
+disputed questions of facts are involved, the matter is required to be
+
+referred and adjudicated under <a href="/doc/678364/" id="a_48">Section 17</a> (2) of the Act. It is not
+
+possible to agree with the said contention. <a href="/doc/1632564/" id="a_49">Section 17(2)</a> of the Act
+
+will apply when disputed questions of facts, disputed questions of law
+
+or when mixed disputed question of facts and law arise.           The
+
+jurisdiction of the State Government or the authorized authority is
+
+limited under <a href="/doc/1905977/" id="a_50">Section 17(1)</a> of the Act and confined to narrow
+
+examination for satisfaction whether any amount can be recovered.
+
+A detailed or elaborate inquiry into disputes and counter claims
+
+whether they relate to law, facts or are mixed questions of law and
+
+facts is not envisaged under <a href="/doc/1905977/" id="a_51">Section 17(1)</a> of the Act.
+
+</p><p id="p_28">13.   The petitioners in the present case had filed a detailed written
+
+statement/reply before Deputy Labour Commissioner, authorized
+
+officer appointed by the State Government under <a href="/doc/678364/" id="a_52">Section 17</a> (1) of
+
+the Act. Disputes were raised regarding applicability of <a href="/doc/746513/" id="a_53">Section 5</a> and
+
+the quantum      of gratuity payable under <a href="/doc/746513/" id="a_54">Section 5</a>. One of the
+WP(C) NO.3783-2008                                              Page 10
+ contentions raised was whether service rendered by the respondent
+
+No.1 outside India before she was transferred to India vide letter
+
+dated 27th August, 1999 can be taken into consideration and counted
+
+for computing gratuity. These questions are debatable; require
+
+adjudication and application of mind before they are decided one way
+
+or the other. Possibly the respondent No.1 has a good case and after
+
+due application of mind and reasoning, the State Government or the
+
+authorized officer may feel that the claimant newspaper employee
+
+would succeed, but this by itself would not confer jurisdiction on the
+
+State Government or authorized officer to exercise power under
+
+<a href="/doc/1632564/" id="a_55">Section 17(2)</a> of the Act. Lack of jurisdiction will make an order void
+
+and lifeless, even when the decision is correct. A right decision
+
+cannot confer jurisdiction, when under the statute the adjudicator has
+
+no authority and power to decide. Adjudication is to be made by the
+
+Labour Court and not by the State Government or the authorized
+
+officer under <a href="/doc/1905977/" id="a_56">Section 17(1)</a> of the Act. Any adjudication or inquiry into
+
+the merits and contentious issues can only be done under <a href="/doc/1632564/" id="a_57">Section
+
+17(2)</a> of the Act and not under <a href="/doc/1905977/" id="a_58">Section 17(1)</a> of the Act. Any order
+
+passed by the State Government or the authorized officer under
+
+<a href="/doc/1905977/" id="a_59">Section 17(1)</a> of the act adjudicating the disputes and contentions
+
+relating to merits and the amount due would be without jurisdiction. It
+
+is clear from the order stated to be dated 4th May, 2008 that the
+
+respondent No.2, Deputy Labour Commissioner has adjudicated the
+
+disputes and contentions raised by the parties in the order. He has,
+
+WP(C) NO.3783-2008                                               Page 11
+ therefore, acted without jurisdiction and the order cannot be
+
+sustained.
+</p>
+<p id="p_29">14.   In view of the aforesaid discussion the writ petition is allowed
+
+and the impugned order dated 4th May, 2008 passed by Deputy
+
+Labour Commissioner is set aside. The claim of the respondent No.1
+
+for gratuity and the quantum thereof has to be adjudicated under
+
+<a href="/doc/678364/" id="a_60">Section 17</a> (2) of the Act. The State Government is at liberty to make
+
+reference to the Labour Court under <a href="/doc/1632564/" id="a_61">Section 17(2)</a> of the Act.
+
+</p><p id="p_30">15.   It is clarified that this Court has not expressed any opinion;
+
+whether the claim of the respondent No.1 for payment of gratuity and
+
+quantum thereof is maintainable under <a href="/doc/746513/" id="a_62">Section 5</a> of the Act. It is
+
+further clarified that this Court has not examined other contentions
+
+raised by the petitioner with regard to back dating of the impugned
+
+order in view of the aforesaid reasoning. No Costs.
+
+
+
+
+</p><p id="p_31">                                              (SANJIV KHANNA)
+                                                  JUDGE
+JULY 31, 2009.</p><pre id="pre_2">
+NA/P
+
+
+
+
+WP(C) NO.3783-2008                                              Page 12
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

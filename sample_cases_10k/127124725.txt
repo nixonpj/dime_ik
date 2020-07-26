@@ -1,0 +1,540 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Pawan Kumar on 26 August, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/127124725/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:127124725">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1059693/">the Customs Act, 1962</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/996365/">Section 165 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1137396/">Section 100 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/127124725/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/127124725/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=pawan%20kumar">pawan kumar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=krishan%20kumar">krishan kumar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shamsher">shamsher</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shamsher%20singh%20">shamsher singh </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=25%20arms%20act">25 arms act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2025%20arms%20act">section 25 arms act</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Pawan Kumar on 26 August, 2010</div><div class="doc_author">Author: Mr. Sudhanshu Kaushik</div>
+
+<pre id="pre_1">                                           1
+                                                                       FIR no. 534/06
+                                                              State Vs. Pawan Kumar
+
+                IN THE COURT OF SH. SUDHANSHU KAUSHIK: MM :
+                          ROHINI COURTS: DELHI.
+
+                                      State Vs.   :    Pawan Kumar
+                                      FIR No      :    534/06
+                                      U/s         :    25 of <a href="/doc/1934415/" id="a_1">Arms Act</a>
+                                      PS          :    SP Badli
+
+                                 JUDGEMENT
+</pre>
+<pre id="pre_2">     A. Sl. no. of the case                           92/03
+
+
+     B. Offence complained of
+        or proved                                     U/s 25 of <a href="/doc/1934415/" id="a_2">Arms Act</a>
+
+
+     C. Date of Offence                               29.06.2006
+
+
+     D. Name of the complainant                       Ct. Shamsher Singh
+                                                      No. 1779/NW, PS SP Badli.
+
+     E. Name of the accused                           Pawan Kumar
+                                                      S/o Sh. Banwari Lal
+                                                      R/o House no. A-2/61,
+                                                      Sawroop Nagar, Delhi
+
+     F.   Plea of the accused                         Pleaded not guilty
+
+     G.   Final order                                 Convicted
+
+     H.   Date of Order                               26.8.2010
+
+
+Brief reasons for decision:
+
+</pre><p id="p_1">1.            The story of the prosecution in brief is as under :
+
+</p><p id="p_2">              In the year 2006, Constable Shamsher Singh and Constable
+
+Krishan were posted at PS SP Badli. On 29.06.2006 at around 11.00 pm, they
+
+were on patrolling duty at ganda nala, Sawroop Nagar, Delhi. They saw that
+
+
+<span class="hidden_text" id="span_1">                                                                                  1/8</span>
+<span class="hidden_text" id="span_2">                                          2</span>
+                                                                 FIR no. 534/06
+                                                        State Vs. Pawan Kumar
+
+one boy was coming from the opposite direction. On seeing them, the boy
+
+started walking backwards. The police personnel became suspicious. They
+
+apprehended the boy after chasing him. On his personal search conducted by
+
+them, a buttondar knife was recovered from the right side pocket of his track
+
+pant. Information regarding the incident was delivered by them at PS SP Badli
+
+vide DD no. 83B. On gaining the said information, HC Surya Prakash reached
+
+the spot and carried out the investigation. The recovered knife was seized. Site
+
+plan as well as rough sketch of the knife was prepared. Based on the said facts,
+
+FIR bearing no. 534/06 under <a href="/doc/73862/" id="a_3">Section 25</a>/<a href="/doc/1934415/" id="a_4">54</a>/<a href="/doc/1934415/" id="a_5">59</a> Arms Act was registered at PS
+
+SP Badli.
+</p>
+<p id="p_3">2.           After investigation, chargesheet was put to the court. The copies of
+
+chargesheet were supplied to the accused in compliance of section 207 Cr. PC
+
+and charge under <a href="/doc/73862/" id="a_6">Section 25</a> of Arms Act was framed against him to which he
+
+pleaded not guilty and claimed trial.
+</p>
+<p id="p_4">3.           In support of its version, the prosecution has examined four
+
+witnesses.
+</p>
+<p id="p_5">4.           PW-1 HC Chander Mohan is the Duty Offier who has proved the
+
+registration of the FIR no. 534/06 lodged at PS SP Badli. The said FIR is Ex.
+
+PW-1/A. PW-2       Constable Shamsher Singh is the police personnel who
+
+alongwith constable Krishan Kumar had initially apprehended the accused. He
+
+has narrated the entire incident in his deposition. PW-3 Anil Yadav, UDC,
+
+Home Department has proved the notification dated 17.2.1999 as Ex. PW-
+
+
+
+<span class="hidden_text" id="span_3">                                                                             2/8</span>
+<span class="hidden_text" id="span_4">                                         3</span>
+</p><p id="p_6">                                                                FIR no. 534/06
+                                                       State Vs. Pawan Kumar
+
+3/A. PW-4 Surya Prakash is the investigating officer who has proved the
+
+investigation part. The site plan prepared by him is Ex. PW-2/E. The seizure
+
+memo vide which the knife was seized is Ex. PW-2/D.
+</p>
+<p id="p_7">5.         No other witness was examined by the prosecution and
+
+accordingly, prosecution evidence was closed.
+</p>
+<p id="p_8">6.         Accused was examined under Section 281 Cr. PC and all the
+
+incriminating evidence coming on record was put to the accused. He submitted
+
+that he is innocent and has been falsely implicated in the present case. He has
+
+further submitted that he does not wish to lead any evidence.
+
+</p><p id="p_9">7.         I have heard the final arguments and have perused the record.
+
+</p><p id="p_10">8.         On appreciation of the material available on record, I am of the
+
+considered opinion that the prosecution has successfully established the
+
+charges under <a href="/doc/73862/" id="a_7">Section 25</a> of Arms Act against the accused beyond reasonable
+
+doubt.
+</p>
+<p id="p_11">9.         PW-2 Constable Shamsher Singh has given an exact account of the
+
+incident dated 29.06.2006. He has deposed that on the said date he was on
+
+patrolling duty alongwith constable Krishan Kumar. The witness has
+
+mentioned about the time of the incident and about the manner in which he
+
+alongwith constable Krishan Kumar apprehended the accused.             He has
+
+mentioned that at around 11.00 pm, they saw one person was coming towards
+
+them. On seeing them he turned back and started running. He has deposed
+
+that the boy was apprehended and on search being made one buttondar knife
+
+
+
+<span class="hidden_text" id="span_5">                                                                           3/8</span>
+<span class="hidden_text" id="span_6">                                         4</span>
+                                                                FIR no. 534/06
+                                                       State Vs. Pawan Kumar
+
+was recovered from the right hand side pocket of the track suit which he was
+
+wearing. The witness has deposed regarding the DD entry no. 83B submitting
+
+that in terms of the said entry, the information regarding the apprehension of
+
+the accused was delivered at PS SP Badli. The said DD entry is Ex. PW-2/A.
+
+He has mentioned that after receiving the information HC Surya Prakash came
+
+to the spot.   He has made referene to his earlier statement Ex. PW-2/B
+
+submitting that the same was recorded by the investigating officer HC Surya
+
+Prakash. He has mentioned that the investigating officer handed over the
+
+original rukka to constable Krishan Kumar who returned to the spot after
+
+registration of the FIR. The FIR has been proved on record by PW-1 as Ex. PW-
+
+1/B. The witness has also mentioned regarding the sealing of the recovered
+
+knife. He has stated that the recovered knife was sealed with the seal of 'SPS'
+
+and the seal after use was handed over to constable Krishan Kumar. The case
+
+property i.e. the recovered knife has also been identified by the witness as Ex.
+
+P-1. He has identified his signatures on the seizure memo Ex. PW-2/D.
+
+</p><p id="p_12">10.         PW-4 HC Surya Praksh has proved the investigation part. He has
+
+mentioned that on gaining the information vide DD no. 83B, he reached the
+
+spot. The witness has mentioned that 8-10 public persons were requested to
+
+join the investigation, however, none agreed. The sketch of the knife prepared
+
+by him is Ex. PW-2/C. He has also given the measurement of the knife in his
+
+testimony. He has mentioned that the knife was sealed with the seal of 'SPS'.
+
+The seizure memo prepared by him Ex. PW-2/D. The witness has supported
+
+
+
+<span class="hidden_text" id="span_7">                                                                            4/8</span>
+<span class="hidden_text" id="span_8">                                              5</span>
+                                                                  FIR no. 534/06
+                                                         State Vs. Pawan Kumar
+
+and corroborated the version of PW-2 on all the material aspects. He has also
+
+identified the case property as Ex.P1.
+</p>
+<p id="p_13">11.         PW-4 has supported the version of PW-2 by giving the exact
+
+account of the events. The PW-4 has further stated that subsequent to the
+
+seizure, the knife was sealed in a pullanda and was sealed with the seal of
+
+'SPS'. The said sealed pullanda was produced by MHC(M). The same was
+
+carrying the intact seal of 'SPS' and has also been identified by PW-2.
+
+</p><p id="p_14">12.         The notification in violation of which the accused was carrying the
+
+said knife has been proved on record as Ex. PW-3/A. The knife which was
+
+recovered from the possession of the accused vide seizure memo Ex. PW-2/D
+
+was in violation of the said notification.
+</p>
+<p id="p_15">13.         The registration of FIR has been proved on record by PW-1. The
+
+witness has deposed that the said FIR has been registered on the basis of the
+
+original rukka which was sent by HC Surya Prakash.
+</p>
+<p id="p_16">14.         The testimony of witness PW-1 to PW-4 establishes the complete
+
+chain of evidence. The PW-1 to PW-4 have not been cross examined by the
+
+accused. Their testimony has remained unimpeached.
+
+</p><p id="p_17">15.         Although, no public witness have been joined in the investigation,
+
+however, the said fact itself cannot be a ground for rejecting the unimpeached
+
+testimony of the PWs. The provisions as provided under <a href="/doc/1934415/" id="a_8">Section 100</a> (4) Cr. PC
+
+is only directory and failure to comply with the said provisions will not
+
+invariably be fatal to the case of the prosecution. It has been held by the
+
+
+
+<span class="hidden_text" id="span_9">                                                                            5/8</span>
+<span class="hidden_text" id="span_10">                                           6</span>
+                                                                  FIR no. 534/06
+                                                         State Vs. Pawan Kumar
+
+Hon'ble Supreme Court in State of Punjab Vs. Balbir Singh reported in AIR
+
+1994 SC 1872 that
+
+             "The scope of these two sections (<a href="/doc/1137396/" id="a_9">section 100</a> and <a href="/doc/996365/" id="a_10">165</a> of Code of
+
+Criminal Procedure) have been examined in a number of cases. <a href="/doc/984748/" id="a_11">In Wasan Singh
+
+v. State</a> (1981) 2 SCC this Court has clearly held that irregularity in a search
+
+cannot vitiate the seizure of the articles. <a href="/doc/1919512/" id="a_12">In Suder Singh v. State of Uttar
+
+Pradesh</a>, AIR 1956 SC 411, it is held that irregularity cannot vitiate the trial
+
+unless the accused has been prejudiced by the defect and it is also held that if
+
+reliable local witnesses are not available the search would not be vitiated. <a href="/doc/1061342/" id="a_13">In
+
+State of Maharashtra v. P.K. Pathak</a>, AIR SC 1224, it is held that absence of
+
+any independent from the locality to witness the search does not affect the trial
+
+and the conviction of the accused under the <a href="/doc/1059693/" id="a_14">Customs Act</a>. <a href="/doc/402211/" id="a_15">In Radha Kishan v.
+
+State of Uttar Pradesh</a>, 1963 SC 822, it is held that irregularity in a search
+
+would , however, cast a duty upon the Court to scrutinise the evidence regarding
+
+the search very carefully. <a href="/doc/701977/" id="a_16">In Matajog Dubey v. H.C. Bahri</a>, AIR 1956 SC 44 it
+
+is held that when the salutary provisions have not been complied with, it may,
+
+however, affect the weight of the evidence in support of the search or may furnish
+
+a reason for disbelieving the evidence produced by the prosecution unless the
+
+prosecution properly explains such circumstance which made it impossible for it
+
+to comply with these provisions.......
+</p>
+<p id="p_18">             .....This again depends on question whether the official has
+
+deliberately failed to comply with these provisions or failure was due to
+
+
+<span class="hidden_text" id="span_11">                                                                              6/8</span>
+<span class="hidden_text" id="span_12">                                        7</span>
+                                                               FIR no. 534/06
+                                                      State Vs. Pawan Kumar
+
+lack of time and opportunity to associate some independent witnesses with
+
+the search and strictly comply with these provisions."
+
+</p><p id="p_19">16.        There is no reason to doubt the testimony of PWs merely because
+
+they are police personnel. It has been held by the Hon'ble Supreme Court in
+
+Karamjit Singh Vs. State (Delhi Administration) reported in AIR 2003 SC
+
+<span class="hidden_text" id="span_13">1311</span>
+
+           "........The testimony of police personnel should be treated in the
+
+same manner as testimony of any other witness and there is no principle of
+
+law that without corroboration by independent witnesses their testimony
+
+cannot be relied upon. The presumption that a person acts honestly applies
+
+as much in favour of police personnel as of other persons and it is not a
+
+proper judicial approach to distrust and suspect them without good
+
+grounds. It will all depends upon the facts and circumstances of each case
+
+and no principle of general application can be laid down....."
+
+</p><p id="p_20">17.         In the light of the said judgement, the testimony of PWs cannot be
+
+discarded merely on the ground that they are police personnel. Constable
+
+Krishan Kumar who has accompanying constable Shamsher has not been
+
+examined. However, his non examination is not fatal. PW-2 and PW-4 have
+
+supported and corroborated the version of each other by giving a similar
+
+account of the incident. Their unimpeached testimony cannot be discarded
+
+merely because of non examination of constable Krishan Kumar.
+
+</p><p id="p_21">18.        The charges under <a href="/doc/73862/" id="a_17">Section 25</a> of Arms Act against the accused
+
+
+
+<span class="hidden_text" id="span_14">                                                                          7/8</span>
+<span class="hidden_text" id="span_15">                                       8</span>
+                                                              FIR no. 534/06
+                                                     State Vs. Pawan Kumar
+
+beyond reasonable doubt have been established. It is established on record
+
+that on 29.06.2006, the accused was found in possession of a knife which was
+
+in violation of the notification Ex. PW-3/A. Accordingly, the accused stands
+
+convicted for the offences under <a href="/doc/73862/" id="a_18">Section 25</a> of Arms Act.
+
+
+
+</p><pre id="pre_3">Announced in open Court                      (Sudhanshu Kaushik)
+Dated 26.8.2010                              Metropolitan Magistrate
+                                             Rohini Courts, Delhi
+
+
+
+
+<span class="hidden_text" id="span_16">                                                                        8/8</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,1379 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Mr. Rajindar Mohindra &amp; Anr vs M/S Knoll Pharmaceuticals Ltd on 27 July, 2007</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/34899031/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 15 docs 
+      
+        - [<A HREF="/search/?formInput=cites:34899031">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/221518/">Section 53A in The Transfer of Property Act, 1882</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/515323/">The Transfer of Property Act, 1882</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/301256/">Ragu Thilak D. John vs S.Rayappan &amp; Others on 23 January, 2001</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/67425386/">Shiromani Gurdwara Prabhandak ... vs Jaswant Singh on 4 September, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1263883/">Raj Kumar vs Dipender Kaur Sethi on 19 November, 2004</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/34899031/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/34899031/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2053a">section 53a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=agreement%20to%20sell">agreement to sell</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=Agreement%20to%20sell%20and%20sell%20agreement%20">Agreement to sell and sell agreement </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amendment%20not%20to%20be%20allowed">amendment not to be allowed</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amendment%20application">amendment application</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=amendment%20in%20amendment%20application">amendment in amendment application</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=transfer%20of%20property%20section%2053a">transfer of property section 53a</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.53a%20of%20transfer%20of%20property%20act">sec.53a of transfer of property act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2053a%20transfer%20of%20property%20act">section 53a transfer of property act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=53a%20transfer%20of%20property%20act">53a transfer of property act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s.53a%20of%20transfer%20of%20property%20act">s.53a of transfer of property act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=suit%20for%20possession">suit for possession</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=inconsistent%20plea">inconsistent plea</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=enhance%20of%20rent">enhance of rent</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20suit%20%20for%20possession%20of%20property"> suit  for possession of property</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=further%20pleading%20in%20written%20statement">further pleading in written statement</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=part%20performance%20citedby%3A221518">part performance citedby:221518</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=part%20performance">part performance</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20xii%20rule%206%20cpc">order xii rule 6 cpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20xii%20rule%206%20civil%20procedure%20code">order xii rule 6 civil procedure code</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">Mr. Rajindar Mohindra &amp; Anr vs M/S Knoll Pharmaceuticals Ltd on 27 July, 2007</div><div class="doc_author">Author: Sh. Girish Kathpalia</div>
+
+<pre id="pre_1">                                                                 1
+
+           IN THE COURT OF SH. GIRISH KATHPALIA,
+              ADDITIONAL DISTRICT JUDGE, DELHI
+
+
+SUIT NO.39/04
+
+            MR. RAJINDAR MOHINDRA &amp; ANR.
+                                                    ....PLAINTIFFS
+
+versus
+
+            M/S KNOLL PHARMACEUTICALS LTD.
+                                        ....DEFENDANT
+
+                              ORDER
+</pre>
+<p id="p_1">1.    This order shall dispose of defendant's application dated
+
+24/07/06 seeking to amend the            written statement dated
+
+21/09/02 in order to insert a preliminary objection worded as
+
+follows:
+</p>
+<blockquote id="blockquote_1">              "15. That the suit is liable to be
+              dismissed and no order for recovery of
+              possession is liable to be passed in
+              favour of the plaintiffs and against
+              the defendant with respect to the suit
+              property. It may be appreciated that
+              the plaintiffs are debarred from
+              enforcing any right in respect of the
+              suit property against the defendant in
+              view of <a href="/doc/221518/" id="a_1">section 53A</a> of the Transfer of
+              Property Act. It may be appreciated
+              that    admittedly     the    plaintiffs
+              contracted to transfer the suit
+              property in favour of the defendant in
+              writing, the defendant in part
+              performance of the contract was
+
+
+CS/39/04                                         Page 1 of 27 pages
+<span class="hidden_text" id="span_1">                                                                  2</span>
+
+              already in possession and continues
+              to be in possession of the suit
+              property, the defendant has done
+              various acts in furtherance of the
+              contract and the defendant has all
+              along been willing and is willing to
+              perform its part of the contract".
+</blockquote>
+<p id="p_2">The reason for seeking amendment, as expressed in the
+
+application    under   consideration,   is   that   although   the
+
+pleadings clearly establish that the defendant is entitled to
+
+protection of <a href="/doc/221518/" id="a_2">section 53A</a> Transfer of Property Act, since
+
+plaintiffs have taken a frivolous objection of lack of specific
+
+submission, the amendment of written statement has become
+
+necessary.
+</p>
+<p id="p_3">2.    Reply to the amendment application was filed on behalf
+
+of plaintiffs strongly opposing the same, mainly on the
+
+grounds that by way of the amendment sought, the defendant
+
+is trying to retract certain vital admissions made by it in the
+
+written statement and if allowed, the same would severely
+
+prejudice case of the plaintiff. The amendment sought is not
+
+just malafide, having been brought after more than five years
+
+and it would frustrate plaintiff's pending application under
+
+Order XII Rule 6 CPC, the same is also not necessary for
+
+
+
+CS/39/04                                        Page 2 of 27 pages
+<span class="hidden_text" id="span_2">                                                                 3</span>
+
+deciding the controversy between the parties.
+
+</p><p id="p_4">3.    I have heard at length ld counsel for both the sides and
+
+perused the entire record.
+</p>
+<p id="p_5">4.    Briefly stated, facts relevant for present purposes are as
+
+follows. Plaintiffs of this Suit for Recovery of Possession of
+
+tenanted property with mesne profits executed lease deed
+
+dated 8/4/86, which was got registered thereby inducting the
+
+defendant as tenant in the premises bearing no.E44/10,
+
+Okhla Industrial Area, Phase-II, New Delhi (hereinafter
+
+referred to as the suit property) for a period of five years at a
+
+monthly rent of Rs.20,607/-. In terms with Clause 3 of the
+
+lease deed, defendant exercised their option to renew the lease
+
+twice for a period of five years each time with enhanced rent.
+
+The lease was terminated by way of a quit notice dated
+
+7/3/2001 and also expired by efflux of time on 31/3/2001.
+
+</p><p id="p_6">5.    During pendency of the lease, plaintiffs having acquired
+
+citizenship of USA in the year 1987 were advised by the
+
+Reserve Bank of India to transfer the suit property to some
+
+Indian citizen in order to avoid penal action under the then
+
+existing law. As such, plaintiffs entered into an Agreement to
+
+
+
+CS/39/04                                        Page 3 of 27 pages
+<span class="hidden_text" id="span_3">                                                                     4</span>
+
+Sell dated 20/11/1989 with the defendant with regard to the
+
+suit property. However, in view of the liberalizing economy and
+
+softening of the policies that was undergoing at that time, an
+
+exit option clause was inserted in the Agreement to Sell to the
+
+effect that plaintiffs would continue to be owners of the suit
+
+property and in case plaintiffs opted not to complete sale
+
+transaction, money paid by the defendant would be refunded.
+
+By way of a notification dated 26/5/1993 and other policies of
+
+the Govt. of India, foreign citizens of Indian origin were
+
+permitted to acquire and hold immoveable property in India.
+
+Plaintiffs'   position   having   changed,   they     cancelled   the
+
+Agreement to Sell vide their letter dated 28/12/1993 and
+
+returned the amount of Rs.3,00,000/- to the defendant.
+
+Thence, as per plaintiffs the Agreement to Sell stands
+
+cancelled and is non-est.
+</p>
+<p id="p_7">6.     Defendant, thereafter filed suit No.705/94 in the Hon'ble
+
+High Court of Delhi, seeking specific performance of the
+
+Agreement to Sell. In the said suit, in presence of the present
+
+plaintiffs as caveators, Hon'ble High Court passed an interim
+
+order dated 25/3/94, relevant extract whereof is:
+
+
+
+</p><p id="p_8">CS/39/04                                            Page 4 of 27 pages
+<span class="hidden_text" id="span_4">                                                                 5</span>
+
+      "Meanwhile, the parties are directed to maintain
+      status-quo with regard to possession as well as title
+      of the property. The plaintiff is further directed to
+      continue to pay the admitted amount of rent to the
+      defendants till further orders. This is however,
+      without prejudice to the contentions of the plaintiff
+      that   this     amount   is   not   payable."(emphasis
+      supplied)
+
+By way of order dated 27/11/1997, the said interim order was
+
+made absolute, relevant extract whereof is as follows:
+
+</p><blockquote id="blockquote_2">      "The interim order had been made on March 25,
+      1994 by which the parties were directed to maintain
+      status quo. The learned counsel for the defendants
+      does not pray for any modification of the same. The
+      order dated March 25, 1994 shall continue during
+      the pendency of the present proceedings. I.A. stands
+      disposed of."
+</blockquote>
+<p id="p_9">7.    During pendency of the Suit No. 705/94 plaintiffs
+
+brought the present suit for recovery of possession and mesne
+
+profits. In its Written Statement, the defendant pleaded inter
+
+alia that the notification relied upon by the plaintiffs is
+
+inapplicable since at the time of purchase of the suit property,
+
+plaintiffs were Indian citizens and consequently plaintiffs'
+
+unilateral cancellation of Agreement to Sell was illegal.
+
+</p><p id="p_10">CS/39/04                                        Page 5 of 27 pages
+<span class="hidden_text" id="span_5">                                                                   6</span>
+
+</p><p id="p_11">8.    In Written Statement, defendant also pleaded that in
+
+view of the above mentioned orders of Hon'ble High Court in
+
+Suit No. 705/94 the        present suit cannot be allowed to
+
+continue till disposal of that suit and even if this suit is
+
+decreed, the same would be in conflict with the orders passed
+
+in Suit No. 705/94. As such a preliminary issue was framed
+
+by my ld predecessor on 12/05/05, which was decided in
+
+favour of plaintiffs vide order dated 04/11/06. The said order
+
+having not been challenged, has attained finality.
+
+</p><p id="p_12">9.    In order to appreciate the      rival contentions qua this
+
+amendment application, it would be appropriate to quote the
+
+relevant portion of the above said order dated 04/11/06 of
+
+this court since one of the opposition to amendment is that if
+
+allowed,   the     amendment     would    be   contrary    to   the
+
+observations which have attained finality. The said portion of
+
+order dated 04/11/06 pertaining to the defence of <a href="/doc/221518/" id="a_3">section 53A</a>
+
+Transfer of Property Act is as under:
+</p>
+<blockquote id="blockquote_3">        "18.     The Division Bench of Hon'ble Patna
+        High Court in the case of Dr.N.P.TRIPATHI
+        (supra) also held that under such a situation
+        the tenant cannot resort to <a href="/doc/221518/" id="a_4">Section 53A</a>,
+        <a href="/doc/515323/" id="a_5">Transfer of Property Act</a>, as a weapon of offence
+
+CS/39/04                                         Page 6 of 27 pages
+<span class="hidden_text" id="span_6">                                                                 7</span>
+
+      by claiming adversary title alleging that by
+      virtue of the sale agreement he continued as
+      not a tenant but a transferee, since the
+      provision can be used only as a shield and not
+      as a sword. Even in the present case, pleadings
+      amply establish that possession of the suit
+      property continues to be held by the present
+      defendant as a tenant under the lease deeds
+      and not as a transferee under the Agreement to
+      Sell. Even after execution of the Agreement to
+      Sell the present defendant not just continued
+      paying rent but even enhanced the rent rate in
+      terms with the lease. Hon'ble High Court also
+      directed the present defendant to continue
+      paying rent, though without prejudice to the
+      contentions of the present defendant. In his
+      pleadings also the present defendant banks his
+      protection on Clause 3 of the lease deed only.</blockquote><p id="p_13">
+</p><p id="p_14">      In paras 21 and 23 of the Written Statement
+      the defence against the present suit pleaded is
+      that   consent   for   renewal   of   lease,   as
+      contemplated by Clause 3 of the lease deed
+      could not be withheld unreasonably by the
+      present plaintiff. As reflected from para 26 of
+      the Written Statement, the present defendant
+      continued to request the present plaintiff to
+      renew the lease even more than a decade after
+      execution of the sale agreement. This shows
+      amply that the defendant always claimed itself
+
+
+CS/39/04                                        Page 7 of 27 pages
+<span class="hidden_text" id="span_7">                                                                  8</span>
+
+       to be in possession of the suit property as a
+       tenant and not as a transferee. As such,
+       <a href="/doc/221518/" id="a_6">Section 53A</a>, <a href="/doc/515323/" id="a_7">Transfer of Property Act</a> also does
+       not come to the rescue of defendant in this
+       case."(The cited judgment in the case of Dr. N.P.
+       TRIPATHI is reported as <a href="/doc/1164716/" id="a_8">Dr. N. P. TRIPATHI vs
+       DAYAMANTI DEVI</a>, AIR 1988 Patna 123)
+
+</p><p id="p_15">10.   It is argued on behalf of defendant that in view of above
+
+cited observations made in order dated 04/11/06, defendant
+
+needs to formally incorporate plea of <a href="/doc/221518/" id="a_9">section 53A</a>, <a href="/doc/515323/" id="a_10">Transfer of
+
+Property Act</a>.   As per defendant, the plea           sought to be
+
+inserted now is not without basis since facts qua possession of
+
+the defendant as a purchaser have already been pleaded in
+
+the written statement to this suit and also in the suit of
+
+defendant which is pending before the Hon'ble High Court. Ld
+
+counsel for defendant took me through para 2 to 13 of the
+
+written statement and argued that the defendant has already
+
+pleaded at length that an agreement to sell the suit property
+
+had been executed between the parties and possession of the
+
+defendant is in capacity as a purchaser, hence no additional
+
+plea is being brought in by way of amendment. It was also
+
+argued that vide order dated 25/03/94 in the defendant's suit
+
+
+
+CS/39/04                                         Page 8 of 27 pages
+<span class="hidden_text" id="span_8">                                                              9</span>
+
+Hon'ble High Court directed the present defendant to pay
+
+occupation charges without prejudice to its contentions,
+
+which     also reflects that defendant has throughout been
+
+claiming its possession of the suit property as a purchaser in
+
+part performance of agreement to sell and the same entitles
+
+the defendant to protection under <a href="/doc/221518/" id="a_11">section 53A</a> Transfer of
+
+Property Act.
+</p>
+<p id="p_16">11.     Per contra, ld counsel for plaintiffs argued that the
+
+amendment sought is not necessary for decision of this suit
+
+and the same is rather malafide. It was argued that liberal
+
+approach while dealing with amendment application does not
+
+mean that the amendment has to be allowed in every case.
+
+Defendant, by way of the amendment sought, is trying to
+
+withdraw admissions made in the written statement on the
+
+basis whereof the above quoted observations were recorded in
+
+order dated 04/11/06.     Ld counsel for plaintiffs vehemently
+
+denied that the defendant has pleaded its possession as a
+
+purchaser and took me through the           complete written
+
+statement in support of his stand that defendant has
+
+throughout pleaded his possession as a tenant, which
+
+
+
+CS/39/04                                     Page 9 of 27 pages
+<span class="hidden_text" id="span_9">                                                               10</span>
+
+admissions are now being sought to be diluted by inserting for
+
+the first time a plea of <a href="/doc/221518/" id="a_12">section 53A</a> Transfer of Property Act
+
+protection. It was argued that in the name of inconsistent
+
+pleas the defendant cannot be allowed to bring in by way of
+
+amendment a plea which is destructive of its already pleaded
+
+case. Ld counsel for plaintiffs also took me through the
+
+agreement to sell on the basis of which     the defendant had
+
+filed the suit for specific performance before Hon'ble High
+
+Court and demonstrated that even after execution of the
+
+agreement to sell the defendant continued paying rent as well
+
+as enhanced rent as a tenant. It was argued that even before
+
+the Hon'ble High Court     at the stage of interim order dated
+
+25/03/94 the present defendant did not claim his possession
+
+of the suit property as owner. The amendment under
+
+consideration will also frustrate the plaintiffs' application
+
+under Order XII Rule 6 CPC which came on the basis of
+
+admissions, now tried to be diluted. It was also argued that
+
+absence of explicit plea   of <a href="/doc/221518/" id="a_13">section 53A</a> Transfer of Property
+
+Act does not make it difficult for the court to decide this suit
+
+therefore the amendment sought is also not necessary.
+
+
+
+</p><p id="p_17">CS/39/04                                     Page 10 of 27 pages
+<span class="hidden_text" id="span_10">                                                              11</span>
+
+</p><p id="p_18">12.   In rebuttal, ld counsel for defendant placed specific
+
+reliance on para 19 of the written statement and contended
+
+that the defendant has specifically pleaded its possession to
+
+be that of a purchaser, which being a specific alternate plea
+
+cannot be ignored. As such, the     defendant deserves to be
+
+allowed amendment to further elaborate the plea by explicitly
+
+citing <a href="/doc/221518/" id="a_14">section 53A</a> Transfer of Property Act. In response, ld
+
+counsel for plaintiffs contended that no paragraph of written
+
+statement can be read dehors the rest of the written statement
+
+and the corresponding paragraph of the plaint. Ld counsel
+
+took me through para 19 of the plaint while reading the
+
+corresponding paragraph of written statement to explain
+
+thread bare the same.
+</p>
+<p id="p_19">13.   Ld counsel for defendant places reliance on the following
+
+judgments:-
+</p>
+<blockquote id="blockquote_4">           1. <a href="/doc/1849903/" id="a_15">BALDEV SINGH vs MANOHAR SINGH</a>
+              2006(6) SCC 498
+</blockquote><blockquote id="blockquote_5">           2. <a href="/doc/1600644/" id="a_16">RAJESH KUMAR AGGARWAL vs K K
+              MODI &amp; ORS</a> 2006(4) SCC 385
+</blockquote><blockquote id="blockquote_6">           3. <a href="/doc/301256/" id="a_17">RAGU THILAK D JOHN vs S RAYAPPAN &amp;
+              ORS</a> 2001(2) SCC 472
+</blockquote><blockquote id="blockquote_7">           4. K KANNAN vs K. JAYALAKSHMI 2004(13)
+              SCC 41
+
+CS/39/04                                    Page 11 of 27 pages
+<span class="hidden_text" id="span_11">                                                                   12</span>
+
+</blockquote><blockquote id="blockquote_8">           5. SAJJAN     KUMAR        vs   RAM    KISHAN
+             2005(13) SCC 89
+</blockquote><blockquote id="blockquote_9">           6. <a href="/doc/1263883/" id="a_18">RAJ KUMAR vs DIPINDER KAUR SETHI</a>
+             2005(9) SCC 304
+
+</blockquote><p id="p_20">14.   Ld counsel for plaintiffs relies upon the following
+
+judgments:
+</p>
+<blockquote id="blockquote_10">           1. <a href="/doc/1763071/" id="a_19">MODI SPINNING &amp; WEAVING MILLS vs
+             LADHA RAM, Civil Appeal</a> no. 190/1976,
+             decided   by   Hon'ble    Supreme    Court    on
+             23/09/76.
+</blockquote><blockquote id="blockquote_11">           2. <a href="/doc/1950323/" id="a_20">HANS     ROLLING   SHUTTER         WORKS     vs
+             AIRMAN &amp; SAILORS</a>, 85(2000) DLT 466.
+</blockquote><blockquote id="blockquote_12">           3. <a href="/doc/1784188/" id="a_21">MADHO PARSHAD vs SHRI RAM KISHAN,
+             DCLR</a> 2001(II)Delhi 502.
+</blockquote><blockquote id="blockquote_13">           4. <a href="/doc/1765567/" id="a_22">INDER KUMAR JOHAR vs KAILASH DEVI</a>,
+             AIR 1999 P&amp;H 65.</blockquote><p id="p_21">
+
+</p><p id="p_22">15.   In the case of BALDEV SINGH(supra) Hon'ble Supreme
+
+Court held that the courts should be extremely liberal in
+
+allowing amendment unless serious injustice is caused to the
+
+other side. It was held that an amendment of a plaint and an
+
+amendment of a written statement are not necessarily
+
+governed by exactly the same principle and in the case of
+
+amendment of written statement the courts are inclined to be
+
+more liberal in allowing amendment as question of prejudice is
+
+
+CS/39/04                                          Page 12 of 27 pages
+<span class="hidden_text" id="span_12">                                                                13</span>
+
+less likely to operate with same rigour as in the case of
+
+amendment of plaint and the defendant can be permitted to
+
+bring inconsistent pleas also in the written statement which
+
+may not be permissible in plaint.
+</p>
+<p id="p_23">16.   In the case of RAJESH KUMAR AGGARWAL(supra)
+
+Hon'ble Supreme Court held that while considering an
+
+amendment application, truth or merits of the amendment
+
+sought cannot be looked into by the court. It was held that the
+
+real controversy test is the basic or cardinal test and it is the
+
+primary duty of the court to decide whether such an
+
+amendment is necessary to decide the real dispute between
+
+the parties.
+</p>
+<p id="p_24">17.   In the case of RAGU THILAK(supra) Hon'ble Supreme
+
+Court held that dominant purpose of allowing the amendment
+
+is to minimize the litigation and the plea that the relief sought
+
+by way of amendment was time barred was arguable in that
+
+case and could be made a subject matter of the issue after
+
+allowing the amendment.
+</p>
+<p id="p_25">18.   In the case of K KANNAN the plaintiff sought to amend
+
+the plaint and plead specific instances of cruelty in support of
+
+
+
+CS/39/04                                      Page 13 of 27 pages
+<span class="hidden_text" id="span_13">                                                                14</span>
+
+the relief of divorce on the grounds of cruelty sought for in the
+
+plaint. Hon'ble Supreme Court held that such amendment
+
+could not be rejected.
+</p>
+<p id="p_26">19.   In the case of SAJJAN KUMAR(supra) Hon'ble Supreme
+
+Court discussed the scope of plaint amendment in final stages
+
+of the suit and held that since the proposed amendment was
+
+necessary to decide the controversy in suit and denial of
+
+amendment was likely to create needless complications at the
+
+stage of execution, irrespective of lack of diligence on the part
+
+of plaintiff, the amendment deserves to be allowed.
+
+</p><p id="p_27">20.   In the case of RAJ KUMAR(supra) Hon'ble Supreme
+
+Court reiterated the general principles of amendment of
+
+pleadings and held that a material averment inadvertently
+
+missed can be permitted to be added. It was held that once a
+
+suit was allowed to be converted from injunction suit to
+
+specific performance suit within limitation period by first
+
+amendment, the second amendment beyond limitation period
+
+to plead readiness and willingness of plaintiff to perform his
+
+part of the contract could not be declined.
+
+</p><p id="p_28">21.   In the case of MODI SPINNING(supra) Hon'ble Supreme
+
+
+
+CS/39/04                                      Page 14 of 27 pages
+<span class="hidden_text" id="span_14">                                                             15</span>
+
+Court held that under the guise of permissible inconsistent
+
+pleas, amendment to introduce an entirely different case,
+
+which is likely to cause prejudice to the other side cannot be
+
+allowed. The amendment sought to displace the plaintiff
+
+completely from the admissions made by the defendants in the
+
+written statement would irretrievably prejudice the plaintiff
+
+and cannot be allowed.
+</p>
+<p id="p_29">22.    In the case of HANS ROLLING(supra) Hon'ble Delhi High
+
+Court held that an amendment which is unnecessary and
+
+malafide would not be permissive. It was held that broadly
+
+speaking, two conditions should be satisfied: that the
+
+amendment would not result in injustice to the other side and
+
+that   the   amendment    is necessary   for the   purpose of
+
+determining real question in controversy between the parties.
+
+</p><p id="p_30">23.    In the case of MADHO PARSHAD(supra) Hon'ble Delhi
+
+High Court held that an amendment sought only to overcome
+
+the objection raised by the other side does not appear to be
+
+bonafide and must fail.
+</p>
+<p id="p_31">24.    In the case of INDER KUMAR(supra) it was held that
+
+since the defendant was in possession of the property as a
+
+
+
+CS/39/04                                    Page 15 of 27 pages
+<span class="hidden_text" id="span_15">                                                               16</span>
+
+tenant and agreement to sell stipulated that as owner, the
+
+possession will be given at the time of sale deed and the
+
+defendant had nothing to show that his status as tenant had
+
+ceased, he could not take advantage of <a href="/doc/221518/" id="a_23">section 53A</a> Transfer of
+
+Property Act.
+</p>
+<p id="p_32">25.   Falling back to the present     case in the light of law
+
+discussed above as cited by both the sides, what is to be seen
+
+is as to whether the amendment sought in the written
+
+statement is necessary for determining the real question in
+
+controversy; whether the amendment sought is bonafide;
+
+whether the amendment sought tends to retract admissions of
+
+the defendant in the written statement on the basis of which
+
+application under Order XII Rule 6 CPC was filed by the
+
+plaintiff; and whether by way of amendment sought, the
+
+defendant can be allowed to raise a plea destructive of its plea
+
+in the existing written statement. So far as legal propositions
+
+laid down in the above cited pronouncements is concerned,
+
+there can certainly be no dispute. Case of the defendant has
+
+to be considered within the four corners of the above
+
+discussed law.     At the same time, adoption of "liberal
+
+
+
+CS/39/04                                     Page 16 of 27 pages
+<span class="hidden_text" id="span_16">                                                                 17</span>
+
+approach" does not mean that the amendment has always to
+
+be allowed irrespective of the parameters discussed above.
+
+</p><p id="p_33">26.     In order to appreciate the necessity of the amendment
+
+sought for effective decision of the controversy in suit, the
+
+pleadings have to be read in entirety and not piecemeal.
+
+Similarly, no paragraph of pleading of one party can be read
+
+dehors the corresponding para of the pleading of the other
+
+side.
+</p>
+<p id="p_34">27.     The core question is as to whether the defendant in its
+
+pleadings and documents has claimed its possession of the
+
+suit property in the capacity of a tenant under the lease deed
+
+or in the capacity of a purchaser in part performance of the
+
+agreement to sell. If it is the latter, defendant might succeed
+
+in claiming protection under <a href="/doc/221518/" id="a_24">section 53A</a> Transfer of Property
+
+Act but if it is latter, defendant would fail. I am fully conscious
+
+that truth or merits of the amendment sought fall beyond the
+
+scope of present consideration. But at the same time, the
+
+issue is necessary in order to decipher the fides of the
+
+defendant in the circumstances of this case to which I shall
+
+revert. Besides, if pleadings and documents of the defendant
+
+
+
+CS/39/04                                       Page 17 of 27 pages
+<span class="hidden_text" id="span_17">                                                               18</span>
+
+show that his possession is that of a tenant, allowing the
+
+amendment sought would displace the plaintiff completely
+
+from the admissions and cause irretrievable prejudice to the
+
+plaintiff's case in addition to permitting a plea destructive of
+
+the defence plea on record.
+</p>
+<p id="p_35">28.   Read in its entirety and in consonance with the
+
+corresponding paragraphs of plaint, the written statement is
+
+categorical that possession of the defendant in the suit
+
+property is as a tenant under the lease deed and not as a
+
+purchaser under the agreement to sell. Some of the instances
+
+of pleadings are recorded as follows.
+</p>
+<p id="p_36">29.   In para 10 of the plaint, it is pleaded that the defendant
+
+assumed possession of the suit property under lease with
+
+effect from 01/04/1986 and in the corresponding para of
+
+written statement, the defendant pleaded that the same is
+
+matter of record.   In para 11 of the plaint, plaintiff pleaded
+
+about expiry of the initial lease on 31/03/91 and first option
+
+of renewal of lease by increasing rent exercised by the
+
+defendant, which is stated to be matter of record in the
+
+corresponding para of written statement. In para 12 of the
+
+
+
+CS/39/04                                     Page 18 of 27 pages
+<span class="hidden_text" id="span_18">                                                                   19</span>
+
+plaint it is pleaded that after expiry of second period of lease
+
+on 31/03/96 the defendant exercised second renewal option
+
+by increasing the rent and the corresponding para of written
+
+statement pleads it to be a matter of record. Paras 13-17 of
+
+the plaint plead about the agreement to sell dated 20/11/89
+
+pertaining   to the suit property between the parties and
+
+exercise of exit option by the plaintiffs vide their letter dated
+
+28/12/93 thereby cancelling the agreement to sell.            In the
+
+corresponding    paragraphs,    it   is   mainly    pleaded     that
+
+cancellation of agreement to sell by the plaintiffs is not
+
+sustainable in law. In paras 20-22 of the plaint, it is pleaded
+
+that the second lease renewal option availed of by the
+
+defendant expired on 31/03/01 and further extension could
+
+not be done without plaintiffs' consent            which was not
+
+accorded and the lease also expired by a efflux of time on
+
+31/03/01 besides a quit notice which was also served
+
+terminating the tenancy with effect from 07/04/01.                In
+
+corresponding paragraphs of written statement, the defendant
+
+pleaded that it had called upon the plaintiffs to renew the
+
+lease but the latter refused to do so without giving any
+
+
+
+CS/39/04                                      Page 19 of 27 pages
+<span class="hidden_text" id="span_19">                                                                20</span>
+
+reasons in violation of clause 3 of the lease deed and in view of
+
+order dated 25/03/94 of Hon'ble High Court, defendants
+
+cannot be deprived of possession of the suit property. In para
+
+23 of the plaint it is pleaded that the defendant was called
+
+upon to give inspection of the suit property and settle
+
+accounts for refund of security deposit. In corresponding para
+
+of written statement the defendant specifically pleads that "as
+
+the defendants have exercised    their right for extension of the
+
+lease the question of plaintiffs' refunding the security deposit
+
+to the defendants does not arise".
+</p>
+<p id="p_37">30.   In paras 24&amp;25 of the written statement also the
+
+defendant went to the extent of pleading that on account of
+
+administrative delays it had paid rent at old rate initially but
+
+thereafter tendered the increased rent and specifically denied
+
+that the whole idea of extension of lease was an after thought.
+
+Even subsequent paragraphs of the written statement, read in
+
+entirety leave no doubt that the defendant has throughout
+
+been claiming himself to be in possession of the suit property
+
+as a tenant with extended lease on an enhanced rent.
+
+</p><p id="p_38">31.   Coming to the specific paragraph no. 19 of the written
+
+
+
+CS/39/04                                      Page 20 of 27 pages
+<span class="hidden_text" id="span_20">                                                                21</span>
+
+statement, which has been strongly relied upon by ld counsel
+
+for defendant to show that the defendant had raised an
+
+alternate plea of its possession as a purchaser. It was argued
+
+by ld counsel for defendant that in para 19 of the written
+
+statement a clear alternate plea has been raised that the
+
+defendant is in possession of the suit property as a purchaser,
+
+as such the specific plea of <a href="/doc/221518/" id="a_25">section 53A</a> Transfer of Property
+
+Act now sought to be inserted would not cause any prejudice
+
+to the plaintiff. It was argued that in para 19 of the written
+
+statement, the defendant has specifically pleaded      that it is
+
+entitled to remain in occupation of the suit property in terms
+
+with agreement to sell and order dated 25/03/94 of the
+
+Hon'ble High Court. But as discussed above, this paragraph of
+
+written statement cannot be read in isolation from the
+
+corresponding paragraph of plaint and rest of the written
+
+statement. Even otherwise, it is not pleaded even in para 19 of
+
+the written statement that possession of the suit property with
+
+the defendant is as purchaser. On the contrary, the defendant
+
+pleads protection under clause 3 of the lease deed as a tenant
+
+on increase of rent. In para 19 of the plaint, it is specifically
+
+
+
+CS/39/04                                      Page 21 of 27 pages
+<span class="hidden_text" id="span_21">                                                              22</span>
+
+pleaded that the defendant has always been in possession as
+
+a lessee under the said lease till its expiry and thereafter it
+
+became a trespasser. Defendant in the corresponding para 19
+
+does not deny that till expiry of the lease his status was as a
+
+lessee and rather pleads protection under clause 3 of the lease
+
+deed.    In para 19 of the written statement, the defendant
+
+basically pleads the currency of lease and consequently his
+
+possession as a tenant. Even otherwise, if during currency of
+
+lease the defendant was in possession as a tenant, there is
+
+nothing on record that made his possession as a possession of
+
+owner/purchaser upon expiry of lease deed.
+
+</p><p id="p_39">32.     It would also be relevant to examine the agreement to
+
+sell executed between the parties since the application under
+
+consideration is based on the defendant's claim that it is in
+
+possession as a purchaser in part performance of the
+
+agreement.     As per clauses 6&amp;7 of the said agreement,
+
+possession of the suit property was to be "handed over" to the
+
+defendant at a much subsequent stage after completion of all
+
+the formalities and till then legal possession as owner
+
+continued to be with the plaintiffs while the defendant was to
+
+
+
+CS/39/04                                     Page 22 of 27 pages
+<span class="hidden_text" id="span_22">                                                                   23</span>
+
+occupy the suit property under the lease deed as a tenant
+
+only.
+</p>
+<p id="p_40">33.     It is defendant's own case throughout the pleadings that
+
+it kept extending the lease by virtue of clause 3 of the lease
+
+deed. The agreement to sell was executed on 20/11/1989 and
+
+cancelled on 28/12/93. Even as per defendant's case it not
+
+just extended the lease but also paid enhanced rent. Even
+
+after service of quit notice the defendant tendered enhanced
+
+rent as per its own pleadings. The overall defence to the suit
+
+is that the plaintiff unreasonably refused to renew the lease as
+
+such the quit notice was bad in law. All these pleadings are
+
+vital admissions made by the defendant that its possession in
+
+the suit property is as a tenant and not as a purchaser in part
+
+performance of agreement to sell and the amendment sought
+
+seeks to withdraw these admissions.
+</p>
+<p id="p_41">34.     Although this amendment application came earlier in
+
+point of time as compared to plaintiff's application under
+
+Order XII Rule 6 CPC, it can not be denied that the
+
+amendment,       if   allowed,   will   frustrate   the   plaintiff's
+
+application.
+</p>
+<p id="p_42">
+
+</p><p id="p_43">CS/39/04                                        Page 23 of 27 pages
+<span class="hidden_text" id="span_23">                                                                 24</span>
+
+</p><p id="p_44">35.   As per defendant's own case in the application under
+
+consideration, the amendment has been sought simply
+
+because of a "frivolous objection" raised by the plaintiff. In
+
+other words, the amendment is otherwise not necessary as per
+
+defendant's own understanding and rightly so. As discussed
+
+in details in order dated 04/11/06 while disposing of the
+
+preliminary issue, controversy in the present suit       is totally
+
+distinct from the controversy in the suit pending before
+
+Hon'ble High Court. Defence to the present suit as discussed
+
+above is only to the extent that the plaintiff unreasonably
+
+withheld consent to extend the lease. The amendment sought
+
+is not necessary for determining the real question in
+
+controversy between the parties to this suit.
+
+</p><p id="p_45">36.   Besides, the relevance of the amendment sought also
+
+has to be seen keeping in view that once in the order dated
+
+04/11/06 this court ruled out the relevance of <a href="/doc/221518/" id="a_26">section 53A</a>
+
+Transfer of Property Act, which order having not been
+
+challenged has attained finality, by way of application under
+
+consideration an effort is being made to upset the said finding
+
+as recorded above.
+</p>
+<p id="p_46">
+
+</p><p id="p_47">CS/39/04                                        Page 24 of 27 pages
+<span class="hidden_text" id="span_24">                                                                    25</span>
+
+</p><p id="p_48">37.     As rightly pointed out by ld counsel for plaintiff, in the
+
+name of inconsistent pleas the defendant cannot be allowed to
+
+bring in a     plea   that is destructive of its already pleaded
+
+defence. Defendant can be in possession of the suit property
+
+(if not as trespasser) either as a tenant or as an owner. Each
+
+of the plea of nature of possession is destructive of the other.
+
+These    are   mutually    destructive   pleas   and   not    merely
+
+inconsistent ones. Defendant cannot be allowed to approbate
+
+and     reprobate.    In   the   cases   of   SUKUMA         BAI   vs
+
+CHANDGONDA, AIR 2003 Bombay131; <a href="/doc/1337187/" id="a_27">SHRI ARJAN DEV vs
+
+SHRI OM PRAKASH</a>, AIR 1992 Delhi 202; <a href="/doc/472306/" id="a_28">RANDHIR SINGH vs
+
+VIDYA MANDIR</a>, 2003 AIHC 4450 <a href="/doc/1528658/" id="a_29">Allahabad and SURENDRA
+
+BHATIA vs SMT POONAM BHATIA</a>, AIR 2001 Rajasthan 338
+
+the different Hon'ble High Courts including Hon'ble Delhi High
+
+Court held that a litigant cannot be allowed to approbate and
+
+reprobate in the proceedings.
+</p>
+<p id="p_49">38.     In SUKUMA BAI(supra) the defendant was not allowed
+
+to change his stand from the earlier defence of tenancy to an
+
+entirely different plea of his being a trespasser since the
+
+defendant could either be a tenant or a trespasser. In the case
+
+
+
+CS/39/04                                         Page 25 of 27 pages
+<span class="hidden_text" id="span_25">                                                                26</span>
+
+of SHRI ARJAN DEV (supra) the defendant was not allowed to
+
+take a stand that he has interest in the property as a member
+
+of Joint Hindu family and at the same time to say that he is
+
+owner by     way of   adverse possession. In the case          of
+
+SURENDRA BHATIA (supra) the defendant, once having
+
+admitted in written statement the factum of his marriage was
+
+not allowed to take inconsistent plea of denying the aspect of
+
+marriage itself.
+</p>
+<p id="p_50">39.   In the case of <a href="/doc/67425386/" id="a_30">SHIROMANI GURDWARA COMMITTEE vs
+
+JASWANT SINGH, JT</a> 1996(8) SC 292,             Hon'ble Supreme
+
+Court held that the defendant can raise mutually inconsistent
+
+pleas in the written statement but it is for the court to
+
+consider whether the case can be properly considered in
+
+deciding the issue. But mutually destructive pleas cannot be
+
+allowed to be taken in the written statement by way of
+
+amendment. The defendant of that case in the written
+
+statement denied title of adoptive father of the plaintiff but by
+
+way of amendment of written statement the defendant sought
+
+to plead a gift made by the plaintiff in favour of defendant,
+
+which plea would be destructive as the same would amount to
+
+
+
+CS/39/04                                      Page 26 of 27 pages
+<span class="hidden_text" id="span_26">                                                              27</span>
+
+setting up title in the plaintiff.
+</p>
+<p id="p_51">40.   To summarize, the amendment sought by the defendant
+
+is not just unnecessary to decide the real controversy between
+
+the parties, it is also not bonafide having been brought to
+
+nullify the admissions of defendant that it is in possession of
+
+the suit property as a tenant, on the basis of which plaintiff
+
+has brought an application under Order XII Rule 6 CPC and
+
+the amendment sought is destructive of the defence already
+
+pleaded in the written statement.
+</p>
+<p id="p_52">41.   The amendment application under consideration is
+
+frivolous and the same is dismissed with cost of Rs.2,000/-
+
+in favour of the plaintiff.
+</p>
+<p id="p_53">ANNOUNCED IN THE OPEN
+COURT ON 27th July 2007
+
+                              (GIRISH KATHPALIA)
+                      ADDL. DISTRICT &amp; SESSIONS JUDGE
+                                    DELHI
+
+
+
+
+                                     jk
+
+
+
+
+CS/39/04                                    Page 27 of 27 pages
+<span class="hidden_text" id="span_27">                            28</span>
+
+
+
+
+CS/39/04   Page 28 of 27 pages
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

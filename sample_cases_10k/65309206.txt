@@ -1,0 +1,650 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Nandlal vs The State Of Maharashtra on 15 March, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/65309206/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 10 docs 
+      
+        - [<A HREF="/search/?formInput=cites:65309206">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/626019/">Section 300 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1560742/">Section 302 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/409589/">Section 304 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/138302173/">Surain Singh vs State Of Punjab on 10 April, 2017</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 0 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/161971360/">Tinku Singh vs State ( Nct ) Of Delhi on 20 February, 2020</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/65309206/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/65309206/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/65309206/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Supreme Court of India</div>
+<div class="doc_title">Nandlal vs The State Of Maharashtra on 15 March, 2019</div><div class="doc_author">Author: R Banumathi</div>
+
+<pre id="pre_1">                                                                       REPORTABLE
+                                    IN THE SUPREME COURT OF INDIA
+                                   CRIMINAL APPELLATE JURISDICTION
+
+                                   CRIMINAL APPEAL NO. 510 OF 2019
+                                    (Arising out of SLP(Crl.) .2655 of 2019
+                                        @SLP(Crl.)D. No.29728 of 2018)
+
+
+                         NANDLAL                                        …..Appellant
+
+                                                   VERSUS
+
+                         THE STATE OF MAHARASHTRA                     …..Respondent
+
+
+                                               JUDGMENT
+</pre>
+
+
+<p id="p_1">                         R. BANUMATHI, J.
+</p>
+<p id="p_2">                              Leave granted.
+</p>
+<p id="p_3">                         2.   This appeal arises out of the judgment dated 26.08.2010
+
+                         passed by the High Court of Bombay at Aurangabad Bench in
+
+                         Criminal Appeal No.293 of 2008 in and by which the High Court
+
+                         affirmed the conviction of the appellant under <a href="/doc/1560742/" id="a_1">Section 302</a> IPC
+
+                         read with <a href="/doc/37788/" id="a_2">Section 34</a> IPC and the sentence of life imprisonment
+
+Signature Not Verified   imposed upon him. By the same judgment, the High Court
+Digitally signed by
+MAHABIR SINGH
+Date: 2019.03.15
+16:55:00 IST
+Reason:
+</p>
+<p id="p_4">
+
+
+<span class="hidden_text" id="span_1">                                                                                      1</span>
+acquitted accused No.2 and 3-Parshuram and his son-Sanjay
+
+respectively.
+</p>
+<p id="p_5">3.   Appellant-Nandlal    Baviskar    and   one   Dilip   Waman
+
+Baviskar are close relatives. In the year 2005, Dilip constructed
+
+a common wall in between his premises and the house of the
+
+appellant. As Dilip had incurred total expenses of the
+
+construction of wall, he demanded half of the expenses from
+
+the appellant which was refused by him. This became the
+
+reason for frequent quarrels between the parties. On
+
+16.05.2006 at around 04:00 PM., there was an exchange of
+
+abuse between Dilip, his wife Sakhubai-PW-4 and the
+
+appellant. Ganesh-PW-5-son of Dilip called Gopichand Waman
+
+Baviskar-PW-1. Accordingly,      Gopichand and his brother
+
+Lakhichand (deceased) who was physically disabled went to
+
+the house of Dilip and they tried to pacify the situation. In that
+
+process, Lakhichand had also abused the appellant. Being
+
+annoyed, the appellant assaulted Lakhichand with stick on his
+
+back. On seeing the said assault on his brother, Gopichand
+
+gave a stick blow on the head of the appellant. The appellant
+
+thereafter went away from the spot to his house and returned
+
+<span class="hidden_text" id="span_2">                                                                 2</span>
+back along with Parshuram and his son Sanjay-accused No. 2
+
+and 3 respectively. At this time, the appellant was armed with a
+
+gupti, while Parshuram was allegedly armed with ballam and
+
+Sanjay was armed with a stick. When Gopichand, Dilip and
+
+Lakhichand saw the appellant approaching towards them along
+
+with two other persons, having weapons in their hands, it is
+
+alleged that Gopichand and Dilip went at one side but because
+
+of physical disability, Lakhichand was not quick enough to
+
+move. The appellant attacked Lakhichand with gupti on his left
+
+armpit. Parshuram assaulted Lakhichand with ballam; while
+
+Sanjay assaulted him with stick. Due to assault, Lakhichand
+
+sustained bleeding injuries on his chest, left armpit and became
+
+unconscious there. Thereafter, the appellant and the other
+
+accused persons ran away from the spot. Gopichand-PW-1
+
+along with his sister in law-Sakhubai-PW-4 and others took
+
+Lakhichand to Government Hospital, Adawad where on
+
+examination, he was declared dead. Law was set in motion.
+
+</p><p id="p_6">4.   Upon completion of investigation, charge sheet was filed
+
+against the appellant and two other accused under <a href="/doc/1560742/" id="a_3">Section 302</a>
+
+IPC read with <a href="/doc/37788/" id="a_4">Section 34</a> IPC.
+</p>
+<p id="p_7"><span class="hidden_text" id="span_3">                                                               3</span>
+</p><p id="p_8">5.   To substantiate the charges against the appellant and the
+
+other accused, the prosecution examined sixteen witnesses
+
+including four eye-witnesses and also produced material
+
+objects and exhibited number of documents. The accused were
+
+questioned under <a href="/doc/1233094/" id="a_5">Section 313</a> Cr.P.C. about the incriminating
+
+evidence and circumstances and they denied all of them.
+
+Based upon the oral evidence and recovery of gupti from the
+
+appellant-accused, the trial court found the appellant-accused
+
+guilty. The trial court pointed out that the injuries caused by the
+
+appellant has pierced through the upper end of left arm and
+
+then entered the chest by causing small fracture to the fourth
+
+rib and caused injury to the lungs. Based on the evidence of
+
+the eye-witnesses and other evidence, the trial court held that
+
+the appellant caused the fatal injuries to the deceased and
+
+accused No.2 and 3 have assaulted the deceased with ballam
+
+and stick and convicted all three of them under <a href="/doc/1560742/" id="a_6">Section 302</a>
+
+IPC read with <a href="/doc/37788/" id="a_7">Section 34</a> IPC and sentenced each of them to
+
+undergo life imprisonment.
+</p>
+<p id="p_9">6.   In appeal, the High Court held that only the appellant
+
+caused fatal injuries to the deceased with lethal weapon and
+
+<span class="hidden_text" id="span_4">                                                                  4</span>
+the High Court affirmed the conviction of the appellant and the
+
+sentence of life imprisonment imposed upon him. Insofar as
+
+accused No.2 and 3, the High Court held that accused No.2
+
+and 3 came along with the appellant to the place of occurrence
+
+only in the later part of the incident and that there was no
+
+common intention to commit murder of the deceased and
+
+therefore, the High Court acquitted accused No.2 and 3.
+
+</p><p id="p_10">7.   Aggrieved by the judgment of the High Court, the
+
+appellant- accused has filed this appeal. When the matter
+
+came up for hearing, this Court vide order dated 04.09.2018
+
+issued notice only limited to the nature of offence and the
+
+quantum of sentence.
+</p>
+<p id="p_11">8.   Placing reliance upon <a href="/doc/138302173/" id="a_8">Surain Singh v. State of Punjab</a>
+
+(2017) 5 SCC 796, the learned counsel for the appellant
+
+submitted that the incident occurred in a sudden quarrel and
+
+after the appellant was attacked by Gopichand-PW-1, the
+
+appellant went to his house and came back and in a sudden
+
+fight attacked the deceased and that there was no intention on
+
+the part of the appellant to commit murder of deceased
+
+
+
+<span class="hidden_text" id="span_5">                                                              5</span>
+Lakhichand and hence, the case falls within Exception 4 to
+
+<a href="/doc/626019/" id="a_9">Section 300</a> IPC.
+</p>
+<p id="p_12">9.    Refuting the contention, the learned counsel for the
+
+respondent-State submitted that the blow was inflicted on the
+
+appellant by Gopichand in the first incident and thereafter, the
+
+appellant ran away from the spot and went to his house and
+
+returned with a gupti in his hand along with accused No.2 and 3
+
+and therefore, the occurrence cannot be said to be a case of
+
+“sudden fight’. It was further submitted that the appellant’s
+
+conduct in going to his house and bringing the gupti and
+
+attacking the deceased Lakhichand clearly shows that the
+
+occurrence was not in the heat of sudden fight and thus the
+
+offence was clearly a case of murder falling under <a href="/doc/1560742/" id="a_10">Section 302</a>
+
+IPC and not falling under any of the exceptions.
+
+</p><p id="p_13">10.   We have heard Mr. Dinesh Chandra Pandey, learned
+
+counsel   appearing    for   the   appellant   and   Mr.   Nishant
+
+Ramakantrao Katneshwarkar, learned counsel appearing for
+
+the respondent-State and perused the impugned judgment and
+
+materials on record.
+</p>
+<p id="p_14">
+
+<span class="hidden_text" id="span_6">                                                                 6</span>
+</p><p id="p_15">11.   The only point falling for consideration is whether the
+
+appellant-accused has made out a case for modification of his
+
+conviction under <a href="/doc/409589/" id="a_11">Section 304</a> Part II IPC instead of <a href="/doc/1560742/" id="a_12">Section
+
+302</a> IPC?
+</p>
+<p id="p_16">12.   In order to bring the case within Exception 4 to <a href="/doc/626019/" id="a_13">Section
+
+300</a> IPC, the following conditions enumerated therein must be
+
+satisfied:- (i) The act must be committed without premeditation
+
+in a sudden fight in the heat of passion; (ii) upon a sudden
+
+quarrel; (iii) without the offender’s having taken undue
+
+advantage; and (iv) the accused had not acted in a cruel or
+
+unusual manner.
+</p>
+<p id="p_17">13.   Even if the fight is unpremeditated and sudden, if the
+
+weapon or manner of retaliation is disproportionate to the
+
+offence and if the accused had taken the undue advantage of
+
+the deceased, the accused cannot be protected under
+
+Exception 4 to <a href="/doc/626019/" id="a_14">Section 300</a> IPC. Considering the scope of
+
+Exception 4 to <a href="/doc/626019/" id="a_15">Section 300</a> IPC, in <a href="/doc/1364735/" id="a_16">Sridhar Bhuyan v. State of
+
+Orissa</a> (2004) 11 SCC 395, this Court held as under:-
+
+</p><p id="p_18">      “7. For bringing in operation of Exception 4 to <a href="/doc/626019/" id="a_17">Section 300</a> IPC, it
+      has to be established that the act was committed without
+
+
+<span class="hidden_text" id="span_7">                                                                            7</span>
+premeditation, in a sudden fight in the heat of passion upon a
+sudden quarrel without the offender having taken undue
+advantage and not having acted in a cruel or unusual manner.
+</p><p id="p_19">8. The fourth exception of <a href="/doc/626019/" id="a_18">Section 300</a> IPC covers acts done in a
+sudden fight. The said exception deals with a case of
+prosecution not covered by the first exception, after which its
+place would have been more appropriate……….. There is no
+previous deliberation or determination to fight. A fight suddenly
+takes place, for which both parties are more or less to be
+blamed. It may be that one of them starts it, but if the other had
+not aggravated it by his own conduct it would not have taken the
+serious turn it did. There is then mutual provocation and
+aggravation, and it is difficult to apportion the share of blame
+which attaches to each fighter. The help of Exception 4 can be
+invoked if death is caused: ( a) without premeditation; (b) in a
+sudden fight; (c) without the offender’s having taken undue
+advantage or acted in a cruel or unusual manner; and ( d) the
+fight must have been with the person killed. To bring a case
+within Exception 4 all the ingredients mentioned in it must be
+found. It is to be noted that the “fight” occurring in Exception 4 to
+<a href="/doc/626019/" id="a_19">Section 300</a> IPC is not defined in <a href="/doc/1569253/" id="a_20">IPC</a>. It takes two to make a
+fight. Heat of passion requires that there must be no time for the
+passions to cool down and in this case, the parties have worked
+themselves into a fury on account of the verbal altercation in the
+beginning. A fight is a combat between two and more persons
+whether with or without weapons. It is not possible to enunciate
+any general rule as to what shall be deemed to be a sudden
+quarrel. It is a question of fact and whether a quarrel is sudden
+or not must necessarily depend upon the proved facts of each
+case. For the application of Exception 4, it is not sufficient to
+show that there was a sudden quarrel and there was no
+premeditation. It must further be shown that the offender has not
+
+<span class="hidden_text" id="span_8">                                                                        8</span>
+      taken undue advantage or acted in a cruel or unusual manner.
+</p><p id="p_20">      The expression “undue advantage” as used in the provision
+      means “unfair advantage” [underlining added].”
+
+
+The same principle was reiterated in <a href="/doc/456565/" id="a_21">Pappu v. State of M.P</a>.
+
+(2006) 7 SCC 391 and in <a href="/doc/138302173/" id="a_22">Surain Singh v. State of Punjab</a>
+
+(2017) 5 SCC 796 where the conviction under <a href="/doc/1560742/" id="a_23">Section 302</a> IPC
+
+was modified under <a href="/doc/409589/" id="a_24">Section 304</a> Part II IPC.
+</p>
+<p id="p_21">14.   In the light of the above principles, we have to consider
+
+whether facts of the present case fall under Exception 4 to
+
+<a href="/doc/626019/" id="a_25">Section 300</a> IPC or not? Gopichand-PW-1/complainant is the
+
+real brother of deceased Lakhichand and Dilip and the
+
+appellant is the cousin brother of their father. The house of the
+
+appellant and the house of Dilip are adjacent to each other and
+
+Dilip constructed a common wall between his premises and the
+
+house of the appellant and there was a dispute between them
+
+in sharing the expenses of the construction of wall and this
+
+became the reason for frequent quarrels between the parties.
+
+On the date of occurrence i.e. on 16.05.2006 at around 04:00
+
+PM, there was an exchange of abuse between Dilip, his wife
+
+Sakhubai-PW-4 and the appellant. Ganesh-PW-5, son of Dilip
+
+called Gopichand-       PW-1. Accordingly, PW-1 and his brother
+
+<span class="hidden_text" id="span_9">                                                                     9</span>
+Lakhichand (deceased) went to the house of Dilip and tried to
+
+pacify the situation which could not be controlled. In that
+
+process, deceased abused the appellant who got annoyed and
+
+assaulted Lakhichand with stick on his back. On seeing this,
+
+Gopichand-PW-1 gave a stick blow on the head of the
+
+appellant. It was thereafter, the appellant went to his house and
+
+returned back armed with gupti and other accused and inflicted
+
+injury with gupti on the left armpit of Lakhichand. The above
+
+incident happened only after the exchange of abuse and the
+
+stick blow given by Gopichand on the head of the appellant. As
+
+noted above, the dispute between the appellant and Dilip was
+
+due to construction of a common wall and non-sharing of
+
+expenses. The house of the appellant, being the next house of
+
+Dilip, there was no time gap between the first incident and the
+
+incident that followed, in which the appellant inflicted gupti
+
+injury on the left armpit of the deceased. Both the incidents
+
+cannot be said to be two different parts but are integral part of
+
+the same incident.
+</p>
+<p id="p_22">15.   In the judgment cited by Mr. Nishant Ramakantrao
+
+Katneshwarkar,       learned   counsel     appearing     for the
+
+<span class="hidden_text" id="span_10">                                                               10</span>
+respondent-State in Criminal Appeal Nos.286-288 of 2019,
+
+<a href="/doc/41599259/" id="a_26">Asif Khan v. State of Maharashtra and Another</a> dated
+
+05.03.2019, the accused thereon went away from the scene of
+
+occurrence on the motorcycle and he came back after ten to
+
+fifteen minutes and then attacked the deceased and in such
+
+facts and circumstances, it was held that both are two different
+
+incidents. The facts of the case in hand stand on a different
+
+footing. The deceased abused the appellant who got annoyed
+
+and first attacked Lakhichand and on seeing this, Gopichand
+
+gave a stick blow on the head of the appellant and thereafter,
+
+the appellant went to his house situated next door and came
+
+back with a gupti. Inflicting injury on the deceased is part of the
+
+same incident and cannot be said to be a different part to hold
+
+that the act was premeditated and intentional. As rightly
+
+contended by learned counsel for the appellant, the incident
+
+was in a sudden quarrel and there was no premeditation. One
+
+of the conditions of Exception 4 is that the offender ought not to
+
+have taken the “undue advantage” or acted in a cruel or
+
+unusual manner. The appellant inflicted a single blow injury with
+
+gupti on the left armpit which pierced through the upper end of
+
+
+<span class="hidden_text" id="span_11">                                                                11</span>
+the left arm and then entered the chest causing fracture of
+
+fourth rib and reached till the lung causing rupture of left lung
+
+vasculature. Though, the gupti was a dangerous weapon, the
+
+appellant-accused caused a single injury which pierced into the
+
+lung. Having sustained a stick blow from Gopichand-PW-1, in
+
+the sudden quarrel and in the heat of passion, the appellant
+
+inflicted the injury on deceased Lakhichand. Considering the
+
+facts and circumstances of the case, in our view, the case falls
+
+within Exception 4 to <a href="/doc/626019/" id="a_27">Section 300</a> IPC. The conviction of the
+
+appellant-accused under <a href="/doc/1560742/" id="a_28">Section 302</a> IPC is liable to be
+
+modified as <a href="/doc/409589/" id="a_29">Section 304</a> Part II IPC.
+</p>
+<p id="p_23">16.   In the result, this appeal is partly allowed and the
+
+conviction of the appellant under <a href="/doc/1560742/" id="a_30">Section 302</a> IPC is modified
+
+as conviction under <a href="/doc/409589/" id="a_31">Section 304</a> Part II IPC and the appellant is
+
+sentenced to undergo imprisonment for twelve years.
+
+
+</p><p id="p_24">                                       ………………………….J.
+</p><p id="p_25">                                       [R. BANUMATHI]
+
+                                       ………………………….J.
+</p><p id="p_26">                                       [R. SUBHASH REDDY]
+New Delhi;
+</p><p id="p_27">March 15, 2019.
+</p>
+<p id="p_28">
+<span class="hidden_text" id="span_12">                                                               12</span>
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,535 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Sonu on 14 May, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/117857087/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 5 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/105870808/">State Nct Of Delhi vs Sonu on 23 March, 2010</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/923824/">Sadhu Singh Roda S/O Buta Singh Etc vs State Of Punjab on 25 January, 1984</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/117857087/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/117857087/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sonu">sonu</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=karnail%20singh">karnail singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=127">127</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20law">criminal law</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=dd%20entries">dd entries</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=nabi%20karim">nabi karim</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Sonu on 14 May, 2010</div><div class="doc_author">Author: Mr. Sandeep Garg</div>
+
+<pre id="pre_1">                                             1
+                                                                              FIR No. 127/<a href="/doc/105870808/" id="a_1">07
+                                                                               State vs. Sonu
+
+
+     IN THE</a> COURT OF SH. SANDEEP GARG, METROPOLITAN
+              MAGISTRATE (CENTRAL)-05, DELHI
+
+FIR No. 127/2007
+U/s 25/54/59 <a href="/doc/1934415/" id="a_2">Arms Act</a>
+PS- Nabi Karim
+State Vs. Sonu
+
+JUDGMENT:
+</pre>
+<pre id="pre_2">a            The Sl. No. of the case                 : 1005/2
+b            The date of commission                  : 29.03.2007
+c            The name of complainant                 : HC Udaivir Singh
+d            The name of accused                     : Sonu S/o Mohan Lal R/o House No.
+                                                     : 7400, Gali Tel Mill, Nabi Karim,
+                                                     : Delhi.
+e            The offence complained of               : 25/54/59 <a href="/doc/1934415/" id="a_3">Arms Act</a>
+f            The plea of accused                     : Pleaded not guilty
+g            The final order                         : Acquitted
+h            The date of such order                  : 14.05.2010
+i            The date of institution
+             of the case                             : 10.04.2007
+j            Date of hearing final arguments
+             and adjourning the matter
+             for orders                              : 14.05.2010
+
+BRIEF REASONS FOR THE DECISION:
+
+</pre><p id="p_1">1.    In brief, case of the prosecution against accused Sonu is that on 29.03.2007 at about
+
+08:10 PM, at MCD Work Shop, Delhi, within the jurisdiction of PS Nabi Karim, accused
+
+was found in possession of one button actuated knife, Ex. P-1 having total length 24 cm
+
+long with blade of 11 cm in length and width 2.5 cm in contravention of notification
+
+issued under <a href="/doc/1934415/" id="a_4">Arms Act</a>. As such, as per prosecution, accused committed an offence
+
+punishable u/s 25 <a href="/doc/1934415/" id="a_5">Arms Act</a>. On the basis of rukka sent by HC Udaivir Singh, formal
+
+FIR, Ex. PW-1/A was registered for offence u/s 25 of <a href="/doc/1934415/" id="a_6">Arms Act</a>. The case was
+
+investigated into. The investigation ended in the filing of the charge-sheet u/s 173 <a href="/doc/445276/" id="a_7">Cr.P.C</a>.
+
+
+<span class="hidden_text" id="span_1">                                                                                Page 1 of 8</span>
+<span class="hidden_text" id="span_2">                                               2</span>
+</p><p id="p_2">                                                                                FIR No. 127/<a href="/doc/105870808/" id="a_8">07
+                                                                                 State vs. Sonu</a>
+
+charging the accused with the commission of an offence punishable u/s 25 of <a href="/doc/1934415/" id="a_9">Arms Act</a>.
+
+</p><p id="p_3">2.    Vide order dated, 13.08.2008, accused was charged for offence u/s 25 of <a href="/doc/1934415/" id="a_10">Arms Act</a>
+
+to which he pleaded not guilty and claimed trial.
+</p>
+<p id="p_4">3.    To substantiate its case on judicial file, prosecution has examined as many as three
+
+witnesses. PW-1 is HC Mool Chand, who being duty officer proved carbon copy of FIR,
+
+Ex. PW-1/A. PW-2 is Ct. Karnail Singh who was on patrolling duty along with HC
+
+Udaivir Singh and is a recovery witness. PW-3 is HC Ratan Chand, who is 2nd IO of the
+
+case. Vide order dated, 28.04.2010, PE was closed and on 29.04.2010 statement of
+
+accused was recorded u/s 281/313 <a href="/doc/445276/" id="a_11">Cr.P.C</a>. wherein accused denied the case of
+
+prosecution in toto. However, accused did not intend to lead DE.
+
+</p><p id="p_5">4.    I have heard Ld. APP for the State and the accused and gone through case file very
+
+carefully.
+</p>
+<p id="p_6">5.    It is submitted by Ld. APP for the State that by virtue of evidence available on
+
+judicial file, accused is liable to be convicted for the offence punishable u/s 25 of <a href="/doc/1934415/" id="a_12">Arms
+
+Act</a>. On the other hand, accused submits that he has been falsely implicated in the present
+
+case and he is totally innocent.
+</p>
+<p id="p_7">6.    I have gone through the material on judicial file very carefully.
+
+</p><p id="p_8">7.   It is settled proposition of criminal law that prosecution is supposed to prove its
+
+case on judicial file beyond reasonable doubts by leading reliable, cogent and convincing
+
+evidence. Further, it is a settled proposition of criminal law that in order to prove its case
+
+on judicial file, prosecution is supposed to stand on its own legs and it cannot derive any
+
+benefit whatsoever from the weaknesses, if any, in the defence of the accused. Further, it
+
+is a settled proposition of criminal law that burden of proof of the version of the
+
+<span class="hidden_text" id="span_3">                                                                                  Page 2 of 8</span>
+<span class="hidden_text" id="span_4">                                               3</span>
+                                                                                FIR No. 127/<a href="/doc/105870808/" id="a_13">07
+                                                                                 State vs. Sonu</a>
+
+prosecution in a criminal trial throughout the trial is on the prosecution and it never shifts
+
+to the accused. Also it is a settled proposition of criminal law that the accused is entitled
+
+to the benefit of every reasonable doubt in the prosecution story and such doubt entitles
+
+the accused to acquittal.
+</p>
+<p id="p_9">8.    In my opinion, as a cumulative effect of following reasons the accused is entitled to
+
+be acquitted of the charge against him:-
+</p>
+<blockquote id="blockquote_1">           (a) Chapter 22 Rule 49 of Punjab Police Rules, 1934, provides as under:
+</blockquote><blockquote id="blockquote_2">                  22.49.      Matters to be entered in Register No.II- The
+                  following matters shall, amongst others, be entered:-
+</blockquote><blockquote id="blockquote_3">                  (c)           The hour of arrival and departure on duty at or
+                  from a police station of all enrolled police officers of
+                  whatever rank, whether posted at the police station or
+                  elsewhere, with a statement of the nature of their duty. This
+                  entry shall be made immediately on arrival or prior to the
+                  departure of the officer concerned and shall be attested by
+                  the latter personally by signature or seal.
+</blockquote>
+<p id="p_10">             Note:- The term Police Station will include all places such as Police Lines
+
+and Police Posts where Register No.II is maintained.
+</p>
+<p id="p_11">             In the present case, the above said provision appears to have not been
+
+complied with by prosecution. As per the prosecution version at the time of the
+
+apprehension of the accused with Knife, Ex. P-1 in his possession HC Udaivir Singh and
+
+Ct. Karnail Singh were on area patrolling duty near police post, Nabi Karim, at about
+
+08:00 PM, but the DD entry vide which HC Udaivir Singh and Ct. Karnail Singh had left
+
+the PS for patrolling has not been brought on record. Even the number of the said DD
+
+entries made in Register No. II has not been brought on judicial record. In my opinion
+
+prosecution was under an obligation to prove on record, the above said DD entries vide
+
+
+
+<span class="hidden_text" id="span_5">                                                                                  Page 3 of 8</span>
+<span class="hidden_text" id="span_6">                                              4</span>
+                                                                              FIR No. 127/<a href="/doc/105870808/" id="a_14">07
+                                                                               State vs. Sonu</a>
+
+which HC Udaivir Singh and Ct. Karnail Singh had left the PS for patrolling duty so as to
+
+prove the possibility of availability of HC Udaivir Singh and Ct. Karnail Singh at the
+
+place of apprehension of the accused. At this juncture, it would be relevant to refer to a
+
+case law reported as Rattan Lal V/s State, 1987(2) Crimes 29 wherein the Hon'ble
+
+Delhi High Court has been observed that if the investigating agency deliberately ignores
+
+to comply with the provisions of the Act, the courts will have to approach their action
+
+with reservations. The matter has to be viewed with suspicion if the provisions of law are
+
+not strictly complied with and the least that can be said is that it is so done with an
+
+oblique motive. This failure to bring on record, the DD entries creates a reasonable doubt
+
+in the prosecution version and attributes oblique motive on the part of the prosecution.
+
+</p><p id="p_12">9.           In the present case, after the apprehension of accused at about 08:10 PM,
+
+but before searching his body no attempts whatsoever were made by HC Udaivir Singh to
+
+ensure that search of accused by him is witnessed by independent public witnesses who
+
+were very much available at the place of apprehension of accused as per the contents of
+
+rukka only. After the apprehension of accused, HC Udaivir Singh could very well have
+
+served the passersby with notice in writing requiring them to join the police proceedings
+
+or to face legal action u/s 187 <a href="/doc/1569253/" id="a_15">IPC</a> in as much as by that point of time, accused stood
+
+already apprehended and there were no chances of crime going undetected or accused
+
+escaping the arrest. Also even the identify of the passersby who were requested to join
+
+the police proceedings has not been recorded by IO on the rukka. In such circumstances it
+
+cannot be said that on account of reasonable excuses only, passer bys had, if it was so,
+
+refused to join police proceedings. This failure on the part of prosecution creates
+
+reasonable doubt in the prosecution story. It this regard, reliance may be placed on the
+
+<span class="hidden_text" id="span_7">                                                                               Page 4 of 8</span>
+<span class="hidden_text" id="span_8">                                              5</span>
+                                                                                 FIR No. 127/<a href="/doc/105870808/" id="a_16">07
+                                                                                  State vs. Sonu</a>
+
+following case laws:
+</p>
+<p id="p_13">In a case law reported as Anoop Joshi V/s State 1999(2) C.C. Cases 314 (HC), Hon'ble
+High Court of Delhi has observed as under:
+</p><blockquote id="blockquote_4">            "18. It is repeatedly laid down by this court that in such cases
+            it should be shown by the police that sincere efforts have been
+            made to join independent witnesses. In the present case, it is
+            evident that no such sincere efforts have been made,
+            particularly when we find that shops were open and one or two
+            shop-keepers could have been persuaded to join the raiding
+            party to witness the recovery being made from the appellant.
+            In case any of the shop-keepers had declined to join the raiding
+            party, the police could have later on taken legal action against
+            such shop-keepers because they could not have escaped the
+            rigours of law while declining to perform their legal duty to
+            assist the police in investigation as a citizen, which is an
+            offence under the <a href="/doc/1569253/" id="a_17">IPC</a>".
+</blockquote><p id="p_14">In a case law reported as Roop Chand V/s The State of Haryana 1999 (1) C.L.R. 69,
+the Hon'ble Punjab &amp; Haryana High Court held as under:
+</p><blockquote id="blockquote_5">            "3.           I have heard the learned counsel for the parties
+            and gone through the evidence with their help. The recovery
+            of illicit liquor was effected from the possession of the
+            petitioner during noon time and it is in the evidence of the
+            prosecution witnesses that some witnesses from the public
+            were available and they were asked to join the investigation.
+            The explanation furnished by the prosecution is that the
+            independent witnesses were asked to join the investigation but
+            they refused to do so on the ground that their joining will
+            result into enmity between them and the petitioner".
+</blockquote>
+<blockquote id="blockquote_6">            "4. It is well settled principle of the law that the investigating
+            Agency should join independent witnesses at the time of
+            recovery of contraband articles, if       they are available and
+            their failure to do so in such a situation casts a shadow of doubt
+            on the prosecution case. In the present case also admittedly the
+            independent witnesses were available at the time of recovery
+            but they refused to associate themselves in the investigation.
+            This explanation does not inspire confidence because the
+            police officials who are the only witnesses examined in the
+            case have not given the names and addresses of the persons
+            contacted to join. It is a very common excuse that the
+            witnesses from the public refused to join the investigation. A
+
+
+<span class="hidden_text" id="span_9">                                                                                  Page 5 of 8</span>
+<span class="hidden_text" id="span_10">                                              6</span>
+                                                                                  FIR No. 127/<a href="/doc/105870808/" id="a_18">07
+                                                                                   State vs. Sonu</a>
+
+            police officer conducting investigation of a crime is entitled to
+            ask anybody to join the investigation and on refusal by a
+            person from the public the investigating Officer can take action
+            against such a person under the law. Had it been a fact that the
+            witnesses from the public had refused to join the investigation,
+            the Investigating Officer must have proceeded against them
+            under the relevant provisions of law. The failure to do so by
+            the police officer is suggestive of the fact that the explanation
+            for non-joining the witnesses from the public is an after
+            thought and is not worthy of credence. All these facts taken
+            together make the prosecution case highly doubtful".</blockquote><p id="p_15">
+</p><p id="p_16">      In case law reported as <a href="/doc/923824/" id="a_19">Sadhu Singh vs State of Punjab</a>, 1997 (3) Crimes 55, the
+Hon'ble Punjab &amp; Haryana High Court observed as under:
+</p><blockquote id="blockquote_7">            "5. In a criminal trial, it is for the prosecution to establish its
+            case beyond all reasonable doubts. It is for the prosecution to
+            travel the entire distance from may have to must have. If the
+            prosecution appears to be improbable or lacks credibility, the
+            benefit of doubt necessarily has to go to the accused".
+</blockquote>
+<blockquote id="blockquote_8">            "6. In the present case, the State examined two witnesses
+            namely, Harbans Singh ASI who appeared as PW1 and Kartar
+            Singh PW2. Both the witnesses supported the prosecution
+            version in terms of the recovery of opium from the person of
+            the petitioner, but there was no public witness who had joined.
+            It is not necessary in such recoveries that public witnesses must
+            be joined, but attempt must be made to join the public
+            witnesses. There can be cases when public witnesses are
+            reluctant to join or are not available. All the same, the
+            prosecution must show a genuine attempt having been made to
+            join a public witness or that they were not available. A stereo-
+            type statement of non-availability will not be sufficient
+            particularly when at the relevant time, it was not difficult to
+            procure the service of public witness. This reflects adversely on
+            the prosecution version".
+</blockquote>
+<p id="p_17">10.   In the present case, seal after use on the pullanda containing case property was
+
+given to Ct. Karnail Singh who is a material prosecution witness being witness to the
+
+recovery of knife from the possession of the accused. To my mind, in such
+
+circumstances, chances of fabrication with the case property cannot be ruled out in as
+
+
+
+<span class="hidden_text" id="span_11">                                                                                   Page 6 of 8</span>
+<span class="hidden_text" id="span_12">                                              7</span>
+                                                                                FIR No. 127/<a href="/doc/105870808/" id="a_20">07
+                                                                                 State vs. Sonu</a>
+
+much as a material prosecution witness is always interested in the conviction of the
+
+accused. Further, it is pertinent to note that no memo has been placed on record showing
+
+the date and time when the seal was returned to PW HC Udaivir Singh by PW Ct. Karnail
+
+Singh.
+</p>
+<p id="p_18">11.   In the present case, before taking the formal/ casual search of the accused after his
+
+apprehension police official (s) had made no efforts to ensure that search of the accused
+
+by him them is witnessed by independent public witnesses.
+
+</p><p id="p_19">      Also HC Udaivir Singh and Ct. Karnail Singh had not offered their own search to
+
+the accused before taking the search of the accused. At this juncture, it would be
+
+appropriate to refer to the judgment of Hon'ble Orissa High Court reported as
+
+Rabindernath Prusty Vs. State of Orissa, wherein it was held as under:
+
+</p><blockquote id="blockquote_9">            "10. The next part of the prosecution case is relating to the
+            search and recovery of Rs. 500/- from the accused. One of the
+            formalities that has to be observed in searching a person in that
+            the searching Officer and other assisting him should give their
+            personal search to the accused before searching the person of
+            the accused. (See AIR 1969 SC 53 : (1969 Cri L.J. 279), State
+            of Bihar V/s Kapil Singh). This rule is meant to avoid the
+            possibility of implanting the object which was brought out by
+            the search. There is no evidence on record whatsoever that the
+            raiding party gave their personal search to the accused before
+            the latter's person was searched. Besides the above, it is in the
+            evidence of PWs 2 and 5 that the accused wanted to know the
+            reason for which his person was to be searched and the reason
+            for such search was not intimated to the accused. No
+            independent witness had witnessed the search. In the above
+            premises, my conclusion is that the search was illegal and
+            consequently the conviction based thereon is also vitiated".</blockquote><p id="p_20">
+</p><p id="p_21">      Being guided by above said case law, it can be said that search of the accused by
+above said police officials was in complete violation of the above said case law and the
+same can be said to be illegal.
+</p>
+<p id="p_22">
+
+<span class="hidden_text" id="span_13">                                                                                 Page 7 of 8</span>
+<span class="hidden_text" id="span_14">                                              8</span>
+</p><p id="p_23">                                                                             FIR No. 127/<a href="/doc/105870808/" id="a_21">07
+                                                                              State vs. Sonu</a>
+
+</p><p id="p_24">12.   In view of the aforesaid discussion, in my opinion, prosecution has not been able to
+
+prove its case against the accused beyond reasonable doubts. Accordingly, accused is
+
+acquitted of the charge levelled against him. His Bail bond stands discharged. Case
+
+property be confiscated to State and be destroyed after expiry of period of appeal. File be
+
+consigned to Record Room.
+</p>
+<pre id="pre_3">Announced in the open                                                   (Sandeep Garg)
+Court on 14.05.2010                                                     MM(Central)-05,
+                                                                        Delhi.
+
+
+
+
+<span class="hidden_text" id="span_15">                                                                               Page 8 of 8</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

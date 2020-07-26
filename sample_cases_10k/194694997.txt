@@ -1,0 +1,1273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs Sanjay @ Sanju on 1 September, 2016</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/194694997/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 11 docs 
+      
+        - [<A HREF="/search/?formInput=cites:194694997">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/812083/">Section 411 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/329571/">Section 392 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1865117/">Section 397 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/194694997/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/194694997/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/194694997/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs Sanjay @ Sanju on 1 September, 2016</div><pre id="pre_1">Sessions Case No.                 21/15
+
+FIR No.                           819/14
+
+State Vs                          Sanjay @ Sanju
+
+Police Station                    Sarojini Nagar
+
+Under <a href="/doc/329571/" id="a_1">Section                     392</a>/ <a href="/doc/1865117/" id="a_2">397</a>/ <a href="/doc/1517318/" id="a_3">436</a>/ <a href="/doc/37788/" id="a_4">34</a> <a href="/doc/812083/" id="a_5">411</a> IPC and
+                                  25 <a href="/doc/1934415/" id="a_6">Arms Act</a>.
+
+Convicted                         392/34 <a href="/doc/1569253/" id="a_7">IPC</a> / 411 <a href="/doc/1569253/" id="a_8">IPC</a> and 25
+                                  <a href="/doc/1934415/" id="a_9">Arms Act</a>.
+
+
+
+01.09.2016
+Pre: Ld. APP for the state.
+
+       Convict produced from JC.
+
+       Arguments on sentence heard.
+
+       Vide separate detailed order placed along side in the file, convict Sanjay
+
+@ Sanju is sentenced to undergo 03 years R.I. and fine of Rs.500/- for the
+
+offence u/s 392/ 34 <a href="/doc/1569253/" id="a_10">IPC</a> and in default of payment of fine he shall further undergo
+
+for 15 days S.I.;     to undergo 02 years R.I. for the offence u/s 411 <a href="/doc/1569253/" id="a_11">IPC</a>;     and
+
+further to undergo 01 year R.I. and fine of Rs.300/- for the offence u/s 25 / 54/ 59
+
+<a href="/doc/1934415/" id="a_12">Arms Act</a> and in default of payment of fine he shall further undergo for 07 days
+
+S.I.   All the sentences shall run concurrently. Benefit of section 428 Cr. PC be
+
+given to the convict. Copy of this order and judgment be given to the convicts at
+
+free of cost forthwith.
+
+       File be consigned to record room.
+
+
+
+                                                            (RAJ KAPOOR)
+                                            ADDITIONAL SESSIONS JUDGE-03
+                                                   PATIALA HOUSE COURTS
+                                                               NEW DELHI
+
+
+
+
+                                                                                   1
+    IN THE COURT OF SH. RAJ KAPOOR, ADDITIONAL SESSIONS
+        JUDGE (03), PATIALA HOUSE COURT, NEW DELHI
+
+
+
+Sessions Case No.             21/15
+
+FIR No.                       819/14
+
+State Vs                      Sanjay @ Sanju
+
+Police Station                Sarojini Nagar
+
+Under <a href="/doc/329571/" id="a_13">Section                 392</a>/ <a href="/doc/1865117/" id="a_14">397</a>/ <a href="/doc/1517318/" id="a_15">436</a>/ <a href="/doc/37788/" id="a_16">34</a> <a href="/doc/812083/" id="a_17">411</a> IPC
+                              and 25 <a href="/doc/1934415/" id="a_18">Arms Act</a>.
+
+Convicted                     392/34 <a href="/doc/1569253/" id="a_19">IPC</a> / 411 <a href="/doc/1569253/" id="a_20">IPC</a> and 25
+                              <a href="/doc/1934415/" id="a_21">Arms Act</a>.
+
+
+
+01.09.2016
+
+ORDER ON THE POINT OF SENTENCE
+
+Pre: Ld. APP for the state.
+
+       Convict produced from JC.
+
+       ld. APP submits that offence of such types are increasing day by
+
+day.    Convict has been convicted only for the offences punishable u/s
+
+392/34 <a href="/doc/1569253/" id="a_22">IPC</a> / 411 <a href="/doc/1569253/" id="a_23">IPC</a> and 25 / 54/ 59 <a href="/doc/1934415/" id="a_24">Arms Act</a> and he has been absolved
+
+from the offence u/s 397 and 436 <a href="/doc/1569253/" id="a_25">IPC</a>.          Ld. APP further submits that
+
+accused has criminal antecedents since he is involved in number of cases
+
+of similar nature. On these grounds ld. APP submits that convict deserve
+
+maximum punishment.
+
+
+
+       Contrary to it, convict submits that he is aged about 23 years old.
+
+He further submits that his mother and father has already expired leaving
+
+
+
+
+                                                                          2
+ behind a younger sister. He again submits that he is only one to look after
+
+her sister.   He further submits that his sister is now living with his bua in
+
+Faridabad.      He lives on footpath.         On these grounds he submits that
+
+lenient view be taken at the time of awarding the sentence.
+
+      Having given careful consideration to the submissions of ld. APP for
+
+the State and convict as well.         Since, convict is very poor person and he
+
+has younger sister to feed therefore, I am of the view that ends of justice
+
+shall be met if convict Sanjay @ Sanju is sentenced to undergo 03 years
+
+R.I. and fine of Rs.500/- for the offence u/s 392/ 34 <a href="/doc/1569253/" id="a_26">IPC</a> and in default of
+
+payment of fine he shall further undergo for 15 days S.I.;                to undergo 02
+
+years R.I. for the offence u/s 411 <a href="/doc/1569253/" id="a_27">IPC</a> ;           and further to undergo 01 year
+
+R.I. and fine of Rs.300/- for the offence u/s 25 / 54/ 59 <a href="/doc/1934415/" id="a_28">Arms Act</a> and in
+
+default of payment of fine he shall further undergo for 07 days S.I.
+
+              Accordingly,    convict Sanjay @ Sanju is sentenced to
+              undergo 03 years R.I. and fine of Rs.500/- for the offence
+              u/s 392/ 34 <a href="/doc/1569253/" id="a_29">IPC</a> and in default of payment of fine he shall
+              further undergo for 15 days S.I.;
+
+              to undergo 02 years R.I. for the offence u/s 411 <a href="/doc/1569253/" id="a_30">IPC</a>; and
+
+              further to undergo 01 year R.I. and fine of Rs.300/- for the
+              offence u/s 25 / 54/ 59 <a href="/doc/1934415/" id="a_31">Arms Act</a> and in default of payment
+              of fine he shall further undergo for 07 days S.I.
+
+              All the sentences shall run concurrently.
+
+              Benefit of section 428 Cr. PC be given to the convict.
+
+              Copy of this order and judgment be given to the convicts at
+              free of cost forthwith. Orders accordingly.
+ANNOUNCED IN THE OPEN
+COURT ON THIS 01.09.2016
+                                                            (RAJ KAPOOR)
+                                            ADDITIONAL SESSIONS JUDGE-03
+                                                   PATIALA HOUSE COURTS
+                                                               NEW DELHI
+
+
+
+
+                                                                                      3
+                                                                    FIR no.819/14
+                                                         State V. Sanjay @ Sanju
+                                                                PS Sarojini Nagar
+23.08.2016
+
+Pre:   Ld. APP for the State.
+
+       Accused is in JC.
+
+       File perused, vide separate detailed judgment placed along side in the file,
+
+I convict accused Sanjay @ Sanju for the offences punishable u/s 392/34 <a href="/doc/1569253/" id="a_32">IPC</a>
+
+for committing robbery of Rs.8,000/-, one pair of gold ear tops, one gold
+
+mangalsutra and two mobile phones; I again convict the accused for the offence
+
+411 <a href="/doc/1569253/" id="a_33">IPC</a> for the recovery of Zen Phone of PW2 Raj Bahadur; and I further
+
+convict the accused u/s 25 <a href="/doc/1934415/" id="a_34">Arms Act</a> for having found in possession of knife.
+
+       I absolve accused Sanjay @ Sanju for the offences punishable u/s 397
+
+and 436 <a href="/doc/1569253/" id="a_35">IPC</a>.
+
+       Now, case be fixed for order on sentence on 01.09.2016.
+
+
+
+                                                              (RAJ KAPOOR)
+                                                  ASJ-03/PHC/NDD/NEW DELHI
+
+
+
+
+                                                                                  4
+ IN THE COURT OF SH. RAJ KAPOOR, ASJ-03, COURT NO. 3, ANNEXE
+        BUILDING, PATIALA HOUSE COURT S, NEW DELHI
+
+
+Sessions Case No.                  21/15
+
+Assigned to Sessions.              09.04.2015
+
+Arguments heard on                 09.08.2016
+
+Date of order                      23.08.2016
+
+FIR No.                            819/14
+
+State Vs                           Sanjay @ Sanju s/o Vijay Sharma
+                                   r/o Vegabond, Sarojini Nagar, New
+                                   Delhi.
+
+Police Station                     Sarojini Nagar
+
+Under <a href="/doc/329571/" id="a_36">Section                      392</a>/ <a href="/doc/1865117/" id="a_37">397</a>/ <a href="/doc/1517318/" id="a_38">436</a>/ <a href="/doc/37788/" id="a_39">34</a> <a href="/doc/812083/" id="a_40">411</a> IPC and 25
+                                   <a href="/doc/1934415/" id="a_41">Arms Act</a>.
+
+JUDGEMENT
+</pre>
+<p id="p_1">1.    Briefly facts of the case are that on 20.12.2014 at about 05:00 a.m.
+
+at Jhuggies near House no. G-142, Sarojini Nagar, Delhi accused along
+
+with other two unknown associates (still not arrested) in furtherance of
+
+their common intention committed robbery of Rs.8,000/-, one pair of gold
+
+ear tops, one gold mangalsutra and two mobile phones belonging to the
+
+complainant Raj Bahadur and in committing said robbery accused caused
+
+fear of instant death or instant hurt by showing a deadly weapon i.e. knife
+
+to the complainant.
+</p>
+<p id="p_2">
+
+</p><p id="p_3">2.    On the aforesaid date, time and place         accused   was found in
+
+possession of a mobile phone make Zen Black Colour, which he received
+
+or retained knowing or having reasons to believe the stolen property of Raj
+
+
+
+<span class="hidden_text" id="span_1">                                                                          5</span>
+ Bahadur.
+</p>
+<p id="p_4">
+
+</p><p id="p_5">3.    Further, on 20.12.2014 at about 04:00 a.m. at House no. G-130,
+
+Sarojini Nagar, Delhi accused along with other co-accused persons (not
+
+arrested) committed mischief by fire intending to cause or knowing it to be
+
+likely that he would thereby cause the destruction of a building i.e. H. No.
+
+G-130, Sarojini Nagar, Delhi, which was ordinarily used as a human
+
+dwelling house or for the custody of the property.
+</p>
+<p id="p_6">
+
+</p><p id="p_7">4.    This case was committed to the Sessions Court and received on
+
+09.04.2016 for trial as it pertains to the heinous crime committed under
+
+<a href="/doc/329571/" id="a_42">sections 392</a>/ <a href="/doc/1865117/" id="a_43">397</a>/ <a href="/doc/1517318/" id="a_44">436</a>/ <a href="/doc/37788/" id="a_45">34</a> and <a href="/doc/812083/" id="a_46">411</a> IPC and 25 <a href="/doc/1934415/" id="a_47">Arms Act</a> which is
+
+exclusively triable by court of Sessions. Ld.        Predecessor of the court
+
+framed a charge for the offences punishable u/s 392/ 397/ 436/ 34 and
+
+411 <a href="/doc/1569253/" id="a_48">IPC</a> and 25 <a href="/doc/1934415/" id="a_49">Arms Act</a>, to which accused did not plead guilty and
+
+claimed trial.
+</p>
+<p id="p_8">
+
+</p><p id="p_9">5.    Thereafter, prosecution has examined 14 witnesses namely PW1
+
+Retd. / SI Jeet Singh;    PW2     Raj Bahadur, PW3 SI Pradeep Rawat ;
+
+PW4 Ct. Amarpal, PW5 HC Manoj Malik, PW6 SI Padeep Rawat, PW7
+
+Sh. Elan Govan, PW8 SI Anoop Kumar Singh, PW9 Dinesh Kumar, LDC,
+
+Home General Deptt., PW10 Brij Kishore, PW11 Rahul Kumar, PW12
+
+Ct. Jaiveer Singh, PW13 SI Vinod Kumar and PW14 HC Manoj Kumar.
+
+
+
+
+<span class="hidden_text" id="span_2">                                                                            6</span>
+</p><p id="p_10"> 6.    PW1 Retd. SI Jeet Singh appeared in the witness box and deposed
+
+that on 20.12.2014 he was working as duty officer in PS - Sarojini Nagar
+
+from 12 midnight (19/20.12.2014) to 08:00 AM and upon receipt of rukka
+
+sent by SI Vinod Kumar through Ct. Amar Pal had registered FIR No.
+
+819/14 which is Ex.PW1/A after making entry on original rukka Ex.PW1/B.
+
+The certificate under Section 65 B of the Indian Evidence Act is Ex.PW1/C.
+
+He has also recorded DD No. 6B dated 20.12.2014 which is Ex.PW1/D.
+
+
+
+</p><p id="p_11">7.    PW2 Raj Bhadur was engaged in the business of ironing clothes
+
+near House No.G-145 and when he was sleeping in his jhuggi on
+
+20.12.2014 at about 05:00 AM along with his family, he heard some noises
+
+and saw accused Sanjay @ Sanju standing besides his bed whereas his
+
+associates (not arrested) was standing at the door of his jhuggi.      He
+
+further deposed that accused Sanjay was taking out his personal articles
+
+from his purse and Raj Bhadur woke up due to the noise. Thereafter,
+
+accused Sanjay handed the belongings to his associates,         who were
+
+standing at the gate of the jhuggi. Thereafter, Raj Bahadur raised hue and
+
+cry   upon which his associates ran away.      Raj Bahadur had tried to
+
+apprehend accused but accused took out a knife and put it on the person
+
+of Raj Bahadur and      threatened him. Thereafter, PW2 Raj Bahadur
+
+managed to apprehend accused Sanjay after a scuffle with him.    Accused
+
+had also beaten Raj Bahadur with hands and legs and gave him fist blows.
+
+He further testified that accused had robbed from him Rs.8000/-, Gold Ear
+
+Tops, One gold mangalsutra and two mobile phones make Zen phone and
+
+
+
+
+<span class="hidden_text" id="span_3">                                                                         7</span>
+ Carbon phone. Since, the police personnel were stationed near the market
+
+gate after hearing the noises they approached towards Raj Bahadur and
+
+accused. Thereafter, on carrying out personal search of accused, he was
+
+found in possession of Zen phone which belonged to Raj Bahadur and one
+
+knife. However, two associates of accused managed to run away.
+
+
+
+</p><p id="p_12">8.    This witness (PW2) further deposed that police recorded Raj
+
+Bahadur's statement Ex.PW2/A signed by him at point A. Raj Bahadur had
+
+also shown the place of occurrence to the police on which the site plan was
+
+prepared.    The sketch of the knife was also prepared Ex.PW2/B. The
+
+knife was taken into possession vide seizure memo Ex.PW2/C. The phone
+
+was taken into possession vide seizure memo Ex.PW2/D.            PW2 Raj
+
+Bahadur had identified accused correctly.     Accused was arrested and
+
+personally searched vide arrest and personal search memos Ex.PW2/E
+
+and Ex.PW6/F both signed by Raj Bahadur at point A. Thereafter, accused
+
+was interrogated. He had also identified the knife which was recovered
+
+from his possession being the same used by accused against Raj Bahadur
+
+as Ex.P1.   He had also identified one Zen phone as Ex.P2 belonging to
+
+him and robbed by accused.
+</p>
+<p id="p_13">
+
+</p><p id="p_14">9.    PW3 SI Pradeep Rawat appeared in the witness box being 2nd IO
+
+of the case. He deposed that on 28.12.2014 he was Posted in PS -
+
+Sarojini Nagar and received the case file for further investigation on the
+
+transfer of IO SI Vinod on the instructions of the SHO.   He had searched
+
+
+
+
+<span class="hidden_text" id="span_4">                                                                          8</span>
+ for co-accused but none could be found. Thereafter, he prepared the
+
+charge-sheet and filed it in the court.
+</p>
+<p id="p_15">
+
+</p><p id="p_16">10.   On 20.12.2014 PW4 Ct. Amarpal was posted in PS Sarojini Nagar
+
+and was on emergency duty on that day and had received DD No. 6-B. He
+
+along with SI Vinod Kumar had reached near House No. G-141, Near Babu
+
+Market where he met the complainant Raj Bahadur, who had produced
+
+accused Sanjay @ Sanju along with one mobile phone and one buttondar
+
+knife (aluminum) to the IO.         He was a witness to the recording of
+
+statement of Raj Bahardur preparation of rukka and he had got the present
+
+FIR registered. He was a witness to the preparation of sketch of knife
+
+Ex.PW2/B and seizure vide Ex.PW2/C. The zen phone was also seized in
+
+his presence by the IO vide Ex.PW2/D. He was also a witness to the arrest
+
+of accused and personal search            vide Ex.PW2/D and Ex.PW2/E.
+
+Thereafter, he was also a witness to the recording of disclosure statement
+
+of accused vide Ex.PW4/A. In his presence IO has also prepared the site
+
+plan Ex.PW4/B.     He had identified him in the court correctly. He had also
+
+identified the knife as Ex.P-1 and the zen mobile phone as Ex.P-2.
+
+
+
+</p><p id="p_17">11.   PW5 HC Manoj Kumar was posted as MHCR in PS Sarojini Nagar
+
+and had produced in the court previous involvement details of accused
+
+vide Ex.PW5/A running into 07 pages which shows that 28 cases are
+
+pending against accused. The report of SCRB is also enclosed along
+
+with the same.
+</p>
+<p id="p_18">
+
+
+<span class="hidden_text" id="span_5">                                                                           9</span>
+</p><p id="p_19"> 12.   PW7 Sh. Elan Govan was working as Inspector in ITBP and on
+
+20.12.2014, at about 4:00 am, he along with his family members was
+
+sleeping in his government accommodation quarters bearing No. G-130.
+
+He heard some noises from the back gate of his house since it was located
+
+on the ground floor, as a result of which he woke up. He saw smoke inside
+
+the house and saw one person standing behind the gate. He had also
+
+observed some polythene burning at the window.       He raised alarm and
+
+shouted that some one had put up fire inside his house and also saw three
+
+persons running away in the gali from the gate of the back side, he had
+
+also raised alarm that thieves have entered the house. After about 10-15
+
+minutes he heard voices from the neighborhood and also went out side
+
+and heard that theft has been committed in jhuggis in house no. G-142.
+
+This witness has also deposed that he had also seen that the persons
+
+from the neighborhood had caught hold of accused and he          had also
+
+identified accused as the same person who has entered his house. It was
+
+later on revealed to him that theft of some jeweleries and mobiles had been
+
+committed. He also deposed that upon apprehension of accused, accused
+
+was saying that public persons had committed mistake by catching him.
+
+This witness has been got declared hostile by ld. APP on some material
+
+points.
+</p>
+<p id="p_20">
+
+</p><p id="p_21">13.   PW8 SI Anoop Kumar Singh on 20.12.2014 was the In-charge and
+
+finger print expert of mobile crime team of south district and on that day,
+
+
+
+
+<span class="hidden_text" id="span_6">                                                                         10</span>
+ he had gone to the place of occurrence at the jhuggies near flat G-142,
+
+Sarojini Nagar and flat G-130 Sarojini Nagar and inspected the place of
+
+occurrence between 12:15 to 12:45 PM. He had given his report bearing
+
+no. 1599/14 in his handwriting which is Ex. PW8/A. He was also
+
+accompanied by photographer Ct. Jaibir who had photographed the spot.
+
+
+
+</p><p id="p_22">14.   PW9 Sh. Dinesh Kumar was working as LDC in the accounts
+
+General Deptt. and had brought the original gazette notification
+
+dt.17.02.1979 pertaining to the possession of various types of knives in the
+
+Union Territory of Delhi which is Ex.PW9/A [OSR].
+</p>
+<p id="p_23">
+
+</p><p id="p_24">15.   PW10 Brij Kishore came before the court and deposed that on
+
+20.12.2014 at about 04:50 AM he was sleeping in his jhuggi and had a
+
+shop at the patri/ footpath opposite shop No. 34, Sarojini Nagar Market he
+
+heard loud voices of Chor Chor as a result of which he woke up and when
+
+he came outside his jhuggi, he saw Raj Bahadur running after one person.
+
+He also ran with Raj Bahadur and apprehended accused,         accused had
+
+also grappled with them and tried to flee away but accused was
+
+apprehended at the spot.    He further deposed that Raj Bahadur had told
+
+him that there were two other persons also with accused but they managed
+
+to escape. Raj Bahadur told him that the said person had committed theft
+
+inside his jhuggi. He had also deposed that when other neighborhood
+
+persons gathered at that time accused started threatening them that
+
+accused would set fire their jhuggies.        He further testified that the
+
+
+
+
+<span class="hidden_text" id="span_7">                                                                          11</span>
+ occupant of house no. G-130 i.e., Elan Govan also arrived and told that
+
+accused and his associates had also set fire to some polythene bags kept
+
+at the window at the back side entry and also informed that accused had
+
+also tried to set fire to his house. This witness identified accused correctly
+
+
+
+</p><p id="p_25">16.   PW11 Rahul Kumar came before the court and deposed that on
+
+20.12.2014 at about 04:50 a.m. he was sleeping near the Jhuggi G- 142.
+
+and had heard loud voices of Chor Chor and when he woke up and when
+
+came outside his jhuggi, he also saw Raj Bahadur running after one person
+
+and Rahul Kumar also ran with Raj Bahadur and Brij Kishor and all of
+
+them apprehended accused. He had also corroborated the statement of
+
+PW7 Elan Govan and PW 10 Brij Kishore. He had also deposed that when
+
+accused was apprehended and other neighbourers also gathered and at
+
+that time accused started threatening PW7 and PW10 and PW11 that they
+
+do not know 'who accused was' and that accused would set fire their
+
+jhuggies.   PW11 Rahul had also deposed that PW7 Elan told him that
+
+accused along with his associates had also set fire to some polythene bags
+
+kept at the window at the back side entry and also informed that he had
+
+tried to set fire the house of PW7 Elan along with his associates.
+
+
+
+</p><p id="p_26">17.   PW12         Ct. Jaiveer Singh     appeared in the witness box and
+
+deposed that on 20.12.2014 he was working as a photographer in mobile
+
+crime team, South District and upon receipt of a call from control room he
+
+along with the mobile crime team comprising of SI Anoop Kumar, Finger
+
+
+
+
+<span class="hidden_text" id="span_8">                                                                            12</span>
+ Print Expert had gone to Moti Lal Nehru Camp, near public toilets, Gali No.
+
+</p><p id="p_27">4. Where he met the IO SI Rajeev and on his instructions he had taken 10
+
+photographs of the spot which are Ex.PW12/A [1-10 colly].
+
+
+
+</p><p id="p_28">18.   PW13    SI Vinod Kumar       deposed that on 20.12.2014      he was
+
+posted in PS S. Nagar on that day on receipt of DD No 6-B he along with
+
+Ct. Amarpal had gone to the place of occurrence Jhuggi near G-141,
+
+Sarojini Nagar where complainant Raj Bahadur met him.         This witness
+
+further deposed that Raj Bhadur had already caught hold of accused and
+
+handed over him to SI Vinod. Raj Bahadur had also handed over him one
+
+buttondar knife and one mobile phone make Zen. Thereafter, he had
+
+recorded the statement of Raj Bahadur and prepared rukka vide
+
+Ex.PW10/A and got the present case registered through Ct. Amarpal. He
+
+had also prepared seizure memo of the recovered knife Ex.PW2/C and
+
+prepared seizure memo of the recovered mobile phone Ex.PW2/D. Site
+
+plan was also prepared by him at the instance of the complainant
+
+Ex.PW4/B. The sketch of the knife was also prepared Ex.PW2/B.         This
+
+witness further deposed that he arrested accused vide arrest memo
+
+Ex.PW2/E and personally searched vide           Ex.PW2/F.       Thereafter,
+
+disclosure statement of accused was also recorded Ex.PW4/A. He also
+
+recorded the statement of witness and was transferred from the PS. He
+
+had identified accused correctly
+
+
+
+</p><p id="p_29">19.   PW14 HC Manoj Kumar is a formal witness being MHC(M).             He
+
+
+
+
+<span class="hidden_text" id="span_9">                                                                         13</span>
+ deposed that he was working as MHCM in PS Sarojini Nagar and had
+
+brought register no. 19 showing entries regarding seizure of mobile phone
+
+Zen and knife vide Ex.PW14/A.
+</p>
+<p id="p_30">
+
+</p><p id="p_31">20.   After recording the prosecution evidence, statement of accused
+
+u/s 313 Cr. PC was recorded. Accused pleaded that he is innocent and
+
+he has been falsely implicated in this case.   However, accused did not
+
+lead any defence evidence.
+</p>
+<p id="p_32">
+
+</p><p id="p_33">21. Final arguments were heard at length.         During the course of
+
+arguments    Ld. Legal Aid Counsel for the accused submitted that
+
+prosecution has failed to prove its case beyond reasonable doubt against
+
+the accused for the offences punishable under <a href="/doc/329571/" id="a_50">Section 392</a>/ <a href="/doc/1865117/" id="a_51">397</a>/ <a href="/doc/812083/" id="a_52">411</a>/ <a href="/doc/1517318/" id="a_53">436</a>/
+
+<a href="/doc/37788/" id="a_54">34</a> IPC and 25/54/59 <a href="/doc/1656199/" id="a_55">A. Act</a>. He further submitted that there are a number
+
+of contradictions in the deposition of material witnesses.    He further
+
+submitted that nothing has been recovered from the possession of the
+
+accused except the mobile phone. On these grounds he submitted that
+
+accused be acquitted.
+</p>
+<p id="p_34">
+
+</p><p id="p_35">22.   Contrary to it, Ld. Additional PP for the State has opposed the
+
+contentions of Ld. Counsel for the accused and submitted that accused
+
+has committed robbery in the jhuggi of complainant PW2 Raj Bahadur
+
+along with his two unknown associates. He further submitted that accused
+
+has been apprehended red handed while he was committing robbery by
+
+
+
+
+<span class="hidden_text" id="span_10">                                                                       14</span>
+ the complainant and by the neighborers of the complainant while his
+
+associates managed to flee away from the spot. He further submitted that
+
+accused had committed robbery of Rs. 8000/-, Gold Ear Tops, one gold
+
+mangalsutra and two mobile phones make 'Zen' phone and 'Carbon'
+
+phone. He further submitted that accused has criminal antecedents as
+
+there are number of cases numbering 28 pending against the accused.
+
+He further submitted that other than PW 2 Raj Bahadur, PW 7 Elan Govan,
+
+PW 10 Brij Kishore and PW11 Rahul Kumar have deposed against the
+
+accused and have corroborated each other's deposition. He further
+
+submitted that prosecution has proved its case beyond reasonable doubt
+
+against the accused and he is liable to be convicted.
+
+
+
+</p><p id="p_36">23.   Having heard the submissions of both the sides, I am of the view
+
+that so long as the contention of ld. Counsel for the accused that there are
+
+so many contradictions on record are concerned, these contradictions are
+
+minor type in nature, which are attributable due to the long duration of time
+
+and memory of a human being. However, in case of Jaskaran Singh Vs
+
+State 1997 SCC (Crl) 651 it was observed by Hon'ble Supreme Court in
+
+the following words:-
+</p>
+<blockquote id="blockquote_1">             "When the evidence of first informant is found to be full of
+             contradictions, exaggerations and improvements, he cannot
+             be held to be a truthful witness".
+</blockquote>
+<p id="p_37">  Giving support to the contentions of minor contradictions Hon'ble
+
+  Supreme Court in case State of UP Vs Bhagwan AIR 1997 SC 3292:
+
+  (1997) 1 SCC 19        made the following observations            which are very
+
+
+
+
+<span class="hidden_text" id="span_11">                                                                                15</span>
+ relevant crucial and dominant in deciding the fate of the present case:-
+
+</p><blockquote id="blockquote_2">           "minor discrepancies in the evidence of the eye-witnesses
+           are immaterial unless they demolished the basic case of
+           the prosecution".
+</blockquote>
+<p id="p_38">The    observations made in the aforesaid two cases by the Hon'ble
+
+Supreme Court are ex facie indicative of the fact that a clear distinction
+
+be made between the major contradictions and minor contradictions
+
+when the contradictions are minor the truthfulness of the witness cannot
+
+be discredited in all and contrary to it when the contradictions are major
+
+these affect the root of the case and leave an impression of
+
+untruthfulness of the witnesses.
+</p>
+<p id="p_39">
+
+In judgment '<a href="/doc/1381651/" id="a_56">State of UP vs M K Anthony</a> AIR 1985 SC 48: 1985 Cr.
+
+LJ 493' it has been observed that:
+</p>
+<blockquote id="blockquote_3">             "Minor discrepancies not going to the root of the matter
+             would not permit rejection of evidence. Every honest and
+             truthful witness may differ in some details unrelated to the
+             main incident because power of observation, retention
+             and reproduction differ with individuals"
+</blockquote>
+<p id="p_40">In another case 'Faquira Vs State AIR 1976 SC 915: (1976) 1 SCC
+
+661', it has also been observed that
+
+             "Minor discrepancies guarantee that the witnesses are not
+             tutored."
+</p>
+<p id="p_41">
+Besides, accused has failed to give any satisfactory explanation with
+
+regard to his innocence at the time of recording of his statement u/s 313
+
+Cr. PC. Further more, he did not bring on record any defence witness
+
+to falsify the prosecution story.
+</p>
+<p id="p_42">
+
+
+<span class="hidden_text" id="span_12">                                                                            16</span>
+</p><p id="p_43"> 24.   Before reaching at any conclusion let the relevant sections be re-
+
+produced verbatim which are as under:-
+</p>
+<blockquote id="blockquote_4">           "390. Robbery.--In all robbery there is either theft
+           or extortion.
+</blockquote><blockquote id="blockquote_5">           When theft is robbery.
+</blockquote>
+<blockquote id="blockquote_6">           When theft is robbery.--Theft is "robbery" if, in order
+           to the committing of the theft, or in committing the
+           theft, or in carrying away or attempting to carry
+           away property obtained by the theft, the offender,
+           for that end, voluntarily causes or attempts to cause
+           to any person death or hurt or wrongful restraint, or
+           fear of instant death or of instant hurt, or of instant
+           wrongful restraint.
+</blockquote>
+<blockquote id="blockquote_7">           When extortion is robbery.
+</blockquote>
+<blockquote id="blockquote_8">           When extortion is robbery.--Extortion is "robbery" if
+           the offender, at the time of committing the extortion,
+           is in the presence of the person put in fear, and
+           commits the extortion by putting that person in fear
+           of instant death, of instant hurt, or of instant
+           wrongful restraint to that person or to some other
+           person, and, by so putting in fear, induces the
+           person, so put in fear then and there to deliver up
+           the thing extorted.
+</blockquote>
+<blockquote id="blockquote_9">           Explanation.-The offender is said to be present if he
+           is sufficiently near to put the other person in fear of
+           instant death, of instant hurt, or of instant wrongful
+           restraint.
+</blockquote>
+<blockquote id="blockquote_10">           392 <a href="/doc/1569253/" id="a_57">IPC</a>.
+</blockquote><blockquote id="blockquote_11">           Punishment for robbery.--Whoever commits
+           robbery shall be punished with rigorous
+           imprisonment for a term which may extend to ten
+           years, and shall also be liable to fine; and, if the
+           robbery be committed on the highway between
+           sunset and sunrise, the imprisonment may be
+           extended to fourteen years.
+</blockquote>
+
+<blockquote id="blockquote_12">           397 <a href="/doc/1569253/" id="a_58">IPC</a>.
+</blockquote><blockquote id="blockquote_13">           Robbery, or dacoity, with attempt to cause death or
+           grievous hurt.--If, at the time of committing robbery
+           or dacoity, the offender uses any deadly weapon, or
+           causes grievous hurt to any person, or attempts to
+           cause death or grievous hurt to any person, the
+           imprisonment with which such offender shall be
+           punished shall not be less than seven years.</blockquote><pre id="pre_2">
+
+           <a href="/doc/812083/" id="a_59">Section 411</a> IPC
+           "Dishonestly receiving         stolen    property     -
+
+
+
+
+<span class="hidden_text" id="span_13">                                                                      17</span>
+</pre><blockquote id="blockquote_14">           Whoever dishonestly receives or retains any stolen
+          property, knowing or having reason to believe the
+          same to be stolen property, shall be punished with
+          imprisonment of either description for a term which
+          may extend to three years, or with fine, or with
+          both."
+</blockquote>
+<blockquote id="blockquote_15">          436 <a href="/doc/1569253/" id="a_60">IPC</a>.
+</blockquote><blockquote id="blockquote_16">          Mischief by fire or explosive substance with intent
+          to destroy house, etc.--Whoever commits mischief
+          by fire or any explosive substance, intending to
+          cause, or knowing it to be likely that he will thereby
+          cause, the destruction of any building which is
+          ordinarily used as a place of worship or as a human
+          dwelling or as a place for the custody of property,
+          shall be punished with 1[imprisonment for life], or
+          with imprisonment of either description for a term
+          which may extend to ten years, and shall also be
+          liable to fine.
+</blockquote>
+<p id="p_44">It has also been observed in 'Harish Chandra Vs State of UP - AIR
+
+1976 SC 1430' that :
+</p>
+<blockquote id="blockquote_17">             "Robbery - The offence of robbery is defined in
+             <a href="/doc/1905008/" id="a_61">section 390</a> IPC. The robbery is punishable under
+             <a href="/doc/329571/" id="a_62">section 392</a> IPC. When force is used to enable
+             another to carry away the booty, it amounts to
+             robbery."</blockquote><p id="p_45">
+
+
+    It is the fundamental principle of law that in case of conviction of
+
+accused persons the prosecution is required to prove the guilt of accused
+
+beyond reasonable doubt.          Hon'ble Supreme Court on this point has
+
+observed in a case titled as 'Vijayee Singh Vs State of UP AIR 1990
+
+SC 1459' that:
+</p>
+<blockquote id="blockquote_18">          'Reasonable doubt' is one which occurs to a prudent
+          and reasonable man- The 'reasonable doubt' is one
+          which occurs to a prudent and reasonable man.
+          <a href="/doc/1507082/" id="a_63">Section 3</a> while explaining the meaning of the words
+          'proof', disproved' and 'not proved' lays down the
+          standard of proof, namely about the existence or non-
+          existence of the circumstances from the point of view
+          of a prudent man. The section is so worded as to
+          provide for two conditions of mind, first, that in which a
+          man feels absolutely certain of a fact, in other words,
+          'believe it to exist' and secondly in which, though he
+          may not feel absolutely certain of a fact, he thinks it so
+
+
+
+
+<span class="hidden_text" id="span_14">                                                                       18</span>
+             extremely probable that a prudent man would under
+            the circumstances act on the assumption of its
+            existence. The act while adopting the requirement of
+            the prudent man as an appropriate concrete standard
+            by which to measure proof at the same time
+            contemplates of giving full effect to be given to
+            circumstances or condition of probability or
+            improbability. It is this degree of certainty to be arrived
+            where the circumstances before a fact can be said to
+            be proved. A fact is said to be disproved when the
+            court believes that it does not exist or considers its
+            non-existence so probable in the view of a prudent
+            man the fact is not proved, i.e. neither proved nor
+            disproved.    It is this doubt which         occurs to a
+            reasonable man, has legal recognition in the field of
+            criminal disputes. It is something different from moral
+            conviction and it is also different from a suspicion. It is
+            the result of a process of keen examination of the
+            entire material on record by 'a prudent man'.
+</blockquote>
+
+<p id="p_46">25.   Having perused the case file very carefully and material available
+
+on record it has come on record in the deposition of PW2 Raj Bhadur that
+
+on 20.12.2014 at about 05:00 AM              he saw accused Sanjay @ Sanju
+
+standing besides his bed whereas his associates (not arrested) were
+
+standing at the door of his jhuggi.              Accused Sanjay was taking out
+
+personal articles from the purse of Raj Kumar, which further being handed
+
+over to his associates,       who were standing at the gate of the jhuggi.
+
+Thereafter, PW2 Raj Bahadur raised hue and cry                        upon which his
+
+associates ran away.       Raj Bahadur had tried to apprehend accused but
+
+accused Sanjay @ Sanju took out a knife and put it on the person of Raj
+
+Bahadur and threatened him. Thereafter, PW2 Raj Bahadur managed to
+
+apprehend accused Sanjay after a scuffle with him.                        In this process
+
+accused Sanjay @ Sanju gave beatings to Raj Bahadur with hands and
+
+legs and fist blows.    PW2 further testified that accused had robbed from
+
+him Rs.8000/-, Gold Ear Tops, One gold mangalsutra and two mobile
+
+
+
+
+<span class="hidden_text" id="span_15">                                                                                       19</span>
+ phones make 'Zen' phone and 'Carbon' phone. He has also testified that
+
+since police personnels were stationed near the market gate therefore, on
+
+hearing noises they approached at the spot. Accused was apprehended.
+
+Thereafter, on carrying out personal search of accused, he was found in
+
+possession of 'Zen' phone which belonged to Raj Bahadur and one 'knife'.
+
+However, two associates of accused managed to run away.         This witness
+
+(PW2 Raj Bahadur) further deposed that police recorded his statement
+
+vide Ex.PW2/A. Raj Bahadur had also shown the place of occurrence to
+
+the police on which the site plan was prepared.     The sketch of the knife
+
+was also prepared Ex.PW2/B. The knife was taken into possession vide
+
+seizure memo Ex.PW2/C. The phone was taken into possession vide
+
+seizure memo Ex.PW2/D.          PW2 Raj Bahadur had identified accused
+
+correctly. Accused was arrested and personally searched vide arrest and
+
+personal search memos Ex.PW2/E and Ex.PW6/F.           This witnes has also
+
+identified the knife as Ex.P1 and 'Zen' phone as Ex.P2 belonging to him
+
+and robbed by accused.      Testimony of this witness has also been fully
+
+corroborated by PW4 Ct. Amarpal PW7 Elan Govan; PW10 Brij Kishore;
+
+PW11 Rahul Kumar and PW13 SI Vinod Kumar.               All these witnesses
+
+have categorically stated that early morning at around 04:50 a.m. or 5 a.m.
+
+accused was apprehended at the spot.        They gathered at the spot on
+
+hearing noise 'chor-chor'. All these witnesses have also correctly identified
+
+the accused as culprit.
+</p>
+<p id="p_47">
+
+
+<span class="hidden_text" id="span_16">                                                                           20</span>
+</p><p id="p_48"> 26.     In light of these facts and circumstances of the case and taking into
+
+consideration the observations made in the above referred judgments, I
+
+am of the view that prosecution has successfully proved its case beyond
+
+reasonable doubt against the accused Sanjay @ Sanju for the offences
+
+punishable u/s 392/ 34 / 411 <a href="/doc/1569253/" id="a_64">IPC</a> and 25 <a href="/doc/1934415/" id="a_65">Arms Act</a>           precisely for the
+
+reasons that on 20.12.2014 at around 05:00 a.m. accused Sanjay @
+
+Sanju committed offence of robbery in Jhuggi no. G-142, Sarojini Nagar by
+
+showing knife to the complainant PW2 Raj Bahadur. Only robbed 'Zen
+
+phone' of complainant PW2 Raj Bahadur could be recovered from the
+
+possession of accused Sanjay @ Sanju vide seizure memos Ex.PW2/D
+
+and     knife was also recovered from him vide seizure memo of knife
+
+Ex.PW2/C and the same has been identified in the court as Ex.P-1 .
+
+Furthermore,     accused was apprehended at the spot red handed but his
+
+associates had run away from the spot.         Besides, accused Sanjay @
+
+Sanju     has also failed to give any satisfactory reply in the statement
+
+recorded u/s 313 Cr. PC.
+</p>
+<p id="p_49">
+
+</p><p id="p_50">27.     However, prosecution has miserably failed to prove on record the
+
+offences punishable u/s 397 <a href="/doc/1569253/" id="a_66">IPC</a> that accused has used the weapon of
+
+offence while committing the robbery precisely for the reasons that there
+
+is no concrete proof on record for causing injury to PW2 Raj Bahadur.      It
+
+is also very strange as to why PW2 has not been medically examined if he
+
+was beaten by the accused as alleged PW2 in his deposition.           Again,
+
+prosecution has failed to prove its case for the offence u/s 436 <a href="/doc/1569253/" id="a_67">IPC</a> for
+
+
+
+
+<span class="hidden_text" id="span_17">                                                                           21</span>
+ causing fire since there is no record that any one made a call to Fire
+
+Brigade while it is common sense if any house is burning a call to Fire
+
+Brigade must be made. I found no concrete evidence in this regard.
+
+</p><pre id="pre_3">           Accordingly, I convict accused      Sanjay @ Sanju
+           for the offences punishable u/s      392/34 <a href="/doc/1569253/" id="a_68">IPC</a> for
+</pre><p id="p_51">           committing robbery of Rs.8,000/-,   one pair of gold
+           ear tops, one gold mangalsutra      and two mobile
+           phones;
+</p>
+<p id="p_52">           I again convict the accused for the offence 411
+           <a href="/doc/1569253/" id="a_69">IPC</a> for the recovery of Zen Phone of PW2 Raj
+           Bahadur;
+</p>
+<p id="p_53">           and I further convict the accused u/s 25 <a href="/doc/1934415/" id="a_70">Arms Act</a>
+           for having found in possession of knife; and
+
+           I absolve accused Sanjay @ Sanju for the offences
+           punishable u/s 397 and 436 <a href="/doc/1569253/" id="a_71">IPC</a> in view of the
+           observations made in the preceding paras.
+</p>
+<p id="p_54">
+ANNOUNCED IN THE OPEN COURT
+ON THIS 23.08.2016
+
+                                                            (RAJ KAPOOR)
+                                                ASJ-03/PHC/NDD/NEW DELHI
+
+
+
+
+<span class="hidden_text" id="span_18">                                                                      22</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

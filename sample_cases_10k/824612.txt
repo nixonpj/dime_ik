@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Biju &amp; Company vs The Regional Director on 28 July, 2008</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/824612/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 3 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1955064/">The Factories Act, 1948</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/527913/">Section 2 in The Factories Act, 1948</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1691126/">Section 2(k) in The Factories Act, 1948</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/824612/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/824612/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/824612/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=manufacturing%20process%20and%20manufacture">manufacturing process and manufacture</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=manufacturing%20process%20">manufacturing process </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=factories%20act">factories act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=factories%20">factories </a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Biju &amp; Company vs The Regional Director on 28 July, 2008</div><pre id="pre_1">       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+Ins.APP.No. 25 of 2007()
+
+
+1. BIJU &amp; COMPANY,PALACE ROAD,THRISSUR.
+                      ...  Petitioner
+
+                        Vs
+
+
+
+1. THE REGIONAL DIRECTOR,E.S.I CORPORATION,
+                       ...       Respondent
+
+2. RECOVERY OFFICER,E.S.I CORPORATION,
+
+                For Petitioner  :SMT.C.G.BINDU
+
+                For Respondent  :SRI.T.V.AJAYAKUMAR, SC, ESI CORPN.
+
+The Hon'ble MR. Justice M.N.KRISHNAN
+
+ Dated :28/07/2008
+
+ O R D E R
+                             M.N.KRISHNAN, J
+                        =====================
+                            INAP No.25 OF 2007
+                        =====================
+
+                   Dated this the 28th day of July 2008
+
+                                 JUDGMENT
+</pre>
+
+<p id="p_1">       This appeal is preferred against the order of the             Employees'
+
+Insurance Court, Palakkad in I.A.No.25 of 2003. The applicant therein has
+
+challenged the decision of the Employees' State Insurance Corporation
+
+contending that there is no manufacturing process with the aid of the power
+
+on the shop and that the total number of employees is only 7 and therefore
+
+the provisions of the E.S.I.Act are not attracted to the shop. The E.I.Court
+
+found that the using of paint mixing machine to make different colours
+
+amounts to manufacturing       as contemplated under the provisions of the
+
+<a href="/doc/1955064/" id="a_1">Factories Act</a>. It further held that from the materials available, it can be seen
+
+that necessary number of persons are there for attracting the application of
+
+Section 2(12)(a) of the E.S.I Act. Learned counsel for the appellant very
+
+strongly contends before me that a mixing machine is supplied by the
+
+manufacturer and they are not manufacturing anything and therefore no
+
+manufacturing process is carried and so the said Section will not be
+
+attracted. On the other hand, the E.I.Court referred to <a href="/doc/527913/" id="a_2">Section 2(14AA)</a>,
+
+<span class="hidden_text" id="span_1">INAP 25/2007                          -:2:-</span>
+
+wherein by virtue of an amendment, it has been stated that the
+
+manufacturing process shall have the meaning           assigned to it   in the
+
+<a href="/doc/1955064/" id="a_3">Factories Act</a> of 1948. <a href="/doc/1691126/" id="a_4">Section 2(k)</a> of the Factories Act deals with
+
+'manufacturing process'.     There the manufacturing process means         any
+
+process for (i) making, altering, repairing, ornamenting, finishing, packing,
+
+oiling, washing, cleaning, breaking up, demolishing, or otherwise treating or
+
+adapting any article or substance with a view to its use sale, transport,
+
+delivery or disposal. The E.I. Court held that it is an admitted fact that the
+
+applicant is using paint mixing machine to make different colour paints
+
+according to the requirements of the customers. By mixing the paintbase
+
+with stainer an entirely different colour paint is produced. Therefore the said
+
+mixing will amount to a process of altering, treating or adapting an article or
+
+substance with a view to its sale which is nothing but a manufacturing
+
+process as defined under Section 2(k)(i) of the Factors Act, 1948. I totally
+
+agree with the said interpretation and the finding given by the E.I.Court.
+
+Therefore it does not call for any interference.
+</p>
+<p id="p_2">      3. So far as the second question is concerned, it is a pure question of
+
+fact that how many employees are there and there is nothing placed before
+
+this Court to show that it was on account of a perverse or illegal approach.
+
+Therefore that question will not amount to         the raising of a substantial
+
+<span class="hidden_text" id="span_2">INAP 25/2007                        -:3:-</span>
+
+question of law. Therefore it also cannot be entertained.
+
+</p><p id="p_3">      From these discussions, there is     nothing to    interfere with the
+
+decision rendered by the E.I.Court. Therefore the appeal fails and the same
+
+is dismissed.
+</p>
+<p id="p_4">
+
+
+</p><p id="p_5">                                                M.N.KRISHNAN, JUDGE
+
+Cdp/-
+</p>
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,1771 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Government Of Maharashtra vs Atur India Pvt. Limited on 23 September, 2010</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/103188939/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:103188939">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/910984/">The Interest Act, 1978</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1052228/">The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1147343/">Section 3(1)(b) in The Interest Act, 1978</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/196386/">Section 3 in The Interest Act, 1978</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1503578/">Section 30 in The Arbitration Act,   1940</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/103188939/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/103188939/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/103188939/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interest%20as%20claim">interest as claim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=award%20of%20interest">award of interest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interest%20act">interest act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=escalation">escalation</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arbitral%20award">arbitral award</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=simple%20interest">simple interest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2030">section 30</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interest%20rate">interest rate</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arbitration%20act">arbitration act</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=bridge%20">bridge </a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interest%20act%2C%201978">interest act, 1978</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=anturkar">anturkar</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=marlapalle">marlapalle</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=demonstrations">demonstrations</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=interest%20paid">interest paid</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arbitration%20award">arbitration award</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=%20award%20by%20arbitrator"> award by arbitrator</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=payment%20on%20interest">payment on interest</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=setting%20aside%20of%20award">setting aside of award</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%2029">section 29</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Bombay High Court</div>
+<div class="doc_title">Government Of Maharashtra vs Atur India Pvt. Limited on 23 September, 2010</div><div class="doc_bench">Bench: B.H. Marlapalle, A.A. Sayed</div>
+
+<pre id="pre_1">                                       1                                   FA853
+
+
+
+
+                                                                          
+              IN THE HIGH COURT OF JUDICUATURE AT MUMBAI
+
+
+
+
+                                                  
+                       CIVIL  APPELLATE JURISDICTION
+
+                     FIRST APPEAL NO.    853     OF  1992
+
+
+
+
+                                                 
+     Government of Maharashtra             )
+     Irrigation Department, represented    )
+
+
+
+
+                                   
+     by the Executive Engineer,            )
+     Khadakwasla Headworks Division,
+                      ig                   )
+     Barney Road, Mangalwar Peth,          )
+     Pune - 11.                            )...    ...     Appellant.
+                    
+           Versus
+
+     Atur India Pvt. Limited,              )
+     "Atur Chambers", 2-A, Moledine        )
+     Road, Pune - 1.                       )...    ...     Respondent.
+      
+   
+
+
+
+     Mrs. G. P. Mulekar for the Appellant.
+     Mr. A. V. Anturkar for the Respondent.
+
+
+
+
+
+                                    CORAM :        B. H. MARLAPALLE &amp; 
+                                                   A. A. SAYED, JJ. 
+</pre>
+<p id="p_1">                                    DATED  :   3RD  SEPTEMBER, 2010 &amp;
+                                               23RD SEPTEMBER, 2010.
+</p>
+
+
+
+
+<p id="p_2">     ORAL JUDGMENT (Per B. H. MARLAPALLE, J.): 
+</p>
+
+
+<p id="p_3">           These appeals filed under <a href="/doc/685723/" id="a_1">Section 39</a> of the Arbitration Act, 1940 
+
+
+
+
+<span class="hidden_text" id="span_1">                                                  ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                               2                                  FA853
+
+
+
+
+                                                                                
+     ("the Act" for short) arises from Special Civil Suit No. 1257 of 1990 
+
+
+
+
+                                                        
+     and Misc. Application No. 102 of 1991. The suit was filed for passing 
+
+     decree in terms of the arbitral award dated 14th October, 1990 by the 
+
+
+
+
+                                                       
+     Arbitral   Tribunal   and   the   Misc.   Application   was   filed   by   the   State 
+
+     Government for setting aside the Award under <a href="/doc/1503578/" id="a_2">Section 30</a> of the Act.
+</p>
+
+
+
+                                          
+<p id="p_4">     2.
+                         
+            The respondent was awarded contract for construction of Veer 
+
+     Baji   Pasalkar   Dam   at   village   Warasgaon   and   on   completion   the 
+                        
+     contractor monetarily recovery claimed. As the claims were not met, 
+
+     the contractor approached by its letter dated 6th  December, 1988 for 
+      
+
+
+     appointment of Arbitrators. The Government of Maharashtra through 
+   
+
+
+
+     the Irrigation Department, issued a resolution on 20th  July, 1989 and 
+
+     referred   the   following   disputes   to   arbitration   by   a   panel   of   three 
+
+
+
+
+
+     arbitrators:
+</p>
+<blockquote id="blockquote_1">            (a)     Claim   arising   out   of   non-waiver   of   ceiling   limit   on 
+                    escalation for Labour and Material components.
+</blockquote>
+
+
+
+
+<blockquote id="blockquote_2">            (b)     Claim arising out of non-payment of escalation on Fuels 
+                    and Lubricants on actual basis, as per Arbitration Award, 
+                    for the period from 1st January, 1986 onwards.
+</blockquote>
+<blockquote id="blockquote_3">            (c)     Claim arising out of non-reimbursement of interest paid by 
+                    them for bridge finance obtained by them on account of 
+                    non payment of R.A. Bills.
+</blockquote>
+
+
+
+<span class="hidden_text" id="span_2">                                                        ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<blockquote id="blockquote_4">                                               3                                  FA853
+
+
+
+
+                                                                                
+            Before the Arbitrators, the Contractors submitted its statement of 
+
+
+
+
+                                                        
+     claim   and   the   Irrigation   Department   filed   its   written   statement 
+
+     opposing   the   claim.   After   hearing   the   party   and   by   taking   into 
+
+
+
+
+                                                       
+     consideration the evidence on record, the arbitrators passed the final 
+
+     award on 14th  October, 1990 and submitted to the Court for its Rule 
+
+
+
+
+                                          
+     and therefore it came to be registered as Special Civil Suit No. 1257 of 
+                         
+     1990 before the learned Civil Judge, Senior Division at Pune. At the 
+
+     same time the Irrigation Department filed Misc. Application No. 102 of 
+                        
+     1991 praying for setting aside the arbitral award. The Learned Civil 
+
+     Judge, Senior Division, heard the parties, considered the award and 
+      
+
+
+     passed the order dated 24th April, 1992 dismissing the Special Civil Suit 
+   
+
+
+
+     No.1257   of   1990   and   the   Award   passed   by   the   Arbitrators   on   14 th 
+
+     October, 1990 was made rule of the Court whereas Misc. Application 
+
+
+
+
+
+     No. 102 of 1991 filed by the Irrigation Department was dismissed. 
+</blockquote>
+
+
+<p id="p_5">     3.     It is pertinent to note that in these appeals the challenge to the 
+
+
+
+
+
+     award passed by the arbitrators is limited only in respect of payment of 
+
+     interest. For ready reference, we deem it appropriate to reproduce the 
+
+     impugned part of the Award in respect of Claim No.3 as under:
+</p>
+<pre id="pre_2">            "7.4           Claim   No.3:-  Claim   on   account   of   non-
+
+
+
+
+<span class="hidden_text" id="span_3">                                                        ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                         4                                   FA853
+
+
+
+
+                                                                           
+</pre><p id="p_6">     reimbursement of interest paid by the claimants on account 
+     of nonpayment of R.A. Bills.
+</p>
+
+
+
+                                                   
+<p id="p_7">     7.4.1          It is on record that payments for this work were 
+     often held up for want of funds. The two parties have given 
+     us   a   signed   statement   (C/436   &amp;   437)   of   the   amounts 
+
+
+
+
+                                                  
+     withheld   from   the   period   31.7.85   to   20.4.87.   The   non-
+     payment of sizeable amount from bills is clearly in violation 
+     of   provisions   in   clause   31.2   p.   45   of   the   Agreement.   We 
+     accept this claim as tenable and equitable. We do not accept 
+
+
+
+
+                                    
+     the   method   of   interest   at   18   per   cent   per   annum 
+     compounded quarterly which the Claimants have reportedly 
+                  
+     paid to their bankers, and as per statement 1 enclosed have 
+     computed   interest   at   simple   interest   of   18   per   cent   per 
+     annum over the amount retained. We award Rs.10,81,000/- 
+</p>                 
+<p id="p_8">     to   the   Claimants   against   this   claim   vide   statement   1 
+     enclosed.
+</p>
+<p id="p_9">     8.             Interest -
+</p>      
+
+
+<p id="p_10">     8.1.           After   hearing   the   legal   arguments   of   both 
+   
+
+
+
+     parties   we   unanimously   find   that   under   <a href="/doc/196386/" id="a_3">Section   3</a>   of   the 
+     Interest  Act, 1978, the  claim for interest on  any amounts 
+     due can be allowed by us. All the claims are ascertainable 
+     amounts computed on the basis of provisions in the contract 
+
+
+
+
+
+     for claim No.1 and 2 and on the basis of easily verifiable 
+     basic facts for claim No.3.
+</p>
+<p id="p_11">     8.2           We   consider   a   rate   of   simple   interest   of   12 
+     percent   per   annum   on   the   amounts   of   claim   after   they 
+     became due as reasonable in these cases.
+</p>
+
+
+
+
+<p id="p_12">     8.3              For   claim   No.2   and   3   the   amount   of   claim 
+     computed quarterly is assumed to have been due from the 
+     end   of   the   quarter   concerned.   The   interest   for   claim   3  is 
+     assumed to start from 1.7.87 after allowing for a reasonable 
+     time   to   decide   the   claim   from   the   end   of   the   period   for 
+     which the amounts were retained. All interests claims will 
+     end on 31.3.90, 13.4.90 being the date on which arguments 
+
+
+
+
+<span class="hidden_text" id="span_4">                                                   ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                          5                                   FA853
+
+
+
+
+                                                                            
+     were   started   in   this   case   and   is   taken   as   the   start   of 
+     pendente lite period. 
+</p>
+
+
+
+                                                   
+<p id="p_13">     8.4        We award by way of interest on the claim No.1 
+     Rs.21,20,000/-   as   interest   on   claim   as   per   statement   2 
+     enclosed.
+</p>
+
+
+
+                                                  
+<p id="p_14">     8.5         We   award   interest   on   claim   No.2   of 
+     Rs.3,66,000/- as per statement No.3 enclosed.
+</p>
+
+
+
+                                    
+<p id="p_15">     8.6         We   award   interest   on   claim   No.3   of 
+     Rs.3,57,000/- as per statement 1 enclosed.
+</p>                  
+<p id="p_16">     8.7            The abstract of Award with interest-
+</p>                 
+<p id="p_17">                  The   amounts   of   main   claim   together   with 
+     interest thereon as awarded by us are as under:
+</p>
+<pre id="pre_3">                    Main Amount              Interest                Total
+      
+
+
+     Claim No.1         59,77,000            21,20,000          80,97,000
+   
+
+
+
+     Claim No.2           8,06,000             3,66,000         11,72,000
+     Claim No.;3        10,81,000              3,57,000         14,38,000
+                        --------------       --------------     --------------
+                        78,64,000            28,43,000         107,07,000
+
+
+
+
+
+                        ======               ======             =====
+
+     8.9          No pendente lite interest can be awarded by the 
+</pre><p id="p_18">     Arbitrators under Section 34 of the Civil Procedure Code as 
+     they are not "Courts" as decided in the Code.
+</p>
+
+
+
+
+<p id="p_19">     8.10           We award interest on the total amount of claim 
+     of Rs.72.07 lakhs (107.07 less advance adjusted) at 18 per 
+     cent per annum from 16.11.90 (leaving a reasonable period 
+     of about one month for the respondents to make payment to 
+     the Claimants) to the date of realisation of the amount or 
+     the   date   of   obtaining   decree   for   the   amount   from   the 
+     concerned court whichever is earlier."
+</p>
+
+
+
+<span class="hidden_text" id="span_5">                                                   ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<p id="p_20">                                               6                                    FA853
+
+
+
+
+                                                                                  
+</p><p id="p_21">     4.      Mrs. Mulekar, the learned AGP has placed before us the amount 
+
+
+
+
+                                                          
+     awarded as per the following table:</p><pre id="pre_4">
+
+     Sr.        Claim          Main         Pre reference          Period of          Total
+     No                       Amount           interest             Interest         Amount
+
+
+
+
+                                                         
+                                             @ 12% p.a.           @ 12% p.a.
+      1    Escalation for   59,77,000        21,20,000             1.7.1987          80,97,000
+           labour and            A                 B                  to               
+           material                                               31.3.1990
+
+
+
+
+                                          
+           component
+      2    Escalation for     8,06,000         3,66,000            1.7.1987          11,72,000
+           Fuel and          ig   P                 Q                 to                R
+           Lubricant                                              31.3.1990
+      3    Interest on       10,81,000         3,57,000            1.7.1987          14,38,000
+           delayed               X                  Y                 to                Z
+                           
+           payment of         18% p.a.                            31.3.1990
+           R.A. Bills
+           Total              78,64,000     28,43,000                             107,07,000
+      
+
+
+</pre><p id="p_22">             The   main   amount   of   Rs.59,77,000/-   (A)   under   the   head   of 
+   
+
+
+
+     Escalation for labour and material component and Rs.8,06,000/- (P) 
+
+     under the  head of Escalation for Fuel and Lubricant granted by the 
+
+
+
+
+
+     Arbitrators have not been challenged before us and what is challenged 
+
+     is   only   the   interest   components.   It   is   evident   that   the   interest 
+
+
+
+
+
+     component is under four different forms, namely,  (a)  Interest at the 
+
+     rate   of   18%   p.a.   on   the   R.A.   Bills   paid   belatedly   which   is 
+
+     Rs.10,81,000/-; (b) Interest at the rate of 12% p.a. for the period from 
+
+     1.7.1987 to 31.3.1990 on Claim Nos.1 and 2; (c) Interest at the rate of 
+
+     12% p.a. on the interest amount of Rs.10,81,000/- for the period from 
+
+
+
+
+<span class="hidden_text" id="span_6">                                                          ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                             7                                  FA853
+
+
+
+
+                                                                              
+     1.7.1987 to 31.3.1990 and (d) Interest at the rate of 18% p.a. for the 
+
+
+
+
+                                                      
+     post award period as well as on the  amount of interest for delayed 
+
+     payment. The total amount of the award on Claim No.3 thus came to 
+
+
+
+
+                                                     
+     Rs.107,07,000/-.   Out   of   the   same,   by   way   of   advance   a   sum   of 
+
+     Rs.35,00,000/- was paid to the Contractor in March, 1989. From the 
+
+
+
+
+                                        
+     balance amount of Rs.72,07,000/- of the Award amount an amount of 
+                        
+     Rs.32,83,000/- has been paid to the Contractor  on 18th  April, 1991. 
+</p>
+<p id="p_23">     Thus leaving the disputed amount at Rs.39,24,000/- which has been 
+                       
+     deposited with the trial Court on 19th October, 1991.
+</p>      
+
+
+<p id="p_24">            We must note at this stage an amount of Rs.21,20,006/- (B) and 
+   
+
+
+
+     Rs.3,66,000/- (Q) has been granted by way of interest on claim No.1 
+
+     and claim No.2, respectively. 
+</p>
+
+
+
+
+<p id="p_25">     5.     Mrs. Mulekar, the learned AGP raised the following objections to 
+
+     the impugned Award to the extent of the interest component:
+</p>
+
+
+
+
+<blockquote id="blockquote_5">           (1)     The Contractor was not entitled for interest on the R.A. 
+</blockquote>
+<blockquote id="blockquote_6">                   Bills, released late by few days.
+</blockquote>
+<blockquote id="blockquote_7">           (2)     Even otherwise  granting simple interest at the rate of 18% 
+
+                   p.a. on the R.A. Bills was illegal.
+</blockquote>
+
+
+
+<span class="hidden_text" id="span_7">                                                      ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<pre id="pre_5">                                                8                                   FA853
+
+
+
+
+                                                                                  
+            (3)     Interest at the rate of 12% p.a. for the pre-reference period 
+
+
+
+
+                                                          
+</pre><blockquote id="blockquote_8">                    has   not   been   provided   for   in   the   contract   terms   on   the 
+
+                    amounts   at   claims   No.1   and   2   and   thus   the   Arbitrators 
+
+
+
+
+                                                         
+                    misconducted  themselves and in support of this argument 
+
+                    she has relied upon Clause 34 of the Contract.
+</blockquote>
+
+
+
+                                           
+<blockquote id="blockquote_9">            (4)     Interest on interest could not have been awarded and this 
+                          
+                    is   also   a   misconduct   by   the   Arbitrators,   in   as   much   as 
+
+                    interest at the rate of 12% per annum for the period from 
+                         
+                    1st July, 1987 to 31st March, 1990 has been awarded on the 
+
+                    interest amount of Rs.10,81,000/.
+</blockquote>      
+
+
+<blockquote id="blockquote_10">            (5)     The   interest   at   18%   p.a.   for   the   post   award   period   is 
+   
+
+
+
+                    unjust, illegal and unreasonable. 
+</blockquote>
+<p id="p_26">     6.     While  elaborating  her  arguments  Mrs. Mulekar submitted that 
+
+
+
+
+
+     the Contract did not provide for payment of interest on the R.A. Bills 
+
+     on the grounds that the said payment was released belatedly. No such 
+
+     claim was ever made by the Contractor. The Contractor did not point 
+
+
+
+
+
+     out   that   on   account   of   R.A.Bills   being   released   belatedly   it   had   to 
+
+     obtain   a   bridge   loan   and   paid   interest   to   the   bankers   on   such   an 
+
+     amount. She further submitted that the reliance of the Arbitrators on 
+
+     Clause 31.2 in granting interest on the R.A. Bills was a blatant error 
+
+
+
+
+<span class="hidden_text" id="span_8">                                                          ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                               9                                   FA853
+
+
+
+
+                                                                                 
+     thus   amounting   to   misconduct.   She   further   submitted   that   even 
+
+
+
+
+                                                         
+     otherwise interest at the rate of 18 % per annum was exorbitant and 
+
+     there is no justification given as to why the Arbitrators thought it fit to 
+
+
+
+
+                                                        
+     grant simple interest at this high rate, more so, when there was no 
+
+     evidence before the Arbitrators regarding the rate of interest charged 
+
+
+
+
+                                          
+     by the banks on the lendings at the relevant time. Regarding the simple 
+                         
+     interest at the rate of 12% p.a. for the pre-reference period on claim 
+
+     Nos.1 and 2, Mrs. Mulekar while pointing to clause 34 of the Contract 
+                        
+     also submitted that no notice was issued by the Contractor as required 
+
+     under <a href="/doc/1147343/" id="a_4">Section 3(1)(b)</a> of the Interest Act, 1978. She also contended 
+      
+
+
+     that the claimant had not claimed and Claim No.3 did not contemplate 
+   
+
+
+
+     payment of interest for the pre-reference period on claim Nos.1 and 2 
+
+     i.e.     the   amounts   (B)   and   (Q).   Regarding   interest   on   interest   i.e. 
+
+
+
+
+
+     Rs.3,57,000/- (Y) charged on interest amount of Rs.10,81,000/- (X), it 
+
+     was submitted that the law does not permit the Arbitrators to allow 
+
+     interest   on   interest   and   therefore   the   Arbitrators   misconducted 
+
+
+
+
+
+     themselves. She referred, in this regard, to the scheme of <a href="/doc/1390397/" id="a_5">Section 3(3)</a>
+
+</p><p id="p_27">     (c) of the <a href="/doc/910984/" id="a_6">Interest Act</a>. 
+</p>
+<p id="p_28">            In support of these contentions, the learned AGP placed reliance 
+
+     on the following decisions:
+</p>
+
+
+
+<span class="hidden_text" id="span_9">                                                         ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<pre id="pre_6">                                            10                                  FA853
+
+
+
+
+                                                                              
+           (1)    State of Rajasthan v/s Ferro Concrete Constructions Pvt. 
+
+
+
+
+                                                      
+                  Ltd.,  (2009) 12 SCC page 1;
+
+           (2)    Superintending   Engineer   (Irrigation)   Balimela   &amp;   Ors. 
+
+
+
+
+                                                     
+                  v/s B. Subba Reddy,  1999 (4) SCC 423;
+
+           (3)    Durga Ramprasad v/s. Government of Andhra Pradesh, 
+
+
+
+
+                                        
+                  (1995) 1 SCC 418;
+
+<span class="hidden_text" id="span_10">           (4)</span>
+                       
+</pre><p id="p_29">                  Madnani   Construction   Pvt.   Ltd.   v/s   Union   of   India, 
+
+                  (2010) 1 SCC 549;
+</p>                      
+<p id="p_30">           (5)    State of Haryana &amp; Ors. v/s S. A. Arora &amp; Co., (2010) 3 
+
+                  SCC 690;
+</p>      
+
+
+<p id="p_31">           (6)    Sudhir   Brothers   v/s   Delhi   Development   Authority, 
+   
+
+
+
+                  (1996) 1 SCC 32.
+</p>
+
+
+
+
+<p id="p_32">     7.    Mr.   Anturkar,   the   learned   Counsel   for   the   Contractor   on   the 
+
+     other hand  while opposing the challenge to the award, fairly conceded 
+
+
+
+
+
+     that the interest at 12% p.a. for the period from 1 st July, 1987 to 31st 
+
+     March, 1990 was not payable on the interest amount of Rs.10,81,000/- 
+</p>
+<p id="p_33">     (X) and thus the amount of Rs.3,57,000/-(Y) was not payable to the 
+
+     Contractor.   We   are,   therefore,   required   to   examine   whether   the 
+
+     Arbitrators misconducted themselves in awarding interest at the rate of 
+
+
+
+
+<span class="hidden_text" id="span_11">                                                      ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                             11                                   FA853
+
+
+
+
+                                                                                
+     18% p.a. on the belated R.A. Bills i.e. Rs.10,81,000/- (X), interest at 
+
+
+
+
+                                                        
+     the rate of 12% p.a. for the pre-reference period on Claim Nos.1 and 2 
+
+     i.e. Rs.21,20,000/- + Rs.3,66,000/- (B) and (Q) and interest at 18% 
+
+
+
+
+                                                       
+     for the post award period.
+</p>
+
+
+
+                                         
+<p id="p_34">     8.    The award passed by the Arbitrators is not liable to be set aside 
+                        
+     under <a href="/doc/910984/" id="a_7">Section 30</a> of the Act except on the grounds set out therein and 
+
+     the said Section reads as under:
+</p>                       
+<blockquote id="blockquote_11">           "30. Grounds for setting aside award.- An Award shall not be 
+           set   aside   except   on   one   or   more   of   the   following   grounds, 
+           namely:
+</blockquote>      
+
+
+<blockquote id="blockquote_12">           (a)    that an arbitrator or umpire has misconducted himself or 
+   
+
+
+
+                  the proceedings;
+</blockquote>
+<blockquote id="blockquote_13">           (b)    that an award has been made after the issue of an order 
+                  by   the   Court   superseding   the   arbitration   or   after 
+
+
+
+
+
+                  arbitration   proceedings   have   become   invalid   under 
+                  Sec.35;
+</blockquote>
+<blockquote id="blockquote_14">           (c)    that   an   award   has   been   improperly   procured   or   is 
+                  otherwise invalid."</blockquote>
+
+
+
+
+
+<p id="p_35">           The   challenge   before   us   to   the   Arbitrator's   award     dated   14th 
+
+     October, 1990 is only under clause (a) of <a href="/doc/910984/" id="a_8">Section 30</a> of the Act.
+</p>
+
+
+<p id="p_36">     9.    It was submitted by Mr. Anturkar that under <a href="/doc/910984/" id="a_9">Section 30(a)</a> of the 
+
+
+
+
+<span class="hidden_text" id="span_12">                                                        ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                                12                                  FA853
+
+
+
+
+                                                                                  
+     Act, the scope for interference in the Arbitrator's award is very limited. 
+</p>
+
+
+
+                                                          
+<p id="p_37">     The   Arbitrators   are   selected   by   the   parties   and   the   term 
+
+     "misconducted" has a limited connotation and an error per se cannot 
+
+
+
+
+                                                         
+     be   termed   as   a   misconduct.   While   examining   the   challenge   to   the 
+
+     award of the Arbitrators in an Appeal filed under <a href="/doc/910984/" id="a_10">Section 39</a> of the Act, 
+
+
+
+
+                                           
+     the power of the appellate court cannot be equated with the power 
+                          
+     available under Section 96 of the Code of Civil Procedure. An error 
+
+     simplicitor in the arbitral award can be no reason for interference by 
+                         
+     the appellate court in the same unless it is demonstrated that the error 
+
+     was blatant. If in the written statement opposing the claim before the 
+      
+
+
+     Arbitrators the appellant had not relied upon Clause 34 of the Contract 
+   
+
+
+
+     or   did   not   refer   to   <a href="/doc/1147343/" id="a_11">Section   3(1)(b)</a>   of   the   Interest   Act   and   the 
+
+     requirement of issuance of notice to claim interest under the said Act, 
+
+
+
+
+
+     it would not be permissible for the appellant to contend that awarding 
+
+     interest on the R.A. Bills was a misconduct so as to warrant setting 
+
+     aside the award on that count. The issues which were not taken up to 
+
+
+
+
+
+     oppose   the   Claim   before   the   Arbitrators   cannot   be   allowed   to   be 
+
+     agitated either before the Court or in an appeal before us so as to prove 
+
+     the   allegation   of   misconduct   on   the   part   of   the   Arbitrators.   If   the 
+
+     Arbitrators have relied upon Clause 31.2 of the Contract and also the 
+
+
+
+
+<span class="hidden_text" id="span_13">                                                          ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                               13                                  FA853
+
+
+
+
+                                                                                 
+     period of delay caused in releasing the R. A. Bills for awarding interest 
+
+
+
+
+                                                         
+     on the said amount, it would not amount to misconduct, even if it is 
+
+     assumed and without accepting the same that it was an error. 
+</p>
+
+
+
+                                                        
+<p id="p_38">            Mr. Anturkar relied upon the following proposition enunciated 
+
+     by   the   Supreme   Court,   in   the   case   of  State   of   Rajasthan   v/s   Puri 
+
+
+
+
+                                          
+     Construction Co. Ltd. &amp; Anr., (1994) 6 SCC 485:
+</p>                         
+<blockquote id="blockquote_15">                    "An erroneous decision of a court of law is open to judicial 
+            review   by   way   of   appeal   or   revision   in   accordance   with   the 
+            provisions of law. Similarly, an award rendered by an arbitrator 
+                        
+            is open to challenge within the parameters of several provisions 
+            of the <a href="/doc/1052228/" id="a_12">Arbitration Act</a>. Since the arbitrator is a judge by choice of 
+            the parties, and more often than not, a person with little or no 
+            legal background, the adjudication of disputes by an arbitration 
+            by way of an award can be challenged only within the limited 
+      
+
+
+            scope   of   several   provisions   of   the   <a href="/doc/1052228/" id="a_13">Arbitration   Act</a>   and   the 
+   
+
+
+
+            legislature   in   its   wisdom   has   limited   the   scope   and   ambit   of 
+            challenge to an award in the <a href="/doc/1052228/" id="a_14">Arbitration Act</a>. Over the decades, 
+            judicial   decisions   have   indicated   the   parameters   of   such 
+            challenge consistent with the provisions of the <a href="/doc/1052228/" id="a_15">Arbitration Act</a>. 
+</blockquote>
+
+
+
+
+<blockquote id="blockquote_16">            By   and   large   the   courts   have   disfavoured   interference   with 
+            arbitration   award  on  account  of   error  of   law  and  fact  on  the 
+            score   of   mis-appreciation   and   misreading   of   the   materials   on 
+            record and have shown definite inclination to reserve the award 
+            as  far as possible. As  a  reference to arbitration  of  disputes in 
+
+
+
+
+
+            commercial and other transactions involving substantial amount 
+            has increased in recent times, the courts were impelled to have 
+            fresh   look   on   the   ambit   of   challenge   to   an   award   by   the 
+            arbitrator so that the award does not get undesirable immunity. </blockquote>
+<p id="p_39">            In recent times, error in law and fact in basing an award has not 
+            been given the wide immunity as enjoyed earlier, by expanding 
+            the import and implication of "legal misconduct" of an arbitrator 
+            so   that   award   by   the   arbitrator   does   not   perpetrate   gross 
+            miscarriage of justice and the same is not reduced to mockery of 
+
+
+
+
+<span class="hidden_text" id="span_14">                                                         ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                          14                                   FA853
+
+
+
+
+                                                                             
+     a   fair   decision   of   the   lis   between   the   parties   to   arbitration. 
+     Precisely for the aforesaid reasons, the erroneous application of 
+
+
+
+
+                                                     
+     law constituting the very basis of the award and improper and 
+     incorrect   findings   of   fact,   which   without   closer   and   intrinsic 
+     scrutiny,   are   demonstrable   on   the   face   of   the   materials   on 
+     record,   have   been   held,   very   rightly,   as   legal   misconduct 
+
+
+
+
+                                                    
+     rendering the award as invalid. It is necessary, however, to put a 
+     note of caution that in the anxiety to render justice to the party 
+     to   arbitration,   the   court   should   not   reappraise   the   evidence 
+     intrinsically   with   a   close   scrutiny   for   finding   out   that   the 
+
+
+
+
+                                     
+     conclusion drawn from some facts, by the arbitrator is, according 
+     to the understanding of the court, erroneous. Such exercise of 
+                  
+     power which can be exercised by an appellate court with power 
+     to reverse the finding of fact, is alien to the scope and ambit of 
+     challenge   of   an   award   under   the   <a href="/doc/1052228/" id="a_16">Arbitration   Act</a>.   Where   the 
+                 
+     error of finding of facts having a bearing on the award is patent 
+     and   is   easily   demonstrable   without   the   necessity   of   carefully 
+     weighing the various possible viewpoints, the interference with 
+     the award based on erroneous application of legal principle, the 
+     award could not have been made, such award is liable to be set 
+      
+
+
+     aside by holding that there has been a legal misconduct on the 
+   
+
+
+
+     part  of   the   arbitrator.   In   ultimate   analysis,   it   is   a   question   of 
+     delicate balancing between the permissible limit of error of law 
+     and   fact   and   patently   erroneous   finding   easily   demonstrable 
+     from the materials on record and application of principle of law 
+
+
+
+
+
+     forming the basis of the award which is patently erroneous." 
+</p>
+<p id="p_40">             "Even if it is assumed that on the materials on record, a 
+     different view could ;have been taken and the arbitrators have 
+     failed to consider the documents and materials on record in their 
+     proper perspective, the award is not liable to be struck down in 
+
+
+
+
+
+     view   of   the   judicial   decisions   referred   to   hereinbefore.   Error 
+     apparent on the face of the record does not mean that on closer 
+     scrutiny of the import of documents and materials on record, the 
+     finding   made   by   the   arbitrator   may   be   held   to   be   erroneous. 
+     Judicial decision over the decades have indicated that an error 
+     of   law   or   fact   committed   by   an   arbitrator   by   itself   does   not 
+     constitute misconduct warranting interference with the award."
+</p>
+
+
+
+<span class="hidden_text" id="span_15">                                                     ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<p id="p_41">                                                 15                                   FA853
+
+
+
+
+                                                                                    
+</p><p id="p_42">     10.     In the case of Madhya Pradesh Housing Board v/s. Progressive 
+
+
+
+
+                                                            
+     Writers and Publishers  (2009) 5 SCC 678,  the Supreme Court while 
+
+     reiterating the above stated legal position held that the Award of the 
+
+
+
+
+                                                           
+     Arbitrators is ordinarily final and the Courts hearing applications under 
+
+     <a href="/doc/1503578/" id="a_17">Section   30</a>   of   the   Act   do   not   exercise   any   appellate   jurisdiction. 
+</p>
+
+
+
+                                             
+<p id="p_43">     Reappraisal of evidence by the Court is impermissible. Interpretation of 
+                           
+     the contract, it is trite, is a matter for the arbitrator to determine. Even 
+
+     in   a   case   where   the   award   contained   reasons,   the   interference 
+                          
+     therewith   would   still   be   not   available   within   the   jurisdiction   of   the 
+
+     Court unless, of course, the reasons are totally perverse or award is 
+      
+
+
+     based on wrong proposition of law.
+</p>   
+
+
+
+<p id="p_44">     11.     On   the   backdrop   of   the   above   legal   position   regarding   the 
+
+
+
+
+
+     powers of the Court to interfere with an award under <a href="/doc/1503578/" id="a_18">Section 30</a> of the 
+
+     Act, let us consider the challenge raised by the State Government to 
+
+
+
+
+
+     the   award   of   interest   on   the   delayed   release   of   R.   A.   bills,   interest 
+
+     granted on Claim Nos.1 and 2 for the pre-reference period and interest 
+
+     awarded at 18%.
+</p>
+
+
+<p id="p_45">             So far as the amount of interest on the delayed release of R. A. 
+</p>
+
+
+
+<span class="hidden_text" id="span_16">                                                            ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+<p id="p_46">                                              16                                  FA853
+
+
+
+
+                                                                                
+     Bills i.e. Rs.10,81,000/- (X) is concerned, we have noted that there was 
+
+
+
+
+                                                        
+     sufficient   material   place   before   the   Arbitrators   to   support   that   the 
+
+     Contractor had taken bridge loans from time to time by way of Cash 
+
+
+
+
+                                                       
+     Credit Limit or bridge finances. The letters dated 29th  January, 1985 
+
+     and 13th February, 1985 addressed by the United Commercial Bank to 
+
+
+
+
+                                          
+     the Contractor do go to show that the Bank had sanctioned temporary 
+                         
+     facility by way of bridge finance to the Contractor. Initially, it was an 
+
+     amount of Rs.15,00,000/- and subsequently as per the letter dated 13th 
+                        
+     February,   1985   the   additional   facility   of   Rs.15,00,000/-   was   also 
+
+     sanctioned. There is also a letter from the very same Bank to point out 
+      
+
+
+     that the interest payable on the lendings was varying and it was even 
+   
+
+
+
+     above 18%. In its Statement of Claim submitted before the Arbitrators, 
+
+     the Contractor had claimed compound interest which has been turned 
+
+
+
+
+
+     down   by arbitrators   and  they  have  granted  the  simple  interest.  We, 
+
+     therefore, do not find any error, which could be  called as a  blatant 
+
+     error, in the award passed by the Tribunal granting simple interest at 
+
+
+
+
+
+     18% on the delayed release of  R. A. Bills. 
+</p>
+
+
+<p id="p_47">     12.    As Statement of Claim was submitted by the Contractor before 
+
+     the Arbitrators and there were three annexures i.e. Annexure I to III 
+
+
+
+
+<span class="hidden_text" id="span_17">                                                        ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                               17                                  FA853
+
+
+
+
+                                                                                 
+     attached   thereto.   Annexure   I   was   the   calculation   for   the   interest 
+
+
+
+
+                                                         
+     payable   at   18%   on   the   escalation   amount   on   labour   and   material 
+
+     component, Annexure II was the calculation of interest payable on the 
+
+
+
+
+                                                        
+     escalation for fuel and lubricant, and Annexure III was the calculation 
+
+     of   interest   on   interest.   As   noted   earlier,   the   Arbitral   Tribunal   has 
+
+
+
+
+                                           
+     granted an amount of Rs.21,20,000/- (B) by way of interest at 12% 
+                         
+     p.a. on the amount of Rs.59,77,000/-, which was claimed by way of 
+
+     escalation   for   labour   and   material   component.   An   amount   of 
+                        
+     Rs.3,66,000/- (C) has been granted by way of interest at 12% on claim 
+
+     of escalation for fuel and lubricant i.e. Rs.8,06,000/-. 
+</p>      
+   
+
+
+
+<p id="p_48">            The Arbitrators in Clause 8.1 of the Award referred to <a href="/doc/196386/" id="a_19">Section 3</a> 
+
+     of the Interest Act and held that the claim for interest on any amount 
+
+
+
+
+
+     due can be allowed by them so long as the claims are   ascertainable 
+
+     and proceeded to grant interest on Claim Nos.1 and 2 for the period 
+
+     from   1st  July,   1987   to   31st  March,   1990   i.e.   pre-reference   period. 
+</p>
+
+
+
+
+<p id="p_49">     <a href="/doc/1147343/" id="a_20">Section 3(1)(b)</a> of the Interest Act reads as under:
+</p>
+<blockquote id="blockquote_17">            "3. Power of Court to allow interest.- (1) In any proceedings 
+            for the recovery of any debt or damages or in any proceedings in 
+            which  a   claim   for  interest  in  respect  of   any  debt  or  damages 
+            already paid is made, the Court may, if it thinks fit allow interest 
+            to the person entitled to the debt or damages or to the person 
+
+
+
+
+<span class="hidden_text" id="span_18">                                                         ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                                   18                              FA853
+
+
+
+
+                                                                                 
+            making such claim, as the case may be, at a rate not exceeding 
+            the current rate of interest, for the whole or part of the following 
+
+
+
+
+                                                         
+            period, that is to say,-
+</blockquote>
+<blockquote id="blockquote_18">                    (a)     . . . . . . . . . .
+</blockquote>
+
+
+
+                                                        
+<blockquote id="blockquote_19">                    (b) if the proceedings do not relate to any such debt, 
+            then, from the date mentioned in this regard in a written notice 
+            given by the person entitled or the person making the claim to 
+            the   person  liable   that  interest  will   be   claimed,  to  the   date   of 
+
+
+
+
+                                                 
+            institution of the proceedings:</blockquote>
+                          
+<p id="p_50">            A perusal of the above provision does indicate that the Arbitral 
+                         
+     Tribunal has the power to grant interest under <a href="/doc/1147343/" id="a_21">Section 3(1)(b)</a> of the 
+
+     Interest Act but from the date mentioned in the written notice given by 
+
+     the person claiming such interest or entitled for such interest. It is not 
+      
+   
+
+
+
+     pointed out any where in the award passed by the Arbitrators that the 
+
+     Contractor had issued such notice and claimed interest on the amount 
+
+
+
+
+
+     payable   in   Claim   Nos.1   and   2.   Clause   34   of   the   Contract   reads   as 
+
+     under:
+</p>
+<blockquote id="blockquote_20">            "34. NO INTEREST ON MONEY DUE TO THE CONTRACTOR: 
+</blockquote><blockquote id="blockquote_21">                  No omission by the Engineer to pay the amount due upon 
+
+
+
+
+
+            measurements   or   otherwise   shall   vitiate   or   make   void   the 
+            contract, nor shall the Contractor be entitled to interest on any 
+            guarantee bond or payment in arrears nor on any balance which 
+            may, on the final settlement of his account be found due to him."</blockquote>
+
+
+<p id="p_51">            In case of Sudhir Brothers (supra), the Supreme Court held that 
+
+
+
+
+<span class="hidden_text" id="span_19">                                                         ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                               19                                   FA853
+
+
+
+
+                                                                                  
+     the Arbitrator has the power to award interest for the pre-reference 
+
+
+
+
+                                                          
+     period after coming into force the <a href="/doc/910984/" id="a_22">Interest Act</a>, 1978 but the contract 
+
+     must   provide   for   the   same.   This   legal   position   was   reiterated 
+
+
+
+
+                                                         
+     subsequently by the Supreme Court in the case of State of Rajasthan 
+
+     and Anr. (supra). Para 66 of the said judgment reads as under:
+</p>
+
+
+
+                                           
+<blockquote id="blockquote_22">                    "Therefore,   even   in   regard   to   the   claims   for   damages, 
+            interest   can   be   awarded   for   a   period   prior   to   the   date   of 
+                         
+            ascertainment   or   quantification   thereof   if   (a)   the   contract 
+            specifically provides for such payment from the date provided in 
+            the   contract;   or   (b)   a   written   demand   had   been   made   for 
+                        
+            payment of interest on the amount claimed as damages before 
+            initiation   of   action,   from   the   date   mentioned   in   the   notice   of 
+            demand  (that  is   from   the   date  of   demand  or   any  future   date 
+            mentioned therein). ..................."</blockquote>
+      
+   
+
+
+
+<p id="p_52">            Clause 34 of the Contract specifically deals with the interest and 
+
+     if the Contractor wanted to claim the same, under <a href="/doc/196386/" id="a_23">Section 3</a> of the 
+
+
+
+
+
+     Interest Act, 1978 a notice was required to be given so that from the 
+
+     date of such notice the interest could have been granted. Hence, the 
+
+     submission   of   Mrs.   Mulekar   will   have   to   be   accepted   and   certainly 
+
+
+
+
+
+     what has been granted by the Tribunal by way of interest on Claim 
+
+     Nos.1   and   2   is   not   permissible   in   law   and   this   would   amount   to 
+
+     misconduct within the meaning of <a href="/doc/910984/" id="a_24">Section 30(a)</a> of the Act. Hence the 
+
+     amount of Rs.21,20,000/- (B) and amount of Rs.3,66,000/- (Q) as and 
+
+
+
+
+<span class="hidden_text" id="span_20">                                                          ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                             20                                  FA853
+
+
+
+
+                                                                               
+     by way of 12% interest p.a. on Claim Nos.1 and 2 is required to be set 
+
+
+
+
+                                                       
+     aside, notwithstanding whether the said claim was opposed, on these 
+
+     lines   in   the   written   statement   filed   by   the   appellant   before   the 
+
+
+
+
+                                                      
+     Arbitrators. The judgment of this Court (DB) in the case of  Oil and 
+
+     Natural Gas Corporation Ltd. v/s Essar Steel Ltd.,  2002 (1) Mh.L.J.  
+</p>
+
+
+
+                                         
+<p id="p_53">     699, is squarely applicable.
+</p>                        
+<p id="p_54">     13.    Now coming to the issue of interest granted by the Arbitrators at 
+                       
+     18%  on  the  delayed  payment of  R.  A. Bills   and  for   the  post  award 
+
+     period, we have noted earlier that the Contractor had established his 
+      
+
+
+     case that the Bank had sanctioned bridge finances and the interest on 
+   
+
+
+
+     lending at the relevant time was beyond 18% p.a. We are, therefore, 
+
+     satisfied that the challenge to the award of interest at 18&amp; p.a. cannot 
+
+
+
+
+
+     be termed as a misconduct by the Arbitrators. So far as the interest 
+
+     granted for the post award period is concerned, it is well settled that 
+
+
+
+
+
+     the Arbitrators have such powers and in this regard we may refer to 
+
+     <a href="/doc/910984/" id="a_25">Section 29</a> of the Act. <a href="/doc/910984/" id="a_26">Section 29</a> of the Act states that where and in so 
+
+     far as award is for the payment of money, the Court may, in the decree, 
+
+     order interest, from the date of decree at such rate as the Court deems 
+
+     reasonable, to be paid on the principal sum as adjudged by the award 
+
+
+
+
+<span class="hidden_text" id="span_21">                                                       ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+                                                 21                                   FA853
+
+
+
+
+                                                                                    
+     and confirmed by the decree. The power of the Arbitrators to grant 
+
+
+
+
+                                                            
+     interest for the post award period thus emanates from <a href="/doc/910984/" id="a_27">Section 29</a> of 
+
+     the Act. At the same time, when an award is passed, so as to ensure 
+
+
+
+
+                                                           
+     that the award amount is remitted at the earliest possible the interest 
+
+     shall   be   charged   at   a   higher   rate.     Such   higher   rate   of   interest   is 
+
+
+
+
+                                             
+     provided with the deliberate intent of discouraging award debtors from 
+                          
+     adopting dilatory tactics and to persuade them to comply the award, as 
+
+     has been held by the Apex Court in the case of S. A. Arora (supra). 
+</p>                         
+<p id="p_55">     14.     In the premises, these appeals succeed partly and we hold that 
+      
+
+
+     the   Contractor   was   not   entitled   for   the   interest   granted   on   Rs. 
+</p>   
+
+
+
+<p id="p_56">     21,20,000/- (B), Rs.3,66,000 (Q) and Rs.3,57,000 (Y). These amounts 
+
+     shall be deducted from the total amount awarded by the Arbitrators 
+
+
+
+
+
+     i.e.   Rs.1,07,07,000/-.   The   award   passed   by   the   Arbitrators   stands 
+
+     modified accordingly. 
+</p>
+
+
+
+
+<p id="p_57">             Parties to bear their own costs.
+</p>
+
+
+<pre id="pre_7">     (A. A. SAYED, J.)                                   (B. H. MARLAPALLE, J.)
+
+
+
+
+<span class="hidden_text" id="span_22">                                                            ::: Downloaded on - 09/06/2013 16:28:40 :::</span>
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

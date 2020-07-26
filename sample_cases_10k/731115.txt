@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Alamelu Ammal vs P. Rangai Gounder on 7 August, 1944</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/731115/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 4 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/74910796/">The Indian Stamp Act, 1899</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1132672/">The Negotiable Instruments Act, 1881</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/9107/">Article 49 in The Constitution Of India   1949</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/176042882/">Section 35 in The Indian Stamp Act, 1899</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 10 docs
+      
+        - [<A HREF="/search/?formInput=citedby:731115">View All</A>]
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/252008/">S.Ameer vs M/S. Vivek Enterprises on 20 November, 2004</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/433388/">Raj Bahadur Singh vs Mahadeo Prasad Halwai on 25 April, 1980</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/247561/">Jogendra Kumar Naik vs Kanhu Charan Moharana on 27 June, 2002</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/1979288/">Mst. Radha Devi And Ors. vs Dhanik Lal Isser. on 11 September, 1970</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/114670/">Nagala Dinne Erranna vs Angadi Modappa And Anr. on 15 March, 1963</A></div>
+      
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/731115/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/731115/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=promissory%20notes">promissory notes</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=stamp%20act">stamp act</a></div>
+      
+    </div>
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">Alamelu Ammal vs P. Rangai Gounder on 7 August, 1944</div><div class="doc_citations">Equivalent citations: AIR 1945 Mad 42</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+</p><p id="p_2">1. The petitioner's suit on a promissory note dated 26th June 1940 was dismissed because the document was not properly stamped. The promissory note was stamped with two one anna stamps, which would be correct if the promissory note were one payable on demand. The relevant clause of the document runs thus, "I shall pay to you or to your order within two years the said sum " This must mean that the promisor is allowed two years within which to pay the money and within which the promisee cannot enforce the debt. Mr. Ramanatha Aiyer argues that as the wording is "within two years" and not "after two years," it must mean that the plaintiff is entitled to demand the money at any time within two years and that the document is therefore really a promissory note payable on demand. If the debt could be demanded at any time within two years, then the words "within two years" would have no meaning at all. It seems clear to me that these words were introduced to give the debtor time within which to pay the debt and that within that time the promisee could not enforce the debt. It follows that the promissory note is not one payable on demand.
+</p> 
+
+<p id="p_3">2. The definition of promissory note in the <a href="/doc/74910796/" id="a_1">Stamp Act</a> is much wider than in the <a href="/doc/1132672/" id="a_2">Negotiable Instruments Act</a>. According to <a href="/doc/9107/" id="a_3">Article 49</a>, <a href="/doc/74910796/" id="a_4">Stamp Act</a>, which deals with the duty payable on promissory notes, a sum of one anna, two annas, or four annas, should be affixed to a promissory note payable on demand. The second part of that article refers to all other promissory notes and therefore includes not only those instruments which are promissory notes only under the <a href="/doc/74910796/" id="a_5">Stamp Act</a> but also those documents which are promissory notes under the <a href="/doc/1132672/" id="a_6">Negotiable Instruments Act</a> but which are not payable on demand. A promissory note like the suit promissory note, which is payable after two years, would therefore come within the scope of <a href="/doc/9107/" id="a_7">Article 49 (b);</a> and the duty payable on such an instrument would be the same as on a bond, because it is payable more than one year after the execution of the note.
+</p> 
+
+<p id="p_4">3. Mr. Ramanatha Ayyar's third and last argument is that since the debt payable is that on a bond the note must be treated as a bond and that it would not therefore be hit by the proviso (a) to <a href="/doc/176042882/" id="a_8">Section 35</a>, <a href="/doc/74910796/" id="a_9">Stamp Act</a>. That section in general permits documents that are not properly stamped being admitted in evidence provided the penalty is paid, with the exceptions of promissory notes and some other documents. This argument cannot be accepted; for although the duty payable on the suit note is the same as that on a bond, the document is in fact a promissory note. The petition is dismissed with costs.
+</p>
+
+ 
+
+ 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

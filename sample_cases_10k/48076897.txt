@@ -1,0 +1,985 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Debraj Dhur &amp; Ors vs Kolkata Municipal Corporation &amp; ... on 18 September, 2017</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/48076897/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 23 docs 
+      
+        - [<A HREF="/search/?formInput=cites:48076897">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/423817/">Section 17(1) in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/85678/">Section 5A in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/7832/">The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/68773460/">Section 17(4) in The Land Acquisition Act, 1894</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1229923/">Section 5A(1) in The Land Acquisition Act, 1894</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/48076897/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/48076897/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/48076897/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Calcutta High Court</div>
+<div class="doc_title">Debraj Dhur &amp; Ors vs Kolkata Municipal Corporation &amp; ... on 18 September, 2017</div><pre id="pre_1">              IN THE HIGH COURT AT CALCUTTA
+             CONSTITUTIONAL WRIT JURISDICTION
+                       ORIGINAL SIDE
+
+                        W.P. 49 OF 2017
+
+                       Debraj Dhur &amp; Ors.
+                              -VS-
+              Kolkata Municipal Corporation &amp; Ors.
+
+        Before: HON'BLE MR. JUSTICE HARISH TANDON
+
+                                     Mr. Saktinath Mukherjee, Sr. Adv.,
+                                         Mr. Debabrata Saha Ray, Adv.,
+                                                Mr. Indrajit Mitra, Adv.,
+                                          Mr. Pingal Bhattacharya, Adv.
+                                                 .... For the Petitioners.
+
+                                          Mr. Ashok Banerjee, Sr. Adv.,
+                                          Mr. Alok Kumar Ghosh, Adv.,
+                                            Mr. Debjit Mukherjee, Adv.
+                                                         .... For KMC.
+
+
+Order On: 18.09.2017
+The Court:
+
+      There is a checkered history of the instant case. The
+
+Petitioner is challenging the action of the Kolkata Municipal
+
+Corporation fixing the compensation amount for the land acquired
+
+for widening the public road and ascertaining the area of land
+
+actually taken for such purposes. The facts, which emanate from
+
+the Writ Petition, are adumbrated hereinbelow.
+
+      The Petitioners are the co-sharers of Premises No. 20, Seven
+
+Tanks Lane, Kolkata - 700 030. The Kolkata Municipal Corporation
+
+acquired a considerable portion of a land from the said premises in
+ the year 1996 / 97. Subsequently, the Petitioners along with the
+
+other co-owners, who are Respondent Nos. 6, 7, 8 herein requested</pre>
+
+<p id="p_1">the Corporation to disclose the area of plot of land and also to pay
+
+compensation amount. The Corporation responded to the said
+
+query and asked the owners of the said premises to submit relevant
+
+documents relating the title of the said premises. It was further
+
+indicated therein that the said premises was acquired for the
+
+purpose of widening of the road, which is for public benefits.
+
+</p><p id="p_2">      The Petitioners stated that they would produce all the
+
+relevant documents touching the title of the said property and
+
+further requested the Commissioner of the Corporation to provide
+
+the details of the acquisition and payment of compensation. The
+
+Mayor-in-Council vide letter dated 19.07.1999 addressed to the
+
+owner of the said premises, replied that the matter relating to
+
+payment of compensation by the Corporation is under process and
+
+expected to be completed within a month. There was a complete
+
+silence from the end of the Petitioner for nearly 8 to 10 months
+
+until a letter was caused on 31st May, 2000 reiterating the earlier
+
+stand and demanding the details of the area acquired by the
+
+Corporation   for   widening   the   road   and   the   quantum   of
+
+compensation.
+</p><p id="p_3">      By a letter of the even date, the Corporation informed the
+
+Petitioner that as per the decision of the Mayor-in-Council in a
+
+meeting held on 30th September, 1998, the compensation has been
+
+fixed at Rs. 40,000/- per kathas and the total area which had been
+
+acquired by the Corporation is 18,695.52 sq. ft. The Petitioner
+
+immediately raised objection not only to the area, which the
+
+Corporation claimed to have acquired but also the rate, which was
+
+fixed for payment of compensation. In the letter dated 12.06.2000,
+
+the Petitioner indicated that the area of acquisition is 22,484 sq. ft.
+
+and not 18,695.52 sq. ft. as disclosed by the Corporation. The
+
+Petitioner further wanted the joint inspection to ascertain the
+
+actual area acquired by the Corporation.
+</p>
+<p id="p_4">
+</p><p id="p_5">     Since, the Corporation showed reluctance in conducting the
+
+joint survey / inspection to ascertain the actual area acquired by
+
+the Corporation, the predecessor of the present Petitioners filed a
+
+Writ Petitioner being W.P. No. 81245(W) of 2002 before this Court.
+
+The said Writ Petition appeared on 16.07.2002 and was disposed of
+
+upon recording the submission made by the learned Advocate
+
+representing the Corporation that the decision had already taken
+
+for payment of compensation, which would be conveyed to the
+
+Petitioners therein and the payment will be made within a month.
+ The Court disposed of the said Writ Petition on the said date as the
+
+Writ Petition becomes infractuous in view of the aforesaid
+
+submission and the liberty was granted to the Petitioner to
+
+challenge such decision if felt dissatisfied with the amount of
+
+compensation before the appropriate forum.
+</p>
+<p id="p_6">
+</p><p id="p_7">     The Corporation cause another letter dated 01.08.2002 and
+
+forwarded a draft sale deed for approval to the predecessor of the
+
+petitioners in terms of the order passed by this Court in the said
+
+Writ Petition. A further letter dated 17.09.2002 was issued by the
+
+Chief Valuer and Surveyor of the Corporation informing the then
+
+owners that the cheque is ready for payment but till date the draft
+
+sale deed and the site plan have not been approved for its
+
+execution and registration.
+</p>
+<p id="p_8">     The   Petitioner   issued   further   letter   dated   12.11.2002
+
+indicating the discrepancies in the site plan and area actually
+
+acquired by the Corporation for widening of the said road and
+
+curiously enough took an exception to the draft sale deed, which
+
+according to the Petitioner, was not in tune with of the order
+
+passed in the said Writ Petition. The sum and substance of the said
+
+letter is that the Court did not pass any direction for execution of
+
+the said deed but an agreement has to be entered into in this
+ regard and the Corporation had not paid the ascertained amount of
+
+compensation within the specified date as indicated in the said
+
+order. Another Writ Petition being W.P. No. 11300(W) of 2003 was
+
+filed before this Court challenging the purported action of the
+
+Corporation in demanding the documents relating to title being
+
+contrary to the spirit of the order passed in the earlier Writ Petition
+
+and also non-payment of the compensation money.
+</p>
+<p id="p_9">       The second Writ Petition came up for disposal on 01.04.2005
+
+and in the first paragraph of the said order, it was specifically
+
+recorded that the Corporation has acquired some land belonging to
+
+the Petitioner for the purpose of construction of road and a copy of
+
+the sale deed was also served upon the Petitioners therein. The
+
+Court further observed:-
+</p>
+<p id="p_10">        "Since the land was already acquired by the Corporation without any agreement
+with the petitioner, acceptance of the amount by signing the agreement will disentitle the
+petitioner from challenging the quantum of compensation. Section 537 of the said Act
+makes it clear that in the event there is no agreement between the parties each procedure
+is required to be adopted for the purpose of acquisition of land in question and there is no
+procedure laid down for payment of compensation.
+</p><p id="p_11">        In the circumstances, I make it clear that accepting the condition contained in the
+agreement will not disentitle the petitioner to challenge the quantum of compensation that
+has been fixed by the agreement in the instant case. The respondent authorities shall
+make over the amount of compensation which has already been fixed by him upon
+execution of the agreement which was been forwarded to the petitioner. The respondent
+authorities shall also complete the execution of agreement within a period of four weeks
+from the date of communication of this order."
+</p>
+<p id="p_12">       Pursuant to the said order, the Corporation asked the draft
+
+sale deed, which was earlier sent to the Petitioner, to be returned
+
+after approval so that the Corporation can proceed in terms of the
+ order passed in the second Writ Petition. The Petitioner replied the
+
+said letter and took a strange defense that the tenet of the order
+
+would reveal that the Court wanted the agreement to be executed
+
+and not the sale deed and demanded the draft copy of the
+
+agreement so that the further steps can be taken. There was a
+
+further insistence on the part of the Petitioners for joint inspection
+
+and a series of correspondences between the parties would
+
+corroborate that subsequently the Corporation handed over the
+
+draft copy of the agreement for sale and the consideration to be
+
+paid for such acquisition. The Petitioner reiterated and maintained
+
+their objection on the quantum of the land acquired by the
+
+Corporation and insistence can be seen therefrom over the joint
+
+inspection and / or survey.
+</p>
+<p id="p_13">     Mr. S.N. Mukherjee, learned Senior Advocate, appearing for
+
+the Petitioner submits that the purported action of the Corporation
+
+in acquiring the land is contrary to the provisions contained in
+
+Section 537 of the said Act. He ardently submitted that though
+
+there is an apparent need of acquisition for public purposes but the
+
+Corporation being the Statutory Authority cannot act contrary to
+
+the provisions of the Act. According to Mr. Mukherjee, even if the
+
+observation is recorded in the order passed in the Writ Petition that
+ the property has been acquired, it does not cure the inherent
+
+defects in the manner of acquisition being violative of the express
+
+provisions contained in Section 537(1) of the Kolkata Municipal
+
+Corporation Act, 1980. To buttress the aforesaid submission, the
+
+reliance is placed upon a judgment of the Supreme Court in case of
+
+Neeraj Munjal &amp; Ors. -Vs- Atul Grover &amp; Anr. reported in AIR
+
+2005 SC 2867 wherein it is held that the principle of resjudicata
+
+cannot apply if the earlier declaration by the Court is contrary to
+
+the existing law.
+</p>
+<p id="p_14">     Mr. Mukherjee further argues that the manner in which the
+
+land is acquired by the State or the Statutory Authorities if
+
+ultimately found to be violative of the provisions of the Act, it does
+
+not necessarily invite the reversion of possession to the owners but
+
+compensation is required to be determined after de novo initiation
+
+of the acquisition proceeding and relies upon a judgment of the
+
+Supreme Court in case of Laxmi Devi -Vs- State of Bihar &amp; Ors.
+
+reported in (2015) 10 SCC 241 and Soorajmull Nagarmull -Vs-
+
+State of Bihar &amp; Ors. reported in the same volume at page 270.
+
+</p><p id="p_15">     Mr. Mukherjee vehemently submits that though the power of
+
+eminent domain is inherent to every sovereign but is circumscribed
+
+by the authority of law and placed reliance upon a judgment of the
+ Apex Court in case of Readhy Shyam (Dead) Through LRs. &amp; Ors
+
+</p><p id="p_16">-Vs- State of Uttar Pradesh &amp; Ors. reported in (2011) 5 SCC
+
+</p><p id="p_17">553.
+
+       According to Mr. Mukherjee, even if the public purpose is
+
+laudable and the manner and procedure adopted for acquisition is
+
+contrary to the provisions of the Statute, the State has to proceed
+
+de novo and fix the compensation if the property had already been
+
+expropriated by the State or the Statutory Authorities.
+
+</p><p id="p_18">       On the other hand, Mr. Ashok Kumar Banerjee, learned
+
+Senior Counsel, appearing for the Corporation submits that the
+
+Petitioner cannot impinge the manner and the procedure adopted
+
+by the Corporation to acquire the land of the Petitioner in view of
+
+categorical observations and findings recorded in the second Writ
+
+Petition filed by the owners of the said property. Mr. Banerjee
+
+would contend that the only point which needs to be decided is
+
+whether the quantum of compensation determined by the authority
+
+is proper or not as the right was reserved upon the said owners to
+
+challenge the same. Mr. Banerjee further submits that the Court
+
+while interpreting the orders must find out the essence and
+
+avoidance should be the rule to interpret the same as a Statute and
+
+placed reliance upon the judgment of the Supreme Court in case of
+ State of Rajasthan -Vs- Ganeshi Lal reported in AIR 2008 SC
+
+</p><p id="p_19">690.
+
+       By placing reliance upon another judgment of the Supreme
+
+Court in case of Sooraram Pratap Reddy -Vs- District Collector,
+
+Ranga Reddy District &amp; Ors. Reported in (2008) 9 SCC 552 Mr.
+
+Banerjee would contend that every State enjoins the right of power
+
+of eminent domain to take the individuals property for public use
+
+without the owner's consent and the only remedy available to such
+
+owners is to claim just and proper compensation. It is, thus,
+
+submitted that large number of properties were acquired for
+
+widening the road and the owners of the other properties except the
+
+Petitioners herein accepted the compensation.
+</p>
+<p id="p_20">       Mr. Banerjee would further contend that the owners never
+
+challenged the mode of acquisition in earlier two Writ Petitions filed
+
+before this Court neither the mode of acquisition in the instant Writ
+
+Petition as the reliefs claimed therein is restricted to the quantum
+
+of compensation and the ascertainment of the area of land actually
+
+acquired for widening the road. He, thus says that the challenge to
+
+the mode and procedure for acquisition is taken for the first time at
+
+the bar and in view of the express orders passed in the erstwhile
+
+Writ Petitions, the Petitioners are estopped from contending so. He
+ further submits that in a meeting of the Mayor-in-Council, the
+
+compensation     amount     was    enhanced,    which    was    duly
+
+communicated to the Petitioner as the same was found to be just,
+
+reasonable and proper. Lastly, it is submitted that the instant Writ
+
+Petition should be dismissed with exemplary cost.
+</p>
+<p id="p_21">     It would be no gain saying that no relief is claimed by
+
+challenging the mode of the acquisition adopted by the Corporation
+
+way back in the year 1997-98. Though it is submitted by Mr.
+
+Mukherjee, appearing for the Petitioners that the Corporation must
+
+take recourse to sub-Section 1 of Section 537 of the Act in the
+
+event of failure to acquire the property by agreement but it is
+
+evident and apparent that the Petitioner had, in fact, accepted the
+
+acquisition and was all along dissatisfied over the quantum of
+
+compensation to be paid. The Court should not venture to decide
+
+the point urged for the first time at the bar without any foundation
+
+in the pleading and specific relief claimed thereupon. Apart from
+
+the same, the first Writ Petition filed by the owners was simply
+
+disposed of on the submission advanced by the Corporation at that
+
+point of time that they are contemplating to fix the compensation
+
+which would be paid within the time frame. The Petitioner did not
+
+challenge the said order and therefore the same attained finality.
+</p><p id="p_22">      Even thereafter a draft sale deed was forwarded to the
+
+Petitioner   and   in   the   communication   exchanged   with   the
+
+Corporation, it does not appear that there was any whisper on the
+
+mode of acquisition but the dispute all along hinged upon the
+
+quantum of compensation and the area of land acquired by the
+
+Corporation.
+</p>
+<p id="p_23">     In the second Writ Petition, the Court categorically observed
+
+that the land had been acquired and an opportunity was granted in
+
+the first Writ Petition to challenge the quantum of compensation to
+
+be paid to the owners. Though Section 537 of the said Act was
+
+recorded in the second Writ Petition but the same cannot be
+
+construed that the Court opened the mode of acquisition by the
+
+Corporation conferring right upon the Petitioner to challenge the
+
+same. The harmonious reading of the findings recorded in the
+
+second Writ Petition and the ultimate decision taken therein clearly
+
+envisage that the Corporation should determine the compensation
+
+following the provisions contained under the <a href="/doc/7832/" id="a_1">Land Acquisition Act</a>.
+
+</p><p id="p_24">     Mr. Mukherjee is right in his submission that there is a clear
+
+distinction between a right to acquire a property and the mode and
+
+the manner of such acquisition. <a href="/doc/7832/" id="a_2">Section 352</a> of the Act confers
+
+power upon the Corporation to acquire the property for the purpose
+ of public streets or widening of the streets but the mode of
+
+acquisition is provided under <a href="/doc/7832/" id="a_3">Section 536</a> of the said Act. The said
+
+Section empowers the Corporation to acquire the property by
+
+agreement upon payment of consideration as may be fixed by the
+
+Mayor-in-Council. It is evident and apparent from sub-Section 1 of
+
+Section 537 of the Act that in the event the Corporation is unable
+
+to acquire the property by agreement, the approach should be
+
+made to the State to exercise the power of eminent domain by
+
+acquiring the said property under the provisions of the <a href="/doc/7832/" id="a_4">Land
+
+Acquisition Act</a>.
+</p>
+<p id="p_25">     It would not be wrong to say that the Corporation does not
+
+enjoin the power to acquire the property by agreement. At this
+
+juncture,   when   several   orders   have   been   passed   and   the
+
+acquisition has been duly recognized, it is too late in a day to set
+
+aside the decision of the order of acquisition merely on the basis of
+
+submissions made at the bar. The Petitioner accepted those orders
+
+and even in the instant Writ Petition has not specifically claimed
+
+any relief in this regard. It is no longer res integra that the plea of
+
+resjudicata is based upon the public policy. Finality to the litigation
+
+is the rule and no person should be allowed to agitate the similar
+
+and identical issues in the subsequent proceeding, if the same was
+ directly and substantially an issue in an earlier proceeding or
+
+might have been an issue capable to be raised therein and having
+
+not raised, shall be deemed to have been decided. The said rule is
+
+not free from exception and one of the exceptions has been
+
+indicated in case of Neeraj Munjal (Supra) wherein it is held that
+
+where the earlier declaration by the Court is established to be
+
+contrary to an existing law.
+</p>
+<p id="p_26">     This Court does not find that the decision can be of any
+
+assistance to the Petitioner for the simple reason that right to
+
+challenge the mode of acquisition was available to the owners when
+
+the first Writ Petition was filed and even may presumably be
+
+available in the second Writ Petition. If a person has consciously
+
+abandoned his right to challenge the order or the mode of
+
+acquisition and acted upon the orders where the liberty was
+
+granted to challenge the compensation, it is not upon to the
+
+Petitioners to reopen an issue, which has been set at rest.
+
+</p><p id="p_27">     Equally, this Court does not find that the judgment rendered
+
+in case of Radhy Shyam (Supra) is in effect a pointer to the issue
+
+involved in the instant case. In the said report the challenge was
+
+made to an acquisition of the land by the State upon receipt of a
+
+proposal from a Greater Noida Industrial Development Authority for
+ planned industrial Development in Goutam Budh Nagar District.
+
+The notification under <a href="/doc/169774/" id="a_5">Section 4(1)</a> of the Land Acquisition Act,
+
+1894 read with <a href="/doc/423817/" id="a_6">Section 17(1)</a> and (4) of the said Act was issued.
+
+The appellants therein challenged the said acquisition on the
+
+grounds which are succinctly recorded in paragraph 4 of the said
+
+report and runs thus:-
+</p>
+<p id="p_28">        "4. The appellants challenged the acquisition of their land on several grounds
+including the following:
+</p><p id="p_29">        (i) That the land cannot be used for industrial purposes because in the draft
+Master Plan of Greater Noida (2021), the same is shown as part of the residential zone.
+</p><p id="p_30">        (ii) That they had already constructed dwelling houses and as per the policy of the
+State Government, the residential structures are exempted from acquisition.
+</p><p id="p_31">        (iii) That the State Government arbitrarily invoked <a href="/doc/423817/" id="a_7">Section 17(1)</a> read with <a href="/doc/68773460/" id="a_8">Section
+17(4)</a> of the Act and deprived them of their valuable right to raise objections under <a href="/doc/85678/" id="a_9">Section
+5-A</a>.
+</p><p id="p_32">        (iv) The acquisition of land is vitiated by arbitrariness, mala fides and violation of
+<a href="/doc/367586/" id="a_10">Article 14</a> of the Constitution inasmuch as lands of the Member of Legislative Assembly
+and other influential persons were left out from acquisition despite the fact that they were
+not in abadi, but they were not given similar treatment despite the fact that their land
+was part of abadi and they had constructed dwelling units."
+
+
+
+</p><p id="p_33">       One of the arguments which was advanced before the
+
+Supreme Court was that the purpose of such acquisition i.e. the
+
+planned industrial development of the District, does not justify
+
+invoking of urgency provisions by denying an opportunity to the
+
+land owners to file objection under <a href="/doc/1229923/" id="a_11">Section 5A(1)</a> and an
+
+opportunity of hearing under sub-<a href="/doc/331372/" id="a_12">Section 2</a> thereof. The Apex
+
+Court, after elaborately considering the eminent domain of the
+
+sovereign / State and the different provisions of the <a href="/doc/7832/" id="a_13">Land
+
+Acquisition Act</a> summarized the proposition of law as under:-
+</p><p id="p_34">         "77. From the analysis of the relevant statutory provisions and interpretation
+thereof by this Court in different cases, the following principles can be culled out:
+</p><p id="p_35">        (i) Eminent domain is a right inherent in every sovereign to take and appropriate
+property belonging to citizens for public use. To put it differently, the sovereign is entitled
+to reassert its dominion over any portion of the soil of the State including private property
+without its owner's consent provided that such assertion is on account of public exigency
+and for public good -- <a href="/doc/1880952/" id="a_14">Dwarkadas Shrinivas v. Sholapur Spg. and Wvg. Co. Ltd</a>. [AIR
+1954 SC 119] , <a href="/doc/4354/" id="a_15">Charanjit Lal Chowdhury v. Union of India</a> [AIR 1951 SC 41] and <a href="/doc/1515136/" id="a_16">Jilubhai
+Nanbhai Khachar v. State of Gujarat</a> [1995 Supp (1) SCC 596] .
+</p><p id="p_36">       (ii) The legislations which provide for compulsory acquisition of private property by
+the State fall in the category of expropriatory legislation and such legislation must be
+construed strictly -- <a href="/doc/1119469/" id="a_17">DLF Qutab Enclave Complex Educational Charitable Trust v. State of
+Haryana</a> [(2003) 5 SCC 622] ; <a href="/doc/1074081/" id="a_18">State of Maharashtra v. B.E. Billimoria</a> [(2003) 7 SCC 336]
+and <a href="/doc/1992267/" id="a_19">Dev Sharan v. State of U.P</a>. [(2011) 4 SCC 769 : (2011) 2 SCC (Civ) 483]
+</p><p id="p_37">        (iii) Though, in exercise of the power of eminent domain, the Government can
+acquire the private property for public purpose, it must be remembered that compulsory
+taking of one's property is a serious matter. If the property belongs to economically
+disadvantaged segment of the society or people suffering from other handicaps, then the
+court is not only entitled but is duty-bound to scrutinise the action/decision of the State
+with greater vigilance, care and circumspection keeping in view the fact that the
+landowner is likely to become landless and deprived of the only source of his livelihood
+and/or shelter.
+</p><p id="p_38">        (iv) The property of a citizen cannot be acquired by the State and/or its
+agencies/instrumentalities without complying with the mandate of <a href="/doc/43654/" id="a_20">Sections 4</a>, <a href="/doc/85678/" id="a_21">5-A</a> and <a href="/doc/1792838/" id="a_22">6</a>
+of the Act. A public purpose, however laudable it may be does not entitle the State to
+invoke the urgency provisions because the same have the effect of depriving the owner of
+his right to property without being heard. Only in a case of real urgency, can the State
+invoke the urgency provisions and dispense with the requirement of hearing the
+landowner or other interested persons.
+</p>
+<p id="p_39">        (v) <a href="/doc/423817/" id="a_23">Section 17(1)</a> read with <a href="/doc/68773460/" id="a_24">Section 17(4)</a> confers extraordinary power upon the
+State to acquire private property without complying with the mandate of <a href="/doc/85678/" id="a_25">Section 5-A</a>.
+These provisions can be invoked only when the purpose of acquisition cannot brook the
+delay of even a few weeks or months. Therefore, before excluding the application of
+<a href="/doc/85678/" id="a_26">Section 5-A</a>, the authority concerned must be fully satisfied that time of few weeks or
+months likely to be taken in conducting inquiry under <a href="/doc/85678/" id="a_27">Section 5-A</a> will, in all probability,
+frustrate the public purpose for which land is proposed to be acquired.
+</p><p id="p_40">        (vi) The satisfaction of the Government on the issue of urgency is subjective but is
+a condition precedent to the exercise of power under <a href="/doc/423817/" id="a_28">Section 17(1)</a> and the same can be
+challenged on the ground that the purpose for which the private property is sought to be
+acquired is not a public purpose at all or that the exercise of power is vitiated due to mala
+fides or that the authorities concerned did not apply their mind to the relevant factors and
+the records.
+</p><p id="p_41">        (vii) The exercise of power by the Government under <a href="/doc/423817/" id="a_29">Section 17(1)</a> does not
+necessarily result in exclusion of <a href="/doc/85678/" id="a_30">Section 5-A</a> of the Act in terms of which any person
+interested in land can file objection and is entitled to be heard in support of his objection.
+The use of word "may" in sub-section (4) of <a href="/doc/1797812/" id="a_31">Section 17</a> makes it clear that it merely
+enables the Government to direct that the provisions of <a href="/doc/85678/" id="a_32">Section 5-A</a> would not apply to the
+cases covered under sub-section (1) or (2) of <a href="/doc/1797812/" id="a_33">Section 17</a>. In other words, invoking of
+<a href="/doc/68773460/" id="a_34">Section 17(4)</a> is not a necessary concomitant of the exercise of power under <a href="/doc/423817/" id="a_35">Section 17(1)</a>.
+</p><p id="p_42">        (viii) The acquisition of land for residential, commercial, industrial or institutional
+purposes can be treated as an acquisition for public purposes within the meaning of
+<a href="/doc/43654/" id="a_36">Section 4</a> but that, by itself, does not justify the exercise of power by the Government
+under <a href="/doc/423817/" id="a_37">Sections 17(1)</a> and/or 17(4). The court can take judicial notice of the fact that
+planning, execution and implementation of the schemes relating to development of
+residential, commercial, industrial or institutional areas usually take few years.
+Therefore, the private property cannot be acquired for such purpose by invoking the
+urgency provision contained in <a href="/doc/423817/" id="a_38">Section 17(1)</a>. In any case, exclusion of the rule of audi
+alteram partem embodied in <a href="/doc/1229923/" id="a_39">Sections 5-A(1)</a> and (2) is not at all warranted in such
+matters.
+</p><p id="p_43">       (ix) If land is acquired for the benefit of private persons, the court should view the
+invoking of <a href="/doc/423817/" id="a_40">Sections 17(1)</a> and/or 17(4) with suspicion and carefully scrutinise the
+relevant record before adjudicating upon the legality of such acquisition."
+
+
+</p><p id="p_44">       There cannot be any quarrel to the proposition as laid down
+
+therein but this Court does not find that the same can be of any
+
+help to the Petitioner herein because of the special facts that the
+
+Petitioner has shown his silence since the acquisition and even in
+
+the instant Writ Petition has not put forth any challenge to it.
+
+</p><p id="p_45">       The Laxmi Devi (Supra) and Soorajmull Nagarmull (Supra)
+
+are the decisions relatable to the mode of acquisition being the
+
+subject matter therein. However, in case of Soorajmull Nagarmull
+
+(Supra), the Apex Court noticed the provision of <a href="/doc/1767825/" id="a_41">Section 24</a> of the
+
+Right to Fair Compensation and Transparency in Land Acquisition,
+
+Rehabilitation and Resettlement Act, 2013 to have its applicability
+
+if the contingencies recorded in the said Section applies.                           In my
+
+opinion, <a href="/doc/1485112/" id="a_42">Section 24</a> of the 2013 Act should not be resorted to as the
+
+acquisition is not made under the <a href="/doc/7832/" id="a_43">Land Acquisition Act</a> nor the
+
+conditions enshrined therein are satisfied.
+</p><p id="p_46">      The order dated 16.07.2002 passed in W.P. No. 8125 of 2002
+
+would reveal that an opportunity was granted to the Petitioner to
+
+challenge the fixation of compensation before the appropriate
+
+forum. In the opening sentence of the order dated 01.04.2005
+
+passed in W.P. 11300(W) of 2002, succinctly records that the
+
+challenge made in the first Writ Petition and the subsequent
+
+findings recorded therein leaves no ambiguity that the acquisition
+
+by the Corporation was accepted by the Petitioner and the scope of
+
+challenge was limited to the quantum of compensation. The Court
+
+was conscious of the provision of <a href="/doc/7832/" id="a_44">Section 537</a> of the Act while
+
+observing that the said provision is applicable in the event, there is
+
+no agreement between the parties and there is no procedure laid
+
+down therein for determining the quantum of compensation.
+
+Ultimately, it was ordered that the acceptance of the condition
+
+contained in the agreement shall not disentitle the Petitioner to
+
+challenge the quantum of compensation, which is fixed by the
+
+agreement meaning thereby it was open to the Petitioner to
+
+challenge only the quantum of compensation and not the act of
+
+acquisition. In fact, the Petitioner accepted the aforesaid position
+
+and all along raised an objection to the quantum of compensation
+
+fixed by the Corporation. It is no longer res integra that the order of
+ the Court should not be read as s Statute nor what would logically
+
+flows from the observations made in the judgment. The observation
+
+of the Apex Court in case of Ganeshi Lal (Supra) can be seen in the
+
+above perspective wherein it is held:-
+</p>
+<p id="p_47">        "11. "12. ... Reliance on the decision without looking into the factual background
+of the case before it, is clearly impermissible. A decision is a precedent on its own facts.
+Each case presents its own features. It is not everything said by a Judge while giving
+judgment that constitutes a precedent. The only thing in a Judge's decision binding a
+party is the principle upon which the case is decided and for this reason it is important to
+analyse a decision and isolate from it the ratio decidendi. According to the well-settled
+theory of precedents, every decision contains three basic postulates: (i) findings of
+material facts, direct and inferential. An inferential finding of facts is the inference which
+the Judge draws from the direct, or perceptible facts; (ii) statements of the principles of
+law applicable to the legal problems disclosed by the facts; and (iii) judgment based on
+the combined effect of the above. A decision is an authority for what it actually decides.
+What is of the essence in a decision is its ratio and not every observation found therein
+nor what logically flows from the various observations made in the judgment. The
+enunciation of the reason or principle on which a question before a court has been
+decided is alone binding as a precedent. (<a href="/doc/1656601/" id="a_45">See State of Orissa v. Sudhansu Sekhar Misra</a>
+[AIR 1968 SC 647] and <a href="/doc/35277720/" id="a_46">Union of India v. Dhanwanti Devi</a> [(1996) 6 SCC 44] .) A case is a
+precedent and binding for what it explicitly decides and no more. The words used by
+Judges in their judgments are not to be read as if they are words in an Act of Parliament.
+In Quinn v. Leathem [1901 AC 495 : (1900-1903) All ER Rep 1 (HL)] Earl of Halsbury, L.C.
+observed that every judgment must be read as applicable to the particular facts proved or
+assumed to be proved, since the generality of the expressions which are found there are
+not intended to be the exposition of the whole law but governed and qualified by the
+particular facts of the case in which such expressions are found and a case is only an
+authority for what it actually decides." [Ed.: <a href="/doc/1613962/" id="a_47">See State of Orissa v. Mohd. Illiyas</a>, (2006) 1
+SCC 275 at p. 282, para 12.]"
+</p>
+<p id="p_48">       The Apex Court in case of Sooraram Pratap Reddy (Supra)
+
+elaborated the concept of eminent domain and its advancement
+
+from time to time and it would be apt to quote the observations
+
+recorded in paragraphs 63 and 65 of the said report which runs
+
+thus:-
+</p>
+<p id="p_49">       "63. In Coffee Board v. CCT [(1988) 3 SCC 263 : 1988 SCC (Tax) 308] referring to
+American authorities, Mukharji, J. (as His Lordship then was) stated: (SCC p. 282, para
+</p><p id="p_50">29)
+       "29. ... It is trite knowledge that eminent domain is an essential attribute of
+sovereignty of every State and authorities are universal in support of the definition of
+ eminent domain as the power of the sovereign to take property for public use without the
+owner's consent upon making just compensation."
+</p><p id="p_51">       65. <a href="/doc/342860/" id="a_48">In Sharda Devi v. State of Bihar</a> [(2003) 3 SCC 128] this Court said: (SCC p.
+144, para 27)
+        "27 ... The power to acquire by the State the land owned by its subjects hails from
+the right of eminent domain vesting in the State which is essentially an attribute of
+sovereign power of the State. So long as the public purpose subsists, the exercise of the
+power by the State to acquire the land of its subjects without regard to the wishes or
+willingness of the owner or person interested in the land cannot be questioned."
+
+</p><p id="p_52">        In view of the peculiar facts involved in the instant case, it is
+
+axiomatic to record that the Corporation must adopt the fair,
+
+reasonable and just compensation in determining the market value
+
+prevalent at the time of its acquisition and not in a whimsical and
+
+arbitrary manner as has been done in the instant case. The
+
+Petitioners should be allowed to produce the relevant documents
+
+touching the market value prevalent at the time of the acquisition
+
+and thereafter the Mayor-in-Council, who is otherwise competent to
+
+determine the price under sub-Section 2 of Section 536 should fix
+
+the same.
+</p>
+<p id="p_53">        There also appears to be a serious dispute on the quantum of
+
+land actually acquired for such public purpose and therefore, this
+
+Court feels it necessary that a joint inspection should be held by
+
+the Senior Officers of the Corporation and the representative of the
+
+Petitioner to find out the extent of land acquired for widening the
+
+road.
+</p><p id="p_54">      The aforesaid inspection should be done within 8 (eight)
+
+weeks from the date of the communication of this order.
+
+</p><p id="p_55">     Thereafter, the compensation so determined by the Mayor-in-
+
+Council should be reflected in the said agreement and all endeavor
+
+shall be made to execute the same within 4 (four) weeks from the
+
+date of such joint inspection.
+</p>
+<p id="p_56">     The Writ Petition is, thus, disposed of.
+</p>
+<p id="p_57">     However, there shall be no order as to costs.
+</p>
+<p id="p_58">     Urgent photostat certified copy of this order shall be given to
+
+the parties within three days from the date of the application.
+
+
+
+</p><p id="p_59">                                                (Harish Tandon, J.)
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

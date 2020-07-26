@@ -1,0 +1,1605 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>M/S. Dlf Home Developers Ltd vs Ms. Pranathi Rangarajan on 6 February, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/56687261/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 13 docs 
+      
+        - [<A HREF="/search/?formInput=cites:56687261">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/536284/">Section 34 in THE ARBITRATION AND CONCILIATION ACT, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1306164/">THE ARBITRATION AND CONCILIATION ACT, 1996</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1722761/">Section 34 in The Arbitration Act,   1940</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/31621011/">Associate Builders vs Delhi Development Authority on 25 November, 2014</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/56687261/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/56687261/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/56687261/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">M/S. Dlf Home Developers Ltd vs Ms. Pranathi Rangarajan on 6 February, 2019</div><pre id="pre_1">                                                               1
+
+                                         IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                      DATED: 06.02.2019
+
+                                                             CORAM
+
+                                           THE HONOURABLE MR. JUSTICE M. SUNDAR
+
+                                                      O.P. No. 85 of 2019
+
+                      M/s. DLF Home Developers Ltd.,
+                      Formerly at "Chalam Towers",
+                      III Floor, No.62/113,
+                      Dr. Radhakrishnan Road,
+                      Mylapore, Chennai – 600 004
+                      and now at No.268, PH Road,
+                      Kilpauk, Chennai 600 010.                                   ..Petitioner
+
+                                                              Vs.
+
+                      1.    Ms. Pranathi Rangarajan
+                      2.    Mrs. R. Nagaswarna
+                      3.    Mr. Surya Narayanan, Advocate
+                            Arbitrator,
+                            New No.10, Old No. 241,
+                            St. Marys Road,
+                            Mandavelli,
+                            Chennai – 600 028.                                    ..Respondents
+
+
+                      Prayer:     Original Petition filed under <a href="/doc/1722761/" id="a_1">Section 34</a> of the Arbitration and
+
+                      <a href="/doc/1306164/" id="a_2">Conciliation Act</a>, 1996, to set aside the award dated 10.04.2018 passed by the
+
+                      Sole Arbitrator.
+
+                                            For Petitioner     ::    Mr.Jayesh Dolia for
+                                                                     M/s. Aiyar &amp; Dolia
+
+
+
+
+http://www.judis.nic.in
+                                                              2
+
+                                                          ORDER
+</pre>
+<p id="p_1">                            There is a sole petitioner and there are three respondents in this original
+
+                      petition.
+</p>
+<p id="p_2">
+
+
+</p><p id="p_3">                            2.     This Original Petition has been filed under <a href="/doc/1722761/" id="a_3">Section 34</a> of The
+
+                      Arbitration and <a href="/doc/1306164/" id="a_4">Conciliation Act</a>, 1996 (26 of 1996), hereinafter referred to as
+
+                      'A&amp;C Act' for the sake of convenience and clarity laying a challenge to an
+
+                      award dated 10.04.2018 made by an Arbitral Tribunal constituted by a sole
+
+                      arbitrator. This award dated 10.04.2018 made by a sole arbitator constituting
+
+                      the Arbitral Tribunal shall hereinafter be referred to as 'impugned award' for
+
+                      the sake of convenience and clarity. To be noted, sole arbitrator has been
+
+                      arrayed as respondent No.3 in this petition before me.
+
+
+
+
+</p><p id="p_4">                            3.     Before I proceed with this petition, it is deemed appropriate to
+
+                      mention at the outset that this petition being one under Section 34 of A&amp;C Act
+
+                      is neither an appeal nor a revision, it is not a review and it is a mere challenge
+
+                      to an arbitral award. More importantly, minimum judicial intervention in
+
+                      Alternate Dispute Resolution mechanisms ('ADR' for brevity), in my considered
+
+                      opinion, is the salutary principle and sublime philosophy underlying the scheme
+
+                      of A&amp;C Act and more particularly, Sections 34 and 37 of A&amp;C Act. It is in this
+
+                      backdrop that this petition under Section 34 of A&amp;C Act is being examined.
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_1">                                                              3</span>
+
+</p><p id="p_5">                            4.     In the latter part of this order, I shall make further reference to
+
+                      the scope of a petition under Section 34 of A&amp;C Act as elucidatively laid down,
+
+                      eruditely explained and amply articulated in recent pronouncements by the
+
+                      Honourable Supreme Court.
+</p>
+<p id="p_6">
+
+
+</p><p id="p_7">                            5.     It may be necessary to set out a thumbnail sketch of facts for the
+
+                      limited purpose of appreciating this order considering the narrow scope of a
+
+                      petition under Section 34 of A&amp;C Act.
+</p>
+<p id="p_8">
+
+
+</p><p id="p_9">                            6.     Minimum facts are set out infra under the caption 'FACTUAL
+
+                      MATRIX IN A NUT-SHELL'.
+</p>
+<p id="p_10">
+
+
+</p><p id="p_11">                            7.     FACTUAL MATRIX IN A NUT-SHELL:
+</p>
+<p id="p_12">                            (a)    Petitioner before this Court, I am informed, is a Company
+
+                      engaged in real estate development business.          It is also submitted that
+
+                      petitioner company in the course of its business promoted a project which goes
+
+                      by the name 'Commander's Court' at Ethiraj Salai, Egmore, Chennai – 600 008,
+
+                      which shall hereinafter be referred to as 'said project' for the sake of
+
+                      convenience and clarity. Petitioner shall also be referred to as 'builder' for the
+
+                      sake of convenience and clarity.
+</p>
+<p id="p_13">
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_2">                                                              4</span>
+
+</p><p id="p_14">                            (b)    Respondents 1 and 2, this Court is informed, are daughter and
+
+                      mother respectively. Respondents 1 and 2 shall collectively be referred to as
+
+                      ' proposed buyers ' also for the sake of convenience and clarity.
+
+
+
+
+</p><p id="p_15">                            (c)    3rd respondent shall be referred to as 'sole arbitrator' and/or
+
+                      'arbitral tribunal'/learned arbitrator whichever it is deemed appropriate.
+
+
+
+
+</p><p id="p_16">                            (d)    Proposed buyers, with the intention of buying an apartment in the
+
+                      said project, signed a document captioned 'Application for allotment of luxury
+
+                      apartment in Commander's Court, Ethiraj Salai, Egmore, Chennai – 600 008'.
+
+                      The apartment which the proposed buyers intended to buy has been described
+
+                      in the said application as follows:
+</p>
+<blockquote id="blockquote_1">                                   '2.   DETAILS OF SAID APARTMENT
+
+                                   Said Apartment No: 4      Block: D      :     Floor: 3rd
+
+                                   Super Area :3957sq.ft(approx.)367.607 sq.mtr.(approx.)
+
+                                   Parking Space(s) No:      (1)    2      Basement (Covered)
+
+                                                             (2)           Stilt(Semi Covered)
+
+</blockquote><blockquote id="blockquote_2">                            3.     DETAILS OF PRICING:
+</blockquote>
+<blockquote id="blockquote_3">                                   Basic sale price: @ Rs.14,150/- per sq.ft (Rs.152309.3265/per
+
+                            sq.mtr) aggregating to Rs. 55991550/- (Rupees Five Crores Fifty
+
+                            Nine Lakhs Ninety One Thousand Five Hundred and Fifty Only)
+
+                            Cost of Parking Space(s)
+
+</blockquote><blockquote id="blockquote_4">                            1) Basement (Covered)       2 Nos.      Rs.11,00,000/-
+
+
+</blockquote><p id="p_17">http://www.judis.nic.in
+<span class="hidden_text" id="span_3">                                                                          5</span>
+
+</p><p id="p_18">                          2) Stilt (Semi Covered)                  .....Nos.        Rs................../-
+
+                          Preferential Location Charges (PLC), as applicable:
+
+                          : *@ Rs................../- per sq.ft (Rs........................................../-per sq.mtr.)
+
+                          of the Super Area for garden facing apartment aggregating to
+
+                          Rs................................./-.
+</p>
+<p id="p_19">                          :* @ Rs............................/-per sq.ft. (Rs. ............................./- per sq. mtr.)
+
+                          of the Super Area for garden plus corner facing apartment
+
+                          aggregating to Rs.........................../-.
+
+                          : * @ Rs............................./-per sq.ft (Rs............................./-per sq.mtr.)
+
+                          of the Super Area for garden plus swimming pool facing apartment
+
+                          aggregating to Rs........................../-.
+
+                          : * @ Rs............................./-per sq.ft. (Rs.............................../-per sq.mtr.)
+
+                          of the Super Area for south facing apartment aggregating to
+
+                          Rs........................../-.
+</p>
+<p id="p_20">                          : * @ Rs............................./-per sq.ft. (Rs.............................../-per sq.mtr.)
+
+                          of the Super Area for south facing plus corner facing apartment
+
+                          aggregating to Rs........................../-.
+
+                          Floor Rise Charges (FRC), as applicable:
+</p>
+<p id="p_21">                          : (@ Rs.350/- per sq.ft. / mtr.) of the super area of the Said apartment
+
+                          Rs. 13,84,950/- (Rupees Thirteen Lakhs Eighty Four Thousand Nine
+
+                          Hundred and Fifty only)
+
+                          IBMS: Rs.395700
+
+                          Total Price payable for the Said Apartment : Rs.58476500/-
+
+                          (Rupees Five Crores Eighty Four Lakhs Seventy Six Thousand Five
+
+                          Hundered only)"
+</p>
+<p id="p_22">
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_4">                                                              6</span>
+
+</p><p id="p_23">                            (e)   The aforementioned application is dated 25.03.2012.               Payment
+
+                      plan has been adumbrated by way of annexure to the said application and the
+
+                      same reads as follows:
+</p>
+<blockquote id="blockquote_5">                                            PAYMENT PLAN (w.e.f. July 8'2011)
+
+                            Unit Price (Rs. Per sq.ft)                        As Applicable
+
+                            Down Payment Rebate                               10% on Total Price
+
+                            Car Park             Basement 1st Level           Rs.600000/-each
+
+                                                 Basement 2nd Level           Rs.550000/-each
+
+                                                 Basement 3rd Level           Rs.500000/-each
+
+                                                 Stilt                        Rs.650000/-each
+
+                                                 Open                         Rs.300000/-each
+
+                            Preferential Location Charges                     As Applicable
+
+                            Floor Rise charges                                As Applicable
+
+                                                 DOWN PAYMENT PLAN
+
+                            On Application(Booking Amount)        Rs.8 Lacs for Saleable Area
+                                                                  of 1550 sft – 1899 sft
+
+                                                                  Rs.10 Lacs for Saleable Area
+                                                                  of 1900 sft – 2500 sft.
+</blockquote>
+<blockquote id="blockquote_6">                                                                  Rs.12 Lacs for Saleable Area
+                                                                  of 2501 sft – 2650 sft.</blockquote><p id="p_24">
+
+</p><p id="p_25">                                                                      Rs.15 Lacs for Duplex
+
+                            Within 30 days of Booking                 95% of the Total Price Less
+                                                                      Booking Amount Less
+                                                                      Down Payment Rebate
+
+                            On Notice of Possession               5% of Total price + Stamp
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_5">                                                             7</span>
+
+                                                                  Duty + Registration Charges
+                                                                  &amp; Other Charges + Taxes, as
+                                                                  applicable."
+</p>
+<p id="p_26">                                                              (Underlining made by Court to supply
+                                                                    emphasis and highlight)
+
+
+
+
+</p><p id="p_27">                            (f)    It is not in dispute that the proposed buyers paid a sum of
+
+                      Rs.15,50,000/- (which includes Rs.50,000/- towards service tax) on the date of
+
+                      aforesaid application i.e., 25.03.2012. This sum of Rs.15,50,000/- was paid by
+
+                      proposed buyers to the builder. It is also submitted that total cost of the said
+
+                      apartment is Rs.5,47,59,601.23 ( a little over Rs.5.47 crores). It is the case of
+
+                      builder that according to aforementioned Schedule of Payment, 95% of
+
+                      aforesaid total cost of said apartment less booking amount and down payment
+
+                      rebate should have been paid within 30 days from the date of booking. In
+
+                      other words, the same ought to have been paid on or before 24.04.2012.
+
+                      However, to be noted, Apartment Buyers' Agreement itself was entered into
+
+                      only on 26.04.2012.
+</p>
+<p id="p_28">
+
+
+</p><p id="p_29">                            (g)    To be noted, the aforesaid application dated 25.03.2012 and the
+
+                      Apartment Buyers' Agreement dated 26.04.2012 have been marked as Ex.R1 &amp;
+
+                      Ex.C2 respectively before the Arbitral Tribunal.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_6">                                                                                  8</span>
+
+</p><p id="p_30">                                  (h)     Schedule of Payment drawn up has been annexed to Apartment
+
+                      Buyers' Agreement dated 26.04.2012 by way of one of the annexures, to be
+
+                      specific, Annexure III and the same reads as follows:
+
+</p><blockquote id="blockquote_7">                                                                        PAYMENT PLAN
+
+
+
+                          Inst Due Date Descri-                  BSP           PRK            FLR          MSE       STAX           Total
+                          No.            ption
+                                              On
+                                              Application
+                                              Booking
+                              1 26. Mar. 2012 Amount           1,500,000.00           0.00          0.00      0.00    38,625.00   1,538,625.00
+                                                 Down
+                                                Payment
+                              1                  Rebate       -5,599,155.00   -110,000.00    -138,495.00      0.00 -192,534.77    -6,040,184.77
+                                              Within      1
+
+                              2 26. Apr. 2012 Month           51,691,972.50 1,045,000.00 1,315,702.50         0.00 1,792,195.00 55,844,870.00
+                                              On Notice
+                                              of
+                              3               Possession       2,799,577.50    55,000.00      69,247.50 395,700.00    96,766.00   3,416,291.00
+                          Total                               50,392,395.00   990,000.00 1,246,455.00 395,700.00 1,735,051.23 54,759,601.23
+
+
+
+
+</blockquote><blockquote id="blockquote_8">                                  (i)     It is the case of builder that proposed buyers defaulted and did
+
+                      not pay 95% balance as agreed and therefore, builder sent electronic mails to
+
+                      the proposed buyers in this regard. These electronic mails have been marked
+
+                      as exhibits before the Arbitral Tribunal.</blockquote><p id="p_31">
+
+
+
+
+</p><p id="p_32">                                  (j)     Ultimately, the builder terminated the agreement and invoked
+
+                      the forfeiture clause. This letter of termination is dated 06.07.2012. To be
+
+                      noted, it is Ex.R2 before the Arbitral Tribunal.
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_7">                                                                 9</span>
+
+
+
+</p><p id="p_33">                            (k) This takes us to the forfeiture clause in the Apartment Buyers'
+
+                      Agreement dated 26.04.2012.         The forfeiture clause is clause 53 and the
+
+                      relevant portion of the same reads as follows:
+</p>
+<blockquote id="blockquote_9">                                   "53.   Events of Defaults and Consequences:
+
+                                   ....</blockquote><p id="p_34">
+
+</p><p id="p_35">                                   Unless otherwise provided in this Agreement, upon the
+
+                                   occurrence of any one or more of event(s) of default under
+
+                                   this Agreement including but not limited to those specified
+
+                                   above, the Company may, in its sole discretion, by notice to
+
+                                   the Allottee, cancel this Agreement by giving in writing
+
+                                   fifteen (15) days notice to rectify the default as specified in
+
+                                   that notice. In default is not rectified within such 15 days,
+
+                                   this Agreement shall stand cancelled and the Company shall
+
+                                   forfeit the Earnest Money along with the Non Refundable
+
+                                   Amounts.     The Allottee acknowledges that upon such
+
+                                   cancellation of this Agreement, the Allottee shall have no
+
+                                   right or interest on the Said Apartment and the Company
+
+                                   shall be discharged of all liabilities and obligations under
+
+                                   this Agreement and the Company shall have the right to sell
+
+                                   or deal with the Said Apartment and the Parking Space(s)
+
+                                   in the manner in which it may deem fit as if this Agreement
+
+                                   had never been executed.       The refund, if any, shall be
+
+                                   refunded by the Company by registered post only after
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_8">                                                               10</span>
+
+                                   realizing the amount on further sale/resale to any other
+
+                                   party and without any interest or compensation whatsoever
+
+                                   to the Allottee. This will be without prejudice to any other
+
+                                   remediese and rights of the Company to claim other
+
+                                   liquidted damages which the Company might have suffered
+
+                                   due to such breach committed by the Allottee."
+</p>
+<p id="p_36">                                                          (Underlining done by Court to supply
+                                                                       emphasis and highlight.)
+
+
+</p><p id="p_37">                            (l)   A perusal of underlined portion in the extract supra reveals that
+
+                      earnest money forfeiture shall be done by the company. In other words, the
+
+                      clause says that company shall forfeit earnest money along with non-
+
+                      refundable amounts. Learned counsel submits that this is not happily worded
+
+                      and it should be construed as forfeiture by the proposed buyers. It may not be
+
+                      necessary to delve into those aspects of the matter, considering the narrow
+
+                      scope of a petition under Section 34 of A&amp;C Act.
+</p>
+<p id="p_38">
+
+</p><p id="p_39">                            (m)   Earnest Money has also been explained/described in the
+
+                      Apartment Buyers' Agreement in clause 4 and the same reads as follows:
+
+</p><blockquote id="blockquote_10">                                  "4.     Earnest Money
+
+                                  The Allottee agrees and confirms that out of the amount(s)
+
+                                  paid/payable by the Allottee for the Said Apartment and
+
+                                  the Parking Spaces) the booking amount of Rs.15,00,000/-
+
+
+
+
+</blockquote><p id="p_40">http://www.judis.nic.in
+<span class="hidden_text" id="span_9">                                                             11</span>
+
+                                (Rupees Fifteen Lakhs only) shall be treated as Earnest
+
+                                Money for due fulfillment, by the Allottee, of the terms and
+
+                                conditions as contained in the Application and this
+
+                                Agreement. In the event the Allottee fails to perform any
+
+                                obligations or commit breach of any of the terms and
+
+                                conditions mentioned in the Application and/or this
+
+                                Agreement including but not limited to the occurrence of
+
+                                any event of default as stated in this Agreement or the
+
+                                failure of the Allottee to sign and return this Agreement in
+
+                                original to the Company within 30 days of this dispatch
+
+                                date then the Allottee agrees that then the Company shall
+
+                                have the right to forfeit without any notice to the Allottee
+
+                                the Earnest Money and the Non-Refundable Amounts. If
+
+                                the amount paid by the Allottee is less than the forfeitable
+
+                                amount then the Allottee undertakes to make good the
+
+                                shortfall of the forfeitable amount. This is in addition to
+
+                                any other remedy/right, which the Company may have.
+
+                                The Allottee agrees and understands that withdrawal of the
+
+                                Agreement by the Allottee is a breach of the terms and
+
+                                conditions of the Agreement and the Company shall be
+
+                                entitled to retain the booking amount/Earnest money along
+
+                                with Non Refundable Amounts."
+</p>
+<p id="p_41">
+
+
+</p><p id="p_42">                          (n)   It is also not in dispute that there is an arbitration agreement
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_10">                                                                 12</span>
+
+                      between builder and proposed buyers being an arbitration agreement within
+
+                      the meaning of Section 7 of A&amp;C Act. This Arbitration Agreement within the
+
+                      meaning of Section 7 of A&amp;C Act is in the form of a clause/covenant in the
+
+                      Apartment Buyers' Agreement dated 26.04.2012 and the relevant clause is
+
+                      clause 55, which reads as follows:
+</p>
+<blockquote id="blockquote_11">                            "55.   Dispute Resolution by Arbitration
+
+                            All or any disputes arising out of or relating to or concerning or
+
+                            touching this Agreement including the interpretation and validity of the
+
+                            terms thereof shall be referred by any party to a sole arbitrator who shall
+
+                            be appointed by the Company and whose decision shall be final and
+
+                            binding upon the party and the Allottee shall have no objection to this
+
+                            appointment even if the person so appointed, as the sole Arbitrator, is an
+
+                            employee or advocate of the Company or is otherwise connected to the
+
+                            Company.         The arbitration proceedings shall be governed by the
+
+                            Arbitration      &amp;    <a href="/doc/1306164/" id="a_5">Conciliation   Act</a>,   1996    or    any    statutory
+
+                            amendments/modifications thereof for the time being in force.          The
+
+                            arbitration proceedings shall be held at an appropriate location to be
+
+                            decided by the sole arbitrator. The parties agree that no other person
+
+                            shall have the power to appoint the sole arbitrator.       The Courts at
+
+                            Chennai alone and the Madras High Court at Chennai shall have the
+
+                            jurisdiction."</blockquote><p id="p_43">
+
+
+
+</p><p id="p_44">                            (o)    In the aforesaid backdrop, the proposed buyers contending that
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_11">                                                            13</span>
+
+                      termination is improper and forfeiture is bad, issued a notice through counsel
+
+                      dated 22.08.2015 invoking the arbitration clause. A perusal of the arbitration
+
+                      clause would reveal that an arbitrator has to be appointed by the builder. In
+
+                      this notice dated 22.08.2015, proposed buyers have specifically referred to
+
+                      clause 55 and called upon the builder to nominate a sole arbitrator in
+
+                      accordance with clause 55. There is no dispute or disagreement before this
+
+                      Court that this notice was duly received by the builder on 24.08.2015, but the
+
+                      builder did not nominate an arbitrator in accordance with clause 55, which is
+
+                      in the arbitration agreement between the parties within the meaning of
+
+                      Section 7 of A&amp;C Act.
+</p>
+<p id="p_45">
+
+
+</p><p id="p_46">                            (p)   Owing to this, left with no other option, proposed buyers
+
+                      approached this Court by way of a petition under Section 11 of A&amp;C Act vide
+
+                      O.P. No. 560 of 2016, which was listed before Honourable Chief Justice Sanjay
+
+                      Kishan Kaul (as his Lordship then was). In and by order dated 04.11.2016, then
+
+                      Honourable Chief Justice of this Court, appointed the 3rd respondent before me
+
+                      ( a learned member of this bar) as the Sole Arbitrator to enter upon reference
+
+                      and arbitrate the dispute/s between the parties.
+
+
+
+
+</p><p id="p_47">                            (q)   Pursuant to the appointment made by then Honourable Chief
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_12">                                                            14</span>
+
+                      Justice of this Court, respondent No.3, a learned member of this bar, entered
+
+                      upon reference and conducted arbitration.
+</p>
+<p id="p_48">
+
+
+</p><p id="p_49">                            (r)    In the arbitration, both sides participated and as many as 10
+
+                      documents, on the side of the proposed buyers, were marked as Exs.C1 to C10.
+
+                      As many as 5 documents were marked on behalf of the builder,i.e, Exs.R1 to
+
+                      R5. To be noted, proposed buyers, who are respondents 1 and 2 before me
+
+                      were claimants 1 and 2 respectively before the Arbitral Tribunal (3rd
+
+                      respondent) and builder, which is the petitioner before me, was the sole
+
+                      respondent before the Arbitral Tribunal.
+</p>
+<p id="p_50">
+
+
+</p><p id="p_51">                            (s)    I shall continue to refer to the parties in the manner which I have
+
+                      already set out supra.
+</p>
+<p id="p_52">
+
+
+</p><p id="p_53">                            (t)    Learned Sole Arbitrator i.e, Arbitral Tribunal ultimately passed
+
+                      the impugned award dated 10.04.2018. To be noted,claim of proposed buyers
+
+                      before the Arbitral Tribunal included refund of aforesaid sum of Rs.15,50,000/-
+
+                      and a likesum towards damages.      Learned Arbitrator/Arbitral Tribunal vide
+
+                      impugned award acceded to the claim of refund of Rs.15,50,000/- with interest
+
+                      @ 9% per annum on the said amount from the date of claim till the date of
+
+                      award and future interest @ 18% per annum from the date of award till the
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_13">                                                              15</span>
+
+                      date of realisation.       The claim for damages for a likesum was negatived
+
+                      completely. This Court is informed that the proposed buyers have not assailed
+
+                      the impugned award with regard to their claim for damages being negatived.
+
+                      To be noted, costs of the proceedings were also directed to be paid by the
+
+                      builder to the proposed buyers.
+</p>
+<p id="p_54">
+
+
+</p><p id="p_55">                            8.     Having set out the factual matrix as well as the trajectory of
+
+                      proceedings thus far (including proceedings before the Arbitral Tribunal) which
+
+                      has culminated in the instant petition before me, it is deemed appropriate to
+
+                      set out the submissions made and consideration of the same which I shall do
+
+                      under the caption "DISCUSSION and DISPOSITIVE REASONING" infra.
+
+
+
+
+</p><p id="p_56">                            9.     DISCUSSION AND DISPOSITIVE REASONING:
+</p>
+<p id="p_57">                            (a)    This petition was listed under the caption 'FOR ADMISSION'
+
+                      yesterday, i.e, 05.02.2019 and yesterday's proceedings reads as follows:
+
+</p><blockquote id="blockquote_12">                            " Heard in detail.
+</blockquote>
+<blockquote id="blockquote_13">                            Elaborate submissions made by Mr.V.P. Mohammed Moin of M/s. Aiyar
+
+                            &amp; Dolia.
+</blockquote>
+<blockquote id="blockquote_14">                             List the matter under the caption 'FOR ORDERS' on 06.02.2019."</blockquote><p id="p_58">
+
+
+
+</p><p id="p_59">                            (b)    Pursuant to yesterday's proceedings, this matter was listed under
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_14">                                                                 16</span>
+
+                      the caption 'FOR ORDERS' today. Today, Mr.Jayesh Dolia, learned counsel of
+
+                      M/s. Aiyar and Dolia assisted by Mr.V.P. Mohammed Moin and Mr.K.P. Hemant
+
+                      Kumar made further submissions. I am considering all the submissions made
+
+                      before me together.
+</p>
+<p id="p_60">
+
+
+</p><p id="p_61">                            (c)     In sum and substance, case of the petitioner, which is protagonist
+
+                      of this petition under Section 34 of A&amp;C Act, is that this petition is predicated
+
+                      essentially under <a href="/doc/536284/" id="a_6">Section 34</a>(2-A) of A&amp;C Act. I deem it appropriate to extract
+
+                      <a href="/doc/536284/" id="a_7">Section 34</a>(2-A) of A&amp;C Act and the same reads as follows:
+
+</p><blockquote id="blockquote_15">                          "34.    Application for setting aside arbitral award:-
+
+</blockquote><pre id="pre_2">                                  (1)    ...
+
+                                  (2)    ...
+
+</pre><blockquote id="blockquote_16">                                  (2-A) An arbitral award arising out of arbitration other than
+
+                          international commercial arbitrations, may also be set aside by the Court,
+
+                          if the Court finds that the award is vitiated by patent illegality appearing
+
+                          on the face of the award:
+</blockquote>
+<blockquote id="blockquote_17">                                  [Provided that an award shall not be set aside merely on the
+
+                          ground of an erroneous application of the law or by re-appreciation of
+
+                          evidence]"</blockquote><p id="p_62">
+
+
+
+
+</p><p id="p_63">                            (d)     Learned counsel for petitioner/builder submitted that there are
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_15">                                                                         17</span>
+
+                      two points which arise for consideration and these two points will go to show
+
+                      that the impugned award is vitiated by the vice of patent illegality appearing
+
+                      on the face of the same. It was submitted that the first point is that the claim
+
+                      before         the    Arbitral    Tribunal    is   barred    by    limitation    and       learned
+
+                      Arbitrator/Arbitral Tribunal has not considered or adverted to this aspect of
+
+                      limitation. The second point is with regard to forfeiture.
+
+
+
+
+</p><p id="p_64">                               (e)         According to learned counsel for petitioner, the moment,
+
+                      proposed buyers did not pay balance 95% as per the agreed schedule, there will
+
+                      be forfeiture in accordance with clause 53, the relevant portion of which has
+
+                      already been extracted and alluded to supra. Learned Arbitrator has lost sight
+
+                      of the fact that forfeiture is virtually automatic, is learned counsel's say.
+
+
+
+
+</p><p id="p_65">                               (f)         To buttress the aforesaid submission <a href="/doc/381747/" id="a_8">Shree Hanuman Cotton Mills
+
+                      and Others V. Tata Air Craft Limited</a> reported in 1969 (3) SCC 522, was pressed
+
+                      into service and paragraph No.21 was referred to, which reads as follows:
+
+</p><blockquote id="blockquote_18">                               "21.        From a review of the decision cited above, the following principles
+
+                               emerge regarding "earnest":
+</blockquote>
+<blockquote id="blockquote_19">                                           (1)    It must b given at the moment at which the contract is
+
+                               concluded.</blockquote><p id="p_66">
+
+</p><p id="p_67">                                           (2)    It represents a guarantee that the contract will be fulfilled
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_16">                                                                   18</span>
+
+                             or, in other words, "earnest" is given to bind the contract.
+
+</p><p id="p_68">                                     (3)     It is part of the purchase price when the transaction is
+
+                             carried out.
+</p>
+<p id="p_69">                                     (4)     It is forfeited when the transaction falls through by reason
+
+                             of the default or failure of the purchaser.
+</p>
+<p id="p_70">                                     (5)     Unless there is anything to the contrary in the terms of
+
+                             the contract, on default committed by the buyer, the seller is entitled to
+
+                             forfeit the earnest."
+</p>
+<p id="p_71">
+
+</p><p id="p_72">                            (g)     For the same principle relating to Earnest Money Deposit and to
+
+                      show that Earnest Money Deposit is part of purchase price when the
+
+                      transaction goes forward and it stands forfeited when the transaction does not
+
+                      go through, a Privy Council judgment rendered in Kunwar Chiranjit Singh V.
+
+                      Har Swarup reported in 1926 XXIII L.W. 172 was placed before me. The
+
+                      relevant paragraph therein reads as follows:
+</p>
+<blockquote id="blockquote_20">                                    "Earnest Money is part of the purchase price when the
+
+                            transaction goes forward: it is forfeited when the transaction falls
+
+                            through, by reason of the fault or failure of the vendee."</blockquote><p id="p_73">
+</p><p id="p_74">                            Aforesaid two case laws relating to principles pertaining to Earnest
+
+                      Money Deposits do not help the petitioner in the instant case as this is an issue
+
+                      where ordering of forfeiture was tested. However, considering the limited and
+
+                      narrow scope of Section 34 of A &amp; C Act, reappreciation of findings in this
+
+                      regard (in contradistinction to a regular first appeal under Section 96 of The
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_17">                                                               19</span>
+
+                      Code of Civil Procedure, 1908) is impermissible. To be noted, in any event,
+
+                      this Court does not find the findings returned by the Arbitral Tribunal regarding
+
+                      forfeiture to be illegal or incorrect.
+</p>
+<p id="p_75">
+
+
+</p><p id="p_76">                            (h)    <a href="/doc/119428738/" id="a_9">R.M.    Cylinders    Private     Limited   V.   Hindustan   Petroleum
+
+                      Corporation Limited</a>, being a judgment rendered by a learned Single Judge of
+
+                      Bombay High Court reported in 2013(4) Mh.L.J 67 and <a href="/doc/1150887/" id="a_10">Food Corporation of
+
+                      India and Others V. Gopal Chandra Mukherjee</a>, being a judgment rendered by
+
+                      a Division Bench of Calcutta High Court reported in 2003 SCC Online Cal 107
+
+                      were pressed into service for the proposition that Earnest Money Deposit is in
+
+                      the nature of liquidated damages. Paragraph No.15 of R.M. Cylinders case and
+
+                      Paragraph No.16 of Food Corporation of India case were referred to. As the
+
+                      principle is only with regard to Earnest Money Deposit being in the nature of
+
+                      liquidated damages, these case laws, being of persuasive value, viewed in the
+
+                      light of the fact that this is an order being made in a petition made under
+
+                      Section 34 of A&amp;C Act, this Court refrains from extracting those paragraphs.
+
+
+
+
+</p><p id="p_77">                            (i)    Learned counsel also submitted that limitation goes to the root of
+
+                      the matter and therefore, learned Arbitrator ought to have dismissed the claim
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_18">                                                           20</span>
+
+                      as being barred by limitation.
+</p>
+<p id="p_78">
+
+
+</p><p id="p_79">                            (j)    On limitation, it was submitted that termination letter is dated
+
+                      06.07.2012 and it was served on the same day on proposed buyers. According
+
+                      to learned counsel for petitioner, limitation for the claim had expired on
+
+                      22.08.2015 when the notice invoking arbitration clause (alluded to supra) was
+
+                      issued whereas the claim was made only on 25.02.2017.
+
+
+
+
+</p><p id="p_80">                            (k)    In my considered opinion, in the light of the language in which
+
+                      Section 21 of A&amp;C Act is couched, arbitration did not commence on
+
+                      22.08.2015, but on 24.08.2015 when the notice invoking arbitration clause was
+
+                      received by the builder/petitioner, who is the noticee therein.    Therefore,
+
+                      24.08.2015 is the reckoning date.
+</p>
+<p id="p_81">
+
+
+</p><p id="p_82">                            (l)    As mentioned supra, notwithstanding receipt of notice invoking
+
+                      arbitration clause on 24.08.2015, petitioner/builder did not nominate an
+
+                      Arbitrator in accordance with clause 55, which is in the arbitration agreement
+
+                      between the parties forcing the proposed buyers to file a petition under
+
+                      Section 11 of A&amp;C Act before then Honourable Chief Justice of this Court. The
+
+                      then Honourable Chief Justice of this Court, as mentioned supra, had
+
+                      appointed the 3rd respondent, a learned member of this bar, as the Sole
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_19">                                                                 21</span>
+
+                      Arbitrator, on 04.11.2016 and he entered upon reference but the Arbitral
+
+                      Tribunal has not considered and brushed aside the limitation plea is learned
+
+                      counsel's say.
+</p>
+<p id="p_83">
+
+
+</p><p id="p_84">                            (m)    Be that as it may, a mere perusal of the impugned award,
+
+                      particularly, paragraph No.29 of the impugned award reveals that learned
+
+                      Arbitrator has infact considered the limitation issue and has returned a finding.
+
+                      A closer perusal of the impugned award reveals that learned Arbitrator has
+
+                      formulated as many as 4 issues and issue No.3 is ' Whether the claim made is
+
+                      within time?' .   Issue No.3 has been answered in paragraph No.29 of the
+
+                      impugned award as follows:
+</p>
+<p id="p_85">                                          "29.    Issue No.3:    To sum up, the arbitration
+
+                                   tribunal feels that the limitation for the claim can be taken
+
+                                   from 18/10/2012, the date on which the respondent finally
+
+                                   informed that there is no amount refundable as the
+
+                                   agreement has been cancelled and all the amounts had
+
+                                   been forfeited and the notice invoking the arbitration was
+
+                                   sent on 22/08/2015 and received by the respondent,
+
+                                   invocation of arbitration is well within the period of
+
+                                   limitation and therefore the claim is within time and is not
+
+                                   barred by limitation. It is also relevant to quote <a href="/doc/138599/" id="a_11">Section 21</a>
+
+                                   of the Act "unless otherwise agreed by the parties, the
+
+                                   arbitratl proceedings in respect of a particular dispute
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_20">                                                                  22</span>
+
+                                  commons on the day on which a request for the dispute to
+
+                                  be referred to the arbitration is received by the
+
+                                  respondent". In the present case, the respondent received
+
+                                  requested to arbitration on 24/08/2015 as admitted by
+
+                                  them. It is also contended that the notice of unsecured
+
+                                  creditor issued in 19/08/2015 will enure to limitation.
+
+                                  Under such circumstances, the arbitration is invoked on
+
+                                  24/08/2015 within 3 years from 18/10/2012 and therefore
+
+                                  is not barred by limitation."
+</p>
+<p id="p_86">
+</p><p id="p_87">                                                                    (Underlining made by Court to
+                                                                   supply emphasis and highlight)
+
+
+
+
+</p><p id="p_88">                            (n)    A perusal of aforesaid paragraph No.29 of the impugned award
+
+                      reveals that learned Arbitrator has infact considered the limitation issue and
+
+                      has returned a finding.      With regard to the basis for learned Arbitrator
+
+                      returning a finding that arbitration is not barred by limitation, 18.10.2012 has
+
+                      been taken as the reckoning date by the learned Arbitrator. In other words,
+
+                      learned Arbitrator has negatived the plea of the builder/petitioner that
+
+                      06.07.2012 (termination notice) should be taken as the reckoning date.
+
+                      Learned Arbitrator has referred to the electronic mails exchanged between the
+
+                      parties and those electronic mails have been marked as Ex.C8 series before
+
+                      learned Arbitrator. After scrutiny of electronic mails which have been marked
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_21">                                                             23</span>
+
+                      as Ex.C8 series, i.e., after appreciation of documentary evidence before him,
+
+                      learned Arbitrator has come to the conclusion and returned a clear finding that
+
+                      this Ex.C8 series is dated 18.10.2012 and that should be the reckoning date as
+
+                      it is in these communications that the petitioner/builder finally informed the
+
+                      proposed buyers that there is no amount refundable. In my considered view,
+
+                      this finding of learned arbitrator cannot be faulted with.
+
+
+
+
+</p><p id="p_89">                            (o)    Further to be noted, in this case limitation is a mixed question of
+
+                      fact and law. Limitation being a mixed question of fact and law, this finding
+
+                      returned by the learned Arbitrator with regard to issue No.3 which has been
+
+                      answered in paragraph No.29, is clearly a question that turns on facts. In this
+
+                      regard, this Court considers it appropriate to respectfully follow the ratio laid
+
+                      down by Honourable Supreme Court in <a href="/doc/31621011/" id="a_12">Associate Builders V. Delhi
+
+                      Development Authority</a>. To be noted, Associate Builders' case has been reported
+
+                      in 2015 3 SCC Pg. 49. It is also reported in 2014 13 Scale Pg. 226. In Associate
+
+                      Builders case, on facts, was a case where a contractor, who was awarded a
+
+                      contract by Delhi Development Authority ('DDA' for brevity) made a claim
+
+                      towards work done. This was part of a project of DDA wherein about 7000
+
+                      houses were being constructed by DDA in Trilok Puri, a Trans-Yamuna area. As
+
+                      many as 15 claims were made by the contractor and Delhi High Court
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_22">                                                            24</span>
+
+                      appointed a Sole Arbitrator. The Sole Arbitrator entered upon reference and
+
+                      passed an award which was called in question. A learned Single Judge of Delhi
+
+                      High Court refused to intervene qua the award, but a Division Bench of Delhi
+
+                      High Court, in an appeal under Section 37 of A&amp;C Act, stepped in to set aside
+
+                      the view of the learned Single Judge. In other words, the claims of contractor
+
+                      which were acceded to by the Arbitral Tribunal (which learned Single Judge
+
+                      refused to set aside) were reversed/negatived. Besides this, two claims were
+
+                      also scaled down. This order of the Division Bench of Delhi High Court was
+
+                      called in question before the Honourable Supreme Court. In this backdrop,
+
+                      Honourable Supreme Court in Associate Builders' case held that the expression
+
+                      'justice' when it comes to setting aside an award under <a href="/doc/536284/" id="a_13">Section 34</a>, can only
+
+                      mean that it should be an award, which is such that it shocks the conscience of
+
+                      the Court.   It was also lucidly explained with erudition by the Honourable
+
+                      Supreme Court that it cannot possibly include what the Court thinks is unjust
+
+                      on the facts of a case for which it then seeks to substitute its views for the
+
+                      Arbitrator's views and does what it considers to be justice . The Honourable
+
+                      Supreme Court has also held in categoric terms that findings of facts made by
+
+                      the Arbitrator cannot be interfered with as it was clearly laid down that the
+
+                      Arbitrator is the sole Judge of the quantity and quality of evidence before him.
+
+                      Though Associate Builders' case was rendered prior to 23.10.2015, these
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_23">                                                              25</span>
+
+                      principles can be applied considering the nature of changes brought in by
+
+                      23.10.2015 amendments.
+</p>
+<p id="p_90">
+
+
+</p><p id="p_91">                               (p)   Therefore, the question of limitation being a mixed question of
+
+                      fact and law in this case, any interference with the award of the Arbitral
+
+                      Tribunal, in this regard, would amount to interfering with the quality and
+
+                      quantity of evidence before him. When the learned Arbitrator has clearly
+
+                      returned a finding that 06.07.2012       is not     the recknoning date and only
+
+                      18.10.2012 is the reckoning date after careful analysis and appreciation of
+
+                      Ex.R2,     termination   notice   and   Ex.C8     series,   being   electronic   mail
+
+                      communications exchanged between the parties, re-appreciation of evidence
+
+                      is impermissible.
+</p>
+<p id="p_92">
+
+
+</p><p id="p_93">                               (q)   This takes us to forfeiture of Earnest Money Deposit aspect.
+
+
+
+
+</p><p id="p_94">                               (r)   Learned Arbitrator, on careful analysis of the evidence before him
+
+                      and on facts, has come to the conclusion that signing of Apartment Buyers'
+
+                      Agreement, i.e, Ex.C2 and conduct of parties clearly shows that the
+
+                      petitioner/builder has taken recourse to clause 39 of Ex.C2, which is captioned
+
+                      'Waiver not a limitation to enforce'.        This is articulated very pithily in
+
+                      paragraph No.13 of the impugned award, which reads as follows:
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_24">                                                                 26</span>
+
+                                   "13.    When the respondent choose to exercise Clause 39(1)
+
+                            whereby they choose to charge interest on the claimant, it amounts to
+
+                            waiver of act of breach as per the agreement between the parties."
+
+
+</p><p id="p_95">                            (s)     Besides this, issue No.2 reads as follows:
+</p>
+<p id="p_96">
+</p><p id="p_97">                                   "2.     Whether the respondent is justified in forfeiting the
+
+                            amount on cancellation of the agreement?"
+</p><p id="p_98">                            While answering this, there is copious reference in the impugned award,
+
+                      inter alia, to recourse being taken to clause 39(1). It would suffice to extract
+
+                      a small portion of the same, which is articulated in paragraph No.30 wherein
+
+                      issues Nos. 1 &amp; 2 have been answered together. Relevant portion of paragraph
+
+                      No.30 reads as follows:
+</p>
+<p id="p_99">
+
+</p><blockquote id="blockquote_21">                                    "30.    Issue No. 1 &amp; 2:      In the present case, the respondent
+
+                             having invoked clause 39(1), had waived the breach committed by the
+
+                             claimant and therefore the cancellation of the agreement and consequent
+
+                             forfeiture of the advance amount is not proper and justified..."</blockquote><p id="p_100">
+
+
+
+</p><p id="p_101">                            (t)     To be noted, though there are other grounds contained in the
+
+                      petition, the points which have been alluded to supra were argued before me
+
+                      as grounds of challenge on which this petition is predicated.
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_25">                                                             27</span>
+
+                            (u)    Before parting with this case, it may be necessary to refer to two
+
+                      very recent judgments of the Honourable Supreme Court being <a href="/doc/36469640/" id="a_14">State of Bihar
+
+                      V. Bihar Rajya Bhumi Vikas Bank Samiti</a> rendered on 30.07.2018 and
+
+                      <a href="/doc/190855528/" id="a_15">Emkay Global Financial Services Limited V. Girdhar Sondhi</a> rendered on
+
+                      20.08.2018. To be noted, while Bihar Rajya Bhumi Vikas Bank Samiti's case has
+
+                      been reported in 2018 9 SCC 472, the equivalent being AIR 2018 SC 3862,
+
+                      Emkay Global Financial Services Limited case has been reported in AIR 2018 SC
+
+                      3894. Though Bihar Rajya Bhumi Vikas Bank Samiti's case is one that turns on
+
+                      interpretation of sub-section (5) of Section 34 of A&amp;C Act and as to whether
+
+                      the pre-notice contemplated therein is directory or mandatory, in paragraph
+
+                      No.26, Honourable Supreme Court has held that it shall be the endeavour of
+
+                      every Court in which <a href="/doc/536284/" id="a_16">Section 34</a> petition is filed to stick to the timelimit of one
+
+                      year which has been set out in sub-section (6) of Section 34 of A&amp;C Act.
+
+                      Likewise, in Emkay Global Financial Services Limited case, while reiterating Fiza
+
+                      Developers principle that <a href="/doc/536284/" id="a_17">Section 34</a> is a summary procedure warranting
+
+                      expeditious disposal, aforesaid paragraph No. 26 of Bihar Rajya Bhumi Vikas
+
+                      Bank Samiti's case was reiterated. I deem it appropriate to extract paragraph
+
+                      No.26 of Bihar Rajya Bhumi Vikas Bank Samiti's case and the same reads as
+
+                      follows:
+</p>
+<p id="p_102">                                          "26.   We are of the opinion that the view
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_26">                                                                28</span>
+
+                                  propounded by the High Courts of Bombay and Calcutta
+
+                                  represents the correct state of the law. However, we may
+
+                                  add that it shall be the endeavour of every court in which a
+
+                                  <a href="/doc/536284/" id="a_18">Section 34</a> application is filed, to stick to the time-limit of
+
+                                  one year from the date of service of notice to the opposite
+
+                                  party by the applicant, or by the Court, as the case may be.
+
+                                  In case the Court issues notice after the period mentioned
+
+                                  in <a href="/doc/1211292/" id="a_19">Section 34(3)</a> has elapsed, every court shall endeavour
+
+                                  to dispose of the <a href="/doc/536284/" id="a_20">Section 34</a> application within a period of
+
+                                  one year from the date of filing of the said application,
+
+                                  similar to what has been provided in Section 14 of the
+
+                                  Commercial      Courts,     Commercial       Division     and
+
+                                  Commercial Appellate Division of High Courts Act, 2015.
+
+                                  This will give effect to the object sought to be achieved by
+
+                                  adding <a href="/doc/1253821/" id="a_21">Section 13(6)</a> by the 2015 <a href="/doc/1210757/" id="a_22">Amendment Act</a>."
+
+
+
+</p><p id="p_103">                            (v)   It is not in dispute before me that the said apartment in the said
+
+                      project has been completed and sold to another third party. It may not be
+
+                      necessary to go into those aspects considering the narrow scope of Section 34
+
+                      of A&amp;C Act, but a passing reference to the same is made only in terms of
+
+                      equities of the matter which have also been noticed.
+
+
+
+
+</p><p id="p_104">                      10.   CONCLUSION
+
+
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_27">                                                            29</span>
+
+                            In the light of the narrative supra, particularly, "Discussion and
+
+                      Dispositive Reasoning", this Court is convinced that this petition under Section
+
+                      34 of A&amp;C Act which according to petitioner's counsel is predicated under Rule
+
+                      2-A of Section 34 of A&amp;C Act is bereft of merits and does not warrant judicial
+
+                      intervention qua the impugned award.        As a necessary sequitur, instant
+
+                      petition is liable to be dismissed. However, considering the fair submissions
+
+                      that have been made at the bar, this Court refrains from imposing costs.
+
+
+
+
+</p><p id="p_105">                      11.   DECISION
+
+                            O.P. No. 85 of 2019 is dismissed.
+</p>
+<p id="p_106">                                                                                           06.02.2019
+
+                      nv
+
+                      Index: Yes/No
+                      Internet: Yes/No
+                      Speaking Order/Non-Speaking Order
+
+
+
+
+                                                                                       M. SUNDAR,J.
+</p>
+<p id="p_107">
+
+
+http://www.judis.nic.in
+<span class="hidden_text" id="span_28">                          30</span>
+
+
+
+                                               nv
+
+
+
+
+                               O.P. No. 85 of 2019
+
+
+
+
+                                       06.02.2019
+
+
+
+
+http://www.judis.nic.in
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,365 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dr. Janardan Prasad Verma &amp; Ors. vs The State Of Bihar &amp; Ors on 11 November, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/74985470/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:74985470">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/752609/">Section 385 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1101188/">Section 379 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1317063/">Section 465 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1466184/">Section 471 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/555306/">Section 504 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/74985470/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/74985470/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=title%20suit">title suit</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=compromise%20decree">compromise decree</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Patna High Court - Orders</div>
+<div class="doc_title">Dr. Janardan Prasad Verma &amp; Ors. vs The State Of Bihar &amp; Ors on 11 November, 2014</div><pre id="pre_1">                    IN THE HIGH COURT OF JUDICATURE AT PATNA
+                                 Criminal Miscellaneous No.39432 of 2011
+                  ======================================================
+                  1. Dr. Janardan Prasad Verma, S/o Shri Guru Adhin Prasad Verma @ Late
+                     Shri Guru Adhin Lal, R/o Village - Panditpur, P.S. Rajgir, District
+                     Nalanda, at present Mohalla - Katara Par, Town - Bihar Sharif, P.S.
+                     Laheri, District - Nalanda,
+                  2. Akhilesh Dutta Verma, S/o Dr. Janardan Prasad Verma, permanent
+                     resident of Mohalla - Katara Par, Town Bihar Sharif, P.S. Laheri,
+                     District Nalanda at present residing at Ganga Bihar Colony, Beur, P.S.
+                     Beur Town &amp; District Patna.
+                                                                       .... ....   Petitioner/s
+                                                   Versus
+                  1. The State of Bihar
+                  2. Baiju Prasad, S/o Late Daso Prasad, R/o Village - Bain, P.S. Silao,
+                     District Nalanda.
+                                                          .... .... Opposite Party/s
+                  ======================================================
+                  Appearance:
+                  For the Petitioner/s  :  Mr. Shyam Bihari Prasad and
+                                           Mr. Pramod Kr. Bhartiya, Advocates.
+                  For the Opposite Party/s : Mr. A.P.P.
+                  ==========================================================
+                  CORAM: HONOURABLE MR. JUSTICE ASHUTOSH KUMAR
+
+                  ORAL ORDER</pre>
+
+<p id="p_1">11   11-11-2014                 Heard the counsel for the parties.
+
+</p><p id="p_2">                                The petitioners, who are father and son respectively
+
+                  as amongst themselves, have challenged the order dated
+
+                  10.06.2008 passed by the learned Judicial Magistrate 1st Class,
+
+                  Biharsharif at Nalanda in connection with Complaint Case No.
+
+                  1261(C)/2008, whereby cognizance has been taken under <a href="/doc/1317063/" id="a_1">Sections
+
+                  465</a>, <a href="/doc/1466184/" id="a_2">471</a>, <a href="/doc/756306/" id="a_3">474</a> and <a href="/doc/555306/" id="a_4">504</a> of the Indian Penal Code.
+
+</p><p id="p_3">                                The dispute is with respect to Plot Nos. 1206 &amp; 1204,
+<span class="hidden_text" id="span_1"> Patna High Court Cr.Misc. No.39432 of 2011 (11) dt.11-11-2014</span>
+
+<span class="hidden_text" id="span_2">                                           2/5</span>
+
+
+
+
+             measuring an area of 2 decimals and 5.1/2 decimals of land in
+
+             Nalanda district. The opposite party no. 2 claims to have
+
+             purchased the said property from one Amresh Kumar Hansh, but
+
+             the petitioners are alleged to have been creating hindrance in the
+
+             peaceful enjoyment of the said property. The further allegation in
+
+             the complaint is that by using a forged document, namely, the
+
+             compromise decree in a title suit, namely, Title Suit No. 193/59,
+
+             the petitioners have been creating disturbance in the peaceful
+
+             enjoyment of the said property which was rightfully vended to the
+
+             complainant.
+</p>
+<p id="p_4">                              Learned counsel for the petitioners draws the
+
+             attention of this Court to Annexure-2, an order passed by this
+
+             Court way back in the year 2010 in Cr. Misc. No. 20628 of 2008.
+
+             The complainant-opposite party no. 2 had earlier also preferred a
+
+             complaint vide Complaint Case No. 950(C) of 2004 for offences
+
+             under <a href="/doc/752609/" id="a_5">Sections 385</a> and <a href="/doc/1101188/" id="a_6">379</a> of the Indian Penal Code. In the
+
+             aforesaid complaint also, the complainant had raised doubt about
+
+             the genuineness of the compromise decree in Title Suit No.
+
+             193/59.
+</p>
+<p id="p_5">                              A Bench of this Court called for the original decree
+
+             and, after perusing the same, found that there was no discrepancy
+
+             with regard to the originality of the decree and, by no stretch of
+<span class="hidden_text" id="span_3"> Patna High Court Cr.Misc. No.39432 of 2011 (11) dt.11-11-2014</span>
+
+<span class="hidden_text" id="span_4">                                           3/5</span>
+
+
+
+
+             imagination, could it be said to be a false document. The same
+
+             order (Annexure-2) reveals the fact that Plot Nos. 1204 &amp; 1206
+
+             were acquired by the Railways in LA Case No. 20 of 1960-61,
+
+             which stood in the name of Guru Adhin Prasad Verma, father of
+
+             the petitioner no. 1. The petitioners, on having come to know
+
+             about such acquisition by the Railways, left pursuing the matter
+
+             under 145 <a href="/doc/445276/" id="a_7">Cr.P.C</a>. proceedings. The cognizance taking order,
+
+             which was passed in Complaint Case No. 950(C)/2004 referred to
+
+             above, was, therefore, quashed vide order dated 22.03.2010
+
+             (Annexure-2).
+</p>
+<p id="p_6">                              The dispute in the present complaint also appears to
+
+             be the same. The entire allegation is based on the presupposition
+
+             that the compromise decree is a fake one and that the petitioners
+
+             have taken advantage of it in order to defeat the claim of the
+
+             complainant, who is stated to have purchased the aforesaid
+
+             property.
+</p>
+<p id="p_7">                              The petitioners further state that times without
+
+             number, they have been harassed by the complainant-opposite
+
+             party no. 2 for the purposes of putting some kind of pressure on
+
+             them so as to accept the demands of the complainant.
+
+</p><p id="p_8">                              Learned counsel appearing for the complainant-
+
+             opposite party no.2, however, has expressed concern over the way
+<span class="hidden_text" id="span_5"> Patna High Court Cr.Misc. No.39432 of 2011 (11) dt.11-11-2014</span>
+
+<span class="hidden_text" id="span_6">                                           4/5</span>
+
+
+
+
+             in which his rightful claim upon the property has been sought to
+
+             be reversed by the clever strategy of the petitioners. However, no
+
+             proof of such act on the part of the petitioners could be
+
+             demonstrated by the counsel for the complainant-opposite party 2.
+
+             In the last, the learned counsel appearing for the opposite party no.
+
+             2 stated that in the interest of justice, the petitioners be directed to
+
+             appear in the title suit, which has been preferred by him and which
+
+             has been numbered as Title Suit No. 149 of 2009, in which the
+
+             petitioners have been impleaded as defendants no. 4 &amp; 5.
+
+</p><p id="p_9">                              It is needless to state that if the petitioners, who are
+
+             impleaded as the defendants and not appearing in the title suit and,
+
+             in their absence, if the complainant-opposite party no. 2 makes out
+
+             a case, an ex parte decree could be passed by the court below. No
+
+             such order can be passed in this proceeding directing the
+
+             petitioners to appear in the title suit preferred by the complainant-
+
+             opposite party no. 2.
+</p>
+<p id="p_10">                              In any view of the matter, the present case appears to
+
+             be a reiteration of the earlier claim/allegation by the complainant-
+
+             opposite party no. 2 with respect to the plots of land in question
+
+             which, according to him, is a purchased property whereas the
+
+             petitioners have lost their interest in such land as the property stands
+
+             acquired by the Railways.
+</p><span class="hidden_text" id="span_7">           Patna High Court Cr.Misc. No.39432 of 2011 (11) dt.11-11-2014</span><p id="p_11">
+
+<span class="hidden_text" id="span_8">                                                     5/5</span>
+
+
+
+
+</p><p id="p_12">                                        Considering the above mentioned facts, the order
+
+                       taking cognizance dated 10.06.2008 passed in Complaint Case No.
+
+                       1261(c)/2008 is held to be not fit to be sustainable in the eyes of
+
+                       law. The same is quashed.
+</p>
+<p id="p_13">                                        The application stands allowed.
+</p>
+<p id="p_14">
+</p><p id="p_15">                                                           (Ashutosh Kumar, J)
+Dilip/-
+</p><pre id="pre_2"> U           T
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

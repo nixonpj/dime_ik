@@ -1,0 +1,273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>National Insurance Company vs T. Elumalai And Anothers on 3 January, 1989</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/1435342/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 9 docs 
+      
+        - [<A HREF="/search/?formInput=cites:1435342">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1910042/">Section 96(2) in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/785258/">The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1550024/">Section 96 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1406947/">Section 105 in The Motor Vehicles Act, 1988</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/863239/">Bomanji Rustomji Ginwala vs Ibrahim Vali Master And Ors. on 28 March, 1981</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 1 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/1331005/">Radhey Shyam Agarwal And Anr. vs Gayatri Devi W/O Mahendra Prasad ... on 22 November, 1996</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div class="doc_ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ik_doc -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8449310684598476"
+     data-ad-slot="1931975544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/1435342/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/1435342/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=auto%20rickshaw">auto rickshaw</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=permit%20to%20ply">permit to ply</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=motor%20vehicle%20rules">motor vehicle rules</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=disclaimer">disclaimer</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=exonerate">exonerate</a></div>
+      
+    </div>
+  
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Madras High Court</div>
+<div class="doc_title">National Insurance Company vs T. Elumalai And Anothers on 3 January, 1989</div><div class="doc_citations">Equivalent citations: II (1990) ACC 335, 1990 ACJ 426, AIR 1990 Mad 71</div>
+
+<div class="doc_author">Author: M P Jesudurai</div>
+
+<div class="doc_bench">Bench: M P Jesudurai</div>
+
+<p id="p_1">JUDGMENT
+ 
+
+</p><p id="p_2">1. The Insurance Company, against which the Motor Accidents Claims Tribunal, had passed an award for Rs. 44,800/- for the injury sustained by the second respondent herein, has filed the present appeal challenging its liability to pay the compensation. 
+</p> 
+
+<p id="p_3"> 2. Facts briefly are:-- On 5-3-1980, the second respondent was knocked down by an auto-rickshaw TMZ 5785 belonging to the first respondent and insured with the appellant. The vehicle was driven in a rash and negligent manner. The second respondent sustained very serious injuries, which necessitated prolonged treatment and finally left him with permanant disablement. He filed O.P.No. 233 of 1980 under<a href="/doc/785258/" id="a_1"> S. 110-A</a> of the Motor Vehicles Act (hereinafter referred as to the Act) before the Motor Accidents Claims Tribunal (Court of Small Causes), Madras claiming a total compensation of Rupees 50,000/-. 
+</p> 
+
+<p id="p_4"> 3. The first respondent remained ex parte. 
+</p> 
+
+<p id="p_5"> 4. The appellant resisted the claim contending that the accident was not due to the rash and negligent driving of the auto-rickshaw, but was due to the negligence of the second respondent himself. The appellant also disputed its liability on the ground that there was breach of condition of the policy of insurance, since the auto-rickshaw had no permit to ply in the City of Madras and in violation of the terms of the permit was found plying in Madras. 
+</p> 
+
+<p id="p_6"> 5. Before the Tribunal, the second respondent examined himself as P.W. 1 and examined the Medical Officer, who treated him as P.W. 2 and the Inspector of Police, who investigated into the case, as P.W. 3, Exts. P-l to P-18 were marked. An assistant of the appellant was examined as R.W. 1. Exts. R-l to R-3, were marked. 
+</p> 
+
+<p id="p_7"> 6. On the above material, the Tribunal found that the accident was due to the rash and negligent driving of the auto-rickshaw and assessed the compensation at Rupees 44,800/-. The Tribunal also held that there was no breach of the terms of the policy of insurance and made the appellant liable to pay compensation. Aggrieved with the latter finding, this appeal has been preferred. 
+</p> 
+
+<p id="p_8"> 7. Thiru B. S. Gnandesikan, learned counsel for the appellant contended that the auto-rickshaw belonging to the first respondent, as per its permit could not ply in the City of Madras and that in violation of the terms of the permit, the vehicle was found plying in Madras and that in view of this violation of the terms of the permit, there was also violation of the terms of the policy of insurance and as such the appellant was exonerated from liability to indemnify, the claim. Learned counsel also contended that the appellant had called upon the first respondent to produce the permit relating to the vehicle and the failure on the part of the first respondent to produce the permit or even send any reply, would necessarily lead to the inference that the permit for the vehicle did not include plying within the limits of the City of Madras. 
+</p> 
+
+<p id="p_9"> 8. Thiru S. Gangaram Prasad, learned Counsel for the second respondent; in particular contended that the burden was upon the appellant, the insurance company, which sought to avail of the exclusion clause in the policy of insurance, to prove that a breach of any of the terms of the policy of insurance had been committed and in the instant case the appellant had not discharged that burden. Secondly, learned counsel contended that the appellant was liable under the insurance policy. 
+</p> 
+
+<p id="p_10"> 9. The short question that arises for consideration is whether the violation of the conditions in the permit relating to the geographical limits within which the vehicle could ply would entitle the insurance company to disclaim its liability under the policy of insurance? 
+</p> 
+
+<p id="p_11"> 10. The insurance policy is essentially a contract between the insurer and the insured, whereby the former in consideration of receiving monetary payment in the form of premiums, undertakes to indemnify the latter in the event of certain contingencies happening. Being an agreement between the two parties, the policy of insurance is bound to contain several terms and conditions, subject to which the respective parties contract to act. While the rights inter se the insurer and the insured, would primarily be determined by the terms of the policy of insurance, the rights of third parties created under the Act, are to be determined with reference to the relevant provisions of the Act, subject to which the policy should be. It would not be open cither to the insured or the insurer, to take shelter under any of the terms of the policy of insurance, except in the manner provided under the Act. The insurer only plays the role of one who has undertaken to indemnify the claim on behalf of a tortfeasor. By himself, the insurer has no place in the proceedings instituted under the Act. It is only by virtue of S. 96(2) of the Aet that the insurer is entitled to notice through Court of the bringing of proceedings regarding these claims and to be made a party to defend the action. 
+</p> 
+
+<p id="p_12"> 11. Since the question, to be decided in this case primarily depends upon the interpretation of S.96(2) of the Act. the same is extracted below : 
+</p>   
+
+<p id="p_13"> "(2) No sum shall be payable by an insurer under Sub-sec. (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the Court of the bringing of the proceedings, or in respect of any judgment, so long as execution is stayed thereon pending an appeal; and an insurer to whom notice of the bringing of any such proceeding is so given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely:-- 
+</p> 
+
+<p id="p_14"> (a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provisions of<a href="/doc/1406947/" id="a_2"> S. 105</a>; or  
+ 
+
+</p><p id="p_15"> (b) that there has been a breach of a specified condition of the policy, being one the following conditions, namely :- -- 
+</p>   
+
+<p id="p_16"> (i) a condition excluding the use of the vehicle:-- 
+</p> 
+
+<p id="p_17"> (a) for hire or reward, where the vehicle is on the date of the contract of insurance, a vehicle not covered by a permit to ply for hire or reward; or  
+ 
+
+</p><p id="p_18"> (b) for organized racing and speed testing; or  
+ 
+
+</p><p id="p_19"> (c) for a purpose not allowed by the permit under which the vehicle is used, where the vehicle is (a transport vehicle); or  
+ 
+
+</p><p id="p_20"> (d) without side-ear being attached, where the vehicle in a Motor Cycle; or  
+ 
+
+</p><p id="p_21"> (ii) a condition excluding driving by a named person or persons or by any person who is not duly licensed, or by any person who has been disqualified for holding or obtaining a driving license during the period of disqualification; or  
+ 
+
+</p><p id="p_22"> (iii) a condition excluding the liability for injury caused or contributed to by conditions of war, civil war, riot or civil commotion; or  
+ 
+
+</p><p id="p_23"> (e) that the policy is void on the ground that it was, obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular."   
+</p> 
+
+<p id="p_24"> The above section lays down in clear terms that the insurer, who has been made a party and who seeks to defend the action, can do so only on the grounds specified in<a href="/doc/1910042/" id="a_3"> S. 96(2)</a> (a) (b) or (c) of the Act. Whatever the defence the Insurer chooses to take, should be strictly traceable to any one of these clauses. The Supreme Court has pointed out <a href="/doc/135147/" id="a_4">British India General Insurance Co. v. Captain Itbar Singh</a>.  : 
+</p><p id="p_25">  "2. Apart from the statute, an insurer has no right to be made a party to the action by the injured person against the insured causing the injury. Sub-section (2) of S.96 however gives him the right to be made a party to the suit and to defend it. The right therefore is created by statute and its content necessarily depends on the provisions of the statute. Sub-sec. (2) clearly provides that an insurer, made a defendant to the action, is not entitled to take any defence which is not specified in it. When the grounds of defence have been specified. they cannot be added to. The only manner of avoiding liability provided for in sub-sec. (2) is through the defences therein mentioned."  
+</p> 
+
+<p id="p_26"> 12. An analysis of the defences open to the insurance company indicates that cl. (a) deals with cancellation of a policy by mutual consent or by virtue of any provisions contained in the policy of insurance before the accident had taken place. Cl. (c) deals with a contingency where the policy had been obtained by non-disclosure of material fact or by a representation of fact, which was false in some material particular thereby rendering the policy itself void. Barring, these two clauses, we have clause (b) which deals with a defence on the ground of breach of a specified condition of the policy. Here again, it is not the breach of each and every condition of the policy, the insured and the insurer had embodied in the policy that would provide the insurance company a defence to disclaim its liability. Clause (b) makes it clear that, the condition, which, according to the insurance company, has been violated, should be one that is mentioned in the clause itself. The first category of such a condition deals with the use of the vehicle, the second regarding the person who was driving the vehicle at the time of the accident and the third, exclusion of liability in times of war, riot etc., Unless, (herefore, the insurer establishes that the breach of the condition of the policy that he complains of comes within any one of the sub-clauses mentioned in clause (b), the insurer cannot succeed, since the breach of any of the terms of the policy not mentioned in clause (b) would not be a defence to the insurer. It is significant that even violation of any of the provision of the Act, violation of any of'the rules framed under the Act or violation of any of the terms of the permit under the Act, cannot be a defence, except when it falls within the ambit of sub-clauses (i),(ii) and (iii) of<a href="/doc/1550024/" id="a_5"> S. 96</a> (2) (b) of the Act. 
+</p> 
+
+<p id="p_27"> 13. <a href="/doc/1550024/" id="a_6">Section 96</a> (2) of the Act has been so interpreted by several High Courts. Useful reference could be made to some of the decisions. The High Court of Gujarat in <a href="/doc/863239/" id="a_7">Bomanji Rustomji Ginwala v. Ibrahim Vali Master</a>,  was called upon to decide a similar question, whether the insurer could disclaim liability on the ground that the insured had violated some of the rules framed under the <a href="/doc/785258/" id="a_8">Motor Vehicles Act</a>. A tractor, with a trailer and with a cultivator about 71/2 feetlong, attached at the back of the tractor with a pointed hook attached to the tractor, was being driven in a rash and negligent manner in the middle of the tar road, resulting in an accident, in which a car coming from the opposite direction suffered extensive damage. In a claim for damages by the owner of the car the insurer of the tractor pleaded that its liability under the policy of insurance was exonerated, since the driver of the tractor had committed breaches of certain rules under the <a href="/doc/785258/" id="a_9">Motor Vehicles Act</a>, while driving the insured vehicle. Rule 264(2) of the Rules enjoined the driver, as far as possible to drive on the sidestrip of the metalled road. Rule 266 dealing with projection of loads, had also been violated. Negativing the contention of insurer, the Court held that the mere fact that while driving the tractor, the driver of the insured vehicle had committed breaches of the stipulated rules the same could not give a valid defence to the insurer to escape its liability qua third parties, as admittedly none of the breaches of the statutory rules, was covered by the conditions expressly mentioned in<a href="/doc/1910042/" id="a_10"> S. 96(2)</a> of the Act. 
+</p> 
+
+<p id="p_28"> 14. A bench of the Bombay High Court in <a href="/doc/1555065/" id="a_11">Ragunath Eknath Hivale v. Shardabai Karbhari Kate</a>, , took the same view. A truck permitted to ply for hire for carrying goods and permitted by the Bombay Motor Vehicles Rules to carry seven persons as passengers, in violation of the above rule carried 700 baskets of tomatoes along with 15 or 16 owners thereof. Due to rash and negligent driving, the truck turned turtle and killed two pedestrians. The insurer of the truck sought to get himself exonerated on the ground that the driver of the truck had violated Rule 18 of the Bombay Motor Vehicles Rules, which permitted only carrying seven passengers in the truck and since the truck was being run in breach of the permit issued to it to ply it as a goods vehicle, the owner of the vehicle had committed a breach of the contract of insurance since the condition on which the insurance policy was issued had prohibited the use of the truck for a purpose other than for carrying the goods. The High Court of Bombay repelled the contention of the insurer holding, that the insurer could avoid its liability only if the conditions specified in<a href="/doc/1910042/" id="a_12"> S. 96(2)</a> are satisfied and that as far as the third party risks are concerned, the liability being statutory, it cannot be over-ridden by the terms of the contract of insurance between the parties. 
+</p> 
+
+<p id="p_29"> 15. A Bench of the High Court of Karnataka in Madras Motor &amp; Genera! <a href="/doc/111569/" id="a_13">Insurance Co. v. Nanjamma</a>, , also repelled a similar plea of the insurer of the offending car, which had carried seven passengers, contrary to the terms of the permit issued under the <a href="/doc/785258/" id="a_14">Motor Vehicles Act</a>, which permitted carrying only five persons. Though there was breach of the terms of the permit regarding the maximum number of passengers which could be carried. Since the car had not been used for different purpose,<a href="/doc/1910042/" id="a_15"> S. 96(2)</a> (b) (i) had not been attracted. 
+</p> 
+
+<p id="p_30"> 16. More recently, the High Court, of Himachal Pradesh in <a href="/doc/15589/" id="a_16">Oriental Insurance Co. Ltd. v. Bishan Dass</a>, , held that where the vehicle in question was permitted to ply only on a particular route and in violation of that term of the permit, the vehicle was found plying in a different route wherein the accident had occurred, this violation of the terms of the permit did not attract<a href="/doc/1910042/" id="a_17"> S. 96(2)</a> (c) of the Act. This condition of the permit, could not be said to be a breach of the condition relating to the purpose for which the permit was issued. 
+</p> 
+
+<p id="p_31"> 17. It is, therefore, clear that an insurer is not entitled to take a defence, which is not specified in<a href="/doc/1910042/" id="a_18"> S. 96(2)</a> of the Act. These provisions have to be construed strictly. As stated earlier, it is not the breach of any conditions of the policy of insurance, that would provide the insurer a defence under<a href="/doc/1910042/" id="a_19"> S. 96(2)</a> of the Act. The policy of insurance may permit the insurer to avoid its liability under various circumstances. However, as against the liability of the insurer to third parties, the terms of the policy of insurance are subject to the provisions of<a href="/doc/1910042/" id="a_20"> S. 96(2)</a> of the Act. If there is a breach of the contract on the part of the insured the insurer could proceed against the insured, but as far as the third party risks are concerned, the liability having been created by the statute, cannot be over-ridden by the terms of the conlract of insurance between the parties. S. 96(2) of the Act, does not include violation of the terms of the permit relating to plying in certain geographical area. Hence the plea that the auto-rickshaw was found plying in the city of Madras contrary to its permit, even if established factually, cannot be a ground since the same does not fall within the ambit of S.96 (2) of the Act. It is not, therefore, open to the appellant to plead that the auto-rickshaw was found plying in the City of Madras, in contravantion of a condition in its permit restricting the geographical area wherein the vehicle could be plied. 
+</p> 
+
+<p id="p_32"> 18.    In the result, the appeal fails and is dismissed. No costs. 
+</p> 
+
+<p id="p_33"> 19. Appeal dismissed  
+ 
+
+</p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

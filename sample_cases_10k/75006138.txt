@@ -1,0 +1,495 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>State vs . Mohd. Shamim @ Chaman on 14 March, 2014</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/75006138/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:75006138">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1934415/">Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/73862/">Section 25 in Arms Act</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/75006138/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/75006138/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+    <div class="category">
+      <div class="category_title">User Queries</div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=shamim">shamim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=mohd.%20shamim">mohd. shamim</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=chaman">chaman</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=vijay%20singh">vijay singh</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=proclaimed%20offender">proclaimed offender</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=307/34">307/34</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=order%20sheet">order sheet</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=desi%20katta">desi katta</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=s%20299">s 299</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=313%20crpc">313 crpc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=crpc%20s.313">crpc s.313</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=criminal%20procedure%20code%20s.%20313">criminal procedure code s. 313</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20313">section 313</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=cr%2Cpc%20313">cr,pc 313</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=299%20cr%20pc">299 cr pc</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=sec.313%20of%20cr.p.c.">sec.313 of cr.p.c.</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=section%20313%20of%20cr.p.c">section 313 of cr.p.c</a></div>
+      
+          <div class="item_toselect"><a href="/search/?formInput=arms%20act%201959">arms act 1959</a></div>
+      
+    </div>
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi District Court</div>
+<div class="doc_title">State vs . Mohd. Shamim @ Chaman on 14 March, 2014</div><div class="doc_author">Author: Sh. Bharat Parashar</div>
+
+<pre id="pre_1">               IN THE COURT OF SH. BHARAT PARASHAR, ASJ­01,   
+      NEW DELHI DISTRICT, PATIALA HOUSE COURTS, NEW DELHI
+
+
+
+Unique case ID No. 02403R0233682005
+State     Vs.          Mohd. Shamim @ Chaman
+                       S/o Mohd. Naseem,
+                       R/o Village Bakshiwala,
+                       PS Kotwali,
+                       District Bijnour, U.P.
+                           
+                  
+S.C. No. 21/13                 
+FIR  No. 100/2005                     
+PS:  Mehrauli                                       
+U/s 307/34 <a href="/doc/1569253/" id="a_1">IPC</a>
+&amp; 25 <a href="/doc/1934415/" id="a_2">Arms Act</a>, 1959 
+
+
+                             
+Date of   institution of the case                                                                  :  28.04.2005
+Date of hearing arguments                                                                          :  14.03.2014
+Date of announcement of judgment                                                                          :  14.03.2014
+
+ J U D G E M E N T : 
+</pre>
+
+<p id="p_1">1.                   On 27.02.05, at about 6 pm a secret information was received by 
+Insp.  Vijay Singh (PW15), of Special Staff, South District that 5/6 persons, 
+who had committed robbery in Madanghir area, PS Amedkar Nagar would 
+be coming back after recce in Gurgaon.   The secret informer had further 
+informed   him   (PW15)   that   those   5/6   persons   would   be   coming   on   a 
+motorcycle no. DL 5ST 0360 and a TSR bearing no. DL 1RG 6241. It was 
+
+<span class="hidden_text" id="span_1">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   1 of 10</span>
+ also informed that those persons would be coming at about 9.00 pm from 
+the side of Gurgaon via Aya Nagar.     The matter was   discussed with SI 
+Ugesh Kumar (PW11) and SI Balram (PW9 Investigating Officer  of  the 
+case bearing   FIR No. 102/05, PS Ambedkar Nagar).     Insp. Vijay Singh 
+(PW15) requested SI Ugesh Kumar (PW11) and SI Balram (PW9) to come 
+to the office of the special staff. They were also requested to bring the file of 
+case FIR No. 102/05, PS Ambedkar Nagar.   SI Ugesh Kumar (PW11) and 
+SI Balram (PW9)   reached the office of the special staff.   They were in 
+uniform.  They had brought the case file of  case bearing FIR No. 102/05, 
+PS   Ambedkar   Nagar.   Thereafter   Insp.   Vijay   Singh   (PW15)   SI   Ugesh 
+Kumar(PW11),     ASI   Ashok   (PW10)   H.Ct.   Rajesh   (PW4),   H.Ct.   Ram 
+Kishan (PW6), H.Ct. Yogender (PW8), SI Balram, Ct. Satish, Ct. Ramesh, 
+Ct. Rajbir, Ct. Jai Prakash, H.Ct. Hawa Singh had left the office of special 
+staff at 7.00 pm after making entry in DD No. 10.   All the above police 
+officials had left the office in a Tempo Traveller. Except SI Ugesh Kumar 
+(PW11) and SI Balram (PW9)   all the remaining police officials were in 
+plain clothes. They  were having their weapons. 
+</p>
+<p id="p_2">2.                   At about 8 pm the police officials reached near Arjan Garh Air 
+Force Station, Mehrauli, Gurgaon Road, Delhi. Insp. Vijay Singh (PW15) 
+after reaching there formed a raiding party of the police officials. They were 
+briefed. They were also told the number of the motorcycle and the TSR. 
+Insp. Vijay Singh (PW15) had asked 4/5 persons to join the raiding party. 
+However, none had agreed to join the same. There was a turn near that place 
+, therefore, the Tempo Traveller  was parked near the turn. Because of the 
+
+<span class="hidden_text" id="span_2">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   2 of 10</span>
+ turn   the   vehicles   coming  from   the   side   of  Gurgaon  were  required  to   be 
+slowed down. Further there were rumble stripes (plastic speed breakers) at 
+that place. 
+</p>
+<p id="p_3">3.                   At  about  8.30 pm Insp. Vijay Singh (PW15)  and other  police 
+officials were at that place i.e., near the turn.  They had started checking the 
+vehicles.
+</p>
+<p id="p_4">4.                   At   about   9.00pm   a   red   coloured   pulsar   motorcycle   was   seen 
+coming from the side of Gurgaon.  It was being followed by a TSR. There 
+were two persons on the motorcycle and there were four persons in the TSR 
+including the driver.  The number of the motorcycle was DL 5ST 0360 and 
+that of TSR was DL 1RG 6241. Insp. Vijay Singh (PW15 ) gave signal to 
+the motorcyclists and TSR driver to stop their vehicles. Instead of stopping 
+the motorcycle, the motorcyclists   had made the motorcycle to lie down. 
+The pillion rider  of the motorcycle had whipped out a desi katta from the 
+right side of his dub and fired at Insp. Vijay Singh, (PW15).   Insp. Vijay 
+Singh (PW15) had ducked to saved himself. Insp. Vijay Singh (PW15) then 
+apprehended the person who had whipped out the  desi katta.  He disclosed 
+his   name   as   Abidur   Rehman.     ASI   Ashok,   after   some   struggle     had 
+succeeded in apprehending person who was driving  the motorcycle.  He had 
+disclosed his name as 'Shamim' (he is now a proclaimed offender). One of 
+the   occupant   of   the   TSR   had   fired   at   the   police   party.           He     was 
+apprehended by H.Ct. Ramkishan (PW6). He  disclosed his name as Zakhir 
+@ Guddu (he is now a proclaimed offender). The other occupants of the 
+TSR who were apprehended by the police party had disclosed their names as 
+<span class="hidden_text" id="span_3">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   3 of 10</span>
+ Manoj and Sanjay Vashisht. One person who was in the TSR  had escaped. 
+His name was disclosed as Maqsood. Accused Manoj was driving the TSR. 
+</p>
+<p id="p_5">5.                   From  possession of accused Abidur Rehman  a desi katta which 
+was in his hand and two live cartridges from the right side pocket of his pant 
+were   recovered.   The   barrel   of   the   desi   kata   was   found   to   have   a   used 
+cartridge.  Since Abidur Rehman had fired at the police officials, therefore, 
+an information was sent to the control room, South District.  The sketch Ex. 
+PW 11/D of the katta and the cartridges (collectively Ex. P­1) recovered 
+from accused Abidur Rehman was prepared.  These articles were sealed in a 
+pullanda and seal of RB was affixed.  These were taken into possession vide 
+memo Ex.PW 11/C.  
+</p>
+<p id="p_6">6.                   The accused were arrested. Since from  possession of the accused 
+cash was also recovered and it was allegedly the case property of case FIR 
+No.   102/05,   PS   Ambedkar   Nagar,   therefore,   the   same   was   taken   into 
+possession u/s 102 <a href="/doc/445276/" id="a_3">Cr.P.C</a> vide different memos. 
+</p>
+<p id="p_7">7.                   From possession of present accused Mohd. Shamim a desi katta 
+and three  live cartridges were recovered. 
+</p>
+<p id="p_8">8.                   Rukka Ex PW 12/A was sent to the PS through Ct., Narender 
+(PW1). FIR, copy of which is Ex. PW 3/A was registered. 
+</p>
+<p id="p_9">9.                   During investigation rough site plan Ex. PW 12/C was prepared.  
+</p>
+<p id="p_10">10.                    On receipt of the information SI Rajesh Brar (PW12) along with 
+
+
+<span class="hidden_text" id="span_4">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   4 of 10</span>
+ ASI Raj Singh (PW5), Ct. Bhopal Singh (PW2), Ct. Narender (PW1)  had 
+reached   there.     Insp.   Chanderkant,   SHO   PS   Mehrauli     had   also   reached 
+there.
+</p>
+<p id="p_11">11.                    After   completion   of   investigation,   challan   against   accused 
+Shamim @ Chaman, Sanjay Vashisht, Zakir @ Guddu, Abidur Rehman and 
+Manoj was filed. 
+</p>
+<p id="p_12">12.                     However vide order dated 02.05.06, accused Sanjay and Manoj 
+were discharged in the present case.  
+</p>
+<p id="p_13">13.                    As against accused Abidur Rehman, Shamim @ Chaman and 
+Zakir @ Guddu charge for the offence under <a href="/doc/455468/" id="a_4">sections 307</a>/<a href="/doc/37788/" id="a_5">34</a> IPC and for 
+the offence u/s 25 <a href="/doc/1934415/" id="a_6">Arms Act</a>, 1959 were framed. 
+</p>
+<p id="p_14">14.                    The   accused   persons     Abidur   Rehman,   Shamim   and   Zakir 
+however pleaded not guilty and claimed trial.
+</p>
+<p id="p_15">15.                    During the course of subsequent trial accused Mohd. Shamim 
+and   Zakir   absconded   away   and   were   accordingly   declared   proclaimed 
+offender   vide   order   dated   09.01.2009.   Accused   Abidur   Rehman   was 
+however   acquitted   in   the   present   case   vide   a   detailed   judgment   dated 
+06.01.12 of all the charges by the then Ld. Predecessor of this Court. The 
+case file was however ordered to be consigned to record room U/s 299 Cr. 
+PC qua accused Mohd. Shamim and Zakir. 
+</p>
+<p id="p_16">16.                    Subsequently upon apprehension of accused Mohd. Shamim the 
+
+
+<span class="hidden_text" id="span_5">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   5 of 10</span>
+ trial   again   proceeded   against   him.   The   deposition   of   other   prosecution 
+witnesses   who   were   either   earlier   not   examined   when   accused   Mohd. 
+Shamim was attending the trial or were examined under<a href="/doc/831107/" id="a_7"> S. 299</a> Cr.PC was 
+thereafter recorded and case was adjourned for recording of accused U/s 313 
+<a href="/doc/445276/" id="a_8">Cr.PC</a>. 
+</p>
+<p id="p_17">17.                    It was at this stage of the matter that Ld. Counsel for accused 
+Mohd. Shamim pointed out that in the detailed judgment dated 06.01.12 the 
+Ld.   Predecessor   of   this   Court   has   doubted   the   very   factum   of   any   such 
+incident having taken place. Accordingly the said judgment was perused and 
+it was found that during the course of trial the Ld. Judge called for the 
+records of the movements of the police officials from the office of Special 
+Staff and after perusing the same and analysing the deposition of  police 
+officials   who   had   apprehended   the   present   accused   or   the   other   accused 
+persons,   doubted   the   factum   of   any   such   incident   as   deposed   to   by   the 
+prosecution   witnesses   having   ever   taken   place.   It     was   in   these 
+circumstances that a detailed order sheet dated 14.03.14, it was observed by 
+the undersigned that no purpose will be served by recording the statement 
+U/s. 313 <a href="/doc/445276/" id="a_9">Cr.PC</a> of present accused Mohd. Shamim as view of the judgment 
+passed by my Ld. Predecessor which has since attained finality having been 
+not challenged by the prosecution so no incriminating evidence exists on 
+record warranting recording of statement U/s. 313 <a href="/doc/445276/" id="a_10">Cr.PC</a> of present accused. 
+</p>
+<p id="p_18">18.                    The   aforesaid   circumstances   were   discussed   in   detail   in   my 
+order sheet dated 14.03.2014 and for a ready reference the said order sheet is 
+reproduced here under :
+</p><span class="hidden_text" id="span_6">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   6 of 10</span>
+<blockquote id="blockquote_1">                  "Present:      Mr. Shiv Kumar, Ld.  APP for the State.
+</blockquote><blockquote id="blockquote_2">                                Accused Shamim on bail.
+</blockquote><blockquote id="blockquote_3">                                SI Ugesh Kumar is present.
+</blockquote><blockquote id="blockquote_4">                                In brief the case of prosecution is that on the  
+                 basis of a secret information a police party was constituted  
+                 and they intercepted one  motorcycle with two riders and a  
+                 TSR in which four persons were travelling. However upon  
+                 seeing the police party the pillion driver of motorcycle took  
+                 out a pistol and fired towards the police party but no one  
+                 was injured.  It   is further  the case  of  prosecution that the  
+                 motorcyclist himself also took out a desi katta and pointed  
+                 towards the police party. The police party however managed  
+                 to apprehend both the motorcyclist and three out of the four  
+                 TSR   riders.   The   fourth   person   managed   to   flee   away.  
+                 Accordingly charge sheet was filed in the court against five  
+                 accused persons. However the then Ld. Predecessor of this  
+                 court vide order dated 02.5.2006 discharged accused Sanjay  
+                 and Manoj of all the charges in this case but chose to frame  
+                 charges   for   the   offence   u/s   307/34   <a href="/doc/1569253/" id="a_11">IPC</a>   against   accused  
+                 Shamim, Jakir and Abidur. Separate charges for the offence  
+                 u/s 25 of the <a href="/doc/1934415/" id="a_12">Arms Act</a> were also framed against all the three  
+                 accused persons as they were allegedly found in possession  
+                 of pistol at the time of incident. 
+</blockquote><blockquote id="blockquote_5">                                During the course of subsequent trial when the  
+                 prosecution   evidence   was   being   recorded   two   accused  
+                 persons   namely,   Shamim   and   Jakir   absconded   away   and  
+                 were   declared   Proclaimed   Offender   vide   order   dated  
+                 09.01.2009.   The   trial   thereafter   proceeded   only   against  
+                 accused   Abidur   Rehman.     Subsequently   vide   a   detailed  
+                 judgment dated 06.01.2012 the then Ld. Predecessor of this  
+                 court  namely, Sh. H. S. Sharma acquitted accused Abidur  
+                 Rehman of all the charges giving him the benefit of doubt.  
+                 The prime consideration which prevailed with the Ld. Judge  
+                 while acquitting accused Abidur Rehman was that during the  
+                 course of trial the record of the Police Station vide which the  
+                 police party had allegedly left for the spot or later reached  
+                 back after apprehending the accused persons or the rukka  
+
+<span class="hidden_text" id="span_7">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   7 of 10</span>
+                  was sent to the police station from the spot and the copy of  
+                 FIR thereafter was sent back was called for. The Ld. Judge  
+                 after   detailed   analysis   of   the   said   record   vis­a­vis   the  
+                 statements   of   the   police   witnesses   so   examined   by   the  
+                 prosecution found inherent improbabilities in the entire story  
+                 as unfolded by the witnesses. Thus doubted that any such  
+                 incident   at   all   took   place.   No   public   witnesses   were  
+                 admittedly joined in the proceedings by the IO and Ld. Judge  
+                 also came to the  conclusion that in view of the said inherent  
+                 improbabilities, the entire story of the prosecution much less  
+                 the explanation furnished for non­joining of public witnesses  
+                 was highly doubtful.   The file was thereafter consigned to  
+                 record room u/s 299 <a href="/doc/445276/" id="a_13">Cr.P.C</a>. qua accused Shamim and Jakir  
+                 who   were   proclaimed   offenders.   Subsequently   accused  
+                 Shamim came to be apprehended and the present trial thus  
+                 proceeded against them. 
+</blockquote><blockquote id="blockquote_6">                                 At   this   stage,   I   may   also   mention   that   in   the  
+                 order   sheets   recorded   by   my   Ld.   predecessor   certain  
+                 confusion   arose   as   trial   of   the   present   case   was   being  
+                 continued with trial of one other matter i.e. FIR No. 102/05  
+                 PS   Ambedkar   Nagar   involving   the   same   accused   persons  
+                 and the order sheets happened to be recorded in common  in  
+                 the two cases.
+</blockquote><blockquote id="blockquote_7">                                 However I am setting the record straight now.  
+                 After   the   apprehension   of   accused   Shamim   deposition   of  
+                 remaining prosecution witnesses who were either earlier not  
+                 examined when accused Shamim was attending the trial or  
+                 were   examined   u/s   299   <a href="/doc/445276/" id="a_14">Cr.P.C</a>.   when   he   was   declared   a  
+                 Proclaimed Offender was recorded. The case was thereafter  
+                 adjourned for recording of the statement of accused u/s 313  
+                 <a href="/doc/445276/" id="a_15">Cr.P.C</a>. 
+</blockquote><blockquote id="blockquote_8">                                 Ld.   APP   thus   submitted   that   statement   of  
+                 accused u/s 313 <a href="/doc/445276/" id="a_16">Cr.P.C</a>. may be recorded but I am of the  
+                 considered view that in view of the detailed judgment passed  
+                 by   my   Ld.   Predecessor   which   is   based   on   cogent   and  
+                 convincing   reasoning,   the   very   basis   of   the   entire  
+                 prosecution case has become doubtful. In fact a perusal of  
+
+<span class="hidden_text" id="span_8">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   8 of 10</span>
+                  the said judgment which has since attained finality as it has  
+                 not been challenged either by the State or by anybody else  
+                 till   date   shows   that   the   records   of   the   Police   Station  
+                 completely belies the taking place of any such incident at all.  
+                 Thus it will be an exercise in futility   to continue with the  
+                 present trial much less recording the statement of accused  
+                 u/s 313 <a href="/doc/445276/" id="a_17">Cr.P.C</a>. From a perusal of the entire record coupled  
+                 with the judgment rendered by my Ld. predecessor it is thus  
+                 clear   that   no   incriminating   evidence   exists   on   record   as  
+                 against present accused Shamim for which he may be called  
+                 upon to explain.
+</blockquote><blockquote id="blockquote_9">                                 I   accordingly   hereby   dispense   away   with   the  
+                 recording of statement of accused u/s 313 <a href="/doc/445276/" id="a_18">Cr.P.C</a>. of accused  
+                 Shamim as there is no incriminating evidence which could  
+                 substantiate the charges against him. 
+</blockquote><blockquote id="blockquote_10">                                 Vide   my   separate   judgment   accused   Shamim  
+                 has   been   acquitted   for   the   offence   u/s   307/34   <a href="/doc/1569253/" id="a_19">IPC</a>   and  
+                 <a href="/doc/73862/" id="a_20">section 25</a> of the Arms Act. 
+</blockquote><blockquote id="blockquote_11">                                 Accused has been directed to furnish a personal  
+                 bond and surety bond in the sum of Rs.10,000/­ u/s 437A  
+                 <a href="/doc/445276/" id="a_21">Cr.P.C</a>.
+</blockquote><blockquote id="blockquote_12">                                 File be consigned to record room."
+</blockquote>
+<p id="p_19">19.                     In view of my aforesaid discussion it is thus crystal clear that 
+prosecution has miserably failed in proving its case against accused Mohd. 
+Shamim beyond shadows of all reasonable doubts. 
+</p>
+<p id="p_20">20.                     I accordingly hereby acquit accused Mohd. Shamin @ Chaman 
+of the offences U/s 307/34 <a href="/doc/1569253/" id="a_22">IPC</a> and<a href="/doc/73862/" id="a_23"> S. 25</a> Arms Act 1959 giving him the 
+benefit of doubt. 
+</p>
+<p id="p_21">21.                     Accused has been directed to furnish a personal bond in sum of 
+Rs. 10,000/­ with one surety in the like amount U/s 437 A <a href="/doc/445276/" id="a_24">Cr.PC</a>. 
+</p>
+<span class="hidden_text" id="span_9">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   9 of 10</span>
+<p id="p_22"> 22.                     In the aforesaid circumstances, I am of the considered opinion 
+that no fruitful purpose will be served by proceeding U/s 299 Cr. PC against 
+accused Zakir any longer as the prosecution case qua him also does not stand 
+proved. I accordingly acquit  accused Zakir  @ Guddu also in the present 
+case. The proclamation declaring accused Zakir @ Guddu a PO is hereby 
+recalled. 
+</p>
+<p id="p_23">23.                     File be consigned to Record Room 
+
+ANNOUNCED IN THE OPEN COURT    (BHARAT PARASHAR)
+TODAY i.e. 14.03.2014       Additional Sessions Judge-01
+                                  New Delhi District
+                               Patiala House Courts
+                                     New Delhi
+
+
+
+
+<span class="hidden_text" id="span_10">State Vs.Mohd. Shamim @ Chaman                                                                                                    Page No.   10 of 10</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

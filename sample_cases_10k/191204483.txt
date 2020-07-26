@@ -1,0 +1,510 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Naveen Kumar @ Naveen vs State Of Karnataka on 21 March, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/191204483/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 7 docs 
+      
+        - [<A HREF="/search/?formInput=cites:191204483">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1569253/">The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/763672/">Section 148 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1096965/">Section 143 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1258372/">Section 147 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/191204483/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/191204483/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/191204483/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Karnataka High Court</div>
+<div class="doc_title">Naveen Kumar @ Naveen vs State Of Karnataka on 21 March, 2019</div><div class="doc_author">Author: B.A.Patil</div>
+
+<pre id="pre_1">IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+
+     DATED THIS THE 21ST DAY OF MARCH, 2019
+
+                        BEFORE
+
+       THE HON'BLE MR.JUSTICE B.A. PATIL
+
+         CRIMINAL PETITION NO. 207/2019
+
+BETWEEN:
+
+Naveen Kumar @ Naveen
+S/o. Ellumalai
+Aged about 23 years
+R/at # 77, 2nd Cross
+Ramaswamypalya
+Kammana Halli Main Road
+Banasavadi
+Bangalore City - 560 043.                    ...Petitioner
+
+(By Sri M.V. Charati, Advocate)
+
+AND:
+State of Karnataka
+By Varthur Police
+Bangalore (R) District - 562 106.
+Represented by
+Learned SPP
+High Court of Karnataka
+Bangalore - 560 001.                     ...Respondent
+
+(By Sri. M. Divakar Maddur, HCGP)
+
+      This Criminal Petition is filed under <a href="/doc/1233094/" id="a_1">Section 439</a> of
+the Code of the Criminal Procedure Code praying to
+enlarge the petitioner on bail in Cr.No.134/2018
+                            -2-
+
+
+
+
+(C.C.No.6585/2018)    of   Varthur   Police   Station,
+Bangalore for the offences punishable under Sections
+143, 144, 147, 148, 341, 120B, 302 R/W 149 of <a href="/doc/1569253/" id="a_2">IPC</a>.
+
+      This Criminal Petition coming on for Orders this
+day the Court made the following:
+
+                       ORDER
+</pre>
+<p id="p_1">     The present petition has been filed by the
+
+petitioner/accused No.5 under <a href="/doc/1233094/" id="a_3">Section 439</a> of Cr.P.C.
+
+seeking his release on bail in Crime No.134/2018 of
+
+Varthur Police Station for the offences punishable under
+
+<a href="/doc/1233094/" id="a_4">Sections 143</a>, <a href="/doc/1233094/" id="a_5">144</a>, <a href="/doc/1233094/" id="a_6">147</a>, <a href="/doc/1233094/" id="a_7">148</a>, <a href="/doc/1233094/" id="a_8">341</a>, <a href="/doc/1233094/" id="a_9">302</a>, <a href="/doc/1233094/" id="a_10">120B</a> read with
+
+<a href="/doc/999134/" id="a_11">Section 149</a> of IPC.
+</p>
+<p id="p_2">
+</p><p id="p_3">     2.    I have heard the learned counsel for the
+
+petitioner and the learned High Court Government
+
+Pleader for respondent-State.
+</p>
+<p id="p_4">
+</p><p id="p_5">     3.    The brief facts of the case are that:
+
+     The complainant is second wife of the deceased.
+
+She got married with the deceased about ten years ago.
+
+The deceased had several cases in Banasavadi police
+<span class="hidden_text" id="span_1">                           -3-</span>
+
+
+
+
+station and he had gone to jail on several occasions.
+
+Subsequently, he was released on bail about one year
+
+back.   About three weeks prior to the incident, there
+
+was     a   quarrel   between     the   deceased     and
+
+accused No.1 - Nagaraja. It is alleged that her husband
+
+had assaulted accused No.1. Because of the said act,
+
+accused No.1 and his associates were grinding axe
+
+against the deceased. Accused No.13 was a friend of
+
+accused No.1. The deceased and accused No.1 were
+
+living in a room in Kolar. The complainant visited the
+
+room of her husband in Kolar to meet him. On
+
+17.05.2018 at about 5.00 p.m., the deceased told to
+
+complainant that he is going to see his children from his
+
+first wife and accordingly he went along with accused
+
+No.13 and one Abhi in a car. At 11.40 p.m., she received
+
+a telephone call stating that her husband was murdered
+
+near petrol bunk. She immediately rushed to the scene
+
+of occurrence and reached there at 2.30 a.m. There she
+
+saw the dead body of her husband and several injuries
+<span class="hidden_text" id="span_2">                             -4-</span>
+
+
+
+
+on his face, abdomen, legs and hands. When she asked
+
+Abhi, who had accompanied the deceased in a car, she
+
+came to know that they were going from Rayasandra
+
+towards Kodathi Gate and when they reached Kodathi
+
+Gate, accused Nos.1, 3, 4 and 5 came in a Scorpio car
+
+and obstructed the car and accused No.13 and other
+
+accused on account of previous enmity assaulted him
+
+with longs, choppers and knives etc., and committed
+
+murder of the deceased. On the basis of which, a case
+
+has been registered and charge sheet has also been
+
+filed.
+</p>
+<p id="p_6">
+</p><p id="p_7">         4.   It is the submission of the learned counsel
+
+for petitioner - accused No.5 that already charge sheet
+
+has been filed and CWs-2 to 4 are eye witnesses to the
+
+alleged incident. But they have not specifically stated
+
+that the petitioner - accused No.5 was present at the
+
+spot. He has also submitted that they have stated
+
+omnibus       statement   that    accused   persons   have
+<span class="hidden_text" id="span_3">                              -5-</span>
+
+
+
+
+assaulted.    Even   description      of   the    accused    who
+
+assaulted    whom    has    also    not    been    stated.   Test
+
+identification   parade    has     also    not   been   held   in
+
+accordance with law. It has to be held in police station.
+
+He further submitted that one Arun was also along with
+
+deceased and he has been left out from the charge
+
+sheet. He further submitted that the main witness was
+
+one Abhi, who accompanied the deceased in a car, and
+
+his statement has not been recorded and no other overt
+
+act has been held in this behalf. He further submitted
+
+that petitioner - accused No.5 is no way concerned to
+
+the alleged crime. He is ready to abide conditions
+
+imposed by this Court and ready to offer surety.               On
+
+these grounds, he prays to allow the petition and to
+
+release petitioner-accused No.5 on bail.
+
+
+</p><p id="p_8">      5.     Per contra, learned High Court Government
+
+Pleader vehemently argued and submitted that there is
+
+extra judicial confession made by the accused to one
+<span class="hidden_text" id="span_4">                          -6-</span>
+
+
+
+
+Bramhachari and Yogesh, wherein that he clearly stated
+
+that they have purchased lethal weapons and have
+
+assaulted the deceased. He further submitted that
+
+petitioner - accused No.5 has assaulted with iron long
+
+and caused grievous injuries to his chest and other
+
+parts of the body. Even Post Mortem report clearly
+
+indicates that the deceased has sustained grievous
+
+injuries and succumbed to the said injuries. He
+
+submitted that there are three eye witnesses to the
+
+alleged incident. If the petitioner-accused No.5 is
+
+enlarged on bail, he may abscond and may not be
+
+available for trial. On these grounds, he prays to
+
+dismiss the petition.
+</p>
+<p id="p_9">
+</p><p id="p_10">     6.    I have carefully and cautiously gone through
+
+the contents of the complaint and other materials,
+
+which has been produced along with the petition.
+
+
+</p><p id="p_11">     7.    As could be seen from the contents of the
+
+complaint and statement of eye witnesses i.e., CWs-2 to
+<span class="hidden_text" id="span_5">                                -7-</span>
+
+
+
+
+4, they stated that they have witnessed the alleged
+
+incident. But they have not specifically stated that who
+
+assaulted with which weapon on which part of the body
+
+of the deceased and they have also not stated the
+
+specific role of the petitioner-accused No.5 in the
+
+alleged    incident.    One   Abhi     has   accompanied       the
+
+deceased     and       he   stated    that   accused      persons
+
+intercepted the car and thereafter, they assaulted the
+
+deceased. But in the charge sheet materials, he has not
+
+been mentioned as a witness and his statement has not
+
+been recorded. That witness is considered to be a
+
+material    and    fatal    witness    to    the   case   of   the
+
+prosecution. If his statement is not before the Court
+
+below, then under such circumstances, statements of
+
+CWs-2 to 4 is also not going to help the case of the
+
+prosecution in any manner. This Court is conscious of
+
+the fact that brutal murder has taken place but without
+
+there being any cogent and acceptable evidence it
+
+cannot be said that it is the accused who has caused
+<span class="hidden_text" id="span_6">                            -8-</span>
+
+
+
+
+death of the deceased. Though in the charge sheet
+
+papers it disclose that the said Abhi who accompanied
+
+the deceased in the car could not be traced after the
+
+incident, even till filing of the charge sheet, it is not a
+
+ground to give an excuse to Investigating Agency and
+
+during the said period, if he has not been traced and his
+
+statement has not been recorded, then under such
+
+circumstances, the benefit of doubt should be given to
+
+the accused. Under such circumstance, there is no
+
+specific overt-acts alleged against petitioner-accused
+
+No.5. That too, already when the charge sheet is filed, I
+
+feel that by imposing some stringent conditions, if the
+
+accused petitioner is ordered to be released on bail, it is
+
+going to meet the ends of justice.        In the light of
+
+discussions held by me above, petition is allowed.
+
+
+</p><p id="p_12">     8.    Petitioner/accused No.5 is enlarged on bail
+
+in Crime No.134/2018 of Varthur Police Station for the
+
+offences punishable under <a href="/doc/1096965/" id="a_12">Sections 143</a>, <a href="/doc/1196530/" id="a_13">144</a>, <a href="/doc/1258372/" id="a_14">147</a>, <a href="/doc/763672/" id="a_15">148</a>,
+<span class="hidden_text" id="span_7">                             -9-</span>
+
+
+
+
+341, 120B, 302 R/W 149 of <a href="/doc/1569253/" id="a_16">IPC</a> subject to the following
+
+conditions:
+</p>
+<p id="p_13">  1. Petitioner/accused     No.5   shall   execute   a
+      personal bond for a sum of Rs.2,00,000/-
+      (Rupees Two lakhs only) with two sureties
+      for the likesum to the satisfaction of the trial
+      Court.
+</p><p id="p_14">  2. He shall not leave the jurisdiction of the
+      Court without prior permission.
+</p><p id="p_15">  3. He shall mark his attendance once in 15
+      days between 10.00 a.m., and 5.00 p.m.,
+      before the jurisdictional police station till the
+      trial is concluded.
+</p><p id="p_16">  4. He shall not tamper with the prosecution
+      evidence directly or indirectly.
+</p><p id="p_17">  5. He shall not indulge in similar type of
+      activities. If he again indulges in similar type
+      of activities, the Court below is at liberty to
+      cancel the bail.
+</p>
+<p id="p_18">
+</p><p id="p_19">                                             SD/-
+</p><p id="p_20">                                            JUDGE
+
+
+nms
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

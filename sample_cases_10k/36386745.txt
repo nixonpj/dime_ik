@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Dinesh Kumar.P vs Unknown on 19 July, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/36386745/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 2 docs 
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/37788/">Section 34 in The Indian Penal Code</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/36386745/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/36386745/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/36386745/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- ik_doc_fragment_skyscraper -->
+      <ins class="adsbygoogle"
+       style="display:inline-block;width:160px;height:600px"
+       data-ad-client="ca-pub-8449310684598476"
+       data-ad-slot="2662051940"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Kerala High Court</div>
+<div class="doc_title">Dinesh Kumar.P vs Unknown on 19 July, 2019</div><pre id="pre_1">             IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+                             PRESENT
+
+                THE HONOURABLE MR. JUSTICE P.UBAID
+
+      FRIDAY, THE 19TH DAY OF JULY 2019 / 28TH ASHADHA, 1941
+
+                     Crl.M.C.No.3399 of 2019
+
+      CRIME NO.400/2019 OF Parippally Police Station, Kollam
+
+
+
+PETITIONER/ACCUSED NOS.2,1,3 :
+
+
+      1      DINESH KUMAR.P, S/O. PURUSHOTHAMA PILLAI,
+             VALLABHAM VILA VEEDU, NADAKKAL,
+             KALLUVATHUKKAL, KOLLAM.
+
+      2      SIJI BABU, S/O. BABU,
+             VRINDAVANAM, MEVANAKONAM, KALLUVATHUKKAL.
+
+      3      LIJU R, S/O. RAJASEKARA PILLAI,
+             2/456, LIJA BHAVAN, NADAKKAL,
+             KALLUVATHUKKAL, KOLLAM.
+
+             BY ADV. SRI.V.VINAR
+
+RESPONDENTS/STATE &amp; DE FACTO
+:
+       1     STATE OF KERALA,
+             REPRESENTED BY THE PUBLIC PROSECUTOR,
+             HIGH COURT OF KERALA, ERNAKULAM-682031.
+
+      2      SUB INSPECTOR OF POLICE,
+             PARIPPALLY POLICE STATION, KOLLAM-690001.
+
+      3      RAHUL PRASAD M., S/O. C MURALEEDHARAN PILLAI,
+             RENJU BHAVAN, MEVANAKONAM,
+             KALLUVATHUKKAL, KOLLAM.
+
+      4      SREEHARI.A, S/O. SUSEELA DEVI, 18/455,
+             VARAZHIKATHU VEEDU, MAVANAKONAM,
+             KALLUVATHUKKAL, KOLLAM.
+
+             BY ADV. SRI.M.R.SASITH
+
+OTHER PRESENT:
+             SRI RAMESH CHAND-PP
+
+
+THIS CRIMINAL MISC. CASE HAVING COME UP FOR ADMISSION ON
+19.07.2019, THE COURT ON THE SAME DAY PASSED THE FOLLOWING:
+ Crl.M.C.No.3399 of 2019
+                                   2
+
+
+
+
+                              ORDER
+</pre>
+
+<p id="p_1">          The petitioners seek orders quashing the F.I.R and further
+
+proceedings in Crime No.400 of 2019 of the Parippally Police Station,
+
+registered under Sections 294(b), 323, 324, 341 read with <a href="/doc/37788/" id="a_1">Section
+
+34</a> IPC on the complaint of one Rahul Prasad. Orders are sought on
+
+the ground of amicable settlement of the whole dispute between the
+
+accused and the defacto complainant out of court.          The defacto
+
+complainant is the 3rd respondent in this proceeding brought under
+
+<a href="/doc/1233094/" id="a_2">Section 482</a> of the Code of Criminal Procedure. He has filed affidavit
+
+to the effect that he has settled the whole dispute with the accused,
+
+and he has no grievance or complaint. The person who sustained
+
+injuries in the alleged incident is the 4 th respondent. He has filed
+
+affidavit to the effect that he has settled the dispute with the
+
+accused, and he has no grievance or complaint now.
+
+</p><p id="p_2">          2.    In so many decisions, the Hon'ble Supreme Court
+
+has held that even in cases involving non-compoundable offences,
+
+the High Court can quash the prosecution; be it at the crime stage
+
+or at the trial stage or even at the appellate or revision stage; if the
+
+parties have really settled the whole dispute, or if continuance of
+
+the prosecution will not serve any purpose. Here, I find a real case
+ Crl.M.C.No.3399 of 2019
+<span class="hidden_text" id="span_1">                                   3</span>
+
+of settlement between the parties, and I also find that continuance
+
+of the prosecution in such a situation will not serve any purpose
+
+other than wasting the precious time of the court, when the case
+
+ultimately comes before the court. A counter case has also been
+
+settled between the parties.
+</p>
+<p id="p_3">          In the result, this petition is allowed. The F.I.R and further
+
+proceedings in Crime No.400 of 2019 of the Parippally Police Station
+
+will stand quashed under <a href="/doc/1233094/" id="a_3">Section 482</a> of the Code of Criminal
+
+Procedure.
+</p>
+<p id="p_4">
+</p><p id="p_5">                                                  Sd/-</p><pre id="pre_2">
+
+                                              P.UBAID
+rkj                                             JUDGE
+ Crl.M.C.No.3399 of 2019
+<span class="hidden_text" id="span_2">                               4</span>
+
+
+
+
+                           APPENDIX
+
+
+PETITIONER'S/S EXHIBITS:
+
+ANNEXURE A1          TRUE COPY OF FIR NO 400/2019 FILED BY THE
+                     2ND RESPONDENT
+
+ANNEXURE A2          AFFIDAVIT SWORN BY THE 3RD RESPONDENT.
+
+ANNEXURE A3          AFFIDAVIT SWORN BY THE 3RD RESPONDENT.
+ </pre> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

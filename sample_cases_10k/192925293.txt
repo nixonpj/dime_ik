@@ -1,0 +1,491 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Rachpal Singh vs State And Anr. on 28 September, 2018</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/192925293/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 13 docs 
+      
+        - [<A HREF="/search/?formInput=cites:192925293">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/621703/">Section 195 in The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1432790/">Section 188 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/445276/">The Code Of Criminal Procedure,   1973</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1326525/">The Jammu And Kashmir (Extension Of Laws) Act,   1956</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/686759/">Section 190 in The Code Of Criminal Procedure,   1973</A></div>
+      
+    
+
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/192925293/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/192925293/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/192925293/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Jammu & Kashmir High Court</div>
+<div class="doc_title">Rachpal Singh vs State And Anr. on 28 September, 2018</div><pre id="pre_1">                  HIGH COURT OF JAMMU AND KASHMIR
+
+                                   AT JAMMU
+
+CRMC No. 68/2013 &amp; IA Nos.01/2018 &amp; 83/2013
+                                                        Date of order:28.09.2018
+
+Rachpal Singh                          Vs.            State of J&amp;K and another
+Coram:
+
+       Hon'ble Mr. Justice Sanjay Kumar Gupta, Judge
+
+Appearing counsel:
+For Petitioner(s)  :       Mr. Rahul Pant, Advocate
+For respondent (s) :       Mr. C. M. Koul, Sr. AAG
+
+i)    Whether to be reported in
+      Digest/Journal                   :      Yes/No.
+ii)   Whether approved for reporting
+      in Press/Media                   :      Yes/No.
+
+1.    Through the instant writ petition filed under <a href="/doc/445276/" id="a_1">Section 561-A</a> of the Code
+      of Criminal Procedure (hereinafter for short, <a href="/doc/445276/" id="a_2">Cr.P.C</a>), the petitioner seeks
+      following relief:-
+             "Quash the FIR No.30 of 2012 dated 27th March,
+             2012 registered with Police Station,    Gangyal,
+             Jammu for commission of offence under Section 188
+             RPC and Section 13/14/16/21 J&amp;K Brick Kiln
+             (Regulations) Act, 2010 and consequential
+             investigation conducted so far."
+
+2.    The petitioner claims to be the proprietor of Shiva Brick Kiln which is
+      engaged in the manufacture of the bricks at Village Sikanderpur, Tehsil
+      and District Jammu. It is stated that petitioner has been issued licence by
+      the Licensing Authority for running the aforesaid Brick Kiln and the said
+      license has been renewed upto 31.03.2013.
+3.    Learned counsel for the petitioner submits that on 27 th March, 2012
+      about 7.00 a.m., petitioner came to know that the bricks which were
+
+
+CRMC No.68/2013                                                        Page 1 of 9
+       being carried away by the purchasers after the purchase from the
+      premises of the Brick Kiln, have been seized by Police at Police Station,
+      Gangyal, Jammu. It is stated that on the same day i.e., 27th March, 2012
+      an FIR No.30 of 2112 for commission of offence under Section 188 RPC
+      and Section 13/14/16/21 of the J&amp;K Brick Kiln (Regulations), Act 2010,
+      came to be registered by the Incharge Police Station, Gangyal. It is stated
+      that entire facts of the aforesaid FIR were manipulated for ulterior
+      motives, as it is impossible to have communication generated from the
+      office of the Deputy Commissioner, Jammu more particularly, when the
+      office time in the month of March is 10.00 a.m to 4.00 p.m. It is further
+      stated that even before the commencement of the investigation and after
+      the registration of FIR, the vehicle had been seized. It is further stated
+      that inasmuch as the FIR is registered on 27th March, 2012, the bricks are
+      seized on the same day in the morning and in the FIR the communication
+      which forms the basis of the FIR shows that the Deputy Commissioner
+      has alleged that the office has received report from the Legal Metrology
+      Department about the examination of the Bricks.
+4.    Learned counsel for the petitioner states that an application was filed
+      before the Magistrate seeking status report in the FIR. It is stated that
+      perusal of the status report submitted before the Magistrate would reveal
+      that it is admitted by the Investigation Officer that after the registration
+      of the FIR when investigation was entrusted to him, he seized the bricks
+      and thereafter he seized 10 bricks each from the said vehicles for the
+      purpose of their examination. It is stated that when the seizure of the
+      bricks was made after the registration of the FIR, then it is not
+      understandable as to how the District Magistrate in his communication
+      has reported to the Police about his having already received the report
+      from the Legal Metrology Department. Further, the report submitted
+      before the Magistrate shows that the Investigating Officer has himself
+      admitted that the case is non-cognizable in nature, but even then
+
+CRMC No.68/2013                                                       Page 2 of 9
+       investigation in FIR has not been closed so far. It is stated that even if the
+      allegations leveled in the FIR are taken on their face value and accepted
+      in their entirety, even then they do not constitute any cognizable offence
+      justifying the registration of FIR and investigation by the Police Officer.
+      It is further stated that there is legal bar in the J&amp;K Brick Kiln
+      (Regulations) Act, 2010 to take cognizance of the offence under the said
+      Act and offences under the said Act are non-cognizable. Therefore,
+      respondent No. 2 has no jurisdiction to register the FIR and start the
+      investigation as he is not the licensing authority. It is stated that
+      admittedly Deputy Commissioner is the licensing authority and the
+      cognizance of the offence under this Act can only be taken by the Court
+      on a complaint made by the Deputy Commissioner.
+5.    It is submitted that consignment of the bricks which has been purchased
+      by the purchaser was given to him along with the bill and the said bill has
+      been seized by the Investigating Officer and one copy of the bill was
+      with the purchaser also, therefore, it is not understandable as to how the
+      petitioner is being saddled with the liability under Section 16 of the J&amp;K
+      Brick Kiln (Regulations) Act, 2010 when the purchaser was carrying the
+      bricks along with the bills.
+6.    Learned counsel for the petitioner further states that under Section 22 of
+      the J&amp;K Brick Kiln (Regulations) Act 2010, the offence is non-
+      cognizable as such, no FIR can be registered by the Police under <a href="/doc/1316937/" id="a_3">Section
+      22</a>.
+7.    It is further stated that malafide of the respondent No. 2 can be judged
+      from the fact that on one communication of the Deputy Commissioner,
+      Jammu, vehicles are seized and the respondent No. 2 himself comments
+      that the offence is non-cognizable. In the said communication of the
+      Deputy Commissioner, the Naka was laid, vehicles seized, drivers
+      arrested. Consequently, the aforesaid communication is found to have
+      been made the basis of registration of the FIR and seizure of the said
+
+CRMC No.68/2013                                                         Page 3 of 9
+       bricks for the purposes. It is stated that it is not understandable as to how
+      the respondent No.2 has given his observations that the offence is not
+      cognizable. This act of the respondents shows the malafide exercise of
+      power for ulterior motives to harass the brick kiln owners.
+8.    It is stated that offence under Section 188 RPC has been unfortunately
+      saddled by the respondent No. 2 illegally as he has not even bothered to
+      see the contents of Section 188 RPC.
+9.    Learned counsel for the petitioner states that provisions of Section 188
+      RPC have been invoked to deliberately register the FIR and to harass the
+      petitioner.
+10.   I have considered the rival contentions. I have also gone through the
+      relevant law in this regard.
+11.   From the perusal of FIR No.30/2012, it reveals that petitioner has been
+      booked u/s sections 13/14/16/21 of the J&amp;K Brick Kiln (Regulations),
+      Act 2010 and under Section 188 RPC.
+12.   <a href="/doc/1326525/" id="a_4">Section 13</a> of The Jammu &amp; Kashmir Brick Kiln (Regulations), Act
+      2010, deals with Fixation of Price of bricks by the Government for the
+      whole State or for different areas thereof and different prices may be
+      fixed for different kinds of bricks having regard to the weight, size and
+      compressive strength of bricks. <a href="/doc/1326525/" id="a_5">Section 14</a> of the Act, specifies Quality
+      of Bricks manufactured by the licenced kiln owner which shall conform
+      to the standards set for such product by the Indian Bureau of Standards.
+      <a href="/doc/1326525/" id="a_6">Section 16</a> deals with Sale Bill that every consignment of bricks whether
+      carried by vehicles, carts or any other mode, shall invariably be
+      accompanied by a valid sale bill as prescribed under law in force. <a href="/doc/1326525/" id="a_7">Section
+      21</a> defines Penalties; that if any person contravenes or abets
+      contravention of any of the provisions of this Act or the rules made
+      thereunder, he shall be punished with imprisonment for a term which
+      may extend to two years or with the fine which may extend to fifty
+      thousand or with both.
+
+CRMC No.68/2013                                                        Page 4 of 9
+ 13.   Section 22 of J&amp;K Brick Kiln (Regulations), Act 2010 reads as under:-
+             "22. Cognizance of Offence.-
+             No court shall take cognizance of any offence
+             punishable under the Act except on the report in
+             writing of the facts constituting such offence made by
+             the licensing authority or any person duly authorized
+             by the Government in this regard."
+
+14.   From bare perusal of this section, it is clear that cognizance of offences
+      under sections 13/14/16/21 of the J&amp;K Brick Kiln (Regulations), Act
+      2010 can be taken by the Court on the report filed by the licensing
+      authority or any other person duly authorized by the government in this
+      behalf. But in present case, it is not so as no such report has been filed by
+      licensing authority or any other person duly authorized by the
+      government.
+15.   Section 188 RPC reads as under:-
+                  188. Disobedience to order duly promulgated by public servant.--
+                  Whoever, knowing that, by an order promulgated by a public servant
+                  lawfully empowered to promulgate such order, he is directed to abstain
+                  from a certain act, or to take certain order with certain property in his
+                  possession or under his management, disobeys such direction;
+                  shall if such disobedience causes or tends to cause obstruction,
+                  annoyance or injury, or risk of obstruction, annoyance or injury, to any
+                  person lawfully employed, be punished with imprisonment which may
+                  extend to one year and shall also be liable to fine;
+                  and if such disobedience causes or tends to cause danger to human life,
+                  health or safety, or causes or tends to cause a riot or affray, shall be
+                  punished with imprisonment which shall not be less than three months
+                  but may extend to two years and shall also be liable to fine.
+                  Explanation.--It is not necessary that the offender should intend to
+                  produce harm, or contemplate his disobedience as likely to produce
+                  harm. It is sufficient that he knows of the order which he disobeys, and
+                  that his disobedience produces, or is likely to produce, harm.
+                  Illustration An order is promulgated by a public servant lawfully
+
+
+
+CRMC No.68/2013                                                               Page 5 of 9
+                    empowered to promulgate such order, directing that a religious
+                   procession shall not pass down a certain street. A knowingly disobeys
+                   the order, and thereby causes danger of riot. A has committed the
+                   offence defined in this section."
+16.   Section 188 RPC thus has following essentials:-
+             1.    That there must be an order promulgated by the public
+                   servant;
+             2.    That the public servant must have been fully empowered to
+                   promulgate such order;
+             3.    That the person having knowledge of such order and
+                   directed by such order;
+
+                   (a)      to abstain from certain act; or
+                   (b)      to take certain order with certain property in his
+                   possession or under his management, has disobeyed such
+                   direction.
+
+             4.    That such disobedience causes or intends to cause;
+
+             (i)   Obstruction, annoyance or injury or risk of it, to any person
+                   lawfully employed; or
+             (ii) Danger to human life, health or safety
+             (iii) A riot or affray.
+
+
+17.   In present case, no such promulgation issued by the public servant has
+      been place on record. Further, <a href="/doc/621703/" id="a_8">section 195</a> of Cr.P.C. reads as under:-
+             "195. (1) No Court shall take cognizance-
+
+             (a)     Prosecution for contempt of lawful authority of public
+             servants.- Of any offence punishable under Sections 172 to 188 of the
+             Ranbir Penal Code, except on a complaint in writing of public servant
+             concerned, or of some other public servant to whom he is subordinate
+             .
+</pre><p id="p_1">             (b)     -----------------------
+</p><p id="p_2">             This provision prescribes as an exception to general rule continued in
+             <a href="/doc/686759/" id="a_9">section 190</a> Cr.p.c that any person can set criminal law in motion by
+             making complaint; because it prohibits the court from taking
+             cognizance of certain offences ( 172-188 RPC ) or otherwise even
+             entertaining the complaint by court ,unless it is moved by specific
+             authority. This bar is applicable to both cognizable and non-
+             cognizable offences."
+</p>
+<p id="p_3">18.   In AIR 2010 SC 3718 in case titled C. Muniappan v. State of Tamil
+      Naidu, it is held as under:-
+</p>
+
+
+<span class="hidden_text" id="span_1">CRMC No.68/2013                                                               Page 6 of 9</span>
+<blockquote id="blockquote_1">              The test of whether there is evasion or non-compliance of <a href="/doc/621703/" id="a_10">Section
+             195</a> Cr.PC or not, is whether the facts disclose primarily and essentially
+             an offence for which a complaint of the court or of a public servant is
+             required. <a href="/doc/1772662/" id="a_11">In Basir-ul-Haq &amp; Ors. v. The State of West Bengal</a>, AIR 1953
+             SC 293; and <a href="/doc/1749633/" id="a_12">Durgacharan Naik &amp; Ors v. State of Orissa</a>, AIR 1966 SC
+             1775, this Court held that the provisions of this Section cannot be evaded
+             by describing the offence as one being punishable under some other
+             sections of <a href="/doc/1569253/" id="a_13">IPC</a>, though in truth and substance, the offence falls in a
+             category mentioned in <a href="/doc/445276/" id="a_14">Section 195Cr</a>.PC. Thus, cognizance of such an
+             offence cannot be taken by mis-describing it or by putting a wrong label
+             on it.
+</blockquote>
+<blockquote id="blockquote_2">             22. <a href="/doc/504950/" id="a_15">In M.S. Ahlawat v. State of Haryana &amp; Anr</a>., AIR 2000 SC 168, this
+             Court considered the matter at length and held as under :
+</blockquote>
+<blockquote id="blockquote_3">             "....Provisions of <a href="/doc/621703/" id="a_16">Section 195</a> CrPC are mandatory and no court has
+             jurisdiction to take cognizance of any of the offences mentioned therein
+             unless there is a complaint in writing as required under that section."
+             (Emphasis added)
+
+</blockquote><blockquote id="blockquote_4">             23. <a href="/doc/1743953/" id="a_17">In Sachida Nand Singh &amp; Anr. v. State of Bihar &amp; Anr</a>., (1998) 2 SCC
+             493, this Court while dealing with this issue observed as under :
+</blockquote>
+<blockquote id="blockquote_5">             "7. ..<a href="/doc/686759/" id="a_18">Section 190</a> of the Code empowers "any magistrate of the first class"
+             to take cognizance of "any offence" upon receiving a complaint, or police
+             report or information or upon his own knowledge. <a href="/doc/621703/" id="a_19">Section 195</a> restricts
+             such general powers of the magistrate, and the general right of a person
+             to move the court with a complaint to that extent curtailed. It is a well-
+             recognised canon of interpretation that provision curbing the general
+             jurisdiction of the court must normally receive strict interpretation
+             unless the statute or the context requires otherwise." (Emphasis
+             supplied)
+
+</blockquote><blockquote id="blockquote_6">             24. <a href="/doc/1745504/" id="a_20">In Daulat Ram v. State of Punjab</a>, AIR 1962 SC 1206, this Court
+             considered the nature of the provisions of <a href="/doc/621703/" id="a_21">Section 195</a> Cr.PC. In the said
+             case, cognizance had been taken on the police report by the Magistrate
+             and the appellant therein had been tried and convicted, though the
+             concerned public servant, the Tahsildar had not filed any complaint. This
+             Court held as under:
+</blockquote>
+<blockquote id="blockquote_7">             "The cognizance of the case was therefore wrongly assumed by the court
+             without the complaint in writing of the public servant, namely, the
+             Tahsildar in this case. The trial was thus without jurisdiction ab initio
+             and the conviction cannot be maintained. The appeal is, therefore,
+             allowed and the conviction of the appellant and the sentence passed on
+             him are set aside." (Emphasis added)
+</blockquote><blockquote id="blockquote_8">             25. Thus, in view of the above, the law can be summarized to the effect
+             that there must be a complaint by the pubic servant whose lawful order
+             has not been complied with. The complaint must be in writing. The
+             provisions of <a href="/doc/445276/" id="a_22">Section 195Cr</a>.PC are mandatory. Non-compliance of it
+             would vitiate the prosecution and all other consequential orders. The
+
+
+<span class="hidden_text" id="span_2">CRMC No.68/2013                                                           Page 7 of 9</span>
+              Court cannot assume the cognizance of the case without suchcomplaint.
+             In the absence of such a complaint, the trial and conviction will be void
+             ab initio being without jurisdiction.
+</blockquote>
+<blockquote id="blockquote_9">             26. Learned counsel for the appellants have submitted that no charge
+             could have been framed under <a href="/doc/1432790/" id="a_23">Section 188</a> IPC in the absence of a
+             written complaint by the officer authorised for that purpose, the
+             conviction under <a href="/doc/1432790/" id="a_24">Section 188</a> IPC is not sustainable. More so, it falsifies
+             the very genesis of the case of the prosecution as the prohibitory orders
+             had not been violated, no subsequent incident could occur. Thus, entire
+             prosecution case falls.
+</blockquote>
+<blockquote id="blockquote_10">             27. Undoubtedly, the law does not permit taking cognizance of any
+             offence under <a href="/doc/1432790/" id="a_25">Section 188</a> IPC, unless there is a complaint in writing by
+             the competent Public Servant. In the instant case, no such complaint had
+             ever been filed. In such an eventuality and taking into account the settled
+             legal principles in this regard, we are of the view that it was not
+             permissible for the trial Court to frame a charge under <a href="/doc/1432790/" id="a_26">Section 188</a> IPC.
+             However, we do not agree with the further submission that absence of a
+             complaint under <a href="/doc/621703/" id="a_27">Section 195</a> Cr.PC falsifies the genesis of the
+             prosecution's case and is fatal to the entire prosecution case. There is
+             ample evidence on record to show that there was a prohibitory order;
+             which had been issued by the competent officer one day before; it had
+             been given due publicity and had been brought to the notice of the public
+             at large; it has been violated as there is no denial even by the accused
+             persons that there was no `Rasta Roko Andolan'. Unfortunately, the
+             agitation which initially started peacefully turned ugly and violent when
+             the public transport vehicles were subjected to attack and damage. In
+             such an eventuality, we hold that in case the charges under <a href="/doc/1432790/" id="a_28">Section
+             188</a> IPC are quashed, it would by no means have any bearing on the case
+             of the prosecution, so far as the charges for other offences are
+             concerned."
+</blockquote>
+<p id="p_4">19.   In view of above law, it is quite clear that Court cannot take cognizance
+      on police report for violation of Section 188 RPC unless a complaint in
+      writing is made by the competent Public Servant who has issued
+      promulgation or of some other public servant to whom he is subordinate.
+      Similarly section 22 of J&amp;K Brick Kiln (Regulations), Act 2010 debars
+      court from taking cognizance without report being filed by competent
+      authority. Complaint has been defined in <a href="/doc/1329373/" id="a_29">Section 4(e)</a> Cr.PC, which
+      means allegation made orally or in writing to a Magistrate, with a view to
+      his taking action under the code, that some person, whether known or
+      unknown, has committed an offence, but does not include the report of
+
+
+
+<span class="hidden_text" id="span_3">CRMC No.68/2013                                                            Page 8 of 9</span>
+       police officer. So police cannot lodge FIR and investigate the matter in
+      view of this definition.
+</p><p id="p_5">20.   In view of above discussion and law on the point, this petition is
+      allowed. FIR No.30 of 2012 dated 27th March, 2012 registered with
+      Police Station, Gangyal, Jammu for commission of offence under Section
+      188 RPC and Section 13/14/16/21 J&amp;K Brick Kiln (Regulations) Act,
+      2010 is quashed.
+</p>
+<p id="p_6">                                                   (Sanjay Kumar Gupta)
+                                                                 Judge
+Jammu
+28.09.2018
+Bir
+
+
+
+
+<span class="hidden_text" id="span_4">CRMC No.68/2013                                                   Page 9 of 9</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>

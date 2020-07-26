@@ -1,0 +1,601 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    
+    <link type="text/css" href="/static/jquery-ui.min.css" rel="stylesheet">
+    <link type="text/css" href="/static/jquery-ui.theme.min.css" rel="stylesheet">
+    
+        <LINK REL="stylesheet" TYPE="text/css" HREF="/static/search_desktop_v15.css">
+    
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87326-4', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+    <TITLE>Ashok Malhotra vs State (Govt Of Nct Delhi) &amp; Anr on 1 November, 2019</TITLE>
+    
+    
+</head>
+
+<body>
+    
+        <form method="post" action="/change_device/?device=mobile&amp;nextpage=/doc/76648821/"><input type="submit" id="website_device" value="Mobile View"></form>
+    
+
+    
+<div style="text-align: center;">
+  <A CLASS="doctop_links" HREF="/">Main Search</A>
+  <A CLASS="doctop_links" HREF="/members/">Premium Members</A>
+  <A CLASS="doctop_links" HREF="/advanced.html">Advanced Search</A>
+  <A CLASS="doctop_links" HREF="/disclaimer.html"> Disclaimer</A>
+</div>
+
+
+
+
+  <div CLASS="doc_cite">
+    
+
+      <div CLASS="doc_cite_head"> Cites 13 docs 
+      
+        - [<A HREF="/search/?formInput=cites:76648821">View All</A>]
+      
+      </div>
+
+      
+          <div class="cite_title"><A HREF="/doc/1233094/">The Code Of Criminal Procedure (Amendment) Act,   2005</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1133601/">Section 325 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/1011035/">Section 323 in The Indian Penal Code</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/167447/">The Probation of Offenders Act, 1958</A></div>
+      
+          <div class="cite_title"><A HREF="/doc/106795343/">Shakeel Ahmed vs State (Nct Of Delhi) And Others on 26 May, 2015</A></div>
+      
+    
+
+    
+
+      <div CLASS="doc_cite_head"> Citedby 0 docs
+      
+      </div>
+
+      
+          <div CLASS="cite_title"><A HREF="/doc/193741176/">Ca No.78/19 vs State (Govt. Of Nct) Of Delhi on 8 November, 2019</A></div>
+      
+          <div CLASS="cite_title"><A HREF="/doc/26719319/">Hari Bahadur Singh vs State Of U.P. &amp; 2 Others on 18 November, 2019</A></div>
+      
+    
+    <br>
+  </div>
+
+
+
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-hdr.gif" alt="advertisement" width="740px"/></a>
+</div>
+
+<div class="doc_research">
+        
+
+
+</div>
+
+<div CLASS="doc_title"> 
+  
+</div>
+
+    <div>
+      <form style="display:inline;" method="POST" action="/doc/76648821/">
+        <input type="hidden" name="type"   value="pdf">
+        <input type="submit" value="Get this document in PDF">
+      </form>
+      <form style="display:inline;" method="POST" action="/doc/76648821/">
+        <input type="hidden" name="type"   value="print">
+        <input type="submit" value="Print it on a file/printer">
+      </form>
+      
+      <form style="display:inline;" method="POST" action="/doc/76648821/">
+        <input type="hidden" name="type"   value="actual">
+        <input type="submit" value="View the actual judgment from court">
+      </form>
+      	   
+    </div>
+  
+
+<div class="right_doc_nav">
+  
+  
+
+  
+<div style="margin-bottom:10px;">
+    <a href="https://lawsikho.com/book/flying-start/index-ik.html"><img src="/static/pics/lawsikho-dekstop-sidebar.gif" alt="advertisement"/></a>
+</div>
+  
+</div>
+
+<div class="ad_doc">
+    <p>Try out our <b>Premium Member</b> services: <b>Virtual Legal Assistant</b>,  <b>Query Alert Service</b> and an ad-free experience. <a href="/members/">Free for one month</a> and pay only if you like it.</p>
+
+</div>
+
+
+    <div CLASS="judgments">
+      <div class="docsource_main">Delhi High Court</div>
+<div class="doc_title">Ashok Malhotra vs State (Govt Of Nct Delhi) &amp; Anr on 1 November, 2019</div><pre id="pre_1">      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%                                   Judgment delivered on: 01.11.2019
+
+ +      W.P.(CRL) 2576/2018 &amp; CRL.M.A. 31082/2018
+
+ASHOK MALHOTRA                                            ..... Petitioner
+                           versus
+
+STATE (GOVT OF NCT DELHI) &amp; ANR                        ..... Respondents
+
+Advocates who appeared in this case:
+For the Petitioner:  Mr Sanobar Ali, Advocate.
+For the Respondent:  Mr Rajesh Mahajan, ASC with Mr Jyoti
+                     Babbar, Advocates for state.
+                     SI Rahul, P.S. Shahdara.
+                     Mr Manjeet Singh and Mr S. Gupta,
+                     Advocates for R-2.
+
+CORAM
+HON'BLE MR JUSTICE VIBHU BAKHRU
+                             JUDGMENT
+</pre>
+<p id="p_1">VIBHU BAKHRU, J
+
+</p><p id="p_2">1.      The petitioner has filed the present petition impugning an order
+dated 04.06.2018 (hereafter 'the impugned order') passed by the learned
+District and Sessions Judge, Shahdara District, Karkardooma Courts,
+Delhi in Criminal Appeal No. 1230/2016.
+</p>
+<p id="p_3">2.      Respondent no.2 (the complainant) had stated that the petitioner,
+who is the elder brother of the complainant's husband (jeth) lived on the
+first floor of the property bearing House No. 1/6896, East Rohtash
+Nagar, Shahdara, Delhi - 110031. She had stated that the petitioner
+desired to live on the ground floor of the said property and wanted the
+
+
+
+<span class="hidden_text" id="span_1">W.P.(CRL) 2576/2018                                            Page 1 of 13</span>
+ complainant and her family to leave the said property. She alleged that
+in the aforesaid context, on 02.07.2006 at about 11:45 a.m., the
+petitioner had hurled abuses at her and had hit the complainant on her
+face (below her left eye) with a GI Pipe (iron pipe). She had stated that
+this was informed to the police and the complainant and her husband
+were taken by the police to GTB Hospital for a medical examination.
+An FIR (bearing FIR No. 295/2006 under <a href="/doc/1133601/" id="a_1">Section 325</a> of the IPC)
+regarding the said incident was registered with PS Shahdara and a case
+was sent to trial.
+</p>
+<p id="p_4">3.      The Trial Court, by an order dated 28.09.2010, framed a charge
+against the petitioner for the commission of an offence under <a href="/doc/1011035/" id="a_2">Section
+323</a> of the IPC.
+</p>
+<p id="p_5">4.      On 03.03.2015, the petitioner submitted before the Trial Court
+that the disputes between him and the complainant (who is the wife of
+his younger brother) had continued for a number of years. In addition,
+other litigation regarding property in question had also ensued between
+the parties. He submitted that he was finding it difficult to appear in
+court repeatedly and had attempted to compromise the matters with the
+complainant but she had refused the same. He stated that in the
+circumstances, he desired to plead guilty for the offence for which he
+was charged, that is, an offence under <a href="/doc/1011035/" id="a_3">Section 323</a> of the IPC.
+</p>
+<p id="p_6">5.      In view of the aforesaid statement on 03.03.2015, the Trial Court
+convicted the accused for the offence under <a href="/doc/1011035/" id="a_4">Section 323</a> of the IPC.
+Considering the facts of the case, the Trial Court also imposed the
+
+
+
+
+<span class="hidden_text" id="span_2">W.P.(CRL) 2576/2018                                            Page 2 of 13</span>
+ punishment of admonishing the petitioner. It also clarified that the
+conviction would not attract any disqualification as per the <a href="/doc/167447/" id="a_5">Probation of
+Offenders Act</a>, 1958.
+</p>
+<p id="p_7">6.      Aggrieved by the same, the complainant (respondent no.2)
+preferred an appeal (Appeal under <a href="/doc/1233094/" id="a_6">Section 378</a> of the CrPC) before the
+learned Additional Sessions Judge. It was contended on behalf of
+respondent that the injuries suffered by her were grievous in nature and
+therefore, the petitioner ought to have been convicted of an offence
+under <a href="/doc/1133601/" id="a_7">Section 325</a> of the IPC. The Appellate Court (learned ASJ)
+accepted the aforesaid contention and by an order dated 14.01.2016,
+allowed the appeal and remanded the matter to the learned Chief
+Metropolitan Magistrate. The Appellate Court also directed the parties
+to appear before the said Court on 28.01.2016.
+</p>
+<p id="p_8">7.      The learned Metropolitan Magistrate considered the matter afresh
+and convicted the petitioner of the offence under <a href="/doc/1133601/" id="a_8">Section 325</a> of the IPC
+on the ground that he had already pleaded guilty on 03.03.2015.
+Considering the facts obtaining in the case, the Trial Court observed that
+ends of justice would be served if the petitioner is admonished for the
+offence under <a href="/doc/1133601/" id="a_9">Section 325</a> of the IPC and be additionally burdened to
+pay compensation to the complainant. Accordingly, the learned CMM,
+by an order dated 15.09.2016, admonished the petitioner and directed
+him to pay compensation of ₹80,000/- to the complainant. The Court
+further directed that if the petitioner failed to pay the compensation as
+directed, he would be liable to serve simple imprisonment for a period
+
+
+
+
+<span class="hidden_text" id="span_3">W.P.(CRL) 2576/2018                                            Page 3 of 13</span>
+ of one year. The matter was relisted on 14.10.2016 for payment of
+compensation.
+</p>
+<p id="p_9">8.      On 14.10.2016, the petitioner's wife brought the compensation
+amount of ₹80,000/- and tendered the same. The complainant
+(respondent no.2) declined to receive the said amount and the Trial
+Court recorded her statement to the said effect. The Trial Court
+admonished the petitioner for the offence under <a href="/doc/1133601/" id="a_10">Section 325</a> of the IPC
+and also clarified that no disqualification would be attracted in terms of
+the provisions of the <a href="/doc/167447/" id="a_11">Probation of Offenders Act</a>, 1958. The Trial Court
+further clarified that the conviction would not have any adverse effect
+on the petitioner's service. Aggrieved by the aforesaid orders (order
+dated 15.09.2016 and 14.10.2016) respondent no.2 preferred an appeal
+(CA No. 1230/2016) before the Learned ASJ. The memorandum of
+appeal has been handed over to this Court.
+</p>
+<p id="p_10">9.      A perusal of the appeal indicates that respondent no.2 is,
+essentially, aggrieved by the sentence awarded to the petitioner.
+According to respondent no.2, the said sentence in inadequate.
+Respondent no.2 also claims that the petitioner was not entitled to
+exemption from disqualification under the <a href="/doc/167447/" id="a_12">Probation of Offenders Act</a>,
+1958.
+</p>
+<p id="p_11">10.     The Trial Court passed an order dated 31.01.2017 directing that
+the appeal preferred by respondent no.2 be treated as one under <a href="/doc/1233094/" id="a_13">Section
+372</a> of the CrPC. The appellate court disposed of the appeal by an order
+
+
+
+
+<span class="hidden_text" id="span_4">W.P.(CRL) 2576/2018                                            Page 4 of 13</span>
+ dated 04.06.2018 and the same is impugned by way of the present
+petition.
+</p>
+<p id="p_12">11.     The Appellate Court held that the learned CMM ought to have
+altered the charge and conducted the trial after altering the charge to
+<a href="/doc/1133601/" id="a_14">Section 325</a> of the IPC. The Court also noted that the petitioner had
+pleaded guilty to an offence under <a href="/doc/1011035/" id="a_15">Section 323</a> of the IPC and not to an
+offence under <a href="/doc/1133601/" id="a_16">Section 325</a> of the IPC. Consequently, the appeal was
+allowed and the orders passed by the learned CMM on 15.09.2016 and
+14.10.2016 in relation to FIR No. 295/2006 were set aside. The matter
+was remanded to the learned CMM for proceeding with the case in
+accordance with law after altering the charge, as directed by the earlier
+order dated 14.10.2016.
+</p>
+<p id="p_13">12.     The principal question to be addressed in the present petition is
+whether an appeal under <a href="/doc/1233094/" id="a_17">Section 372</a> of the CrPC was maintainable at
+the instance of respondent no.2 (the victim). It is contended on behalf
+of the petitioner that respondent no.2 had preferred an appeal under
+<a href="/doc/1233094/" id="a_18">Section 372</a> of the CrPC for enhancing the punishment imposed on the
+petitioner as, according to her, the same is wholly inadequate. He
+submitted that respondent no.2 had made no grievance regarding
+inadequacy of compensation directed to be paid. On the contrary, she
+had recorded her statement declining to accept the compensation.
+</p>
+<p id="p_14">13.     Mr Rajesh Mahajan, learned ASC, has supported the contention
+advanced by the petitioner. He submitted that the proviso to <a href="/doc/1233094/" id="a_19">Section 372</a>
+of the CrPC does not entitle the victim to file an appeal on account of
+
+
+
+
+<span class="hidden_text" id="span_5">W.P.(CRL) 2576/2018                                            Page 5 of 13</span>
+ inadequacy of sentence. He submitted that an appeal on the said ground
+could only be filed by the State. He referred to the decision of the
+Supreme Court in National Commission for <a href="/doc/45896076/" id="a_20">Women v. State of Delhi
+&amp; Anr</a>.: (2010) 12 SCC 599 in support of his contention. He also pointed
+out the decision of the coordinate Bench of this Court in Shikha
+Beniwal v. State &amp; Anr.: Crl. A. 1320/2012, decided on 18.02.2015,
+wherein an observation had been made that an appeal filed by the
+complainant victim for enhancement of sentence is akin to the State's
+appeal for enhancement of sentence under <a href="/doc/1233094/" id="a_21">Section 377</a> of the CrPC. He
+also submitted that the said Bench had, in a subsequent decision in
+<a href="/doc/106795343/" id="a_22">Shakeel Ahmed v. State of NCT of Delhi &amp; Ors</a>.: Crl. A. 528/2012,
+decided on 25.05.2015, accepted the view that the scope of an appeal
+preferred by a victim under <a href="/doc/1233094/" id="a_23">Section 372</a> of the CrPC was limited.
+</p>
+<p id="p_15">14.     Mr Manjeet Singh, learned counsel appearing for respondent no.
+2, countered the aforesaid submissions. He referred to the decision of
+the Supreme Court in Mallikarjun Kodagali (dead) represented thr.
+<a href="/doc/51426077/" id="a_24">Legal Representatives v. State of Karnataka &amp; Ors</a>.: Crl. Appeal No.
+1281-82/2018, decided on 12.10.2018. He submitted that M.B. Lokur,
+J. speaking for himself and S. Abdul Nazeer, J., had emphasized the
+rationale for providing the victim a right to appeal. He submitted that
+given such right, the victim would also have a right to challenge the
+inadequacy of sentence awarded. He further submitted that de hors the
+provisions of <a href="/doc/1233094/" id="a_25">Section 372</a> of the CrPC, a victim would always have the
+right to challenge an order passed by the Trial Court imposing an
+inadequate sentence convicting the accused. He stated that in the present
+
+
+
+
+<span class="hidden_text" id="span_6">W.P.(CRL) 2576/2018                                           Page 6 of 13</span>
+ case, simply because the State had not filed an appeal, the victim could
+not be rendered remediless.
+</p>
+<p id="p_16">15.     He also referred to the decision of the Division Bench of this
+Court in <a href="/doc/18210095/" id="a_26">Mahesh Rai v. The State Government of NCT of Delhi</a>: Crl.
+A. No. 1075/2017, decided on 13.05.2019. He submitted that in that
+case, the father of the deceased victim had also filed an appeal (Crl. A.
+31/2018) seeking enhancement of the sentence awarded and the same
+was allowed. He submitted that this also indicated that an appeal seeking
+enhancement of sentence awarded to the accused was maintainable.
+</p>
+<p id="p_17">Reasons and Conclusion
+
+</p><p id="p_18">16.     The issue as to the rights available to victims has been much
+debated in recent times. This was also one of the subjects dealt with in
+the 154th Report of the Law Commission of India submitted in the year
+1990. In March, 2003 the Committee on Reforms of Criminal Justice
+System, referred to as the 'Justice Malimath Committee', had
+recommended that a victim should also have a right to prefer an appeal.
+The recommendation made by the said Committee reads as under:-
+</p>
+<blockquote id="blockquote_1">           "The victim shall have a right to prefer an appeal
+           against any adverse order passed by the court
+           acquitting the accused, convicting for a lesser
+           offence, imposing inadequate sentence, or granting
+           inadequate compensation. Such appeal shall lie to
+           the court to which an appeal ordinarily lies against
+           the order of conviction of such court."
+</blockquote>
+
+
+
+<span class="hidden_text" id="span_7">W.P.(CRL) 2576/2018                                               Page 7 of 13</span>
+<p id="p_19"> 17.     Subsequently, <a href="/doc/1233094/" id="a_27">Section 372</a> of the CrPC was amended with effect
+from 31.12.2009. The said Section, as amended, reads as under:-
+</p>
+<blockquote id="blockquote_2">           "372. No appeal to lie unless otherwise provided.
+</blockquote><blockquote id="blockquote_3">           - No appeal shall lie from any judgment or order of
+           a Criminal Court except as provided for by this Code
+           or by any other law for the time being in force:
+</blockquote>
+<blockquote id="blockquote_4">           Provided that the victim shall have a right to prefer
+           an appeal against any order passed by the Court
+           acquitting the accused or convicting for a lesser
+           offence or imposing inadequate compensation, and
+           such appeal shall lie to the Court to which an appeal
+           ordinarily lies against the order of conviction of such
+           Court."
+</blockquote>
+<p id="p_20">18.     A plain reading of the proviso to <a href="/doc/1233094/" id="a_28">Section 372</a> of the CrPC
+indicates that the victim also has a right to prefer an appeal against an
+order passed by the Court in the following circumstances - (a) acquitting
+the accused; or (b) convicting the accused for a lesser offence; or (c)
+imposing inadequate compensation.
+</p>
+<p id="p_21">19.     The proviso to <a href="/doc/1233094/" id="a_29">Section 372</a> of the CrPC does not contemplate an
+appeal against an order of a Court imposing an inadequate
+sentence/punishment. It is well settled that there is no inherent right of
+an appeal and the said right is a statutory right and is available only if it
+is conferred by a statute. In several decisions, an appeal has been
+described as a creature of a statute.         (See: Hindustan Petroleum
+Corporation Ltd. v. Dilbahar Singh: (2014) 9 SCC 102). In National
+Commission for Women (supra), the Supreme Court had observed that
+"an appeal is a creature of a statute and cannot lie under any inherent
+
+
+
+
+<span class="hidden_text" id="span_8">W.P.(CRL) 2576/2018                                                  Page 8 of 13</span>
+ power". In view of the above, the contention that respondent no. 2 has
+an inherent right to appeal against an order of a court imposing
+inadequate punishment on the accused, is unmerited.
+</p>
+<p id="p_22">20.     The proviso to <a href="/doc/1233094/" id="a_30">Section 372</a> of the CrPC provides a limited right
+to the victim to file an appeal. The plain language of the said proviso
+indicates that it does not contemplate an appeal against an inadequate
+sentence.
+</p>
+<p id="p_23">21.     In National Commission for Women (supra), the Supreme Court
+had observed as under:-
+</p>
+<blockquote id="blockquote_5">      "8. Chapter XXIX of the Code of Criminal Procedure deals
+      with "Appeal(s)". Section 372 specifically provides that no
+      appeal shall lie from a judgment or order of a criminal
+      court except as provided by the Code or by any other law
+      which authorizes an appeal. The proviso inserted by
+      Section 372 (Act 5 of 2009) with effect from 31-12-2009,
+      gives a limited right to the victim to file an appeal in the
+      High Court against any order of a criminal court acquitting
+      the accused or convicting him for a lesser offence or the
+      imposition of inadequate compensation. The proviso may
+      not thus be applicable as it came in the year 2009 (long
+      after the present incident) and, in any case, would confer a
+      right only on a victim and also does not envisage an appeal
+      against an inadequate sentence. An appeal would thus be
+      maintainable only under Section 377 to the High Court as
+      it is effectively challenging the quantum of sentence."
+</blockquote><blockquote id="blockquote_6">                                               (emphasis applied)
+
+</blockquote><blockquote id="blockquote_7">22.     The decision of the Division Bench of this Court in Mahesh Rai
+(supra) is of little assistance to respondent no. 2. In that case, the
+accused had preferred an appeal against a judgment convicting him
+
+
+
+
+<span class="hidden_text" id="span_9">W.P.(CRL) 2576/2018                                             Page 9 of 13</span>
+ under <a href="/doc/838469/" id="a_31">Sections 452</a> and <a href="/doc/1560742/" id="a_32">302</a> of the IPC and also against the order of
+sentence. The State had also preferred an appeal seeking enhancement
+of the sentence. All the three appeals were heard together. A plain
+reading of the decision indicates that no issue had been raised or
+considered regarding the maintainability of the appeal preferred by the
+father of the deceased victim.
+</blockquote>
+<p id="p_24">23.     In Shikha Beniwal (supra), the coordinate Bench of this Court
+had referred to the decision of the Supreme Court in <a href="/doc/178937875/" id="a_33">Jagmohan Bhola
+v. Dilbagh Rai Bhola &amp; Ors</a>.: 2011 (2) JCC 777 and following the said
+decision, had observed that an appeal filed by the complainant victim
+was for enhancement of sentence was akin to a State's appeal for
+enhancement of sentence under <a href="/doc/1233094/" id="a_34">Section 377</a> of the CrPC. A plain
+reading of the decision in Jagmohan Bhola (supra) indicates that the
+observations made by the Court in that decision were in the context of
+whether a leave to appeal was necessary for preferring an appeal under
+<a href="/doc/1233094/" id="a_35">Section 372</a> of the CrPC. The Division Bench of this Court was not
+called upon to consider the question whether an appeal by a victim is
+maintainable for enhancement of the punishment imposed.
+</p>
+<p id="p_25">24.     It is also relevant to note that the view expressed by the coordinate
+Bench of this Court in Shikha Beniwal (supra) was not followed by the
+bench in a later decision in Shakeel Ahmed (supra).
+</p>
+<p id="p_26">25.     Before concluding, it is also relevant to refer to the decision of
+the Full Bench of the Gujarat High Court in <a href="/doc/119553451/" id="a_36">Bhavuben Dineshbhai
+Makwana v. State of Gujarat &amp; Others</a>: (2013) 3 MWN (Cri) 268 (FB).
+</p>
+
+
+
+<span class="hidden_text" id="span_10">W.P.(CRL) 2576/2018                                               Page 10 of 13</span>
+<p id="p_27"> In that case, the Full Bench had, inter alia, framed the following
+questions for consideration: -
+</p>
+<blockquote id="blockquote_8">        "(i). Whether an appeal filed by the victim, invoking his
+        right under proviso to <a href="/doc/1233094/" id="a_37">section 372</a> of Cr.P.C, challenging
+        acquittal, or conviction for a lesser offence, or awarding
+        inadequate compensation, is not maintainable, on the
+        ground that the State has filed an appeal against the same
+        order and for the same purpose?
+</blockquote>
+<blockquote id="blockquote_9">        (ii). Whether an appeal filed by the State should not be
+        entertained, on the ground that the appeal preferred by the
+        victim invoking his right under proviso to <a href="/doc/1233094/" id="a_38">section 372</a> of
+        Cr.P.C., against the same order, is admitted by the Court?
+</blockquote>
+<blockquote id="blockquote_10">        (iii). If the victim prefers an appeal before this Court,
+        challenging the acquittal, invoking his right under
+        proviso to <a href="/doc/1233094/" id="a_39">section 372</a> of Cr.P.C., whether that appellant
+        is required to first seek leave of the Court, as is required
+        in case of appeal being preferred by the State?"
+</blockquote>
+<p id="p_28">26.     After analyzing the provisions of the Act and after considering
+the earlier issues, the Court had held as under:-
+</p>
+<blockquote id="blockquote_11">                "18. We further find that in taking the above view,
+                the Division Bench in the above matter failed to
+                take into consideration the fact that the scope of
+                appeal at the instance of the victim is different from
+                that of an appeal filed by the State. It appears that
+                the victim (as defined in <a href="/doc/1904461/" id="a_40">Section 2(wa)</a> of the Code)
+                shall have a right to prefer an appeal in the
+                following 3 types of cases:
+</blockquote><blockquote id="blockquote_12">                (i) Acquittal of the accused
+</blockquote><blockquote id="blockquote_13">                (ii) Convicting of the accused for a lesser offence
+</blockquote><blockquote id="blockquote_14">                (iii) Imposing inadequate compensation
+
+
+
+
+<span class="hidden_text" id="span_11">W.P.(CRL) 2576/2018                                                Page 11 of 13</span>
+                 18.1 In other words, the victim has no right to prefer
+                an Appeal against 'inadequacy of sentence', a right
+                which is available only to the State. The State,
+                however, does not have any right to file any Appeal
+                against "inadequacy of Compensation", a right,
+                which is available only to a victim.
+</blockquote><blockquote id="blockquote_15">                19. The term 'inadequacy of sentence' has a special
+                connotation and a distinct statutory demarcation if
+                the provisions of <a href="/doc/1233094/" id="a_41">Section 375(d)</a> and <a href="/doc/1233094/" id="a_42">Section 377</a> of
+                the Code are compared. Scheme of <a href="/doc/1233094/" id="a_43">Section 377</a>,
+                which provides for right of Appeal to the
+                State/Prosecution, is entirely different from the
+                right of Appeal conferred upon a victim under the
+                Proviso to <a href="/doc/1233094/" id="a_44">Section 372</a> of the Code. Under the
+                scheme of <a href="/doc/1233094/" id="a_45">Section 377</a> not only the
+                State/Prosecution can file an Appeal based upon
+                inadequacy of sentence, but even the Accused can
+                plead for his acquittal or for reduction of the
+                sentence as contemplated under <a href="/doc/1233094/" id="a_46">Section 377(3)</a> of
+                the Code.
+</blockquote><blockquote id="blockquote_16">                20. As against this, if the scheme of Proviso to
+                <a href="/doc/1233094/" id="a_47">Section 372</a> of the Code is compared, only a victim
+                has an absolute right to file an Appeal challenging
+                imposition of inadequate Compensation in addition
+                to the right of Appeal against acquittal and also
+                challenging the conviction based on lesser offence.
+                There is, however, no provision in the entire Code
+                empowering the State Prosecution to file an Appeal
+                against    an     order     imposing     inadequate
+                Compensation.
+</blockquote><blockquote id="blockquote_17">                21. In light of different types of right of Appeal
+                provided to the victim and to the State/Prosecution,
+                it will not be proper to hold that the right of either
+                of them is dependent upon the other. To put it
+                differently, only victim can file an Appeal against
+                an order of imposing 'inadequate Compensation' in
+                addition to his right of Appeal against acquittal and
+
+
+
+<span class="hidden_text" id="span_12">W.P.(CRL) 2576/2018                                                Page 12 of 13</span>
+                 convicting the Accused for a lesser offence and
+                therefore, to club his right and make it dependent
+                upon the exercise of right of Appeal at the instance
+                of the State would be not only be unworkable, but
+                would run contrary to the scheme and lead to
+                absurdity."
+</blockquote>
+
+<p id="p_29">27.     In view of the above the appeal (Criminal Appeal 1230/2016)
+preferred by respondent no.2 was not maintainable. Accordingly, the
+present petition is allowed and the impugned order is set aside as The
+pending application is also disposed of.
+</p>
+<p id="p_30">28.     The parties are left to bear their own costs.
+</p>
+
+
+
+<p id="p_31">                                                    VIBHU BAKHRU, J
+NOVEMBER 01, 2019
+RK/pkv
+
+
+
+
+<span class="hidden_text" id="span_13">W.P.(CRL) 2576/2018                                              Page 13 of 13</span>
+ </p> 
+    </div>
+
+
+
+
+
+
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-1.11.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/jquery-ui.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/static/js/pylaw/utils_v7.js"></SCRIPT>
+       
+    
+
+
+
+
+
+
+</body>
+
+</html>
