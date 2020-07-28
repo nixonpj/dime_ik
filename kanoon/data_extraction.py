@@ -27,9 +27,10 @@ def extract_to_df(zip_folder, list_of_textfiles):
     judges = []
     banks = []
     citations = []
+    acts = []
     count = 0
     for filename in list_of_textfiles:
-        count += 1
+        # count += 1
         # if count > 5:
         #     break
         with zip_folder.open(filename) as f:
@@ -60,11 +61,13 @@ def extract_to_df(zip_folder, list_of_textfiles):
             cnr_nums.append(ik.extract_cnr(text))
             judges.append(ik.extract_judges(text, soup))
             banks.append(ik.extract_banks(text, list_of_banks))
-            citations.append(ik.extract_citations(filename, str(soup)))
+            citations_cited, acts_cited = ik.extract_citations(filename, str(soup))
+            citations.append(citations_cited)
+            acts.append(acts_cited)
     df = pd.DataFrame({'file': files, 'cnr_num': cnr_nums, 'title': titles, 'date': dates,
                        'court': courts, 'case_number': case_nums, 'petitioner': petitioner, 'respondent': respondent,
                        'petitioner_advocate': petitioner_advocates, 'respondent_advocate': respondent_advocates,
-                       'judge': judges, 'banks': banks, 'citations': citations})
+                       'judge': judges, 'banks': banks, 'cases_cited': citations, 'acts_cited': acts})
     return df
 
 

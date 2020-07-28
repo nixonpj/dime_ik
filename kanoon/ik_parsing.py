@@ -151,14 +151,18 @@ def extract_state(text):
 
 def extract_citations(filename, text):
     try:
-        citations = set(re.findall("""/doc/(\d*)""", text, flags=re.IGNORECASE))
+        citation_set = set(re.findall("""/doc/(\d*)""", text, flags=re.IGNORECASE))
+        acts_set = set(re.findall("""/doc/(\d*).*(?:section|constitution|penal|act|code).*<""", text, flags=re.IGNORECASE))
         # print(citations)
-        citations.discard('')
+        citation_set.discard('')
         # Every case cites itself for newer cases due to website structure. Comment below line if you do want that.
-        citations.discard(filename[filename.rfind('/')+1:-4])
-        if citations:
-            return citations
-        return np.nan
+        citation_set.discard(filename[filename.rfind('/')+1:-4])
+        citation_set = citation_set - acts_set
+        # if not citations:
+        #     citations = np.nan
+        # if not acts:
+        #     acts = np.nan
+        return citation_set, acts_set
     except AttributeError:
         return np.nan
 
