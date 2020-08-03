@@ -75,7 +75,7 @@ head, tail = os.path.split(os.getcwd())
 list_of_court_folders = os.listdir(os.path.join(head, 'IK_data'))
 
 
-def extract_data(court, year_start=2000, year_end=2019):
+def extract_data(court, year_start=1980, year_end=2006):
     start_time = time.time()
     list_of_dfs = []
     with zipfile.ZipFile(os.path.join(head, 'IK_data', court + '.zip'), 'r') as zip_folder:
